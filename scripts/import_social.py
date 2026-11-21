@@ -50,6 +50,10 @@ ALIASES = {
     "guachipelin": ("hacienda guachipelin", "rio negro hot springs", "aguas termales de rio negro"),
     "catalinas-sup": ("playa danta",),
     "la-paz-waterfalls": ("la paz waterfall gardens",),
+    "garza-rosada-low-tide": ("playa cuarzo", "playa rosada de nosara", "playa rosada, nosara"),
+    "samara-cocos-beach-camp": ("camping cocos", "los cocos samara"),
+    "sardinal-sukka-camper": ("camping sukka",),
+    "vara-blanca-donde-lalo-tipis": ("donde lalo tipis", "donde lalo hospedaje"),
 }
 
 

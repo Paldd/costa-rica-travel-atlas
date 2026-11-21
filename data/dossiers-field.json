@@ -472,6 +472,14 @@
           "adventure-camp-rules",
           "adventure-park"
         ]
+      },
+      {
+        "title": "Разветвления MTB",
+        "text": "Оператор указывает 30 км всей сети, 2 линии подъёма и 7 спусков. Средний круг подъём–спуск около 4 км. В кассе уточняются открытые линии и отдельная машина для спуска.",
+        "sources": [
+          "adventure-en-rules",
+          "adventure-mtb-record-2012"
+        ]
       }
     ],
     "contacts": [
@@ -486,7 +494,8 @@
     "nearby": [
       "adventure-camp",
       "braulio-barva",
-      "adventure-park-campfire-weekend"
+      "adventure-park-campfire-weekend",
+      "barva-paso-llano-birri-cycle"
     ],
     "track": "adventure-directions",
     "galleries": [
@@ -526,6 +535,15 @@
         "sources": [
           "adventure-park-camping-fogatas"
         ]
+      },
+      {
+        "title": "Въезд 4×4 и условия ночи",
+        "text": "В объявлениях FAQ и января 2026 указаны выделенные костровые места, дрова и въезд 4×4. Формат крыши выбирается с хозяевами. В FAQ указан исторический ориентир ₡8 000 за первую ночь, проверьте цену перед поездкой.",
+        "sources": [
+          "adventure-en-rules",
+          "adventure-approach-host",
+          "adventure-2026-publisher-copy"
+        ]
       }
     ],
     "contacts": [
@@ -542,12 +560,16 @@
       "braulio-barva",
       "cerro-dantas-10",
       "adventure-park-campfire-weekend",
-      "finca-colasa-view-campfire"
+      "finca-colasa-view-campfire",
+      "barva-paso-llano-birri-cycle"
     ],
     "track": "adventure-directions",
     "galleries": [
       "adventure-park-camping-fogatas",
       "adventure-local-trip"
+    ],
+    "videos": [
+      "adventure-hike-film"
     ]
   },
   "prusia": {
@@ -791,7 +813,8 @@
     "nearby": [
       "adventure-camp",
       "adventure-mtb",
-      "braulio-quebrada"
+      "braulio-quebrada",
+      "barva-paso-llano-birri-cycle"
     ],
     "track": "braulio-sectors-map"
   },

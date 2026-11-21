@@ -6647,5 +6647,262 @@
       }
     ],
     "distance": null
+  },
+  {
+    "id": "samara-garza-camp-bike-water-3",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Самара — Гарса · 3 дня с палаткой, MTB и выходом в море",
+    "native": "Sámara · Camping Los Cocos · Cerros de Carrillo · Playa Garza · El Tiguacal",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "camping",
+      "car",
+      "mtb",
+      "cycling",
+      "surf",
+      "boat",
+      "catamaran",
+      "fishing",
+      "beach"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "cocos-samara-camping-contact",
+      "samara-varco-mtb",
+      "tiguacal-host",
+      "garza-seasaw-cat-terms",
+      "garza-monkey-fishing",
+      "imn-tides-table"
+    ],
+    "summary": "Две прибрежные ночёвки. Вариант для компании разного уровня, где можно покататься по грунтовкам, взять урок сёрфа и выбрать утренний выход в Гарсе.",
+    "plan": "Первая ночь в Самаре. Утром второго дня MTB или урок сёрфа, затем переезд к лагерю El Tiguacal в Гарсе. Третий день оставьте под одну лодку, выбранную по прогнозу и составу группы.",
+    "conditions": "Оба лагеря публикуют места для наземных палаток. Палатки на машине требуют согласия хозяев. Лодочный рейс сверяют по приливам, погоде и дню недели.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Самара, пляж и первая ночь",
+        "note": "Заселитесь в Los Cocos засветло. Сверьте душ, воду и парковку. Для детей оставьте пляжную прогулку и будьте на берегу при сильном прибое.",
+        "stops": [
+          "samara-cocos-beach-camp",
+          "samara"
+        ],
+        "sources": [
+          "cocos-samara-camping-contact",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "MTB или ранний сёрф, затем Гарса",
+        "note": "Выберите 3 часа с Varco для подростков и взрослых или короткий урок у берега. По публичной дороге езжайте в Гарсу и согласуйте ориентир El Tiguacal.",
+        "stops": [
+          "samara-carrillo-mtb-varco",
+          "pato-samara-school",
+          "garza-el-tiguacal-camp"
+        ],
+        "sources": [
+          "samara-varco-mtb",
+          "pato-surf",
+          "tiguacal-camp-pin",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Панга или катамаран",
+        "note": "Панга подходит небольшой группе. Для спокойного дня проверьте доступность катамарана, оставьте запас на посадку с берега и время выезда из лагеря.",
+        "stops": [
+          "garza-panga-fishing",
+          "garza-sea-saw-catamaran"
+        ],
+        "sources": [
+          "garza-monkey-fishing",
+          "garza-seasaw-cat-terms",
+          "incopesca-sport-fishing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "la-cruz-casa-soley-water-3",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Темпаталь и залив Салинас · 3 дня с кемпингом и лодкой",
+    "native": "Casa Soley · Puerto Soley · Papaturro · Copal · Rajada · Cuajiniquil",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "camping",
+      "car",
+      "kitesurf",
+      "boat",
+      "fishing",
+      "beach",
+      "views",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "soley-casa-camping-contact",
+      "soley-la-cruz-ict",
+      "salinas-blue-dream-lesson",
+      "salinas-blue-dream-directions",
+      "teletica-rajada-2026-on-location"
+    ],
+    "summary": "Две ночи в Темпатале с короткими выездами к разным берегам Салинаса. В программу можно включить урок кайта на Копале и лодку у Куахиникиля.",
+    "plan": "День заезда проведите у Пуэрто-Солей. Во второй день выберите школьное занятие или пляж Рахада. На третий день переезжайте к причалу или в заказник Хункильяль.",
+    "conditions": "Ограничения ветра и прилива определяют порядок. Для обычной машины сверяют состояние съездов к пляжам. Машину оставляют на выделенном месте на суше.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Темпаталь и берега Пуэрто-Солей",
+        "note": "Уточните ворота Casa Soley. После размещения пройдите короткий береговой участок у мангров, если позволяет прилив. Вернитесь на ночёвку в частный лагерь.",
+        "stops": [
+          "la-cruz-casa-soley-camp",
+          "puerto-soley-shore-day"
+        ],
+        "sources": [
+          "soley-casa-camping-contact",
+          "soley-la-cruz-ict",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Папатурро, Копаль или Рахада",
+        "note": "Урок по ветру утром или в согласованное окно. У семейной группы отдельная береговая прогулка. Рахаду оставьте второй активностью только при светлом и сухом подъезде.",
+        "stops": [
+          "salinas-papaturro-copal-kite",
+          "rajada-salinas-beach"
+        ],
+        "sources": [
+          "salinas-blue-dream-lesson",
+          "salinas-blue-dream-directions",
+          "teletica-rajada-2026-on-location"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Рыбацкий посёлок или лес заказника",
+        "note": "В Куахиникиле выберите короткую местную лодку по бухтам или рыбалку с капитаном. Ставить лагерь дальше можно только по отдельной резервации у заказника.",
+        "stops": [
+          "cuajiniquil-local-mangrove-boat",
+          "cuajiniquil-la-cruz-inshore-fishing",
+          "junquillal"
+        ],
+        "sources": [
+          "soley-la-cruz-ict",
+          "junquillal-booking",
+          "incopesca-sport-fishing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "san-lorenzo-wildcamp-6-12-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Сан-Лоренсо · выходные с автопалаткой и прогулками на 6 или 12 км",
+    "native": "Wildcamp Costa Rica · La Colonia · Senderos de montaña",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "rooftent",
+      "hiking",
+      "forest",
+      "river",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "wildcamp-camp-host-listing",
+      "wildcamp-yoko",
+      "wildcamp-social-copy"
+    ],
+    "summary": "Одна ночь в лесном лагере и пеший день с короткой прогулкой к смотровой или длинным маршрутом. Для машины с палаткой и наземных палаток предусмотрены варианты размещения.",
+    "plan": "Заезжайте днём с едой и картой офлайн. Вечером выберите с хозяевами линию. Утром пройдите один маршрут и вернитесь к лагерю до выезда.",
+    "conditions": "Расстояния приводит хозяин. Проходы, высоты и точку разворота уточняют в лагере. Доступ к воде и огонь согласуются по условиям на день поездки.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Заезд и короткая лесная прогулка",
+        "note": "Перед потерей сигнала проверьте пин. Поставьте лагерь, отметьте выход к машине и пройдите короткую ветку засветло.",
+        "stops": [
+          "san-lorenzo-wildcamp-roof"
+        ],
+        "sources": [
+          "wildcamp-camp-host-listing",
+          "wildcamp-yoko"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Смотровая или длинная линия",
+        "note": "Уточните, какие именно 6 или 12 км открыты после осадков. Если группа разного уровня, короткий вариант проще сочетать с выездом днём.",
+        "stops": [
+          "san-lorenzo-wildcamp-roof"
+        ],
+        "sources": [
+          "wildcamp-camp-host-listing",
+          "wildcamp-social-copy"
+        ]
+      }
+    ]
   }
 ]

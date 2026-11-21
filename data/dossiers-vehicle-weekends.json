@@ -925,6 +925,15 @@
           "ict-esterillos-palo-seco-coast",
           "aloha-esterillos-family-instructor"
         ]
+      },
+      {
+        "title": "Береговой ориентир после урока",
+        "text": "На камнях Эстерильос-Оэсте стоит бронзовая русалка. Муниципалитет указывает, что при приливе вода закрывает основание скульптуры. Смотрите с безопасного берега и уточните границы урока у инструктора.",
+        "sources": [
+          "parrita-esterillos-shore",
+          "adondeir-esterillos-sirena",
+          "imn-tides-table"
+        ]
       }
     ],
     "contacts": [

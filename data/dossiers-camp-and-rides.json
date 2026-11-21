@@ -1,0 +1,996 @@
+{
+  "samara-cocos-beach-camp": {
+    "stops": [
+      {
+        "point": "samara-cocos-camp-pin",
+        "role": "Заезд к кемпингу",
+        "note": "Попросите номер ворот. Местные метки находятся в пределах одного квартала."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что есть на площадке",
+        "text": "Указаны туалеты, душ, вода, электричество, хозяйственные раковины и парковка. Спросите, нужна ли своя вилка или удлинитель, и сколько стоит машина.",
+        "sources": [
+          "cocos-samara-camping-contact",
+          "cocos-samara-yoko"
+        ]
+      },
+      {
+        "title": "Что видно в отчётах",
+        "text": "В старом местном обзоре отмечали близость воды и спокойный формат. Для современной связи используйте номер из двух совпадающих каталогов. На пляж выходят пешком, состояние прибоя и время отлива проверяют отдельно.",
+        "sources": [
+          "cocos-samara-voz",
+          "imn-tides-table",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Los Cocos",
+        "source": "cocos-samara-camping-contact",
+        "note": "Запросите дату, место машины, электричество и условия крыши и костров.",
+        "phone": "+506 6132 6712",
+        "url": "https://wa.me/50661326712"
+      }
+    ],
+    "track": "cocos-samara-camping-contact",
+    "nearby": [
+      "samara",
+      "pato-samara-school",
+      "samara-carrillo-mtb-varco",
+      "samara-garza-camp-bike-water-3"
+    ],
+    "galleries": [
+      "cocos-samara-yoko"
+    ],
+    "photos": [
+      "samara-beach-commons"
+    ],
+    "connectStops": false
+  },
+  "la-cruz-casa-soley-camp": {
+    "stops": [
+      {
+        "point": "soley-casa-entry-ref",
+        "role": "Подъезд к площадке в Темпатале",
+        "note": "Каталоги отмечают разные точки на последнем подъезде. Попросите пин ворот."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Со своей палаткой или в домик",
+        "text": "Палаточный справочник указывает ₡5 000 с взрослого и ₡3 000 с ребёнка до 15 лет за ночь. Домики бронируются отдельно. Проверьте цену, вместимость и наличие места для автомобиля.",
+        "sources": [
+          "soley-casa-camping-contact",
+          "soley-casa-yoko"
+        ]
+      },
+      {
+        "title": "Что отмечали гости",
+        "text": "В апреле 2023 гость описал чистые душевые и общую кухню. Более свежая карточка бронирования позволяет сверить отзывы о домиках и адрес, указанный хозяевами.",
+        "sources": [
+          "soley-casa-camping-contact",
+          "soley-casa-guest"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Soley · Темпаталь",
+        "source": "soley-casa-camping-contact",
+        "note": "Палаточная площадка или домик, свежий пин ворот, тариф и размещение машины.",
+        "phone": "+506 8347 8943",
+        "url": "https://wa.me/50683478943"
+      }
+    ],
+    "track": "soley-casa-camping-contact",
+    "nearby": [
+      "salinas-papaturro-copal-kite",
+      "rajada-salinas-beach",
+      "junquillal",
+      "la-cruz-casa-soley-water-3"
+    ],
+    "galleries": [
+      "soley-casa-yoko",
+      "soley-casa-guest"
+    ],
+    "connectStops": false
+  },
+  "san-lorenzo-wildcamp-roof": {
+    "stops": [
+      {
+        "point": "san-lorenzo-wildcamp-pin",
+        "role": "Подъезд к Wildcamp",
+        "note": "Подтвердите клиренс и попросите ориентир последнего поворота до потери сигнала."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка на колёсах",
+        "text": "Хозяева приглашают гостей с палаткой на машине и публиковали съёмку такого ночлега. Попросите ровное место и свободный край для лестницы. Домик заявлен на четырёх человек, есть газовая кухня и солнечное питание.",
+        "sources": [
+          "wildcamp-camp-host-listing",
+          "wildcamp-social-copy"
+        ]
+      },
+      {
+        "title": "6 или 12 км",
+        "text": "Короткая прогулка ведёт к смотровой. Для маршрута около 12 км адресуйтесь к проводнику, чтобы узнать набор, время, проходы по частной земле и место разворота. В схеме показан въезд.",
+        "sources": [
+          "wildcamp-camp-host-listing"
+        ]
+      },
+      {
+        "title": "Снаряжение и берег реки",
+        "text": "Возьмите обувь с протектором, лёгкую защиту от дождя, запас питьевой воды, фонарь и карту офлайн. Опубликованная вместимость ограничена. Отдельно спросите, где допускают костёр и что открыто у воды.",
+        "sources": [
+          "wildcamp-camp-host-listing",
+          "wildcamp-yoko"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Wildcamp Costa Rica",
+        "source": "wildcamp-camp-host-listing",
+        "note": "Пин последнего поворота, место для палатки на машине, трансфер, тропы и состояние реки.",
+        "phone": "+506 8735 0485",
+        "url": "https://wa.me/50687350485"
+      }
+    ],
+    "track": "wildcamp-camp-host-listing",
+    "nearby": [
+      "sanramon-roca-vista-fire-camp"
+    ],
+    "galleries": [
+      "wildcamp-yoko",
+      "wildcamp-social-copy"
+    ],
+    "connectStops": false
+  },
+  "vara-blanca-donde-lalo-tipis": {
+    "stops": [
+      {
+        "point": "vara-lalo-entry-ref",
+        "role": "Заезд по карте Donde Lalo",
+        "note": "В адресе владельца ориентир расположен до моста через Río Azufre."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Своё снаряжение или типи",
+        "text": "Есть места для наземных палаток. В описании Cabécar указано до четырёх гостей, у других типов планировка отличается. Возьмите тёплый слой, фонарь и сухую одежду, даже если спите внутри.",
+        "sources": [
+          "vara-lalo-site",
+          "vara-lalo-gallery"
+        ]
+      },
+      {
+        "title": "Что сняла Teletica",
+        "text": "В репортаже показаны короткие тропы, укрытия и небольшие водные каскады. Для посещения с малышами уточните границы прогулки и доступ к реке после дождя.",
+        "sources": [
+          "vara-lalo-teletica"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Donde Lalo Tipis y Camping",
+        "source": "vara-lalo-gallery",
+        "note": "Вместимость типи и участка, завтрак и ужин, сухой заезд и правила очага.",
+        "phone": "+506 8597 1021",
+        "url": "https://wa.me/50685971021"
+      }
+    ],
+    "track": "vara-lalo-map",
+    "nearby": [
+      "poas-caprina-roof-camp",
+      "adventure-camp",
+      "braulio-barva"
+    ],
+    "galleries": [
+      "vara-lalo-gallery"
+    ],
+    "videos": [
+      "vara-lalo-teletica"
+    ],
+    "connectStops": false
+  },
+  "sardinal-sukka-camper": {
+    "stops": [
+      {
+        "point": "sardinal-sukka-entry",
+        "role": "Camping Sukká",
+        "note": "Въезд в Сардинале. Уточните ширину стоянки и состояние последнего подъезда после дождя."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Цены на странице владельца",
+        "text": "Опубликовано ₡5 000 за взрослого в палатке, ₡3 000 за ребёнка 3–10 лет и ₡7 500 за взрослого в camper. Парковку, правило для палатки на крыше, кухню и очаг согласуют до приезда.",
+        "sources": [
+          "sukka-host",
+          "sukka-camping-cr",
+          "sukka-yoko"
+        ]
+      },
+      {
+        "title": "Без долгого переезда",
+        "text": "В сухой день совместите бассейн с коротким выездом к Эрмосе. С детьми удобно отвести отдельное утро на прогулку или катамаран. Продолжительность, жилеты и место встречи даёт оператор лодки.",
+        "sources": [
+          "sukka-rider-access",
+          "ict-guanacaste"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Sukká",
+        "source": "sukka-camping-cr",
+        "note": "Формат camper или наземная палатка, размеры места, огонь, бассейн и велопрокат.",
+        "phone": "+506 8784 0513",
+        "url": "https://wa.me/50687840513"
+      }
+    ],
+    "track": "sukka-yoko",
+    "nearby": [
+      "panama-culebra-beach",
+      "hermosa-pura-paddle",
+      "hermosa-julio-local-boat",
+      "coco-marlin-catamaran"
+    ],
+    "galleries": [
+      "sukka-host",
+      "sukka-yoko"
+    ],
+    "connectStops": false
+  },
+  "garza-el-tiguacal-camp": {
+    "stops": [
+      {
+        "point": "garza-tiguacal-entry",
+        "role": "Пин El Tiguacal из каталога",
+        "note": "Просите точку ворот, если навигатор ведёт к самому пляжу."
+      },
+      {
+        "point": "garza-pilos-embark",
+        "role": "Отдельная точка встречи для некоторых лодок",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка под деревьями",
+        "text": "Участок описывается как тенистый. Спросите, есть ли розетка на вашем месте и где поставить машину. Для детей отдельно уточните границы лагеря и выход к берегу.",
+        "sources": [
+          "tiguacal-host",
+          "tiguacal-camp-pin"
+        ]
+      },
+      {
+        "title": "Короткий переход к рыбацкой бухте",
+        "text": "Прогулку по берегу, посадку в пангу и рейс на катамаране планируют отдельно. У команды спросите, где оставить вещи, какую часть посадки проходят по воде и нужен ли запас сухой одежды.",
+        "sources": [
+          "tiguacal-yoko",
+          "garza-seasaw-main"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Área de Camping El Tiguacal",
+        "source": "tiguacal-host",
+        "note": "Пин въезда после Casa Pacífica, участок, душ и место для машины.",
+        "phone": "+506 8684 4995",
+        "url": "https://wa.me/50686844995",
+        "email": "areadecamping@hotmail.com"
+      }
+    ],
+    "track": "tiguacal-camp-pin",
+    "nearby": [
+      "garza-panga-fishing",
+      "garza-sea-saw-catamaran",
+      "guiones-samara-carrillo-27",
+      "samara-garza-camp-bike-water-3",
+      "garza-rosada-low-tide"
+    ],
+    "galleries": [
+      "tiguacal-yoko",
+      "tiguacal-host"
+    ],
+    "connectStops": false
+  },
+  "florencia-toculaca-camp": {
+    "stops": [
+      {
+        "point": "florencia-toculaca-entry",
+        "role": "Ориентир у лагеря",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "На день или на ночь",
+        "text": "Для дневного заезда спросите короткие тропы, еду и правила лагуны. Туристический справочник перечисляет рыбалку и прогулки, согласуйте формат и наличие инвентаря.",
+        "sources": [
+          "toculaca-camp-cr",
+          "toculaca-yoko"
+        ]
+      },
+      {
+        "title": "Костровая и место палатки",
+        "text": "Опубликован допуск огня. Запросите место для очага, дрова, подъезд при дожде и правила стоянки машины рядом с палаткой. Открытая ссылка бронирования в момент сверки не загрузилась.",
+        "sources": [
+          "toculaca-camp-cr"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Toculaca · Флоренсия",
+        "source": "toculaca-camp-cr",
+        "note": "Уточните приём гостей, доступность, цену завтрака и условия для машины.",
+        "phone": "+506 8338 9171",
+        "url": "https://wa.me/50683389171"
+      }
+    ],
+    "track": "toculaca-camp-cr",
+    "galleries": [
+      "toculaca-yoko"
+    ],
+    "connectStops": false
+  },
+  "samara-carrillo-mtb-varco": {
+    "stops": [
+      {
+        "point": "samara-pato",
+        "role": "Самара · ориентир в посёлке",
+        "note": "Пин встречи сообщает Varco."
+      },
+      {
+        "point": "carrillo-shore-area",
+        "role": "Каррильо · ориентир района",
+        "note": "Гид выбирает ветку, подходящую группе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прокат и продолжительность",
+        "text": "В программе указано около трёх часов. Подтвердите высоту рамы, обод и резину, будут ли перевозить свой велосипед и получится ли укоротить круг.",
+        "sources": [
+          "samara-varco-mtb",
+          "samara-rentals-info"
+        ]
+      },
+      {
+        "title": "Перед выездом",
+        "text": "Возьмите флягу, перчатки, очки и телефон в чехле. В сезон дождей обсудите рыхлый грунт и объезды. Карту конкретной поездки сверяйте у гида.",
+        "sources": [
+          "samara-varco-mtb"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Varco Travel · MTB",
+        "source": "samara-varco-mtb",
+        "note": "Уровень и рост участников, точка сбора, парк велосипедов и свежая схема поездки.",
+        "email": "info@varcotravel.com"
+      }
+    ],
+    "track": "samara-varco-mtb",
+    "nearby": [
+      "samara-cocos-beach-camp",
+      "carrillo",
+      "guiones-samara-carrillo-27",
+      "samara-garza-camp-bike-water-3"
+    ],
+    "galleries": [
+      "samara-varco-mtb"
+    ],
+    "photos": [
+      "carrillo"
+    ],
+    "connectStops": false
+  },
+  "garza-panga-fishing": {
+    "stops": [
+      {
+        "point": "garza-pilos-embark",
+        "role": "Гарса · ориентир на берегу",
+        "note": "Monkey Head назначает сбор у своего офиса. У других лодок своя точка посадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Панга на 1–4 человек",
+        "text": "Monkey Head описывает 19-футовую пангу и несколько размеров судов. У Маркоса в Costa Catch есть малая панга и более просторная лодка с тенью и туалетом. Buenaventura даёт выбор между ближним и дальним выходом.",
+        "sources": [
+          "garza-monkey-fishing",
+          "garza-costa-catch-captain",
+          "garza-buenaventura-fishing"
+        ]
+      },
+      {
+        "title": "Что входит и что брать",
+        "text": "По программе Monkey Head удилища, снасти, наживка и лёд входят в поездку. Проверьте лицензию, правила по видам рыбы, подходящий по размеру жилет и условия отмены. Пригодятся головной убор и мешок для телефона.",
+        "sources": [
+          "garza-monkey-fishing",
+          "incopesca-sport-fishing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Monkey Head Adventures",
+        "source": "garza-monkey-fishing",
+        "note": "Маленькая панга, точка встречи, лодка и рыболовная лицензия.",
+        "phone": "+506 8659 6277",
+        "url": "https://wa.me/50686596277"
+      },
+      {
+        "name": "Costa Catch Nosara · Маркос",
+        "source": "garza-costa-catch-captain",
+        "note": "Панга или судно с салоном, подтверждение посадки и рыболовных условий.",
+        "phone": "+506 8708 7685",
+        "email": "costacatchnosara@gmail.com"
+      },
+      {
+        "name": "Buenaventura Fishing",
+        "source": "garza-buenaventura-fishing",
+        "note": "Прибрежная и дальняя рыбалка, другие выезды по бухте.",
+        "phone": "+506 8774 3977",
+        "url": "https://wa.me/50687743977",
+        "email": "reservations@buenaventurafishingandtours.com"
+      }
+    ],
+    "track": "garza-monkey-fishing",
+    "nearby": [
+      "garza-el-tiguacal-camp",
+      "garza-sea-saw-catamaran",
+      "guiones-samara-carrillo-27"
+    ],
+    "galleries": [
+      "garza-costa-catch-captain",
+      "garza-buenaventura-fishing"
+    ],
+    "videos": [
+      "garza-fishing-nosara-video"
+    ],
+    "connectStops": false
+  },
+  "garza-sea-saw-catamaran": {
+    "stops": [
+      {
+        "point": "garza-pilos-embark",
+        "role": "Встреча Sea Saw у Pilo’s Bar",
+        "note": "Оператор назначает время, точку парковки и способ посадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расписание и варианты",
+        "text": "Опубликованы групповые рейсы по понедельникам утром и пятницам днём, примерно по четыре часа. Для частной группы предлагаются 4 и 8 часов. Снаряжение для снорклинга и жилеты есть по программе, детские размеры уточните.",
+        "sources": [
+          "garza-seasaw-cat-terms",
+          "garza-seasaw-main"
+        ]
+      },
+      {
+        "title": "Условия на море",
+        "text": "Уточните входят ли маска и ласты, будет ли заход в воду и есть ли на борту тень. Заранее обсудите с экипажем переход с песка на борт и смену расписания при свелле.",
+        "sources": [
+          "garza-seasaw-main",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sea Saw Tours · Гарса",
+        "source": "garza-seasaw-main",
+        "note": "Катамаран, группа, время, погода, посадка с берега и условия отмены.",
+        "phone": "+506 8627 0139",
+        "url": "https://wa.me/50686270139",
+        "email": "nosaraseasawtours@gmail.com"
+      }
+    ],
+    "track": "garza-seasaw-cat-terms",
+    "nearby": [
+      "garza-el-tiguacal-camp",
+      "garza-panga-fishing",
+      "samara-garza-camp-bike-water-3",
+      "garza-rosada-low-tide"
+    ],
+    "galleries": [
+      "garza-seasaw-main"
+    ],
+    "connectStops": false
+  },
+  "salinas-papaturro-copal-kite": {
+    "stops": [
+      {
+        "point": "salinas-papaturro-beach",
+        "role": "Папатурро · район Blue Dream",
+        "note": "Подойдите к школе со стороны дороги или по присланному пину."
+      },
+      {
+        "point": "salinas-copal-beach",
+        "role": "Копаль · район занятий",
+        "note": "Уточните точное место на берегу и сектор установки кайта."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Начальный курс",
+        "text": "В школе предусмотрены три занятия примерно по три часа. Первый день обычно посвящён управлению кайтом и работе в воде. Снаряжение входит в программу, язык и уровень группы подтверждают при записи.",
+        "sources": [
+          "salinas-blue-dream-lesson",
+          "salinas-blue-dream-water"
+        ]
+      },
+      {
+        "title": "Что зависит от ветра",
+        "text": "На берегу сверяют порывы и видимость. Спросите инструктора, какие жилет и шлем подберут, где оставлять вещи, как переносят занятие при изменении погоды и какой сектор подходит группе.",
+        "sources": [
+          "salinas-kite-conditions",
+          "soley-la-cruz-ict"
+        ]
+      },
+      {
+        "title": "Как добраться без машины",
+        "text": "Blue Dream указывает маршрут автобуса Ла-Крус — Эль-Хобо мимо отеля. Расписание и обратный рейс подтвердите на день поездки. Отель предлагает трансфер по запросу.",
+        "sources": [
+          "salinas-blue-dream-directions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Blue Dream · Никола",
+        "source": "salinas-blue-dream-lesson",
+        "note": "Ветер, возраст и вес ученика, место урока, размер снаряжения и условия переноса.",
+        "phone": "+506 8826 5221",
+        "url": "https://wa.me/50688265221",
+        "email": "bluedreamcr@gmail.com"
+      },
+      {
+        "name": "Tico Kite · Плайя-Копаль",
+        "source": "salinas-tico-kite-channel",
+        "note": "Местная альтернатива для кайтсёрфа и вингфойла. Подтвердите пляж и условия.",
+        "phone": "+506 8668 6139",
+        "url": "https://wa.me/50686686139",
+        "email": "info@ticokite.com"
+      }
+    ],
+    "track": "salinas-blue-dream-directions",
+    "nearby": [
+      "la-cruz-casa-soley-camp",
+      "rajada-salinas-beach",
+      "la-cruz-casa-soley-water-3"
+    ],
+    "galleries": [
+      "salinas-kite-conditions"
+    ],
+    "videos": [
+      "salinas-tico-kite-channel"
+    ],
+    "connectStops": false
+  },
+  "puerto-soley-shore-day": {
+    "stops": [
+      {
+        "point": "puerto-soley-beach-ref",
+        "role": "Ориентир берегового сектора",
+        "note": "Действующий съезд уточните у местных. Водные активности планируйте с организатором."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прогулка на полдня",
+        "text": "ICT описывает мангры, местный берег и лодочные занятия в районе. У берега имеет смысл планировать дневную прогулку по сухой полосе, а выход в море на другой день согласовать с капитаном.",
+        "sources": [
+          "soley-la-cruz-ict",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "title": "Условия ночёвки в районе",
+        "text": "Casa Soley принимает палатки на отдельной территории, есть домики и душ. Уточняйте разрешённые места заранее и оставляйте машину на дорожной стоянке.",
+        "sources": [
+          "soley-casa-camping-contact",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Soley · Темпаталь",
+        "source": "soley-casa-camping-contact",
+        "note": "Палаточная площадка или домик, свежий пин ворот, тариф и размещение машины.",
+        "phone": "+506 8347 8943",
+        "url": "https://wa.me/50683478943"
+      }
+    ],
+    "track": "soley-la-cruz-ict",
+    "nearby": [
+      "la-cruz-casa-soley-camp",
+      "salinas-papaturro-copal-kite",
+      "rajada-salinas-beach",
+      "junquillal"
+    ],
+    "connectStops": false
+  },
+  "barva-paso-llano-birri-cycle": {
+    "stops": [
+      {
+        "point": "barva-town-ride",
+        "role": "Барва · старт и финиш",
+        "note": ""
+      },
+      {
+        "point": "barva-san-jose-montana",
+        "role": "Затяжной подъём через посёлок",
+        "note": ""
+      },
+      {
+        "point": "barva-paso-llano",
+        "role": "Район поворота у Пасо-Льяно",
+        "note": "На подъезде к охраняемому сектору есть другая дорога."
+      },
+      {
+        "point": "barva-birri-village",
+        "role": "Бирри · выход к Ruta 126",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Покрытие и время",
+        "text": "Опубликованный местный круг через Пасо-Льяно проходил по асфальту. Показанная версия начинается в Барве и использует общедоступные дороги из картографии. Покрытие на месте может меняться после ремонта и дождей.",
+        "sources": [
+          "barva-road-mopt",
+          "barva-paso-road-report"
+        ]
+      },
+      {
+        "title": "Что взять на длинный спуск",
+        "text": "Проверьте тормоза, колодки и передний и задний свет, возьмите камеру и ветровку. Выбирайте ясное утро, когда проще видеть машины и повороты.",
+        "sources": [
+          "barva-road-mopt",
+          "barva-birri-cycle-notes"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park · ориентир в Пасо-Льяно",
+        "source": "adventure-approach-host",
+        "note": "Касса и велотропы в частном парке рядом. Дорожная петля проходит по публичным дорогам.",
+        "phone": "+506 8844 3102"
+      }
+    ],
+    "track": "barva-paso-road-report",
+    "nearby": [
+      "adventure-mtb",
+      "adventure-camp",
+      "braulio-barva"
+    ],
+    "photos": [
+      "barva-iglesia-commons"
+    ],
+    "line": "barva-paso-birri-osm",
+    "connectStops": false
+  },
+  "samara-garza-camp-bike-water-3": {
+    "stops": [
+      {
+        "point": "samara-cocos-camp-pin",
+        "role": "День 1 · лагерь Самары",
+        "note": ""
+      },
+      {
+        "point": "carrillo-shore-area",
+        "role": "День 2 · ориентир для велосипедной программы",
+        "note": "Точный круг выбирает гид."
+      },
+      {
+        "point": "garza-tiguacal-entry",
+        "role": "День 2 · лагерь Гарсы",
+        "note": ""
+      },
+      {
+        "point": "garza-pilos-embark",
+        "role": "День 3 · место встречи Sea Saw",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Упаковка для лагеря и MTB",
+        "text": "Палатка с дождевиком, закрытый мешок для мокрых вещей, фонарь, вода и средство от насекомых. Спросите у велогида, входят ли шлем и транспорт и есть ли рама подходящего размера.",
+        "sources": [
+          "cocos-samara-camping-contact",
+          "samara-varco-mtb"
+        ]
+      },
+      {
+        "title": "Спокойный и активный день у воды",
+        "text": "Катамаран и рыбалка дают разный формат. При записи уточните жилеты для детей, тень на борту, море и график. В поездке на пляжи лодочный блок можно заменить прогулкой у Каррильо.",
+        "sources": [
+          "garza-seasaw-cat-terms",
+          "garza-monkey-fishing",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Los Cocos",
+        "source": "cocos-samara-camping-contact",
+        "note": "Запросите дату, место машины, электричество и условия крыши и костров.",
+        "phone": "+506 6132 6712",
+        "url": "https://wa.me/50661326712"
+      },
+      {
+        "name": "Varco Travel · MTB",
+        "source": "samara-varco-mtb",
+        "note": "Уровень и рост участников, точка сбора, парк велосипедов и свежая схема поездки.",
+        "email": "info@varcotravel.com"
+      },
+      {
+        "name": "Área de Camping El Tiguacal",
+        "source": "tiguacal-host",
+        "note": "Пин въезда после Casa Pacífica, участок, душ и место для машины.",
+        "phone": "+506 8684 4995",
+        "url": "https://wa.me/50686844995",
+        "email": "areadecamping@hotmail.com"
+      },
+      {
+        "name": "Sea Saw Tours · Гарса",
+        "source": "garza-seasaw-main",
+        "note": "Катамаран, группа, время, погода, посадка с берега и условия отмены.",
+        "phone": "+506 8627 0139",
+        "url": "https://wa.me/50686270139",
+        "email": "nosaraseasawtours@gmail.com"
+      },
+      {
+        "name": "Monkey Head Adventures",
+        "source": "garza-monkey-fishing",
+        "note": "Маленькая панга, точка встречи, лодка и рыболовная лицензия.",
+        "phone": "+506 8659 6277",
+        "url": "https://wa.me/50686596277"
+      }
+    ],
+    "track": "samara-varco-mtb",
+    "nearby": [
+      "guiones-samara-carrillo-27",
+      "guiones",
+      "garza-rosada-low-tide"
+    ],
+    "galleries": [
+      "cocos-samara-yoko",
+      "tiguacal-yoko",
+      "garza-seasaw-main"
+    ],
+    "videos": [
+      "garza-fishing-nosara-video"
+    ],
+    "photos": [
+      "samara-beach-commons",
+      "carrillo"
+    ],
+    "line": "samara-garza-160-osm",
+    "connectStops": false
+  },
+  "la-cruz-casa-soley-water-3": {
+    "stops": [
+      {
+        "point": "soley-casa-entry-ref",
+        "role": "База в Темпатале",
+        "note": ""
+      },
+      {
+        "point": "puerto-soley-beach-ref",
+        "role": "День 1 · берег Пуэрто-Солей",
+        "note": ""
+      },
+      {
+        "point": "salinas-papaturro-beach",
+        "role": "День 2 · Папатурро",
+        "note": ""
+      },
+      {
+        "point": "salinas-copal-beach",
+        "role": "День 2 · Копаль",
+        "note": ""
+      },
+      {
+        "point": "rajada-area",
+        "role": "День 2 · берег Рахада по условиям",
+        "note": ""
+      },
+      {
+        "point": "junquillal-cuajiniquil",
+        "role": "День 3 · Куахиникиль",
+        "note": "Пин посадки уточните у выбранного капитана."
+      },
+      {
+        "point": "junquillal-gate",
+        "role": "День 3 · въезд в заказник",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка или домик",
+        "text": "Для жары и ветра запасите воду, тент, крепкие колышки и головной убор. У Casa Soley заранее обсудите формат места и въезд на машине.",
+        "sources": [
+          "soley-casa-camping-contact",
+          "soley-casa-yoko"
+        ]
+      },
+      {
+        "title": "Урок, лодка и берег на выбор",
+        "text": "У школы спросите безопасное окно и подбор комплекта. Для рыбалки уточните лицензию и суда. Для семейного отдыха рассматривайте дневные береговые остановки без обязательного выхода на воду.",
+        "sources": [
+          "salinas-blue-dream-lesson",
+          "soley-la-cruz-ict",
+          "incopesca-sport-fishing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Soley · Темпаталь",
+        "source": "soley-casa-camping-contact",
+        "note": "Палаточная площадка или домик, свежий пин ворот, тариф и размещение машины.",
+        "phone": "+506 8347 8943",
+        "url": "https://wa.me/50683478943"
+      },
+      {
+        "name": "Blue Dream · Никола",
+        "source": "salinas-blue-dream-lesson",
+        "note": "Ветер, возраст и вес ученика, место урока, размер снаряжения и условия переноса.",
+        "phone": "+506 8826 5221",
+        "url": "https://wa.me/50688265221",
+        "email": "bluedreamcr@gmail.com"
+      },
+      {
+        "name": "Tico Kite · Плайя-Копаль",
+        "source": "salinas-tico-kite-channel",
+        "note": "Местная альтернатива для кайтсёрфа и вингфойла. Подтвердите пляж и условия.",
+        "phone": "+506 8668 6139",
+        "url": "https://wa.me/50686686139",
+        "email": "info@ticokite.com"
+      }
+    ],
+    "track": "soley-la-cruz-ict",
+    "nearby": [
+      "santa-rosa-junquillal",
+      "sardinal-sukka-camper"
+    ],
+    "galleries": [
+      "soley-casa-yoko",
+      "salinas-kite-conditions"
+    ],
+    "videos": [
+      "salinas-tico-kite-channel"
+    ],
+    "connectStops": false,
+    "line": "tempatal-salinas-osm"
+  },
+  "san-lorenzo-wildcamp-6-12-2": {
+    "stops": [
+      {
+        "point": "san-lorenzo-wildcamp-pin",
+        "role": "Въезд, ночёвка и начало маршрутов",
+        "note": "Схему троп и точки разворота выдают хозяева."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два формата ходьбы",
+        "text": "Около 6 км к смотровой или до 12 км по горным тропам. Подтвердите набор высоты, время и потребуется ли проводник. Отправьте близким план выхода до потери мобильной связи.",
+        "sources": [
+          "wildcamp-camp-host-listing"
+        ]
+      },
+      {
+        "title": "Дождевой план",
+        "text": "Слои одежды и сухой комплект для ночи, плотная палатка, вода, фонарь и непромокаемый мешок. При подъёме реки спросите, открыта ли лесная ветка без близости воды.",
+        "sources": [
+          "wildcamp-yoko",
+          "wildcamp-social-copy"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Wildcamp Costa Rica",
+        "source": "wildcamp-camp-host-listing",
+        "note": "Пин последнего поворота, место для палатки на машине, трансфер, тропы и состояние реки.",
+        "phone": "+506 8735 0485",
+        "url": "https://wa.me/50687350485"
+      }
+    ],
+    "track": "wildcamp-camp-host-listing",
+    "nearby": [
+      "san-lorenzo-wildcamp-roof",
+      "sanramon-roca-vista-fire-camp"
+    ],
+    "galleries": [
+      "wildcamp-yoko",
+      "wildcamp-social-copy"
+    ],
+    "connectStops": false
+  },
+  "garza-rosada-low-tide": {
+    "stops": [
+      {
+        "point": "garza-pilos-embark",
+        "role": "Гарса · ориентир для выхода к берегу",
+        "note": "Продолжение по камням зависит от фактической воды и местных указаний."
+      },
+      {
+        "point": "rosada-vamos-shore",
+        "role": "Район Плайя-Росада по карте ICT",
+        "note": "Пин не указывает разрешённый въезд. Доступ зависит от берега и прилива."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два подхода и две оценки времени",
+        "text": "Vamos a Turistear и A Dónde Ir описывают выход из Гарсы. La Mochila de Kike описывает подход с южного Гионеса. В старых записях встречается разное время. Выбирайте одну ветку и закладывайте запас на возвращение.",
+        "sources": [
+          "vamos-rosada-map",
+          "adondeir-rosada-visit",
+          "lamochila-rosada-field"
+        ]
+      },
+      {
+        "title": "Почему названия расходятся",
+        "text": "В путеводителе ICT Росада и Куарсо даны как варианты имени. В фоторепортаже La Voz различаются соседние участки. Для встречи с проводником используйте пин берега и название доступной ветки.",
+        "sources": [
+          "ict-rosada-shore",
+          "voz-rosada-field"
+        ]
+      },
+      {
+        "title": "Снаряжение и выход",
+        "text": "Возьмите закрытую обувь с хорошим сцеплением, воду, кепку и защиту от солнца. Контролируйте рост волны и запас времени. При неблагоприятных условиях выберите обычную прогулку в бухте Гарса.",
+        "sources": [
+          "imn-tides-table",
+          "red-cross",
+          "lamochila-rosada-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping El Tiguacal · рядом с Гарсой",
+        "source": "tiguacal-host",
+        "note": "Местный ориентир для подъезда к Гарсе. Доступность берегового подхода уточняют по фактическим условиям.",
+        "phone": "+506 8684 4995",
+        "url": "https://wa.me/50686844995"
+      }
+    ],
+    "track": "vamos-rosada-map",
+    "nearby": [
+      "garza-el-tiguacal-camp",
+      "garza-sea-saw-catamaran",
+      "guiones"
+    ],
+    "galleries": [
+      "voz-rosada-field",
+      "lamochila-rosada-field",
+      "vamos-rosada-map"
+    ],
+    "videos": [
+      "nosara-rosada-hike-video"
+    ],
+    "connectStops": false
+  }
+}
