@@ -61,7 +61,7 @@ chilamate	Chilamate · Sarapiquí	10.452328	-84.066143	osm-cr-points
 linda-vista	Pacuare Outdoor Center · точка встречи Linda Vista	9.987568	-83.567206	osm-cr-points
 linda-vista-launch	Linda Vista Put-in · Río Pacuare	9.97951	-83.549807	osm-cr-points
 siquirres	Siquirres · город, ориентир выхода	10.097997	-83.50757	osm-cr-points
-pacuare-lodge	Pacuare Lodge · ориентир в каньоне	10.002572	-83.534262	osm-cr-points
+pacuare-lodge	Pacuare Lodge · ориентир в каньоне	10	-83.5319444	file-pacuare-lodge-gps
 pura-vida-ride	Pura Vida Ride · Las Catalinas	10.481779	-85.786649	osm-cr-points
 las-catalinas	Las Catalinas · посёлок	10.481474	-85.785607	osm-cr-points
 playa-danta	Playa Danta · участок бухты	10.4807	-85.788224	osm-cr-points
@@ -258,3 +258,27 @@ grande-surf-camp-area	Playa Grande Surf Camp · Palm Beach Estates	10.3173823	-8
 palo-verde-lagoon-platform	Palo Verde · площадка над лагуной	10.3432805	-85.3419766	osm-cr-points
 arenal-rafting-office	Arenal Rafting Company · офис в Ла-Фортуне	10.4738028	-84.6414166	balsa-meeting-office
 palo-verde-ots-station	OTS · биологическая станция Palo Verde	10.3451656	-85.3387573	osm-cr-points
+caribe-bike-manzanillo	Manzanillo · посёлок на карибском берегу	9.6316711	-82.6572075	osm-cr-points
+coyolar-area	Coyolar · посёлок у Оротины	9.896253	-84.5598975	osm-cr-points
+orotina-lagunillas	Lagunillas · деревня	9.8443826	-84.6022429	osm-cr-points
+bajamar-coastal-village	Bajamar · посёлок у побережья	9.8402051	-84.6692292	osm-cr-points
+orotina-cascajal	Cascajal · посёлок на возвратной части	9.9023797	-84.6269968	osm-cr-points
+orotina-ceiba	La Ceiba de Orotina · район возвратной части	9.9011716	-84.6012702	osm-cr-points
+orotina-soda-nidia	Parada Soda Nidia · дорожный ориентир	9.8511135	-84.5809054	osm-cr-points
+rualdo-entry	Alto del Rualdo · въезд по карте кемпинга	10.1709672	-84.3538138	rualdo-family-camp
+gfg-gpx-start	Gran Fondo Guanacaste 90K · начало трека 2026	10.6294646	-85.4377031	gfg-90-gpx
+gfg-gpx-turn-east	Gran Fondo Guanacaste 90K · восточный край трека 2026	10.4485531	-85.1236125	gfg-90-gpx
+gfg-gpx-finish	Gran Fondo Guanacaste 90K · конец трека 2026	10.6171122	-85.4374549	gfg-90-gpx
+gfaa-angostura-area	La Angostura · район водохранилища у Турриальбы	9.8887021	-83.6303772	osm-cr-points
+gfaa-villalobos-area	Colonia Villalobos · посёлок Sarapiquí	10.3065	-83.8982	colonia-villalobos-public
+chirripo-race-plaza	Plaza de Deportes de San Gerardo de Rivas	9.46607	-83.596405	osm-cr-points
+coco-cycling-anchor	Playas del Coco · посёлок на берегу	10.5512934	-85.6969025	osm-cr-points
+potrero-cycling-anchor	Playa Potrero · береговой посёлок	10.4541413	-85.7711783	osm-cr-points
+marbella-cycling-anchor	Marbella · посёлок у Тихого океана	10.0842452	-85.7650583	osm-cr-points
+nosara-cycling-anchor	Nosara · центр посёлка	9.9799546	-85.6528372	osm-cr-points
+liberia-cycle-tour-start	Liberia · район старта велоперехода	10.626899	-85.438517	nicoya-bikepacking-public-track
+rios-lodge-pacuare	Ríos Lodge · лодж на Пакуаре	10.0025717	-83.5342617	rios-river-location
+turrialba-city-anchor	Turrialba · центр города	9.9073209	-83.6826021	osm-cr-points
+sitio-de-mata-anchor	Sitio de Mata · посёлок у Турриальбы	9.882032	-83.6249679	osm-cr-points
+irika-lodge-arrival	Iriká Lodge · въезд по карте оператора	9.9088118	-83.6301207	irika-contact-form
+orotina-quien-sabe	Río Quien Sabe · ручей на круге	9.861653	-84.615928	orotina-gravel-map

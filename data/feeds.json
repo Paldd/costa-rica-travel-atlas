@@ -10,5 +10,9 @@
   {"name":"Pacuare Outdoor Center · программы","url":"https://pacuareoutdoorcenter.com/es/experiencias/","paths":["/es/experiencias/","/es/actividades/"]},
   {"name":"Qué Buen Lugar · места","url":"https://www.quebuenlugar.com/es/lugares/","paths":["/es/lugares/","/es/hospedajes/"]},
   {"name":"The Trail Running CR · календарь","url":"https://thetrailrunningcr.com/eventos/","paths":["/dantica-","/columbia-","/eventos/"]},
-  {"name":"Муниципалитет Перес-Селедона · туризм","url":"https://www.perezzeledon.go.cr/component/phocadownload/category/1109-turismo.html","paths":["/component/phocadownload/category/1109-turismo.html","/turismo/"]}
+  {"name":"Муниципалитет Перес-Селедона · туризм","url":"https://www.perezzeledon.go.cr/component/phocadownload/category/1109-turismo.html","paths":["/component/phocadownload/category/1109-turismo.html","/turismo/"]},
+  {"name":"Go Bike CR · велопрограммы и поездки на e-bike","url":"https://www.gobikecr.com/e-bike-tours-costa-rica.html","paths":["/tour-","/tours-","/mountain-"]},
+  {"name":"Gran Fondo Guanacaste · карты и выпуск","url":"https://www.granfondoguanacaste.com/","paths":["/storage/gpx/","/storage/documentos/"]},
+  {"name":"Carrera Chirripó · запись и регламент","url":"https://www.carrerachirripo.com/","paths":["/inscripcion/","/reglamento-","/wp-content/uploads/"]},
+  {"name":"Ríos Lodge · участие со своей лодкой","url":"https://rioslodge.com/pacuare-costa-rica-faq/","paths":["/pacuare-costa-rica-","/rafting-","/contact-"]}
 ]

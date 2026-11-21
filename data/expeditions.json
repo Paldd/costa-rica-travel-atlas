@@ -1718,5 +1718,334 @@
         ]
       }
     ]
+  },
+  {
+    "id": "nicoya-playa-sol-7",
+    "kind": "trip",
+    "region": "nicoya",
+    "regions": [
+      "guanacaste"
+    ],
+    "title": "Семь дней на велосипеде по Никое · от Коко до Самары",
+    "native": "Ruta Playa & Sol · Go Bike CR · cinco etapas en siete días",
+    "level": "hard",
+    "days": 7,
+    "activities": [
+      "cycling",
+      "mtb",
+      "ebike",
+      "beach",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo",
+      "family-teen"
+    ],
+    "access": [
+      "transfer",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "gobike-playa-sol",
+      "gobike-emtb-support",
+      "ict-nicoya",
+      "cr-road-cycle-law"
+    ],
+    "summary": "Пять прибрежных велоэтапов с поддержкой от Playas del Coco до Sámara. Между этапами ночёвки в посёлках.",
+    "plan": "Запросите у оператора группу, жильё, состав поездки, запасные пути, зарядку e-bike и перевозку велосипеда.",
+    "conditions": "Микс грунта, подъёмов и освещённых солнцем участков. Разбивку и допуск к дороге подтверждает оператор на дату.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Приезд к началу программы",
+        "note": "Согласуйте выдачу велосипеда в районе Playas del Coco, размер рамы и время встречи. Для e-bike уточните зарядку и запасной аккумулятор.",
+        "stops": [],
+        "sources": [
+          "gobike-playa-sol",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Коко — Плайя-Потреро · 49 км",
+        "note": "У оператора заявлено около 758 м подъёма. Выезжайте в согласованное время и обсудите остановки до жары.",
+        "stops": [],
+        "sources": [
+          "gobike-playa-sol"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Потреро — Тамариндо · 62 км",
+        "note": "Самый длинный из пяти перечисленных этапов, указан набор около 907 м. После заезда проверьте время и море, если планируете вечер на пляже.",
+        "stops": [
+          "tamarindo-surf"
+        ],
+        "sources": [
+          "gobike-playa-sol",
+          "ict-surf"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Тамариндо — Марбелья · 43 км",
+        "note": "По схеме оператора около 439 м подъёма. Уточните пункты воды и доступность смены плана по погоде.",
+        "stops": [],
+        "sources": [
+          "gobike-playa-sol"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Марбелья — Носара · 23 км",
+        "note": "Самый короткий из опубликованных этапов. Остаток дня можно посвятить отдельному уроку у Guiones по условиям моря.",
+        "stops": [
+          "guiones"
+        ],
+        "sources": [
+          "gobike-playa-sol",
+          "ict-nicoya"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Носара — Самара · 34 км",
+        "note": "Указан набор 288 м. Уточните место финиша и время сдачи велосипеда.",
+        "stops": [
+          "samara",
+          "pato-samara-school"
+        ],
+        "sources": [
+          "gobike-playa-sol",
+          "ict-nicoya"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Отъезд из Самары",
+        "note": "Заранее подтвердите развозку, багаж и отдельное время на дорогу в аэропорт.",
+        "stops": [
+          "samara"
+        ],
+        "sources": [
+          "gobike-playa-sol",
+          "gobike-emtb-support"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nicoya-bikepack-6",
+    "kind": "trip",
+    "region": "nicoya",
+    "regions": [
+      "guanacaste"
+    ],
+    "title": "Никойя с палаткой на велосипеде · шесть дней и паром",
+    "native": "Nicoya Peninsula Traverse · Liberia – Puerto Paquera",
+    "level": "expedition",
+    "days": 6,
+    "activities": [
+      "cycling",
+      "mtb",
+      "gravel",
+      "camping",
+      "beach",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "nicoya-bikepacking-ride",
+      "nicoya-bikepacking-public-track",
+      "paquera-bike-ticket",
+      "ict-nicoya",
+      "cr-road-cycle-law"
+    ],
+    "summary": "Ориентир 298 км из Либерии к парому в Пакере по побережью и грунтовым дорогам.",
+    "plan": "Разбейте путь на короткие этапы с согласованным ночлегом. Перед выездом проверьте броды, альтернативы и приём велосипеда на пароме.",
+    "conditions": "Жара, грунт, ограниченные запасы воды и изменяемые переходы. При высокой воде выбирайте объезд или транспорт.",
+    "distance": 298,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Либерия — район Брасилито",
+        "note": "Ранний выезд из Либерии к побережью. Согласуйте дорожные участки и платную ночёвку рядом с Брасилито.",
+        "stops": [
+          "conchal"
+        ],
+        "sources": [
+          "nicoya-bikepacking-ride",
+          "ict-flamingo-conchal",
+          "cr-road-cycle-law"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Север Никои · Тамариндо и Авельянас",
+        "note": "Короткие остановки у берега и ночлег на разрешённой палаточной площадке в районе Авельянас.",
+        "stops": [
+          "tamarindo-surf",
+          "avellanas-camp"
+        ],
+        "sources": [
+          "nicoya-bikepacking-public-track",
+          "camp-avellanas"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Побережье к Носаре",
+        "note": "Проверьте речные переходы, действующие правила пляжей и возможность объезда. Для питания и жилья используйте населённые пункты.",
+        "stops": [
+          "guiones"
+        ],
+        "sources": [
+          "nicoya-bikepacking-ride",
+          "ict-nicoya"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Из Носары к Самаре",
+        "note": "Пополните воду и проверьте состояние велосипеда. Ночлег лучше подтвердить до прохождения прибрежного участка.",
+        "stops": [
+          "samara"
+        ],
+        "sources": [
+          "nicoya-bikepacking-public-track",
+          "ict-nicoya"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Южное побережье и район Santa Teresa",
+        "note": "Самый изменчивый участок. Заранее подтвердите безопасный объезд речных устьев и альтернативный трансфер при высоком уровне воды.",
+        "stops": [
+          "santateresa"
+        ],
+        "sources": [
+          "nicoya-bikepacking-ride",
+          "nicoya-bikepacking-public-track"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Пристань Пакера и паром",
+        "note": "Оставьте запас до последнего подходящего рейса. В расписании Naviera Tambor есть отдельная категория для велосипеда.",
+        "stops": [],
+        "sources": [
+          "paquera-bike-ticket",
+          "nicoya-bikepacking-public-track"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turrialba-packraft-3",
+    "kind": "trip",
+    "region": "central",
+    "regions": [
+      "caribbean"
+    ],
+    "title": "Три дня с пакрафтом · долина Турриальбы и Пакуаре",
+    "native": "Turrialba, Pejibaye y Pacuare · plan de packraft",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "packraft",
+      "kayak",
+      "river",
+      "forest",
+      "multi"
+    ],
+    "audience": [
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "tent"
+    ],
+    "sources": [
+      "packraft-turrialba-report",
+      "poc-pejibaye-local",
+      "poc-rent",
+      "pacuare-whitewater",
+      "poc-contact",
+      "rios-kayak-faq"
+    ],
+    "summary": "Два водных дня с проводниками и заездом на базу. Первый сплав на Пехибайе, второй выбирают по навыкам и воде.",
+    "plan": "Сначала обсудите уровень участников и пакрафты с местным центром. Организуйте две заброски из долины и резерв на пеший выходной.",
+    "conditions": "Техническая поездка для группы с опытом бурной воды. Допуск, лодки, проход к берегу и сток подтверждаются отдельно на каждый день.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Заезд и проверка снаряжения",
+        "note": "Выберите базу в Sitio de Mata или Pejibaye. Если нужна палатка, бронируйте готовую площадку Río del Valle и уточните сушку снаряжения.",
+        "stops": [
+          "rio-del-valle-camp"
+        ],
+        "sources": [
+          "packraft-turrialba-report",
+          "poc-rent"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пехибайе с проводником",
+        "note": "Начните с участка, который подходит всей группе. Местный проводник выбирает посадку и выход в зависимости от уровня реки.",
+        "stops": [
+          "pejibaye-pack",
+          "la-roca-pejibaye"
+        ],
+        "sources": [
+          "poc-pejibaye-local",
+          "pejibaye-pack-story"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Выбор участка Пакуаре",
+        "note": "Подтвердите переход на Нижний Пакуаре с гидом для опытных. При неподходящем уровне выберите пеший маршрут в Ла-Марта.",
+        "stops": [
+          "pacuare-own-craft",
+          "la-marta"
+        ],
+        "sources": [
+          "pacuare-whitewater",
+          "poc-contact",
+          "packraft-turrialba-report"
+        ]
+      }
+    ]
   }
 ]

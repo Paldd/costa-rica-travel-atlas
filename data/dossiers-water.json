@@ -127,6 +127,7 @@
       }
     ],
     "nearby": [
+      "rios-lodge-own-kayak",
       "pacuare-day",
       "pacuare-weekend",
       "pejibaye-pack"
@@ -147,7 +148,7 @@
       {
         "point": "pacuare-lodge",
         "role": "Район каньона и лоджей",
-        "note": "Показан опорный лодж в коридоре реки. Ваш ночлег зависит от пакета."
+        "note": "Pacuare Lodge — географический ориентир каньона. Координаты вашего ночлега сообщит оператор."
       },
       {
         "point": "siquirres",
@@ -193,6 +194,7 @@
       }
     ],
     "nearby": [
+      "rios-lodge-own-kayak",
       "pacuare-day",
       "pacuare-own-craft",
       "pacuare-avesol"
