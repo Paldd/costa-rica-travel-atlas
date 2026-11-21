@@ -1500,5 +1500,75 @@
     "regions": [
       "guanacaste"
     ]
+  },
+  {
+    "id": "santa-rosa-junquillal",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Санта-Роса и Хункильяль · выходные с крышной палаткой",
+    "native": "La Casona · Bahía Junquillal · Playa Rajada",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "car",
+      "rooftent",
+      "camping",
+      "hiking",
+      "beach",
+      "savanna",
+      "history"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "roof"
+    ],
+    "sources": [
+      "santa-rosa",
+      "santa-rosa-ict-map",
+      "junquillal-booking",
+      "junquillal-roof-local"
+    ],
+    "summary": "Два дня в северном Гуанакасте с исторической прогулкой, сухим лесом и официальным лагерем у тихой бухты.",
+    "plan": "Утром первый день в Santa Rosa, затем лагерь Bahía Junquillal. Второй день оставьте для лесной тропы, бухты или дневной поездки к Playa Rajada.",
+    "conditions": "Ночёвку согласуйте напрямую с Aso Junquillal. Уточните въезд к месту палатки и условия у воды. Проезд к Наранхо рассчитайте отдельным маршрутом.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Santa Rosa и ночь в заказнике",
+        "note": "Прогулка от музея La Casona и переезд к Bahía Junquillal. Если остаётесь на ночь, оформите место у ассоциации перед заездом.",
+        "stops": [
+          "santa-rosa-casona",
+          "junquillal"
+        ],
+        "sources": [
+          "santa-rosa",
+          "junquillal-booking"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Тропа Estero Seco и северный берег",
+        "note": "Утром — доступная часть лесной тропы и бухта. Playa Rajada можно добавить как отдельную дневную остановку по погоде.",
+        "stops": [
+          "junquillal"
+        ],
+        "sources": [
+          "junquillal-trails",
+          "junquillal-roof-local"
+        ]
+      }
+    ]
   }
 ]

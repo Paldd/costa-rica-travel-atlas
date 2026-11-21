@@ -1,0 +1,2036 @@
+{
+  "morpho-azul": {
+    "stops": [
+      {
+        "point": "monte-claro-access",
+        "role": "Въезд с Ruta 10",
+        "note": "Общий въезд с гидроэлектростанцией ICE. Следуйте указателям хозяйства и согласуйте место встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Morpho Azul · 4,1 км",
+        "text": "Синяя тропа через вторичный лес и участок восстановления. Оператор отводит около трёх часов для прогулки и относит тропу к сложным. В мокром лесу переходы и подъёмы требуют больше времени, чем та же длина на широкой грунтовке.",
+        "sources": [
+          "monte-claro",
+          "monte-claro-trails-map"
+        ]
+      },
+      {
+        "title": "Как попасть на участок",
+        "text": "Для основных троп используйте въезд хозяйства, для гостевого дома указан отдельный адрес. Схема показывает цвет маршрута и место ответвления. Уточните у хозяев состояние ручьёв, доступность и место парковки.",
+        "sources": [
+          "monte-claro-arrival",
+          "monte-claro-trails-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Monte Claro",
+        "source": "monte-claro-arrival",
+        "note": "Карта, гостевой дом и место встречи для выбранной тропы.",
+        "phone": "+506 8918 5050",
+        "url": "https://wa.me/50689185050",
+        "email": "fincamonteclaro@gmail.com"
+      }
+    ],
+    "nearby": [
+      "monte-claro-pizote",
+      "monte-claro-geco"
+    ],
+    "track": "monte-claro-trails-map"
+  },
+  "hacienda-ceiba": {
+    "stops": [
+      {
+        "point": "monte-claro-access",
+        "role": "Въезд с Ruta 10",
+        "note": "Общий въезд с гидроэлектростанцией ICE. Следуйте указателям хозяйства и согласуйте место встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ceiba Morado · 600 м",
+        "text": "Фиолетовая лёгкая ветка к речной растительности. Оператор показывает её как удлинение основного выхода. Возьмите карту развилки на месте и считайте 600 м отдельно от подхода по выбранной тропе.",
+        "sources": [
+          "monte-claro",
+          "monte-claro-trails-map"
+        ]
+      },
+      {
+        "title": "Как попасть на участок",
+        "text": "Для основных троп используйте въезд хозяйства, для гостевого дома указан отдельный адрес. Схема показывает цвет маршрута и место ответвления. Уточните у хозяев состояние ручьёв, доступность и место парковки.",
+        "sources": [
+          "monte-claro-arrival",
+          "monte-claro-trails-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Monte Claro",
+        "source": "monte-claro-arrival",
+        "note": "Карта, гостевой дом и место встречи для выбранной тропы.",
+        "phone": "+506 8918 5050",
+        "url": "https://wa.me/50689185050",
+        "email": "fincamonteclaro@gmail.com"
+      }
+    ],
+    "nearby": [
+      "monte-claro-nutria",
+      "monte-claro-geco"
+    ],
+    "track": "monte-claro-trails-map"
+  },
+  "monte-claro-nutria": {
+    "stops": [
+      {
+        "point": "monte-claro-access",
+        "role": "Въезд с Ruta 10",
+        "note": "Общий въезд с гидроэлектростанцией ICE. Следуйте указателям хозяйства и согласуйте место встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Nutria Rojo · 2,1 км",
+        "text": "Красный пешеходный маршрут средней сложности, около часа по оценке хозяйства. Здесь маршрут ценен речным лесом и водопадами. После дождя спросите сотрудников, до какой точки сегодня открыт спуск к воде.",
+        "sources": [
+          "monte-claro",
+          "monte-claro-trails-map"
+        ]
+      },
+      {
+        "title": "Как попасть на участок",
+        "text": "Для основных троп используйте въезд хозяйства, для гостевого дома указан отдельный адрес. Схема показывает цвет маршрута и место ответвления. Уточните у хозяев состояние ручьёв, доступность и место парковки.",
+        "sources": [
+          "monte-claro-arrival",
+          "monte-claro-trails-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Monte Claro",
+        "source": "monte-claro-arrival",
+        "note": "Карта, гостевой дом и место встречи для выбранной тропы.",
+        "phone": "+506 8918 5050",
+        "url": "https://wa.me/50689185050",
+        "email": "fincamonteclaro@gmail.com"
+      }
+    ],
+    "nearby": [
+      "hacienda-ceiba",
+      "monte-claro-pizote"
+    ],
+    "track": "monte-claro-trails-map"
+  },
+  "monte-claro-pizote": {
+    "stops": [
+      {
+        "point": "monte-claro-access",
+        "role": "Въезд с Ruta 10",
+        "note": "Общий въезд с гидроэлектростанцией ICE. Следуйте указателям хозяйства и согласуйте место встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Pizote Negro · 3,2 км",
+        "text": "Лёгкая тропа через плантации кофе и сахарного тростника. Хозяйство допускает ходьбу и MTB и выделяет около двух часов на прогулку. Это короткий вариант для знакомства с покрытием перед зелёной тропой.",
+        "sources": [
+          "monte-claro",
+          "monte-claro-trails-map"
+        ]
+      },
+      {
+        "title": "Как попасть на участок",
+        "text": "Для основных троп используйте въезд хозяйства, для гостевого дома указан отдельный адрес. Схема показывает цвет маршрута и место ответвления. Уточните у хозяев состояние ручьёв, доступность и место парковки.",
+        "sources": [
+          "monte-claro-arrival",
+          "monte-claro-trails-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Monte Claro",
+        "source": "monte-claro-arrival",
+        "note": "Карта, гостевой дом и место встречи для выбранной тропы.",
+        "phone": "+506 8918 5050",
+        "url": "https://wa.me/50689185050",
+        "email": "fincamonteclaro@gmail.com"
+      }
+    ],
+    "nearby": [
+      "monte-claro-colibri",
+      "morpho-azul"
+    ],
+    "track": "monte-claro-trails-map"
+  },
+  "monte-claro-colibri": {
+    "stops": [
+      {
+        "point": "monte-claro-access",
+        "role": "Въезд с Ruta 10",
+        "note": "Общий въезд с гидроэлектростанцией ICE. Следуйте указателям хозяйства и согласуйте место встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Colibrí Verde · 6,8 км",
+        "text": "Зелёная тропа средней сложности, с видами и сельскохозяйственными участками. Можно идти пешком или на MTB. Время оператора около четырёх часов относится к неспешному пешему выходу.",
+        "sources": [
+          "monte-claro",
+          "monte-claro-trails-map"
+        ]
+      },
+      {
+        "title": "Как попасть на участок",
+        "text": "Для основных троп используйте въезд хозяйства, для гостевого дома указан отдельный адрес. Схема показывает цвет маршрута и место ответвления. Уточните у хозяев состояние ручьёв, доступность и место парковки.",
+        "sources": [
+          "monte-claro-arrival",
+          "monte-claro-trails-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Monte Claro",
+        "source": "monte-claro-arrival",
+        "note": "Карта, гостевой дом и место встречи для выбранной тропы.",
+        "phone": "+506 8918 5050",
+        "url": "https://wa.me/50689185050",
+        "email": "fincamonteclaro@gmail.com"
+      }
+    ],
+    "nearby": [
+      "monte-claro-pizote",
+      "monte-claro-garza"
+    ],
+    "track": "monte-claro-trails-map"
+  },
+  "monte-claro-garza": {
+    "stops": [
+      {
+        "point": "monte-claro-access",
+        "role": "Въезд с Ruta 10",
+        "note": "Общий въезд с гидроэлектростанцией ICE. Следуйте указателям хозяйства и согласуйте место встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Garza del Sol Amarillo · 7,2 км",
+        "text": "Жёлтый маршрут сложнее остальных по времени и рельефу. С двумя речными ответвлениями San Lucas и San Mateo получится около 11,2 км, если оба открыты. Каждая ветка добавляет около 2 км туда и обратно. У реки уточните возможность спуска в этот день.",
+        "sources": [
+          "monte-claro",
+          "monte-claro-trails-map"
+        ]
+      },
+      {
+        "title": "Как попасть на участок",
+        "text": "Для основных троп используйте въезд хозяйства, для гостевого дома указан отдельный адрес. Схема показывает цвет маршрута и место ответвления. Уточните у хозяев состояние ручьёв, доступность и место парковки.",
+        "sources": [
+          "monte-claro-arrival",
+          "monte-claro-trails-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Monte Claro",
+        "source": "monte-claro-arrival",
+        "note": "Карта, гостевой дом и место встречи для выбранной тропы.",
+        "phone": "+506 8918 5050",
+        "url": "https://wa.me/50689185050",
+        "email": "fincamonteclaro@gmail.com"
+      }
+    ],
+    "nearby": [
+      "monte-claro-colibri",
+      "monte-claro-nutria"
+    ],
+    "track": "monte-claro-trails-map"
+  },
+  "monte-claro-geco": {
+    "stops": [
+      {
+        "point": "monte-claro-guest",
+        "role": "Гостевой дом и ориентир тропы",
+        "note": "Вход на конкретную дорожку покажут на месте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Geco Naranjo · 400 м",
+        "text": "Короткая ветка у гостевого дома проходит возле ручья и цветущих растений. Подходит для неспешной прогулки и знакомства с территорией. Начало уточняют у хозяев гостевого дома, где маршрут указан на карте.",
+        "sources": [
+          "monte-claro",
+          "monte-claro-trails-map"
+        ]
+      },
+      {
+        "title": "Как попасть на участок",
+        "text": "Для основных троп используйте въезд хозяйства, для гостевого дома указан отдельный адрес. Схема показывает цвет маршрута и место ответвления. Уточните у хозяев состояние ручьёв, доступность и место парковки.",
+        "sources": [
+          "monte-claro-arrival",
+          "monte-claro-trails-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Monte Claro",
+        "source": "monte-claro-arrival",
+        "note": "Карта, гостевой дом и место встречи для выбранной тропы.",
+        "phone": "+506 8918 5050",
+        "url": "https://wa.me/50689185050",
+        "email": "fincamonteclaro@gmail.com"
+      }
+    ],
+    "nearby": [
+      "hacienda-ceiba",
+      "monte-claro-pizote"
+    ],
+    "track": "monte-claro-trails-map"
+  },
+  "senderos-colon-mtb": {
+    "stops": [
+      {
+        "point": "senderos-colon-base",
+        "role": "Точка въезда по карте посетителей",
+        "note": "Старт конкретной трассы смотрите на карте парка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как собрать круг на MTB",
+        "text": "Начните на подъёмных дорожках, затем выберите помеченный на карте спуск по уровню. Длины отдельных трасс смотрите в Trailforks. Если хотите длинный тренировочный выезд, составьте несколько петель с возвратом на базу. Согласуйте с парком допуск электро-MTB.",
+        "sources": [
+          "senderos-colon",
+          "colon-trailforks"
+        ]
+      },
+      {
+        "title": "Покрытие и подъезд",
+        "text": "Местный путеводитель описывает территорию как холмистую и отмечает участки с двумя разными режимами движения. Общий въезд доступен на обычной машине по справочнику. После дождя уточните, какие спуски открыты.",
+        "sources": [
+          "colon-local-report",
+          "senderos-colon"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Senderos Colón · Hacienda Pampa y Cielo",
+        "source": "senderos-colon",
+        "note": "Въезд в комплекс, режим трасс и действующий билет.",
+        "phone": "+506 8966 4114",
+        "url": "https://www.facebook.com/SenderosColon/"
+      }
+    ],
+    "nearby": [
+      "senderos-colon-run",
+      "oikoumene"
+    ],
+    "track": "colon-trailforks"
+  },
+  "senderos-colon-run": {
+    "stops": [
+      {
+        "point": "senderos-colon-base",
+        "role": "Въезд и начало прогулки",
+        "note": "Для ходьбы возьмите карту пешеходных направлений у входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прогулка, трейлраннинг и собака",
+        "text": "Территория подходит для отдельных пешеходных кругов. Для пробежки уточните на входе направление для бегунов и границы велоспусков. У комплекса есть тропа El Guato для посетителей с собакой на поводке.",
+        "sources": [
+          "senderos-colon",
+          "colon-local-report"
+        ]
+      },
+      {
+        "title": "Как собрать тренировку",
+        "text": "Отмечайте длину выбранных петель после сверки с указателями. Прокат и арендованные велосипеды стоит обсуждать заранее. Для семьи можно закончить маршрут у въезда, если одна петля оказалась достаточной.",
+        "sources": [
+          "colon-trailforks",
+          "senderos-colon"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Senderos Colón · Hacienda Pampa y Cielo",
+        "source": "senderos-colon",
+        "note": "Въезд в комплекс, режим трасс и действующий билет.",
+        "phone": "+506 8966 4114",
+        "url": "https://www.facebook.com/SenderosColon/"
+      }
+    ],
+    "nearby": [
+      "senderos-colon-mtb"
+    ],
+    "track": "colon-trailforks"
+  },
+  "retos-irazu": {
+    "stops": [
+      {
+        "point": "retos-camp-entry",
+        "role": "Кемпинг рядом с Sanatorio Durán",
+        "note": "Причину небольшого расхождения между точками двух путеводителей лучше снять, запросив актуальный пин у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Холодный горный вечер рядом с Прюсией",
+        "text": "Каталог площадки отмечает навес для палаток и въезд 4×4. Местный автор описывает парковку обычной машины на главной дороге и отдельный подход пешком. Спросите о парковке и подъезде к месту палатки после дождей.",
+        "sources": [
+          "retos",
+          "retos-road"
+        ]
+      },
+      {
+        "title": "Прогулка с детьми и ночёвка",
+        "text": "В отчёте прогулка проходит у истоков Ревентасона с пересечениями ручья. Для короткой прогулки выберите разворот по погоде. С крышной палаткой заранее согласуйте заезд, ровное место и допустимые габариты машины.",
+        "sources": [
+          "retos-local",
+          "retos"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Retos del Irazú",
+        "source": "retos",
+        "note": "Место стоянки, навес, возможность заезда с крышной палаткой и правила огня.",
+        "phone": "+506 8378 3556",
+        "url": "https://wa.me/50683783556"
+      }
+    ],
+    "nearby": [
+      "prusia",
+      "irazu-craters"
+    ],
+    "track": "retos-local"
+  },
+  "adventure-mtb": {
+    "stops": [
+      {
+        "point": "adventure-park-entry",
+        "role": "Офис и парковка",
+        "note": "Здесь подтверждают расписание и направление открытых велотроп."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор велопетли",
+        "text": "Это лесной велопарк на склоне рядом с Сан-Хосе-де-ла-Монтанья. Дистанцию выбирают по секциям и числу кругов. У парка есть отдельный пеший маршрут. Шлем обязателен, велосипед нужно привезти или организовать арендованный заранее.",
+        "sources": [
+          "adventure-bike",
+          "adventure-park",
+          "adventure-local-trip"
+        ]
+      },
+      {
+        "title": "После дождя",
+        "text": "На высоте трава и грунт долго остаются мокрыми. Начните с короткой петли, которую сегодня советуют сотрудники. Кемпинг позволяет разделить тренировку на два коротких выезда.",
+        "sources": [
+          "adventure-camp-rules",
+          "adventure-park"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park Costa Rica",
+        "source": "adventure-directions",
+        "note": "Подъезд к открытому лагерю, режим трасс, парковка и доступ к воде.",
+        "phone": "+506 2266 0782",
+        "url": "https://wa.me/50688443102"
+      }
+    ],
+    "nearby": [
+      "adventure-camp",
+      "braulio-barva"
+    ],
+    "track": "adventure-directions"
+  },
+  "adventure-camp": {
+    "stops": [
+      {
+        "point": "adventure-park-entry",
+        "role": "Регистрация и парковка",
+        "note": "Первая площадка находится примерно в 1 км от офиса, самая дальняя — почти в 2 км."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка в горном лесу",
+        "text": "Кемпинг публикует цену 8 000 колонов на человека и условия заезда. Есть питьевая вода, туалеты и доступ к пешим и велотропам. Электричества на площадках нет. На выходных парк указывает продажу еды в дневные часы.",
+        "sources": [
+          "adventure-camp-rules",
+          "adventure-park"
+        ]
+      },
+      {
+        "title": "Обычная машина, высокий кузов или 4×4",
+        "text": "Сотрудники допускают въезд 4×4 в зону ночёвки. В сухую погоду к первой площадке иногда допускают высокий обычный автомобиль. В дождь планируйте парковку у офиса или подтверждённую ближайшую стоянку. Для палатки на крыше заранее уточните саму возможность ночёвки у машины.",
+        "sources": [
+          "adventure-camp-rules",
+          "adventure-directions",
+          "adventure-local-trip"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park Costa Rica",
+        "source": "adventure-directions",
+        "note": "Подъезд к открытому лагерю, режим трасс, парковка и доступ к воде.",
+        "phone": "+506 2266 0782",
+        "url": "https://wa.me/50688443102"
+      }
+    ],
+    "nearby": [
+      "adventure-mtb",
+      "braulio-barva",
+      "cerro-dantas-10"
+    ],
+    "track": "adventure-directions"
+  },
+  "prusia": {
+    "stops": [
+      {
+        "point": "prusia-entry",
+        "role": "Касса Prusia и начало лесной прогулки",
+        "note": ""
+      },
+      {
+        "point": "prusia-tree",
+        "role": "Árbol Encantado",
+        "note": "Популярная остановка внутри сети троп. Сверьте подводящий маршрут у входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Много вариантов в одном секторе",
+        "text": "SINAC описывает около 16 км дорожек в совокупности. Для прогулки выбирайте отдельный лесной круг, а с детьми — выход короткой длины с разворотом. В местном отчёте много остановок в лесу и больше вариативности, чем у кратеров.",
+        "sources": [
+          "irazu",
+          "prusia-local-trip",
+          "irazu-map"
+        ]
+      },
+      {
+        "title": "Поворот с дороги к вулкану",
+        "text": "По указаниям SINAC после Tierra Blanca сворачивают с основной дороги и едут в отдельный сектор. Билеты оформляются по месту посещения на сайте SINAC. Уточните последний вход и состояние покрытия до заезда.",
+        "sources": [
+          "irazu-approaches",
+          "reservas",
+          "prusia-local-trip"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Volcán Irazú",
+        "source": "irazu-map",
+        "note": "Наличие билетов и режим сектора Cráteres. Вход в Prusia проверяется отдельным бронированием.",
+        "phone": "+506 2200 5025",
+        "url": "https://www.sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "retos-irazu",
+      "irazu-craters"
+    ],
+    "track": "irazu-map"
+  },
+  "irazu-craters": {
+    "stops": [
+      {
+        "point": "irazu-craters-parking",
+        "role": "Парковка и первый выход к смотровым",
+        "note": ""
+      },
+      {
+        "point": "irazu-main-view",
+        "role": "Смотровая у кратеров",
+        "note": "Следуйте открытым проходам и ограждениям; видимость зависит от облачности."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Высота и короткий сценарий",
+        "text": "У парковки есть кафе, туалеты и основной подход к ограждённым смотровым. Для прогулки с детьми заложите остановки и тёплые вещи. При тумане уточните видимость у сотрудников перед выходом.",
+        "sources": [
+          "irazu",
+          "irazu-map"
+        ]
+      },
+      {
+        "title": "Как выбрать сектор на день",
+        "text": "Смотровые кратеров и лесные дорожки Prusia имеют разные въезды. Бронируйте сектор по названию. По дороге из Картаго ориентируйтесь на Cot, Tierra Blanca и San Juan de Chicuá.",
+        "sources": [
+          "irazu-approaches",
+          "reservas",
+          "prusia-local-trip"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Volcán Irazú",
+        "source": "irazu-map",
+        "note": "Наличие билетов и режим сектора Cráteres. Вход в Prusia проверяется отдельным бронированием.",
+        "phone": "+506 2200 5025",
+        "url": "https://www.sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "prusia",
+      "retos-irazu"
+    ],
+    "track": "irazu-map"
+  },
+  "tapanti": {
+    "stops": [
+      {
+        "point": "tapanti",
+        "role": "Касса и вход в сектор Tapantí",
+        "note": ""
+      },
+      {
+        "point": "tapanti-info-point",
+        "role": "Информационный пункт внутри сектора",
+        "note": "Здесь сверяют подход к маршруту и состояние реки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выберите короткую или крутую тропу",
+        "text": "SINAC описывает Oropéndola около 1,2 км и Árboles Caídos около 3 км с существенным набором высоты. Короткий выход удобно сочетать с остановкой на пикник. Местный автор отмечает неровный грунт и дождь уже на подъезде.",
+        "sources": [
+          "tapanti-trail-details",
+          "tapanti",
+          "tapanti-local-trip"
+        ]
+      },
+      {
+        "title": "Как спланировать выход из Ороси",
+        "text": "Бронируя посещение, сверяйте название сектора и действующие часы. Приезжайте с запасом на парковку, дождь и обратную дорогу. У воды уточняйте ограничения в день визита. Вид на дальний водопад зависит от облачности.",
+        "sources": [
+          "tapanti-trail-details",
+          "tapanti-local-trip",
+          "tapanti"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Tapantí",
+        "source": "tapanti-trail-details",
+        "note": "Условия входа, мосты, открытые тропы и доступ к зоне пикника."
+      }
+    ],
+    "nearby": [
+      "orosi-hot",
+      "orosi-road-loop",
+      "el-camino-34"
+    ],
+    "track": "tapanti"
+  },
+  "braulio-quebrada": {
+    "stops": [
+      {
+        "point": "quebrada-sector-entry",
+        "role": "Вход Quebrada González со стороны Ruta 32",
+        "note": "Подъезжайте по дорожным указателям, стоянку сверяйте у входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три отдельных варианта для короткого дня",
+        "text": "SINAC указывает Las Palmas 1,5 км, El Ceibo 1 км и Botarrama 2,5 км. Для первой семейной прогулки можно выбрать одну из коротких троп. Парк и местный отчёт описывают очень влажный лес и корни под ногами.",
+        "sources": [
+          "braulio",
+          "braulio-sectors-map",
+          "quebrada-local-trip"
+        ]
+      },
+      {
+        "title": "План с учётом дождя и трассы",
+        "text": "Сектор расположен у Ruta 32, примерно в 42 км от Сан-Хосе по данным SINAC. Состояние основной дороги и тропы может меняться. Маршрут в сектор Barva требует отдельного переезда через Heredia.",
+        "sources": [
+          "sinac",
+          "braulio",
+          "braulio-sectors-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Braulio Carrillo",
+        "source": "braulio",
+        "note": "Режим конкретного сектора, открытые тропы и состояние горного подъезда."
+      }
+    ],
+    "nearby": [
+      "braulio-barva",
+      "adventure-camp"
+    ],
+    "track": "braulio-sectors-map"
+  },
+  "braulio-barva": {
+    "stops": [
+      {
+        "point": "sacramento-waypoint",
+        "role": "Последний населённый ориентир Sacramento",
+        "note": "Касса и горный подъезд находятся дальше. Сверьте парковку и высоту клиренса."
+      },
+      {
+        "point": "barva-lagoon-view",
+        "role": "Ориентир смотровой в верхней части горы",
+        "note": "Выбирайте подписанную тропу к Laguna Barva от кассы, после подтверждения открытия."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сеть около 10 км и отдельные прогулки",
+        "text": "Официально в секторе четыре маршрута: Cacho Venado, Laguna Barva, Copey и Mirador Vara Blanca. Сумма длин около 10 км, порядок и вариант сборки зависят от погоды. Местный отчёт выделяет более длинный выход к Copey для подготовленных ходоков.",
+        "sources": [
+          "braulio",
+          "braulio-sectors-map",
+          "barva-local-trip"
+        ]
+      },
+      {
+        "title": "Подъезд через Sacramento",
+        "text": "Последнюю часть дороги местный путеводитель описывает как каменистую. До выезда проверьте у парка возможность проезда выбранной машиной и наличие билета в сектор Barva. Облачный лес влажный и прохладный даже в день без дождя.",
+        "sources": [
+          "barva-local-trip",
+          "sinac",
+          "reservas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Braulio Carrillo",
+        "source": "braulio",
+        "note": "Режим конкретного сектора, открытые тропы и состояние горного подъезда."
+      }
+    ],
+    "nearby": [
+      "adventure-camp",
+      "adventure-mtb",
+      "braulio-quebrada"
+    ],
+    "track": "braulio-sectors-map"
+  },
+  "cloudbridge": {
+    "stops": [
+      {
+        "point": "cloudbridge-entry",
+        "role": "Касса, карта и старт",
+        "note": "Выберите открытый маршрут вместе с сотрудниками."
+      },
+      {
+        "point": "cloudbridge-valley",
+        "role": "Обзорный ориентир в долине",
+        "note": "Положение относительно выбранной тропы сверяйте на карте Cloudbridge."
+      },
+      {
+        "point": "cloudbridge-caldera",
+        "role": "Ориентир у Catarata Caldera",
+        "note": "Длинные маршруты имеют разный рельеф и пропускной режим."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий водопад, лес и длинный склон",
+        "text": "Заповедник публикует Waterfall Trail около 1 км туда и обратно и варианты длиной 3,4 и 6,4 км. Выход Montaña около 8 км может включать общую тропу Чиррипо. Подтвердите действующие правила перехода у Cloudbridge и SINAC.",
+        "sources": [
+          "cloudbridge-trails",
+          "cloudbridge"
+        ]
+      },
+      {
+        "title": "Посещение без ночёвки и с домиком",
+        "text": "Администрация даёт отдельные условия дневного визита и размещения. Из San Gerardo можно подойти пешком или узнать о трансфере. На горном подъёме важно сохранить время и силы на обратный выход к офису.",
+        "sources": [
+          "cloudbridge-arrival",
+          "cloudbridge-stay"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cloudbridge Nature Reserve",
+        "source": "cloudbridge-arrival",
+        "note": "Подъезд, остановка транспорта, открытые маршруты и дневное посещение.",
+        "phone": "+506 8856 5519",
+        "url": "https://wa.me/50688565519",
+        "email": "info@cloudbridge.org"
+      },
+      {
+        "name": "Cloudbridge · домики",
+        "source": "cloudbridge-stay",
+        "note": "Ночёвка и доступ к открытым участкам для проживающих.",
+        "email": "rentals@cloudbridge.org"
+      }
+    ],
+    "nearby": [
+      "chirripo",
+      "chirripo-3"
+    ],
+    "track": "cloudbridge-trails"
+  },
+  "los-quetzales": {
+    "stops": [
+      {
+        "point": "quetzales-entry",
+        "role": "Вход Ojo de Agua de Dota",
+        "note": "Вход на 76–76,5 км напротив Chespiritos #1."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейная прогулка в туманном лесу",
+        "text": "У поста входа спросите о состоянии Ojo de Agua. Этот маршрут описан SINAC как выход в облачный и восстанавливающийся лес с наблюдением за птицами. Сочетание с другими тропами зависит от дождя и времени.",
+        "sources": [
+          "queta",
+          "quetzales-ict"
+        ]
+      },
+      {
+        "title": "Ранний выезд и остановка на еду",
+        "text": "Официальный въезд находится напротив Chespiritos #1 на Ruta 2. Подъезжайте с запасом на влажный туман и возьмите тёплый слой. За птицами можно поехать отдельно в долину Savegre и подтвердить гида в выбранном лодже.",
+        "sources": [
+          "quetzales-directions",
+          "quetzales-ict",
+          "queta"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Los Quetzales",
+        "source": "quetzales-ict",
+        "note": "Уточнение троп, пропуска и парковки у поста Ojo de Agua.",
+        "phone": "+506 2514 0403"
+      }
+    ],
+    "nearby": [
+      "savegre"
+    ],
+    "track": "quetzales-directions"
+  },
+  "santa-rosa-casona": {
+    "stops": [
+      {
+        "point": "santa-rosa",
+        "role": "Администрация и проверка билета",
+        "note": ""
+      },
+      {
+        "point": "santa-rosa-casona-point",
+        "role": "Музей La Casona",
+        "note": "История сражения 1856 года и хозяйства."
+      },
+      {
+        "point": "santa-rosa-mirador",
+        "role": "Обзорная точка исторического сектора",
+        "note": "Следуйте официальным указателям от музейной зоны."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий день для семьи",
+        "text": "От въезда по Панамериканскому шоссе до исторической зоны около 7 км внутреннего асфальта. После музея выберите открытую короткую тропу сухого леса у комплекса. В формуляре ACG есть визиты для школьных групп.",
+        "sources": [
+          "santa-rosa",
+          "santa-rosa-ict-map",
+          "acg-booking"
+        ]
+      },
+      {
+        "title": "Что можно добавить к прогулке",
+        "text": "Отдельный Sendero Noventa y Nueve у ACG описан как 4,5 км, старт в стороне от музея. К точкам на дороге к Наранхо переходите только после проверки открытых участков. Велосипеды на пеших тропах подчиняются местным ограничениям.",
+        "sources": [
+          "santa-rosa",
+          "naranjo-acg-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      }
+    ],
+    "nearby": [
+      "santa-rosa-camp",
+      "naranjo-4x4",
+      "junquillal"
+    ],
+    "track": "santa-rosa-ict-map"
+  },
+  "santa-rosa-camp": {
+    "stops": [
+      {
+        "point": "santa-rosa",
+        "role": "Администрация Santa Rosa",
+        "note": "Уточните место палатки и время оформления."
+      },
+      {
+        "point": "santa-rosa-camp-point",
+        "role": "Основной лагерь у исторической зоны",
+        "note": ""
+      },
+      {
+        "point": "santa-rosa-casona-point",
+        "role": "La Casona",
+        "note": "Пешеходный день от лагеря, уточните удобный подход."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какой именно кемпинг выбрать",
+        "text": "Основной лагерь связан асфальтом с основной дорогой и расположен рядом с административной зоной. Лагерь у Наранхо находится в другом секторе. Для ночёвки с авто выясните место установки, наличие воды и время въезда у ACG.",
+        "sources": [
+          "santa-rosa",
+          "santa-rosa-ict-map",
+          "acg-booking"
+        ]
+      },
+      {
+        "title": "Что взять и где остановиться",
+        "text": "Хозяйственные условия зависят от выбранной площадки. Официальная схема указывает использование газового оборудования или угля там, где приготовление разрешено. Для короткого дневного маршрута оставайтесь в историческом секторе или продолжите до Junquillal по подтверждённой брони.",
+        "sources": [
+          "santa-rosa-ict-map",
+          "acg-booking",
+          "junquillal-booking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      }
+    ],
+    "nearby": [
+      "santa-rosa-casona",
+      "junquillal",
+      "naranjo-4x4"
+    ],
+    "track": "santa-rosa-ict-map"
+  },
+  "naranjo-surf": {
+    "stops": [
+      {
+        "point": "santa-rosa",
+        "role": "Наземный подход через Santa Rosa",
+        "note": "Только после подтверждения дороги ACG."
+      },
+      {
+        "point": "naranjo-beach",
+        "role": "Playa Naranjo · ориентир берега",
+        "note": "Место входа в воду выбирают по условиям вместе с местным капитаном или гидом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лодка и наземный подъезд",
+        "text": "Операторы предлагают выходы к Roca Bruja из Playas del Coco и залива Papagayo. Точку посадки согласуйте с капитаном. Для наземного варианта отдельно оформляется доступ через ACG. Последний участок чувствителен к ливням и приливу.",
+        "sources": [
+          "witches-rock-boat-coco",
+          "witches-rock-surfari",
+          "naranjo-acg-field"
+        ]
+      },
+      {
+        "title": "Поездка под уровень группы",
+        "text": "Покажите оператору опыт в сёрфинге и уточните волну, посадку и условия отмены. Surfari предлагает для первого урока отдельный выезд в Iguanita при подходящих условиях. Для выезда по суше на пляж своей группой берите питьевую воду и запас на обратную связь.",
+        "sources": [
+          "witches-rock-surfari",
+          "naranjo",
+          "naranjo-acg-field",
+          "naranjo-motorumbo"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      },
+      {
+        "name": "Witches Rock Surf ’N Fish",
+        "source": "witches-rock-boat-coco",
+        "note": "Чартер, сёрф и рыбалка с отправлением из Playas del Coco."
+      },
+      {
+        "name": "Witch’s Rock Surfari",
+        "source": "witches-rock-surfari",
+        "note": "Лодка из района Papagayo и учебные занятия у Iguanita."
+      }
+    ],
+    "nearby": [
+      "naranjo-4x4",
+      "santa-rosa-camp",
+      "tamarindo-surf"
+    ],
+    "track": "naranjo-acg-field"
+  },
+  "rincon-pailas": {
+    "stops": [
+      {
+        "point": "pailas-visitor-point",
+        "role": "Пункт посетителей и старт круга",
+        "note": "Уточните открытую часть маршрута на входе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Геотермальный круг на 3,3 км",
+        "text": "В ноябрьском описании ACG круг начинается у центра посетителей. Бетонный участок сменяется гравием и ступенями. Парк рекомендует начинать вправо, чтобы пройти открытые участки до тенистого леса. Доступную часть для коляски выясните в центре.",
+        "sources": [
+          "pailas-acg-loop",
+          "rincon-ict-map"
+        ]
+      },
+      {
+        "title": "Две отдельные тропы к водопадам",
+        "text": "К Ла-Кангрехе и Эскондидас идут с того же пункта посетителей, но с более ранним временем входа и большим запасом воды. Если группа выбрала круг Las Pailas, закладывайте больше времени на остановки у геотермальных точек.",
+        "sources": [
+          "cangreja-acg-2026",
+          "escondidas-acg-2026",
+          "acg-booking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      }
+    ],
+    "nearby": [
+      "rincon-cangreja-10",
+      "rincon-escondidas",
+      "rincon-santa-maria"
+    ],
+    "track": "rincon-ict-map"
+  },
+  "rincon-cangreja-10": {
+    "stops": [
+      {
+        "point": "pailas-visitor-point",
+        "role": "Старт Las Pailas",
+        "note": ""
+      },
+      {
+        "point": "cangreja-falls-point",
+        "role": "Разворот у водопада",
+        "note": "Последний участок спускается к ущелью Zanja Tapada."
+      },
+      {
+        "point": "pailas-visitor-point",
+        "role": "Финиш тем же путём",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пять километров в каждую сторону",
+        "text": "Первые около двух километров общие с Cataratas Escondidas. Дальше следуйте указателю на Ла-Кангреху. Парк описывает продолжительный спуск на гравии и камнях и советует начать до полудня. Уточните состояние тропы после дождя.",
+        "sources": [
+          "cangreja-acg-2026",
+          "rincon-foot-profiles"
+        ]
+      },
+      {
+        "title": "Гид и запасной план",
+        "text": "Опубликованное ACG время предполагает несколько часов в пути. Возьмите воду и запас на обратный подъём. У Hacienda Guachipelín есть программа с местным гидом. Если длинный выход недоступен, уточните короткий круг Las Pailas.",
+        "sources": [
+          "cangreja-acg-2026",
+          "pailas-acg-loop",
+          "cangreja-guachipelin"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      },
+      {
+        "name": "Hacienda Guachipelín",
+        "source": "cangreja-guachipelin",
+        "note": "Сопровождение к водопаду и программы хозяйства. Уточните время встречи и включённые услуги."
+      }
+    ],
+    "nearby": [
+      "rincon-pailas",
+      "rincon-escondidas",
+      "guachipelin"
+    ],
+    "track": "rincon-ict-map",
+    "line": "rincon-cangreja-10"
+  },
+  "rincon-escondidas": {
+    "stops": [
+      {
+        "point": "pailas-visitor-point",
+        "role": "Старт Las Pailas",
+        "note": ""
+      },
+      {
+        "point": "escondidas-falls-point",
+        "role": "Ориентир Cataratas Escondidas",
+        "note": "У конечной зоны оставайтесь на открытом для посетителей участке."
+      },
+      {
+        "point": "pailas-visitor-point",
+        "role": "Финиш тем же путём",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Развилка и подъём",
+        "text": "Первые два километра примерно совпадают с Ла-Кангрехой. По схеме ACG далее около 2,3 км к водопадам по крутому склону. Отмеченная общая длина — около 8,6 км туда и назад.",
+        "sources": [
+          "escondidas-acg-2026",
+          "rincon-foot-profiles",
+          "rincon-ict-map"
+        ]
+      },
+      {
+        "title": "Когда лучше выбрать другой маршрут",
+        "text": "На солнечном участке нет постоянной тени. Для семьи с маленькими детьми начните с короткой доступной прогулки Las Pailas. У кассы уточните время последнего прохода к водопадам.",
+        "sources": [
+          "escondidas-acg-2026",
+          "pailas-acg-loop",
+          "acg-booking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      }
+    ],
+    "nearby": [
+      "rincon-pailas",
+      "rincon-cangreja-10"
+    ],
+    "track": "rincon-ict-map",
+    "line": "rincon-escondidas"
+  },
+  "rincon-mtb": {
+    "stops": [
+      {
+        "point": "rincon-trails-base",
+        "role": "Парковка и старт сети",
+        "note": "По словам оператора, после дождя подъезд размокает."
+      },
+      {
+        "point": "pipe-liberia",
+        "role": "Дополнительный старт в Либерии",
+        "note": "Этот вариант относится к длинному велокругу."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три петли по уровню",
+        "text": "Оператор перечисляет Coyote около 7 км, Ojoche около 3 км и Sunrise Kingdom около 2 км. Круги возвращаются к внутренней основной дороге. Для семейного выезда выберите одну секцию после разговора о покрытии и уклонах.",
+        "sources": [
+          "rincon-trails-route",
+          "rincon-bike"
+        ]
+      },
+      {
+        "title": "Как удлинить до 30 км",
+        "text": "Организатор предлагает приехать на велосипеде из Либерии и вернуться к кафе после троп. Проверьте открытые секции, режим парковки и собственный опыт на дороге. При въезде на машине уточните, нужен ли высокий автомобиль после ливня.",
+        "sources": [
+          "rincon-trails-route",
+          "donde-pipe-liberia"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rincón Trails · Bike & Adventure",
+        "source": "rincon-trails-route",
+        "note": "Проверка грязи и открытых трасс, свой велосипед, бронирование и правила электро-MTB.",
+        "phone": "+506 8854 1331",
+        "url": "https://wa.me/50688541331"
+      },
+      {
+        "name": "Donde Pipe · Barrio Los Ángeles",
+        "source": "donde-pipe-liberia",
+        "note": "Отделение в Либерии для завтрака и старта. Согласуйте место парковки с кафе.",
+        "phone": "+506 2665 4343",
+        "url": "https://wa.me/50684694343"
+      }
+    ],
+    "nearby": [
+      "rincon-mtb-30",
+      "guachipelin",
+      "rincon-pailas"
+    ],
+    "track": "rincon-trails-route"
+  },
+  "rincon-mtb-30": {
+    "stops": [
+      {
+        "point": "pipe-liberia",
+        "role": "Старт в Либерии",
+        "note": "Сверьте правильный филиал и возможность оставить машину."
+      },
+      {
+        "point": "rincon-trails-base",
+        "role": "Сеть Rincón Trails",
+        "note": "Выберите одну или несколько петель по опубликованной схеме."
+      },
+      {
+        "point": "pipe-liberia",
+        "role": "Финиш и кафе",
+        "note": "Возвращение тем же автомобильным подъездом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Откуда берутся 30 км",
+        "text": "Оператор оценивает подход из центра Либерии примерно в 8 км в одну сторону. При добавлении лесных кругов выходит порядка 30 км. Дорожная часть проходит с автомобильным движением. Уточните фактический километраж по выбранным петлям и старту.",
+        "sources": [
+          "rincon-trails-route",
+          "donde-pipe-liberia"
+        ]
+      },
+      {
+        "title": "Местное кафе и варианты длины",
+        "text": "Кафе Donde Pipe в Barrio Los Ángeles обозначено ориентиром у организатора. У ресторана несколько филиалов. Если нужно сократить поездку, паркуйтесь у начала троп по согласованию и выберите 2, 3 или 7 км по покрытию.",
+        "sources": [
+          "donde-pipe-liberia",
+          "rincon-trails-route"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rincón Trails · Bike & Adventure",
+        "source": "rincon-trails-route",
+        "note": "Проверка грязи и открытых трасс, свой велосипед, бронирование и правила электро-MTB.",
+        "phone": "+506 8854 1331",
+        "url": "https://wa.me/50688541331"
+      },
+      {
+        "name": "Donde Pipe · Barrio Los Ángeles",
+        "source": "donde-pipe-liberia",
+        "note": "Отделение в Либерии для завтрака и старта. Согласуйте место парковки с кафе.",
+        "phone": "+506 2665 4343",
+        "url": "https://wa.me/50684694343"
+      }
+    ],
+    "nearby": [
+      "rincon-mtb",
+      "guachipelin"
+    ],
+    "track": "rincon-trails-route"
+  },
+  "rincon-santa-maria": {
+    "stops": [
+      {
+        "point": "santa-maria-station",
+        "role": "Отдельный вход Santa María",
+        "note": "Подъезд со стороны Liberia и Colonia Blanca. Уточните дорожные условия и место стоянки."
+      },
+      {
+        "point": "santa-maria-thermal-point",
+        "role": "Ориентир источников",
+        "note": "Проверяйте у рейнджеров допустимый подход и условия воды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лесной вариант около 6 км туда и обратно",
+        "text": "В описании ACG источники расположены примерно в трёх километрах пешком от Casona. На месте спросите, как отметить короткий выход к Bosque Encantado и холодные вулканические выходы. Уточняйте режим термальной зоны и возможность подхода в этот день.",
+        "sources": [
+          "santa-maria-acg-route",
+          "rincon-ict-map"
+        ]
+      },
+      {
+        "title": "Планируйте визит отдельным сектором",
+        "text": "Santa María и Las Pailas оформляются как два сектора. Для машины используйте подтверждённый подъезд через Colonia Blanca и сверьте состояние дороги после осадков. Обходы закрытых участков через парк в план не включены.",
+        "sources": [
+          "santa-maria-acg-route",
+          "acg-booking",
+          "rincon"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      }
+    ],
+    "nearby": [
+      "rincon-pailas",
+      "rincon-cangreja-10",
+      "guachipelin"
+    ],
+    "track": "rincon-ict-map"
+  },
+  "guachipelin": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Ресепшен, питание и встреча с инструктором",
+        "note": ""
+      },
+      {
+        "point": "guachipelin-thermal-point",
+        "role": "Термальная зона Río Negro",
+        "note": "Доступ оформляет хозяйство."
+      },
+      {
+        "point": "pailas-visitor-point",
+        "role": "Отдельный визит в Las Pailas",
+        "note": "Проверьте действующий билет парка и время прохода."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Рио-Негро, канопи и термы",
+        "text": "По FAQ хозяйства tubing доступен детям от 8 лет, canyoning от 10, канопи и конная прогулка от 4. Уточняйте ограничения по конкретному пакету и условия реки. Для семей с детьми младше выбранного минимума у хозяйства есть термальные купальни и отдельные прогулки.",
+        "sources": [
+          "guachipelin-faq",
+          "guachipelin-tubing"
+        ]
+      },
+      {
+        "title": "Как выбрать базу для двух выездов",
+        "text": "Первый день можно оставить для услуг Hacienda, второй посвятить тропе у вулкана. Точки посадки на речную программу отделены от точки встречи у ресепшена, транспорт и снаряжение уточняются у организатора.",
+        "sources": [
+          "guachipelin-faq",
+          "cangreja-guachipelin",
+          "acg-booking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Guachipelín",
+        "source": "hacienda-gua",
+        "note": "Семейные туры, расписание, трансфер и билеты на территории отеля."
+      }
+    ],
+    "nearby": [
+      "rincon-pailas",
+      "rincon-cangreja-10",
+      "rincon-mtb"
+    ],
+    "track": "guachipelin-faq"
+  },
+  "junquillal": {
+    "stops": [
+      {
+        "point": "junquillal-gate",
+        "role": "Въезд в заказник и стойка Aso Junquillal",
+        "note": "Место самой палатки выделяет ассоциация."
+      },
+      {
+        "point": "rajada-area",
+        "role": "Возможный дневной выезд к Playa Rajada",
+        "note": "Отдельный район, точку выхода к пляжу уточните на месте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка с палаткой на крыше",
+        "text": "Местный отчёт описывает ночёвку в официальной зоне на кемпере с крышной палаткой. Ассоциация ведёт запись и распределяет стоянки. При бронировании назовите длину машины и уточните наличие навеса, текущую цену и время заезда.",
+        "sources": [
+          "junquillal-roof-local",
+          "junquillal-booking",
+          "junquillal-association"
+        ]
+      },
+      {
+        "title": "Тропа и отдых у воды",
+        "text": "У заказника есть лесная тропа вдоль Estero Seco. Проверьте состояние маршрута, прилив и разрешённую зону у воды в день визита. Дневной выезд к северной Playa Rajada можно сделать отдельно, оставив ночёвку в официальном лагере.",
+        "sources": [
+          "junquillal-trails",
+          "junquillal-roof-local",
+          "junquillal"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aso Junquillal",
+        "source": "junquillal-booking",
+        "note": "Дневной визит, место для кемпера, въезд с крышей и резервирование ночёвки.",
+        "phone": "+506 6231 5191",
+        "url": "https://wa.me/50662315191",
+        "email": "info@junquillallacruz.com"
+      },
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      }
+    ],
+    "nearby": [
+      "santa-rosa-junquillal",
+      "santa-rosa-casona",
+      "santa-rosa-camp"
+    ],
+    "track": "junquillal-trails"
+  },
+  "santa-rosa-junquillal": {
+    "stops": [
+      {
+        "point": "santa-rosa-casona-point",
+        "role": "День 1 · La Casona",
+        "note": "Короткая прогулка сухого леса от исторического комплекса."
+      },
+      {
+        "point": "junquillal-gate",
+        "role": "День 1 · кемпинг и ночёвка",
+        "note": "Место и режим въезда подтвердите у ассоциации."
+      },
+      {
+        "point": "rajada-area",
+        "role": "День 2 · дополнительная остановка Playa Rajada",
+        "note": "Береговой выезд после утренней тропы в заказнике."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Почему сочетание удобно на выходные",
+        "text": "Историческая зона Santa Rosa доступна по внутреннему асфальту. Затем маршрут возвращается на основную дорожную сеть по направлению к Cuajiniquil и лагерь Junquillal. Это даёт короткую семейную прогулку и отдельную ночёвку у моря.",
+        "sources": [
+          "santa-rosa",
+          "santa-rosa-ict-map",
+          "junquillal-trails"
+        ]
+      },
+      {
+        "title": "Если едете с крышей",
+        "text": "Локальный отчёт подтверждает такой формат на площадке. Уточните ровный проезд, тень, питьевую воду и время, после которого закрывается въезд. Северный пляж на второй день остаётся дневной остановкой.",
+        "sources": [
+          "junquillal-roof-local",
+          "junquillal-booking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aso Junquillal",
+        "source": "junquillal-booking",
+        "note": "Дневной визит, место для кемпера, въезд с крышей и резервирование ночёвки.",
+        "phone": "+506 6231 5191",
+        "url": "https://wa.me/50662315191",
+        "email": "info@junquillallacruz.com"
+      },
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      }
+    ],
+    "nearby": [
+      "santa-rosa-casona",
+      "junquillal",
+      "naranjo-4x4"
+    ],
+    "track": "santa-rosa-ict-map"
+  },
+  "oasis-roof": {
+    "stops": [
+      {
+        "point": "amistad-bridge",
+        "role": "Дорожный ориентир перед кемпингом",
+        "note": "Точка на мосту отмечает направление по Ruta 18. Точный въезд на площадку пришлют владельцы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ровная площадка по пути на Никойю",
+        "text": "Каталог указывает места для наземной и крышной палатки и фургона, душевые и общую кухню. В авторском отчёте участники ждали открытия ворот, когда приехали без договорённости. Спросите цену, место и срок последнего заезда заранее.",
+        "sources": [
+          "camp-oasis",
+          "oasis-bikepacking-report"
+        ]
+      },
+      {
+        "title": "Если приезжаете на велосипеде",
+        "text": "Автор поездки отмечает движение машин на Ruta 18. Оформите заезд до темноты и обсудите последние километры с хозяевами. Кемпинг подходит как перевалочная база, из которой выбирают направление на Никойю.",
+        "sources": [
+          "camp-oasis",
+          "oasis-bikepacking-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Oasis Place Campground",
+        "source": "camp-oasis",
+        "note": "Запросите точный пин въезда, время открытия ворот и подтверждение места под крышную палатку.",
+        "phone": "+1 973 517 0237",
+        "url": "https://wa.me/19735170237"
+      }
+    ],
+    "nearby": [
+      "week-4x4-mtb",
+      "junquillal"
+    ],
+    "track": "camp-oasis"
+  },
+  "week-4x4-mtb": {
+    "stops": [
+      {
+        "point": "amistad-bridge",
+        "role": "День 1 · Ruta 18, ориентир для Oasis Place",
+        "note": "Получите пин въезда у хозяев или выберите другую согласованную ночёвку."
+      },
+      {
+        "point": "rincon-trails-base",
+        "role": "День 2 · велокруги у Либерии",
+        "note": "2, 3 или 7 км по лесу либо около 30 км с подъездом из города."
+      },
+      {
+        "point": "santa-rosa-casona-point",
+        "role": "День 3 · Santa Rosa",
+        "note": "Наранхо добавляют только при подтверждении дороги и брони."
+      },
+      {
+        "point": "las-catalinas",
+        "role": "День 4 · MTB у побережья",
+        "note": ""
+      },
+      {
+        "point": "tamarindo-iguana",
+        "role": "День 5 · ориентир школы сёрфа",
+        "note": ""
+      },
+      {
+        "point": "tronadora-camp",
+        "role": "День 6 · подтверждённая стоянка у озера",
+        "note": ""
+      },
+      {
+        "point": "arenal-peninsula-entry",
+        "role": "День 7 · береговая прогулка",
+        "note": "Короткая прогулка или термы по обстановке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где нужен пикап, а где можно доехать по основной дороге",
+        "text": "Длинные перегоны идут по общей дорожной сети. Отдельного решения требуют каменистый подъезд к Наранхо и размокшие последние участки велопарка. Проверьте условия аренды и наличие подтверждения у ACG. При закрытом Наранхо оставьте La Casona и согласованную ночёвку.",
+        "sources": [
+          "naranjo-acg-field",
+          "naranjo",
+          "rincon-trails-route",
+          "nomad-road"
+        ]
+      },
+      {
+        "title": "Как организовать ночёвки и отдых",
+        "text": "Для первого и шестого дня есть площадки с указанным форматом автопалаток. Для остальных ночей выберите заранее подтверждённое жильё или лагерь в районе дневной программы. Крышная палатка требует отдельного разрешения именно на вашей площадке. Las Catalinas и Tamarindo дают варианты проката и обучения.",
+        "sources": [
+          "camp-oasis",
+          "camp-tronadora",
+          "catalinas",
+          "iguana-surf"
+        ]
+      },
+      {
+        "title": "Как читать карту семидневного маршрута",
+        "text": "Точки дают ход программы по дням. Для каждого переезда проверяйте актуальный проезд по общественным дорогам, а для спортивного участка используйте карту парка или проката. Разложите переезды на световой день, особенно при смене погоды.",
+        "sources": [
+          "nomad-road",
+          "santa-rosa-ict-map",
+          "rincon-trails-route"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Oasis Place Campground",
+        "source": "camp-oasis",
+        "note": "Запросите точный пин въезда, время открытия ворот и подтверждение места под крышную палатку.",
+        "phone": "+1 973 517 0237",
+        "url": "https://wa.me/19735170237"
+      },
+      {
+        "name": "Rincón Trails · Bike & Adventure",
+        "source": "rincon-trails-route",
+        "note": "Проверка грязи и открытых трасс, свой велосипед, бронирование и правила электро-MTB.",
+        "phone": "+506 8854 1331",
+        "url": "https://wa.me/50688541331"
+      },
+      {
+        "name": "Área de Conservación Guanacaste",
+        "source": "acg-booking",
+        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
+        "phone": "+506 2666 5051",
+        "url": "https://wa.me/50688869510",
+        "email": "ecoturismo@acguanacaste.ac.cr"
+      },
+      {
+        "name": "Aso Junquillal",
+        "source": "junquillal-booking",
+        "note": "Дневной визит, место для кемпера, въезд с крышей и резервирование ночёвки.",
+        "phone": "+506 6231 5191",
+        "url": "https://wa.me/50662315191",
+        "email": "info@junquillallacruz.com"
+      }
+    ],
+    "nearby": [
+      "santa-rosa-junquillal",
+      "naranjo-4x4",
+      "rincon-mtb-30",
+      "tronadora-weekend-roof"
+    ],
+    "track": "rincon-trails-route"
+  },
+  "arenal-eco-camp": {
+    "stops": [
+      {
+        "point": "arenal-eco-entry",
+        "role": "Частный въезд, парковка и оформление",
+        "note": "Оператор указывает около 10 км в западном направлении от центра Ла-Фортуны."
+      },
+      {
+        "point": "arenal-eco-lagoon",
+        "role": "Лагуна · дневной ориентир",
+        "note": "Место самой палатки укажите при согласовании программы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Своё снаряжение или палатка под навесом",
+        "text": "У парка есть наземный кемпинг, душевые и туалеты. Отдельно предлагают оснащённую палатку и пакет с термами. Уточните, какой вариант вы бронируете и нужна ли своя кухня. Для ночёвки в палатке на машине спросите доступ к ровной стоянке.",
+        "sources": [
+          "arenal-eco-camp-details",
+          "arenal-eco-arrival",
+          "arenal-eco-camp-local"
+        ]
+      },
+      {
+        "title": "Частный вход и свои маршруты",
+        "text": "У парка отдельная парковка и собственные цветные тропы по лавовым участкам. Проезд и билет на него оформляются у оператора, у соседнего национального парка другие входы. Для ранней прогулки возьмите схему при регистрации.",
+        "sources": [
+          "arenal-eco-trails-map",
+          "arenal-eco-arrival",
+          "arenal"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Parque Ecológico Volcán Arenal",
+        "source": "arenal-eco-arrival",
+        "note": "Кемпинг, карта частных троп, наличие снаряжения и доступ на машине.",
+        "phone": "+506 8527 1893",
+        "url": "https://wa.me/50685271893"
+      }
+    ],
+    "nearby": [
+      "arenal-coladas",
+      "arenal-peninsula",
+      "arenal-autocamp-3"
+    ],
+    "track": "arenal-eco-trails-map"
+  },
+  "arenal-coladas": {
+    "stops": [
+      {
+        "point": "arenal-coladas-gate",
+        "role": "Касса Sector Volcán",
+        "note": ""
+      },
+      {
+        "point": "arenal-el-ceibo",
+        "role": "Развилка El Ceibo",
+        "note": "Дополнительный лесной участок. Проверьте доступ и прогноз дождя."
+      },
+      {
+        "point": "arenal-lava-view",
+        "role": "Mirador Colada",
+        "note": "Разворот у доступной смотровой по указателям."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длину считайте от выбранной парковки",
+        "text": "SINAC указывает около 1,7 км для собственно отрезка Las Coladas к смотровой. Подход от начальной парковки и обратная дорога добавляют расстояние. La Heliconia и El Ceibo дают отдельные варианты на карте. Камень и ступени у смотровой ощутимо отличаются от лесной грунтовки.",
+        "sources": [
+          "arenal",
+          "arenal-sinac-map",
+          "arenal-local-2026"
+        ]
+      },
+      {
+        "title": "Как выбрать вход",
+        "text": "Ищите указатель Sector Volcán. Местный справочник указывает оплату у кассы, проверяйте порядок продажи у SINAC перед выездом. Следуйте открытым тропам и разворачивайтесь у ограничителей. Подъём к кратеру и сопке Chato закрыт по сообщению SINAC.",
+        "sources": [
+          "arenal-local-2026",
+          "arenal-sinac-access-2026",
+          "arenal-sinac-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Volcán Arenal",
+        "source": "arenal",
+        "note": "Открытые маршруты и условия посещения выбранного сектора."
+      }
+    ],
+    "nearby": [
+      "arenal-peninsula",
+      "arenal-observatory",
+      "arenal-eco-camp"
+    ],
+    "track": "arenal-sinac-map",
+    "line": "arenal-coladas"
+  },
+  "arenal-peninsula": {
+    "stops": [
+      {
+        "point": "arenal-peninsula-entry",
+        "role": "Парковка сектор Península",
+        "note": "Отдельный въезд к озеру."
+      },
+      {
+        "point": "arenal-peninsula-view",
+        "role": "Ориентир береговой смотровой",
+        "note": "На подходе следуйте указателям и открытым дорожкам."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий вариант у озера",
+        "text": "Схема SINAC описывает береговой отрезок около 1,3 км. Для детей можно выбрать конкретную смотровую и вернуться. Состояние доступной дорожки, работа платформы и возможность проезда на коляске уточняются у входа.",
+        "sources": [
+          "arenal-sinac-map",
+          "arenal-sinac-access-2026",
+          "arenal-local-2026"
+        ]
+      },
+      {
+        "title": "Сочетание с водой",
+        "text": "Отдельный прокат и разрешённые места выхода на воду ищите через El Castillo или подтверждённого оператора озера. Тропа внутри охраняемой территории даёт виды на озеро и прогулку. Посадку на SUP согласуйте у организатора воды.",
+        "sources": [
+          "arenal-sinac-map",
+          "arenal-elcastillo-sup",
+          "ict-sup"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Volcán Arenal",
+        "source": "arenal",
+        "note": "Открытые маршруты и условия посещения выбранного сектора."
+      }
+    ],
+    "nearby": [
+      "arenal-coladas",
+      "arenal-paddle",
+      "tronadora-weekend-roof"
+    ],
+    "track": "arenal-sinac-map"
+  },
+  "arenal-observatory": {
+    "stops": [
+      {
+        "point": "arenal-observatory-entry",
+        "role": "Лодж и оформление дневного визита",
+        "note": ""
+      },
+      {
+        "point": "arenal-observatory-deck",
+        "role": "Терраса с видами",
+        "note": "Здесь можно начать с короткого варианта, если лес мокрый."
+      },
+      {
+        "point": "arenal-danta-area",
+        "role": "Район водопада",
+        "note": "Следуйте карте лоджа, точка обозначает ориентир на территории."
+      }
+    ],
+    "sections": [
+      {
+        "title": "От смотровой до тренировки на 8 км",
+        "text": "Оператор описывает 11 км троп в совокупности. Дневные пропуска включают выбор самостоятельной прогулки, подход к Danta и отдельный спортивный круг на 8 км. Возьмите карту у сотрудников, если соединяете маршруты.",
+        "sources": [
+          "arenal-observatory-map",
+          "arenal-observatory-pass"
+        ]
+      },
+      {
+        "title": "Транспорт и погода",
+        "text": "Лодж находится на отдельной частной территории у вулкана. Уточните режим дневного входа, последний заезд и доступность спуска к воде. Для короткого визита подойдут обзорная площадка и открытый ближайший участок.",
+        "sources": [
+          "arenal-observatory-contact",
+          "arenal-observatory-map",
+          "arenal-observatory-pass"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Observatory Lodge",
+        "source": "arenal-observatory-contact",
+        "note": "Билет Day Pass, схема троп и условия посещения.",
+        "phone": "+506 2479 1070",
+        "url": "https://wa.me/50683575260"
+      }
+    ],
+    "nearby": [
+      "arenal-coladas",
+      "arenal-peninsula",
+      "arenal-eco-camp"
+    ],
+    "track": "arenal-observatory-map"
+  },
+  "tenorio-celeste": {
+    "stops": [
+      {
+        "point": "tenorio-pilon-entry",
+        "role": "Вход El Pilón",
+        "note": "Вход по забронированному времени."
+      },
+      {
+        "point": "tenorio-falls",
+        "role": "Смотровая Catarata Río Celeste",
+        "note": "Вниз к водопаду ведут ступени."
+      },
+      {
+        "point": "tenorio-borbollones",
+        "role": "Borbollones",
+        "note": "Промежуточный ориентир на основной тропе."
+      },
+      {
+        "point": "tenorio-tenideros",
+        "role": "Teñideros · разворот",
+        "note": "Обратный путь по основной тропе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Около 6 км с отдельным спуском к водопаду",
+        "text": "По данным SINAC, полный проход занимает около трёх часов. Пройдите к водопаду, затем продолжите через точки на реке до Teñideros. Местный обзор ноября 2026 отмечает грязь после дождя и длинную лестницу у водопада.",
+        "sources": [
+          "tenorio",
+          "tenorio-ict-map",
+          "tenorio-recent-guide"
+        ]
+      },
+      {
+        "title": "Прогулка в парке и речной выезд",
+        "text": "Билет оформляйте на El Pilón через SINAC. Для купания и тюбинга есть отдельные варианты вне парка. У прогулки и сплава разные места встречи. При сильном дожде проверьте открытие тропы у парка и уровень воды у оператора.",
+        "sources": [
+          "tenorio-recent-guide",
+          "celeste-guanacaste-2026",
+          "celeste-operator-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Volcán Tenorio",
+        "source": "tenorio",
+        "note": "Бронирование El Pilón, открытые тропы и доступ к водопаду.",
+        "url": "https://www.sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+      },
+      {
+        "name": "Río Celeste Aventuras",
+        "source": "celeste-operator-contact",
+        "note": "Уровень воды, возраст ребёнка, точка встречи и возврат с маршрута.",
+        "phone": "+506 8897 4446",
+        "url": "https://wa.me/50688974446",
+        "email": "info@riocelesteaventuras.com"
+      }
+    ],
+    "nearby": [
+      "rio-celeste-tubing",
+      "arenal-autocamp-3"
+    ],
+    "track": "tenorio-ict-map",
+    "line": "tenorio-celeste"
+  },
+  "rio-celeste-tubing": {
+    "stops": [
+      {
+        "point": "celeste-katira-base",
+        "role": "База, парковка и встреча с гидом",
+        "note": "Маршрут проходит ниже национального парка, точку входа на воду определяет гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Около двух часов в программе",
+        "text": "Río Celeste Aventuras описывает пороги I–II и спокойные заводи на выбранном участке, проводника и защитное снаряжение. Возврат до базы включён. На месте уточняйте посадку в индивидуальный тюб и правила для ребёнка, которому меньше шести лет.",
+        "sources": [
+          "celeste-operator-tubing",
+          "celeste-operator-contact"
+        ]
+      },
+      {
+        "title": "Как запланировать день с водопадом",
+        "text": "На прогулку к водопаду резервируют отдельный вход El Pilón. Тюбинг оформляют у местного оператора с базой в Katira примерно в двадцати минутах езды от парка. После сильных дождей оператор может отменить выход.",
+        "sources": [
+          "celeste-operator-contact",
+          "celeste-guanacaste-2026",
+          "tenorio-recent-guide",
+          "celeste-operator-tubing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Río Celeste Aventuras",
+        "source": "celeste-operator-contact",
+        "note": "Уровень воды, возраст ребёнка, точка встречи и возврат с маршрута.",
+        "phone": "+506 8897 4446",
+        "url": "https://wa.me/50688974446",
+        "email": "info@riocelesteaventuras.com"
+      },
+      {
+        "name": "SINAC · Parque Nacional Volcán Tenorio",
+        "source": "tenorio",
+        "note": "Бронирование El Pilón, открытые тропы и доступ к водопаду.",
+        "url": "https://www.sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "tenorio-celeste"
+    ],
+    "track": "celeste-operator-contact"
+  },
+  "arenal-autocamp-3": {
+    "stops": [
+      {
+        "point": "arenal-eco-entry",
+        "role": "День 1 · вариант частного кемпинга у вулкана",
+        "note": "Билет и ночёвку согласуйте с оператором заранее."
+      },
+      {
+        "point": "arenal-coladas-gate",
+        "role": "День 2 · старт лавовой тропы",
+        "note": "Отдельный вход SINAC."
+      },
+      {
+        "point": "tronadora-camp",
+        "role": "День 2 · стоянка у Тронадоры",
+        "note": "Подтвердите место и поздний заезд с крышной палаткой."
+      },
+      {
+        "point": "el-castillo",
+        "role": "День 3 · район проката у озера",
+        "note": "Если ветер мешает выходу на воду, используйте наземный вариант."
+      },
+      {
+        "point": "arenal-peninsula-entry",
+        "role": "День 3 · прогулка Península",
+        "note": "Самостоятельный въезд к береговому сектору."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дни 1 и 2 по дороге вокруг озера",
+        "text": "Первую ночь можно провести в оговорённом лагере или в Ла-Фортуне. После тропы Coladas вернитесь на общую дорогу вокруг озера и проверьте световое время до стоянки в Тронадоре. Подъезд к площадке смотрите на карте хозяев.",
+        "sources": [
+          "arenal-eco-camp-details",
+          "arenal-sinac-map",
+          "camp-tronadora",
+          "tico-arenal"
+        ]
+      },
+      {
+        "title": "День 3 выбирается по ветру",
+        "text": "Для SUP согласуйте место проката или спуска и вернитесь на берег до ухудшения условий. Península служит вариантом короткой прогулки при неподходящем ветре. Выберите одну программу по времени: переезд между берегами озера занимает часть дня.",
+        "sources": [
+          "arenal-elcastillo-sup",
+          "arenal-sinac-map",
+          "camp-tronadora"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Parque Ecológico Volcán Arenal",
+        "source": "arenal-eco-arrival",
+        "note": "Кемпинг, карта частных троп, наличие снаряжения и доступ на машине.",
+        "phone": "+506 8527 1893",
+        "url": "https://wa.me/50685271893"
+      },
+      {
+        "name": "SINAC · Parque Nacional Volcán Arenal",
+        "source": "arenal",
+        "note": "Открытые маршруты и условия посещения выбранного сектора."
+      },
+      {
+        "name": "Camping La Tronadora",
+        "source": "camp-tronadora",
+        "note": "Место машины и палатки, заезд на площадку и условия у воды.",
+        "phone": "+506 8859 8990",
+        "url": "https://wa.me/50688598990"
+      }
+    ],
+    "nearby": [
+      "tronadora-weekend-roof",
+      "arenal-paddle",
+      "arenal-eco-camp"
+    ],
+    "track": "tico-arenal"
+  }
+}

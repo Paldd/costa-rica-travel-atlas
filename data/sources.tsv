@@ -296,3 +296,62 @@ oik-mtb	event	Asociación Nacional de Ciclismo de Montaña · Ochomogo	https://m
 escapadita-services	operator	Escapadita · домики, тропы и экскурсии	https://www.escapaditaalbosque.com/servicios/	Варианты ночёвки, семейные программы и поход к Las Nubes
 escapadita-campcr	directory	Camping.cr · Escapadita al Bosque	https://camping.cr/listing/escapadita-al-bosque/	Практические условия 4×4, кемпинг и трансфер из Higuito
 camino-gpx	operator	Официальные GPX El Camino · Asociación Mar a Mar	https://caminodecostarica.org/es/planifica-tu-excursion/autoguiado/	Ссылка на загрузку GPX по этапам в разделе Mapas GPX
+monte-claro-arrival	operator	Hacienda Monte Claro · въезд и контакты	https://www.haciendamonteclaro.com/es/contacto/	Въезд с Ruta 10, отдельный гостевой дом и опубликованный WhatsApp
+monte-claro-trails-map	operator	Hacienda Monte Claro · карта семи троп	https://www.haciendamonteclaro.com/es/mapa-de-los-senderos/	Цветная схема хозяйства и ответвлений
+colon-trailforks	directory	Trailforks · сеть Senderos de Colón	https://www.trailforks.com/region/los-senderos-de-colon/	Карта подписанных велосипедных трасс и профили отдельных спусков
+colon-local-report	experience	Uni-Cli Droid · отчёт о Senderos de Colón	https://www.uniclidroid.com/senderos-de-colon/	Пешие варианты, покрытие и ориентация на территории
+retos-local	experience	Qué Buen Lugar · прогулка и лагерь Retos del Irazú	https://www.quebuenlugar.com/es/lugares/finca-retos-del-irazu/	Проверенная посетителями точка подъезда, ручьи и семейная тропа
+retos-road	experience	Uni-Cli Droid · подъезд и короткий выход в Retos	https://www.uniclidroid.com/retos-del-irazu/	Разница между обычной машиной и 4×4, место встречи и местный отзыв
+adventure-directions	operator	Adventure Park · подъезд и телефоны	https://www.adventureparkcr.com/es/como-llegar	Расположение выше церкви San José de la Montaña и контакты
+adventure-camp-rules	operator	Adventure Park · правила кемпинга	https://www.adventureparkcr.com/es/nuestros-servicios/camping	Расстояния от офиса, подъезд к площадке, вода, туалеты и условия ночёвки
+adventure-local-trip	experience	Qué Buen Lugar · выезд в Adventure Park	https://quebuenlugar.com/es/lugares/adventure-park	Публичный пин главного въезда и описание подъезда с горной дороги
+prusia-local-trip	experience	Qué Buen Lugar · тропы Прюсии	https://quebuenlugar.com/es/lugares/bosque-magico-de-prusia-parque-nacional-volcn-iraz/	Въезд, лесные тропы и впечатления местных авторов
+irazu-approaches	official	SINAC · отдельные подъезды к Cráteres и Prusia	https://www.sinac.go.cr/ES/ac/accvc/pnvi/Paginas/comollegar.aspx	Маршрут из Картаго и поворот в сектор Prusia
+tapanti-trail-details	official	SINAC · тропы Tapantí и услуги	https://www.sinac.go.cr/EN-US/ac/accvc/tmmnp/Pages/default.aspx	Длины Oropéndola, Árboles Caídos и варианты у реки
+tapanti-local-trip	experience	Qué Buen Lugar · поездка в Тапанти	https://quebuenlugar.com/es/lugares/parque-nacional-tapanti-cartago	Дождь в долине Ороси, пикник и фактическое покрытие лесных троп
+braulio-sectors-map	official	ICT и SINAC · карта двух секторов Braulio Carrillo	https://www.sinac.go.cr/ES/turismo/Brochure%20ICT/Parque%20Nacional%20Braulio%20Carrillo.pdf	Карты троп Quebrada González и Barva, отдельные подъезды
+quebrada-local-trip	experience	Qué Buen Lugar · Quebrada González с трассы 32	https://quebuenlugar.com/es/lugares/braulio-carrillo-san-jose	Подъезд, выбор между тремя тропами, опыт после дождя
+barva-local-trip	experience	Qué Buen Lugar · лагуны и подъезд к Барве	https://quebuenlugar.com/es/lugares/volcn-barva-hiking-entre-neblina-lagunas-y-senderos-picos-a-solo-35-km-de-san-jos/	Раздельные варианты к Laguna Barva, Laguna Copey и видовым точкам
+cloudbridge-trails	operator	Cloudbridge · официальные карты пеших троп	https://www.cloudbridge.org/visit/hiking-trails/	Схемы и длины маршрутов Waterfall, Río, Montaña и Cloudbridge North
+cloudbridge-arrival	operator	Cloudbridge · дорога, пеший подход и транспорт	https://www.cloudbridge.org/contact-us/directions/	Маршрут из San Gerardo de Rivas и контакты заповедника
+cloudbridge-stay	operator	Cloudbridge · ночёвка в домиках заповедника	https://www.cloudbridge.org/accomodation/	Бронирование домиков, формат посещения и WhatsApp
+quetzales-directions	official	SINAC · въезд Los Quetzales на Ruta 2	https://www.sinac.go.cr/ES/ac/accvc/pnlq/Paginas/comollegar.aspx	Точка въезда на 76,5 км магистрали и ресторан-ориентир
+quetzales-ict	official	ICT · Los Quetzales, условия и полезные контакты	https://www.visitcostarica.com/where-to-go/protected-areas/los-quetzales-national-park	Маршрут из Сан-Хосе, ориентир и телефон парка
+acg-booking	official	ACG · секторы, резервации и связь	https://reservaciones.acguanacaste.ac.cr/es/	Правила визитов, ссылки на бронирование и WhatsApp рейнджеров
+santa-rosa-ict-map	official	ICT · карта Santa Rosa	https://www.visitcostarica.com/sites/default/files/legacy/pdf/15_PN%20Santa%20Rosa.pdf	Исторический сектор, дороги к побережью, тропы и зоны палаток
+naranjo-acg-field	official	ACG · дорога и берег Playa Naranjo	https://www.acguanacaste.ac.cr/turismo/sector-santa-rosa/playa-naranjo-sector-santa-rosa	Сезонный доступ, вода, прилив и правила удалённого сектора
+naranjo-motorumbo	experience	MotoRumbo · дорога к Roca Bruja	https://motorumbo.com/rutas/liberia-roca-bruja/	Местный отчёт об участке после исторического сектора
+witches-rock-boat-coco	operator	Witches Rock Surf ’N Fish · выход из Playas del Coco	https://www.witchesrocksurfnfish.com/	Лодочные поездки к Witch’s Rock и Ollie’s Point, сёрфинг и рыбалка
+witches-rock-surfari	operator	Witch’s Rock Surfari · Papagayo	https://www.witchsrocksurfari.com/	Лодка в удалённые бухты и уроки на подходящих по волне участках
+junquillal-booking	official	ACG и Aso Junquillal · бронь лагеря	https://reservaciones.acguanacaste.ac.cr/es/junquillal/	Запись напрямую в местную ассоциацию, кемпинг и правила посещения
+junquillal-roof-local	experience	Costa Rica Cool · Junquillal с крышной палаткой	https://cool-cr.com/editorial/bahia-junquillal-y-playa-rajada-dos-noches-en-camper-en-el-guanacaste-que-no-se-vendio	Местный выезд на кемпере, место стоянки и бытовые наблюдения
+junquillal-association	operator	Aso Junquillal · связь	https://www.junquillallacruz.com/contacto/	Локальная ассоциация, обслуживающая лагерь и дневные посещения
+junquillal-trails	official	ACG · тропы и условия Bahía Junquillal	https://www.acguanacaste.ac.cr/turismo/sector-junquillal	Лес и эстуарий, площадки для дня и ночёвки, подъезд через Cuajiniquil
+cangreja-acg-2026	official	ACG · тропа к Ла-Кангрехе, ноябрь 2026	https://www.acguanacaste.ac.cr/turismo/sector-pailas/catarata-la-cangreja-sector-las-pailas	Последний вход на тропу, покрытие и развилка после общего участка
+cangreja-guachipelin	operator	Hacienda Guachipelín · программа с гидом к Ла-Кангрехе	https://www.guachipelin.com/hiking/hike-to-la-cangreja-waterfall/	Локальная программа сопровождения, темп и состав поездки
+escondidas-acg-2026	official	ACG · Cataratas Escondidas, 2026	https://www.acguanacaste.ac.cr/turismo/sector-pailas/cataratas-escondidas-sector-pailas	Сложный подъём, отсечка входа и место развилки на маршруте
+pailas-acg-loop	official	ACG · круг Las Pailas, ноябрь 2026	https://www.acguanacaste.ac.cr/turismo/sector-pailas/sendero-las-pailas-un-circuito-de-ambientes-combinados	Круг 3,3 км, покрытие и схема движения
+rincon-ict-map	official	ICT · схема секторов и троп Ринкона	https://www.visitcostarica.com/sites/default/files/legacy/pdf/14_PN%20Rinc%C3%B3n%20de%20la%20Vieja.pdf	Карта Las Pailas, Santa María и водопадов
+rincon-foot-profiles	official	SINAC · профили троп Ла-Кангреха и Эскондидас	https://www.sinac.go.cr/ES/docu/coop/proy/Estudios%20para%20preparar%20los%20carteles%20de%20los%20servicios%20no%20esenciales%20en%20varias%20ASP.pdf	Координаты контрольных точек на профилях маршрутов. Режим посещения смотрите у ACG.
+santa-maria-acg-route	official	ACG · сектор Santa María	https://www.acguanacaste.ac.cr/turismo/sector-santa-maria	Исторический дом и лесной путь к источникам, отдельный подъезд из Либерии
+rincon-trails-route	operator	Rincón Trails · подъезд и петли 2, 3, 7 и 30 км	https://rincontrailscr.com/contacto/	Названия трёх контуров, парк и комбинированный круг из Либерии
+donde-pipe-liberia	operator	Donde Pipe · кафе в Либерии	https://dondepipe.com/contactenos/	Адрес отделения Barrio Los Ángeles и контакты ресторана
+santa-maria-station-point	official	NASA · координаты рейнджерского поста Santa María	https://espo.nasa.gov/hs3/daily-schedule/all?page=23	Полевой журнал с точкой станции. Актуальные условия визита публикует ACG.
+guachipelin-faq	operator	Hacienda Guachipelín · возраст и логистика	https://www.guachipelin.com/es/faq-es/	Минимальный возраст для tubing, canyoning, canopy и конной программы
+guachipelin-tubing	operator	Hacienda Guachipelín · сплав на тюбах Río Negro	https://www.guachipelin.com/es/tours-de-aventura/aventura-de-tubing-rio-negro/	Место встречи и организация речной программы
+oasis-bikepacking-report	experience	Two Wheeled Wanderer · ночь в Oasis Place	https://www.twowheeledwanderer.com/posts/costa-rica-bikepacking/	Дневник велопоездки, стоянка у Ruta 18 и предварительная договорённость о воротах
+arenal-eco-arrival	operator	Parque Ecológico Arenal · карта и WhatsApp	https://parqueecologicocr.com/es/	Частный въезд, координаты, связи и выбор лесных маршрутов
+arenal-eco-camp-details	operator	Parque Ecológico Arenal · ночёвка, площадки и термы	https://parqueecologicocr.com/noche-de-camping-regular-termales-por-persona/	Услуги лагеря и отличия обычного места от оснащённой палатки
+arenal-eco-camp-local	directory	Camping.cr · Parque Ecológico Volcán Arenal	https://camping.cr/listing/parque-ecologico-volcan-arenal/	Местный каталог стоянки и услуг вокруг Ареналя
+arenal-eco-trails-map	operator	Parque Ecológico Arenal · схема частных троп	https://parqueecologicocr.com/es/visita-el-parque/mapa-y-senderos/	Размеченные частные тропы от зоны парковки к лагуне
+arenal-sinac-map	official	SINAC · карта Coladas и Península	https://sinac.go.cr/ES/transprncia/Planificacin%20y%20Gestin%20BID/Gesti%C3%B3n%20Sostenible%20del%20Turismo%20en%20ASP/Material%20Promocional%20ASP/Brochure%20Parque%20Nacional%20Volc%C3%A1n%20Arenal.pdf	Карта двух секторов, доступные тропы и длины отдельных отрезков
+arenal-local-2026	experience	Visit La Fortuna CR · входы и практические наблюдения	https://www.visitlafortunacr.com/es/national-parks/parque-nacional-volcan-arenal	Опубликованные осенью 2026 отзывы о маршрутах и покупке билетов
+arenal-sinac-access-2026	official	SINAC · запрет подъёма в кратеры Arenal и Chato	https://www.sinac.go.cr/ES/noticias/ComPrensa/Comunicado%20Prensa%20Prohibido%20acceso%20crater%20PNVA.pdf	Официальные доступные сектора и границы посещения
+arenal-observatory-map	operator	Arenal Observatory · карта владения и сети троп	https://www.arenalobservatorylodge.com/property-map/	Карта частного лоджа, водопада, коротких и длинных прогулок
+arenal-observatory-pass	operator	Arenal Observatory · дневные пропуска	https://www.arenalobservatorylodge.com/day-passes/	Дневной вход, 11 км сети и 8-километровый спортивный круг
+arenal-observatory-contact	operator	Arenal Observatory · контакты	https://www.arenalobservatorylodge.com/contact-us/	Связь с лоджем, дневные пропуска и режим троп
+tenorio-ict-map	official	ICT и SINAC · схема Misterios del Tenorio	https://www.visitcostarica.com/sites/default/files/legacy/pdf/21_PN%20Volc%C3%A1n%20Tenorio.pdf	Карта входа El Pilón, водопада, Laguna Azul, Borbollones и Teñideros
+tenorio-recent-guide	experience	Aguaepipa · Rio Celeste, ноябрь 2026	https://proyectoaguaepipa.com/es/costa-rica/parks/tenorio-volcano	Подъезд, ливни, ступени и режим посещения
+celeste-guanacaste-2026	experience	Vive Guanacaste · Рио-Селесте и тюбинг	https://viveguanacaste.com/destinos-de-paso/rio-celeste-guia-completa/	Местный разбор пешего маршрута и речного выезда за границей парка
+celeste-operator-tubing	operator	Río Celeste Aventuras · тюбинг в Катире	https://www.riocelesteaventuras.com/es/tours/aquatic-tubing-tour-rio-celeste	Программа около двух часов, правила возраста, экипировка и отмена по воде
+celeste-operator-contact	operator	Río Celeste Aventuras · место встречи и контакты	https://www.riocelesteaventuras.com/es/contact-us	База в Katira, координаты, WhatsApp и возврат с реки

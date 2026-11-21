@@ -99,3 +99,50 @@ cocles-beach	Playa Cocles · береговой ориентир	9.648443	-82.73
 oikoumene-camp	Campamento Oikoumene	9.916513	-83.951919	oik-contact
 higuito	Higuito · церковь посёлка	9.820131	-83.960152	osm-cr-points
 rana-roja	Rancho Rana Roja · ориентир входа	9.344537	-83.836992	qbl-ruta-agua
+monte-claro-access	Hacienda Monte Claro · въезд с Ruta 10	9.896913	-83.637229	monte-claro-arrival
+monte-claro-guest	Casa de Huéspedes Monte Claro	9.897647	-83.631949	monte-claro-arrival
+senderos-colon-base	Senderos Colón · въезд в Pampa y Cielo	9.9041001	-84.2480062	senderos-colon
+retos-camp-entry	Finca Retos del Irazú · ориентир кемпинга	9.947326	-83.878105	retos-local
+adventure-park-entry	Adventure Park · вход и офис	10.082338	-84.105642	adventure-local-trip
+prusia-entry	Sector Prusia · въезд в парк	9.9536871	-83.8815598	osm-cr-points
+prusia-tree	Árbol Encantado · Прюсия	9.955929	-83.874777	osm-cr-points
+irazu-craters-parking	Irazú · парковка сектора Cráteres	9.9769527	-83.8459756	osm-cr-points
+irazu-main-view	Irazú · видовая площадка в секторе Cráteres	9.9796963	-83.8476706	osm-cr-points
+tapanti-info-point	Tapantí · ориентир у информационного пункта	9.749137	-83.781882	osm-cr-points
+quebrada-sector-entry	Quebrada González · ориентир входа с Ruta 32	10.1622	-83.93806	quebrada-local-trip
+sacramento-waypoint	Sacramento · посёлок по пути к Барве	10.1084615	-84.1221106	osm-cr-points
+barva-lagoon-view	Volcán Barva · смотровая у кратера	10.1332471	-84.1059891	osm-cr-points
+cloudbridge-entry	Cloudbridge · пункт посетителей	9.472157	-83.577534	osm-cr-points
+cloudbridge-valley	Mirador del Valle · Cloudbridge	9.4727315	-83.5723153	osm-cr-points
+cloudbridge-caldera	Catarata Caldera · район водопада	9.4743387	-83.5665472	osm-cr-points
+quetzales-entry	Estación Los Quetzales · въезд у Ruta 2	9.61497	-83.81821	osm-cr-points
+santa-rosa-casona-point	Museo Histórico La Casona · Santa Rosa	10.83464	-85.613566	osm-cr-points
+santa-rosa-camp-point	Zona de acampar Santa Rosa	10.837654	-85.618977	osm-cr-points
+santa-rosa-mirador	Mirador Santa Rosa · исторический сектор	10.834262	-85.611471	osm-cr-points
+pailas-visitor-point	Las Pailas · сектор для посетителей	10.773342	-85.349023	rincon-foot-profiles
+cangreja-falls-point	Catarata La Cangreja · ориентир водопада	10.774174	-85.378339	rincon-foot-profiles
+escondidas-falls-point	Cataratas Escondidas · ориентир водопада	10.794345	-85.361409	rincon-foot-profiles
+rincon-trails-base	Rincón Trails · въезд по карте оператора	10.691135	-85.441554	rincon-trails-route
+pipe-liberia	Donde Pipe · Barrio Los Ángeles, Либерия	10.6301455	-85.4420981	donde-pipe-liberia
+santa-maria-thermal-point	Термальный ручей Santa María · ориентир	10.7585329	-85.3247651	osm-cr-points
+guachipelin-thermal-point	Río Negro Hot Springs · Guachipelín	10.7396879	-85.3471368	osm-cr-points
+santa-maria-station	Casona Santa María · пост рейнджеров	10.764515	-85.303147	santa-maria-station-point
+guachipelin-lodge	Hacienda Guachipelín · въезд к отелю	10.752078	-85.379653	osm-cr-points
+junquillal-gate	Refugio Bahía Junquillal · ориентир въезда	10.9643805	-85.6820157	junquillal-association
+rajada-area	Playa Rajada · ориентир района	11.031329	-85.742976	osm-cr-points
+amistad-bridge	Puente de La Amistad · ориентир на Ruta 18	10.2472	-85.2458	osm-cr-points
+arenal-eco-entry	Parque Ecológico Volcán Arenal · частный вход	10.4926793	-84.7171642	arenal-eco-arrival
+arenal-eco-lagoon	Laguna del Parque Ecológico · ориентир троп	10.485739	-84.713722	osm-cr-points
+arenal-coladas-gate	SINAC · касса Sector Volcán	10.461458	-84.739628	osm-cr-points
+arenal-el-ceibo	Начало ветки El Ceibo	10.4537677	-84.7284925	osm-cr-points
+arenal-lava-view	Mirador Colada · лавовая тропа	10.4502365	-84.7245552	osm-cr-points
+arenal-peninsula-entry	Sector Península · парковка	10.4643617	-84.7533151	osm-cr-points
+arenal-peninsula-view	Península · ориентир берегового мирадора	10.4612153	-84.7548599	osm-cr-points
+arenal-observatory-entry	Arenal Observatory Lodge · ориентир центра	10.4378203	-84.7101599	osm-cr-points
+arenal-observatory-deck	Observatory Deck · обзорная площадка	10.4380777	-84.7102252	osm-cr-points
+arenal-danta-area	Зона водопада в Arenal Observatory	10.4313614	-84.7059631	osm-cr-points
+tenorio-pilon-entry	El Pilón · ориентир входа на Río Celeste	10.7158018	-84.9872896	osm-cr-points
+tenorio-falls	Catarata Río Celeste · обзор у водопада	10.7037571	-84.9907793	osm-cr-points
+tenorio-borbollones	Borbollones · выходы газа на реке	10.7021259	-84.9958401	osm-cr-points
+tenorio-tenideros	Teñideros · место смешения воды	10.7005668	-84.9970139	osm-cr-points
+celeste-katira-base	Río Celeste Aventuras · база Katira	10.724615	-84.91449	celeste-operator-contact
