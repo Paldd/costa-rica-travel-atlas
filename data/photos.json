@@ -367,5 +367,23 @@
     "license": "CC BY-SA 2.0 DE",
     "original": "https://commons.wikimedia.org/wiki/File:Corcovado_Strand_Nationalpark.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+  },
+  "tamarindo-estuary-matapalo": {
+    "file": "tamarindo-estuary-matapalo.jpg",
+    "alt": "Мангровые заросли реки Матапало у Тамариндо",
+    "caption": "Мангры Río Matapalo у Тамариндо · фотография 2003 года",
+    "author": "ReservasdeCoches.com",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Manglar_de_Tamarindo_-_Rio_Matapalo_-_Tamarindo_-_Guanacaste_-_Costa_Rica.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "tortuguero-cano-harold": {
+    "file": "tortuguero-cano-harold.jpg",
+    "alt": "Вид с воды на лесной канал Каньо-Харольд",
+    "caption": "Caño Harold · фотография 2011 года, уменьшенная копия",
+    "author": "Caspar S",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Ca%C3%B1o_Harold_1_(5616960887).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   }
 }

@@ -71,7 +71,7 @@ samara-pato	Pato’s Surf School · Playa Sámara	9.881455	-85.524736	osm-cr-poi
 samara-coffee	Bohemia Cafe · Sámara	9.881806	-85.526613	osm-cr-points
 quepos-marina	Marina Pez Vela · Quepos	9.426228	-84.166976	osm-cr-points
 quepos-center	Quepos · центр города	9.432124	-84.162504	osm-cr-points
-parismina	Parismina · Карибское побережье	10.197149	-83.647616	osm-cr-points
+parismina	Parismina · Карибское побережье	10.305442	-83.352094	camino-maram-gpx-library
 goshen-pier	Muelle Goshen · причал	10.172268	-83.310424	osm-cr-points
 cimarrones	Cimarrones · Pacuarito	10.098192	-83.424849	osm-cr-points
 las-brisas	Las Brisas de Pacuarito · район подъёма	10.000809	-83.465215	osm-cr-points
@@ -587,3 +587,16 @@ bribri-dururpe-locality	Dururpe · географический ориентир
 bribri-alto-uren-locality	Alto Urén · географический ориентир общины	9.4274209	-82.9804345	bribri-ign-localities-2026
 guayabo-archaeological-area	Monumento Nacional Guayabo · район археологических раскопок	9.97225	-83.69005	guayabo-archaeology-osm
 nortico-cacao-farm	Nortico Cacao Farm · хозяйство в Хабильосе	9.9229067	-83.6217612	nortico-turrialba-directory
+tort-harold-mouth-reference	Caño Harold · ориентир входа в ветку	10.5279238	-83.5136324	tortuguero-harold-cartography
+tort-harold-end-reference	Caño Harold · дальний ориентир ветки	10.5175195	-83.5210125	tortuguero-harold-cartography
+cano-blanco-siquirres-village	Caño Blanco · район лодочного трансфера	10.2655492	-83.3646266	ign-localities-cr-2026
+tamarindo-estuary-road-reference	Soda Buffet El Estero · ориентир у эстуария	10.3060301	-85.8367023	tamarindo-estuary-osm-reference
+sierpe-estero-azul-reference	Estero Azul · географический ориентир сектора	8.895508	-83.4647403	sierpe-estero-azul-gazette
+chorro-ecolodge-parking	Chorro Ecolodge · точка встречи в Esquipulas	9.4926661	-84.0473709	chorro-ecolodge-contact-map
+h2o-el-mordisco-naranjito	Restaurante El Mordisco · встреча в Наранхито	9.4714375	-84.1054844	h2o-quepos-meeting-points
+mora-balsilla-chucas	Chucás · район Бальсильи	9.9265045	-84.3902462	ign-localities-cr-2026
+mora-llano-grande	Llano Grande · поселение Моры	9.8908715	-84.357341	ign-localities-cr-2026
+mora-picagres	Picagres · поселение Моры	9.9048166	-84.3461033	ign-localities-cr-2026
+mora-el-rodeo	El Rodeo · поселение Моры	9.9201494	-84.2696169	ign-localities-cr-2026
+mora-jaris	Jaris · поселение Моры	9.8702917	-84.2819403	ign-localities-cr-2026
+mora-corralar	Corralar · поселение Моры	9.8499522	-84.2142438	ign-localities-cr-2026

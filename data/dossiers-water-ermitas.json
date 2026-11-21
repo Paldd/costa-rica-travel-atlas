@@ -1,0 +1,1026 @@
+{
+  "tortuguero-harold-own-kayak": {
+    "stops": [
+      {
+        "point": "tortuguero-dock",
+        "role": "Посёлок Тортугеро · прибытие",
+        "note": "Это пассажирский ориентир, условия спуска указывает парк."
+      },
+      {
+        "point": "tortuguero-cuatro-esquinas-station",
+        "role": "Регистрация Cuatro Esquinas",
+        "note": "Уточните выбранную водную тропу, правила допуска и разрешённую посадку с Río Tortuguero."
+      },
+      {
+        "point": "tort-harold-mouth-reference",
+        "role": "Географическое начало ветки",
+        "note": "Точка показывает положение канала, который парк назначает по доступности."
+      },
+      {
+        "point": "tort-harold-end-reference",
+        "role": "Дальний ориентир Caño Harold",
+        "note": "Сверьте фактическое место разворота и время возврата на входе."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ACTO · Parque Nacional Tortuguero",
+        "source": "tortuguero-acto-sectors",
+        "url": "https://www.acto.go.cr/parque-nacional-tortuguero-2/",
+        "note": "Слот, допуск своего судна и выбранный на день маршрут. Спрашивайте, где регистрироваться и спускать лодку.",
+        "phone": "+506 2709 8246"
+      },
+      {
+        "name": "ASOPROTUR · местная ассоциация проводников",
+        "source": "asoprotur-tortuguero-direct",
+        "url": "https://asoprotur.com/es/contact.html",
+        "note": "Проводник, каноэ или каяк, размеры жилетов и время встречи.",
+        "phone": "+506 2767 0836"
+      },
+      {
+        "name": "Tortuguero EcoExperiences",
+        "source": "tortuguero-paddle-ecoexperiences",
+        "url": "https://www.tortugueroecoexperiences.com/servicios.html",
+        "note": "Уточните программу, причал и передвижение по каналу с местным гидом.",
+        "phone": null
+      }
+    ],
+    "sections": [
+      {
+        "title": "Свой каяк и билет",
+        "text": "Решение ACTO указывает вход каяков через Río Tortuguero. Внутри каналов запрещена перевозка каяка на другом судне. Для индивидуального входа согласуйте лодку и предварительную бронь. По опубликованным правилам на каяк допускают одного или двух человек, группа — до десяти.",
+        "sources": [
+          "tortuguero-kayak-entry-2018",
+          "tortuguero-capacity-water-routing"
+        ]
+      },
+      {
+        "title": "Время на воде",
+        "text": "На общей странице ACTO для северных каналов указано 06:00, 08:30, 11:00 и 14:30. Обсудите последний возврат с парком и перевозчиком. Для фото держите дистанцию от животных и пользуйтесь правилами парка.",
+        "sources": [
+          "tortuguero-acto-sectors",
+          "tortuguero-harold-sinac"
+        ]
+      },
+      {
+        "title": "Что положить в лодку",
+        "text": "Подогнанный спасжилет, воду, защиту от солнца, репеллент, компактную накидку и гермомешок. Положите телефон в водозащиту. Если нужна помощь с первыми гребками и логистикой, договоритесь о поездке с местным гидом.",
+        "sources": [
+          "asoprotur-tortuguero-canoe-tour",
+          "tortuguero-paddle-ecoexperiences"
+        ]
+      }
+    ],
+    "galleries": [
+      "tortuguero-acto-sectors",
+      "tortuguero-paddle-ecoexperiences"
+    ],
+    "nearby": [
+      "tortuguero-mora-canoe-kayak",
+      "tortuguero-no-car",
+      "parismina-jalova-water"
+    ],
+    "track": "acto-tortuguero-canal-map",
+    "photos": [
+      "tortuguero-cano-harold"
+    ]
+  },
+  "parismina-jalova-water": {
+    "stops": [
+      {
+        "point": "cano-blanco-siquirres-village",
+        "role": "Caño Blanco · район посадки",
+        "note": "Береговой ориентир из реестра IGN. Точную пристань и парковку пришлёт перевозчик."
+      },
+      {
+        "point": "parismina",
+        "role": "Barra de Parismina",
+        "note": "Береговой ориентир посёлка. Согласуйте дальнейший переход с оператором и администрацией парка."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ACTO · пост Jalova",
+        "source": "tortuguero-acto-sectors",
+        "url": "https://www.acto.go.cr/parque-nacional-tortuguero-2/",
+        "note": "Каналы, дата и время входа, лодка на день визита и разрешённые высадки.",
+        "phone": "+506 8730 3837"
+      },
+      {
+        "name": "ACTO · Parque Nacional Tortuguero",
+        "source": "tortuguero-acto-sectors",
+        "url": "https://www.acto.go.cr/parque-nacional-tortuguero-2/",
+        "note": "Слот, допуск своего судна и выбранный на день маршрут. Спрашивайте, где регистрироваться и спускать лодку.",
+        "phone": "+506 2709 8246"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как разделить билеты",
+        "text": "Закажите лодку на подходе из округа Сикиррес, затем сверяйте посещение охраняемого сектора отдельно. Спросите, входит ли в договор фрахт до самого поста и где вернут на берег.",
+        "sources": [
+          "tortuguero-acto-sectors",
+          "ict-parismina-planning-map"
+        ]
+      },
+      {
+        "title": "Семейный формат",
+        "text": "Если берёте детей, заранее подтвердите подходящие жилеты, дождезащиту и время обратного рейса. В поездку удобно взять сухой комплект одежды и гермомешок. Запланируйте прогулку по посёлку на случай закрытия канала.",
+        "sources": [
+          "tortuguero-acto-sectors",
+          "ict-parismina-planning-map"
+        ]
+      }
+    ],
+    "galleries": [
+      "tortuguero-acto-sectors"
+    ],
+    "nearby": [
+      "tortuguero-no-car",
+      "tortuguero-harold-own-kayak"
+    ],
+    "track": "ict-parismina-planning-map"
+  },
+  "tamarindo-estuary-kayak": {
+    "stops": [
+      {
+        "point": "tamarindo-estuary-road-reference",
+        "role": "Береговой ориентир",
+        "note": "Ориентир рядом с мангровым устьем. Свою посадку и парковку проверьте у оператора."
+      },
+      {
+        "point": "las-baulas-playa-grande-office",
+        "role": "Станция Las Baulas",
+        "note": "Отдельный дорожный въезд в Плайя-Гранде. Связь с парком по правилам эстуария."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tamarindo Estuary Tours Mi Rey",
+        "source": "tamarindo-mi-rey-kayak",
+        "url": "https://www.tamarindoestuary.com/producto/kayak-tour/",
+        "note": "Прилив, группа, свободный слот, подтверждённая посадка и жилет по размеру.",
+        "phone": "+506 6219 6694",
+        "email": "contact@tamarindoestuary.com"
+      },
+      {
+        "name": "SINAC · Parque Nacional Marino Las Baulas",
+        "source": "las-baulas-office",
+        "url": "https://www.sinac.go.cr/ES/ac/act/pnmlb/Paginas/contacto.aspx",
+        "note": "Допустимая точка входа, часы и вид собственной лодки.",
+        "phone": null
+      }
+    ],
+    "sections": [
+      {
+        "title": "Поездка с гидом",
+        "text": "У Mi Rey в стандартную программу входят каяк, весло, спасжилет, гермомешок, питьё и фрукты. Точное время и место парковки диспетчер отправляет после подтверждения. Для одного человека спрашивайте о присоединении к группе.",
+        "sources": [
+          "tamarindo-mi-rey-kayak"
+        ]
+      },
+      {
+        "title": "Условия своей лодки",
+        "text": "В статье 11 регламента каяк назван среди допустимых активностей в эстуариях. До выхода узнайте у SINAC действующий режим входа, допустимую зону и старт с берега. Свою доску или пакрафт согласуйте отдельно.",
+        "sources": [
+          "baulas-decree-kayak-36918",
+          "las-baulas-sinac"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Лёгкую одежду, обувь для воды, кепку, защиту от солнца, репеллент и запас питья. Камеру держите в защищённом мешке.",
+        "sources": [
+          "tamarindo-mi-rey-kayak",
+          "tamarindo-estuary-local-directory"
+        ]
+      }
+    ],
+    "galleries": [
+      "tamarindo-mi-rey-kayak",
+      "tamarindo-estuary-local-directory"
+    ],
+    "nearby": [
+      "tamarindo-surf",
+      "playa-grande"
+    ],
+    "photos": [
+      "tamarindo-estuary-matapalo"
+    ]
+  },
+  "sierpe-estero-azul-kayak": {
+    "stops": [
+      {
+        "point": "sierpe-perla",
+        "role": "La Perla del Sur · регистрация и спуск",
+        "note": "Частный причал и парковка для гостей программы."
+      },
+      {
+        "point": "sierpe-estero-azul-reference",
+        "role": "Район Estero Azul",
+        "note": "Географический ориентир. Направление гребли и ветки зависят от прилива."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SierpeXplorer · La Perla del Sur",
+        "source": "sierpe-xplorer-contacts",
+        "url": "https://sierpexplorer.com/es/contact-us",
+        "note": "Подтвердите прилив, условия для детей, допуск своей лодки и парковку.",
+        "phone": "+506 6232 5199",
+        "email": "info@sierpexplorer.com"
+      },
+      {
+        "name": "Sierpe.net · местные поездки",
+        "source": "sierpe-net-paddle",
+        "url": "https://sierpe.net/sierpe-mangrove-kayak-tour/",
+        "note": "Уточните время, наличие мест и программу у второго оператора.",
+        "phone": null
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит",
+        "text": "Программа публикует три часа на воде с остановками для наблюдения за птицами, лодку на одного или двоих, весло, спасжилет и проводника. У ворот La Perla del Sur заявлена бесплатная парковка для гостей.",
+        "sources": [
+          "sierpe-xplorer-estero-azul-kayak"
+        ]
+      },
+      {
+        "title": "Окно прилива и экипировка",
+        "text": "Время выхода сообщают после сверки прилива. Возьмите дождезащиту, лёгкую обувь для воды, гермомешок, защиту от насекомых и воду. Для гребли на своей лодке прежде согласуйте водный вход и высадку с местной командой.",
+        "sources": [
+          "sierpe-xplorer-estero-azul-kayak",
+          "sierpe-net-paddle",
+          "sierpe-xplorer-contacts"
+        ]
+      }
+    ],
+    "galleries": [
+      "sierpe-xplorer-estero-azul-kayak",
+      "sierpe-net-paddle"
+    ],
+    "nearby": [
+      "sierpe-boat"
+    ]
+  },
+  "sarapiqui-rental-doki": {
+    "stops": [
+      {
+        "point": "soc-base",
+        "role": "Выдача лодки · La Virgen",
+        "note": "Офис находится в 75 м севернее клиники EBAIS. Подтвердите в офисе высадку и способ возврата."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sarapiquí Outdoor Center · La Virgen",
+        "source": "soc-kayak-rental-doki",
+        "url": "https://costaricaraft.com/rafting/kayak-rentals",
+        "note": "Запас снаряжения, подходящий отрезок, надзор и обратный трансфер.",
+        "phone": "+506 8507 6904"
+      },
+      {
+        "name": "Sarapiquí Outdoor Center · офис",
+        "source": "soc-kayak-rental-doki",
+        "url": "https://costaricaraft.com/rafting/kayak-rentals",
+        "note": "Голосовой телефон, бронь минимум за сутки, детский инвентарь и погода.",
+        "phone": "+506 2761 1123"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какие участки существуют",
+        "text": "Учебник INA описывает 12 км La Virgen – Chilamate с порогами II–III. Для проката спросите базу о дистанции, классе в день сплава, сопровождении и берегах, доступных без перехода частных участков.",
+        "sources": [
+          "ina-sarapiqui-rafting-reaches",
+          "soc-kayak-rental-doki"
+        ]
+      },
+      {
+        "title": "С вечера до воды",
+        "text": "Для двух дней удобно заранее запросить глэмпинг Tolomuco, зарегистрироваться вечером и утром взять урок, лодку или место в рафте. Возьмите обувь для воды, сухую смену и полотенце.",
+        "sources": [
+          "soc-kayak-rental-doki",
+          "tolomuco-glamping-host-listing",
+          "soc-trivium-river-kayaking-classes"
+        ]
+      }
+    ],
+    "galleries": [
+      "soc-kayak-rental-doki",
+      "soc-trivium-river-kayaking-classes"
+    ],
+    "nearby": [
+      "tolomuco-river-glamping",
+      "sarapiqui-raft",
+      "sarapiqui-jungle-kayak-10"
+    ]
+  },
+  "naranjo-chorro-iv-v": {
+    "stops": [
+      {
+        "point": "quepos-center",
+        "role": "Кепос · район офиса H2O",
+        "note": "Офис оператора находится в 300 м к востоку от собора. Точную отметку открытия навигатора смотрите в контактах H2O."
+      },
+      {
+        "point": "chorro-ecolodge-parking",
+        "role": "Chorro Ecolodge · встреча в Эскипулас",
+        "note": "Координата карточки лоджа на карте. Проводник ведёт от лагеря к берегу."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "H2O Adventures · рафтинг и тюбинг",
+        "source": "h2o-quepos-meeting-points",
+        "url": "https://www.h2ocr.com/getting-here",
+        "note": "Уровень, возраст, состояние воды, тариф, забор или точная посадка.",
+        "phone": "+506 8959 8989"
+      },
+      {
+        "name": "Tico Loco Adventures · альтернативный гид",
+        "source": "tico-loco-el-chorro",
+        "url": "https://www.ticolocoadventures.com/es/chorro-es/",
+        "note": "Запросите правила по опыту, уровню воды и условия переноса.",
+        "phone": null
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кому подойдёт",
+        "text": "В программе предусмотрены ведущий рафт, страховка на воде и инструктаж по командам перед спуском. Спросите про место в группе, размер жилета, действия при перевороте и замену реки при высоком уровне. Для желающих более мягкий вариант — соседний Савегре.",
+        "sources": [
+          "h2o-chorro-iv-v",
+          "tico-loco-el-chorro"
+        ]
+      },
+      {
+        "title": "Стоимость и вещи",
+        "text": "В прайсе на 2027 год базовый Just Rafting начинается от $90 за человека при группе от четырёх, возможны налог и сбор. Возьмите обувь с фиксацией на ноге, лёгкую синтетическую одежду, защиту от солнца, полотенце и сухой комплект на обратную дорогу. Каску, жилет и основное снаряжение выдаёт оператор.",
+        "sources": [
+          "h2o-chorro-iv-v",
+          "h2o-quepos-meeting-points"
+        ]
+      },
+      {
+        "title": "Что показывает видео",
+        "text": "Amigos del Río показывает узкие проходы и работу проводника на белой воде. Положение порогов и решения команды зависят от уровня в день сплава.",
+        "sources": [
+          "amigos-chorro-video",
+          "h2o-chorro-iv-v"
+        ]
+      }
+    ],
+    "galleries": [
+      "h2o-chorro-iv-v",
+      "tico-loco-el-chorro"
+    ],
+    "nearby": [
+      "naranjo-lower-10",
+      "chorro-esquipulas-glamping",
+      "chorro-river-weekend-2",
+      "savegre-abajo-family-14"
+    ],
+    "videos": [
+      "amigos-chorro-video"
+    ],
+    "line": "chorro-quepos-road",
+    "track": "chorro-esquipulas-osm-road"
+  },
+  "naranjo-lower-10": {
+    "stops": [
+      {
+        "point": "quepos-center",
+        "role": "Кепос · район офиса H2O",
+        "note": "Офис оператора находится в 300 м к востоку от собора. Точную отметку открытия навигатора смотрите в контактах H2O."
+      },
+      {
+        "point": "h2o-el-mordisco-naranjito",
+        "role": "El Mordisco · сбор рафта в Наранхито",
+        "note": "Место встречи варианта Just Rafting. Трансфер до берега распределяет команда."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "H2O Adventures · рафтинг и тюбинг",
+        "source": "h2o-quepos-meeting-points",
+        "url": "https://www.h2ocr.com/getting-here",
+        "note": "Уровень, возраст, состояние воды, тариф, забор или точная посадка.",
+        "phone": "+506 8959 8989"
+      },
+      {
+        "name": "Chorro Rafting · Наранхо",
+        "source": "chorro-rafting-lower-naranjo",
+        "url": "https://www.chorrorafting.com/naranjo-river",
+        "note": "Спросите об отличиях по длине, отрезкам, подходу и возвращению.",
+        "phone": null
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что встретится",
+        "text": "После фермы на маршруте перечислены La Piñata, Robin Hood, мост Puente de Londres и El Espavel. Дальше вода шире и группа замедляется. Другой организатор публикует отдельный 8-мильный вариант, поэтому при сравнении сначала уточняйте участок.",
+        "sources": [
+          "h2o-naranjo-lower-iii-iv",
+          "chorro-rafting-lower-naranjo"
+        ]
+      },
+      {
+        "title": "Что сказали участники",
+        "text": "В отзыве за август 2026 года на странице H2O гость описывает частный сплав с дочерью и отмечает знание реки и работу проводников. Групповой формат и время забора отличаются от частного.",
+        "sources": [
+          "h2o-naranjo-lower-iii-iv"
+        ]
+      },
+      {
+        "title": "Вещи и страховка",
+        "text": "Возьмите обувь с фиксацией на ноге, лёгкую синтетическую одежду, защиту от солнца, полотенце и сухой комплект на обратную дорогу. Каску, жилет и основное снаряжение выдаёт оператор. Спросите про сопровождающий каяк, размер рафта и условия переноса. Встреча у ресторана используется в формате Just Rafting.",
+        "sources": [
+          "h2o-naranjo-lower-iii-iv",
+          "h2o-quepos-meeting-points"
+        ]
+      }
+    ],
+    "galleries": [
+      "h2o-naranjo-lower-iii-iv",
+      "chorro-rafting-lower-naranjo"
+    ],
+    "nearby": [
+      "naranjo-chorro-iv-v",
+      "naranjo-tubing-family-57",
+      "chorro-river-weekend-2"
+    ]
+  },
+  "naranjo-tubing-family-57": {
+    "stops": [
+      {
+        "point": "quepos-center",
+        "role": "Кепос · район офиса H2O",
+        "note": "Офис оператора находится в 300 м к востоку от собора. Точную отметку открытия навигатора смотрите в контактах H2O."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "H2O Adventures · рафтинг и тюбинг",
+        "source": "h2o-quepos-meeting-points",
+        "url": "https://www.h2ocr.com/getting-here",
+        "note": "Уровень, возраст, состояние воды, тариф, забор или точная посадка.",
+        "phone": "+506 8959 8989"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейный темп",
+        "text": "Каждому участнику выдают круг, каску и жилет. В сухие месяцы местами мелко и гид помогает пройти камни. Запросите размеры жилетов, расположение ребёнка в группе и ограничения по весу.",
+        "sources": [
+          "h2o-naranjo-tubing-i"
+        ]
+      },
+      {
+        "title": "Соберите две сухие смены",
+        "text": "Для воды возьмите подходящую обувь и быстросохнущую одежду. Запасной комплект и полотенце оставьте на берегу, а ценности упакуйте до трансфера.",
+        "sources": [
+          "h2o-naranjo-tubing-i",
+          "h2o-quepos-meeting-points"
+        ]
+      }
+    ],
+    "galleries": [
+      "h2o-naranjo-tubing-i"
+    ],
+    "nearby": [
+      "naranjo-lower-10",
+      "chorro-river-weekend-2",
+      "savegre-abajo-family-14"
+    ]
+  },
+  "chorro-esquipulas-glamping": {
+    "stops": [
+      {
+        "point": "chorro-ecolodge-parking",
+        "role": "Chorro Ecolodge · встреча в Эскипулас",
+        "note": "Координата карточки лоджа на карте. Проводник ведёт от лагеря к берегу."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Chorro Ecolodge · Esquipulas",
+        "source": "chorro-ecolodge-contact-map",
+        "url": "https://chorroecolodge.com/contact",
+        "note": "Подтвердите тип палатки, питание, состояние последних километров и время приезда.",
+        "phone": "+506 8959 8989"
+      },
+      {
+        "name": "H2O Adventures · рафтинг и тюбинг",
+        "source": "h2o-quepos-meeting-points",
+        "url": "https://www.h2ocr.com/getting-here",
+        "note": "Уровень, возраст, состояние воды, тариф, забор или точная посадка.",
+        "phone": "+506 8959 8989"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и соседний путь",
+        "text": "В сафари-палатках есть кровати. Уточните, какие удобства в самой палатке, и подтвердите еду при заселении. Рядом проходит заключительный этап El Camino de Costa Rica. Выберите короткую прогулку по финке или планируйте отдельную ходку с транспортом.",
+        "sources": [
+          "chorro-ecolodge-esquipulas",
+          "chorro-lunavida-outings",
+          "camino-maram-gpx-library"
+        ]
+      },
+      {
+        "title": "Подъезд и экипировка",
+        "text": "Попросите действующую дорожную схему. Для прогулки берите закрытую обувь, налобный фонарь, лёгкую дождезащиту и репеллент. Спросите об открытых тропах у водопада и требованиях к страховке.",
+        "sources": [
+          "chorro-ecolodge-contact-map",
+          "chorro-ecolodge-local-directory"
+        ]
+      }
+    ],
+    "galleries": [
+      "chorro-ecolodge-esquipulas",
+      "chorro-lunavida-outings",
+      "chorro-ecolodge-local-directory"
+    ],
+    "nearby": [
+      "el-camino-etapa-16",
+      "naranjo-chorro-iv-v",
+      "naranjo-tubing-family-57",
+      "chorro-river-weekend-2"
+    ]
+  },
+  "chorro-river-weekend-2": {
+    "stops": [
+      {
+        "point": "chorro-ecolodge-parking",
+        "role": "Chorro Ecolodge · встреча в Эскипулас",
+        "note": "Координата карточки лоджа на карте. Проводник ведёт от лагеря к берегу."
+      },
+      {
+        "point": "h2o-el-mordisco-naranjito",
+        "role": "El Mordisco · сбор рафта в Наранхито",
+        "note": "Место встречи варианта Just Rafting. Трансфер до берега распределяет команда."
+      },
+      {
+        "point": "quepos-center",
+        "role": "Кепос · район офиса H2O",
+        "note": "Офис оператора находится в 300 м к востоку от собора. Точную отметку открытия навигатора смотрите в контактах H2O."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Chorro Ecolodge · Esquipulas",
+        "source": "chorro-ecolodge-contact-map",
+        "url": "https://chorroecolodge.com/contact",
+        "note": "Подтвердите тип палатки, питание, состояние последних километров и время приезда.",
+        "phone": "+506 8959 8989"
+      },
+      {
+        "name": "H2O Adventures · рафтинг и тюбинг",
+        "source": "h2o-quepos-meeting-points",
+        "url": "https://www.h2ocr.com/getting-here",
+        "note": "Уровень, возраст, состояние воды, тариф, забор или точная посадка.",
+        "phone": "+506 8959 8989"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Варианты второго дня",
+        "text": "С детьми от 6 лет обсудите 5,7 км тюбинга с инструктором. В мае–декабре работает вариант III–IV от 12 лет. С середины декабря по апрель по воде может работать верхний El Chorro IV–V от 14 лет. При закрытии реки оставьте день для тропы, кофе и дороги.",
+        "sources": [
+          "h2o-naranjo-tubing-i",
+          "h2o-naranjo-lower-iii-iv",
+          "h2o-chorro-iv-v"
+        ]
+      },
+      {
+        "title": "Как собрать поездку",
+        "text": "Ночёвку, ужин и сплав бронируют отдельными запросами. Узнайте, откуда забирают на ваш вариант, сколько времени ехать из Эскипулас и что происходит с оплатой при переносе из-за погоды.",
+        "sources": [
+          "chorro-ecolodge-contact-map",
+          "h2o-quepos-meeting-points"
+        ]
+      }
+    ],
+    "galleries": [
+      "chorro-ecolodge-esquipulas",
+      "h2o-naranjo-tubing-i",
+      "h2o-chorro-iv-v"
+    ],
+    "nearby": [
+      "chorro-esquipulas-glamping",
+      "naranjo-tubing-family-57",
+      "naranjo-lower-10",
+      "naranjo-chorro-iv-v"
+    ],
+    "line": "chorro-quepos-road",
+    "track": "chorro-esquipulas-osm-road"
+  },
+  "mora-ermitas-etapa-1": {
+    "stops": [
+      {
+        "point": "mora-balsilla-chucas",
+        "role": "Бальсилья · район старта",
+        "note": "Точка показывает посёлок Chucás. Точный подход к часовне уточняют по карте этапа или у местных."
+      },
+      {
+        "point": "mora-llano-grande",
+        "role": "Льяно-Гранде · часовня рядом с поселением",
+        "note": "Отдельную отметку часовни можно открыть в культурном реестре."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caminantes Aventureros · Мора",
+        "source": "mora-catumora-catalog",
+        "url": "https://sergionunez.net/images/CatalogoCatumora.pdf",
+        "note": "Пять этапов, паспорт маршрута, входы, местный гид и подвоз из Сьюдад-Колона.",
+        "phone": "+506 8821 4738"
+      },
+      {
+        "name": "Ticos A Pata · выходные с сопровождающим",
+        "source": "ticosapata-public-contact",
+        "url": "https://ticosapata.com/contact/",
+        "note": "Новый календарь, трансфер, допуск на участок, питание и место встречи.",
+        "phone": "+506 8841 8076",
+        "email": "servicioalcliente@ticosapata.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и два храма",
+        "text": "Этот GPS опубликован участником. Скачайте его на телефон, попросите проверить частные проезды и сравните конечную точку с культурным реестром часовни Льяно-Гранде.",
+        "sources": [
+          "mora-ermita-1-gps",
+          "mora-llano-cultura"
+        ]
+      },
+      {
+        "title": "Трансфер и вещи",
+        "text": "Берите воду, перекус, лёгкую защиту от дождя и солнца, обувь с хорошим протектором и офлайн-карту. Сохраните номер встречающего водителя до старта.",
+        "sources": [
+          "mora-ermitas-organizer-interview",
+          "publisher-archive-ticosapata-com"
+        ]
+      }
+    ],
+    "galleries": [
+      "mora-llano-cultura",
+      "mora-ermita-1-gps"
+    ],
+    "nearby": [
+      "mora-ermitas-etapa-2",
+      "mora-ermitas-5-days"
+    ],
+    "track": "mora-ermita-1-gps"
+  },
+  "mora-ermitas-etapa-2": {
+    "stops": [
+      {
+        "point": "mora-llano-grande",
+        "role": "Льяно-Гранде · часовня рядом с поселением",
+        "note": "Отдельную отметку часовни можно открыть в культурном реестре."
+      },
+      {
+        "point": "mora-picagres",
+        "role": "Пикагрес · промежуточный район",
+        "note": "Проверьте у гида проход к реке и ответвление к часовне."
+      },
+      {
+        "point": "piedras-negras",
+        "role": "Пьедрас-Неграс · район часовни",
+        "note": "При пешем переходе встречу с транспортом согласуйте заранее."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caminantes Aventureros · Мора",
+        "source": "mora-catumora-catalog",
+        "url": "https://sergionunez.net/images/CatalogoCatumora.pdf",
+        "note": "Пять этапов, паспорт маршрута, входы, местный гид и подвоз из Сьюдад-Колона.",
+        "phone": "+506 8821 4738"
+      },
+      {
+        "name": "Ticos A Pata · выходные с сопровождающим",
+        "source": "ticosapata-public-contact",
+        "url": "https://ticosapata.com/contact/",
+        "note": "Новый календарь, трансфер, допуск на участок, питание и место встречи.",
+        "phone": "+506 8841 8076",
+        "email": "servicioalcliente@ticosapata.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Полевые заметки",
+        "text": "Поход проходит по гравию и мимо хозяйств. Автор отдельного отчёта отмечает открытые участки. Сопоставьте записанный GPS с заявленным маршрутом дня, а питание подтвердите заранее.",
+        "sources": [
+          "mora-ermita-2-ticos",
+          "mora-ermita-2-gps",
+          "mora-ermita-2-walk-report"
+        ]
+      },
+      {
+        "title": "Трансфер и вещи",
+        "text": "Берите воду, перекус, лёгкую защиту от дождя и солнца, обувь с хорошим протектором и офлайн-карту. Сохраните номер встречающего водителя до старта.",
+        "sources": [
+          "mora-ermitas-organizer-interview",
+          "publisher-archive-ticosapata-com"
+        ]
+      }
+    ],
+    "galleries": [
+      "mora-ermita-2-walk-report",
+      "mora-llano-cultura"
+    ],
+    "nearby": [
+      "mora-ermitas-etapa-1",
+      "mora-ermitas-etapa-3",
+      "mora-ermitas-5-days"
+    ],
+    "track": "mora-ermita-2-gps"
+  },
+  "mora-ermitas-etapa-3": {
+    "stops": [
+      {
+        "point": "piedras-negras",
+        "role": "Пьедрас-Неграс · район часовни",
+        "note": "При пешем переходе встречу с транспортом согласуйте заранее."
+      },
+      {
+        "point": "mora-el-rodeo",
+        "role": "Эль-Родео · деревня",
+        "note": "Здесь заканчивается третий этап и начинается четвёртый."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caminantes Aventureros · Мора",
+        "source": "mora-catumora-catalog",
+        "url": "https://sergionunez.net/images/CatalogoCatumora.pdf",
+        "note": "Пять этапов, паспорт маршрута, входы, местный гид и подвоз из Сьюдад-Колона.",
+        "phone": "+506 8821 4738"
+      },
+      {
+        "name": "Ticos A Pata · выходные с сопровождающим",
+        "source": "ticosapata-public-contact",
+        "url": "https://ticosapata.com/contact/",
+        "note": "Новый календарь, трансфер, допуск на участок, питание и место встречи.",
+        "phone": "+506 8841 8076",
+        "email": "servicioalcliente@ticosapata.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подготовка к рельефу",
+        "text": "Выделите время на спуск и протяжённый подъём. Палка помогает на рыхлом грунте, обувь с цепкой подошвой — после дождя. В Эль-Родео можно запросить питание и ночёвку у местных.",
+        "sources": [
+          "mora-ermita-3-ticos",
+          "mora-ermita-3-gps",
+          "mora-catumora-catalog"
+        ]
+      },
+      {
+        "title": "Трансфер и вещи",
+        "text": "Берите воду, перекус, лёгкую защиту от дождя и солнца, обувь с хорошим протектором и офлайн-карту. Сохраните номер встречающего водителя до старта.",
+        "sources": [
+          "mora-ermitas-organizer-interview",
+          "publisher-archive-ticosapata-com"
+        ]
+      }
+    ],
+    "galleries": [
+      "mora-ermita-3-ticos",
+      "mora-ermita-3-gps"
+    ],
+    "nearby": [
+      "mora-ermitas-etapa-2",
+      "mora-ermitas-etapa-4",
+      "mora-ermitas-5-days"
+    ],
+    "track": "mora-ermita-3-gps"
+  },
+  "mora-ermitas-etapa-4": {
+    "stops": [
+      {
+        "point": "mora-el-rodeo",
+        "role": "Эль-Родео · деревня",
+        "note": "Здесь заканчивается третий этап и начинается четвёртый."
+      },
+      {
+        "point": "mora-jaris",
+        "role": "Харис · часовня и встреча с транспортом",
+        "note": "По описанию организатора часовня доступна для осмотра снаружи."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caminantes Aventureros · Мора",
+        "source": "mora-catumora-catalog",
+        "url": "https://sergionunez.net/images/CatalogoCatumora.pdf",
+        "note": "Пять этапов, паспорт маршрута, входы, местный гид и подвоз из Сьюдад-Колона.",
+        "phone": "+506 8821 4738"
+      },
+      {
+        "name": "Ticos A Pata · выходные с сопровождающим",
+        "source": "ticosapata-public-contact",
+        "url": "https://ticosapata.com/contact/",
+        "note": "Новый календарь, трансфер, допуск на участок, питание и место встречи.",
+        "phone": "+506 8841 8076",
+        "email": "servicioalcliente@ticosapata.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Техническая часть",
+        "text": "В описанной группе подъём примерно 3 км сменяется участком спуска около 2 км по разбитой старой дороге. Из-за грязи и камней нужны ботинки с протектором и запас времени.",
+        "sources": [
+          "mora-ermita-4-ticos"
+        ]
+      },
+      {
+        "title": "Трансфер и вещи",
+        "text": "Берите воду, перекус, лёгкую защиту от дождя и солнца, обувь с хорошим протектором и офлайн-карту. Сохраните номер встречающего водителя до старта.",
+        "sources": [
+          "mora-ermitas-organizer-interview",
+          "publisher-archive-ticosapata-com"
+        ]
+      }
+    ],
+    "galleries": [
+      "mora-ermita-4-ticos",
+      "mora-ermitas-organizer-interview"
+    ],
+    "nearby": [
+      "mora-ermitas-etapa-3",
+      "mora-ermitas-etapa-5",
+      "mora-ermitas-5-days"
+    ]
+  },
+  "mora-ermitas-etapa-5": {
+    "stops": [
+      {
+        "point": "mora-jaris",
+        "role": "Харис · часовня и встреча с транспортом",
+        "note": "По описанию организатора часовня доступна для осмотра снаружи."
+      },
+      {
+        "point": "mora-corralar",
+        "role": "Корралар-де-Мора · финиш",
+        "note": "Местный проход и место встречи проверяйте по маршруту дня."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caminantes Aventureros · Мора",
+        "source": "mora-catumora-catalog",
+        "url": "https://sergionunez.net/images/CatalogoCatumora.pdf",
+        "note": "Пять этапов, паспорт маршрута, входы, местный гид и подвоз из Сьюдад-Колона.",
+        "phone": "+506 8821 4738"
+      },
+      {
+        "name": "Ticos A Pata · выходные с сопровождающим",
+        "source": "ticosapata-public-contact",
+        "url": "https://ticosapata.com/contact/",
+        "note": "Новый календарь, трансфер, допуск на участок, питание и место встречи.",
+        "phone": "+506 8841 8076",
+        "email": "servicioalcliente@ticosapata.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где остановиться",
+        "text": "Запросите домашний завтрак в Харисе и обед в Корраларе в тот же день. Организованная прогулка также упоминает рассказ о местных петроглифах. Доступ согласовывает проводник, часть объектов лежит вне общей дороги.",
+        "sources": [
+          "mora-ermita-5-ticos",
+          "mora-ermita-5-gallery"
+        ]
+      },
+      {
+        "title": "Трансфер и вещи",
+        "text": "Берите воду, перекус, лёгкую защиту от дождя и солнца, обувь с хорошим протектором и офлайн-карту. Сохраните номер встречающего водителя до старта.",
+        "sources": [
+          "mora-ermitas-organizer-interview",
+          "publisher-archive-ticosapata-com"
+        ]
+      }
+    ],
+    "galleries": [
+      "mora-ermita-5-gallery",
+      "mora-ermitas-organizer-interview"
+    ],
+    "nearby": [
+      "mora-ermitas-etapa-4",
+      "mora-ermitas-5-days"
+    ]
+  },
+  "mora-ermitas-5-days": {
+    "stops": [
+      {
+        "point": "mora-balsilla-chucas",
+        "role": "Бальсилья · район старта",
+        "note": "Точка показывает посёлок Chucás. Точный подход к часовне уточняют по карте этапа или у местных."
+      },
+      {
+        "point": "mora-llano-grande",
+        "role": "Льяно-Гранде · часовня рядом с поселением",
+        "note": "Отдельную отметку часовни можно открыть в культурном реестре."
+      },
+      {
+        "point": "mora-picagres",
+        "role": "Пикагрес · промежуточный район",
+        "note": "Проверьте у гида проход к реке и ответвление к часовне."
+      },
+      {
+        "point": "piedras-negras",
+        "role": "Пьедрас-Неграс · район часовни",
+        "note": "При пешем переходе встречу с транспортом согласуйте заранее."
+      },
+      {
+        "point": "mora-el-rodeo",
+        "role": "Эль-Родео · деревня",
+        "note": "Здесь заканчивается третий этап и начинается четвёртый."
+      },
+      {
+        "point": "mora-jaris",
+        "role": "Харис · часовня и встреча с транспортом",
+        "note": "По описанию организатора часовня доступна для осмотра снаружи."
+      },
+      {
+        "point": "mora-corralar",
+        "role": "Корралар-де-Мора · финиш",
+        "note": "Местный проход и место встречи проверяйте по маршруту дня."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caminantes Aventureros · Мора",
+        "source": "mora-catumora-catalog",
+        "url": "https://sergionunez.net/images/CatalogoCatumora.pdf",
+        "note": "Пять этапов, паспорт маршрута, входы, местный гид и подвоз из Сьюдад-Колона.",
+        "phone": "+506 8821 4738"
+      },
+      {
+        "name": "Ticos A Pata · выходные с сопровождающим",
+        "source": "ticosapata-public-contact",
+        "url": "https://ticosapata.com/contact/",
+        "note": "Новый календарь, трансфер, допуск на участок, питание и место встречи.",
+        "phone": "+506 8841 8076",
+        "email": "servicioalcliente@ticosapata.com"
+      },
+      {
+        "name": "Hacienda El Rodeo · ночёвка",
+        "source": "mora-catumora-catalog",
+        "url": "https://sergionunez.net/images/CatalogoCatumora.pdf",
+        "note": "Местный каталог указывает жильё, ресторан и парковку в Эль-Родео. Уточните заезд и цену напрямую.",
+        "phone": "+506 8833 7364"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где спать и есть",
+        "text": "CATUMORA публикует Hacienda El Rodeo у третьего и четвёртого этапа. Для одной базы также можно подобрать жильё в Сьюдад-Колоне и согласовать ежедневные трансферы. На организованных выездах часть еды готовят местные семьи. Подтвердите ночи и питание до выхода.",
+        "sources": [
+          "mora-catumora-catalog",
+          "mora-ermitas-organizer-interview",
+          "mora-ermita-4-ticos"
+        ]
+      },
+      {
+        "title": "Три записи маршрута и два описания",
+        "text": "Для первых трёх дней открываются пройденные записи GPS. Для четвёртого и пятого есть программы проводников. С ними проверьте ворота, воду, парковку, встречу на финише и доступ к часовням.",
+        "sources": [
+          "mora-ermita-1-gps",
+          "mora-ermita-2-gps",
+          "mora-ermita-3-gps",
+          "mora-ermita-4-ticos",
+          "mora-ermita-5-ticos"
+        ]
+      },
+      {
+        "title": "Для истории и семьи",
+        "text": "На короткий первый визит выберите одну часовню или второй участок при хорошей погоде. Архивное видео Josue Artavia показывает все семь часовен. Для посещения внутри проверьте состояние и расписание местной общины.",
+        "sources": [
+          "mora-ermitas-artavia-video",
+          "mora-ermitas-declarations",
+          "mora-ermita-2-ticos"
+        ]
+      }
+    ],
+    "galleries": [
+      "mora-ermitas-organizer-interview",
+      "mora-llano-cultura",
+      "mora-ermita-5-gallery"
+    ],
+    "nearby": [
+      "mora-ermitas-etapa-1",
+      "mora-ermitas-etapa-2",
+      "mora-ermitas-etapa-3",
+      "mora-ermitas-etapa-4",
+      "mora-ermitas-etapa-5"
+    ],
+    "videos": [
+      "mora-ermitas-artavia-video"
+    ]
+  }
+}

@@ -130,12 +130,12 @@
       },
       {
         "title": "Проверка своего каяка",
-        "text": "Перед тем как везти лодку, уточните у парка её тип, спуск, регистрацию и нужен ли гид для выбранного выезда. У общественного перевозчика отдельно согласуйте размер и перевозку багажа. На карте отмечен ориентир, где оформляют вход, и профиль русла одного канала.",
+        "text": "ACTO требует начинать визит на каяке со входа на Río Tortuguero. Довозить каяк на другой лодке вглубь каналов нельзя. Подтвердите тип лодки, регистрацию, посадку и необходимость проводника на выбранную дату. У пассажирского перевозчика отдельно согласуйте размер багажа.",
         "sources": [
-          "tortuguero-public-use-decree-35848",
+          "tortuguero-kayak-entry-2018",
           "tortuguero-capacity-water-routing",
-          "tort-smith",
-          "osm-cr-points"
+          "tortuguero-acto-sectors",
+          "tort-smith"
         ]
       }
     ],
@@ -151,11 +151,13 @@
         "name": "ACTO · Parque Nacional Tortuguero",
         "source": "tort-acto",
         "note": "Открытые каналы, распределение маршрутов, регистрация и правила своей лодки.",
-        "url": "https://www.acto.go.cr/informacion-turistica-parque-nacional-tortuguero/"
+        "url": "https://www.acto.go.cr/informacion-turistica-parque-nacional-tortuguero/",
+        "phone": "+506 2709 8246"
       }
     ],
     "nearby": [
-      "tortuguero-no-car"
+      "tortuguero-no-car",
+      "tortuguero-harold-own-kayak"
     ],
     "track": "acto-tortuguero-canal-map",
     "line": "tortuguero-cano-mora-waterway"

@@ -12,6 +12,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import urllib.robotparser
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from build_catalog import DATA, SOURCE_FIELDS, read_table
@@ -78,9 +79,21 @@ def robots_rules(opener, target):
     return parser
 
 
-def respect_robots(opener, target):
-    rules = robots_rules(opener, target)
-    return rules is None or rules.can_fetch(AGENT, target)
+def sitemap_links(opener, target, archive, rules):
+    receipt = {"url": target, "status": "unavailable"}
+    try:
+        if urllib.parse.urlsplit(target).scheme != "https" or host(target) != host(archive):
+            raise ValueError("sitemap outside the registered source")
+        if rules and not rules.can_fetch(AGENT, target):
+            return [], {**receipt, "status": "robots-disallow"}
+        body, _ = request(opener, target)
+        root = ET.fromstring(body)
+        if root.tag.rsplit("}", 1)[-1] != "urlset":
+            raise ValueError("expected an article sitemap")
+        links = [(entry.text.strip(), "") for entry in root.findall("./{*}url/{*}loc") if entry.text]
+        return links, {**receipt, "status": "read", "urls": len(links)}
+    except (urllib.error.URLError, OSError, ValueError, ET.ParseError) as error:
+        return [], {**receipt, "reason": str(error)[:180]}
 
 
 def inspect(feed, known):
@@ -88,17 +101,22 @@ def inspect(feed, known):
     result = {"source": feed["name"], "url": target, "status": "unread", "candidates": []}
     opener = urllib.request.build_opener(SameSiteRedirect())
     try:
-        if not respect_robots(opener, target):
+        rules = robots_rules(opener, target)
+        if rules and not rules.can_fetch(AGENT, target):
             result["status"] = "robots-disallow"
             return result
         body, fetched = request(opener, target)
         parser = Links()
         parser.feed(body.decode("utf-8", errors="replace"))
         matches = {}
-        for href, title in parser.results:
+        links = parser.results
+        if feed.get("sitemap"):
+            extra, result["sitemap"] = sitemap_links(opener, feed["sitemap"], fetched, rules)
+            links = links + extra
+        for href, title in links:
             location = urllib.parse.urlsplit(urllib.parse.urljoin(fetched, html.unescape(href)))
             url = urllib.parse.urlunsplit((location.scheme, location.netloc, location.path, "", ""))
-            if location.scheme != "https" or host(url) != host(fetched):
+            if location.scheme != "https" or host(url) != host(fetched) or (rules and not rules.can_fetch(AGENT, url)):
                 continue
             if not any(location.path.lower().startswith(path) and
                        location.path.rstrip("/") != path.rstrip("/") for path in feed["paths"]):

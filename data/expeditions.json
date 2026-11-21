@@ -6021,5 +6021,187 @@
         ]
       }
     ]
+  },
+  {
+    "id": "chorro-river-weekend-2",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Эскипулас и Наранхо · два дня с глэмпингом и рекой",
+    "native": "Chorro Ecolodge · Esquipulas · río Naranjo, fin de semana",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "glamping",
+      "hiking",
+      "rafting",
+      "tubing",
+      "river",
+      "forest",
+      "waterfall",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping"
+    ],
+    "sources": [
+      "chorro-ecolodge-esquipulas",
+      "chorro-ecolodge-contact-map",
+      "h2o-naranjo-tubing-i",
+      "h2o-naranjo-lower-iii-iv",
+      "h2o-chorro-iv-v"
+    ],
+    "summary": "День на горной финке с лесом и водопадом. Утром — отдельный сплав, подобранный под возраст и сезон.",
+    "plan": "Сначала подтвердите палатку и подъезд. Семьям с детьми от 6 лет доступен тюбинг класса I. С 12 и 14 лет соответственно можно обсудить более активные варианты по сезону и привычке к воде.",
+    "conditions": "Точка встречи второго дня зависит от выбранной воды. Верхний каньон требует достаточной подготовки и подходящего уровня, поэтому сложность уточняйте по отдельной карточке.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Лесная финка и ночёвка",
+        "note": "Заедьте в светлое время, обойдите открытую тропу и согласуйте ужин у Doña Luz.",
+        "stops": [
+          "chorro-esquipulas-glamping"
+        ],
+        "sources": [
+          "chorro-ecolodge-esquipulas",
+          "chorro-ecolodge-contact-map"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Наранхо по уровню группы",
+        "note": "В тихий вариант входите со стороны Кепоса, на нижний рафт встречайтесь в Наранхито, на El Chorro — у лоджа.",
+        "stops": [
+          "naranjo-tubing-family-57",
+          "naranjo-lower-10",
+          "naranjo-chorro-iv-v"
+        ],
+        "sources": [
+          "h2o-quepos-meeting-points",
+          "h2o-naranjo-tubing-i",
+          "h2o-naranjo-lower-iii-iv",
+          "h2o-chorro-iv-v"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mora-ermitas-5-days",
+    "kind": "trip",
+    "region": "central",
+    "title": "Мора · пять походов по викторианским часовням, около 53 км",
+    "native": "Camino de las Ermitas Victorianas · Cantón de Mora",
+    "level": "hard",
+    "days": 5,
+    "activities": [
+      "multi",
+      "hiking",
+      "history",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "mora-ermitas-organizer-interview",
+      "mora-ermitas-declarations",
+      "mora-catumora-catalog",
+      "publisher-archive-ticosapata-com",
+      "mora-ermita-1-gps",
+      "mora-ermita-2-ticos",
+      "mora-ermita-3-gps",
+      "mora-ermita-4-ticos",
+      "mora-ermita-5-ticos"
+    ],
+    "summary": "Пять дневных переходов по сёлам Центральной долины. Семь часовен, сельские подъёмы, старые тропы и местные обеды.",
+    "plan": "Разделите на пять выходных или соберите пять дневных этапов подряд. Для сквозного похода узнайте доступ и подвоз заранее. Удобно оставлять часть вещей в одной подтверждённой ночёвке.",
+    "conditions": "Около 53 км — сумма опубликованных дистанций вариантов. Календари групп меняются. Осмотр часовен, доступ на тропы и возвращение вечером подтверждайте по каждому этапу.",
+    "distance": 53.1,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Бальсилья — Льяно-Гранде",
+        "note": "Пеший переход от часовни в районе Бальсильи к часовне Льяно-Гранде. Пройденный GPS-вариант даёт 10,1 км и около 539 м подъёма.",
+        "stops": [
+          "mora-ermitas-etapa-1"
+        ],
+        "sources": [
+          "mora-ermita-1-gps",
+          "mora-ermitas-organizer-interview"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Льяно-Гранде — Пикагрес — Пьедрас-Неграс",
+        "note": "Сельские дороги между фермами, речная долинка Пикагрес и деревянная часовня Пьедрас-Неграс.",
+        "stops": [
+          "mora-ermitas-etapa-2"
+        ],
+        "sources": [
+          "mora-ermita-2-ticos",
+          "mora-ermitas-organizer-interview"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Пьедрас-Неграс — Эль-Родео",
+        "note": "Более рельефная часть пути через долину Jaris. В одном пройденном GPS-варианте 10,04 км и около 504 м набора.",
+        "stops": [
+          "mora-ermitas-etapa-3"
+        ],
+        "sources": [
+          "mora-ermita-3-ticos",
+          "mora-ermitas-organizer-interview"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Эль-Родео — Харис",
+        "note": "Сельская дорога, подъём в Senderos Colón, технический спуск по старой дороге и ещё один подъём до Хариса.",
+        "stops": [
+          "mora-ermitas-etapa-4"
+        ],
+        "sources": [
+          "mora-ermita-4-ticos",
+          "mora-ermitas-organizer-interview"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Харис — Корралар",
+        "note": "Последний этап через Гуаябо, Бустаманте и Табарсиа к часовне Корралар. По маршруту встречаются асфальт, гравий и земля.",
+        "stops": [
+          "mora-ermitas-etapa-5"
+        ],
+        "sources": [
+          "mora-ermita-5-ticos",
+          "mora-ermitas-organizer-interview"
+        ]
+      }
+    ]
   }
 ]
