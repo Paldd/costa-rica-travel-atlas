@@ -7426,5 +7426,166 @@
         ]
       }
     ]
+  },
+  {
+    "id": "piedades-sur-musas-ambar-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Сан-Рамон на два дня · водопады, лагерь и ферма бабочек",
+    "native": "Eco Musas · Roca Vista · Capilla Ámbar · Finca Libertad Pura",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "car",
+      "camping",
+      "campfire",
+      "hiking",
+      "waterfall",
+      "coffee",
+      "forest",
+      "views",
+      "swim"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "lasmusas-attractions",
+      "sanramon-roca-vista-camp-field",
+      "capilla-ambar-spaces",
+      "sanramon-libertad-camp-host"
+    ],
+    "summary": "Выходные на западных склонах долины. Первый день проходит у лесного водопада и в лагере с видом, второй — в садах и на кофейной ферме.",
+    "plan": "Поезжайте в Las Musas к открытию, затем разбейте лагерь в Roca Vista. На второй день посетите Capilla Ámbar и заезжайте на Finca Libertad Pura по согласованному времени.",
+    "conditions": "Крышная палатка в Roca Vista и Libertad Pura требует подтверждения места для автомобиля. Для каждой ночёвки отдельно согласуйте огонь. На дорожной схеме есть местные грунтовки.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Лас-Мусас и ночь в Roca Vista",
+        "note": "Выберите поход по силам группы. В лагере попросите оговорённое место и обозначенный очаг, приходите засветло.",
+        "stops": [
+          "sanramon-eco-musas-waterfall-trails",
+          "sanramon-roca-vista-fire-camp"
+        ],
+        "sources": [
+          "lasmusas-attractions",
+          "sanramon-roca-vista-camp-field"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Бабочки, кофе и ферма Libertad Pura",
+        "note": "С утра сад и часовня. Для дегустации нужен отдельный слот. В Libertad Pura можно согласовать короткую прогулку или конный выезд.",
+        "stops": [
+          "sanramon-capilla-ambar-coffee",
+          "sanramon-libertad-farm-camp"
+        ],
+        "sources": [
+          "capilla-ambar-coffee",
+          "sanramon-libertad-camp-host"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "monteverde-turin-cloudforest-3",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Турин и Монтеверде · три дня с палаткой на крыше и облачным лесом",
+    "native": "Ruta 606 · Camping Turín · Curi-Cancha · Altitud 1.4 · Reserva Monteverde",
+    "level": "easy",
+    "days": 3,
+    "activities": [
+      "car",
+      "camping",
+      "rooftent",
+      "campfire",
+      "hiking",
+      "forest",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "roof",
+      "lodge"
+    ],
+    "sources": [
+      "turin-camp-cr",
+      "turin-guide",
+      "altitud-camp-cr",
+      "curi",
+      "monteverde-visitor-map"
+    ],
+    "summary": "Две ночёвки на холодном тихоокеанском склоне и две разные прогулки по облачному лесу. На первую ночь подходит Turín, на вторую ближе к паркам — Altitud 1.4.",
+    "plan": "На первый день приезжайте засветло по Ruta 606. На второй начните с Curi-Cancha. На третий оставьте время на центр посетителей, шаттл и пешую петлю Reserva Monteverde.",
+    "conditions": "Лагеря, места для огня и входы в резерваты подтверждаются отдельно. Во время тумана и сильного дождя выбирайте короткие тропы. Для крышной палатки заранее назовите габариты и сторону лестницы.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Приезд и костровой вечер в Turín",
+        "note": "Устроить лагерь у ресторана, посмотреть площадки возле деревьев. Для семей с маленькими детьми можно остановиться на готовом крытом настиле.",
+        "stops": [
+          "monteverde-turin-roof-camp"
+        ],
+        "sources": [
+          "turin-camp-cr",
+          "turin-guide"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Птицы в Curi-Cancha и вторая ночёвка",
+        "note": "Утренняя прогулка у лесной кромки. После неё можно переехать в Altitud 1.4 ближе к центру посетителей или оставить первую базу.",
+        "stops": [
+          "curi-cancha",
+          "monteverde-altitud-roof"
+        ],
+        "sources": [
+          "curi",
+          "curi-local-guide",
+          "altitud-camp-cr"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Заповедник Monteverde и обратный выезд",
+        "note": "Оставьте машину у центра посетителей. Поднимитесь шаттлом к входу, пройдите открытую петлю по карте дня и возвращайтесь засветло.",
+        "stops": [
+          "monteverde-reserve"
+        ],
+        "sources": [
+          "monteverde-visitor-map",
+          "monteverde-visitor-shuttle"
+        ]
+      }
+    ]
   }
 ]

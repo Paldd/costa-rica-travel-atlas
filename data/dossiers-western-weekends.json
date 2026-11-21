@@ -1,0 +1,779 @@
+{
+  "sanramon-capilla-ambar-coffee": {
+    "stops": [
+      {
+        "point": "capilla-ambar-main",
+        "role": "Сбор у Capilla Ámbar",
+        "note": "Хозяйский пин отсылает к участку возле школы El Carmen."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Варианты посещения",
+        "text": "Часовня, сад, Pueblo Zumbador и ферма Emma составляют компактную прогулку. Для младших детей удобен короткий круг. Для дождливого дня можно спросить про крытые зоны, дорожки под коляску и место для еды.",
+        "sources": [
+          "capilla-ambar-spaces",
+          "capilla-ambar-muni"
+        ]
+      },
+      {
+        "title": "Кофе с гидом",
+        "text": "Хозяева ведут по ферме, объясняют обработку кофе и предлагают дегустацию. Местный автор Explore Tikizia описывает, как в семье разбирают стадии обработки зерна. Старые цены из статьи для расчёта поездки не использованы.",
+        "sources": [
+          "capilla-ambar-coffee",
+          "capilla-ambar-tikizia"
+        ]
+      },
+      {
+        "title": "Видеозаметки и трансфер",
+        "text": "В отдельном репортаже Teletica показан Pueblo Zumbador. Видеопревью A Dónde Ir Costa Rica посвящено ферме и бабочкам. Есть опубликованная групповая программа с транспортом из района Гуапилеса, запросите дату выезда.",
+        "sources": [
+          "capilla-ambar-teletica-bees",
+          "capilla-ambar-adonde-fb",
+          "capilla-group-guapiles"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Capilla Ámbar · обычный визит",
+        "source": "capilla-ambar-contact",
+        "note": "Спросите время посещения сада, билеты и возможное закрытие часовни под мероприятие.",
+        "url": "https://wa.me/50683285085",
+        "phone": "+506 8328 5085",
+        "email": "capillaambar@gmail.com"
+      },
+      {
+        "name": "Кофейный тур Finca Edgar Fernández",
+        "source": "capilla-ambar-contact",
+        "note": "Для тура укажите язык, число гостей и время. Запросите текущую длительность и доступ к дегустации.",
+        "url": "https://wa.me/50684418397",
+        "phone": "+506 8441 8397"
+      },
+      {
+        "name": "Guápiles Línea Tours",
+        "source": "capilla-group-guapiles",
+        "note": "Уточните дату группы, остановки и обратный транспорт.",
+        "url": "https://guapileslineatours.com/tours/capilla-ambar"
+      }
+    ],
+    "galleries": [
+      "capilla-ambar-gallery",
+      "capilla-ambar-tikizia"
+    ],
+    "videos": [
+      "capilla-ambar-edicson-video"
+    ],
+    "nearby": [
+      "sanramon-eco-musas-waterfall-trails",
+      "sanramon-libertad-farm-camp",
+      "piedades-sur-musas-ambar-2"
+    ],
+    "connectStops": false
+  },
+  "sanramon-eco-musas-waterfall-trails": {
+    "stops": [
+      {
+        "point": "lasmusas-eco-arrival",
+        "role": "Въезд и касса",
+        "note": "Подъезд от Сан-Рамона. Оператор допускает обычные машины."
+      },
+      {
+        "point": "lasmusas-water-view",
+        "role": "Район главного водопада",
+        "note": "От кассы идите по открытой тропе и указателям парка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор тропы",
+        "text": "Вариант 200 м короткий, 2 км средний, а 5 км ведут к четырём водопадам по описанию администрации. Если важны отсутствие ступеней или коляска, уточните это у кассы. Схему актуальных проходов выдаёт сам парк.",
+        "sources": [
+          "lasmusas-attractions",
+          "lasmusas-contact"
+        ]
+      },
+      {
+        "title": "Порядок дня",
+        "text": "Парк указывает открытие в 08:00 и выходной в понедельник. Оператор разрешает приносить еду без алкоголя. После тропы можно выбрать бассейн и ресторан. Комплект билетов и доплаты зависят от выбранных активностей.",
+        "sources": [
+          "lasmusas-attractions",
+          "lasmusas-contact",
+          "lasmusas-municipal"
+        ]
+      },
+      {
+        "title": "Местные впечатления",
+        "text": "В репортаже Teletica автор добрался до основной каскадной стены по короткому подходу. Видео 2021 года даёт представление о воде и тропах. Для длинной ветки лучше спросить, какие из переходов работают после дождя.",
+        "sources": [
+          "lasmusas-visit-report",
+          "lasmusas-local-video",
+          "lasmusas-attractions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Eco Musas · парк и экскурсии",
+        "source": "lasmusas-contact",
+        "note": "Уточните состояние 5-километровой тропы, включённые зоны и часы бассейна.",
+        "url": "https://lasmusascr.com/contacto/",
+        "phone": "+506 2445 0059"
+      }
+    ],
+    "galleries": [
+      "lasmusas-gallery"
+    ],
+    "videos": [
+      "lasmusas-local-video"
+    ],
+    "nearby": [
+      "sanramon-capilla-ambar-coffee",
+      "sanramon-libertad-farm-camp",
+      "piedades-sur-musas-ambar-2"
+    ],
+    "connectStops": false
+  },
+  "barva-adventure-4x4-camp": {
+    "stops": [
+      {
+        "point": "barva-ap-property",
+        "role": "Район начала и регистрации",
+        "note": "От церкви San José de la Montaña ехать по указателям парка."
+      },
+      {
+        "point": "barva-ap-cipres-camp",
+        "role": "Сектор Bosque de Cipreses",
+        "note": "Распределение мест в лагере уточняет администрация."
+      },
+      {
+        "point": "barva-ap-pump-track",
+        "role": "Велоплощадка",
+        "note": "Заезд на технические трассы отдельно согласуют на регистрации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Заезд и огонь",
+        "text": "Парк разрешает 4×4 проехать в зону кемпинга. В сухой период высокий автомобиль иногда доезжает до первого сектора. Хозяева указывают дрова в пакете кемпинга. Просите показать ближайший к участку разрешённый очаг и время выезда.",
+        "sources": [
+          "barva-ap-camp-official",
+          "barva-ap-camp-osm"
+        ]
+      },
+      {
+        "title": "Два темпа на выходные",
+        "text": "Утром можно сходить по выделенной пешей тропе или кататься на MTB. В FAQ заявлены отдельные подъёмы и спуски общей сетью примерно 30 км. Новой группе подойдут ознакомительный подъём и самая простая открытая ветка по совету парка.",
+        "sources": [
+          "barva-ap-faq",
+          "barva-ap-mtb"
+        ]
+      },
+      {
+        "title": "Что брать на ночь",
+        "text": "Водостойкая палатка, дополнительные тенты, спальник, свет, еда и запас питьевой воды. Возьмите горелку для готовки в разрешённой зоне при запрете костра. По питанию объявления и FAQ расходятся, поэтому уточните наличие кухни при звонке.",
+        "sources": [
+          "barva-ap-camp-official",
+          "barva-ap-faq"
+        ]
+      },
+      {
+        "title": "Как выглядит место",
+        "text": "Фото Qué Buen Lugar показывают лесные подходы и прогулку к водопаду. Апрельский репортаж Teletica 2026 года показывает также downhill и канопи.",
+        "sources": [
+          "barva-ap-qbl",
+          "barva-ap-teletica-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park · 4×4, кемпинг и MTB",
+        "source": "barva-ap-camp-official",
+        "note": "Скажите, что палатка закреплена на машине. Уточните сектор, ровное место, семейный очаг и наличие душа.",
+        "url": "https://wa.me/50688443102",
+        "phone": "+506 8844 3102"
+      }
+    ],
+    "galleries": [
+      "barva-ap-camp-official",
+      "barva-ap-qbl",
+      "barva-ap-mtb"
+    ],
+    "videos": [
+      "barva-ap-teletica-video"
+    ],
+    "nearby": [
+      "barva-adventure-mtb-5",
+      "barva-paso-llano-birri-cycle",
+      "braulio-barva"
+    ],
+    "connectStops": false
+  },
+  "barva-adventure-mtb-5": {
+    "stops": [
+      {
+        "point": "barva-ap-property",
+        "role": "Регистрация и выбор уровня",
+        "note": ""
+      },
+      {
+        "point": "barva-ap-pump-track",
+        "role": "Велоплощадка на территории",
+        "note": "Ориентир для разведки. Начало записанного круга проверяйте по треку автора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и набор",
+        "text": "4,93 км и +181 м относятся к записи автора. Он проехал около 38 минут в движении. На подъёмы и осмотр скользких или технических участков оставьте дополнительное время.",
+        "sources": [
+          "barva-ap-mtb-loop-report"
+        ]
+      },
+      {
+        "title": "Допуск и обслуживание",
+        "text": "У парка есть отдельные маршруты для пешеходов и велосипеда. В FAQ указано, что велопроката на месте нет. Согласуйте допустимый тип велосипеда и трассу после дождя, а контакты аренды смотрите в FAQ парка.",
+        "sources": [
+          "barva-ap-faq",
+          "barva-ap-mtb"
+        ]
+      },
+      {
+        "title": "Видеокадры с места",
+        "text": "Репортаж Teletica показывает, насколько разный рельеф на тропах, и помогает выбрать подходящий формат. Схема и цены на день выезда уточняются у парка.",
+        "sources": [
+          "barva-ap-teletica-video",
+          "barva-ap-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park · 4×4, кемпинг и MTB",
+        "source": "barva-ap-camp-official",
+        "note": "Скажите, что палатка закреплена на машине. Уточните сектор, ровное место, семейный очаг и наличие душа.",
+        "url": "https://wa.me/50688443102",
+        "phone": "+506 8844 3102"
+      }
+    ],
+    "galleries": [
+      "barva-ap-mtb-loop-report",
+      "barva-ap-mtb"
+    ],
+    "videos": [
+      "barva-ap-teletica-video"
+    ],
+    "nearby": [
+      "barva-adventure-4x4-camp",
+      "barva-paso-llano-birri-cycle"
+    ],
+    "track": "barva-ap-mtb-loop-report",
+    "connectStops": false
+  },
+  "turrubares-hisopa-local-camp-mtb": {
+    "stops": [
+      {
+        "point": "hisopa-camp-waze",
+        "role": "Ориентир въезда Hisopa 506",
+        "note": "Геометка из навигационной ссылки в полевом каталоге."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка, стоянка и ночь",
+        "text": "YöKö указывает воду, туалет, костровую площадку, гриль и парковку. Спросите, где стоит машина по отношению к палатке, есть ли дрова и как поздно можно заехать.",
+        "sources": [
+          "hisopa-yoko-camp",
+          "hisopa-waze"
+        ]
+      },
+      {
+        "title": "Что подтвердил велосипедный календарь",
+        "text": "Ассоциация горного велоспорта указывает La Hisopa как площадку IV этапа XCC 21 июня 2026 года. Для обычного выезда хозяева должны показать открытые тропы и действующие правила. Длина тренировочной петли пока не опубликована.",
+        "sources": [
+          "hisopa-xcc-copa",
+          "hisopa-yoko-camp"
+        ]
+      },
+      {
+        "title": "Посмотреть до поездки",
+        "text": "Полевой каталог содержит шесть фото и ссылку хозяев. В дождливый день сообщите время подъезда, уточните грязные отрезки и оставьте запас для спокойного выезда назад.",
+        "sources": [
+          "hisopa-yoko-camp"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hisopa 506 · лагерь и MTB",
+        "source": "hisopa-yoko-camp",
+        "note": "Запросите въезд к палатке, площадку для крыши, открытую петлю и положение очага.",
+        "url": "https://wa.me/50684135694",
+        "phone": "+506 8413 5694"
+      }
+    ],
+    "galleries": [
+      "hisopa-yoko-camp"
+    ],
+    "nearby": [
+      "poza-blanca-roof",
+      "puriscal-maravillas-guatuso-10"
+    ],
+    "connectStops": false
+  },
+  "monteverde-turin-roof-camp": {
+    "stops": [
+      {
+        "point": "turin-camp-606",
+        "role": "Заезд с Ruta 606",
+        "note": "Хозяйская точка ресторана и лагеря."
+      }
+    ],
+    "sections": [
+      {
+        "title": "С кем ехать",
+        "text": "На территории есть игровая зона, небольшое футбольное поле и гамаки. В карточке хозяев указаны горячий душ, туалет, костровые зоны и готовая палатка на настиле. Уточните, предоставляют ли постель и очаг на выбранном участке.",
+        "sources": [
+          "turin-camp-cr",
+          "turin-guide"
+        ]
+      },
+      {
+        "title": "Как выбрать стоянку",
+        "text": "Местные путеводители подтверждают приём крышевых палаток, машин, фургонов и наземных палаток. Спросите про ровную площадку для лестницы, проверьте грязь у ручья. Огонь разводите по инструкции лагеря.",
+        "sources": [
+          "turin-guide",
+          "turin-costarider"
+        ]
+      },
+      {
+        "title": "Свежий выезд",
+        "text": "Ariel Araya снял лагерь с машиной, наземными палатками и костром в июне 2026 года. Для осмотра участков с другим форматом палатки есть фото в Camping Guide.",
+        "sources": [
+          "turin-araya-video",
+          "turin-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Turín · лагерь на Ruta 606",
+        "source": "turin-camp-cr",
+        "note": "Назовите тип машины и формат палатки. Уточните душ, очаг, часы кухни и контакт при позднем заезде.",
+        "url": "https://wa.me/50683197994",
+        "phone": "+506 8319 7994"
+      },
+      {
+        "name": "Camping Turín · второй контакт",
+        "source": "turin-camp-cr",
+        "note": "Запасной публичный WhatsApp для бронирования стоянки.",
+        "url": "https://wa.me/50688666787",
+        "phone": "+506 8866 6787"
+      }
+    ],
+    "galleries": [
+      "turin-camp-cr",
+      "turin-guide",
+      "turin-costarider"
+    ],
+    "videos": [
+      "turin-araya-video"
+    ],
+    "nearby": [
+      "monteverde-altitud-roof",
+      "higueron-roof",
+      "monteverde-turin-cloudforest-3"
+    ],
+    "connectStops": false
+  },
+  "monteverde-altitud-roof": {
+    "stops": [
+      {
+        "point": "altitud-monteverde-camp",
+        "role": "Хозяйский пин Altitud 1.4",
+        "note": ""
+      },
+      {
+        "point": "monteverde-visitor-centre",
+        "role": "Вариант на следующий день",
+        "note": "Здесь начинается отдельное посещение заповедника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъезд и лагерь",
+        "text": "Хозяева указывают зоны для overland, душ, туалет и электричество. Для машины с лестницей попросите уточнить, где можно стоять и есть ли место под тент. Наличие удобств непосредственно у площадки зависит от сектора.",
+        "sources": [
+          "altitud-camp-cr"
+        ]
+      },
+      {
+        "title": "Отзывы и фото",
+        "text": "В карточке есть снимки территории и отзыв от 2 июня 2023 года о наблюдении животных и гостеприимстве. Для текущего состояния троп и места для огня подтвердите условия по WhatsApp.",
+        "sources": [
+          "altitud-camp-cr"
+        ]
+      },
+      {
+        "title": "Утро в облачном лесу",
+        "text": "Тропа заповедника проходит по отдельному билету. Начните с центра посетителей и шаттла. Кемпинг находится вне природоохранной зоны.",
+        "sources": [
+          "monteverde-visitor-map",
+          "monteverde-visitor-shuttle",
+          "monteverde-visit-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Altitud 1.4 · зона overland",
+        "source": "altitud-camp-cr",
+        "note": "Запросите ровное место для машины, навес или домик и доступ к розетке.",
+        "url": "https://wa.me/50689734423",
+        "phone": "+506 8973 4423"
+      }
+    ],
+    "galleries": [
+      "altitud-camp-cr"
+    ],
+    "nearby": [
+      "monteverde-turin-roof-camp",
+      "curi-cancha",
+      "monteverde-reserve",
+      "monteverde-turin-cloudforest-3"
+    ],
+    "connectStops": false
+  },
+  "herradura-vista-atv-two": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Въезд, договор и тренировка",
+        "note": "Остановка у ворот парка. Дальше группа идёт за проводником."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Порядок тура",
+        "text": "Регистрация, инструктаж на частной тренировочной площадке, выезд по лесным дорогам и возвращение. Уровень воды и навык водителя влияют на лесной отрезок и остановку у водопада.",
+        "sources": [
+          "vls-atv-two",
+          "vls-atv-buggy-faq"
+        ]
+      },
+      {
+        "title": "Возраст и депозит",
+        "text": "Ребёнку 9+ нужен взрослый водитель на двойном ATV. Для младших у парка есть вариант багги. Подготовьте права, ID, закрытую обувь, одежду на смену и кредитную карту.",
+        "sources": [
+          "vls-atv-two",
+          "vls-atv-buggy-faq",
+          "vls-buggy-three"
+        ]
+      },
+      {
+        "title": "Фото и опыт",
+        "text": "На странице программы есть своя галерея, а на главной странице опубликованы отзывы о работе гидов и комбинированных турах. Видео оператора показывает машины и характер парка.",
+        "sources": [
+          "vls-atv-two",
+          "los-suenos",
+          "vls-atv-buggy-overview"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vista Los Sueños · ATV и багги",
+        "source": "vls-current-contact",
+        "note": "Уточните формат, возраст каждого ребёнка, депозит, страховку, размер машины и трансфер.",
+        "url": "https://wa.me/50683423683",
+        "phone": "+506 8342 3683",
+        "email": "info@vlscr.com"
+      }
+    ],
+    "galleries": [
+      "vls-atv-two",
+      "vls-atv-buggy-faq"
+    ],
+    "videos": [
+      "vls-atv-buggy-overview"
+    ],
+    "nearby": [
+      "herradura-vista-buggy-coastal",
+      "herradura-vista-canyoning",
+      "vista-suenos"
+    ],
+    "connectStops": false
+  },
+  "herradura-vista-buggy-coastal": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Регистрация в Vista Los Sueños",
+        "note": "Точный маршрут на день показывает инструктор."
+      },
+      {
+        "point": "wave3-bijagual-entry",
+        "role": "Вариант на четыре часа · ориентир водопада Бихагуаль",
+        "note": "Самостоятельный заезд к водопаду и визит в рамках программы используют отдельные условия."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут на три часа",
+        "text": "Тренировка начинается у базы. Дальше проводник меняет очерёдность смотровой, берега и водопада с учётом погоды. Для воды возьмите полотенце и сухую смену.",
+        "sources": [
+          "vls-buggy-three",
+          "vls-atv-buggy-faq"
+        ]
+      },
+      {
+        "title": "Длинные варианты",
+        "text": "У оператора есть отдельная программа к водопаду Бихагуаль и поездка полного дня. Подтвердите длительность в форме конкретного тура и реальное время в дороге, поскольку краткие подписи общего каталога отличаются.",
+        "sources": [
+          "vls-bijagual-jungle-buggy-4h",
+          "vls-buggy-six"
+        ]
+      },
+      {
+        "title": "Оплата и ограничения",
+        "text": "Заголовок и подробное описание на странице трёхчасовой поездки по-разному подписывают стоимость. Попросите полный расчёт за машину, места, депозит и условия отмены. Возьмите права, закрытую обувь и кредитную карту.",
+        "sources": [
+          "vls-buggy-three",
+          "vls-atv-buggy-faq",
+          "vls-current-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vista Los Sueños · ATV и багги",
+        "source": "vls-current-contact",
+        "note": "Уточните формат, возраст каждого ребёнка, депозит, страховку, размер машины и трансфер.",
+        "url": "https://wa.me/50683423683",
+        "phone": "+506 8342 3683",
+        "email": "info@vlscr.com"
+      }
+    ],
+    "galleries": [
+      "vls-buggy-three",
+      "vls-bijagual-jungle-buggy-4h"
+    ],
+    "videos": [
+      "vls-atv-buggy-overview"
+    ],
+    "nearby": [
+      "herradura-vista-atv-two",
+      "herradura-vista-buggy-waterfalls",
+      "herradura-vista-canyoning",
+      "vista-suenos"
+    ],
+    "connectStops": false
+  },
+  "piedades-sur-musas-ambar-2": {
+    "stops": [
+      {
+        "point": "lasmusas-eco-arrival",
+        "role": "День 1 · старт у водопадов",
+        "note": ""
+      },
+      {
+        "point": "sanramon-roca-vista-entry",
+        "role": "День 1 · ночь на склоне",
+        "note": ""
+      },
+      {
+        "point": "capilla-ambar-main",
+        "role": "День 2 · сады и ферма кофе",
+        "note": ""
+      },
+      {
+        "point": "sanramon-libertad-camp-entry",
+        "role": "День 2 · прогулка по семейной ферме",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "План для семьи",
+        "text": "На первом дне можно сократить тропу до подхода к мосту. С младшими оставьте время на бассейн. На втором дне сад и ферма подходят для спокойного темпа.",
+        "sources": [
+          "lasmusas-attractions",
+          "capilla-ambar-spaces",
+          "sanramon-libertad-camp-host"
+        ]
+      },
+      {
+        "title": "Ночь под тентом",
+        "text": "Возьмите влагоустойчивую палатку, спальники, запас воды, сухой пакет, свет и дождевик. Отдельно согласуйте дрова, костровое место, дорожный заезд и расстояние до парковки.",
+        "sources": [
+          "sanramon-roca-vista-camp-field",
+          "sanramon-libertad-camp-host"
+        ]
+      },
+      {
+        "title": "Как читать линию",
+        "text": "Автомобильная линия между четырьмя точками занимает около 19 км по местным дорогам. Последние метры до мест для палаток и лесные участки показывают хозяева уже на месте.",
+        "sources": [
+          "osm-cr-points",
+          "lasmusas-contact",
+          "capilla-ambar-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Eco Musas · парк и экскурсии",
+        "source": "lasmusas-contact",
+        "note": "Уточните состояние 5-километровой тропы, включённые зоны и часы бассейна.",
+        "url": "https://lasmusascr.com/contacto/",
+        "phone": "+506 2445 0059"
+      },
+      {
+        "name": "Roca Vista · смотровая и лагерь",
+        "source": "sanramon-roca-vista-camp-field",
+        "note": "Уточните последнее покрытие, расположение машины и возможность зарезервировать очаг.",
+        "url": "https://wa.me/50687723681",
+        "phone": "+506 8772 3681"
+      },
+      {
+        "name": "Capilla Ámbar · обычный визит",
+        "source": "capilla-ambar-contact",
+        "note": "Спросите время посещения сада, билеты и возможное закрытие часовни под мероприятие.",
+        "url": "https://wa.me/50683285085",
+        "phone": "+506 8328 5085",
+        "email": "capillaambar@gmail.com"
+      },
+      {
+        "name": "Кофейный тур Finca Edgar Fernández",
+        "source": "capilla-ambar-contact",
+        "note": "Для тура укажите язык, число гостей и время. Запросите текущую длительность и доступ к дегустации.",
+        "url": "https://wa.me/50684418397",
+        "phone": "+506 8441 8397"
+      },
+      {
+        "name": "Finca Libertad Pura · прогулка и кемпинг",
+        "source": "sanramon-libertad-camp-host",
+        "note": "Спросите время визита, прогулку, аренду краткого тура и участок под наземную палатку.",
+        "url": "https://wa.me/50671132826",
+        "phone": "+506 7113 2826"
+      }
+    ],
+    "galleries": [
+      "lasmusas-gallery",
+      "sanramon-roca-vista-camp-field",
+      "capilla-ambar-gallery",
+      "sanramon-libertad-camp-qbl"
+    ],
+    "videos": [
+      "lasmusas-local-video",
+      "capilla-ambar-edicson-video"
+    ],
+    "nearby": [
+      "sanramon-eco-musas-waterfall-trails",
+      "sanramon-capilla-ambar-coffee",
+      "sanramon-roca-vista-fire-camp",
+      "sanramon-libertad-farm-camp"
+    ],
+    "connectStops": false,
+    "line": "sanramon-piedades-public-roads"
+  },
+  "monteverde-turin-cloudforest-3": {
+    "stops": [
+      {
+        "point": "turin-camp-606",
+        "role": "День 1 · лагерь на Ruta 606",
+        "note": ""
+      },
+      {
+        "point": "curi-cancha-gate",
+        "role": "День 2 · утренняя прогулка и гид",
+        "note": ""
+      },
+      {
+        "point": "altitud-monteverde-camp",
+        "role": "День 2 · второй лагерь",
+        "note": ""
+      },
+      {
+        "point": "monteverde-visitor-centre",
+        "role": "День 3 · парковка и шаттл",
+        "note": ""
+      },
+      {
+        "point": "monteverde-gate",
+        "role": "День 3 · начало лесных троп",
+        "note": "От центра посетителей поднимаются на шаттле."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где лучше ставить машину",
+        "text": "Turín предлагает поляну, ресторан и горячий душ. Altitud находится у дороги к заповеднику и публикует зоны для машин overland. В обоих лагерях стоит просить уровень площадки, место для лестницы и правила огня.",
+        "sources": [
+          "turin-camp-cr",
+          "turin-guide",
+          "altitud-camp-cr"
+        ]
+      },
+      {
+        "title": "Маршруты разной длины",
+        "text": "Для птиц в Curi-Cancha имеет смысл договориться о местном проводнике. Reserva Monteverde описывает Corazón del Bosque примерно на 2,8 км и 1,5 часа, а также отдельные короткий и более длинный круги. Узнайте, какие тропы и мосты открыты.",
+        "sources": [
+          "curi-local-guide",
+          "monteverde-visitor-map"
+        ]
+      },
+      {
+        "title": "Дорожная схема",
+        "text": "Автомобильная линия от Turín до центра посетителей с заездами занимает около 13 км. В Curi-Cancha последние метры до стойки проходят по местному подъезду. От центра посетителей маршрут продолжается на шаттле и пешком.",
+        "sources": [
+          "osm-cr-points",
+          "curi-local-guide",
+          "monteverde-visitor-shuttle"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Turín · лагерь на Ruta 606",
+        "source": "turin-camp-cr",
+        "note": "Назовите тип машины и формат палатки. Уточните душ, очаг, часы кухни и контакт при позднем заезде.",
+        "url": "https://wa.me/50683197994",
+        "phone": "+506 8319 7994"
+      },
+      {
+        "name": "Altitud 1.4 · зона overland",
+        "source": "altitud-camp-cr",
+        "note": "Запросите ровное место для машины, навес или домик и доступ к розетке.",
+        "url": "https://wa.me/50689734423",
+        "phone": "+506 8973 4423"
+      },
+      {
+        "name": "Reserva Monteverde · центр посетителей",
+        "source": "monteverde-visitor-map",
+        "note": "Сверьте время последнего шаттла, состояние мостов и открытые петли.",
+        "url": "https://cloudforestmonteverde.com/es/visit-the-preserve/"
+      }
+    ],
+    "galleries": [
+      "turin-guide",
+      "altitud-camp-cr",
+      "monteverde-visitor-map"
+    ],
+    "videos": [
+      "turin-araya-video"
+    ],
+    "nearby": [
+      "monteverde-turin-roof-camp",
+      "monteverde-altitud-roof",
+      "curi-cancha",
+      "monteverde-reserve"
+    ],
+    "connectStops": false,
+    "line": "turin-monteverde-public-roads",
+    "photos": [
+      "reserva-monteverde-commons"
+    ]
+  }
+}

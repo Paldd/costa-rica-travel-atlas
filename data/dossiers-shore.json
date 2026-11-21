@@ -2115,6 +2115,11 @@
   "monteverde-reserve": {
     "stops": [
       {
+        "point": "monteverde-visitor-centre",
+        "role": "Парковка и центр посетителей",
+        "note": "Здесь начинается регистрация и отправляется шаттл."
+      },
+      {
         "point": "monteverde-gate",
         "role": "Вход в облачный лес",
         "note": "Первичная регистрация у Centro de Visitantes примерно в 1,5 км ниже въезда. Пин смотрите на сайте резервата."
@@ -2123,19 +2128,21 @@
     "sections": [
       {
         "title": "Где оставить машину",
-        "text": "Оператор организует регистрацию в центре посетителей и бесплатный трансфер к лесному входу. Уточните последний шаттл и конкретный пин до поездки. На карте отмечен лесной вход. Для прогулки без машины согласуйте точку встречи в центре.",
+        "text": "Оператор организует регистрацию в центре посетителей и бесплатный шаттл к началу троп. Уточните часы обратного шаттла и точку встречи с гидом. На карте отмечены центр и вход в лес.",
         "sources": [
           "monteverde-visitor-center",
-          "monteverde-routes-plan"
+          "monteverde-routes-plan",
+          "monteverde-visitor-shuttle"
         ]
       },
       {
         "title": "Тропы по времени и погоде",
-        "text": "План резервата описывает приблизительно 13 км сети. Для нескольких часов возьмите короткий маршрут по карте дня. Другие виды, мосты и отдельные подъёмы добавляйте по состоянию дорожек и времени. В облачном лесу дождь и туман влияют на видимость.",
+        "text": "План резервата описывает приблизительно 13 км сети. Петля Corazón del Bosque занимает около 1,5 часа на 2,8 км. Есть также короткий круг и маршрут к континентальному водоразделу. Сверьте работающие мосты и выбранный круг по карте дня.",
         "sources": [
           "monteverde-routes-plan",
           "monteverde-visitor-center",
-          "curi-monteverde-chamber"
+          "curi-monteverde-chamber",
+          "monteverde-visitor-map"
         ]
       }
     ],
@@ -2149,9 +2156,14 @@
     "nearby": [
       "curi-cancha",
       "chira-glamp",
-      "forest-highland-4"
+      "forest-highland-4",
+      "monteverde-turin-cloudforest-3"
     ],
-    "track": "monteverde-visitor-center"
+    "track": "monteverde-visitor-center",
+    "photos": [
+      "reserva-monteverde-commons"
+    ],
+    "connectStops": false
   },
   "curi-cancha": {
     "stops": [

@@ -12,7 +12,7 @@ from build_catalog import DATA, RECORD_FIELDS, read_table
 from import_social import normalized, recurring_names
 
 
-INSTAGRAM_LINK = re.compile(r"/(?:p|reel|reels|tv)/([A-Za-z0-9_-]{7,16})/?$")
+INSTAGRAM_LINK = re.compile(r"/(?:p|reel|reels|tv)/([A-Za-z0-9_-]{7,16})(?:/embed)?/?$")
 PLACE_NAME = re.compile(
     r"\b(?i:cataratas?|finca|cerro|playa|sendero|mirador|laguna|pozas?|río|bahía|reserva|camping|parque nacional)"
     r"\s+(?:(?:de\s+(?:la\s+|los\s+|las\s+)?|del\s+|[Ll]a\s+|[Ll]os\s+|[Ll]as\s+|[Ee]l\s+))?"

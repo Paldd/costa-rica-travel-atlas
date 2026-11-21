@@ -25,7 +25,7 @@ VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "met
 SECTION_PATH = re.compile(r"/(?:author|authors|category|categoria|tag|tags|page|search)(?:/|$)", re.I)
 MIN_BODY_CHARS = 350
 ARTICLE_BODY_CLASSES = {"blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg"}
-EXTRACTOR_VERSION = 3
+EXTRACTOR_VERSION = 4
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
 
@@ -213,6 +213,28 @@ def candidates(pages, previous, today):
     return [row for _, _, _, row in sorted(ranked)]
 
 
+def social_candidates(state, archives, catalog):
+    links = {}
+    for archive_id, profiles in sorted(archives.items()):
+        for row in state.get(archive_id, {}).values():
+            for link in row.get("socialLinks", []):
+                url = link["url"]
+                candidate = links.setdefault(url, {"platform": link["platform"], "url": url, "references": {}})
+                article = row.get("finalUrl") or row["url"]
+                key = (archive_id, canonical(article))
+                reference = {"article": article, "archive": catalog[archive_id], "title": row["title"],
+                             "articleCheckedUtc": row["checked"], "publisherProfiles": sorted(profiles)}
+                references = candidate["references"]
+                previous = references.get(key)
+                if not previous or reference["articleCheckedUtc"] > previous["articleCheckedUtc"]:
+                    references[key] = reference
+    candidates = []
+    for _, candidate in sorted(links.items()):
+        references = candidate.pop("references")
+        candidates.append({**candidate, "references": [references[key] for key in sorted(references)]})
+    return candidates
+
+
 def write_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     temp = path.with_suffix(".tmp")
@@ -270,14 +292,16 @@ def main():
     pages_read = {canonical(row["finalUrl"]) for row in pages if row["status"] == "read"}
     all_pages_read = {canonical(row["finalUrl"]) for key in archives for row in state.get(key, {}).values()
                       if row["status"] == "read"}
+    native_candidates = social_candidates(state, archives, catalog)
     summary = {"dayUtc": day.isoformat(), "archives": len(archives),
                "archivesRead": sum(row["status"] == "read" for row in current),
                "pagesChecked": len(pages), "pagesRead": len(pages_read),
                "pagesReadToDate": len(all_pages_read),
                "videoLinks": len({link for row in pages for link in row.get("videoLinks", [])}),
-               "socialLinks": len({link["url"] for row in pages for link in row.get("socialLinks", [])})}
+               "socialLinks": len({link["url"] for row in pages for link in row.get("socialLinks", [])}),
+               "socialLinksToDate": len(native_candidates)}
     write_json(args.state, state)
-    write_json(args.out, {**summary, "results": current})
+    write_json(args.out, {**summary, "results": current, "socialCandidates": native_candidates})
     print(json.dumps(summary, ensure_ascii=False))
 
 
