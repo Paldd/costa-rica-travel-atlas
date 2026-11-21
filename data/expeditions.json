@@ -6496,5 +6496,156 @@
       }
     ],
     "distance": null
+  },
+  {
+    "id": "cabuya-lajas-montezuma-camp-2",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Кабуя и Монтесума · два дня с палаткой у Río Lajas",
+    "native": "Montezuma – Río Lajas – Cabuya · Nicoya",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "beach",
+      "hiking",
+      "forest",
+      "river",
+      "waterfall"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "cabuya-fernando-morales-listing",
+      "cabuya-fernando-morales-field",
+      "cabuya-local-guide",
+      "cabo-sueco-ict"
+    ],
+    "summary": "Палаточная ночь у Río Lajas и короткие дневные остановки в Кабуе и Монтесуме. Под большой пеший маршрут можно выделить отдельное утро.",
+    "plan": "Из Кобано выйдите к побережью через Монтесуму. Пока светло, согласуйте лагерь у моста Río Lajas. На следующий день по погоде выбирайте Кабо-Бланко или короткую прогулку.",
+    "conditions": "Проверяйте состояние береговой дороги после дождей и открытие троп. Ночёвка проходит на территории лагеря. Подтверждайте парковку и режим огня у хозяев.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Монтесума и палаточный лагерь у реки",
+        "note": "Сделайте короткую остановку в Монтесуме, затем заезжайте в Fernando Morales. Красный мост помогает ориентироваться на финальном отрезке.",
+        "stops": [
+          "montezuma",
+          "cabuya-fernando-morales-camp"
+        ],
+        "sources": [
+          "cabuya-fernando-morales-listing",
+          "cabuya-fernando-morales-field"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Кабуя и прогулка в лесу",
+        "note": "Выберите открытую часть Cabo Blanco по подготовке семьи и времени возврата. При сложной погоде оставьте только прогулку в Кабуе.",
+        "stops": [
+          "cabo-blanco-sueco"
+        ],
+        "sources": [
+          "cabo-sueco-ict",
+          "cabuya-local-guide"
+        ]
+      }
+    ],
+    "distance": null
+  },
+  {
+    "id": "pavones-punta-banco-coast-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Павонес и Пунта-Банко · три дня на крайнем юге",
+    "native": "Golfito – Río Claro de Pavones – Punta Banco",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "camping",
+      "beach",
+      "surf",
+      "wildlife",
+      "views",
+      "forest"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "pavones-pineapple-hub",
+      "pavones-pineapple-pitchup-coords",
+      "pavones-hub-transport",
+      "ict-sur"
+    ],
+    "summary": "Две ночи у южного побережья и один полноценный день между Павонесом и Пунта-Банко. Лагерь можно сочетать с отдельной прогулкой, уроком сёрфа или кабинами.",
+    "plan": "Выезжайте на юг рано. Первую ночёвку подтвердите у Pineapple Creek. На второй день оставьте время на Пунта-Банко, а третий используйте на возвращение через доступный дорожный подъезд.",
+    "conditions": "Состояние дороги зависит от сезона. Двигайтесь через опубликованные дорожные подъезды, с подтверждением последних километров. Места выхода на воду выбирают с местным инструктором.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Подъезд на юг и заезд в Pineapple Creek",
+        "note": "Свяжитесь с лагерем по точке и режиму въезда. После долгой дороги оставьте только недолгую прогулку по доступному берегу.",
+        "stops": [
+          "pavones-pineapple-creek-camp"
+        ],
+        "sources": [
+          "pavones-pineapple-hub",
+          "pavones-hub-transport"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пунта-Банко или сёрф с инструктором",
+        "note": "Выберите одно основное занятие. Можно остаться в лагере на вторую ночь или заранее согласовать кабину у Пунта-Банко.",
+        "stops": [
+          "pavones",
+          "punta-banco-rancho-tiskita"
+        ],
+        "sources": [
+          "ict-sur",
+          "ict-surf"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Утренний берег и обратная дорога",
+        "note": "После короткой прогулки выезжайте засветло по подтверждённому маршруту. Проверьте время транспорта и запас воды до выезда.",
+        "stops": [
+          "pavones-pineapple-creek-camp"
+        ],
+        "sources": [
+          "pavones-pineapple-hub",
+          "pavones-hub-transport"
+        ]
+      }
+    ],
+    "distance": null
   }
 ]

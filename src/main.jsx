@@ -336,12 +336,16 @@ function Detail({ row, atlas, route, saved, toggle }) {
 function SourcesPage({ atlas }) {
   const [query, setQuery] = useState("");
   const [platform, setPlatform] = useState("");
+  const [coverage, setCoverage] = useState("");
   const overview = atlas.social.overview;
   const measurementDate = atlas.social.profiles[0]?.countChecked;
   const needle = fold(query.trim());
   const followerFormat = new Intl.NumberFormat("ru-RU");
   const profiles = atlas.social.profiles.filter(row =>
     (!platform || row.platform === platform) &&
+    (coverage !== "posts" || row.posts > 0) &&
+    (coverage !== "missing" || row.posts === 0) &&
+    (coverage !== "archive" || row.publisher?.archive) &&
     fold([row.name, row.url, row.category, row.zone, row.platform, atlas.sources[row.publisher?.site]?.url].join(" ")).includes(needle)
   );
   const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length).length;
@@ -369,13 +373,21 @@ function SourcesPage({ atlas }) {
         <label className="search-box"><Search size={19} aria-hidden="true" /><span className="visually-hidden">Поиск соцпрофиля</span>
           <input type="search" value={query} placeholder="Профиль, сайт, регион или категория" onChange={event => setQuery(event.target.value)} />
         </label>
-        <label className="profile-platform"><span className="visually-hidden">Платформа</span>
-          <select value={platform} onChange={event => setPlatform(event.target.value)}>
+        <div className="profile-platform">
+          <select aria-label="Платформа" value={platform} onChange={event => setPlatform(event.target.value)}>
             <option value="">Обе платформы</option>
             <option>Instagram</option>
             <option>Facebook</option>
           </select>
-        </label>
+        </div>
+        <div className="profile-platform">
+          <select aria-label="Материалы профиля" value={coverage} onChange={event => setCoverage(event.target.value)}>
+            <option value="">Любое покрытие</option>
+            <option value="posts">Есть выборка постов</option>
+            <option value="missing">Без выборки постов</option>
+            <option value="archive">Есть архив сайта</option>
+          </select>
+        </div>
       </div>
       <p className="profile-status" role="status">Профилей по запросу: {profiles.length}</p>
       <div className="profiles-list">

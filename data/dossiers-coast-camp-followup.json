@@ -1,0 +1,610 @@
+{
+  "uvita-casa-viva-forest-camp": {
+    "stops": [
+      {
+        "point": "uvita-casa-viva-camp-entry",
+        "role": "Район частного кемпинга",
+        "note": "Позвоните или напишите хозяевам перед въездом."
+      },
+      {
+        "point": "colonia-chaman-approach",
+        "role": "Колония · отдельный подъезд к морскому парку",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночь под деревьями",
+        "text": "Справочник указывает туалеты, душ и места для нескольких типов ночёвки. Обсудите электричество, шум, питьевую воду и доступ к выбранной площадке при дожде.",
+        "sources": [
+          "uvita-casa-viva-camp-field"
+        ]
+      },
+      {
+        "title": "Берег и лодка",
+        "text": "Для прогулки по Колонии смотрите часы и приливы. Лодочную экскурсию выбирают отдельно, с подтверждением порта, возраста и посадки.",
+        "sources": [
+          "marino",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Casa Viva",
+        "source": "uvita-casa-viva-camp-field",
+        "note": "Доступность, пин въезда, тип стоянки и условия под крышную палатку.",
+        "phone": "+506 8555 4223",
+        "url": "https://wa.me/50685554223"
+      }
+    ],
+    "track": "uvita-casa-viva-camp-field",
+    "nearby": [
+      "uvita-el-chaman-colonia-camp",
+      "cola-ballena-rooftop",
+      "marino-ballena"
+    ],
+    "galleries": [
+      "uvita-casa-viva-camp-field"
+    ],
+    "connectStops": false
+  },
+  "pavones-pineapple-creek-camp": {
+    "stops": [
+      {
+        "point": "rio-claro-pavones",
+        "role": "Рио-Кларо-де-Павонес · деревня",
+        "note": ""
+      },
+      {
+        "point": "pavones-pineapple-camp-pin",
+        "role": "Ориентир лагеря Pineapple Creek",
+        "note": "Пин и последние метры сверяйте по сообщению хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Стоянка, навес и интернет",
+        "text": "По местному справочнику есть туалеты и Wi-Fi. Для машины и семейной группы уточните ширину места, душ, розетку и источник питьевой воды.",
+        "sources": [
+          "pavones-pineapple-hub",
+          "pavones-pineapple-camper-photos"
+        ]
+      },
+      {
+        "title": "Как распределить береговой день",
+        "text": "Сёрф в Павонесе зависит от свелла и уровня группы. Для спокойного отдыха оставьте прогулку, а поездку в Пунта-Банко и урок оформляйте по фактическим условиям.",
+        "sources": [
+          "pavones-pineapple-pitchup-coords",
+          "ict-sur",
+          "pavones-hub-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pineapple Creek · контакт Pavones Hub",
+        "source": "pavones-pineapple-hub",
+        "note": "Наличие места, выезд к лагерю и условия размещения машины.",
+        "phone": "+506 8448 2722",
+        "url": "https://wa.me/50684482722"
+      }
+    ],
+    "track": "pavones-pineapple-hub",
+    "nearby": [
+      "pavones",
+      "punta-banco-rancho-tiskita"
+    ],
+    "galleries": [
+      "pavones-pineapple-pitchup-coords",
+      "pavones-pineapple-camper-photos"
+    ],
+    "connectStops": false
+  },
+  "cabuya-fernando-morales-camp": {
+    "stops": [
+      {
+        "point": "cabuya-fernando-morales-pin",
+        "role": "Подъезд у Río Lajas",
+        "note": "При расхождении навигации свяжитесь с хозяевами."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что есть у палаток",
+        "text": "По полевому описанию есть тень, простые санузлы, точки с электричеством и свет. Для крышной палатки уточните, пустят ли машину на нужный участок.",
+        "sources": [
+          "cabuya-fernando-morales-listing",
+          "cabuya-fernando-morales-field"
+        ]
+      },
+      {
+        "title": "Береговой день",
+        "text": "Для отдыха с детьми стоит заранее выбрать отдельный проверенный пляж и посмотреть условия прилива. Пешие маршруты Cabo Blanco начинаются у отдельного входа.",
+        "sources": [
+          "cabuya-fernando-morales-field",
+          "cabo-sueco-ict",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Fernando Morales",
+        "source": "cabuya-fernando-morales-listing",
+        "note": "Последний подъезд, размещение автомобиля и режим тишины.",
+        "phone": "+506 8818 3274"
+      },
+      {
+        "name": "Camping Fernando Morales · стационарный номер",
+        "source": "cabuya-fernando-morales-listing",
+        "note": "Дополнительный способ связи с хозяевами.",
+        "phone": "+506 2642 0351"
+      }
+    ],
+    "track": "cabuya-fernando-morales-listing",
+    "nearby": [
+      "cabo-blanco-sueco",
+      "montezuma",
+      "malpais-mar-azul-beach-camp"
+    ],
+    "galleries": [
+      "cabuya-fernando-morales-listing",
+      "cabuya-fernando-morales-field"
+    ],
+    "videos": [
+      "cabuya-fernando-morales-video"
+    ]
+  },
+  "bandera-casa-playa-rancho": {
+    "stops": [
+      {
+        "point": "bandera-casa-playa-entry",
+        "role": "Въезд к Casa Playa Bandera",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейная база и открытая площадка",
+        "text": "В опубликованном описании есть вода, душ, свет и ранчо у берега. Хозяева указывают палаточную зону. Согласуйте, требуется ли аренда дома или кабины на всех гостей.",
+        "sources": [
+          "bandera-casa-playa-owner-grounds",
+          "bandera-casa-playa-cabina-directions"
+        ]
+      },
+      {
+        "title": "Доехать к инструктору",
+        "text": "На Бандере работает Flagside Surf. Место встречи инструктор подбирает отдельно. На день без урока можно оставить прогулку или часть времени провести на территории.",
+        "sources": [
+          "bandera-flagside-school",
+          "bandera-casa-playa-cabina-directions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Playa Bandera",
+        "source": "bandera-casa-playa-cabina-directions",
+        "note": "Вместимость, палаточный участок, условия машины и вход на территорию.",
+        "phone": "+506 8701 5017",
+        "url": "https://wa.me/50687015017"
+      }
+    ],
+    "track": "bandera-casa-playa-owner-grounds",
+    "nearby": [
+      "bandera-tortuga-feliz-camp",
+      "bandera-flagside-surf",
+      "bejuco-bandera-surf-camp-2"
+    ],
+    "galleries": [
+      "bandera-casa-playa-owner-grounds",
+      "bandera-casa-playa-cabina-directions"
+    ]
+  },
+  "sanramon-roca-vista-fire-camp": {
+    "stops": [
+      {
+        "point": "sanramon-roca-vista-entry",
+        "role": "Въезд в Roca Vista",
+        "note": "Сверьте ворота и уклон подъезда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Костёр и горная ночь",
+        "text": "По полевому справочнику места у огня бронируют заранее. Уточните дрова и принадлежность очага к выбранной площадке. Возьмите сухой тёплый слой и тент.",
+        "sources": [
+          "sanramon-roca-vista-camp-field"
+        ]
+      },
+      {
+        "title": "Тропы и смотровая",
+        "text": "На финке описаны лесные тропы и выход к реке. Выберите доступную ветку по карте владельцев и условиям погоды.",
+        "sources": [
+          "sanramon-roca-vista-camp-field",
+          "sanramon-roca-vista-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Roca Vista Camping",
+        "source": "sanramon-roca-vista-camp-field",
+        "note": "Ранчо, очаг, машина у палатки и подъезд после дождя.",
+        "phone": "+506 8772 3681",
+        "url": "https://wa.me/50687723681"
+      }
+    ],
+    "track": "sanramon-roca-vista-camp-field",
+    "nearby": [
+      "sanramon-libertad-farm-camp"
+    ],
+    "galleries": [
+      "sanramon-roca-vista-camp-field"
+    ]
+  },
+  "uvita-el-tecal-family-base": {
+    "stops": [
+      {
+        "point": "uvita-el-tecal-entry",
+        "role": "Въезд к Hotel El Tecal",
+        "note": ""
+      },
+      {
+        "point": "colonia-chaman-approach",
+        "role": "Колония · район входа в парк",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что удобнее для семьи",
+        "text": "На сайте представлены номера, бассейны и ресторан. Для поездки с ребёнком уточните расклад кроватей, размеры кухни и доступ с багажом.",
+        "sources": [
+          "uvita-el-tecal-hotel"
+        ]
+      },
+      {
+        "title": "Отдельная поездка к морю",
+        "text": "К входу Colonia можно пройти из района гостиницы. Заранее проверьте режим SINAC и приливы. Для прогулки за китами оператор подтверждает причал и формат лодки.",
+        "sources": [
+          "marino",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel El Tecal",
+        "source": "uvita-el-tecal-hotel-contact",
+        "note": "Гостиничные номера, парковка и вопрос о палаточной зоне.",
+        "phone": "+506 2743 8012",
+        "url": "https://wa.me/50683014822",
+        "email": "eltecal1@hotmail.com"
+      }
+    ],
+    "track": "uvita-el-tecal-hotel",
+    "nearby": [
+      "marino-ballena",
+      "uvita-colonia-surf",
+      "uvita-casa-viva-forest-camp"
+    ],
+    "galleries": [
+      "uvita-el-tecal-hotel"
+    ],
+    "connectStops": false
+  },
+  "santateresa-tropico-latino-glamp": {
+    "stops": [
+      {
+        "point": "santateresa-tropico-glamp-entry",
+        "role": "Въезд и рецепция гостиницы",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что есть в палатке",
+        "text": "В описании указаны ванная, наружный душ, кондиционер, москитные сетки и две кровати разного размера. Правила семьи и доплату за дополнительное место проверяет гостиница.",
+        "sources": [
+          "santateresa-tropico-glamp-room",
+          "santateresa-tropico-glamp-contact"
+        ]
+      },
+      {
+        "title": "Океан и занятия",
+        "text": "Пляжный отдых удобно сочетать с отдельным уроком по пину школы. Для плавания или начала урока уточните местные условия на берегу.",
+        "sources": [
+          "santateresa-tropico-glamp-room",
+          "ict-surf",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Tropico Latino",
+        "source": "santateresa-tropico-glamp-contact",
+        "note": "Семейное размещение, детали стоянки, терраса и другие номера.",
+        "phone": "+506 8453 3422",
+        "url": "https://wa.me/50688567447",
+        "email": "info@hoteltropicolatino.com"
+      }
+    ],
+    "track": "santateresa-tropico-glamp-room",
+    "nearby": [
+      "santateresa",
+      "malpais-mar-azul-beach-camp",
+      "montezuma"
+    ],
+    "galleries": [
+      "santateresa-tropico-glamp-room"
+    ]
+  },
+  "arenal-nayara-tented-family": {
+    "stops": [
+      {
+        "point": "arenal-nayara-tented-camp-entry",
+        "role": "Ориентир въезда к Nayara Tented Camp",
+        "note": "У комплекса несколько объектов. Уточняйте свою рецепцию."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейный вариант",
+        "text": "У отеля есть отдельная категория семейной палатки. Уточните число спален, кроватей, детских мест и пользование частной террасой.",
+        "sources": [
+          "arenal-nayara-family-tent",
+          "arenal-nayara-tented-faq"
+        ]
+      },
+      {
+        "title": "Вулкан и озеро",
+        "text": "На другой день можно отдельно выбрать короткую тропу на полуострове или SUP у дамбы. Актуальный доступ и погодное окно проверяют у парка и проката.",
+        "sources": [
+          "ict-la-fortuna-guide",
+          "lake-rent"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nayara Tented Camp",
+        "source": "arenal-nayara-tented-contact",
+        "note": "Вместимость, парковка и адрес рецепции для семейной палатки.",
+        "phone": "+506 2479 1600"
+      }
+    ],
+    "track": "arenal-nayara-family-tent",
+    "nearby": [
+      "fortuna-arenal-glamping-family",
+      "arenal-peninsula",
+      "arenal-east-association-sup"
+    ],
+    "galleries": [
+      "arenal-nayara-family-tent",
+      "arenal-nayara-tented-faq"
+    ],
+    "videos": [
+      "arenal-nayara-tented-family-video"
+    ]
+  },
+  "playa-grande-flor-bambu-glamp": {
+    "stops": [
+      {
+        "point": "grande-flor-bambu-glamp-area",
+        "role": "Размещение Flor y Bambú",
+        "note": ""
+      },
+      {
+        "point": "grande-main-beach",
+        "role": "Плайя-Гранде · отдельный береговой ориентир",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Размещение в саду",
+        "text": "Хозяева показывают на сайте отдельные палатки и кабины. Для поездки с ребёнком уточните, какие из них имеют собственный санузел и достаточно кроватей.",
+        "sources": [
+          "grande-flor-bambu-glamping-site"
+        ]
+      },
+      {
+        "title": "Как добавить берег",
+        "text": "Уточните открытый береговой вход и условия воды у школы или управляющего парком. Для проезда сверяйте маршрут с хозяевами.",
+        "sources": [
+          "grande-flor-bambu-map",
+          "ict-guanacaste",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Flor y Bambú Glamping",
+        "source": "grande-flor-bambu-glamping-site",
+        "note": "Выбранная палатка, кровати, парковка и подъезд.",
+        "phone": "+506 8730 3670"
+      }
+    ],
+    "track": "grande-flor-bambu-glamping-site",
+    "nearby": [
+      "playa-grande"
+    ],
+    "galleries": [
+      "grande-flor-bambu-glamping-site"
+    ],
+    "videos": [
+      "grande-flor-bambu-tour-video"
+    ],
+    "connectStops": false
+  },
+  "irazu-nochebuena-guided-8": {
+    "stops": [
+      {
+        "point": "irazu-nochebuena-restaurant",
+        "role": "Ориентир старта возле ресторана",
+        "note": ""
+      },
+      {
+        "point": "irazu-craters-parking",
+        "role": "Высокогорный ориентир Ирасу",
+        "note": "Точку выхода и доступность сектора сообщает организатор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Профиль и точки",
+        "text": "Организатор описывает подъём от сельскохозяйственных склонов к Ночебуэне и технический участок в лесу. Для подробной линии сохранена ссылка на оригинальную полевую карту.",
+        "sources": [
+          "oreamuno-nochebuena-ticos-program",
+          "oreamuno-nochebuena-trail-log"
+        ]
+      },
+      {
+        "title": "Условия выхода",
+        "text": "На погодное окно влияют облачность, холод и состояние грунта. Уточните, в какой части ходит группа и требуется ли отдельно вход в сектор SINAC.",
+        "sources": [
+          "oreamuno-nochebuena-ticos-program",
+          "irazu"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ticos A Pata",
+        "source": "ticosapata-public-contact",
+        "note": "Следующая доступная дата, допуски, состав группы и точка встречи."
+      }
+    ],
+    "track": "oreamuno-nochebuena-trail-log",
+    "nearby": [
+      "irazu-craters",
+      "prusia-el-roble-loop-75",
+      "prusia-clavelito-tent-fire"
+    ],
+    "galleries": [
+      "oreamuno-nochebuena-ticos-program",
+      "oreamuno-nochebuena-trail-log"
+    ],
+    "connectStops": false
+  },
+  "cabuya-lajas-montezuma-camp-2": {
+    "stops": [
+      {
+        "point": "montezuma-center",
+        "role": "Посёлок Монтесума",
+        "note": ""
+      },
+      {
+        "point": "cabuya-fernando-morales-pin",
+        "role": "Ночёвка у реки Lajas",
+        "note": ""
+      },
+      {
+        "point": "cabo-cabuya-entry",
+        "role": "Кабуя · отдельный вход в заповедник",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Последний подъезд",
+        "text": "Лагерь привязан к береговой дороге и мосту Río Lajas. Заезжайте до сумерек, если незнакомы с участком. После дождей позвоните хозяевам.",
+        "sources": [
+          "cabuya-fernando-morales-field",
+          "cabuya-fernando-morales-listing"
+        ]
+      },
+      {
+        "title": "Сколько идти в заповеднике",
+        "text": "Побережье в Cabo Blanco достигают отдельной длинной тропой. Семьям с маленькими детьми удобнее короткая разрешённая прогулка с запасом на возврат.",
+        "sources": [
+          "cabo-sueco-ict",
+          "cabuya-local-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Fernando Morales",
+        "source": "cabuya-fernando-morales-listing",
+        "note": "Пин лагеря, время въезда и стоянка автомобиля.",
+        "phone": "+506 8818 3274"
+      }
+    ],
+    "track": "cabuya-fernando-morales-listing",
+    "galleries": [
+      "cabuya-fernando-morales-field",
+      "cabuya-fernando-morales-listing"
+    ],
+    "nearby": [
+      "montezuma",
+      "cabo-blanco-sueco",
+      "cabuya-fernando-morales-camp"
+    ],
+    "connectStops": false,
+    "photos": [
+      "montezuma-shore"
+    ]
+  },
+  "pavones-punta-banco-coast-3": {
+    "stops": [
+      {
+        "point": "rio-claro-pavones",
+        "role": "Павонес · дорожный ориентир",
+        "note": ""
+      },
+      {
+        "point": "pavones-pineapple-camp-pin",
+        "role": "Вариант ночёвки в Pineapple Creek",
+        "note": ""
+      },
+      {
+        "point": "punta-banco-village",
+        "role": "Пунта-Банко · отдельный береговой сектор",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "База с палаткой или кабиной",
+        "text": "Если семье нужен отдых после дальней дороги, выберите один вариант размещения на обе ночи. Тем, кто едет с палаткой, стоит в первую очередь уточнить пин въезда и бытовые условия.",
+        "sources": [
+          "pavones-pineapple-hub",
+          "pavones-pineapple-camper-photos"
+        ]
+      },
+      {
+        "title": "Как спланировать воду",
+        "text": "Сёрф и береговой отдых планируют по волне, приливу и навыкам. Для малых детей уместнее наблюдение с безопасного расстояния, игры на берегу или поездка к согласованному месту.",
+        "sources": [
+          "ict-surf",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pineapple Creek · Павонес",
+        "source": "pavones-pineapple-hub",
+        "note": "Проверка лагеря и подъезда.",
+        "phone": "+506 8448 2722",
+        "url": "https://wa.me/50684482722"
+      }
+    ],
+    "track": "pavones-pineapple-hub",
+    "galleries": [
+      "pavones-pineapple-pitchup-coords",
+      "pavones-pineapple-camper-photos"
+    ],
+    "nearby": [
+      "pavones",
+      "punta-banco-rancho-tiskita",
+      "pavones-pineapple-creek-camp"
+    ],
+    "connectStops": false
+  }
+}

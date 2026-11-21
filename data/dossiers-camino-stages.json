@@ -46,6 +46,15 @@
           "camino-stage-1a",
           "camino-maram-gpx-library"
         ]
+      },
+      {
+        "title": "Опыт лодочной связки у Пакуаре",
+        "text": "В копии майской публикации Ticos A Pata описаны пешая часть и лодка в Reserva Pacuare. Это групповой вариант начала похода с выбранным ночлегом. Для стандартной нитки сверяйте длину и пирс на карте Mar a Mar.",
+        "sources": [
+          "ticos-a-pata-may-2026-mirror",
+          "camino-stage-1a",
+          "camino-ticos-a-pata"
+        ]
       }
     ],
     "contacts": [
@@ -409,6 +418,14 @@
         "sources": [
           "camino-stage-6",
           "camino-maram-gpx-library"
+        ]
+      },
+      {
+        "title": "Организованный выход от Finca Vialig",
+        "text": "Ticos A Pata описывает вариант примерно 12 км из Пакайитаса через Эль-Силенсио и Эль-Ситио к Канаде-де-Ла-Суиса. Пин встречи, место финиша, расписание транспорта и окончательную длину сверяют с организатором.",
+        "sources": [
+          "camino-etapa-6-ticos-pacayitas-canada",
+          "camino-stage-6"
         ]
       }
     ],
