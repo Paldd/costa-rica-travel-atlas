@@ -661,9 +661,14 @@
     "nearby": [
       "oikoumene",
       "lucha-weekend",
-      "lucha-camping"
+      "lucha-camping",
+      "prusia-clavelito-tent-fire"
     ],
-    "track": "escapadita-drive"
+    "track": "escapadita-drive",
+    "galleries": [
+      "escapadita-services",
+      "escapadita-campcr"
+    ]
   },
   "oikoumene": {
     "stops": [

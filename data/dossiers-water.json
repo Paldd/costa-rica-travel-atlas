@@ -570,7 +570,9 @@
     "nearby": [
       "tronadora-roof",
       "arenal-paddle",
-      "sierpe-fishing"
+      "sierpe-fishing",
+      "arenal-tico-wind-school",
+      "arenal-azucar-view-fire"
     ],
     "photos": [
       "arenal-open-aerial"
@@ -1185,6 +1187,10 @@
       "coopedota-santa-maria-coffee",
       "selva-madre-rooftent-trout",
       "dota-roof-trout-coffee-2"
+    ],
+    "galleries": [
+      "don-manuel-owner",
+      "don-manuel-report"
     ]
   },
   "finca-koki": {
@@ -1212,18 +1218,36 @@
           "koki",
           "koki-asedp"
         ]
+      },
+      {
+        "title": "Где встать с автомобилем",
+        "text": "Сайт публикует отдельные схемы лагеря. CostaRider описывает ночёвку на кемпере. Для вашей машины запрашивайте номер участка, парковочное место и зону раскрытия палатки. Сверьте режим костра и дрова на дату.",
+        "sources": [
+          "koki",
+          "koki-camp-site-map",
+          "koki-costarider-camp-report"
+        ]
       }
     ],
     "contacts": [
       {
         "name": "Finca Koki",
         "source": "koki",
-        "note": "Бронирование, озеро и водный режим на конкретную дату."
+        "note": "Бронирование, озеро и водный режим на конкретную дату.",
+        "phone": "+506 8747 5889",
+        "url": "https://wa.me/50687475889",
+        "email": "info@fincakoki.com"
       }
     ],
     "nearby": [
       "laguna-don-manuel-camp",
-      "arenal-paddle"
+      "arenal-paddle",
+      "poas-caprina-roof-camp"
+    ],
+    "galleries": [
+      "koki",
+      "koki-camp-site-map",
+      "koki-costarider-camp-report"
     ]
   }
 }

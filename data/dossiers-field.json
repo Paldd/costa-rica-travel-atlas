@@ -1519,7 +1519,11 @@
       "santa-rosa-casona",
       "santa-rosa-camp"
     ],
-    "track": "junquillal-trails"
+    "track": "junquillal-trails",
+    "galleries": [
+      "junquillal-trails",
+      "junquillal-roof-local"
+    ]
   },
   "santa-rosa-junquillal": {
     "stops": [

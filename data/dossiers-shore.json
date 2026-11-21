@@ -1798,7 +1798,9 @@
     "nearby": [
       "nalu-school",
       "montezuma",
-      "nicoya-5"
+      "nicoya-5",
+      "malpais-mar-azul-beach-camp",
+      "paquera-malpais-island-coast-3"
     ],
     "track": "paquera-ferry-live",
     "photos": [
@@ -1910,7 +1912,9 @@
     ],
     "nearby": [
       "montezuma",
-      "nicoya-5"
+      "nicoya-5",
+      "malpais-mar-azul-beach-camp",
+      "paquera-malpais-island-coast-3"
     ],
     "track": "cabo-blanco-qbl-10",
     "line": "cabo-blanco-sueco"
@@ -2311,7 +2315,11 @@
       "monteverde-reserve",
       "forest-highland-4"
     ],
-    "track": "chira-family-units"
+    "track": "chira-family-units",
+    "galleries": [
+      "chira-family-units",
+      "chira-monteverde-directory"
+    ]
   },
   "piedra-angel": {
     "stops": [

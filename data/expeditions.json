@@ -6343,5 +6343,158 @@
         ]
       }
     ]
+  },
+  {
+    "id": "bejuco-bandera-surf-camp-2",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Бехуко и Бандера · два дня с палаткой и уроком сёрфинга",
+    "native": "Playa Bejuco – Playa Bandera · Parrita",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "surf",
+      "school",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "bejuco-garrobos-camping-cr",
+      "bandera-villa-tortuga-camp",
+      "bandera-flagside-school",
+      "ict-esterillos-palo-seco-coast"
+    ],
+    "summary": "Семейная поездка на одну ночь между двумя пляжами Парриты. На выбор ранчо с парковкой у Los Garrobos или готовая палатка у Villa Tortuga Feliz.",
+    "plan": "В первый день поставьте лагерь до темноты. Во второй выделите утреннее окно под урок. Между пляжами используйте дорожные подъезды через Ruta 34.",
+    "conditions": "Выберите одну ночёвку, заранее согласуйте машину у места и свяжитесь со школой по состоянию прибоя. Обоим пляжам открыта океанская зыбь.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Заезд в лагерь на берегу",
+        "note": "Выберите Los Garrobos для ранчо с машиной рядом или запросите готовую палатку у Villa Tortuga Feliz.",
+        "stops": [
+          "bejuco-garrobos-camp",
+          "bandera-tortuga-feliz-camp"
+        ],
+        "sources": [
+          "bejuco-garrobos-camping-cr",
+          "bandera-villa-tortuga-camp"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Урок, берег и выезд",
+        "note": "Встретьтесь с инструктором по его пину. После урока можно пройти по доступному участку берега или сделать отдельную остановку в Паррите.",
+        "stops": [
+          "bandera-flagside-surf",
+          "palo-seco-estuary-kayak-fishing"
+        ],
+        "sources": [
+          "bandera-flagside-school",
+          "ict-esterillos-palo-seco-coast"
+        ]
+      }
+    ],
+    "distance": null
+  },
+  {
+    "id": "paquera-malpais-island-coast-3",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Пакера и Маль-Паис · три дня с островом, палаткой и тропами",
+    "native": "Puntarenas – Paquera – Isla Jesusita – Malpaís – Cabuya",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "glamping",
+      "camping",
+      "kayak",
+      "boat",
+      "surf",
+      "hiking",
+      "beach",
+      "wildlife"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends"
+    ],
+    "access": [
+      "boat",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping",
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "paquera-isla-chiquita-transport",
+      "paquera-isla-chiquita-faq",
+      "malpais-mar-azul-camp-guide",
+      "cabo-sueco-ict"
+    ],
+    "summary": "Две разные ночёвки на юге Никои. Первая в островном глэмпинге, вторая в кемпинге Маль-Паиса. Пеший или пляжный день подбирают по силам семьи и расписанию.",
+    "plan": "Отправляйтесь паромом из Пунтаренаса. Проведите первый вечер на Исла-Хесусите, на второй день вернитесь к машине и через Кобано направляйтесь в Маль-Паис.",
+    "conditions": "Подтвердите отдельный трансфер на остров и запас на паром. Для третьего дня проверьте доступ в Кабо-Бланко и время обратного выезда. Береговые броды не входят в схему.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Паром и лодка на Исла-Хесуситу",
+        "note": "Перед выездом получите пин терминала и подтверждённое время пересадки на лодку. По приезде выберите спокойный отдых или экскурсию по воде.",
+        "stops": [
+          "paquera-isla-chiquita-family-glamp"
+        ],
+        "sources": [
+          "paquera-isla-chiquita-transport",
+          "paquera-isla-chiquita-faq"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пакера — Кобано — лагерь в Маль-Паисе",
+        "note": "Вернитесь к машине, закупите воду и еду в районе Кобано. Заезжайте в Mar Azul до темноты.",
+        "stops": [
+          "malpais-mar-azul-beach-camp",
+          "santateresa"
+        ],
+        "sources": [
+          "paquera-isla-chiquita-transport",
+          "malpais-mar-azul-camp-guide"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Кабуя или короткая прогулка в Монтесуме",
+        "note": "Если открыт Кабо-Бланко и у группы есть время, выбирайте доступный сектор. С маленькими детьми удобнее короткая прогулка и ранний выезд.",
+        "stops": [
+          "cabo-blanco-sueco",
+          "montezuma"
+        ],
+        "sources": [
+          "cabo-sueco-ict",
+          "montezuma-suntrails-bridges"
+        ]
+      }
+    ],
+    "distance": null
   }
 ]

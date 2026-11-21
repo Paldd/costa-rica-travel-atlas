@@ -503,11 +503,20 @@
           "eolicos-camp-host-listing",
           "eolicos-camp-yoko-guide"
         ]
+      },
+      {
+        "title": "Вечерний вид и короткая прогулка",
+        "text": "В отчёте CostaRider описаны огни Центральной долины после заката, грунтовые зоны и костёр. Если хочется приехать только погулять и посмотреть закат, заранее спросите про дневной доступ.",
+        "sources": [
+          "santa-ana-eolicos-costarider-trip",
+          "eolicos-camp-host-listing"
+        ]
       }
     ],
     "galleries": [
       "eolicos-camp-yoko-guide",
-      "eolicos-camp-native-photos"
+      "eolicos-camp-native-photos",
+      "santa-ana-eolicos-costarider-trip"
     ],
     "nearby": [
       "finca-colasa-view-campfire",
@@ -575,10 +584,11 @@
     "contacts": [
       {
         "name": "Finca La Colasa",
-        "source": "finca-la-colasa-camp-listing",
-        "url": "https://camping.cr/listing/finca-la-colasa/",
+        "source": "barva-colasa-owner",
+        "url": "https://wa.me/50688620197",
         "note": "Ночёвка, условия пользования огнём, дрова, доступ к парковке.",
-        "phone": "+506 8862 0197"
+        "phone": "+506 8862 0197",
+        "email": "fincalacolasa@gmail.com"
       }
     ],
     "sections": [
@@ -597,11 +607,22 @@
           "finca-la-colasa-camp-listing",
           "finca-la-colasa-facebook"
         ]
+      },
+      {
+        "title": "Вечер в Сакраменто",
+        "text": "В полевом отчёте Qué Buen Lugar описана прохлада на закате и мокрая трава после дождя. На сайте хозяйства и в справочнике опубликованы разные тарифы, поэтому стоимость и состав услуг сверяйте напрямую.",
+        "sources": [
+          "barva-colasa-qbl-sunset",
+          "barva-colasa-owner",
+          "finca-la-colasa-camp-listing"
+        ]
       }
     ],
     "galleries": [
       "finca-la-colasa-camp-listing",
-      "finca-la-colasa-facebook"
+      "finca-la-colasa-facebook",
+      "barva-colasa-owner",
+      "barva-colasa-qbl-sunset"
     ],
     "nearby": [
       "adventure-camp",

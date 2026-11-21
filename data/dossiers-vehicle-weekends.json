@@ -853,6 +853,14 @@
           "ict-esterillos-palo-seco-coast",
           "las-brisas-esterillos-camping-local"
         ]
+      },
+      {
+        "title": "Костровая зона и опыт ночёвки",
+        "text": "У кемпинга есть обозначенные места для огня и готовки. Попросите уточнить, можно ли пользоваться очагом индивидуально и есть ли дрова. Путешественник на Park4night отметил навесы, дружелюбный приём и простые, чистые санузлы.",
+        "sources": [
+          "las-brisas-esterillos-camping-local",
+          "esterillos-las-brisas-park4night-field"
+        ]
       }
     ],
     "contacts": [
@@ -874,7 +882,13 @@
     "nearby": [
       "esterillos-aloha-surf",
       "palo-seco-roof-camp",
-      "esterillos-palo-seco-roof-2"
+      "esterillos-palo-seco-roof-2",
+      "bejuco-bandera-surf-camp-2",
+      "bejuco-garrobos-camp"
+    ],
+    "galleries": [
+      "las-brisas-esterillos-camping-local",
+      "esterillos-las-brisas-park4night-field"
     ]
   },
   "esterillos-aloha-surf": {
@@ -1000,7 +1014,13 @@
     "nearby": [
       "palo-seco-estuary-kayak-fishing",
       "esterillos-palo-seco-roof-2",
-      "esterillos-las-brisas-camping"
+      "esterillos-las-brisas-camping",
+      "bandera-tortuga-feliz-camp",
+      "bejuco-bandera-surf-camp-2"
+    ],
+    "galleries": [
+      "palo-seco-private-roof-camp",
+      "palo-seco-road-and-beach-report"
     ]
   },
   "palo-seco-estuary-kayak-fishing": {

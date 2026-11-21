@@ -1,0 +1,885 @@
+{
+  "bejuco-garrobos-camp": {
+    "stops": [
+      {
+        "point": "bejuco-garrobos-gate",
+        "role": "Въезд к месту ночёвки",
+        "note": "Согласуйте номер ранчо и расположение стоянки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что дают на месте",
+        "text": "В справочнике указаны стол, стулья, розетка, туалет и душ. Опубликованная цена начинается от ₡5 000 с взрослого. Уточните, считается ли по людям или по ранчо на выбранные даты.",
+        "sources": [
+          "bejuco-garrobos-camper-report",
+          "bejuco-garrobos-camping-cr"
+        ]
+      },
+      {
+        "title": "Крышная палатка и пляж",
+        "text": "Подтверждена стоянка машины возле ранчо. Высоту, разворот лестницы и открытие палатки на конкретной стоянке согласуйте с хозяевами. Берег посещают пешком.",
+        "sources": [
+          "bejuco-garrobos-camper-report",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Los Garrobos",
+        "source": "bejuco-garrobos-camping-cr",
+        "note": "Ранчо с местом для машины, тариф на группу и действующие правила.",
+        "phone": "+506 8785 7866",
+        "url": "https://wa.me/50687857866"
+      }
+    ],
+    "track": "bejuco-garrobos-camping-cr",
+    "nearby": [
+      "bandera-flagside-surf",
+      "palo-seco-roof-camp",
+      "esterillos-las-brisas-camping"
+    ],
+    "galleries": [
+      "bejuco-garrobos-camper-report",
+      "bejuco-garrobos-camping-cr"
+    ],
+    "videos": [
+      "bejuco-garrobos-site-video"
+    ]
+  },
+  "bandera-flagside-surf": {
+    "stops": [
+      {
+        "point": "bandera-villa-area",
+        "role": "Ориентир в прибрежном районе",
+        "note": "Точку встречи на пляже сообщает инструктор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Возраст и формат",
+        "text": "У школы есть занятия для разных возрастов и уровней. Для первого занятия с ребёнком уточните состав группы, инструктаж и выделенного инструктора.",
+        "sources": [
+          "bandera-flagside-school"
+        ]
+      },
+      {
+        "title": "Как совместить с ночёвкой",
+        "text": "Поставьте лагерь у моря и запланируйте занятия как самостоятельный блок. Если ветер или прибой мешает, оставьте день для прогулки или наземной поездки.",
+        "sources": [
+          "bandera-villa-tortuga-camp",
+          "bandera-flagside-school",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Flagside Surf",
+        "source": "bandera-flagside-school",
+        "note": "Время занятия, возраст, доска, сектор берега и отмена.",
+        "email": "flagsidesurf@gmail.com"
+      }
+    ],
+    "track": "bandera-flagside-school",
+    "nearby": [
+      "bandera-tortuga-feliz-camp",
+      "bejuco-garrobos-camp",
+      "esterillos-aloha-surf"
+    ],
+    "galleries": [
+      "bandera-flagside-school"
+    ]
+  },
+  "bandera-tortuga-feliz-camp": {
+    "stops": [
+      {
+        "point": "bandera-villa-area",
+        "role": "Район площадки Villa Tortuga Feliz",
+        "note": "Используйте навигационную ссылку комплекса для въезда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Своя или готовая палатка",
+        "text": "С хозяйством можно обсудить подготовленную палатку с матрасом или место на газоне. Сверьте постельные принадлежности, количество человек и правила для автомобиля.",
+        "sources": [
+          "bandera-villa-tortuga-camp"
+        ]
+      },
+      {
+        "title": "Берег и еда",
+        "text": "На сайте показаны навесы со столами и вспомогательные услуги. Если едете ради сёрфа, заранее договоритесь с Flagside о месте урока и времени по воде.",
+        "sources": [
+          "bandera-villa-tortuga-camp",
+          "bandera-flagside-school"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Villa Tortuga Feliz",
+        "source": "bandera-villa-tortuga-camp",
+        "note": "Автомобильное место, готовые палатки и условия заезда.",
+        "phone": "+506 7082 6710",
+        "url": "https://wa.me/50670826710"
+      }
+    ],
+    "track": "bandera-villa-tortuga-camp",
+    "nearby": [
+      "bandera-flagside-surf",
+      "bejuco-garrobos-camp",
+      "palo-seco-roof-camp"
+    ],
+    "galleries": [
+      "bandera-villa-tortuga-camp"
+    ],
+    "videos": [
+      "bandera-villa-tortuga-channel"
+    ]
+  },
+  "malpais-mar-azul-beach-camp": {
+    "stops": [
+      {
+        "point": "malpais-mar-azul-camp-entry",
+        "role": "Въезд в Mar Azul",
+        "note": "Уточните место гостевой парковки и границу площадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Быт на месте",
+        "text": "Указаны питьевая вода, электрические розетки, душ и туалеты. В справочнике опубликован ориентир ₡6 000 с человека за ночь. Сверьте цены, правила приготовления еды и часы тишины.",
+        "sources": [
+          "malpais-mar-azul-camp-guide"
+        ]
+      },
+      {
+        "title": "Что отметил гость",
+        "text": "В отчёте упомянуты тень, доступ к розеткам и небольшие заводи при отливе. Для прогулки проверьте таблицу приливов, а детям оставьте наблюдение за водой с берега при прибое.",
+        "sources": [
+          "malpais-mar-azul-reviews",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Mar Azul",
+        "source": "malpais-mar-azul-camp-guide",
+        "note": "Площадка для машины, время заезда, семейное место и актуальная цена.",
+        "phone": "+506 8838 3948"
+      }
+    ],
+    "track": "malpais-mar-azul-camp-guide",
+    "nearby": [
+      "santateresa",
+      "cabo-blanco-sueco",
+      "montezuma"
+    ],
+    "galleries": [
+      "malpais-mar-azul-camp-guide",
+      "malpais-mar-azul-host-gallery"
+    ]
+  },
+  "poas-caprina-roof-camp": {
+    "stops": [
+      {
+        "point": "poas-caprina-camp-entry",
+        "role": "Въезд на финку",
+        "note": "Уточните номер и наклон площадки для автомобиля."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Стоянка и ночёвка",
+        "text": "Отдельно указан допуск Rooftent и Caravan. Подготовьте выравнивающие подставки, защиту от ветра, налобный свет и тёплый слой.",
+        "sources": [
+          "poas-caprina-nomad-trip"
+        ]
+      },
+      {
+        "title": "Что сделать рядом",
+        "text": "Днём можно посетить вулкан по действующему режиму SINAC или выбрать водопады в отдельном секторе Торо-Амарильо. Время в пути зависит от дороги и сезона.",
+        "sources": [
+          "poas-caprina-nomad-trip",
+          "poas-sinac",
+          "ict-adventure"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caprina Land",
+        "source": "poas-caprina-host",
+        "note": "Пин лагеря, стоянка с крышной палаткой, шум и услуги.",
+        "phone": "+506 7114 0678",
+        "url": "https://wa.me/50671140678"
+      }
+    ],
+    "track": "poas-caprina-host",
+    "nearby": [
+      "poas",
+      "finca-koki",
+      "catarata-del-toro"
+    ],
+    "galleries": [
+      "poas-caprina-nomad-trip",
+      "poas-caprina-host"
+    ]
+  },
+  "atenas-prados-private-fire": {
+    "stops": [
+      {
+        "point": "atenas-prados-camp-entry",
+        "role": "Въезд в Prados Park",
+        "note": "Хозяева подскажут нужный участок."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Частный огонь",
+        "text": "В карточке услуг прямо обозначен индивидуальный очаг. Уточните, нужен ли мешок дров и входит ли зона в выбранный тариф.",
+        "sources": [
+          "atenas-prados-camping-host"
+        ]
+      },
+      {
+        "title": "Отдых с детьми",
+        "text": "Узнайте режим бассейнов, глубину и затенение, а также где бегать или играть рядом с вашим местом. На ночёвку подготовьте фонарь, водонепроницаемый тент и обувь для мокрых участков.",
+        "sources": [
+          "atenas-prados-camping-host",
+          "atenas-prados-camp-road-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Prados Park Atenas",
+        "source": "atenas-prados-camping-host",
+        "note": "Забронировать площадку в хозяйстве, уточнить время, стоянку и частный очаг.",
+        "phone": "+506 8804 5009",
+        "url": "https://wa.me/50688045009"
+      }
+    ],
+    "track": "atenas-prados-camping-host",
+    "nearby": [],
+    "galleries": [
+      "atenas-prados-camping-host"
+    ]
+  },
+  "arenal-azucar-view-fire": {
+    "stops": [
+      {
+        "point": "arenal-azucar-camp-entry",
+        "role": "Пин лагеря и смотровой Montaña de Azúcar",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Очаг под навесом",
+        "text": "На площадке указаны ранчо с водой, розеткой, столом, очагом и гравийным полом. Есть открытые палаточные места. Спросите о дровах, часах тишины и порядке пользования огнём.",
+        "sources": [
+          "arenal-azucar-camp-host"
+        ]
+      },
+      {
+        "title": "После ночёвки",
+        "text": "Гости отмечают взгляд на озеро и простор площадок. Ветер и облачность меняют вид. До выхода на SUP согласуйте пин отдельного проката и погодное окно.",
+        "sources": [
+          "arenal-azucar-camp-reviews",
+          "lake-rent"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Montaña de Azúcar",
+        "source": "arenal-azucar-camp-host",
+        "note": "Подъём, размеры стоянки, ранчо с очагом и цена.",
+        "phone": "+506 8326 2701",
+        "url": "https://wa.me/50683262701"
+      }
+    ],
+    "track": "arenal-azucar-camp-host",
+    "nearby": [
+      "arenal-east-association-sup",
+      "arenal-paddle"
+    ],
+    "galleries": [
+      "arenal-azucar-camp-host"
+    ]
+  },
+  "prusia-clavelito-tent-fire": {
+    "stops": [
+      {
+        "point": "prusia-clavelito-camp-entry",
+        "role": "Частный въезд в Clavelito",
+        "note": ""
+      },
+      {
+        "point": "prusia-entry",
+        "role": "Отдельная касса парка Прюсия",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Огонь и ночёвка",
+        "text": "Возьмите сухие тёплые слои, коврик, фонарь и дождевик. У лагеря уточните расположение очага и подготовьте свою систему света, если площадка без электричества.",
+        "sources": [
+          "prusia-clavelito-camp-host",
+          "prusia-clavelito-camp-reviews"
+        ]
+      },
+      {
+        "title": "Прогулка на следующий день",
+        "text": "Сектор Прюсия находится поблизости. Уточните открытый вход, расписание и направление своего круга. Раздельные пины ведут к финке и кассе.",
+        "sources": [
+          "prusia-clavelito-camp-host",
+          "irazu"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Clavelito",
+        "source": "prusia-clavelito-camp-host",
+        "note": "Действующий въезд, правила огня, размещение машины и время заезда.",
+        "phone": "+506 6139 4468",
+        "url": "https://wa.me/50661394468"
+      }
+    ],
+    "track": "prusia-clavelito-camp-host",
+    "nearby": [
+      "prusia-el-roble-loop-75",
+      "irazu-craters"
+    ],
+    "galleries": [
+      "prusia-clavelito-camp-host"
+    ],
+    "connectStops": false
+  },
+  "uvita-el-chaman-colonia-camp": {
+    "stops": [
+      {
+        "point": "uvita-el-chaman-camp-entry",
+        "role": "Въезд на частную территорию",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Площадка и быт",
+        "text": "Уточните бытовую оснащённость выбранного участка, воду, доступ к розетке, ночную тишину и размер стоянки. Свяжитесь с хозяевами по опубликованному телефону.",
+        "sources": [
+          "uvita-el-chaman-camp-host"
+        ]
+      },
+      {
+        "title": "Сектор Colonia и прилив",
+        "text": "Уточните часы и вход в парк у SINAC. Для прогулки у воды план учитывает приливы и возможный сильный прибой на этот день.",
+        "sources": [
+          "marino",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping El Chamán",
+        "source": "uvita-el-chaman-camp-host",
+        "note": "Место для палатки и автомобиля, услуги и часы заезда.",
+        "phone": "+506 2743 8161"
+      }
+    ],
+    "track": "uvita-el-chaman-camp-host",
+    "nearby": [
+      "marino-ballena"
+    ],
+    "galleries": [
+      "uvita-el-chaman-camp-host"
+    ]
+  },
+  "sanramon-libertad-farm-camp": {
+    "stops": [
+      {
+        "point": "sanramon-libertad-camp-entry",
+        "role": "Ориентир лагеря на ферме",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "День на ферме",
+        "text": "Уточните, где можно гулять самостоятельно, для чего нужен сопровождающий и какие занятия проводятся по записи. Условия ночёвки и прогулки оформляют у хозяев.",
+        "sources": [
+          "sanramon-libertad-camp-host"
+        ]
+      },
+      {
+        "title": "Что взять на ночь",
+        "text": "Подготовьте тент на дождь, коврики, свет и запас питья. Перед закатом спросите, насколько холодно и куда ставить машину на выбранном участке.",
+        "sources": [
+          "sanramon-libertad-camp-host",
+          "sanramon-libertad-camp-qbl"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Libertad Pura",
+        "source": "sanramon-libertad-camp-host",
+        "note": "Заезд, выбранная площадка, семейная программа и доступность.",
+        "phone": "+506 7113 2826",
+        "url": "https://wa.me/50671132826"
+      }
+    ],
+    "track": "sanramon-libertad-camp-host",
+    "nearby": [],
+    "galleries": [
+      "sanramon-libertad-camp-host",
+      "sanramon-libertad-camp-qbl"
+    ],
+    "videos": [
+      "sanramon-libertad-video"
+    ]
+  },
+  "paquera-isla-chiquita-family-glamp": {
+    "stops": [
+      {
+        "point": "puntarenas-terminal-point",
+        "role": "Паром на материке",
+        "note": "Оставьте запас на очередь перед посадкой."
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "Пакера · пересадка для пассажиров без машины",
+        "note": "Водителям организатор выдаёт другой пин парковки."
+      },
+      {
+        "point": "paquera-isla-chiquita-lodge",
+        "role": "Лодочная высадка на острове",
+        "note": "Лодка и время зависят от выбранной схемы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Размещение для семьи",
+        "text": "Сайт различает обычные палатки и семейный вариант из двух связанных палаток. Уточните фактическое число кроватей, кондиционер, кроватку и расстояние до причала.",
+        "sources": [
+          "paquera-isla-chiquita-faq",
+          "paquera-isla-chiquita-gallery"
+        ]
+      },
+      {
+        "title": "Каяк и поездка после темноты",
+        "text": "У комплекса бывают самостоятельная вода рядом с берегом и отдельная двухчасовая программа на двойных каяках. Вечерний выезд согласуйте по составу семьи, условиям моря и возвращению.",
+        "sources": [
+          "paquera-isla-chiquita-faq",
+          "paquera-isla-chiquita-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Isla Chiquita · бронирование и лодка",
+        "source": "paquera-isla-chiquita-faq",
+        "note": "Проверка семейного размещения, трансфера, каяка и опции вечером.",
+        "phone": "+506 4000 0520",
+        "url": "https://wa.me/50687758600",
+        "email": "reserve@islachiquita.com"
+      }
+    ],
+    "track": "paquera-isla-chiquita-transport",
+    "nearby": [
+      "paquera-bioluminescence-kayak",
+      "curu-forest-coves"
+    ],
+    "galleries": [
+      "paquera-isla-chiquita-gallery",
+      "paquera-isla-chiquita-faq"
+    ],
+    "connectStops": false
+  },
+  "fortuna-arenal-glamping-family": {
+    "stops": [
+      {
+        "point": "fortuna-arenal-glamping-entry",
+        "role": "Стойка и парковка глэмпинга",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что выбрать при бронировании",
+        "text": "Отдельно указана семейная палатка. Проверьте, входит ли нужное число гостей, есть ли необходимые кровати и как далеко идти до общих помещений.",
+        "sources": [
+          "fortuna-arenal-glamping-host"
+        ]
+      },
+      {
+        "title": "Лёгкий план вокруг Ла-Фортуны",
+        "text": "Поездку можно собрать с одной короткой зоной утром и отдыхом после обеда. Дневной визит, лодки и термы оформляются у соответствующих операторов.",
+        "sources": [
+          "ict-la-fortuna-guide",
+          "lake-rent"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Glamping",
+        "source": "fortuna-arenal-glamping-host",
+        "note": "Вместимость семейной палатки, услуги и логистика на даты поездки.",
+        "phone": "+506 8784 8998",
+        "url": "https://wa.me/50687848998"
+      }
+    ],
+    "track": "fortuna-arenal-glamping-host",
+    "nearby": [
+      "arenal-peninsula",
+      "arenal-east-association-sup",
+      "arenal-eco-camp"
+    ],
+    "galleries": [
+      "fortuna-arenal-glamping-host"
+    ]
+  },
+  "carate-la-leona-tented-lodge": {
+    "stops": [
+      {
+        "point": "osa-carate",
+        "role": "Карате · район конца дороги",
+        "note": ""
+      },
+      {
+        "point": "carate-leona-ecolodge-area",
+        "role": "Береговая зона экоотеля",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Последний отрезок и багаж",
+        "text": "Особенно при поездке с ребёнком уточните пешее расстояние от парковки, доступ по берегу и перенос сумок. Возьмите закрытую обувь и сухой мешок на случай ливня.",
+        "sources": [
+          "carate-leona-ecolodge-contact",
+          "carate-leona-ecolodge-tents"
+        ]
+      },
+      {
+        "title": "Как добавить Корковадо",
+        "text": "У сектора La Leona отдельный режим входа. Выберите дневной вариант с проводником или самостоятельный отдых рядом с эколоджем в пределах разрешённого доступа.",
+        "sources": [
+          "osa-leona-sinac",
+          "ict-osa"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Leona Eco Lodge",
+        "source": "carate-leona-ecolodge-contact",
+        "note": "Состояние дороги, встреча в Карате, багаж и палатки на даты.",
+        "phone": "+506 2735 5704",
+        "url": "https://wa.me/50687037243"
+      }
+    ],
+    "track": "carate-leona-ecolodge-contact",
+    "nearby": [
+      "corcovado-leona",
+      "corcovado-sirena"
+    ],
+    "galleries": [
+      "carate-leona-ecolodge-tents"
+    ],
+    "videos": [
+      "carate-leona-ecolodge-videos"
+    ],
+    "connectStops": false
+  },
+  "senderos-colon-mary-10k": {
+    "stops": [
+      {
+        "point": "senderos-colon-base",
+        "role": "Вход в трейл-парк Pampa y Cielo",
+        "note": "Оригинальные начало и форма кольца доступны в ссылке на запись."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Запись маршрута",
+        "text": "Автор Мэри Кубильо прошла кольцо в мае 2023 года. В источнике сохранились карта, профиль, фотографии и опция отправки в навигатор.",
+        "sources": [
+          "colon-mary-cubillo-10k"
+        ]
+      },
+      {
+        "title": "Выбор направления",
+        "text": "На стойке попросите показать односторонние велосипедные участки и открытые ответвления для бега. Для прогулки с детьми возьмите более короткий вариант в парке.",
+        "sources": [
+          "senderos-colon",
+          "colon-mary-cubillo-10k"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Senderos Colón · вход и работа троп",
+        "source": "senderos-colon",
+        "note": "Карта действующих веток, допуск пешеходов и часы входа."
+      }
+    ],
+    "track": "colon-mary-cubillo-10k",
+    "nearby": [
+      "senderos-colon-run",
+      "senderos-colon-mtb-laja-11"
+    ],
+    "galleries": [
+      "colon-mary-cubillo-10k"
+    ]
+  },
+  "puriscal-maravillas-guatuso-10": {
+    "stops": [
+      {
+        "point": "puriscal-maravillas-entry",
+        "role": "Частный подъезд",
+        "note": "Сюда привязан ориентир карты. Пин внешней стоянки и ранчо уточните у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как пройти за один день",
+        "text": "Qué Buen Lugar описывает каменный мост, высокий крест и спуск к водопаду. На спуске оставьте воду и силы на обратные 3,2 км к ранчо. Полный вариант в отчёте около 10 км.",
+        "sources": [
+          "puriscal-maravillas-qbl-field",
+          "puriscal-maravillas-gps-photos"
+        ]
+      },
+      {
+        "title": "Ночёвка и питание",
+        "text": "Местный отчёт указывает кемпинг и вариант с питанием у хозяев. Уточните действующий доступ, цену и можно ли оставлять автомобиль у места ночью.",
+        "sources": [
+          "puriscal-maravillas-qbl-field",
+          "puriscal-maravillas-waze-arrival"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca 6 Maravillas · Родриго и Диана",
+        "source": "puriscal-maravillas-qbl-field",
+        "note": "Тропа, парковка, текущий вход, кемпинг и питание.",
+        "phone": "+506 8729 0775",
+        "url": "https://wa.me/50687290775"
+      }
+    ],
+    "track": "puriscal-maravillas-qbl-field",
+    "nearby": [],
+    "galleries": [
+      "puriscal-maravillas-qbl-field",
+      "puriscal-maravillas-gps-photos"
+    ],
+    "videos": [
+      "puriscal-maravillas-walk-video"
+    ]
+  },
+  "arenal-tico-wind-school": {
+    "stops": [
+      {
+        "point": "arenal-tico-wind-archive-shore",
+        "role": "Береговой ориентир",
+        "note": "Запросите действующую точку встречи на день."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три формата",
+        "text": "Школа предлагает доску с парусом, кайт и вингфойл. Для первого занятия сообщите вес, плавательный опыт и уровень. Уточните, что входит в аренду и где оплата.",
+        "sources": [
+          "arenal-tico-wind-operator",
+          "arenal-tico-wind-logistics"
+        ]
+      },
+      {
+        "title": "Условия на озере",
+        "text": "Ветровой берег отличается от тихих зон SUP. Уточните порывы, время и границы акватории у инструктора. Панорама 2015 года помогает узнать район.",
+        "sources": [
+          "arenal-tico-wind-logistics",
+          "arenal-tico-wind-archive-shore"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tico Wind",
+        "source": "arenal-tico-wind-operator",
+        "note": "Инструктор, прогноз, аренда и точка встречи для выбранного вида доски.",
+        "phone": "+506 8886 0086",
+        "url": "https://wa.me/50688860086",
+        "email": "ticowindarenal@gmail.com"
+      }
+    ],
+    "track": "arenal-tico-wind-operator",
+    "nearby": [
+      "arenal-paddle",
+      "arenal-azucar-view-fire"
+    ],
+    "galleries": [
+      "arenal-tico-wind-archive-shore",
+      "arenal-tico-wind-operator"
+    ],
+    "photos": [
+      "arenal-tico-wind-shore"
+    ]
+  },
+  "bejuco-bandera-surf-camp-2": {
+    "stops": [
+      {
+        "point": "bejuco-garrobos-gate",
+        "role": "Вариант с ранчо у Бехуко",
+        "note": ""
+      },
+      {
+        "point": "bandera-villa-area",
+        "role": "Вариант ночёвки на Бандере",
+        "note": "Место урока получите у Flagside."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что предусмотреть семье",
+        "text": "Для лагеря у берега пригодятся тень, закрытый запас питья, место для мокрой экипировки и привязки тента на ветру. Согласуйте, где дети будут играть при сильном прибое.",
+        "sources": [
+          "bejuco-garrobos-camper-report",
+          "bandera-villa-tortuga-camp"
+        ]
+      },
+      {
+        "title": "Как согласовать сёрф и машину",
+        "text": "Запросите разные условия у лагеря и школы. Если урок переносится по волне, оставьте прогулку или отдельный выезд после сборов.",
+        "sources": [
+          "bejuco-garrobos-camping-cr",
+          "bandera-flagside-school"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Los Garrobos",
+        "source": "bejuco-garrobos-camping-cr",
+        "note": "Ранчо, место для автомобиля и время въезда.",
+        "phone": "+506 8785 7866",
+        "url": "https://wa.me/50687857866"
+      },
+      {
+        "name": "Villa Tortuga Feliz",
+        "source": "bandera-villa-tortuga-camp",
+        "note": "Второй вариант ночёвки и готовые палатки.",
+        "phone": "+506 7082 6710",
+        "url": "https://wa.me/50670826710"
+      },
+      {
+        "name": "Flagside Surf",
+        "source": "bandera-flagside-school",
+        "note": "Урок и точка встречи.",
+        "email": "flagsidesurf@gmail.com"
+      }
+    ],
+    "track": "bejuco-garrobos-camping-cr",
+    "galleries": [
+      "bejuco-garrobos-camper-report",
+      "bandera-villa-tortuga-camp",
+      "bandera-flagside-school"
+    ],
+    "nearby": [
+      "esterillos-las-brisas-camping",
+      "palo-seco-roof-camp"
+    ],
+    "connectStops": false
+  },
+  "paquera-malpais-island-coast-3": {
+    "stops": [
+      {
+        "point": "puntarenas-terminal-point",
+        "role": "Пунтаренас · паром",
+        "note": ""
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "Пакера · лодочная пересадка",
+        "note": ""
+      },
+      {
+        "point": "paquera-isla-chiquita-lodge",
+        "role": "Первая ночёвка на острове",
+        "note": ""
+      },
+      {
+        "point": "nicoya-cobano-area",
+        "role": "Кобано · дорожное ответвление",
+        "note": ""
+      },
+      {
+        "point": "malpais-mar-azul-camp-entry",
+        "role": "Вторая ночёвка в Mar Azul",
+        "note": ""
+      },
+      {
+        "point": "cabo-cabuya-entry",
+        "role": "Кабуя · вариант дня по погоде",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что бронируется отдельно",
+        "text": "Сначала выберите паром и островной трансфер. Для Mar Azul уточните формат машины у палатки, а для пешего дня в Кабуе отдельно проверьте билет и часы.",
+        "sources": [
+          "paquera-isla-chiquita-transport",
+          "paquera-isla-chiquita-faq",
+          "malpais-mar-azul-camp-guide",
+          "cabo-sueco-ict"
+        ]
+      },
+      {
+        "title": "Варианты с ребёнком",
+        "text": "Заранее попросите детский жилет на лодку и подтвердите семье сухую посадку. Для позднего возврата проще оставить пеший день коротким.",
+        "sources": [
+          "paquera-isla-chiquita-faq",
+          "ict-puntarenas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Isla Chiquita",
+        "source": "paquera-isla-chiquita-faq",
+        "note": "Ночёвка, детский жилет и лодочная пересадка.",
+        "phone": "+506 4000 0520",
+        "url": "https://wa.me/50687758600"
+      },
+      {
+        "name": "Camping Mar Azul",
+        "source": "malpais-mar-azul-camp-guide",
+        "note": "Ночёвка, подъезд и режим лагеря.",
+        "phone": "+506 8838 3948"
+      }
+    ],
+    "track": "paquera-isla-chiquita-transport",
+    "galleries": [
+      "paquera-isla-chiquita-gallery",
+      "malpais-mar-azul-camp-guide"
+    ],
+    "nearby": [
+      "paquera-isla-chiquita-family-glamp",
+      "malpais-mar-azul-beach-camp",
+      "santateresa",
+      "cabo-blanco-sueco"
+    ],
+    "connectStops": false
+  }
+}

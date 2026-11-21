@@ -1155,6 +1155,9 @@
     "nearby": [
       "naranjo-4x4",
       "naranjo-surf"
+    ],
+    "galleries": [
+      "naranjo-info"
     ]
   }
 }
