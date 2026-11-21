@@ -2801,5 +2801,274 @@
         ]
       }
     ]
+  },
+  {
+    "id": "sarapiqui-kayak-camp-3",
+    "kind": "trip",
+    "region": "north",
+    "title": "Сарапики · три дня с глэмпингом и школой каяка",
+    "native": "La Virgen · Tolomuco Glamping · Trivium Academy",
+    "days": 3,
+    "distance": null,
+    "level": "moderate",
+    "activities": [
+      "glamping",
+      "kayak",
+      "school",
+      "river",
+      "wildlife"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping"
+    ],
+    "sources": [
+      "tolomuco-glamping-host-listing",
+      "soc-trivium-river-kayaking-classes",
+      "soc-kayak-clinic",
+      "sarapiqui-safari-float",
+      "soc-sarapiqui-guest-experiences"
+    ],
+    "summary": "Две ночи у одной базы. Спокойный выезд с гидом, вводный день на каяке и повторное занятие по уровню.",
+    "plan": "В первый день заселение и спокойный выезд. Во второй — учебный день. На третий повтор уровня с инструктором или прогулка по лесу.",
+    "conditions": "Программа собирается из услуг центра. Продолжение обучения, время и пригодность воды подтверждает инструктор.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Заезд в Толомуко и спокойная вода",
+        "note": "Проверьте бунгало и подберите обзорный сплав с гидом по уровню семьи.",
+        "stops": [
+          "tolomuco-river-glamping",
+          "sarapiqui-float"
+        ],
+        "sources": [
+          "tolomuco-glamping-host-listing",
+          "sarapiqui-safari-float"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Вводный курс на каяке",
+        "note": "Школа публикует примерно шесть часов занятий первого уровня. Уточните время на воде и одежду.",
+        "stops": [
+          "sarapiqui-trivium-kayak-firstday"
+        ],
+        "sources": [
+          "soc-trivium-river-kayaking-classes",
+          "soc-whitewater-boat-rental"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Повтор с инструктором или береговая прогулка",
+        "note": "Если инструктор одобряет, договоритесь об индивидуальной работе на подходящем течении. Оставьте время на выселение.",
+        "stops": [
+          "sarapiqui-trivium-kayak-firstday",
+          "tolomuco-river-glamping"
+        ],
+        "sources": [
+          "soc-trivium-river-kayaking-classes",
+          "soc-kayak-clinic",
+          "tolomuco-glamping-host-listing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rafiki-savegre-to-matapalo-6",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Савегре и Матапало · пять ночей в глэмпинге с рафтингом и каяком",
+    "native": "Rafiki Savegre Adventure · Safari Lodge · Playa Matapalo",
+    "days": 6,
+    "distance": null,
+    "level": "moderate",
+    "activities": [
+      "glamping",
+      "rafting",
+      "kayak",
+      "canopy",
+      "hiking",
+      "beach",
+      "forest",
+      "multi"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping"
+    ],
+    "sources": [
+      "rafiki-savegre-six-days-package",
+      "rafiki-savegre-main-safari-tents",
+      "rafiki-savegre-rafting-family",
+      "rafiki-matapalo-beach-camp",
+      "rafiki-matapalo-guest-notes"
+    ],
+    "summary": "Опубликованная программа Rafiki. Три ночи в долине Savegre, две у Playa Matapalo и занятия на реке, в лесу и в манграх.",
+    "plan": "Приезжайте на основную базу, распределите две дневные активности, затем переезжайте к пляжу с гидом и проведите там два вечера.",
+    "conditions": "Гид подтверждает водный трансфер, погодную альтернативу, возраст и уровень воды. Координаты посадки и выгрузки приходят от владельцев.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Прибытие в долину",
+        "note": "Заселение на речной базе и согласование двух лесных активностей.",
+        "stops": [
+          "rafiki-savegre-river-glamping"
+        ],
+        "sources": [
+          "rafiki-savegre-six-days-package",
+          "rafiki-savegre-main-safari-tents"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Рафтинг или согласованная замена",
+        "note": "Водный день с гидом. Уточните возрастное окно и класс воды непосредственно перед выходом.",
+        "stops": [
+          "rafiki-savegre-river-glamping"
+        ],
+        "sources": [
+          "rafiki-savegre-six-days-package",
+          "rafiki-savegre-rafting-family"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Водопадная прогулка или верховой выезд",
+        "note": "Выберите вторую активность. Сообщите сопровождающему состав и опыт группы.",
+        "stops": [
+          "rafiki-savegre-river-glamping"
+        ],
+        "sources": [
+          "rafiki-savegre-six-days-package",
+          "rafiki-savegre-main-safari-tents"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Мангры и перенос к пляжному лагерю",
+        "note": "Сочетание трансфера и гребного участка до Matapalo из программы. Маршрут зависит от прилива и ветра.",
+        "stops": [
+          "rafiki-savegre-river-glamping",
+          "rafiki-matapalo-glamping-kayak"
+        ],
+        "sources": [
+          "rafiki-savegre-six-days-package",
+          "rafiki-matapalo-beach-camp"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Канопи и время на берегу",
+        "note": "Согласуйте канопи и окно для отдыха в Beach Camp.",
+        "stops": [
+          "rafiki-matapalo-glamping-kayak"
+        ],
+        "sources": [
+          "rafiki-savegre-six-days-package",
+          "rafiki-matapalo-beach-camp"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Утро у Матапало и выезд",
+        "note": "Проверьте завтрак, ранний выезд и связь с дорожным трансфером.",
+        "stops": [
+          "rafiki-matapalo-glamping-kayak"
+        ],
+        "sources": [
+          "rafiki-savegre-six-days-package",
+          "rafiki-matapalo-beach-camp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "canas-rivers-weekend-2",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Каньяс на выходные · спокойная Коробиси и выбор на Тенорио",
+    "native": "Cañas · Rincón Corobicí · Hacienda La Pacífica · Río Tenorio",
+    "days": 2,
+    "distance": null,
+    "level": "moderate",
+    "activities": [
+      "boat",
+      "rafting",
+      "river",
+      "wildlife",
+      "relax"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "rcr-corobici-river-safari",
+      "rcr-corobici-operator-approach",
+      "rcr-tenorio-whitewater-program",
+      "hacienda-la-pacifica-local-experiences",
+      "rcr-guanacaste-guest-reviews"
+    ],
+    "summary": "Две разные реки возле Cañas с одним ночлегом. Первый день на спокойной воде, второй по уровню компании.",
+    "plan": "Приехать в Cañas, пройти сафари-сплав и переночевать рядом. На следующий день выбрать тур Tenorio с гидом или повторить спокойную программу.",
+    "conditions": "Уточните возраст и воду для каждого выезда. Группа может выбрать общий спокойный день вместо спортивного участка.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Коробиси и ночёвка",
+        "note": "Выезд на спокойную воду, затем обед и заселение в районе Cañas.",
+        "stops": [
+          "corobici-canas-safari-float"
+        ],
+        "sources": [
+          "rcr-corobici-river-safari",
+          "hacienda-la-pacifica-local-experiences",
+          "rincon-corobici-guest-restaurant"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Тенорио для подготовленной группы или Corobicí",
+        "note": "Подтвердите доступ и уровень у RCR. Для семьи оставьте короткую прогулку или сафари.",
+        "stops": [
+          "tenorio-canas-whitewater-rcr",
+          "corobici-canas-safari-float"
+        ],
+        "sources": [
+          "rcr-tenorio-whitewater-program",
+          "rcr-corobici-river-safari",
+          "rcr-corobici-operator-approach"
+        ]
+      }
+    ]
   }
 ]

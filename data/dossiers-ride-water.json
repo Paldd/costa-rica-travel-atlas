@@ -873,7 +873,9 @@
     "nearby": [
       "sarapiqui-float",
       "sarapiqui-raft",
-      "pacuare-own-craft"
+      "pacuare-own-craft",
+      "sarapiqui-trivium-kayak-firstday",
+      "sarapiqui-kayak-camp-3"
     ],
     "track": "soc-jungle-kayak"
   },
@@ -947,7 +949,8 @@
       "pejibaye-weekend-local",
       "pejibaye-pack",
       "pacuare-own-craft",
-      "rios-lodge-own-kayak"
+      "rios-lodge-own-kayak",
+      "pejibaye-school-own-packraft"
     ],
     "track": "packraft-turrialba-report"
   }

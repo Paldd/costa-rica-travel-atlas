@@ -2,17 +2,47 @@
   "pejibaye-pack": {
     "stops": [
       {
+        "point": "pejibaye-escuela-taus-landmark",
+        "role": "Сухопутный ориентир · Escuela Taus",
+        "note": "Место получения ключа и проезд согласуйте с владельцем или местным гидом."
+      },
+      {
+        "point": "pejibaye-school-river-sector",
+        "role": "Район входа · школьный спуск",
+        "note": "Примерная точка на русле по шкале путеводителя. Проход через ворота подтверждается отдельно."
+      },
+      {
+        "point": "pejibaye-gato-river-junction",
+        "role": "Ориентир · впадение Río Gato",
+        "note": "Положение устья по OpenStreetMap."
+      },
+      {
+        "point": "pejibaye-footbridge-river-marker",
+        "role": "Пешеходный мост · ниже Río Gato",
+        "note": "Береговой ориентир из путеводителя."
+      },
+      {
+        "point": "pejibaye-cobble-takeout-area",
+        "role": "Район стандартного выхода",
+        "note": "Открытый и пригодный берег подтверждает сопровождающий и водитель."
+      },
+      {
+        "point": "pejibaye-ruta225-bridge",
+        "role": "Альтернативный район · мост Ruta 225",
+        "note": "Высадку согласуют заранее. Берег у моста зависит от уровня воды."
+      },
+      {
         "point": "pejibaye",
-        "role": "Район местного старта",
-        "note": "Точку посадки сообщают после сверки уровня воды."
+        "role": "После сплава · посёлок Pejibaye",
+        "note": ""
       },
       {
         "point": "la-roca",
-        "role": "Ориентир у Пехибайе",
-        "note": "Район посады Río del Valle и отдельных речных выходов."
+        "role": "Обед · La Roca",
+        "note": "Заезд можно согласовать отдельно от водной программы."
       }
     ],
-    "track": "pejibaye-pack-story",
+    "track": "pejibaye-gorafting-school-map",
     "sections": [
       {
         "title": "Пакрафт с проводником",
@@ -38,6 +68,15 @@
           "rividal-desc",
           "la-roca-main",
           "lamarta-trails"
+        ]
+      },
+      {
+        "title": "Выход и уровень воды",
+        "text": "В путеводителе есть типовой школьный старт, стандартная высадка и вариант до района моста Ruta 225. Для варианта с гидом POC согласуйте именно назначенный участок и доступ. Линия на карте сопоставляет районы по руслу.",
+        "sources": [
+          "pejibaye-gorafting-school-map",
+          "poc-pejibaye-local",
+          "pejibaye-travesias-local"
         ]
       }
     ],
@@ -66,25 +105,37 @@
     "nearby": [
       "rio-del-valle-camp",
       "pejibaye-weekend-local",
-      "pacuare-own-craft"
-    ]
+      "pacuare-own-craft",
+      "pejibaye-school-own-packraft"
+    ],
+    "line": "pejibaye-waterway-options"
   },
   "pacuare-own-craft": {
     "stops": [
       {
-        "point": "tres-equis",
-        "role": "Подъезд в район San Martín",
-        "note": "Ферма у Tres Equis служит общим ориентиром. Для старта следуйте отдельной схеме GoRafting."
+        "point": "pacuare-san-martin-river-sector",
+        "role": "Район начала нижнего сплава",
+        "note": "Старт по шкале GoRafting. Фактический съезд и участок прохождения согласовываются с местным оператором."
       },
       {
-        "point": "pacuare-lodge",
-        "role": "Речной ориентир",
-        "note": "Лоджи и каньон средней части реки."
+        "point": "rios-lodge-pacuare",
+        "role": "Речной ориентир · Ríos Lodge",
+        "note": "Доступ и возможность пристать подтверждает лодж."
       },
       {
-        "point": "siquirres",
-        "role": "Район выхода",
-        "note": "Выход ниже моста Ruta 32 описан в речном путеводителе. Согласуйте парковку и возврат."
+        "point": "pacuare-ruta32-river-bridge",
+        "role": "Ориентир перед финишем · Ruta 32",
+        "note": "В путеводителе шоссейный мост расположен перед обычным выходом."
+      },
+      {
+        "point": "pacuare-siquirres-takeout-sector",
+        "role": "Район выхода · после моста",
+        "note": "Точное место высадки и право подъезда уточните заранее с экипажем."
+      },
+      {
+        "point": "pacuare-exploradores-exploration-center",
+        "role": "Сухопутная база · Exploradores Outdoors",
+        "note": "Ориентир после высадки. Согласуйте заезд и пользование услугами центра отдельно."
       }
     ],
     "track": "pacuare-whitewater",
@@ -114,6 +165,16 @@
           "pacuare-guide-report",
           "pacuare-pack"
         ]
+      },
+      {
+        "title": "Сан-Мартин и выход у Ruta 32",
+        "text": "GoRafting указывает старт San Martín и выход у Siquirres после шоссейного моста. В атласе география русла привязана к этому мосту. Карта помогает спланировать трансфер, а фактические посадку, высадку и разрешение на дорогу подтверждает оператор.",
+        "sources": [
+          "pacuare-san-martin",
+          "pacuare-whitewater",
+          "exploradores-route32-pacuare-meet",
+          "osm-cr-points"
+        ]
       }
     ],
     "contacts": [
@@ -131,14 +192,15 @@
       "pacuare-day",
       "pacuare-weekend",
       "pejibaye-pack"
-    ]
+    ],
+    "line": "pacuare-lower-san-martin-siquirres"
   },
   "pacuare-weekend": {
     "stops": [
       {
         "point": "linda-vista",
-        "role": "Точка сбора POC",
-        "note": "Для двухдневной программы. Сверьте, где оставить машину."
+        "role": "Сбор Pacuare Outdoor Center · Lindavista",
+        "note": "Точка оператора с мая 2026. Дальнейший спуск организует POC."
       },
       {
         "point": "linda-vista-launch",
@@ -154,6 +216,16 @@
         "point": "siquirres",
         "role": "Район выхода с реки",
         "note": "Ориентир города. Точную точку высадки показывает оператор или речная карта."
+      },
+      {
+        "point": "pacuare-ruta32-river-bridge",
+        "role": "Ориентир перед финишем · Ruta 32",
+        "note": "В путеводителе шоссейный мост расположен перед обычным выходом."
+      },
+      {
+        "point": "pacuare-siquirres-takeout-sector",
+        "role": "Район выхода · после моста",
+        "note": "Точное место высадки и право подъезда уточните заранее с экипажем."
       }
     ],
     "track": "rioslodge-map",
@@ -181,6 +253,13 @@
           "rioslodge-map",
           "cr-ict-tips"
         ]
+      },
+      {
+        "title": "Точка встречи POC в Lindavista",
+        "text": "Pacuare Outdoor Center опубликовал обновлённую точку встречи в Lindavista в мае 2026 года. На карте эта метка относится к сбору и парковке. Фактический береговой старт сообщит команда при подтверждении программы.",
+        "sources": [
+          "poc-lindavista-meeting-may-2026"
+        ]
       }
     ],
     "contacts": [
@@ -198,7 +277,8 @@
       "pacuare-day",
       "pacuare-own-craft",
       "pacuare-avesol"
-    ]
+    ],
+    "line": "pacuare-lindavista-siquirres-waterway"
   },
   "pacuare-day": {
     "stops": [
@@ -496,7 +576,9 @@
       }
     ],
     "nearby": [
-      "arenal-paddle"
+      "arenal-paddle",
+      "laguna-hule-paddle-visit",
+      "laguna-rio-cuarto-paddle"
     ]
   },
   "catalinas-sup": {

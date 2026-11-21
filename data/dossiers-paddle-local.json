@@ -1,0 +1,930 @@
+{
+  "pejibaye-school-own-packraft": {
+    "stops": [
+      {
+        "point": "pejibaye-escuela-taus-landmark",
+        "role": "Сухопутный ориентир · Escuela Taus",
+        "note": "Место получения ключа и проезд согласуйте с владельцем или местным гидом."
+      },
+      {
+        "point": "pejibaye-school-river-sector",
+        "role": "Район входа · школьный спуск",
+        "note": "Примерная точка на русле по шкале путеводителя. Проход через ворота подтверждается отдельно."
+      },
+      {
+        "point": "pejibaye-gato-river-junction",
+        "role": "Ориентир · впадение Río Gato",
+        "note": "Положение устья по OpenStreetMap."
+      },
+      {
+        "point": "pejibaye-footbridge-river-marker",
+        "role": "Пешеходный мост · ниже Río Gato",
+        "note": "Береговой ориентир из путеводителя."
+      },
+      {
+        "point": "pejibaye-cobble-takeout-area",
+        "role": "Район стандартного выхода",
+        "note": "Открытый и пригодный берег подтверждает сопровождающий и водитель."
+      },
+      {
+        "point": "pejibaye-ruta225-bridge",
+        "role": "Альтернативный район · мост Ruta 225",
+        "note": "Высадку согласуют заранее. Берег у моста зависит от уровня воды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Вход и своя лодка",
+        "text": "По местному отчёту для школьного спуска нужен ключ. Команда GoRafting описывает маршрут для группы со своим или арендованным пакрафтом. До поездки договоритесь, кто открывает ворота, какое снаряжение и сопровождение нужно, где оставить машину и кто встретит на выходе.",
+        "sources": [
+          "pejibaye-gorafting-school-map",
+          "packraft-turrialba-report",
+          "poc-rent"
+        ]
+      },
+      {
+        "title": "Как читать километраж",
+        "text": "Около 5,5 км по шкале путеводителя от отметки 1,2 до 6,7. Мост Ruta 225 — дополнительный вариант. Русло собрано по OpenStreetMap. Положение школьного спуска и галечного выхода оценено по километражу от впадения Río Gato. Места входа и высадки сверяйте в день поездки.",
+        "sources": [
+          "pejibaye-gorafting-school-map",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Погода и короткий вариант",
+        "text": "В отчёте Pacuare Outdoor Center отмечен быстрый рост воды после дождя. Для новичков и семей у оператора есть вариант по подходящей воде с гидом. На суше добавьте ресторан La Roca или прогулку в La Marta.",
+        "sources": [
+          "poc-pejibaye-local",
+          "pejibaye-travesias-local",
+          "la-roca-main",
+          "lamarta-trails"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pacuare Outdoor Center",
+        "source": "poc-lindavista-meeting-may-2026",
+        "note": "Запросите уровень воды на Пехибайе, разрешение на вход, осмотр, сопровождение и заброску лодок.",
+        "phone": "+506 8922 4570",
+        "url": "https://pacuareoutdoorcenter.com/rentals/"
+      },
+      {
+        "name": "Travesías Naturales · Pejibaye",
+        "source": "pejibaye-travesias-local",
+        "note": "Местный оператор. Уточните формат с гидом, детей, спуск и место встречи.",
+        "url": "https://www.travesiasnaturales.com/rio-pejibaye/"
+      }
+    ],
+    "nearby": [
+      "pejibaye-pack",
+      "la-marta",
+      "la-roca-pejibaye",
+      "turrialba-packraft-3"
+    ],
+    "track": "pejibaye-gorafting-school-map",
+    "line": "pejibaye-waterway-options"
+  },
+  "tortuguero-mora-canoe-kayak": {
+    "stops": [
+      {
+        "point": "tortuguero-dock",
+        "role": "Прибытие в посёлок · пассажирский причал",
+        "note": "Общий транспортный ориентир."
+      },
+      {
+        "point": "tortuguero-cuatro-esquinas-station",
+        "role": "Регистрация · Cuatro Esquinas",
+        "note": "Получите текущие указания администрации парка по маршруту и посадке."
+      },
+      {
+        "point": "tortuguero-cano-mora-mouth",
+        "role": "Канал · начало линии Caño Mora",
+        "note": "Участок доступен по условиям на день визита."
+      },
+      {
+        "point": "tortuguero-cano-mora-forest-sector",
+        "role": "Лесной сектор · конец линии на карте",
+        "note": "Место фактического разворота уточняет местный гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Билет и выбор канала",
+        "text": "Парк учитывает вместимость маршрутов и направляет посетителей к открытым водным тропам. В официальном описании Caño Mora y Chiquero — гребной сектор для каноэ и каяка. Выбирайте время, когда у группы есть запас на оформление и трансфер обратно.",
+        "sources": [
+          "tort-acto",
+          "tortuguero-public-use-decree-35848",
+          "tortuguero-capacity-water-routing",
+          "acto-tortuguero-canal-map"
+        ]
+      },
+      {
+        "title": "Каноэ с местными гидами",
+        "text": "ASOPROTUR проводит поездки в небольшой группе и указывает около двух с половиной часов для типовой прогулки. Согласуйте возраст детей, размеры жилетов, расположение причала и правила возврата. Время и точный путь в мангровых и лесных ответвлениях зависят от воды и распределения посетителей.",
+        "sources": [
+          "asoprotur-tortuguero-canoe-tour",
+          "asoprotur-tortuguero-direct",
+          "tort-acto"
+        ]
+      },
+      {
+        "title": "Проверка своего каяка",
+        "text": "Перед тем как везти лодку, уточните у парка её тип, спуск, регистрацию и нужен ли гид для выбранного выезда. У общественного перевозчика отдельно согласуйте размер и перевозку багажа. На карте отмечен ориентир, где оформляют вход, и профиль русла одного канала.",
+        "sources": [
+          "tortuguero-public-use-decree-35848",
+          "tortuguero-capacity-water-routing",
+          "tort-smith",
+          "osm-cr-points"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASOPROTUR · местная ассоциация проводников",
+        "source": "asoprotur-tortuguero-direct",
+        "note": "Каноэ, гид, время встречи и условия для детей.",
+        "phone": "+506 2767 0836",
+        "url": "https://asoprotur.com/es/contact.html"
+      },
+      {
+        "name": "ACTO · Parque Nacional Tortuguero",
+        "source": "tort-acto",
+        "note": "Открытые каналы, распределение маршрутов, регистрация и правила своей лодки.",
+        "url": "https://www.acto.go.cr/informacion-turistica-parque-nacional-tortuguero/"
+      }
+    ],
+    "nearby": [
+      "tortuguero-no-car"
+    ],
+    "track": "acto-tortuguero-canal-map",
+    "line": "tortuguero-cano-mora-waterway"
+  },
+  "sarapiqui-trivium-kayak-firstday": {
+    "stops": [
+      {
+        "point": "la-virgen",
+        "role": "Ориентир · La Virgen",
+        "note": "Из посёлка несколько минут до базы."
+      },
+      {
+        "point": "soc-base",
+        "role": "Сбор и экипировка · Sarapiquí Outdoor Center",
+        "note": "Точную учебную воду и выход подбирает инструктор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать уровень",
+        "text": "Trivium предлагает вводный день, основы для текущей воды до класса I, затем следующий уровень для I–II. Можно также запросить индивидуальное занятие и выбрать время на устойчивость, управление лодкой и спокойные учебные отрезки.",
+        "sources": [
+          "soc-trivium-river-kayaking-classes",
+          "soc-kayak-clinic"
+        ]
+      },
+      {
+        "title": "Комплект и своя лодка",
+        "text": "У базы есть прокат. Спросите, входят ли лодка, шлем, жилет, юбка и весло в выбранную программу. При своём каяке попросите инструктора проверить пригодность комплекта к учебному участку.",
+        "sources": [
+          "soc-whitewater-boat-rental",
+          "soc-trivium-river-kayaking-classes"
+        ]
+      },
+      {
+        "title": "Первая поездка всей компанией",
+        "text": "У группы с разным опытом удобно развести вводное занятие и спокойный лодочный выезд с гидом. Отзывы гостей описывают, как инструкторы адаптируют программу к группе. Уточните время встречи и возврата у базы.",
+        "sources": [
+          "soc-sarapiqui-guest-experiences",
+          "sarapiqui-safari-float",
+          "soc-trivium-river-kayaking-classes"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sarapiquí Outdoor Center · Trivium Academy",
+        "source": "soc-trivium-river-kayaking-classes",
+        "note": "Уточните начальный уровень, возраст, комплект экипировки, длительность и доступ со своей лодкой.",
+        "phone": "+506 2761 1123",
+        "url": "https://costaricaraft.com/workshops"
+      },
+      {
+        "name": "Tolomuco Glamping · хозяева на базе Sarapiquí Outdoor Center",
+        "source": "tolomuco-glamping-host-listing",
+        "note": "Подтвердите вид размещения, кровати детям, общий санузел, доступ к воде и заезд.",
+        "url": "https://www.pitchup.com/es/campsites/costa_rica/heredia/sarapiqui/la-virgen/costa_rica_camping_lodge/"
+      }
+    ],
+    "nearby": [
+      "sarapiqui-kayak-camp-3",
+      "sarapiqui-float",
+      "tolomuco-river-glamping"
+    ]
+  },
+  "tolomuco-river-glamping": {
+    "stops": [
+      {
+        "point": "soc-base",
+        "role": "Размещение · территория Sarapiquí Outdoor Center",
+        "note": "Пин общей базы. Подтвердите подъезд к выбранному бунгало."
+      },
+      {
+        "point": "la-virgen",
+        "role": "Посёлок · еда и закупка",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Бунгало и быт",
+        "text": "У хозяев опубликованы компактные бунгало у реки. У некоторых общий санузел и свои полотенца. Перед заездом уточните постель, ступени и условия для детей. Для семей разного состава проверьте, какие блоки стоят рядом.",
+        "sources": [
+          "tolomuco-glamping-host-listing",
+          "soc-about"
+        ]
+      },
+      {
+        "title": "Через что договориться о воде",
+        "text": "Свяжите бронирование ночлега со временем каяк-школы или рафтинга. Спросите, какие уроки и снаряжение оплачиваются отдельно и где безопасно ждать группу.",
+        "sources": [
+          "tolomuco-glamping-host-listing",
+          "soc-trivium-river-kayaking-classes",
+          "soc-about"
+        ]
+      },
+      {
+        "title": "Местная еда",
+        "text": "Для отдельного приёма пищи есть деревенская soda в La Virgen. Отзывы о Soda El Kora полезны для выбора сытного обеда. Сверяйте часы и возможность заказа для группы.",
+        "sources": [
+          "soda-el-kora-guest-notes",
+          "tolomuco-glamping-host-listing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tolomuco Glamping · хозяева на базе Sarapiquí Outdoor Center",
+        "source": "tolomuco-glamping-host-listing",
+        "note": "Подтвердите вид размещения, кровати детям, общий санузел, доступ к воде и заезд.",
+        "url": "https://www.pitchup.com/es/campsites/costa_rica/heredia/sarapiqui/la-virgen/costa_rica_camping_lodge/"
+      },
+      {
+        "name": "Sarapiquí Outdoor Center · Trivium Academy",
+        "source": "soc-trivium-river-kayaking-classes",
+        "note": "Уточните начальный уровень, возраст, комплект экипировки, длительность и доступ со своей лодкой.",
+        "phone": "+506 2761 1123",
+        "url": "https://costaricaraft.com/workshops"
+      },
+      {
+        "name": "Soda El Kora · La Virgen",
+        "source": "soda-el-kora-guest-notes",
+        "note": "Местное кафе. Расписание и контакты в карточке с отзывами.",
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g1993207-d12149604-Reviews-Soda_El_Kora-La_Virgen_Sarapiqui_Province_of_Heredia.html"
+      }
+    ],
+    "nearby": [
+      "sarapiqui-trivium-kayak-firstday",
+      "sarapiqui-kayak-camp-3",
+      "sarapiqui-float"
+    ]
+  },
+  "sarapiqui-kayak-camp-3": {
+    "stops": [
+      {
+        "point": "la-virgen",
+        "role": "День 1 и 3 · подъезд, еда и дорога",
+        "note": ""
+      },
+      {
+        "point": "soc-base",
+        "role": "Дни 1–3 · одна база для проживания и уроков",
+        "note": "Пины фактического входа и выхода на реке отправляют гиды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Собрать поездку на одной базе",
+        "text": "Бронируйте бунгало и занимайтесь у местной команды. Если семья разного уровня, часть участников может выбрать лёгкую прогулку с гидом вместо учебного дня.",
+        "sources": [
+          "tolomuco-glamping-host-listing",
+          "soc-trivium-river-kayaking-classes",
+          "sarapiqui-safari-float"
+        ]
+      },
+      {
+        "title": "Прогресс вместе с инструктором",
+        "text": "Вводное занятие и следующий уровень — отдельные программы. Для третьего дня уточните готовность группы, формат урока, размер лодки и нужный комплект. При высокой воде инструктор может предложить береговое или другое учебное занятие.",
+        "sources": [
+          "soc-trivium-river-kayaking-classes",
+          "soc-kayak-clinic",
+          "soc-whitewater-boat-rental"
+        ]
+      },
+      {
+        "title": "Быт на выходные",
+        "text": "Уточните санузлы, полотенца, завтрак и ранний выезд. Для настоящей деревенской остановки после занятий подойдёт еда в La Virgen.",
+        "sources": [
+          "tolomuco-glamping-host-listing",
+          "soda-el-kora-guest-notes"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sarapiquí Outdoor Center · Trivium Academy",
+        "source": "soc-trivium-river-kayaking-classes",
+        "note": "Уточните начальный уровень, возраст, комплект экипировки, длительность и доступ со своей лодкой.",
+        "phone": "+506 2761 1123",
+        "url": "https://costaricaraft.com/workshops"
+      },
+      {
+        "name": "Tolomuco Glamping · хозяева на базе Sarapiquí Outdoor Center",
+        "source": "tolomuco-glamping-host-listing",
+        "note": "Подтвердите вид размещения, кровати детям, общий санузел, доступ к воде и заезд.",
+        "url": "https://www.pitchup.com/es/campsites/costa_rica/heredia/sarapiqui/la-virgen/costa_rica_camping_lodge/"
+      }
+    ],
+    "nearby": [
+      "sarapiqui-trivium-kayak-firstday",
+      "tolomuco-river-glamping",
+      "sarapiqui-float"
+    ]
+  },
+  "laguna-hule-paddle-visit": {
+    "stops": [
+      {
+        "point": "hule-entry",
+        "role": "Мирадор · парковка и подход",
+        "note": "Отсюда посетители обычно спускаются пешком."
+      },
+      {
+        "point": "hule-shore",
+        "role": "Водоём · ориентир лагуны",
+        "note": "Указана география воды. Конкретный допущенный береговой вход подтвердите у местных."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пеший подход с инвентарём",
+        "text": "Гостиница Finca 360° описывает около 6,5 км грунта в сторону Los Ángeles и опорную точку Mirador Bosque Alegre. Подход к воде идёт пешком. С доской или пакрафтом проверьте перенос, время обратного подъёма и место сборки.",
+        "sources": [
+          "finca360-bosque-alegre-hule",
+          "exploretikizia-hule-field-notes"
+        ]
+      },
+      {
+        "title": "Где можно выходить",
+        "text": "ICT включает каяк среди активностей в районе заповедника. Открытый вход, разрешение своего снаряжения, вид лодки и границы плавания подтвердите для конкретной лагуны у местной администрации. С погодой осадки и ветер могут менять планы.",
+        "sources": [
+          "hule-ict",
+          "finca360-bosque-alegre-hule"
+        ]
+      },
+      {
+        "title": "Сочетание с прогулкой",
+        "text": "На выходные оставьте возможность ограничиться мирадором и прогулкой к берегу. У Lago Río Cuarto другой въезд и другие владельцы берега.",
+        "sources": [
+          "exploretikizia-hule-field-notes",
+          "finca360-bosque-alegre-hule",
+          "finca360-rio-cuarto-lake"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca 360° · местная информация и размещение",
+        "source": "finca360-rio-cuarto-lake",
+        "note": "Уточните действующий береговой вход, спуск со своей доской или каяком, наличие проката и условия на день.",
+        "phone": "+1 979 219 2868",
+        "url": "https://finca360cr.com/es/actividades/laguna-de-rio-cuarto-es/"
+      }
+    ],
+    "nearby": [
+      "laguna-hule-trail",
+      "laguna-rio-cuarto-paddle"
+    ]
+  },
+  "laguna-rio-cuarto-paddle": {
+    "stops": [
+      {
+        "point": "laguna-rio-cuarto-lake-center",
+        "role": "Озеро · географический ориентир",
+        "note": "Точка в центре воды. Актуальный береговой спуск указывает хозяин частного входа."
+      },
+      {
+        "point": "rio-cuarto-lake-approach-orientation",
+        "role": "Восточный берег · ориентир по карте Finca 360°",
+        "note": "Местный доступ и плату уточните до выезда."
+      },
+      {
+        "point": "finca360-venecia-location",
+        "role": "Венесия · Finca 360° и местная информация",
+        "note": "Точка гостиницы. Инструкции по посещению водоёма приведены у оператора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Вход с берега",
+        "text": "Полевое исследование TEC описывает доступ через частную территорию с платой. Подтвердите, какой въезд открыт, часы, условия парковки и допустимость своего каяка или SUP. По опубликованной карточке Finca 360° у самого озера не следует рассчитывать на душевые.",
+        "sources": [
+          "tec-rio-cuarto-private-lake-access",
+          "finca360-rio-cuarto-lake",
+          "fiebre-viajar-rio-cuarto-first-hand"
+        ]
+      },
+      {
+        "title": "План на полдня",
+        "text": "До приезда договоритесь о береговом входе. Если хозяева подтверждают катание, спросите про жилет, спокойную сторону, время возвращения и возможности короткой прогулки. На воде ориентируйтесь по фактической погоде.",
+        "sources": [
+          "finca360-rio-cuarto-lake",
+          "fiebre-viajar-rio-cuarto-first-hand"
+        ]
+      },
+      {
+        "title": "Разница между озёрами",
+        "text": "Эта карточка относится к Laguna Río Cuarto. Заповедник Bosque Alegre и Laguna Hule находятся отдельно, туда ведёт другая дорога. Для обоих выездов проверяйте открытие.",
+        "sources": [
+          "mapcarta-laguna-rio-cuarto",
+          "hule-ict",
+          "finca360-bosque-alegre-hule"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca 360° · местная информация и размещение",
+        "source": "finca360-rio-cuarto-lake",
+        "note": "Уточните действующий береговой вход, спуск со своей доской или каяком, наличие проката и условия на день.",
+        "phone": "+1 979 219 2868",
+        "url": "https://finca360cr.com/es/actividades/laguna-de-rio-cuarto-es/"
+      }
+    ],
+    "nearby": [
+      "laguna-hule-paddle-visit",
+      "laguna-hule-trail"
+    ]
+  },
+  "savegre-abajo-family-14": {
+    "stops": [
+      {
+        "point": "rafiki-main-savegre-camp",
+        "role": "Ориентир · Rafiki в долине",
+        "note": "Здесь есть отдельная программа из речного лоджа."
+      },
+      {
+        "point": "savegre-el-silencio-community",
+        "role": "Район высадки · El Silencio",
+        "note": "Проверьте точный выход и встречу с машиной у организатора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор участка и время",
+        "text": "Около трёх часов на воде, пороги II–III и береговая остановка в долине. У программы Autentico возраст 12+. Выберите нижний участок и договоритесь о точке встречи в районе El Silencio. Попросите подтвердить, есть ли пауза у воды и возврат к машине.",
+        "sources": [
+          "savegre-autentico-abajo-14",
+          "ict-autentico-adventures-operator"
+        ]
+      },
+      {
+        "title": "Южная долина и береговая логистика",
+        "text": "Точки на карте относятся к общим береговым районам. Начало, конец и береговой подъезд нужно получить от гида. У Autentico опубликованы варианты трансфера с побережья и из San Isidro del General.",
+        "sources": [
+          "savegre-autentico-abajo-14",
+          "savegre-operator-current-sections",
+          "savegre-outward-bound-field-map"
+        ]
+      },
+      {
+        "title": "Условия и варианты с детьми",
+        "text": "Глубина, пороги и остановка у водопада зависят от сезона. У Rafiki отдельная заявленная программа со своим стартом и допуском детей по уровню воды. При сильных дождях попросите местную команду пересогласовать участок.",
+        "sources": [
+          "savegre-autentico-abajo-14",
+          "rafiki-savegre-rafting-family",
+          "savegre-operator-current-sections"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Autentico Adventures · местный рафтинг Savegre",
+        "source": "ict-autentico-adventures-operator",
+        "note": "Запросите 14 или 20 км, возраст, подтверждение береговых точек и трансфер из района Кепоса или Доминикаля.",
+        "url": "https://www.visitcostarica.com/planning-your-trip/local-agency/autentico-adventures-costa-rica"
+      },
+      {
+        "name": "Rafiki Safari Lodge / Beach Camp",
+        "source": "rafiki-main-and-beach-contact",
+        "note": "Подтвердите конкретный лагерь, состояние подъезда, темп и программу на реке.",
+        "url": "https://rafikisafari.com/wp/contact/"
+      }
+    ],
+    "nearby": [
+      "rafiki-savegre-river-glamping",
+      "rafiki-matapalo-glamping-kayak",
+      "savegre-medio-20-rapids"
+    ]
+  },
+  "savegre-medio-20-rapids": {
+    "stops": [
+      {
+        "point": "savegre-el-brujo-community",
+        "role": "Район посадки · El Brujo",
+        "note": "Точка посёлка. Береговой спуск уточняет оператор."
+      },
+      {
+        "point": "rafiki-main-savegre-camp",
+        "role": "Ориентир · Rafiki в долине",
+        "note": "Здесь есть отдельная программа из речного лоджа."
+      },
+      {
+        "point": "savegre-el-silencio-community",
+        "role": "Район высадки · El Silencio",
+        "note": "Проверьте точный выход и встречу с машиной у организатора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор участка и время",
+        "text": "Дневная программа вниз по долине с продолжительным сплавом и порогами III–IV. У Autentico указан возраст 14+. Согласуйте посадку в районе El Brujo и выход в районе El Silencio. Из-за длительности предусмотрите питание, транспорт и время возврата.",
+        "sources": [
+          "savegre-autentico-medio-20",
+          "ict-autentico-adventures-operator"
+        ]
+      },
+      {
+        "title": "Южная долина и береговая логистика",
+        "text": "Точки на карте относятся к общим береговым районам. Начало, конец и береговой подъезд нужно получить от гида. У Autentico опубликованы варианты трансфера с побережья и из San Isidro del General.",
+        "sources": [
+          "savegre-autentico-medio-20",
+          "savegre-operator-current-sections",
+          "savegre-outward-bound-field-map"
+        ]
+      },
+      {
+        "title": "Условия и варианты с детьми",
+        "text": "Глубина, пороги и остановка у водопада зависят от сезона. У Rafiki отдельная заявленная программа со своим стартом и допуском детей по уровню воды. При сильных дождях попросите местную команду пересогласовать участок.",
+        "sources": [
+          "savegre-autentico-medio-20",
+          "rafiki-savegre-rafting-family",
+          "savegre-operator-current-sections"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Autentico Adventures · местный рафтинг Savegre",
+        "source": "ict-autentico-adventures-operator",
+        "note": "Запросите 14 или 20 км, возраст, подтверждение береговых точек и трансфер из района Кепоса или Доминикаля.",
+        "url": "https://www.visitcostarica.com/planning-your-trip/local-agency/autentico-adventures-costa-rica"
+      },
+      {
+        "name": "Rafiki Safari Lodge / Beach Camp",
+        "source": "rafiki-main-and-beach-contact",
+        "note": "Подтвердите конкретный лагерь, состояние подъезда, темп и программу на реке.",
+        "url": "https://rafikisafari.com/wp/contact/"
+      }
+    ],
+    "nearby": [
+      "rafiki-savegre-river-glamping",
+      "rafiki-matapalo-glamping-kayak",
+      "savegre-abajo-family-14"
+    ],
+    "line": "savegre-el-brujo-silencio-waterway"
+  },
+  "rafiki-savegre-river-glamping": {
+    "stops": [
+      {
+        "point": "rafiki-main-savegre-camp",
+        "role": "Ночлег и водные программы · основная база",
+        "note": "Используйте маршрут из контакта оператора. Сверьте клиренс и часы заезда."
+      },
+      {
+        "point": "savegre-el-silencio-community",
+        "role": "Ориентир долины · El Silencio",
+        "note": "Местность для дорожной логистики, точную площадку встречы сообщает Rafiki."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Формат ночёвки",
+        "text": "У оператора сафари-палатки с настоящими кроватями и удобствами, есть отдельные пешие программы. При семейной поездке уточните кровати, расстояние до воды, подъезд и резервный план на дождь.",
+        "sources": [
+          "rafiki-savegre-main-safari-tents",
+          "rafiki-main-and-beach-contact"
+        ]
+      },
+      {
+        "title": "Рафтинг из лоджа",
+        "text": "Rafiki описывает прямой доступ к реке, проводников и возврат на машине после сплава. Возможность участия детей от шести лет оговорена уровнем реки. Подтвердите размер жилета, опыт семьи и допустимый участок.",
+        "sources": [
+          "rafiki-savegre-rafting-family",
+          "rafiki-savegre-main-safari-tents"
+        ]
+      },
+      {
+        "title": "Два лагеря",
+        "text": "Основной Rafiki стоит в долине. Beach Camp у Matapalo — отдельный береговой лагерь. Между ними существует организованный вариант через устье, по ветру и состоянию воды.",
+        "sources": [
+          "rafiki-savegre-main-safari-tents",
+          "rafiki-matapalo-beach-camp",
+          "rafiki-savegre-six-days-package"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rafiki Safari Lodge / Beach Camp",
+        "source": "rafiki-main-and-beach-contact",
+        "note": "Подтвердите конкретный лагерь, состояние подъезда, темп и программу на реке.",
+        "url": "https://rafikisafari.com/wp/contact/"
+      }
+    ],
+    "nearby": [
+      "rafiki-savegre-to-matapalo-6",
+      "savegre-abajo-family-14",
+      "rafiki-matapalo-glamping-kayak"
+    ]
+  },
+  "rafiki-matapalo-glamping-kayak": {
+    "stops": [
+      {
+        "point": "rafiki-matapalo-beach-camp-point",
+        "role": "Пляжная база · Rafiki Beach Camp",
+        "note": "Береговой ориентир из карты размещения. Посадку на каяк уточняют по дню."
+      },
+      {
+        "point": "gfzs-matapalo-road",
+        "role": "Подход · Ruta 34 в районе Matapalo",
+        "note": "Проверьте съезд из посёлка по схеме лагеря."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Каяк и берег",
+        "text": "Оператор описывает гребные прогулки в мангры и район устья Savegre. Встречу, длительность, размер лодки, прилив и возраст подтвердите напрямую. Вода и волна у открытого пляжа оцениваются отдельно от условий в манграх.",
+        "sources": [
+          "rafiki-matapalo-beach-camp",
+          "rafiki-main-and-beach-contact"
+        ]
+      },
+      {
+        "title": "Что спрашивать о ночёвке",
+        "text": "Гости описывают палатки с кроватями, бассейн и расположение близко к берегу. Сверьте размещение на семью и где поесть после завтрака. Это отдельная база от речного лоджа.",
+        "sources": [
+          "rafiki-matapalo-guest-notes",
+          "rafiki-matapalo-beach-camp"
+        ]
+      },
+      {
+        "title": "Соединить с речной базой",
+        "text": "Программа на пять ночей включает обе стороны, занятие у Rafiki в долине и переезд к Matapalo с каяком, когда условия подходят.",
+        "sources": [
+          "rafiki-savegre-six-days-package",
+          "rafiki-matapalo-beach-camp"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rafiki Safari Lodge / Beach Camp",
+        "source": "rafiki-main-and-beach-contact",
+        "note": "Подтвердите конкретный лагерь, состояние подъезда, темп и программу на реке.",
+        "url": "https://rafikisafari.com/wp/contact/"
+      }
+    ],
+    "nearby": [
+      "rafiki-savegre-to-matapalo-6",
+      "rafiki-savegre-river-glamping"
+    ]
+  },
+  "rafiki-savegre-to-matapalo-6": {
+    "stops": [
+      {
+        "point": "rafiki-main-savegre-camp",
+        "role": "Дни 1–3 · речной лагерь",
+        "note": ""
+      },
+      {
+        "point": "savegre-el-silencio-community",
+        "role": "Береговой ориентир долины",
+        "note": "Места посадки и высадки зависят от программы гида."
+      },
+      {
+        "point": "rafiki-matapalo-beach-camp-point",
+        "role": "Дни 4–6 · лагерная база у Matapalo",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроено проживание",
+        "text": "В опубликованном пакете первые три ночи в лесном лагере, последние две в пляжном. Заранее подтвердите категории палаток, состав активностей, питание, допуск детей и трансфер.",
+        "sources": [
+          "rafiki-savegre-six-days-package",
+          "rafiki-savegre-main-safari-tents",
+          "rafiki-matapalo-beach-camp"
+        ]
+      },
+      {
+        "title": "Два разных вида воды",
+        "text": "В долине выбирают рафтинг по условиям реки, у побережья выходят на каяках в мангры по приливу. Точки и линии прохождения сообщают проводники. При изменении погоды запросите сухопутную замену.",
+        "sources": [
+          "rafiki-savegre-rafting-family",
+          "rafiki-matapalo-beach-camp",
+          "rafiki-savegre-six-days-package"
+        ]
+      },
+      {
+        "title": "Проверка пляжной базы",
+        "text": "Отзывы гостей помогают сверить бытовые условия, тишину и расположение рядом с песком. По еде и трансферу уточняйте действующие часы у хозяев.",
+        "sources": [
+          "rafiki-matapalo-guest-notes",
+          "rafiki-matapalo-beach-camp",
+          "rafiki-main-and-beach-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rafiki Safari Lodge / Beach Camp",
+        "source": "rafiki-main-and-beach-contact",
+        "note": "Подтвердите конкретный лагерь, состояние подъезда, темп и программу на реке.",
+        "url": "https://rafikisafari.com/wp/contact/"
+      }
+    ],
+    "nearby": [
+      "rafiki-savegre-river-glamping",
+      "rafiki-matapalo-glamping-kayak",
+      "savegre-abajo-family-14"
+    ]
+  },
+  "corobici-canas-safari-float": {
+    "stops": [
+      {
+        "point": "canas-guanacaste-town",
+        "role": "Городской ориентир · Cañas",
+        "note": ""
+      },
+      {
+        "point": "rcr-rincon-corobici-meet",
+        "role": "Старт · база Rincón Corobicí",
+        "note": "Фактический береговой спуск и возврат по маршруту оператора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Чем отличается сафари",
+        "text": "Оператор описывает участок I–II, широкий русловой коридор и примерно два часа на воде. Уточните минимальный возраст, помощь при посадке и требования к детям. Сплав идёт с веслом, жилетом и сопровождением.",
+        "sources": [
+          "rcr-corobici-river-safari",
+          "rcr-corobici-operator-approach"
+        ]
+      },
+      {
+        "title": "Подача машины и выезд",
+        "text": "Сбор у ресторана Rincón Corobicí. Точку выхода на берег и транспорт обратно даёт команда. Для своего каяка нужен отдельно согласованный спуск и разрешение берегового владельца.",
+        "sources": [
+          "rcr-corobici-river-safari",
+          "rcr-corobici-operator-approach"
+        ]
+      },
+      {
+        "title": "Что пишут гости",
+        "text": "У RCR несколько рек. При чтении отзывов проверяйте, что описывают именно плавный Corobicí, а не спортивный Tenorio. Обед у базы можно запланировать отдельной остановкой.",
+        "sources": [
+          "rcr-guanacaste-guest-reviews",
+          "rincon-corobici-guest-restaurant",
+          "rcr-tenorio-whitewater-program"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "RCR Rafting Guanacaste",
+        "source": "rcr-corobici-operator-approach",
+        "note": "Точка сбора, возраст, уровень реки, жилеты и встреча у ресторана.",
+        "phone": "+506 4001 0662",
+        "url": "https://www.raftingguanacaste.com/es/como-llegar/",
+        "email": "reservas@rinconcorobici.com"
+      },
+      {
+        "name": "Hacienda La Pacífica · Cañas",
+        "source": "hacienda-la-pacifica-local-experiences",
+        "note": "Ночлег, местный ресторан и предложения на реке.",
+        "url": "https://www.pacificacr.com/es/experiencias.html"
+      }
+    ],
+    "nearby": [
+      "tenorio-canas-whitewater-rcr",
+      "canas-rivers-weekend-2"
+    ]
+  },
+  "tenorio-canas-whitewater-rcr": {
+    "stops": [
+      {
+        "point": "canas-guanacaste-town",
+        "role": "Ориентир · Cañas",
+        "note": ""
+      },
+      {
+        "point": "rcr-rincon-corobici-meet",
+        "role": "База связи · RCR",
+        "note": "Сбор у офиса, затем трансфер к береговому старту. Спуск и выход сообщает команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подобрать подходящий выезд",
+        "text": "В RCR разделены спокойный Corobicí и порожистый Tenorio. Уточните, какой тип подхода открыт, есть ли обход сложных порогов и требуется ли предыдущий опыт. Для спокойной семейной воды выбирайте отдельный сафари-сплав.",
+        "sources": [
+          "rcr-tenorio-whitewater-program",
+          "rcr-corobici-river-safari",
+          "ict-water"
+        ]
+      },
+      {
+        "title": "Подъезд, оборудование и условия",
+        "text": "На карте указана точка связи и сбора, а к речной посадке отвозит организатор. Попросите список выдаваемой экипировки, время возврата, порядок отмены и возможность перенести программу при высокой воде.",
+        "sources": [
+          "rcr-corobici-operator-approach",
+          "rcr-tenorio-whitewater-program",
+          "rcr-guanacaste-guest-reviews"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "RCR Rafting Guanacaste",
+        "source": "rcr-corobici-operator-approach",
+        "note": "Точка сбора, возраст, уровень реки, жилеты и встреча у ресторана.",
+        "phone": "+506 4001 0662",
+        "url": "https://www.raftingguanacaste.com/es/como-llegar/",
+        "email": "reservas@rinconcorobici.com"
+      }
+    ],
+    "nearby": [
+      "corobici-canas-safari-float",
+      "canas-rivers-weekend-2"
+    ]
+  },
+  "canas-rivers-weekend-2": {
+    "stops": [
+      {
+        "point": "canas-guanacaste-town",
+        "role": "День 1 · район Cañas",
+        "note": ""
+      },
+      {
+        "point": "rcr-rincon-corobici-meet",
+        "role": "Дни 1 и 2 · встреча у RCR",
+        "note": "Для Tenorio дальше нужен трансфер команды."
+      },
+      {
+        "point": "canas-hacienda-pacifica",
+        "role": "Вариант ночлега · La Pacífica",
+        "note": "Уточните место заезда и расписание ресторана."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Разный уровень в одной поездке",
+        "text": "Corobicí позволяет выбрать неспешный выезд. Tenorio подходит подготовленной компании при одобрении гида. Разделите желающих по уровню и проверьте, возвращаются ли обе группы к одному месту.",
+        "sources": [
+          "rcr-corobici-river-safari",
+          "rcr-tenorio-whitewater-program",
+          "rcr-corobici-operator-approach"
+        ]
+      },
+      {
+        "title": "Логистика ночёвки",
+        "text": "La Pacífica — вариант ночлега у Cañas. Обед в Rincón Corobicí можно согласовать со сплавом. Порядок трансфера и парковку подтверждайте накануне.",
+        "sources": [
+          "hacienda-la-pacifica-local-experiences",
+          "rcr-corobici-operator-approach",
+          "rincon-corobici-guest-restaurant"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "RCR Rafting Guanacaste",
+        "source": "rcr-corobici-operator-approach",
+        "note": "Точка сбора, возраст, уровень реки, жилеты и встреча у ресторана.",
+        "phone": "+506 4001 0662",
+        "url": "https://www.raftingguanacaste.com/es/como-llegar/",
+        "email": "reservas@rinconcorobici.com"
+      },
+      {
+        "name": "Hacienda La Pacífica · Cañas",
+        "source": "hacienda-la-pacifica-local-experiences",
+        "note": "Ночлег, местный ресторан и предложения на реке.",
+        "url": "https://www.pacificacr.com/es/experiencias.html"
+      }
+    ],
+    "nearby": [
+      "corobici-canas-safari-float",
+      "tenorio-canas-whitewater-rcr"
+    ]
+  }
+}

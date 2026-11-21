@@ -15,6 +15,11 @@
         "point": "tortuguero-town",
         "role": "Посёлок и база экскурсий",
         "note": "Сверьте место начала каноэ, каяка или встречи с гидом."
+      },
+      {
+        "point": "tortuguero-cuatro-esquinas-station",
+        "role": "Вход на каналы · Cuatro Esquinas",
+        "note": "Оформление посещения и указания парка на день."
       }
     ],
     "sections": [
@@ -35,6 +40,16 @@
           "tort-local-guide",
           "tort-ict"
         ]
+      },
+      {
+        "title": "Паромная переправа и гребной сектор",
+        "text": "Линия на карте показывает пассажирскую переправу La Pavona — Tortuguero по OpenStreetMap. Каналы внутри парка проходят отдельной экскурсией с оформлением в Cuatro Esquinas.",
+        "sources": [
+          "osm-cr-points",
+          "tort-smith",
+          "tort-acto",
+          "acto-tortuguero-canal-map"
+        ]
       }
     ],
     "contacts": [
@@ -52,9 +67,11 @@
     ],
     "nearby": [
       "tortuguero-canals",
-      "caribe-bus-3"
+      "caribe-bus-3",
+      "tortuguero-mora-canoe-kayak"
     ],
-    "track": "tort-smith"
+    "track": "tort-smith",
+    "line": "la-pavona-tortuguero-public-boat"
   },
   "tortuguero-canals": {
     "stops": [

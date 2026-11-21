@@ -23,5 +23,9 @@
   {"name":"Hacienda La Central · тропы и overlanding","url":"https://www.haciendalacentral.com/","paths":["/tour_","/act_","/posada-","/nuestra-"]},
   {"name":"Cross Costa Rica MTB · этапы и официальные GPX","url":"https://crosscostaricamtb.com/Home/Etapas","paths":["/descargar/gpx/","/home/"]},
   {"name":"Gran Fondo Zona Sur · Кепос и GPX","url":"https://www.fondozonasur.com/","paths":["/storage/gpx/","/storage/guia_tecnica/"]},
-  {"name":"Nosara MTB · местные тропы и велопрокат","url":"https://nosaramtb.com/the-guide/","paths":["/product/","/tours/","/product-category/"]}
+  {"name":"Nosara MTB · местные тропы и велопрокат","url":"https://nosaramtb.com/the-guide/","paths":["/product/","/tours/","/product-category/"]},
+  {"name":"Rafiki · глэмпинг и водные маршруты","url":"https://rafikisafari.com/wp/","paths":["/wp/experiences/","/wp/packages/","/wp/stay/"]},
+  {"name":"GoRafting · Pejibaye и местные речные участки","url":"https://gorafting.com/costa-rica/pejibaye-river/","paths":["/costa-rica/"]},
+  {"name":"RCR · реки Гуанакасте","url":"https://www.raftingguanacaste.com/es/safari-corobici-rio-floating/","paths":["/es/rio-","/es/safari-","/es/como-"]},
+  {"name":"Trivium Academy · занятия на Сарапики","url":"https://costaricaraft.com/workshops","paths":["/academy/","/workshops/","/rafting/","/kayaking/"]}
 ]

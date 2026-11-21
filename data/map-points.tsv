@@ -44,7 +44,7 @@ tinajas	Tinajas · точка встречи по программе	10.534234	-
 el-castillo	El Castillo · ориентир для проката	10.428731	-84.751902	osm-cr-points
 pelado-summit	Cerro Pelado возле Каньяса · вершина	10.366213	-85.017126	osm-cr-points
 hule-entry	Laguna Hule · официальный публичный вход	10.304375	-84.206192	hule-ict
-hule-shore	Laguna Hule · ориентир на берегу	10.298284	-84.207979	osm-cr-points
+hule-shore	Laguna Hule · географический ориентир	10.298284	-84.207979	osm-cr-points
 st-elena	Santa Elena · центр посёлка	10.316507	-84.824344	osm-cr-points
 st-elena-reserva	Reserva Bosque Nuboso Santa Elena · вход	10.343672	-84.796058	osm-cr-points
 chacarita-osa	Chacarita · развилка на полуостров Оса	8.800707	-83.255105	osm-cr-points
@@ -58,7 +58,7 @@ naranjo-beach	Playa Naranjo · Santa Rosa	10.788257	-85.673253	osm-cr-points
 la-virgen	La Virgen · Sarapiquí	10.399748	-84.136821	osm-cr-points
 soc-base	Sarapiquí Outdoor Center · база	10.391624	-84.137945	osm-cr-points
 chilamate	Chilamate · Sarapiquí	10.452328	-84.066143	osm-cr-points
-linda-vista	Pacuare Outdoor Center · точка встречи Linda Vista	9.987568	-83.567206	osm-cr-points
+linda-vista	Lindavista · сбор Pacuare Outdoor Center	9.9875303	-83.5671884	poc-lindavista-meeting-may-2026
 linda-vista-launch	Linda Vista Put-in · Río Pacuare	9.97951	-83.549807	osm-cr-points
 siquirres	Siquirres · город, ориентир выхода	10.097997	-83.50757	osm-cr-points
 pacuare-lodge	Pacuare Lodge · ориентир в каньоне	10	-83.5319444	file-pacuare-lodge-gps
@@ -350,3 +350,26 @@ hacienda-la-central-official-pin	Hacienda La Central · точка хозяев	
 la-pastora-turn-230	La Pastora · поворот с Ruta 230 на Calle La Central	9.9605306	-83.7498457	osm-cr-points
 aquiares-cafetal-village	Aquiares · кофейный посёлок	9.9404742	-83.7213372	osm-cr-points
 nosara-mtb-guiones-assembly	Guiones Norte · ориентир Gilded Iguana Athletic Center	9.9481309	-85.6693982	osm-cr-points
+pejibaye-school-river-sector	Río Pejibaye · расчётный район школьного спуска	9.7893473	-83.7183207	pejibaye-gorafting-school-map
+pejibaye-escuela-taus-landmark	Escuela Taus · ориентир на суше	9.7856339	-83.7177537	osm-cr-points
+pejibaye-gato-river-junction	Río Gato · впадает в Pejibaye	9.8204585	-83.6918112	osm-cr-points
+pejibaye-footbridge-river-marker	Пешеходный мост ниже Río Gato · география русла	9.8212995	-83.6913982	osm-cr-points
+pejibaye-cobble-takeout-area	Río Pejibaye · расчётный район обычного выхода	9.8233649	-83.6895408	pejibaye-gorafting-school-map
+pejibaye-ruta225-bridge	Río Pejibaye · мост Ruta 225	9.8343542	-83.6819929	osm-cr-points
+tortuguero-cuatro-esquinas-station	Cuatro Esquinas · пост SINAC и вход в парк	10.5378276	-83.504418	osm-cr-points
+tortuguero-cano-mora-mouth	Caño Mora · граница у основного канала	10.5285831	-83.5109775	osm-cr-points
+tortuguero-cano-mora-forest-sector	Caño Mora · лесной конец размеченной линии	10.5102686	-83.52969	osm-cr-points
+laguna-rio-cuarto-lake-center	Laguna Río Cuarto · центр озера	10.35604	-84.21687	mapcarta-laguna-rio-cuarto
+finca360-venecia-location	Finca 360° · гостиница в Венесии	10.313549	-84.2808227	finca360-rio-cuarto-lake
+rio-cuarto-lake-approach-orientation	Laguna Río Cuarto · береговой ориентир из путеводителя	10.35782918	-84.21405616	finca360-rio-cuarto-lake
+savegre-el-brujo-community	El Brujo · береговой район и посёлок	9.4252355	-83.9439778	osm-cr-points
+savegre-el-silencio-community	El Silencio · посёлок в долине Savegre	9.4110724	-84.0270845	osm-cr-points
+rafiki-main-savegre-camp	Rafiki Safari Lodge · речная база	9.4483041	-84.0246537	osm-cr-points
+rafiki-matapalo-beach-camp-point	Rafiki Beach Camp · Playa Matapalo	9.32385	-83.969364	rafiki-beach-camp-point-directory
+rcr-rincon-corobici-meet	RCR Rafting · Rincón Corobicí	10.4527947	-85.1295938	rcr-corobici-operator-approach
+canas-hacienda-pacifica	Hacienda La Pacífica · окрестности Cañas	10.4590457	-85.1323618	osm-cr-points
+canas-guanacaste-town	Cañas · центр города	10.4296202	-85.0932802	osm-cr-points
+pacuare-san-martin-river-sector	San Martín · расчётный район спуска на нижний Pacuare	9.952181	-83.5462779	pacuare-san-martin
+pacuare-ruta32-river-bridge	Río Pacuare · район шоссейного моста Ruta 32	10.0924777	-83.4865451	osm-cr-points
+pacuare-siquirres-takeout-sector	Río Pacuare · расчётный район выхода у Siquirres	10.0947809	-83.4855493	pacuare-whitewater
+pacuare-exploradores-exploration-center	Exploradores Outdoors · Exploration Center	10.0947222	-83.4916667	exploradores-route32-pacuare-meet
