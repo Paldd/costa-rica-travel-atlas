@@ -82,8 +82,8 @@ carara-map	official	ICT / SINAC · Carara	https://www.visitcostarica.com/sites/d
 los-suenos	operator	Vista Los Sueños Adventure Park	https://vistalossuenosadventurepark.com/	Канопи и организованные программы рядом с Эррадурой
 maverick	operator	Maverick Sportfishing · Эррадура	https://www.mavericksportfish.com/fishing-charters/	Официальные рыболовные чартеры из Los Sueños
 marina	operator	Marina Pez Vela · Кепос	https://www.marinapezvela.com/	Марина и морская логистика
-nauyaca	operator	Nauyaca Waterfall Nature Park	https://nauyacawaterfallnaturepark.com/	Отдельный оператор водопадов, варианты доступа проверяются по месту
-nauyaca-horses	operator	Nauyaca Waterfalls	https://nauyacawaterfall.com/	Подход со стороны Don Lulo и варианты экскурсии
+nauyaca	operator	Nauyaca Waterfall Nature Park	https://www.nauyacawaterfall.com/	Отдельный парк Nature Park со въездом через San Salvador
+nauyaca-horses	operator	Nauyaca Waterfalls	https://nauyacawaterfallscostarica.com/	Don Lulo, отдельная касса на стороне Platanillo
 cusinga	operator	La Cusinga Lodge	https://www.lacusingalodge.com/	Проживание и тропы Bahia Ballena
 laparios	operator	Lapa Rios Lodge	https://www.laparios.com/	Проживание и природные экскурсии на Осе
 remanso	operator	El Remanso Lodge	https://elremanso.com/	Тропы и размещение на Осе
@@ -97,7 +97,7 @@ tort-boat	operator	Tortuguero Adventures	https://tortuguero-adventures.com/	Ва
 salva	operator	Selvatura · Монте-Верде	https://selvatura.com/	Тропы, подвесные мосты и канопи
 tree	operator	Treetopia · Монте-Верде	https://treetopiapark.com/	Подвесные мосты и приключенческие туры
 monteverde	operator	Centro Científico Tropical · Reserva Monteverde	https://cloudforestmonteverde.com/	Вход и тропы частного заповедника
-curi	operator	Curi-Cancha · Монте-Верде	https://curicancha.com/	Природные экскурсии и сеть троп
+curi	operator	Curi-Cancha · Монте-Верде	https://reservacuricancha.com/es/	Текущий официальный сайт Reserva Curi-Cancha
 chira	operator	Chira Glamping · Монте-Верде	https://www.chiraglamping.com/	Глэмпинг и формат размещения
 piedra	official	Муниципалитет Монтес-де-Оро · Glamping Piedra Ángel	https://montesdeoro.go.cr/glamping-piedra-angel/	Глэмпинг и доступ в Монтес-де-Оро
 alas	operator	Alas Glamping	https://www.alasglamping-cr.com/es/	Подтверждение формата ночёвки и контакта
@@ -355,3 +355,85 @@ tenorio-recent-guide	experience	Aguaepipa · Rio Celeste, ноябрь 2026	http
 celeste-guanacaste-2026	experience	Vive Guanacaste · Рио-Селесте и тюбинг	https://viveguanacaste.com/destinos-de-paso/rio-celeste-guia-completa/	Местный разбор пешего маршрута и речного выезда за границей парка
 celeste-operator-tubing	operator	Río Celeste Aventuras · тюбинг в Катире	https://www.riocelesteaventuras.com/es/tours/aquatic-tubing-tour-rio-celeste	Программа около двух часов, правила возраста, экипировка и отмена по воде
 celeste-operator-contact	operator	Río Celeste Aventuras · место встречи и контакты	https://www.riocelesteaventuras.com/es/contact-us	База в Katira, координаты, WhatsApp и возврат с реки
+osa-sirena-sinac	official	SINAC · сектор Sirena и подходы	https://sinac.go.cr/ES/ac/acosa/pnc/Paginas/SectorSirena.aspx	Лодки и наземные подходы, станция, ночёвка и длины переходов
+osa-leona-sinac	official	SINAC · Carate и сектор La Leona	https://sinac.go.cr/ES/ac/acosa/pnc/Paginas/SectorLaLeona.aspx	3,5 км от Carate до входа, условия гида и пляжный переход
+osa-ict-account	experience	Visit Costa Rica · поездка из Дрейка в Корковадо	https://www.visitcostarica.com/blog/what-you-need-know-discover-corcovado	Отчёт о посадке, посещении Sirena и местной логистике
+osa-sirena-adi	official	SINAC · услуги ADI Corcovado–Carate в Sirena	https://www.sinac.go.cr/ES/ac/acosa/pnc/Documents/Afiche%20permiso%20de%20uso%20PNC.pdf	Контакт поставщика приюта и питания на станции
+sierpe-xplorer-logistics	operator	SierpeXplorer · расписание и места посадки, октябрь 2026	https://sierpexplorer.com/es/blog/bote-sierpe-bahia-drake-horarios-precios	Два пассажирских отправления, точные берега, парковка и высадка в воду
+sierpe-xplorer-contacts	operator	SierpeXplorer · связь и пассажирский причал	https://sierpexplorer.com/es/contact-us	Телефон, WhatsApp и пристань La Perla del Sur
+drake-road-utopia	operator	Utopia Drake Outdoors · дорога, автобус и лодка	https://www.utopiadrakeoutdoors.com/como-llegar-drake	Доступ по суше в зависимости от дождя и стыковка Палмар-Норте — Сьерпе
+cano-sinac-visit	official	SINAC · условия посещения острова Каньо	https://www.sinac.go.cr/ES/ac/acosa/Paginas/IsladelCa%C3%B1o.aspx	Резервация, зарегистрированный гид и разрешённые водные зоны
+cano-jade-contacts	operator	Costa Rica Jade Tours · связь	https://www.costaricajadetours.com/es/contacto/	Опубликованный телефон организатора и выбор программы
+marino-ballena-sector-map	official	SINAC · карта и контакты Marino Ballena	https://www.sinac.go.cr/ES/ac/Brochures/MarinoBallena_esp.pdf	Секторы Uvita, Colonia, Ballena и Piñuela, входы и правила
+imn-tides-table	official	IMN · таблица приливов	https://www.imn.ac.cr/web/imn/tabla-de-mareas	Прогноз уровня моря. Перед прогулкой уточните окно безопасного прохода у парка.
+piedras-ict-logistics	official	Visit Costa Rica · тропы и подъезд Piedras Blancas	https://www.visitcostarica.com/blog/explore-piedras-blancas-national-park	El Bonito, Gamba, тропы к побережью и условия организации
+esquinas-operator	operator	Esquinas Rainforest Lodge · La Gamba	https://www.esquinaslodge.com/	Местная база и экскурсии в лесу у Piedras Blancas
+corcovado-race-epic	event	Epic Trail · архив этапов Corcovado Stage Race	https://www.epictrailcr.com/corcovado-stage-race	Организатор, даты 19–20 сентября 2026 и описание этапов
+nauyaca-nature-visitor	operator	Nauyaca Waterfall Nature Park · схема своего въезда	https://www.nauyacawaterfall.com/detailed-visitors-guide/	Отдельный подъезд через San Salvador, маршрут 2,7 км и трансфер
+nauyaca-don-lulo-hike	operator	Don Lulo · пеший вход к Науяке	https://nauyacawaterfallscostarica.com/producto/caminata/	3,5 км от нижней стоянки, отдельная касса и опции 4×4
+nauyaca-independent	experience	Lonely Planet · два подхода к Науяке	https://www.lonelyplanet.com/points-of-interest/cataratas-nauyaca/1197328	Сравнение походов и расположения касс
+dominical-lesson-local	operator	Dominical Surf School · урок для начинающих	https://www.dominicalsurfschool.com/service-page/beginner-surf-lessons-dominical	Уроки, место встречи и тип программы
+dominicalito-school-local	operator	Dominicalito Tico Surf School	https://dominicalitoticosurfschoolcr.com/	Локальная школа в отдельной бухте Доминикалито
+dominical-local-directory	directory	Todo Dominical · местные школы и прокат	https://tododominical.com/c/surf	Споты, занятия, аренда досок и практические различия берегов
+pavones-surf-directory	directory	Todo Pavones · школы и прокат в Río Claro	https://todopavones.com/c/surf.html	Карта сообщества, локальные школы и выбор доски
+pavones-mystical-surf	operator	Mystical Surf School · местные инструкторы Павонеса	https://www.mysticalsurfschoolcr.com/	Уроки по опыту, место встречи и аренда
+lapa-nature-routes	operator	Lapa Rios · тропы и экскурсии Матапало	https://www.laparios.com/experiences-nature/	Лесные программы, наблюдение за природой и выходы в окрестностях
+lapa-family-trails	operator	Lapa Rios · прогулки для семей	https://www.laparios.com/family-vacation/	Короткие прогулки с проводником на территории лоджа
+lapa-rio-piro-partner	operator	Lapa Rios · тропы ранчо Piro	https://www.laparios.com/experiences-cultural-immersion-piro-ranch/	Партнёрская программа в отдельном хозяйстве и варианты длины
+cusinga-direct-contact	operator	La Cusinga Lodge · подъезд и связь	https://lacusingalodge.com/contact-us/	Точка у Costanera Sur, обычная машина, WhatsApp и почта
+cusinga-playa-arco	operator	La Cusinga Lodge · пеший подход к Playa Arco	https://lacusingalodge.com/playa-arco/	Маршрут из лоджа и пляж в пределах Marino Ballena
+cusinga-aracari	operator	Aracari · ресторан в La Cusinga	https://lacusingalodge.com/aracari-restaurant/	Местная кухонная остановка у частного заповедника
+uvita-dolphin-tour	operator	Dolphin Tours · лодка из Увиты	https://www.dolphintourcostarica.com/es/producto/observacion-de-ballenas-y-delfines/	Пляжная посадка, оператор и программа наблюдения за китами и дельфинами
+cerro-tortuguero-sinac-adi	official	SINAC · Cerro Tortuguero и местная ассоциация	https://www.sinac.go.cr/ES/atc/ct/Paginas/default.aspx	Мирадор, тропа и оператор ADI San Francisco
+cerro-tortuguero-acto	official	ACTO · Tortuguero и Cerro Tortuguero	https://www.acto.go.cr/parque-nacional-tortuguero-2/	Парковая логистика, Сан-Франсиско и отдельный режим тропы к вершине
+negra-puerto-local	operator	CBM Casitas · Playa Negra у Пуэрто-Вьехо	https://cbmcasitas.com/es/playa-negra	Пляж на северной окраине посёлка и варианты короткой прогулки
+negra-caribe-local-guide	operator	Crystal Jungle Villa · прогулка к Playa Negra	https://crystaljunglevilla.com/es/guias/guia-playa-negra-puerto-viejo/	Местные подходы, песок и различия условий между пляжами
+uva-caribe-kayak	operator	Caribe Sur · каяк в Punta Uva	https://caribesurcr.com/tour-item/sloth-and-kayak-tour/	Речной маршрут с местным гидом и точка встречи по брони
+uva-rental-caribbean	operator	Costa Rica Caribbean · прокат каяков Punta Uva	https://costaricacaribbean.com/activities/punta-uva-kayak	Речной прокат, программа и контакт владельца
+uva-local-hotel-guide	operator	Conga Hotel · речной каяк и короткая прогулка	https://www.congahotel.com/tours/punta-uva-kayak/	Речная программа и прогулка к видовой точке
+manzanillo-sinac-access	official	SINAC · доступность и тропа Manzanillo	https://www.sinac.go.cr/ES/turismo/Paginas/accinclus.aspx	Короткий доступный подход к мирадору и протяжённый путь вдоль сектора
+faith-glamp-home	operator	Faith Glamping Dome · купола и связь	https://faithglampingdomecr.com/en/home/	Публичные телефоны, услуги и условия проживания на Playa Grande
+faith-glamp-ict-english	official	ICT · подъезд и расположение Faith Glamping	https://www.visitcostarica.com/planning-your-trip/hotels/faith-glamping-dome-costa-rica	Расположение на Playa Grande, отдельный подъезд и проход к берегу
+jaguar-booking-public	operator	Jaguar Rescue Center · публичные экскурсии	https://www.jaguarrescue.foundation/SupportUs/Tours/PublicTour	Формат экскурсии, подход на автобусе или такси, продолжительность
+jaguar-arrival-contact	operator	Jaguar Rescue Center · подъезд и телефон	https://www.jaguarrescue.foundation/en-us/HowtoGetHere	Точка в Cocles и контакты центра
+barbilla-sinac-contact	official	SINAC · бронирование тропы Barbilla	https://www.sinac.go.cr/ES/ac/aclac/pnb/Paginas/contacto.aspx	Телефон парка и почта для согласования визита
+avesol-river-program	operator	Ave Sol · рафтинг, кабинки и доступ к лоджу	https://avesol.org/	Условия рафтинга с гидом и альтернативный подход через Bajo Tigre
+avellanas-learning	directory	Todo Tamarindo · школы и прокат на берегу	https://todotamarindo.com/c/surf.html	Местные школы, прокаты и выбор занятий вокруг Тамариндо
+diria-ict-access	official	Visit Costa Rica · маршруты и подъезд Diriá	https://es.visitcostarica.com/where-to-go/protected-areas/diria-national-park	Въезд через Arado, дороги от Santa Cruz и природные ориентиры
+diria-sinac-contacts	official	SINAC · телефоны охраняемых территорий	https://sinac.go.cr/ES/asp/Documents/Lista%20de%20tel%C3%A9fonos%20de%20las%20%C3%81reas%20Silvestres%20Protegidas.pdf	Телефон Parque Nacional Diriá
+barra-honda-and-diria-ict	official	ICT · Barra Honda и Diriá	https://www.ict.go.cr/flipbook/guias/PDF/TAMARINDO.pdf	Сухие леса, подход в парк и организация визита
+iguana-lesson-formats	operator	Iguana Surf · частный урок и группы	https://iguanasurf.net/blog/tips-from-our-tamarindo-surf-school-private-vs-group-surf-lessons/	Занятие с инструктором и варианты для семьи
+guiones-local-schools	operator	Nosara CR Surf School · уроки у северного входа Guiones	https://nosaracrsurfschool.com/surf-lessons/	Местная школа для разовых уроков, доски и начало занятий у северного входа
+montezuma-local-trails	experience	Montezuma Costa Rica · два подхода к водопадам	https://montezuma-costarica.com/es/places/montezuma-river-waterfalls/	Пеший подход от моста и доступ через частный сектор Sun Trails
+montezuma-october-2026	experience	Aguaepipa · Montezuma, октябрь 2026	https://proyectoaguaepipa.com/es/costa-rica/guides/montezuma	Местная логистика, подходы к водопадам и дорога без машины
+paquera-ferry-live	operator	Naviera Tambor · расписание и тарифы Paquera	https://navieratambor.com/horarios-y-tarifas	Фактические часы и условия перевозки пассажиров и машин
+cabo-sueco-ict	official	ICT · парк Cabo Blanco и подъезд через Cabuya	https://www.visitcostarica.com/sites/default/files/2024-10/GUIA%20DE%20PUNTARENAS.pdf	Направление подхода, длина отдельных участков и телефон
+cabo-sueco-sinac-length	official	SINAC · Sendero Sueco, 5 км до берега	https://sinac.go.cr/ES/transprncia/Actas%20CONAC%202022/2024/15%20-%20Acta%20Ordinaria%20N%C2%B015-2024.pdf	Описание официального пути Cabo Blanco и его длина
+cabo-blanco-qbl-10	experience	Qué Buen Lugar · Cabo Blanco, длинный выход на 10 км	https://quebuenlugar.com/es/lugares/reserva-natural-absoluta-cabo-blanco-el-origen-de-nuestras-reas-protegidas/	Маршрут от станции Cabuya до пляжа и обратно, местный опыт
+cabuya-local-guide	experience	Cabuya CR · тропы и небольшие кафе Cabuya	https://www.cabuyacr.com/cabuya-costa-rica/	Деревня, остановка на еду и подъезд к Sendero Sueco
+monteverde-visitor-center	operator	Monteverde Cloud Forest · вход, парковка и шаттл	https://cloudforestmonteverde.com/visit-the-preserve/	Точка регистрации ниже входа, трансфер и варианты пеших прогулок
+monteverde-routes-plan	official	Centro Científico Tropical · план троп Monteverde	https://cloudforestmonteverde.com/wp-content/uploads/2025/12/Plan-de-Gestion-Ecoturistica.pdf	Сеть около 13 км, восемь маршрутов и управление посещением
+curi-monteverde-chamber	directory	Cámara de Turismo · Reserva Curi-Cancha	https://exploremonteverde.com/es/place/reserva-curi-cancha/	Контакты резервата и местные условия посещения
+curi-local-guide	operator	Monteverde Expeditions · Curi-Cancha с гидом	https://www.monteverdeexpeditions.com/es/actividades/reserva-curi-cancha/	Место встречи у стойки, разные участки леса и размер группы
+selvatura-bridges-map	operator	Selvatura · восемь мостов и тропа	https://www.selvatura.com/es/tours-espanol/puentes-colgantes/	Около 3 км на земле и над лесом, условия прогулки
+selvatura-family-faq	operator	Selvatura · ограничения и погодные условия	https://www.selvatura.com/es/faqs/	Возраст и условия для канопи, варианты прогулок и логистика
+selvatura-contact-current	operator	Selvatura · адрес и связь	https://www.selvatura.com/contact/	Карта парковки, телефон и контакты оператора
+treetopia-tram-official	operator	Treetopia · Tree Tram	https://treetopiapark.com/es/cosas-que-hacer/teleferico/	Билет отдельно на подъёмник и длительность подъёма
+treetopia-visit-faq	operator	Treetopia · парковка, билеты и верхнее кафе	https://treetopiapark.com/faqs/	Выбор программы, кафе на верхней станции и заезд
+treetopia-contact-point	operator	Treetopia · контакт и местоположение	https://treetopiapark.com/contact-us/	Телефон и карта въезда в Monteverde
+chira-monteverde-directory	directory	Costa Rica Directory · Chira и ресторан San Lucas	https://thecostaricadirectory.com/monteverde/stay/chira-glamping-monteverde/	Подъезд от Santa Elena, семейные условия и ресторан по записи
+chira-family-units	operator	Chira · семейные купола, доступ и FAQ	https://chiraglamping.com/	Вместимость семейного купола, размещение и подъезд
+piedra-angel-municipal-point	official	Montes de Oro · координаты Piedra Ángel	https://montesdeoro.go.cr/mapa-de-pueblos/	Справочная муниципальная карта Miramar и Glamping Piedra Ángel
+carara-sinac-footpaths	official	SINAC · тропы и секторы Carara	https://www.sinac.go.cr/ES/ac/acopac/pnc/Paginas/default.aspx	Универсальная тропа, Laguna Meándrica и правила парка
+manuel-ict-footpaths	official	Visit Costa Rica · тропы Manuel Antonio	https://es.visitcostarica.com/blog/hiking-trails-manuel-antonio	Маршруты El Perezoso, Punta Catedral и дополнительные прогулки
+manuel-sinac-map	official	SINAC · карта Parque Nacional Manuel Antonio	https://www.sinac.go.cr/ES/turismo/Brochure%20ICT/Parque%20Nacional%20Manuel%20Antonio.pdf	Вход, пляжи и соединения пеших маршрутов
+herradura-adventure-faq	operator	Vista Los Sueños · возраст и программы	https://vistalossuenosadventurepark.com/our-company/faq/	Канопи от 4 лет, правила багги и квадроциклов, доступ к водопаду
+jaco-tico-surf	operator	Tico Surf Lessons · уроки в Jacó	https://ticosurflessons.com/	Точка у Calle Bohío и обучение по уровню
+jaco-local-surf-list	directory	Todo Jacó · сёрф-школы, доски и споты	https://todojaco.com/c/surf	Местные школы для первого урока и выезды для опытных
+maverick-herradura-departure	operator	Maverick · рыболовные выходы Los Sueños	https://www.mavericksportfish.com/fishing-charters/los-suenos/	Рейс из Herradura, длительность, услуги и лицензия
+incopesca-sport-fishing	official	INCOPESCA · спортивная и туристическая рыбалка	https://www.incopesca.go.cr/pesca/pesca_deportiva.aspx	Лицензия и порядок рыбалки. Сверяйте условия для своего рейса.
+dota-ict-forest	official	Visit Costa Rica · облачный лес San Gerardo de Dota	https://es.visitcostarica.com/blog/magical-natural-forest-san-gerardo-de-dota	Горный подъезд, долина Savegre и местные маршруты
+chira-uned-inventory	official	UNED · координаты Chira Glamping	https://www.uned.ac.cr/centros/images/monteverde/documentos/Inventario_Turstico_de_Monteverde.pdf	Инвентаризация туристических объектов Monteverde, карточка Chira на с. 136
+savegre-tec-point	official	Tecnológico de Costa Rica · координаты Savegre	https://repositoriotec.tec.ac.cr/server/api/core/bitstreams/07c1785a-3490-4400-9594-6b18c7e4004c/content	Полевой перечень геопривязок долины, объект H17
+savegre-local-trails	operator	Savegre Mountain Hotel · пять троп долины	https://www.savegre.com/en/blog/hiking-san-gerardo-de-dota/	Пять троп длиной от 400 м до 6,2 км, режим доступа
+herradura-marina-coordinates	directory	Asociación de Marinas · Los Sueños	https://www.costaricamarinas.org/members/marina-los-suenos/	Район порта и контакт службы марины

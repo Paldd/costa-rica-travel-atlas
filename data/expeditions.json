@@ -1570,5 +1570,153 @@
         ]
       }
     ]
+  },
+  {
+    "id": "drake-without-car-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Дрейк без машины · три дня с Корковадо",
+    "native": "Palmar Norte · Sierpe · Bahía Drake · Sirena",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "boat",
+      "hiking",
+      "forest",
+      "wildlife"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "sierpe-xplorer-logistics",
+      "drake-road-utopia",
+      "osa-sirena-sinac",
+      "osa-ict-account"
+    ],
+    "summary": "Пассажирская лодка через мангры, две ночи у Agujitas и один день в секторе Sirena.",
+    "plan": "Из Palmar Norte доберитесь до пассажирского причала Sierpe. Следующий день посвятите организованной экскурсии, на третий вернитесь по воде.",
+    "conditions": "Стыковку автобуса, такси и лодки проверьте заранее. На пляжной высадке нужны подходящая обувь и запас времени.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Palmar Norte — Сьерпе — Дрейк",
+        "note": "Уточните автобус или такси до La Perla del Sur. Лодка высаживает у берега Agujitas. Ночёвка в пешей доступности от согласованной точки встречи.",
+        "stops": [
+          "sierpe-boat"
+        ],
+        "sources": [
+          "sierpe-xplorer-logistics",
+          "drake-road-utopia"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Экскурсия в сектор Sirena",
+        "note": "Ранний лодочный выезд с зарегистрированным гидом. Согласуйте программу под уровень ходьбы группы.",
+        "stops": [
+          "corcovado-sirena"
+        ],
+        "sources": [
+          "osa-sirena-sinac",
+          "osa-ict-account"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Возвращение через Сьерпе",
+        "note": "Сверьте фактическое время катера и оставьте резерв на автобус до следующего города.",
+        "stops": [
+          "sierpe-boat"
+        ],
+        "sources": [
+          "sierpe-xplorer-logistics"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "avesol-pacuare-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Три дня на Пакуаре · сплав и ночёвки в Ave Sol",
+    "native": "Río Pacuare · Ave Sol River Sanctuary · Bajo Tigre",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "rafting",
+      "river",
+      "forest",
+      "hiking"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "avesol-river-program",
+      "pacuare-whitewater",
+      "avesol"
+    ],
+    "summary": "Сплав с местным экипажем, два ночлега у реки и лесной день в каньоне.",
+    "plan": "Согласуйте посадку и трёхдневную программу с Ave Sol. Средний день оставьте для леса, на последний подтвердите сплав и наземный возврат.",
+    "conditions": "Оператор указывает возраст от 12 лет. Класс и доступность порогов зависят от уровня воды, лодку и подъезд согласовывает организатор.",
+    "distance": 36,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Согласованный сплав до лагеря",
+        "note": "Организатор подтверждает трансфер, точку входа и распределение снаряжения. Ночь в Ave Sol.",
+        "stops": [
+          "pacuare-avesol"
+        ],
+        "sources": [
+          "avesol-river-program"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лес и второй вечер у реки",
+        "note": "Уточните длину выходов по частному заповеднику и программу с местными гидами.",
+        "stops": [
+          "pacuare-avesol"
+        ],
+        "sources": [
+          "avesol-river-program"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Нижний сплав и выход",
+        "note": "Экипаж выбирает участок по воде. Время посадки в наземный транспорт подтверждается отдельно.",
+        "stops": [
+          "pacuare-avesol"
+        ],
+        "sources": [
+          "avesol-river-program"
+        ]
+      }
+    ]
   }
 ]

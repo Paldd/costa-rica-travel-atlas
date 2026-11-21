@@ -48,7 +48,7 @@ hule-shore	Laguna Hule · ориентир на берегу	10.298284	-84.20797
 st-elena	Santa Elena · центр посёлка	10.316507	-84.824344	osm-cr-points
 st-elena-reserva	Reserva Bosque Nuboso Santa Elena · вход	10.343672	-84.796058	osm-cr-points
 chacarita-osa	Chacarita · развилка на полуостров Оса	8.800707	-83.255105	osm-cr-points
-sierpe-ferry	Sierpe · автомобильный паром	8.858659	-83.472378	osm-cr-points
+sierpe-ferry	Sierpe · район пассажирских причалов	8.858659	-83.472378	osm-cr-points
 progreso	El Progreso · Баия-Дрейк	8.71494	-83.633442	osm-cr-points
 ganadito-camp	Ganadito Camping · Баия-Дрейк	8.730712	-83.648047	ganadito-map
 drake-town	Agujitas de Drake · посёлок	8.68907	-83.664521	osm-cr-points
@@ -146,3 +146,65 @@ tenorio-falls	Catarata Río Celeste · обзор у водопада	10.7037571
 tenorio-borbollones	Borbollones · выходы газа на реке	10.7021259	-84.9958401	osm-cr-points
 tenorio-tenideros	Teñideros · место смешения воды	10.7005668	-84.9970139	osm-cr-points
 celeste-katira-base	Río Celeste Aventuras · база Katira	10.724615	-84.91449	celeste-operator-contact
+sierpe-perla	La Perla del Sur · пассажирская посадка, Сьерпе	8.859904	-83.472828	sierpe-xplorer-logistics
+drake-agujitas-landing	Playa Agujitas · пассажирская высадка, Дрейк	8.692127	-83.663767	sierpe-xplorer-logistics
+osa-carate	Carate · конец дорожного подъезда	8.443048	-83.460147	osm-cr-points
+osa-leona-post	La Leona · район поста рейнджеров	8.448589	-83.4856	osm-cr-points
+osa-sirena-landing	Sirena · ориентир лодочной высадки	8.470381	-83.592925	osm-cr-points
+osa-sirena-station	Sirena · район станции	8.473332	-83.590441	osm-cr-points
+esquinas-lodge-point	Esquinas Rainforest Lodge · база у Ла-Гамба	8.698723	-83.204639	osm-cr-points
+nauyaca-nature-check	Nauyaca Nature Park · касса в San Salvador	9.2563836	-83.7957233	osm-cr-points
+nauyaca-lulo-parking	Don Lulo · нижняя платная стоянка	9.2661824	-83.8246284	osm-cr-points
+nauyaca-upper-landmark	Catarata Nauyaca · ориентир верхнего каскада	9.2548723	-83.8070393	osm-cr-points
+nauyaca-lower-landmark	Catarata Nauyaca · район нижнего каскада	9.254635	-83.8075411	osm-cr-points
+dominical-school-local	Dominical Surf School · встреча у пляжа	9.252814	-83.864947	osm-cr-points
+dominicalito-surf-area	Dominicalito · район школы и пляжа	9.2334437	-83.841828	osm-cr-points
+rio-claro-pavones	Río Claro de Pavones · посёлок и берег	8.3948173	-83.1347827	osm-cr-points
+lapa-rios-reception	Lapa Rios Lodge · район базы в Матапало	8.4003528	-83.2852958	osm-cr-points
+cusinga-reception	La Cusinga Lodge · ориентир по карте лоджа	9.1354525	-83.7203156	cusinga-direct-contact
+marino-uvita-gate	Sector Uvita · район входа Las Esferas	9.1565061	-83.7477321	osm-cr-points
+punta-ballena-tide	Punta Uvita · район оконечности косы	9.146888	-83.761332	osm-cr-points
+puerto-jimenez-port	Puerto Jiménez · район муниципального причала	8.5424976	-83.3038732	osm-cr-points
+cerro-jetty	Cerro Tortuguero · лодочный подход	10.585132	-83.524237	osm-cr-points
+cerro-mirador	Mirador Cerro Tortuguero	10.5856091	-83.5265433	osm-cr-points
+san-francisco-cerro	San Francisco de Tortuguero · район причала	10.5791236	-83.5255702	osm-cr-points
+puerto-viejo-center	Puerto Viejo de Talamanca · ориентир центра	9.656494	-82.753565	osm-cr-points
+puertoviejo-negra-shore	Playa Negra · северная окраина Puerto Viejo	9.655493	-82.765815	osm-cr-points
+punta-uva-view-point	Punta Uva · ориентир мирадора	9.6411138	-82.6934571	osm-cr-points
+punta-uva-shore-area	Punta Uva · береговой ориентир	9.641637	-82.688293	osm-cr-points
+manzanillo-refugio-entry	Manzanillo · подход в сектор заказника	9.6358327	-82.6526309	osm-cr-points
+manzanillo-viewpoint	Mirador de Manzanillo · береговой ориентир	9.6398702	-82.6492766	osm-cr-points
+jaguar-rescue-gate	Jaguar Rescue Center · вход в Cocles	9.642115	-82.723328	osm-cr-points
+avesol-river-lodge	Ave Sol River Sanctuary · база у реки	9.997703	-83.538057	osm-cr-points
+avellanas-camp-area	Playa Avellanas · дорожный ориентир	10.231272	-85.833733	osm-cr-points
+barra-honda-ranger-area	Barra Honda · ориентир зоны парка	10.176011	-85.37215	osm-cr-points
+diria-arado-area	Arado · ориентир подъезда из Santa Cruz	10.224232	-85.5979341	osm-cr-points
+guiones-north-area	Guiones Norte · ориентир района школ	9.949369	-85.670196	osm-cr-points
+carrillo-lookout	Mirador de Carrillo	9.8655116	-85.4826021	osm-cr-points
+carrillo-shore-area	Playa Carrillo · береговой ориентир	9.8694169	-85.5001152	osm-cr-points
+nalu-carmen-area	Playa Carmen · район уроков у Santa Teresa	9.6278916	-85.1506347	osm-cr-points
+montezuma-center	Montezuma · центр посёлка	9.655148	-85.068249	osm-cr-points
+paquera-port-point	Puerto Paquera · район автомобильного парома	9.829503	-84.903302	osm-cr-points
+puntarenas-terminal-point	Puntarenas · терминал рейса в Paquera	9.978037	-84.848974	osm-cr-points
+cabo-cabuya-entry	Cabo Blanco · ориентир входа Cabuya	9.5867804	-85.0928079	osm-cr-points
+monteverde-gate	Reserva Monteverde · ориентир входа в лес	10.302472	-84.7953615	osm-cr-points
+curi-cancha-gate	Curi-Cancha · вход в резерват	10.3066074	-84.8074211	osm-cr-points
+selvatura-park-gate	Selvatura Park · ориентир парковки	10.3422489	-84.7985657	osm-cr-points
+piedra-angel-glamp	Glamping Piedra Ángel · Montes de Oro	10.162504	-84.735446	piedra-angel-municipal-point
+miramar-town	Miramar · ориентир кантонального центра	10.090899	-84.729718	piedra-angel-municipal-point
+carara-reception	Carara · район основной станции	9.780861	-84.606059	osm-cr-points
+carara-laguna-access	Carara · северный ориентир Laguna Meándrica	9.7931382	-84.6022683	osm-cr-points
+vista-suenos-herradura	Vista Los Sueños · въезд Herradura	9.675092	-84.6334742	los-suenos
+jaco-beach-center	Playa Jacó · ориентир центрального берега	9.614734	-84.631769	osm-cr-points
+hermosa-jaco-shore	Playa Hermosa de Garabito · берег южнее Jacó	9.576	-84.606742	osm-cr-points
+manuel-antonio-puesto	Manuel Antonio · пункт входа	9.3911819	-84.1453985	osm-cr-points
+manuel-catedral-point	Punta Catedral · ориентир полуострова	9.377904	-84.146786	osm-cr-points
+manuel-gemelas-view	Manuel Antonio · смотровая в сторону Gemelas	9.3784959	-84.1453326	osm-cr-points
+chira-glamp-approach	Chira Glamping · район Cerro Plano	10.3186	-84.8191	chira-uned-inventory
+savegre-dota-base	Savegre Mountain Hotel · район базы в San Gerardo	9.550769	-83.808042	savegre-tec-point
+treetopia-gate	Treetopia · площадка у въезда в Monteverde	10.3374642	-84.8099607	treetopia-contact-point
+faith-glamp-gate	Ruta Hotel Almendros y Corales · ориентир подъезда	9.6314715	-82.6728697	osm-cr-points
+santateresa-shore-reference	Santa Teresa · район берегового подъезда севернее Carmen	9.6446511	-85.1678952	osm-cr-points
+montezuma-river-start	Мост Río Montezuma · начало речного подхода	9.650815	-85.069419	osm-cr-points
+cabo-blanco-shore	Playa Cabo Blanco · береговой разворот	9.5655763	-85.1093041	osm-cr-points
+los-suenos-marina-point	Los Sueños Marina · район порта в Herradura	9.651643	-84.652962	herradura-marina-coordinates

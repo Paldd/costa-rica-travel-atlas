@@ -1,0 +1,2370 @@
+{
+  "corcovado-sirena": {
+    "stops": [
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Район высадки в Дрейке",
+        "note": "Для экскурсии в Sirena гид подтвердит отдельное утреннее место встречи."
+      },
+      {
+        "point": "osa-sirena-landing",
+        "role": "Sirena · высадка на берег",
+        "note": "Капитан выбирает момент и место высадки по волнению."
+      },
+      {
+        "point": "osa-sirena-station",
+        "role": "Станция и начало внутренних троп",
+        "note": "Пешие петли определяет зарегистрированный гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "День из Дрейка или ночь на станции",
+        "text": "Сектор принимает лодочные программы из Дрейка, Пуэрто-Хименеса и Сьерпе. Уточните, какой порт входит в тур, насколько мокрой будет высадка и сколько часов остаётся на тропы. Для ночёвки у станции отдельно оформляют койку и питание.",
+        "sources": [
+          "osa-sirena-sinac",
+          "osa-ict-account",
+          "osa-sirena-adi"
+        ]
+      },
+      {
+        "title": "Наземные переходы — отдельные экспедиции",
+        "text": "По данным SINAC от La Leona идут примерно 16,5 км, от Los Patos около 23 км. Это ориентиры в одну сторону. Согласуйте открытие маршрута, прилив, переправы и план выхода с местным зарегистрированным проводником. Время зависит от грунта, воды и группы.",
+        "sources": [
+          "osa-sirena-sinac",
+          "osa-leona-sinac",
+          "corcovado"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Área de Conservación Osa",
+        "source": "corcovado",
+        "note": "Действующее оформление визита, часы секторов и список зарегистрированных проводников.",
+        "phone": "+506 2735 5036",
+        "email": "acosa.reservaciones@sinac.go.cr"
+      },
+      {
+        "name": "ADI Corcovado–Carate · Sirena",
+        "source": "osa-sirena-adi",
+        "note": "Подтверждение спального места и питания для перехода с ночёвкой.",
+        "phone": "+506 2735 5525",
+        "email": "reservaciones@parquecorcovado.org"
+      },
+      {
+        "name": "SierpeXplorer",
+        "source": "sierpe-xplorer-contacts",
+        "note": "Часы пассажирской лодки, причал, состояние моря и парковка.",
+        "phone": "+506 6232 5199",
+        "url": "https://wa.me/50662325199",
+        "email": "info@sierpexplorer.com"
+      }
+    ],
+    "nearby": [
+      "corcovado-leona",
+      "cano-island",
+      "osa-expedition-6"
+    ],
+    "track": "osa-sirena-sinac"
+  },
+  "corcovado-leona": {
+    "stops": [
+      {
+        "point": "osa-carate",
+        "role": "Carate · начало пешего подхода",
+        "note": "До Carate согласуйте 4×4 или местный транспорт из Пуэрто-Хименеса."
+      },
+      {
+        "point": "osa-leona-post",
+        "role": "La Leona · контроль входа",
+        "note": "У поста начинается парк и согласованный маршрут проводника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Начните с доступного дня",
+        "text": "По данным SINAC, от Carate около 3,5 км по береговому подходу в одну сторону. Дневной план можно построить с возвратом в Carate после визита в сектор. Согласуйте часы допуска, маршрут у гида и машину на обратную дорогу.",
+        "sources": [
+          "osa-leona-sinac",
+          "corcovado",
+          "sinac"
+        ]
+      },
+      {
+        "title": "Дальний вариант La Leona — Sirena",
+        "text": "Пляжный участок до станции добавляет около 16,5 км по данным SINAC. Гид согласует время на приливы и речные участки. В экспедиционном плане подтверждают ночёвку и способ выхода, а при закрытии сектора выбирают лодочный дневной тур.",
+        "sources": [
+          "osa-leona-sinac",
+          "osa-sirena-sinac",
+          "osa-sirena-adi"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Área de Conservación Osa",
+        "source": "corcovado",
+        "note": "Действующее оформление визита, часы секторов и список зарегистрированных проводников.",
+        "phone": "+506 2735 5036",
+        "email": "acosa.reservaciones@sinac.go.cr"
+      },
+      {
+        "name": "ADI Corcovado–Carate · Sirena",
+        "source": "osa-sirena-adi",
+        "note": "Подтверждение спального места и питания для перехода с ночёвкой.",
+        "phone": "+506 2735 5525",
+        "email": "reservaciones@parquecorcovado.org"
+      }
+    ],
+    "nearby": [
+      "corcovado-sirena",
+      "osa-expedition-6"
+    ],
+    "track": "osa-leona-sinac"
+  },
+  "cano-island": {
+    "stops": [
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Дрейк · район встречи и посадки",
+        "note": "Jade Tours указывает пляж Colorada. Сверьте свой пин с гидом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Снорклинг в охраняемой акватории",
+        "text": "SINAC допускает водные экскурсии в установленных зонах с зарегистрированным проводником. Подтвердите, что у организатора есть пропуск на выбранную дату, снаряжение по размеру и согласованный план для группы. Локацию в воде выбирает капитан по условиям.",
+        "sources": [
+          "cano-sinac-visit",
+          "cano-snorkel"
+        ]
+      },
+      {
+        "title": "Как совместить с Корковадо",
+        "text": "Jade Tours описывает ранний выезд и два захода в воду. Разнесите Каньо и Sirena на разные дни. Опыт наблюдения за животными и видимость под водой зависят от моря. При плохой погоде оставьте резерв на перенос.",
+        "sources": [
+          "cano-sinac-visit",
+          "cano-snorkel",
+          "osa-ict-account"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Rica Jade Tours",
+        "source": "cano-jade-contacts",
+        "note": "Экскурсия на Каньо, подходящий возраст и место встречи на берегу.",
+        "phone": "+506 2777 0932"
+      },
+      {
+        "name": "SINAC · Área de Conservación Osa",
+        "source": "corcovado",
+        "note": "Действующее оформление визита, часы секторов и список зарегистрированных проводников.",
+        "phone": "+506 2735 5036",
+        "email": "acosa.reservaciones@sinac.go.cr"
+      },
+      {
+        "name": "SierpeXplorer",
+        "source": "sierpe-xplorer-contacts",
+        "note": "Часы пассажирской лодки, причал, состояние моря и парковка.",
+        "phone": "+506 6232 5199",
+        "url": "https://wa.me/50662325199",
+        "email": "info@sierpexplorer.com"
+      }
+    ],
+    "nearby": [
+      "corcovado-sirena",
+      "osa-expedition-6",
+      "sierpe-boat"
+    ],
+    "track": "cano-sinac-visit"
+  },
+  "piedras-blancas": {
+    "stops": [
+      {
+        "point": "esquinas-lodge-point",
+        "role": "База у La Gamba",
+        "note": "Для самостоятельного визита в El Bonito узнайте у SINAC другой въезд и состояние переправ."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два подхода к лесу",
+        "text": "El Bonito — официальный сектор с палаточной зоной. По данным SINAC, дорога от La Gamba требует 4×4, при высокой воде проезд бывает невозможен. Вариант на день — договориться о лесной прогулке из Esquinas, где маршрут и условия визита уточняют у лоджа.",
+        "sources": [
+          "piedras",
+          "sinac",
+          "esquinas-operator"
+        ]
+      },
+      {
+        "title": "Из леса к берегу",
+        "text": "SINAC публикует около 5,5 км на El Tajo, примерно 1 км по связке La Ceiba и 3,6 км к Playa San Josecito. Узнайте про разворот, способ возвращения и доступность всех звеньев. Для короткого визита согласуйте только ближнюю часть сети.",
+        "sources": [
+          "piedras",
+          "piedras-ict-logistics",
+          "esquinas-operator"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Piedras Blancas",
+        "source": "piedras",
+        "note": "Условия входа в El Bonito, места для палатки и актуальные тропы."
+      },
+      {
+        "name": "Esquinas Rainforest Lodge",
+        "source": "esquinas-operator",
+        "note": "Местные прогулки, база в La Gamba и логистика сухопутного подхода."
+      }
+    ],
+    "nearby": [
+      "corcovado-leona",
+      "sierpe-fishing"
+    ],
+    "track": "piedras-ict-logistics"
+  },
+  "osa-expedition-6": {
+    "stops": [
+      {
+        "point": "marino-uvita-gate",
+        "role": "День 1 · Увита и Marino Ballena",
+        "note": "Прогулку к песчаной косе планируйте по приливу."
+      },
+      {
+        "point": "sierpe-perla",
+        "role": "День 2 · пассажирская развилка в Сьерпе",
+        "note": "Для варианта с лодкой машина остаётся на материке."
+      },
+      {
+        "point": "ganadito-camp",
+        "role": "День 3 · Ganadito при поездке на машине",
+        "note": "Если приехали на лодке, выбирайте жильё у Agujitas или подтверждённый трансфер."
+      },
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Дни 4–5 · лодки из Дрейка",
+        "note": "Отдельно согласуйте Corcovado Sirena и Каньо."
+      },
+      {
+        "point": "osa-sirena-landing",
+        "role": "День 4 · высадка Sirena",
+        "note": "Утреннее время и фактическую высадку задаёт организатор."
+      },
+      {
+        "point": "sierpe-perla",
+        "role": "День 6 · возврат или погодный запас",
+        "note": "Для лодочного варианта уточните обратный рейс и буфер до автобуса."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Решите, где останется машина",
+        "text": "Пассажирский катер идёт из La Perla del Sur до пляжной высадки в Agujitas. Для крыши на машине нужна подтверждённая по дождю дорога в Дрейк и бронь Ganadito. У этих вариантов разные ночёвки и перевозка снаряжения.",
+        "sources": [
+          "sierpe-xplorer-logistics",
+          "drake-road-utopia",
+          "camp-ganadito",
+          "tico-osa"
+        ]
+      },
+      {
+        "title": "Причалы, пропуска и запас времени",
+        "text": "Запланируйте два отдельных ранних дня для Sirena и Каньо. Пропуска и гиды зависят от сектора, море может изменить расписание. У лодочного оператора уточните сухую сумку и помощь на высадке. Между последним выездом и обратным автобусом оставьте запас.",
+        "sources": [
+          "osa-sirena-sinac",
+          "cano-sinac-visit",
+          "sierpe-xplorer-logistics",
+          "osa-ict-account"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SierpeXplorer",
+        "source": "sierpe-xplorer-contacts",
+        "note": "Часы пассажирской лодки, причал, состояние моря и парковка.",
+        "phone": "+506 6232 5199",
+        "url": "https://wa.me/50662325199",
+        "email": "info@sierpexplorer.com"
+      },
+      {
+        "name": "SINAC · Área de Conservación Osa",
+        "source": "corcovado",
+        "note": "Действующее оформление визита, часы секторов и список зарегистрированных проводников.",
+        "phone": "+506 2735 5036",
+        "email": "acosa.reservaciones@sinac.go.cr"
+      },
+      {
+        "name": "Costa Rica Jade Tours",
+        "source": "cano-jade-contacts",
+        "note": "Экскурсия на Каньо, подходящий возраст и место встречи на берегу.",
+        "phone": "+506 2777 0932"
+      }
+    ],
+    "nearby": [
+      "ganadito-roof",
+      "corcovado-sirena",
+      "cano-island",
+      "drake-without-car-3"
+    ],
+    "track": "sierpe-xplorer-logistics"
+  },
+  "drake-without-car-3": {
+    "stops": [
+      {
+        "point": "sierpe-perla",
+        "role": "День 1 · пассажирский причал в Сьерпе",
+        "note": "Посадка у ресторана La Perla del Sur."
+      },
+      {
+        "point": "drake-agujitas-landing",
+        "role": "День 1 · выход на пляж Agujitas",
+        "note": "Согласуйте встречу и размещение заранее."
+      },
+      {
+        "point": "osa-sirena-landing",
+        "role": "День 2 · лодочная экскурсия",
+        "note": ""
+      },
+      {
+        "point": "sierpe-perla",
+        "role": "День 3 · обратно в Сьерпе",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Рейсы и стыковка",
+        "text": "Оператор публикует отправления из Сьерпе в 11:30 и 16:00. Сверьте время на выбранный день и прибудьте заранее. На пересадку из Palmar Norte заложите время, при плотной стыковке договоритесь о такси до причала.",
+        "sources": [
+          "sierpe-xplorer-logistics",
+          "sierpe-xplorer-contacts",
+          "drake-road-utopia"
+        ]
+      },
+      {
+        "title": "Кровать, лодка и дождь",
+        "text": "Выбирайте жильё рядом с Agujitas либо с подтверждённым встречающим. Высадка с мокрого борта и поездка в Sirena могут быть затруднены при сильном волнении. Оставьте запас на перенос лодки и не планируйте жёсткую стыковку в обратный день.",
+        "sources": [
+          "sierpe-xplorer-logistics",
+          "osa-ict-account",
+          "osa-sirena-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SierpeXplorer",
+        "source": "sierpe-xplorer-contacts",
+        "note": "Часы пассажирской лодки, причал, состояние моря и парковка.",
+        "phone": "+506 6232 5199",
+        "url": "https://wa.me/50662325199",
+        "email": "info@sierpexplorer.com"
+      },
+      {
+        "name": "SINAC · Área de Conservación Osa",
+        "source": "corcovado",
+        "note": "Действующее оформление визита, часы секторов и список зарегистрированных проводников.",
+        "phone": "+506 2735 5036",
+        "email": "acosa.reservaciones@sinac.go.cr"
+      },
+      {
+        "name": "Costa Rica Jade Tours",
+        "source": "cano-jade-contacts",
+        "note": "Экскурсия на Каньо, подходящий возраст и место встречи на берегу.",
+        "phone": "+506 2777 0932"
+      }
+    ],
+    "nearby": [
+      "osa-expedition-6",
+      "corcovado-sirena",
+      "cano-island"
+    ],
+    "track": "sierpe-xplorer-logistics"
+  },
+  "nauyaca-nature": {
+    "stops": [
+      {
+        "point": "nauyaca-nature-check",
+        "role": "Касса Nature Park · San Salvador",
+        "note": "Для пешего варианта начните здесь, а подъезд выбирайте по карте Nature Park."
+      },
+      {
+        "point": "nauyaca-upper-landmark",
+        "role": "Верхний каскад",
+        "note": ""
+      },
+      {
+        "point": "nauyaca-lower-landmark",
+        "role": "Нижний каскад",
+        "note": "Следуйте открытым ступеням и обходам на территории оператора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пешком 2,7 км в одну сторону",
+        "text": "Основной отрезок идёт вниз от кассы к каскадам. Запас на подъём обратно больше, чем на спуск. Доехать по территории можно с трансфером оператора. Подтвердите режим последнего билета, покрытие и подъём для детей.",
+        "sources": [
+          "nauyaca-nature-visitor",
+          "nauyaca-independent"
+        ]
+      },
+      {
+        "title": "Подъезд через San Salvador",
+        "text": "Оператор даёт два подхода по дороге из Доминикаля и Увиты. Ориентиры при подъезде из Увиты — поворот на San Josecito и Café Don Emilio. Для покупки входа выбирайте кассу Nature Park; у Don Lulo свой отдельный вход.",
+        "sources": [
+          "nauyaca-nature-visitor",
+          "nauyaca-don-lulo-hike",
+          "nauyaca-independent"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nauyaca Waterfall Nature Park",
+        "source": "nauyaca-nature-visitor",
+        "note": "Место встречи, доступ к каскадам, въезд и пересадка на 4×4."
+      }
+    ],
+    "nearby": [
+      "nauyaca-don-lulo",
+      "dominical-surf",
+      "marino-ballena"
+    ],
+    "track": "nauyaca-nature-visitor"
+  },
+  "nauyaca-don-lulo": {
+    "stops": [
+      {
+        "point": "nauyaca-lulo-parking",
+        "role": "Нижняя стоянка Don Lulo",
+        "note": "Сначала оформите билет и получите указания подъезда у кассы."
+      },
+      {
+        "point": "nauyaca-lower-landmark",
+        "role": "Посещение каскадов по тропе Don Lulo",
+        "note": ""
+      },
+      {
+        "point": "nauyaca-lulo-parking",
+        "role": "Финиш тем же пешим подходом",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Около 7 км туда и обратно от нижней парковки",
+        "text": "Don Lulo публикует 3,5 км от стоянки до водопада в одну сторону. Наземную часть до стоянки сверяйте с кассой. Возвращение на машине бывает доступно по остаточным местам, так что планируйте силы на пеший обратный путь.",
+        "sources": [
+          "nauyaca-don-lulo-hike",
+          "nauyaca-independent"
+        ]
+      },
+      {
+        "title": "Сложность и выбор входа",
+        "text": "На маршруте есть жаркий открытый участок. Оператор относит его к средней сложности и не рекомендует пешую версию маленьким детям. Для короткого выезда спросите про организованный 4×4. Nature Park расположен на другом береговом подходе с отдельным билетом.",
+        "sources": [
+          "nauyaca-don-lulo-hike",
+          "nauyaca-nature-visitor"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nauyaca Waterfalls · Don Lulo",
+        "source": "nauyaca-don-lulo-hike",
+        "note": "Пеший билет, нижняя стоянка и организованный транспорт.",
+        "phone": "+506 2787 0541"
+      }
+    ],
+    "nearby": [
+      "nauyaca-nature",
+      "dominical-surf"
+    ],
+    "track": "nauyaca-don-lulo-hike"
+  },
+  "dominical-surf": {
+    "stops": [
+      {
+        "point": "dominical-school-local",
+        "role": "Место встречи у Dominical Surf School",
+        "note": ""
+      },
+      {
+        "point": "dominicalito-surf-area",
+        "role": "Отдельный вариант · Dominicalito",
+        "note": "Выбор пляжа зависит от условий и уровня ученика."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первый урок и место встречи",
+        "text": "Dominical Surf School публикует уроки для начинающих в Доминикале. Есть местная школа в бухте Dominicalito. Согласуйте место входа, размер группы, доску и время под прилив. Семье с ребёнком стоит прямо сказать инструктору о его уровне плавания.",
+        "sources": [
+          "dominical-lesson-local",
+          "dominicalito-school-local",
+          "dominical-local-directory"
+        ]
+      },
+      {
+        "title": "Пляжный день без урока",
+        "text": "На открытом побережье прибой и обратные течения меняются в течение дня. Планируйте прогулку по берегу и купание отдельно от катания. Для второго полудня можно выбрать соседний доступный вход к водопаду Науяка.",
+        "sources": [
+          "dominical-local-directory",
+          "red-cross",
+          "nauyaca-don-lulo-hike"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dominical Surf School",
+        "source": "dominical-lesson-local",
+        "note": "Уроки и место встречи в Доминикале."
+      },
+      {
+        "name": "Dominicalito Tico Surf School",
+        "source": "dominicalito-school-local",
+        "note": "Организация урока и условия в бухте Доминикалито."
+      }
+    ],
+    "nearby": [
+      "nauyaca-don-lulo",
+      "nauyaca-nature",
+      "marino-ballena"
+    ],
+    "track": "dominical-local-directory"
+  },
+  "pavones": {
+    "stops": [
+      {
+        "point": "rio-claro-pavones",
+        "role": "Río Claro de Pavones · береговой ориентир",
+        "note": "Точку запуска, аренды или урока подтверждает выбранная школа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Волна и первый урок — разные программы",
+        "text": "Павонес известен продолжительной левой волной. Местные школы предлагают занятия по уровню, включая новичков, и подбирают участок с учётом прибоя. Сильная волна на главном споте требует опыта. Для нескольких дней согласуйте альтернативные места, если условия изменятся.",
+        "sources": [
+          "pavones-surf-directory",
+          "pavones-mystical-surf",
+          "ict-surf"
+        ]
+      },
+      {
+        "title": "Логистика вдали от больших городов",
+        "text": "Запасите время на подъезд через район Golfo Dulce и подтверждение машины. Из посёлка можно договориться о прокате, ремонте доски и частном уроке. Для поездки без школы проверьте условия моря и береговой выход у местных.",
+        "sources": [
+          "pavones-surf-directory",
+          "ict-sur",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Mystical Surf School",
+        "source": "pavones-mystical-surf",
+        "note": "Уроки в районе Pavones, стартовый уровень и встреча."
+      }
+    ],
+    "nearby": [
+      "lapa-rios",
+      "piedras-blancas"
+    ],
+    "track": "pavones-surf-directory"
+  },
+  "lapa-rios": {
+    "stops": [
+      {
+        "point": "lapa-rios-reception",
+        "role": "Lapa Rios · место встречи с проводником",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лесные прогулки из Матапало",
+        "text": "У лоджа есть короткие семейные выходы под руководством гида, маршруты к ручьям и наблюдение за птицами. Оператор также предлагает отдельный выезд в район Piro. Попросите длину и набор высоты для конкретной прогулки перед бронированием.",
+        "sources": [
+          "lapa-nature-routes",
+          "lapa-family-trails",
+          "lapa-rio-piro-partner"
+        ]
+      },
+      {
+        "title": "Тропа и морской день",
+        "text": "Вариант у берега согласуйте по приливу и сезону. Посещение государственных секторов Корковадо планируется с отдельным пропуском и проводником. Это позволяет разделить спокойный лесной день в лодже и более длинный выход в парк.",
+        "sources": [
+          "laparios",
+          "lapa-family-trails",
+          "osa-leona-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Lapa Rios Lodge",
+        "source": "laparios",
+        "note": "Подъезд, возрастные условия, семейная тропа и отдельные экскурсии."
+      }
+    ],
+    "nearby": [
+      "corcovado-leona",
+      "pavones",
+      "piedras-blancas"
+    ],
+    "track": "lapa-nature-routes"
+  },
+  "cusinga": {
+    "stops": [
+      {
+        "point": "cusinga-reception",
+        "role": "La Cusinga Lodge · въезд с Costanera Sur",
+        "note": "Карта показывает ориентир лоджа. Уточните условия посещения у ресепшена."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Тропа к укромной бухте",
+        "text": "Из частного заповедника лоджа можно согласовать выход к Playa Arco. Бухта внутри Marino Ballena, поэтому доступ по берегу зависит от прилива. Официальный вход для посетителей нацпарка находится в секторе Ballena.",
+        "sources": [
+          "cusinga-playa-arco",
+          "cusinga-direct-contact",
+          "marino"
+        ]
+      },
+      {
+        "title": "Короткий выход, еда и логистика",
+        "text": "В лодже есть ресторан Aracari и варианты наблюдения за птицами в частном лесу. Уточните дневной визит и место по времени. По сведениям отеля, к въезду рядом с Ruta 34 обычно можно добраться на обычной машине.",
+        "sources": [
+          "cusinga-aracari",
+          "cusinga-direct-contact",
+          "cusinga"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Cusinga Lodge",
+        "source": "cusinga-direct-contact",
+        "note": "Тропа в сторону Playa Arco, прилив, дневной визит и стол в Aracari.",
+        "phone": "+506 8708 1778",
+        "url": "https://wa.me/50687081778",
+        "email": "info@lacusingalodge.com"
+      }
+    ],
+    "nearby": [
+      "marino-ballena",
+      "osa-expedition-6"
+    ],
+    "track": "cusinga-playa-arco"
+  },
+  "marino-ballena": {
+    "stops": [
+      {
+        "point": "marino-uvita-gate",
+        "role": "Sector Uvita · вход и точка встречи",
+        "note": "Место посадки на лодку подтвердите отдельно у капитана."
+      },
+      {
+        "point": "punta-ballena-tide",
+        "role": "Ориентир песчаной косы Punta Uvita",
+        "note": "Посещайте только в разрешённое парком приливное окно."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Коса и отдельный береговой сектор",
+        "text": "Маршрут к Punta Uvita зависит от уровня моря. Сверьте таблицу и время разворота с рейнджером перед выходом. Для Playa Arco используйте официальный вход через сектор Ballena и заранее уточните доступ с обеих сторон бухты.",
+        "sources": [
+          "marino",
+          "marino-ballena-sector-map",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "title": "Экскурсия на лодке из Увиты",
+        "text": "У местного Dolphin Tours встреча в офисе и подход к берегу. Экскурсия проходит по охраняемой акватории. Видимость, остановки и наблюдение за животными зависят от моря и сезона. Уточняйте условия высадки и ограничения для группы.",
+        "sources": [
+          "uvita-dolphin-tour",
+          "marino-ballena-sector-map",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Marino Ballena",
+        "source": "marino-ballena-sector-map",
+        "note": "Окно прохода к косе, входы с берега и режим парка.",
+        "phone": "+506 2786 5392"
+      },
+      {
+        "name": "Dolphin Tours · Uvita",
+        "source": "uvita-dolphin-tour",
+        "note": "Сезонные лодочные экскурсии и точка встречи в Увите.",
+        "phone": "+506 8854 3022",
+        "url": "https://wa.me/50688543022"
+      }
+    ],
+    "nearby": [
+      "cusinga",
+      "osa-expedition-6",
+      "cano-island"
+    ],
+    "track": "marino-ballena-sector-map"
+  },
+  "corcovado-race-2026": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Puerto Jiménez · городской ориентир первого этапа",
+        "note": "Формат 2026 года включал организованный транспорт к старту."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Архив 19–20 сентября 2026",
+        "text": "Организатор описывает первый этап у южного берега Оса, второй — через La Palma, Los Patos и район La Tarde. Запись для издания 2026 закрыта. Схема второго этапа пригодится для понимания рельефа и покрытия.",
+        "sources": [
+          "corcovado-race-epic",
+          "tcr-corcovado"
+        ]
+      },
+      {
+        "title": "Самостоятельный тренировочный выезд",
+        "text": "Доступ во время соревнования обеспечивается организатором. Для отдельного маршрута выбирайте общественные или подтверждённые проводником тропы. Посещение Los Patos требует действующих условий SINAC.",
+        "sources": [
+          "corcovado-race-epic",
+          "corcovado",
+          "osa-sirena-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Epic Trail · Corcovado Stage Race",
+        "source": "corcovado-race-epic",
+        "note": "Будущие даты, схема и доступ на спортивное мероприятие.",
+        "phone": "+506 8924 5351"
+      }
+    ],
+    "nearby": [
+      "corcovado-leona",
+      "lapa-rios"
+    ],
+    "track": "corcovado-race-epic"
+  },
+  "cerro-tortuguero": {
+    "stops": [
+      {
+        "point": "tortuguero-dock",
+        "role": "Посёлок Tortuguero · начало лодочного переезда",
+        "note": "Согласуйте отправление и место обратной посадки."
+      },
+      {
+        "point": "cerro-jetty",
+        "role": "Причальный ориентир у холма",
+        "note": "Фактический подход покажет капитан."
+      },
+      {
+        "point": "cerro-mirador",
+        "role": "Мирадор над каналами",
+        "note": "Верхняя часть прогулки идёт по ступеням."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Отдельная прогулка с подъёмом по ступеням",
+        "text": "Для холма действует сектор Barra del Colorado и местный оператор San Francisco. От лодочного подхода поднимитесь по размеченной тропе к виду на лагуну и море. Темп зависит от влажности и числа остановок.",
+        "sources": [
+          "cerro-t",
+          "cerro-tortuguero-sinac-adi",
+          "cerro-tortuguero-acto"
+        ]
+      },
+      {
+        "title": "Как сочетать с каналами Tortuguero",
+        "text": "Утреннюю прогулку по каналам и посещение холма выбирайте как отдельные активности. Уточните билет, местную лодку и ожидание у берега. Если лодка идёт через San Francisco, получите точный пин в посёлке у капитана.",
+        "sources": [
+          "cerro-tortuguero-sinac-adi",
+          "cerro-tortuguero-acto",
+          "reservas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ADI San Francisco · Cerro Tortuguero",
+        "source": "cerro-tortuguero-sinac-adi",
+        "note": "Вход на тропу, местный проводник и условия лодочного подхода."
+      }
+    ],
+    "nearby": [
+      "tortuguero-no-car",
+      "tortuguero-canals"
+    ],
+    "track": "cerro-tortuguero-sinac-adi",
+    "line": "cerro-tortuguero"
+  },
+  "playa-negra-caribe": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Старт прогулки в центре Puerto Viejo",
+        "note": ""
+      },
+      {
+        "point": "puertoviejo-negra-shore",
+        "role": "Берег Playa Negra со стороны Puerto Viejo",
+        "note": "Сверьте открытый выход к берегу с местными хозяевами или по указателям."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Чёрный песок и спокойная прогулка",
+        "text": "Для короткого выхода из Puerto Viejo идите к северной окраине посёлка в район Playa Negra. На Карибах есть одноимённый пляж у Cahuita. Для карты или автобуса используйте название Puerto Viejo de Talamanca, особенно при поездке без машины.",
+        "sources": [
+          "negra-puerto-local",
+          "negra-caribe-local-guide",
+          "ict-beach",
+          "mepe"
+        ]
+      },
+      {
+        "title": "Ветер, прибой и соседние варианты",
+        "text": "Местный обзор описывает спокойные дни и периоды прибоя. Для урока при подходящей волне можно сравнить с Cocles и договориться со школой на выбранный день. На прогулку по чёрному песку возьмите обувь и воду.",
+        "sources": [
+          "negra-caribe-local-guide",
+          "red-cross",
+          "ict-caribe"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "cocles",
+      "punta-uva"
+    ],
+    "track": "negra-puerto-local"
+  },
+  "punta-uva": {
+    "stops": [
+      {
+        "point": "punta-uva-shore-area",
+        "role": "Punta Uva · береговой ориентир встречи",
+        "note": "Фактический пин проката и спуска на реку подтверждает оператор."
+      },
+      {
+        "point": "punta-uva-view-point",
+        "role": "Мирадор на мысе",
+        "note": "Короткий пеший вариант при согласованных условиях."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Каяк по реке",
+        "text": "Местный Caribe Sur предлагает выход по реке с проводником. У соседних операторов есть отдельный прокат. Уточните жилеты и размер лодки для взрослого и ребёнка, границу маршрута у устья и разрешённую точку старта для собственного каяка.",
+        "sources": [
+          "uva-caribe-kayak",
+          "uva-rental-caribbean",
+          "uva-local-hotel-guide"
+        ]
+      },
+      {
+        "title": "Бухта и пешая остановка",
+        "text": "Гостиничный путеводитель описывает короткую пешую часть к видовой точке. Планируйте спокойный речной выход отдельно от морского снорклинга или купания: у мыса условия прибоя и течений зависят от дня.",
+        "sources": [
+          "uva-local-hotel-guide",
+          "gandoca",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caribe Sur · каяк с проводником",
+        "source": "uva-caribe-kayak",
+        "note": "Речной выход, детские жилеты, семейный тур и место встречи."
+      },
+      {
+        "name": "Costa Rica Caribbean · прокат",
+        "source": "uva-rental-caribbean",
+        "note": "Аренда каяка, подход к воде и правила для своего снаряжения."
+      }
+    ],
+    "nearby": [
+      "gandoca",
+      "faith-glamp",
+      "cocles"
+    ],
+    "track": "uva-caribe-kayak"
+  },
+  "gandoca": {
+    "stops": [
+      {
+        "point": "manzanillo-refugio-entry",
+        "role": "Подход в сектор Manzanillo",
+        "note": "Уточните регистрацию, открытые звенья тропы и оплату у входа."
+      },
+      {
+        "point": "manzanillo-viewpoint",
+        "role": "Береговая видовая точка",
+        "note": "Короткая прогулка зависит от состояния покрытия после дождя."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий мирадор и длинная тропа",
+        "text": "На странице доступности SINAC указан короткий подход с рампой к видовой точке и отдельный пеший путь около 5 км в секторе Manzanillo. Протяжённость открытой части сверяйте у рейнджеров, особенно после дождей. Оформите местного гида, если группа идёт дальше ближней прогулки.",
+        "sources": [
+          "manzanillo-sinac-access",
+          "gandoca"
+        ]
+      },
+      {
+        "title": "Два сектора и прибрежные условия",
+        "text": "Gandoca и Manzanillo обслуживают разные подходы. Для берегового маршрута от Manzanillo сначала проверьте доступ с этой стороны. Рыбалку, высадку с лодки и снорклинг согласуйте по правилам охраняемой зоны.",
+        "sources": [
+          "gandoca",
+          "manzanillo-sinac-access",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Gandoca–Manzanillo",
+        "source": "gandoca",
+        "note": "Контакт охраняемой территории, входы, открытые участки и местные экскурсии."
+      }
+    ],
+    "nearby": [
+      "punta-uva",
+      "faith-glamp"
+    ],
+    "track": "manzanillo-sinac-access"
+  },
+  "faith-glamp": {
+    "stops": [
+      {
+        "point": "faith-glamp-gate",
+        "role": "Ориентир по дороге Almendros y Corales",
+        "note": "Окончательный пин Faith Glamping и время заселения уточняются у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "База рядом с Playa Grande",
+        "text": "Купола расположены на участке у побережья между Punta Uva и Manzanillo. По сведениям ICT, от Puerto Viejo около 12 км. Уточните вместимость, условия проживания с детьми и фактический доступ с дороги по выбранной дате.",
+        "sources": [
+          "faith-glamp-home",
+          "faith-glamp-ict-english"
+        ]
+      },
+      {
+        "title": "Прогулки рядом с базой",
+        "text": "Для спокойного дня можно соединить короткую прогулку через Мансанильо и речной выход на каяке в Punta Uva. Программа на пляже зависит от прибоя. Места встреч согласуйте отдельно с хозяевами и водным оператором.",
+        "sources": [
+          "faith-glamp-ict-english",
+          "gandoca",
+          "uva-caribe-kayak"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Faith Glamping Dome Costa Rica",
+        "source": "faith-glamp-home",
+        "note": "Купол, парковка, время заезда и локальный пин.",
+        "phone": "+506 8723 0101",
+        "url": "https://wa.me/50687230101",
+        "email": "faithglampingdomecr@gmail.com"
+      }
+    ],
+    "nearby": [
+      "gandoca",
+      "punta-uva",
+      "jaguar-rescue"
+    ],
+    "track": "faith-glamp-home"
+  },
+  "jaguar-rescue": {
+    "stops": [
+      {
+        "point": "jaguar-rescue-gate",
+        "role": "Jaguar Rescue Center · касса в Cocles",
+        "note": "Приезжайте к времени выбранной экскурсии."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Экскурсия о восстановлении дикой природы",
+        "text": "Публичная экскурсия занимает около полутора часов. Гид объясняет историю животных в центре и работу команды. На сайте есть отдельный билет на испанском и английском. Уточните доступ для коляски и условия в дождь.",
+        "sources": [
+          "jaguar-booking-public",
+          "jaguar"
+        ]
+      },
+      {
+        "title": "Удобно из Puerto Viejo без машины",
+        "text": "Центр у основной дороги через Cocles. Оператор описывает автобус, такси или велосипед. С ребёнком учитывайте движение и возможность безопасных остановок. Заложите время на встречу у входа.",
+        "sources": [
+          "jaguar-arrival-contact",
+          "jaguar-booking-public",
+          "mepe"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Jaguar Rescue Center",
+        "source": "jaguar-arrival-contact",
+        "note": "Расписание, семейное посещение и точка остановки.",
+        "phone": "+506 2750 0710",
+        "email": "info@jaguarrescue.foundation"
+      }
+    ],
+    "nearby": [
+      "cocles",
+      "playa-negra-caribe",
+      "punta-uva"
+    ],
+    "track": "jaguar-booking-public"
+  },
+  "barbilla": {
+    "stops": [
+      {
+        "point": "las-brisas",
+        "role": "Las Brisas de Pacuarito · дорожный ориентир сектора",
+        "note": "Пин парковки станции подтвердит SINAC при согласовании гида."
+      }
+    ],
+    "sections": [
+      {
+        "title": "5,5 км к Río Dantas и водопадам",
+        "text": "SINAC описывает около 5,5 км туда и обратно с участками грязи и переправами для подготовленных ходоков. Проводника договариваются через парк заранее. В дождь уточните, возможен ли полный выход. Для короткого визита есть Los Gavilanes около 330 м.",
+        "sources": [
+          "barbilla",
+          "barbilla-sinac-contact"
+        ]
+      },
+      {
+        "title": "Дорога от трассы 32",
+        "text": "Официальный подъезд идёт с грунтового ответвления у моста Río Pacuarito. До станции примерно 18 км. Уточните клиренс машины, последний час старта и запас воды. На карте указан ориентир населённого района.",
+        "sources": [
+          "barbilla",
+          "sinac",
+          "barbilla-sinac-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Barbilla",
+        "source": "barbilla-sinac-contact",
+        "note": "Согласование проводника, состояние воды, пин станции и подход к Río Dantas.",
+        "phone": "+506 2200 5224",
+        "email": "aclac.pnbarbilla@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "pacuare-avesol",
+      "pejibaye-weekend-local"
+    ],
+    "track": "barbilla"
+  },
+  "pacuare-avesol": {
+    "stops": [
+      {
+        "point": "avesol-river-lodge",
+        "role": "Ave Sol · лодж в каньоне Pacuare",
+        "note": "Точку посадки и вариант подхода согласует оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Рафтинг с ночёвкой",
+        "text": "Ave Sol предлагает двухдневные программы с проживанием у реки. Оператор описывает около 36 км на маршруте с порогами III–IV и минимальный возраст 12 лет для опубликованной речной программы. Уровень воды, возраст и готовность группы подтверждаются перед поездкой.",
+        "sources": [
+          "avesol-river-program",
+          "avesol"
+        ]
+      },
+      {
+        "title": "Если хочется только лес и лодж",
+        "text": "По информации оператора, возможен подход через Bajo Tigre по сложной грунтовой дороге для 4×4 и переправа на тросовой платформе. Узнайте, включён ли трансфер, где остаётся машина и как перевозят багаж. Проход и переправу организует команда лоджа.",
+        "sources": [
+          "avesol",
+          "avesol-river-program"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ave Sol River Sanctuary",
+        "source": "avesol-river-program",
+        "note": "Кабинки, подход по реке или через Bajo Tigre, экипировка и подъезд.",
+        "phone": "+506 8697 5435",
+        "url": "https://wa.me/50686975435"
+      }
+    ],
+    "nearby": [
+      "pacuare-own-craft",
+      "barbilla"
+    ],
+    "track": "avesol-river-program"
+  },
+  "avesol-pacuare-3": {
+    "stops": [
+      {
+        "point": "linda-vista",
+        "role": "Верхний район · ориентир по Пакуаре",
+        "note": "Фактическое место сбора сообщает оператор."
+      },
+      {
+        "point": "avesol-river-lodge",
+        "role": "Ave Sol · лесной день и ночёвки",
+        "note": ""
+      },
+      {
+        "point": "siquirres",
+        "role": "Район нижнего выхода",
+        "note": "Пин высадки и трансфер уточните у экипажа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Около 36 км в организованной программе",
+        "text": "Ave Sol описывает общий речной маршрут с порогами III–IV и трёхдневный пакет с дополнительным временем в лесу. Уточните текущий уровень, возраст и допустимую подготовку участников. Длина относится к сплаву в целом.",
+        "sources": [
+          "avesol-river-program",
+          "avesol"
+        ]
+      },
+      {
+        "title": "Сухой багаж и второй день в лесу",
+        "text": "Лодж публикует трансфер, снаряжение и питание в пакетах. Уточните объём сухого багажа, фактические времена и формат лесного маршрута. При замене сплава вход со стороны Bajo Tigre требует отдельного согласования.",
+        "sources": [
+          "avesol-river-program",
+          "avesol"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ave Sol River Sanctuary",
+        "source": "avesol-river-program",
+        "note": "Кабинки, подход по реке или через Bajo Tigre, экипировка и подъезд.",
+        "phone": "+506 8697 5435",
+        "url": "https://wa.me/50686975435"
+      }
+    ],
+    "nearby": [
+      "pacuare-avesol",
+      "pacuare-own-craft",
+      "barbilla"
+    ],
+    "track": "avesol-river-program"
+  },
+  "avellanas-camp": {
+    "stops": [
+      {
+        "point": "avellanas-camp-area",
+        "role": "Район въезда к Playa Avellanas",
+        "note": "Кемпинг отправит свой пин после подтверждения."
+      },
+      {
+        "point": "pinilla-beach",
+        "role": "Район Hacienda Pinilla · дополнительный выезд",
+        "note": "Для подъезда к частной территории уточните отдельный пропуск."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка на земле или на крыше",
+        "text": "В местном каталоге указаны обычные и крышные палатки, фургоны, общая кухня, душ и туалеты. Уточните время открытия ворот, покрытие после дождя и место, где можно поднять крышу своей машины.",
+        "sources": [
+          "camp-avellanas",
+          "avellanas-learning"
+        ]
+      },
+      {
+        "title": "Как совместить с уроком",
+        "text": "Урок и ночёвку согласуйте раздельно. В районе Avellanas есть местные школы, а для короткой тренировки прокат подбирает доску по условиям. Участки рядом с устьем требуют внимания при прибое и течениях.",
+        "sources": [
+          "avellanas-learning",
+          "ict-surf",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nieves Surf Camping",
+        "source": "camp-avellanas",
+        "note": "Точный пин ворот, место под машину или наземную палатку и договорённость о заезде.",
+        "phone": "+506 8679 5278",
+        "url": "https://wa.me/50686795278"
+      }
+    ],
+    "nearby": [
+      "tamarindo-surf",
+      "nicoya-5",
+      "pinilla-emtb"
+    ],
+    "track": "camp-avellanas"
+  },
+  "barra-honda": {
+    "stops": [
+      {
+        "point": "barra-honda-ranger-area",
+        "role": "Зона парка и стоянки",
+        "note": "Запросите у гида пин встречи до поездки к пещерам."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Спуск в Terciopelo с местным гидом",
+        "text": "SINAC указывает минимальный возраст 12 лет и обязательное сопровождение местной ассоциации. Уточните доступность, вертикальный спуск, снаряжение и состояние после дождя. На поверхности можно выбрать отдельную прогулку по разрешённой тропе.",
+        "sources": [
+          "barra-honda",
+          "barra-honda-and-diria-ict"
+        ]
+      },
+      {
+        "title": "Дорога и сухой лес",
+        "text": "При подъезде со стороны Лимоналя маршрут идёт через мост La Amistad и Pueblo Viejo. Оформите утреннюю встречу с гидом отдельно от ночёвки на полуострове. Для семейной прогулки согласуйте рельеф и время без подземного спуска.",
+        "sources": [
+          "barra-honda",
+          "sinac",
+          "barra-honda-and-diria-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC и местная ассоциация гидов · Barra Honda",
+        "source": "barra-honda",
+        "note": "Открытие Terciopelo и проводники, поверхность и правила спуска."
+      }
+    ],
+    "nearby": [
+      "diria",
+      "oasis-roof",
+      "nicoya-5"
+    ],
+    "track": "barra-honda-and-diria-ict"
+  },
+  "diria": {
+    "stops": [
+      {
+        "point": "diria-arado-area",
+        "role": "Arado · ориентир перед грунтовой частью",
+        "note": "Станция парка находится дальше. Уточните точный вход и состояние переправ."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Местный день среди сухих и влажных лесов",
+        "text": "SINAC описывает выходы к Río En Medio, видовые участки и район водопада Quebrada Basil. У станции уточните, какие дорожки открыты и нужен ли проводник на длинный маршрут. Наличие воды в заводях зависит от сезона.",
+        "sources": [
+          "diria",
+          "diria-ict-access",
+          "barra-honda-and-diria-ict"
+        ]
+      },
+      {
+        "title": "6 км грунта после Arado",
+        "text": "Официальное описание рекомендует 4×4 на последних километрах, где дорога пересекает Río Diriá. После дождя согласуйте проезд до выезда из Santa Cruz. При закрытом подходе можно перенести лесной день на другую доступную площадку.",
+        "sources": [
+          "diria",
+          "diria-ict-access",
+          "diria-sinac-contacts"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Diriá",
+        "source": "diria-sinac-contacts",
+        "note": "Режим входа, уровень реки и открытые тропы.",
+        "phone": "+506 8358 4742"
+      }
+    ],
+    "nearby": [
+      "barra-honda",
+      "avellanas-camp",
+      "nicoya-5"
+    ],
+    "track": "diria-ict-access"
+  },
+  "iguana-school": {
+    "stops": [
+      {
+        "point": "tamarindo-iguana",
+        "role": "Iguana Surf · магазин у пляжа",
+        "note": "Точка сбора у Iguana Surf Boutique Hotel. Пин подтвердите по WhatsApp."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Один урок или пакет на несколько дней",
+        "text": "Оператор проводит первый урок на берегу с подбором доски, а затем выводит группу в воду по условиям. Доступны частные и групповые форматы. Для ребёнка уточните возраст, опыт плавания и возможность отдельного инструктора.",
+        "sources": [
+          "iguana-surf",
+          "iguana-lesson-formats",
+          "iguana-reviews"
+        ]
+      },
+      {
+        "title": "Где встречаются и когда двигать занятие",
+        "text": "Магазин служит местом сбора в центральной части берега Тамариндо. Точное время зависит от прибоя и расписания гида. Если нужна только аренда, спросите о мягкой учебной доске и месте входа.",
+        "sources": [
+          "iguana-contact",
+          "iguana-local",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Iguana Surf · Tamarindo",
+        "source": "iguana-contact",
+        "note": "Частный урок, возраст ребёнка, подходящая волна и пункт встречи.",
+        "phone": "+506 8800 7873",
+        "url": "https://wa.me/50688007873",
+        "email": "reservations@iguanasurf.com"
+      }
+    ],
+    "nearby": [
+      "tamarindo-surf",
+      "avellanas-camp",
+      "nicoya-5"
+    ],
+    "track": "iguana-contact"
+  },
+  "nalu-school": {
+    "stops": [
+      {
+        "point": "nalu-carmen-area",
+        "role": "Playa Carmen · частый участок уроков",
+        "note": "Встречу в магазине рядом с Ronny’s подтвердите у школы. Берег выбирают по морю."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Урок на 1, 3 или 5 дней",
+        "text": "В расписании Nalu есть групповые, парные и частные варианты. Опубликованная продолжительность занятия около полутора часов. В зависимости от волнения, ветра и прилива школа использует Playa Carmen или другой согласованный берег.",
+        "sources": [
+          "nalu-surf",
+          "ict-surf"
+        ]
+      },
+      {
+        "title": "Если каждый в группе катается по-разному",
+        "text": "Для новичка уточните урок с подбором мягкой доски. Для опытного участника можно попросить местного проводника на другой спот. Перенос по погоде, организацию машины и время уточняйте у магазина.",
+        "sources": [
+          "nalu-surf",
+          "red-cross",
+          "ict-puntarenas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nalu Surf School",
+        "source": "nalu-surf",
+        "note": "Размер группы, формат урока, точка встречи и доска.",
+        "phone": "+506 8733 1661",
+        "url": "https://wa.me/50687331661"
+      }
+    ],
+    "nearby": [
+      "santateresa",
+      "montezuma",
+      "nicoya-5"
+    ],
+    "track": "nalu-surf"
+  },
+  "guiones": {
+    "stops": [
+      {
+        "point": "guiones-north-area",
+        "role": "Guiones Norte · ориентир района уроков и проката",
+        "note": "Пин школы и место входа назовёт инструктор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сёрф-день и обучение в Носаре",
+        "text": "Guiones — длинный открытый берег, где школы подбирают участок под уровень и прибой. Surf Simply публикует отдельные программы многодневного обучения. Для разового урока, доски и времени встречи уточните доступность у Nosara CR Surf School, которая встречает у северного входа.",
+        "sources": [
+          "surf-simply",
+          "guiones-local-schools",
+          "ict-surf"
+        ]
+      },
+      {
+        "title": "Прогулка у воды отдельно от занятия",
+        "text": "Из района школ выбирайте открытый общественный проход к берегу. Для семейного дня подойдёт короткая прогулка и отдельно согласованное занятие. После Носары в многодневном плане можно продолжить по проверенной дороге в Самару.",
+        "sources": [
+          "guiones-local-schools",
+          "red-cross",
+          "ict-nicoya"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Surf Simply",
+        "source": "surf-simply",
+        "note": "Многодневное обучение, условия участия и собственные программы."
+      }
+    ],
+    "nearby": [
+      "nicoya-5",
+      "samara",
+      "carrillo"
+    ],
+    "track": "guiones-local-schools"
+  },
+  "carrillo": {
+    "stops": [
+      {
+        "point": "carrillo-shore-area",
+        "role": "Playa Carrillo · ориентир береговой зоны",
+        "note": ""
+      },
+      {
+        "point": "carrillo-lookout",
+        "role": "Mirador de Carrillo",
+        "note": "Короткая видовая остановка при наличии безопасного места для машины."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейный день в бухте",
+        "text": "Каррильо удобно рассматривать как береговую прогулку и остановку на пикник. До воды и обратно планируйте короткий участок, особенно с малышами. Состояние моря и обратные течения меняются, поэтому место купания уточняйте на берегу.",
+        "sources": [
+          "ict-nicoya",
+          "ict-beach",
+          "red-cross"
+        ]
+      },
+      {
+        "title": "Что добавить рядом",
+        "text": "Для урока или SUP выбирайте отдельный согласованный выезд к Самаре. Прогулку к мирадору можно добавить при ясной погоде. Рыболовные и лодочные варианты ищите по конкретному организатору и порту отправления.",
+        "sources": [
+          "ict-nicoya",
+          "ict-sup",
+          "ict-fish"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "samara",
+      "pato-samara-school",
+      "nicoya-5"
+    ],
+    "track": "ict-nicoya"
+  },
+  "santateresa": {
+    "stops": [
+      {
+        "point": "nalu-carmen-area",
+        "role": "Playa Carmen · южный ориентир",
+        "note": "Район часто выбирают для организованных уроков."
+      },
+      {
+        "point": "santateresa-shore-reference",
+        "role": "Santa Teresa · ориентир севернее Carmen",
+        "note": "Выбор конкретного входа и доски согласуйте по прибою."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выберите берег по уровню",
+        "text": "Местный оператор использует Playa Carmen для уроков, а для более опытных участников подбирает берег по ветру и приливу. Открытые пляжи Santa Teresa удобны для прогулки. Купание с детьми планируется отдельно с учётом условий воды.",
+        "sources": [
+          "nalu-surf",
+          "ict-surf",
+          "red-cross"
+        ]
+      },
+      {
+        "title": "Подъезд на юге Никойи",
+        "text": "Для семейной поездки проверьте маршрут через Cóbano и дорожное состояние перед выездом. Паром в Paquera даёт основной вариант стыковки из Puntarenas. На несколько дней удобно выбрать одну базу и оставить время на отдельный Montezuma или Cabo Blanco.",
+        "sources": [
+          "paquera-ferry-live",
+          "ict-puntarenas",
+          "montezuma-october-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nalu Surf School",
+        "source": "nalu-surf",
+        "note": "Размер группы, формат урока, точка встречи и доска.",
+        "phone": "+506 8733 1661",
+        "url": "https://wa.me/50687331661"
+      }
+    ],
+    "nearby": [
+      "nalu-school",
+      "montezuma",
+      "nicoya-5"
+    ],
+    "track": "paquera-ferry-live"
+  },
+  "montezuma": {
+    "stops": [
+      {
+        "point": "montezuma-center",
+        "role": "Посёлок · начало прогулки",
+        "note": ""
+      },
+      {
+        "point": "montezuma-river-start",
+        "role": "Мост Río Montezuma · ориентир речного подхода",
+        "note": "Маршрут для спуска к нижнему каскаду зависит от уровня реки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Нижняя тропа и верхние мостики",
+        "text": "К нижнему каскаду обычно идут от моста вдоль реки. Грунт и камни скользкие, особенно после дождя. Верхние смотровые имеют отдельный подход через Sun Trails; актуальный режим, билет и пин выясняйте у оператора. Выбирайте один вариант по силам группы.",
+        "sources": [
+          "montezuma-local-trails",
+          "montezuma-october-2026",
+          "ict-puntarenas"
+        ]
+      },
+      {
+        "title": "Что делать с детьми и при высокой воде",
+        "text": "При сильном потоке оставьте прогулку вдоль посёлка или уточните доступный маршрут через оборудованный вход. На тропе к воде нет гарантии проходимости. Для другого дня подходит лесной маршрут Cabo Blanco через Cabuya.",
+        "sources": [
+          "montezuma-october-2026",
+          "montezuma-local-trails",
+          "cabo-blanco-qbl-10"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "cabo-blanco-sueco",
+      "santateresa",
+      "nicoya-5"
+    ],
+    "track": "montezuma-local-trails"
+  },
+  "cabo-blanco-sueco": {
+    "stops": [
+      {
+        "point": "cabo-cabuya-entry",
+        "role": "Cabuya · касса и начало общей тропы",
+        "note": "Актуальный режим длинного маршрута уточняют у входа."
+      },
+      {
+        "point": "cabo-blanco-shore",
+        "role": "Playa Cabo Blanco · разворот",
+        "note": "Сухая тень и время на возврат важны для длинной прогулки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Около 9–10 км туда и обратно",
+        "text": "В источниках встречаются разные длины подхода. На карте от Cabuya до берега около 4,4 км. Местный отчёт описывает около 10 км за весь выход. Если группа хочет короче, выберите доступную часть малого Sendero Danés и оставьте достаточное время на обратную дорогу.",
+        "sources": [
+          "cabo-sueco-sinac-length",
+          "cabo-blanco-qbl-10",
+          "cabo-sueco-ict"
+        ]
+      },
+      {
+        "title": "Маленькая деревня Cabuya",
+        "text": "От Montezuma дорога идёт через Cabuya. Местный путеводитель описывает кафе Coyote и короткие остановки в рыбацком посёлке. На длинный выход берите питьевую воду и еду, а по возвращении учитывайте часы кафе и транспорта.",
+        "sources": [
+          "cabuya-local-guide",
+          "cabo-blanco-qbl-10",
+          "cabo-sueco-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Cabo Blanco",
+        "source": "ict-puntarenas",
+        "note": "Проход, режим сектора Cabuya и доступные маршруты.",
+        "phone": "+506 2642 0093"
+      }
+    ],
+    "nearby": [
+      "montezuma",
+      "nicoya-5"
+    ],
+    "track": "cabo-blanco-qbl-10",
+    "line": "cabo-blanco-sueco"
+  },
+  "nicoya-5": {
+    "stops": [
+      {
+        "point": "amistad-bridge",
+        "role": "День 1 · Ruta 18 и мост La Amistad",
+        "note": "Пин ночёвки в Oasis Place подтвердите у владельцев."
+      },
+      {
+        "point": "avellanas-camp-area",
+        "role": "День 2 · Авельянас",
+        "note": "На машине с крышей заранее согласуйте место."
+      },
+      {
+        "point": "guiones-north-area",
+        "role": "День 3 · Guiones",
+        "note": ""
+      },
+      {
+        "point": "carrillo-shore-area",
+        "role": "День 3 · южный берег у Самары",
+        "note": "Остановка по времени и состоянию дороги."
+      },
+      {
+        "point": "nalu-carmen-area",
+        "role": "День 4 · Santa Teresa и Carmen",
+        "note": ""
+      },
+      {
+        "point": "montezuma-center",
+        "role": "День 5 · Montezuma",
+        "note": "Выберите один подход к каскадам."
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "День 5 · район парома Paquera",
+        "note": "Сверьте рейс на материк и очередь машин."
+      },
+      {
+        "point": "puntarenas-terminal-point",
+        "role": "Выход на материк · Puntarenas",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Перегоны и сезонная грунтовка",
+        "text": "Раскладка связывает две северные школы сёрфа и южную часть Никойи. Условия прибрежных дорог меняются от дождей и уровня рек. Для переезда к Santa Teresa проверьте маршрут по внутренним общественным дорогам и подход к Cóbano. В заявленные кемпинги уточняйте допуск автопалатки отдельно.",
+        "sources": [
+          "tico-nicoya",
+          "nomad-road",
+          "camp-avellanas",
+          "camp-oasis"
+        ]
+      },
+      {
+        "title": "Паром и день водопада",
+        "text": "Паром Naviera Tambor идёт между Paquera и Puntarenas. Для машины оформите нужный рейс и заложите время регистрации. Если хотите включить длинный Cabo Blanco, оставьте ему отдельный день вместо плотного совмещения с водопадом и паромом.",
+        "sources": [
+          "paquera-ferry-live",
+          "nomad-ferry",
+          "montezuma-october-2026",
+          "cabo-blanco-qbl-10"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nieves Surf Camping",
+        "source": "camp-avellanas",
+        "note": "Точный пин ворот, место под машину или наземную палатку и договорённость о заезде.",
+        "phone": "+506 8679 5278",
+        "url": "https://wa.me/50686795278"
+      },
+      {
+        "name": "Nalu Surf School",
+        "source": "nalu-surf",
+        "note": "Размер группы, формат урока, точка встречи и доска.",
+        "phone": "+506 8733 1661",
+        "url": "https://wa.me/50687331661"
+      },
+      {
+        "name": "Naviera Tambor",
+        "source": "paquera-ferry-live",
+        "note": "Рейс в Paquera, автомобильные места и правила посадки."
+      }
+    ],
+    "nearby": [
+      "avellanas-camp",
+      "cabo-blanco-sueco",
+      "montezuma",
+      "santateresa"
+    ],
+    "track": "paquera-ferry-live"
+  },
+  "monteverde-reserve": {
+    "stops": [
+      {
+        "point": "monteverde-gate",
+        "role": "Вход в облачный лес",
+        "note": "Первичная регистрация у Centro de Visitantes примерно в 1,5 км ниже въезда. Пин смотрите на сайте резервата."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где оставить машину",
+        "text": "Оператор организует регистрацию в центре посетителей и бесплатный трансфер к лесному входу. Уточните последний шаттл и конкретный пин до поездки. На карте отмечен лесной вход. Для прогулки без машины согласуйте точку встречи в центре.",
+        "sources": [
+          "monteverde-visitor-center",
+          "monteverde-routes-plan"
+        ]
+      },
+      {
+        "title": "Тропы по времени и погоде",
+        "text": "План резервата описывает приблизительно 13 км сети. Для нескольких часов возьмите короткий маршрут по карте дня. Другие виды, мосты и отдельные подъёмы добавляйте по состоянию дорожек и времени. В облачном лесу дождь и туман влияют на видимость.",
+        "sources": [
+          "monteverde-routes-plan",
+          "monteverde-visitor-center",
+          "curi-monteverde-chamber"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Centro Científico Tropical · Monteverde",
+        "source": "monteverde-visitor-center",
+        "note": "Запись, пин центра посетителей, время шаттла и доступные тропы."
+      }
+    ],
+    "nearby": [
+      "curi-cancha",
+      "chira-glamp",
+      "forest-highland-4"
+    ],
+    "track": "monteverde-visitor-center"
+  },
+  "curi-cancha": {
+    "stops": [
+      {
+        "point": "curi-cancha-gate",
+        "role": "Стойка Curi-Cancha · начало прогулок",
+        "note": "Точку встречи с гидом подтвердите в день визита."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лес без спешки",
+        "text": "Пройдите открытые луга и тропы на границе первичного и вторичного леса. Для птиц подойдёт отдельный выход с местным гидом. На стойке уточните, какая петля займёт столько времени, сколько удобно группе.",
+        "sources": [
+          "curi",
+          "curi-local-guide",
+          "curi-monteverde-chamber"
+        ]
+      },
+      {
+        "title": "Вход и соседний маршрут",
+        "text": "У резервата свой вход и отдельные часы. Основной облачный заповедник Monteverde требует отдельной регистрации и другого подъезда. Для двух лесных визитов оставьте время на переезд и ожидание.",
+        "sources": [
+          "curi-monteverde-chamber",
+          "curi-local-guide",
+          "monteverde-visitor-center"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Reserva Curi-Cancha",
+        "source": "curi-monteverde-chamber",
+        "note": "Время входа, экскурсия и открытые петли.",
+        "phone": "+506 2645 6915",
+        "email": "curicancha.mv@gmail.com"
+      },
+      {
+        "name": "Monteverde Expeditions",
+        "source": "curi-local-guide",
+        "note": "Частный или групповой гид и точка встречи."
+      }
+    ],
+    "nearby": [
+      "monteverde-reserve",
+      "chira-glamp",
+      "forest-highland-4"
+    ],
+    "track": "curi"
+  },
+  "selvatura": {
+    "stops": [
+      {
+        "point": "selvatura-park-gate",
+        "role": "Selvatura · касса и старт на площадке",
+        "note": "Для прогулки по мостам и канопи оформляются выбранные программы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "3 км и восемь подвесных мостов",
+        "text": "Оператор описывает восьмимостовой маршрут около 3 км. Для семейной прогулки уточните ступени, мокрый настил и возврат. Пропуск на канопи имеет свои ограничения, в FAQ указан минимальный возраст 4 года с сопровождением взрослого.",
+        "sources": [
+          "selvatura-bridges-map",
+          "selvatura-family-faq"
+        ]
+      },
+      {
+        "title": "Въезд из Santa Elena",
+        "text": "Парковку и фактический подъезд уточняйте у Selvatura. Часть программы можно провести на земле, если кто-то не хочет идти на высоту. Расписание меняется с дождём и ветром на мостах.",
+        "sources": [
+          "selvatura-contact-current",
+          "selvatura-family-faq",
+          "salva"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Selvatura Park",
+        "source": "selvatura-contact-current",
+        "note": "Опции для семьи, билеты, место встречи и состояние подъезда.",
+        "phone": "+506 4001 7895"
+      }
+    ],
+    "nearby": [
+      "treetopia",
+      "curi-cancha",
+      "chira-glamp"
+    ],
+    "track": "selvatura-bridges-map"
+  },
+  "treetopia": {
+    "stops": [
+      {
+        "point": "treetopia-gate",
+        "role": "Treetopia · парковка и место сбора",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Спокойный вариант — Tree Tram",
+        "text": "Подъёмник и возвращение занимают около 20 минут поездки. На всё посещение с площадкой оператор ориентирует примерно на час. На верхней станции есть кафе. Билет на Tree Tram можно взять отдельной программой.",
+        "sources": [
+          "treetopia-tram-official",
+          "treetopia-visit-faq"
+        ]
+      },
+      {
+        "title": "Мосты и канопи по выбору",
+        "text": "Прогулка по мостам и спуски на тросах относятся к другим программам. Семье с разными предпочтениями удобно сверить возраст, границы совместного маршрута и точку встречи после возврата с верхней станции.",
+        "sources": [
+          "treetopia-visit-faq",
+          "tree",
+          "treetopia-contact-point"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Treetopia Park",
+        "source": "treetopia-contact-point",
+        "note": "Въезд, Tree Tram, ограничения отдельных троп и погодный перенос.",
+        "phone": "+506 4000 0895"
+      }
+    ],
+    "nearby": [
+      "selvatura",
+      "chira-glamp",
+      "monteverde-reserve"
+    ],
+    "track": "treetopia-tram-official"
+  },
+  "chira-glamp": {
+    "stops": [
+      {
+        "point": "chira-glamp-approach",
+        "role": "Chira · ориентир подъезда Sapo Dorado",
+        "note": "Координаты ориентира и финальный пин заселения подтвердите у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Купол для семьи и соседний лес",
+        "text": "Оператор описывает семейный номер до пяти человек с двумя кроватями и диваном. Уточните план размещения ребёнка, лестницы и парковку. Дневную прогулку в Curi-Cancha или основной заповедник планируйте с отдельным входом.",
+        "sources": [
+          "chira-family-units",
+          "chira-monteverde-directory",
+          "curi-monteverde-chamber"
+        ]
+      },
+      {
+        "title": "Еда и вечерняя программа",
+        "text": "San Lucas находится на территории комплекса и работает по записи. Уточните меню, доступность по возрасту и время перед тем, как строить вечер вокруг ресторана. Для ночёвки возможен отдельный план еды и короткая прогулка утром.",
+        "sources": [
+          "chira-monteverde-directory",
+          "chira-family-units"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Chira Glamping Monteverde",
+        "source": "chira-family-units",
+        "note": "Формат купола, парковка, позднее прибытие и бронирование на месте.",
+        "phone": "+506 8456 1022",
+        "url": "https://wa.me/50684561022"
+      }
+    ],
+    "nearby": [
+      "curi-cancha",
+      "monteverde-reserve",
+      "forest-highland-4"
+    ],
+    "track": "chira-family-units"
+  },
+  "piedra-angel": {
+    "stops": [
+      {
+        "point": "miramar-town",
+        "role": "Miramar · дорожный ориентир",
+        "note": ""
+      },
+      {
+        "point": "piedra-angel-glamp",
+        "role": "Glamping Piedra Ángel · точка по карте муниципалитета",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "База в Montes de Oro",
+        "text": "Муниципальный путеводитель указывает оборудованное размещение в горном районе. Спросите о погоде, проезде к площадке, доступной стоянке и формате проживания. Используйте пин муниципальной карты как ориентир до финального указания хозяина.",
+        "sources": [
+          "piedra",
+          "piedra-angel-municipal-point"
+        ]
+      },
+      {
+        "title": "Короткое знакомство с Miramar",
+        "text": "Если едете с побережья, Miramar удобно использовать для покупки еды. Вместо позднего проезда на склон согласуйте время заезда при дневном свете. В другом районе облачных лесов можно выбрать отдельный маршрут Monteverde.",
+        "sources": [
+          "piedra-angel-municipal-point",
+          "piedra",
+          "monteverde-visitor-center"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Glamping Piedra Ángel",
+        "source": "piedra",
+        "note": "Бронирование, местный подъезд и режим площадки."
+      }
+    ],
+    "nearby": [
+      "chira-glamp",
+      "forest-highland-4"
+    ],
+    "track": "piedra-angel-municipal-point"
+  },
+  "carara": {
+    "stops": [
+      {
+        "point": "carara-reception",
+        "role": "Основной сектор Carara · касса и короткие тропы",
+        "note": ""
+      },
+      {
+        "point": "carara-laguna-access",
+        "role": "Отдельный северный подход к Laguna Meándrica",
+        "note": "Уточните у кассы, открыт ли данный сектор и где оставить машину."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейная прогулка в основном секторе",
+        "text": "У главной станции начинается маршрут универсального доступа около 1,2 км и короткие соединения по лесу. Для детской коляски уточните открытый участок и состояние настила. Тем, кто едет за птицами, стоит уточнить время местного проводника.",
+        "sources": [
+          "carara-sinac-footpaths",
+          "carara-map"
+        ]
+      },
+      {
+        "title": "Laguna Meándrica и отдельная парковка",
+        "text": "К лагуне ведёт отдельная тропа около 2 км в одну сторону, её вход расположен севернее основного. После осадков проверяйте состояние каждой части у рейнджеров. Для короткого дня оставайтесь в основном секторе, если доступ к лагуне ограничен.",
+        "sources": [
+          "carara-sinac-footpaths",
+          "carara-map",
+          "sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Carara",
+        "source": "carara-sinac-footpaths",
+        "note": "Универсальная тропа, Lagúna Meándrica и правила посещения."
+      }
+    ],
+    "nearby": [
+      "jaco-surf",
+      "vista-suenos",
+      "manuel-antonio"
+    ],
+    "track": "carara-map"
+  },
+  "vista-suenos": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Vista Los Sueños · ресепшен и экипировка",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Канопи и водопад",
+        "text": "По правилам организатора канопи доступен с четырёх лет при подходящем снаряжении. Проверьте рост и ограничения по конкретной программе. Поездка к водопаду оформляется отдельно или в пакете. Возможность захода к воде зависит от осадков.",
+        "sources": [
+          "herradura-adventure-faq",
+          "los-suenos"
+        ]
+      },
+      {
+        "title": "Квадроциклы и багги",
+        "text": "FAQ указывает водительское удостоверение и возраст от 18 лет для водителя. Маленькие дети могут допускаться только пассажирами в определённом транспорте; для возраста 4–8 лет указан багги, от 9 лет возможен двухместный ATV со взрослым. Подтвердите выбранную программу до оплаты.",
+        "sources": [
+          "herradura-adventure-faq",
+          "los-suenos"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vista Los Sueños Adventure Park",
+        "source": "los-suenos",
+        "note": "Точка встречи, возраст, выбор программы и актуальная дорога.",
+        "phone": "+506 2637 6020",
+        "url": "https://wa.me/50683423683"
+      }
+    ],
+    "nearby": [
+      "carara",
+      "jaco-surf",
+      "maverick"
+    ],
+    "track": "herradura-adventure-faq"
+  },
+  "jaco-surf": {
+    "stops": [
+      {
+        "point": "jaco-beach-center",
+        "role": "Playa Jacó · ориентир пляжа",
+        "note": "Место встречи школы у Calle Bohío получите при записи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первый урок в Jacó",
+        "text": "Местные школы подбирают участок по волне и опыту. Tico Surf Lessons работает в районе Calle Bohío, в каталоге есть несколько независимых школ и прокатов. Для ребёнка уточните отношение числа учеников к инструктору и условия отмены.",
+        "sources": [
+          "jaco-tico-surf",
+          "jaco-local-surf-list",
+          "ict-surf"
+        ]
+      },
+      {
+        "title": "Сёрф и береговой отдых",
+        "text": "Планируйте урок отдельно от купания. На открытом берегу остаются прилив и обратные течения, а устья требуют осторожности. Для более мощных волн и наблюдения за опытными сёрферами выделите отдельную остановку в Playa Hermosa de Garabito.",
+        "sources": [
+          "jaco-local-surf-list",
+          "red-cross",
+          "ict-puntarenas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tico Surf Lessons",
+        "source": "jaco-tico-surf",
+        "note": "Прокат, урок, уровень группы и место сбора."
+      }
+    ],
+    "nearby": [
+      "hermosa-jaco",
+      "vista-suenos",
+      "maverick"
+    ],
+    "track": "jaco-local-surf-list"
+  },
+  "hermosa-jaco": {
+    "stops": [
+      {
+        "point": "hermosa-jaco-shore",
+        "role": "Playa Hermosa de Garabito · берег южнее Jacó",
+        "note": "Это тихоокеанский берег возле Jacó. Выбирайте подъезд по местным указателям."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Открытый берег с сильной волной",
+        "text": "Для прогулки используйте береговой выход, а для сёрфа согласуйте уровень и состояние моря с местной школой. При крупном прибое можно остаться наблюдать с берега. Для первого урока оцените организованный вариант в Jacó.",
+        "sources": [
+          "ict-surf",
+          "jaco-local-surf-list",
+          "red-cross"
+        ]
+      },
+      {
+        "title": "Подъезд со стороны Jacó",
+        "text": "Используйте название Garabito при поиске дороги. Похожие названия есть у других пляжей. Согласуйте место парковки и возвращение до темноты, если приезжаете к закату.",
+        "sources": [
+          "ict-puntarenas",
+          "jaco-local-surf-list"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tico Surf Lessons",
+        "source": "jaco-tico-surf",
+        "note": "Выезды с проводником из Jacó и выбор пляжа по текущим условиям."
+      }
+    ],
+    "nearby": [
+      "jaco-surf",
+      "vista-suenos",
+      "manuel-antonio"
+    ],
+    "track": "jaco-local-surf-list"
+  },
+  "maverick": {
+    "stops": [
+      {
+        "point": "los-suenos-marina-point",
+        "role": "Los Sueños Resort & Marina · Herradura",
+        "note": "Точный причал и час регистрации назначает экипаж."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Рыбалка на полдня или на день",
+        "text": "Maverick публикует чартеры из Herradura. Спросите границы прибрежной программы по сезону, длину рейса, доступ на борт и подходящий вариант для детей. Правила рыбалки и личную лицензию проверьте до выхода.",
+        "sources": [
+          "maverick-herradura-departure",
+          "maverick",
+          "incopesca-sport-fishing"
+        ]
+      },
+      {
+        "title": "Состав цены и снастей",
+        "text": "Попросите список того, что включено в конкретный чартер, и подтверждение точки сбора. Лицензия не входит в заявленную цену чартеров Herradura. Условия вида рыбы и выпуска сверяйте с капитаном и INCOPESCA.",
+        "sources": [
+          "maverick-herradura-departure",
+          "incopesca-sport-fishing",
+          "ict-fish"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Maverick Sportfishing · Herradura",
+        "source": "maverick-herradura-departure",
+        "note": "Рейс, точный док, снасти и проверка разрешений.",
+        "phone": "+506 2637 8942"
+      }
+    ],
+    "nearby": [
+      "jaco-surf",
+      "quepos-catamaran",
+      "vista-suenos"
+    ],
+    "track": "maverick-herradura-departure"
+  },
+  "manuel-antonio": {
+    "stops": [
+      {
+        "point": "manuel-antonio-puesto",
+        "role": "Официальный вход · контроль билета",
+        "note": ""
+      },
+      {
+        "point": "manuel-catedral-point",
+        "role": "Punta Catedral · ориентир круговой прогулки",
+        "note": ""
+      },
+      {
+        "point": "manuel-gemelas-view",
+        "role": "Смотровая в сторону Playa Gemelas",
+        "note": "Отдельная ветка для более длинного выхода."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий El Perezoso и круг Punta Catedral",
+        "text": "Парк публикует короткий вариант к внутренним пляжам по El Perezoso. Punta Catedral добавляет около 1,4 км по оценке ICT. Для семьи выберите одну основную ветку и короткую прогулку на пляж, чтобы успеть вернуться к закрытию.",
+        "sources": [
+          "manuel-ict-footpaths",
+          "manuel-sinac-map",
+          "ma"
+        ]
+      },
+      {
+        "title": "Билет, гид и еда",
+        "text": "SINAC указывает электронную продажу, закрытие по вторникам и правила провоза еды. Если нанимаете гида, нужный офис зарегистрированных гидов находится в парке. Порядок входа и открытые участки проверьте до выезда.",
+        "sources": [
+          "ma",
+          "reservas",
+          "manuel-sinac-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Manuel Antonio",
+        "source": "ma",
+        "note": "Самостоятельный вход по времени и действующие условия посещения.",
+        "url": "https://serviciosenlinea.sinac.go.cr/"
+      },
+      {
+        "name": "Asociación de Guías Certificados de Quepos",
+        "source": "ma",
+        "note": "Согласование местного гида и удобного семейного круга.",
+        "phone": "+506 8671 1813",
+        "email": "tourguidepnma@gmail.com"
+      }
+    ],
+    "nearby": [
+      "quepos-catamaran",
+      "carara",
+      "jaco-surf"
+    ],
+    "track": "manuel-sinac-map",
+    "line": "manuel-antonio"
+  },
+  "forest-highland-4": {
+    "stops": [
+      {
+        "point": "chira-glamp-approach",
+        "role": "День 1 · Sapo Dorado и жильё",
+        "note": "Фактическую точку заселения уточните у хозяев."
+      },
+      {
+        "point": "monteverde-gate",
+        "role": "День 2 · вход в облачный заповедник",
+        "note": "Регистрация и парковка в центре посетителей. Оттуда идёт шаттл к лесу."
+      },
+      {
+        "point": "curi-cancha-gate",
+        "role": "День 2 · отдельный вариант Curi-Cancha",
+        "note": "Удобно выбрать один длинный выход."
+      },
+      {
+        "point": "savegre-dota-base",
+        "role": "День 3 · долина Savegre в San Gerardo de Dota",
+        "note": "Заложите часы на горную дорогу и заселение."
+      },
+      {
+        "point": "quetzales-entry",
+        "role": "День 4 · станция Ojo de Agua и выход на Ruta 2",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два облачных леса и длинный переезд",
+        "text": "В Monteverde выбирайте один проверенный вход и одну ночёвку рядом. Переезд к San Gerardo de Dota проходит через национальные дороги и занимает значительную часть дня. При тумане и дожде организуйте заезд до темноты.",
+        "sources": [
+          "tico-cloud",
+          "monteverde-visitor-center",
+          "dota-ict-forest"
+        ]
+      },
+      {
+        "title": "Транспорт и возраст",
+        "text": "Лоджи и глэмпинги подтверждают количество гостей и детские условия. На четвёртый день Los Quetzales можно взять коротким выходом от станции Ojo de Agua. Для более сложной прогулки останьтесь ещё на одну ночь в долине.",
+        "sources": [
+          "chira-family-units",
+          "queta",
+          "dota-ict-forest"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Centro Científico Tropical · Monteverde",
+        "source": "monteverde-visitor-center",
+        "note": "Запись, пин центра посетителей, время шаттла и доступные тропы."
+      },
+      {
+        "name": "Reserva Curi-Cancha",
+        "source": "curi-monteverde-chamber",
+        "note": "Время входа, экскурсия и открытые петли.",
+        "phone": "+506 2645 6915",
+        "email": "curicancha.mv@gmail.com"
+      },
+      {
+        "name": "Chira Glamping Monteverde",
+        "source": "chira-family-units",
+        "note": "Ночёвка и конечный участок подъезда.",
+        "phone": "+506 8456 1022",
+        "url": "https://wa.me/50684561022"
+      }
+    ],
+    "nearby": [
+      "monteverde-reserve",
+      "curi-cancha",
+      "savegre",
+      "los-quetzales"
+    ],
+    "track": "tico-cloud"
+  },
+  "savegre": {
+    "stops": [
+      {
+        "point": "savegre-dota-base",
+        "role": "Savegre · местная база и вход в частную сеть",
+        "note": "Сверьте свой лодж и место встречи с проводником."
+      },
+      {
+        "point": "quetzales-entry",
+        "role": "Прогулка отдельного дня · станция Los Quetzales",
+        "note": "Отдельный подъезд от Ruta 2."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Тропы на выбор от 400 м до 6,2 км",
+        "text": "Savegre публикует пять троп разной сложности в частном лесу. Для детей начните с короткого выхода и уточните, где удобно развернуться. Для длинного выбора попросите перепад высот и суммарную длину у ресепшена.",
+        "sources": [
+          "savegre-local-trails",
+          "dota"
+        ]
+      },
+      {
+        "title": "Горная ночёвка и утро в лесу",
+        "text": "Согласуйте проживание, тёплый слой, парковку и последний дневной пин. Вход в частный лес входит в услуги проживания по данным оператора. Уточняйте условия разового визита. На второй день можно выбрать отдельный государственный сектор Los Quetzales.",
+        "sources": [
+          "savegre-local-trails",
+          "savegre",
+          "queta"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Savegre Mountain Hotel",
+        "source": "savegre",
+        "note": "Выбор тропы, вход для гостей и дневное посещение."
+      }
+    ],
+    "nearby": [
+      "los-quetzales",
+      "forest-highland-4"
+    ],
+    "track": "savegre-local-trails"
+  }
+}

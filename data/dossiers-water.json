@@ -638,12 +638,17 @@
   "sierpe-boat": {
     "stops": [
       {
-        "point": "sierpe-ferry",
-        "role": "Район причалов Sierpe",
-        "note": "У каждого оператора свой док. На карте обозначен общественный ориентир у парома."
+        "point": "sierpe-perla",
+        "role": "La Perla del Sur · ориентир пассажирской посадки",
+        "note": "Организатор отдельной экскурсии по манграм может назначить другой причал."
+      },
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Лодочный вариант до Playa Agujitas",
+        "note": "Уточните место и время высадки, если едете дальше в Дрейк."
       }
     ],
-    "track": null,
+    "track": "sierpe-xplorer-logistics",
     "sections": [
       {
         "title": "Мангры с местным гидом",
@@ -667,8 +672,10 @@
     "contacts": [
       {
         "name": "SierpeXplorer",
-        "source": "sierpe",
-        "note": "Лодочные экскурсии, трансфер и адрес встречи в Сьерпе."
+        "source": "sierpe-xplorer-contacts",
+        "note": "Лодочные экскурсии, трансфер и адрес встречи в Сьерпе.",
+        "phone": "+506 6232 5199",
+        "url": "https://wa.me/50662325199"
       },
       {
         "name": "Sierpe Outfitters",
@@ -679,7 +686,8 @@
     "nearby": [
       "sierpe-fishing",
       "ganadito-roof",
-      "osa-expedition-6"
+      "osa-expedition-6",
+      "drake-without-car-3"
     ]
   },
   "sierpe-fishing": {
