@@ -15,5 +15,9 @@
   {"name":"Gran Fondo Guanacaste · карты и выпуск","url":"https://www.granfondoguanacaste.com/","paths":["/storage/gpx/","/storage/documentos/"]},
   {"name":"Carrera Chirripó · запись и регламент","url":"https://www.carrerachirripo.com/","paths":["/inscripcion/","/reglamento-","/wp-content/uploads/"]},
   {"name":"Ríos Lodge · участие со своей лодкой","url":"https://rioslodge.com/pacuare-costa-rica-faq/","paths":["/pacuare-costa-rica-","/rafting-","/contact-"]},
-  {"name":"Mar a Mar · действующий комплект GPX","url":"https://caminodecostarica.org/es/planifica-tu-excursion/autoguiado/","paths":["/scl/fo/","/es/descubre/etapa/","/es/planifica-tu-excursion/"]}
+  {"name":"Mar a Mar · действующий комплект GPX","url":"https://caminodecostarica.org/es/planifica-tu-excursion/autoguiado/","paths":["/scl/fo/","/es/descubre/etapa/","/es/planifica-tu-excursion/"]},
+  {"name":"Visit Paquera · местные активности и сообщества","url":"https://www.visitpaquera.com/es/","paths":["/es/"]},
+  {"name":"Caño Negro Experience · местные наблюдения и маршруты","url":"https://www.canonegroexperience.com/","paths":["/tours","/packages","/package","/lacotinga","/blog/"]},
+  {"name":"Bahía Rica · каяк, SUP и рыбалка","url":"https://www.bahiarica.com/tours","paths":["/tour/","/news/"]},
+  {"name":"Isla de Chira · лодки и сельский туризм","url":"https://islachira.com/","paths":["/como-","/tour","/hosp","/contact","/actividad"]}
 ]

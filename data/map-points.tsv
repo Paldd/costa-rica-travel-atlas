@@ -302,3 +302,26 @@ camino-gpx-stop-quepos	Quepos · конец опубликованного тр�
 camino-gpx-stop-parismina	Parismina · выход к берегу от пристани	10.305442	-83.352094	camino-maram-gpx-library
 camino-gpx-stop-coast-edge	Берег Парисмины · конец непрерывного пешего трека	10.29502	-83.339502	camino-maram-gpx-library
 camino-gpx-stop-perlas	Laguna Perlas · район начала водной части в GPX	10.272800261108578	-83.32186281681061	camino-maram-gpx-library
+costa-pajaros-pier-area	Costa de Pájaros · район общественного причала	10.0940645	-84.9781751	osm-cr-points
+chira-bocana-town	Bocana · восточная часть острова Чира	10.0907338	-85.1202142	osm-cr-points
+chira-puerto-palito-town	Puerto Palito · рыбацкий посёлок Чиры	10.0947344	-85.1862417	osm-cr-points
+cano-negro-community	Caño Negro · центр поселения	10.8923071	-84.7865165	osm-cr-points
+cano-negro-sinac-visitor	Caño Negro · станция SINAC	10.89201	-84.7879021	osm-cr-points
+cano-negro-observation-tower	Caño Negro · башня наблюдения	10.8897584	-84.781326	osm-cr-points
+puerto-lindo-public-dock	Puerto Lindo · публичный причал	10.6850323	-83.667111	osm-cr-points
+barra-colorado-norte-landing	Barra del Colorado · береговая остановка Barra Norte	10.7732934	-83.5937917	osm-cr-points
+barra-colorado-sur-landing	Barra del Colorado Sur · береговая остановка	10.7730655	-83.5878646	osm-cr-points
+golfito-jimenez-passenger-pier	Golfito · пассажирский причал на Puerto Jiménez	8.6273092	-83.1575039	osm-cr-points
+puerto-jimenez-town-center	Puerto Jiménez · центр посёлка	8.5354115	-83.3061343	osm-cr-points
+golfo-dulce-rincon-sector	Bahía Rincón · сектор старта каяк-экспедиции	8.7000741	-83.4800275	osm-cr-points
+golfo-dulce-mogos-sector	Los Mogos · район Playitas	8.7314211	-83.3917433	osm-cr-points
+golfo-dulce-esquinas-sector	Punta Esquinas · ориентир берега	8.6849179	-83.3300089	osm-cr-points
+golfo-dulce-sanjosecito-sector	San Josecito · береговой сектор Golfo Dulce	8.6591335	-83.2541734	osm-cr-points
+los-arroyos-pond	Los Arroyos · семейный рыболовный пруд	10.1147223	-84.416703	los-arroyos-contact
+espiritu-santo-coffee-tour	Coopronaranjo · Espíritu Santo Coffee Tour	10.0954606	-84.3829325	osm-cr-points
+bahia-rica-base	Bahía Rica · база по карте оператора	9.8338577	-84.8954934	bahia-rica-directions
+curu-refuge-base	Curú · зона посещения и кабины	9.7898319	-84.9247333	curu-refuge-official
+curu-route-entrance	Curú · поворот на Calle Playa Curú	9.7839236	-84.944513	osm-cr-points
+paquera-town-center	Paquera · центр посёлка	9.8203322	-84.9331162	osm-cr-points
+playa-organos-road-end	Playa Órganos · конец берегового подъезда	9.8120119	-84.8999083	osm-cr-points
+playa-organos-road-turn	Calle Playa Órganos · поворот с основной дороги	9.8231263	-84.9133308	osm-cr-points

@@ -1,0 +1,1232 @@
+{
+  "chira-fishing-island-2": {
+    "stops": [
+      {
+        "point": "costa-pajaros-pier-area",
+        "role": "День 1 · район причала Costa de Pájaros",
+        "note": "Подтвердите точку посадки и парковку у местного перевозчика."
+      },
+      {
+        "point": "chira-bocana-town",
+        "role": "День 1 · район Bocana",
+        "note": "Восточный ориентир острова. Место высадки и ночлег обязательно подтвердите отдельно."
+      },
+      {
+        "point": "chira-puerto-palito-town",
+        "role": "День 2 · Puerto Palito",
+        "note": "Рыбацкий посёлок. Согласуйте местного проводника и допустимый формат водного выезда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как попасть без автомобиля",
+        "text": "По данным островного портала сесть на лодку можно у причала Costa de Pájaros или в эстуарии у рынка Пунтаренаса. Владелец лодки должен подтвердить день, место высадки, возврат и багаж. Для трансфера у островитян есть Juanca Tours и Chira Transmare BM.",
+        "sources": [
+          "isla-chira-embarkation",
+          "aresep-ferry-lanchas"
+        ]
+      },
+      {
+        "title": "Местное размещение и еда",
+        "text": "Posada Rural La Amistad приводится в исследовании UNA как проект сельского туризма с экскурсиями. Уточните действующий режим и готовность принять вашу группу через портал. Местный репортаж рассказывает о проекте по выращиванию устриц, который ведут женщины острова. Уточняйте возможность визита или обеда заранее.",
+        "sources": [
+          "isla-chira-local",
+          "una-chira-la-amistad",
+          "yo-amo-puntarenas-chira"
+        ]
+      },
+      {
+        "title": "Прогулка с рыбаками",
+        "text": "Знакомство с традиционной рыбалкой и спортивный заброс согласовываются отдельно. Palito–Montero — зона с собственным планом. Просите гида показать допустимый участок и объяснить, какой тип лицензии применим к вашему участию.",
+        "sources": [
+          "incopesca-palito-montero",
+          "isla-chira-local",
+          "incopesca-angling-card"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Isla de Chira · местный туристический портал",
+        "source": "isla-chira-local-contact",
+        "note": "Посадка, гиды, жильё и местные блюда. Второй номер +506 8354 9833.",
+        "phone": "+506 8314 9223",
+        "url": "https://islachira.com/contacto/",
+        "email": "info@islachira.com"
+      },
+      {
+        "name": "Juanca Tours · Juan Carlos",
+        "source": "isla-chira-embarkation",
+        "note": "Местный проводник и индивидуальная лодка. Согласуйте высадку, рыбалку и парк.",
+        "phone": "+506 8512 2921",
+        "url": "https://islachira.com/como-llegar/"
+      },
+      {
+        "name": "Chira Transmare BM",
+        "source": "isla-chira-embarkation",
+        "note": "Трансфер и прогулка по острову. Уточните пункт посадки и возврата.",
+        "phone": "+506 8616 8333",
+        "url": "https://islachira.com/como-llegar/"
+      },
+      {
+        "name": "INCOPESCA · карне для рыбалки",
+        "source": "incopesca-angling-card",
+        "note": "Сверьте категорию, срок и необходимость отдельного оформления.",
+        "url": "https://www.incopesca.go.cr/carnets/tramites/Solicitud.aspx"
+      }
+    ],
+    "nearby": [
+      "paquera-ferry-weekend-3"
+    ]
+  },
+  "cano-negro-local-boat": {
+    "stops": [
+      {
+        "point": "cano-negro-community",
+        "role": "Сбор · поселение Caño Negro",
+        "note": "Ориентир. Попросите координаты фактического причала у гида."
+      },
+      {
+        "point": "cano-negro-sinac-visitor",
+        "role": "Информация · станция SINAC",
+        "note": "Здесь уточняют статус сектора и правила заповедника."
+      },
+      {
+        "point": "cano-negro-observation-tower",
+        "role": "Сухопутный вариант · башня",
+        "note": "Проверьте открытие и доступ. Место отмечено для прогулки при подходящих условиях."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Река, лагуны и сезон",
+        "text": "Гиды из деревни идут по Río Frío и доступным лагунам. В сухой сезон уровень меняется и часть маршрута сокращается, в дождливый больше воды и грунтовая дорога может размокать. Для фотографии закажите раннее окно и маленькую лодку с гидом.",
+        "sources": [
+          "cano-negro-directions",
+          "natural-lodge-cano-negro-boat",
+          "ict-cano-negro-destination-plan"
+        ]
+      },
+      {
+        "title": "Отзывы и местные детали",
+        "text": "Гости января и апреля 2026 года отмечали знания Ренато о птицах. Семья выбрала частную трёхчасовую лодку. Другие отзывы упоминают сложный дорожный участок, поэтому разумно уточнить подъезд до выезда.",
+        "sources": [
+          "cano-negro-experience-guest-notes",
+          "natural-lodge-cano-negro-guest-notes",
+          "cano-negro-directions"
+        ]
+      },
+      {
+        "title": "Своя лодка и рыбалка",
+        "text": "Для отдыха здесь подтверждён организованный выезд по заповеднику. Для своего каяка, SUP или рыбалки уточните допуск к конкретному сектору у SINAC и требования к лицензии, прежде чем везти снасти.",
+        "sources": [
+          "ict-cano-negro-destination-plan",
+          "natural-lodge-cano-negro-boat",
+          "incopesca-angling-card"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caño Negro Experience · Renato и местные гиды",
+        "source": "cano-negro-local-guides",
+        "note": "Запросите день, причал, подходящую длительность, гида по птицам, лодку и жилеты.",
+        "phone": "+506 8539 4437",
+        "url": "https://www.canonegroexperience.com/",
+        "email": "experiencecanonegro@gmail.com"
+      },
+      {
+        "name": "Natural Lodge Caño Negro",
+        "source": "natural-lodge-cano-negro-boat",
+        "note": "Вторая местная точка для организованного выезда. Спросите, можно ли присоединиться без проживания.",
+        "url": "https://canonegrolodge.com/wetlands-tour/"
+      }
+    ],
+    "nearby": [
+      "cano-negro-lagoon-weekend-2"
+    ]
+  },
+  "cano-negro-lagoon-weekend-2": {
+    "stops": [
+      {
+        "point": "cano-negro-community",
+        "role": "День 1 · деревня, еда и гиды",
+        "note": "Уточните адрес La Cotinga, ночлега и вечернего старта."
+      },
+      {
+        "point": "cano-negro-sinac-visitor",
+        "role": "День 2 · станция заповедника",
+        "note": "Ориентир для проверки открытого сектора. Фактический причал подсказывает гид."
+      },
+      {
+        "point": "cano-negro-observation-tower",
+        "role": "Дополнительно · смотровая башня",
+        "note": "Подъезд и доступ проверяются на месте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъезд с севера и запада",
+        "text": "Местный оператор даёт варианты с трасс 35 и 4 через 138. Уточните, какая ветка лучше после дождя. Автобус из Los Chiles или Upala ходит по отдельному режиму, оператор указывает исключение на воскресенье. Без машины заранее закажите обратный трансфер.",
+        "sources": [
+          "cano-negro-directions",
+          "ict-cano-negro-destination-plan"
+        ]
+      },
+      {
+        "title": "Хозяйский пакет и семейный темп",
+        "text": "Caño Negro Experience публикует связку из одной ночи, вечерней прогулки и лодки на рассвете. Для детей можно заменить позднюю часть ранним ужином и выбрать меньшую длительность на воде. Уточните комаров, меню и точку посадки у местной команды.",
+        "sources": [
+          "cano-negro-local-packages",
+          "cano-negro-local-guides"
+        ]
+      },
+      {
+        "title": "Отзывы о ночлеге и дороге",
+        "text": "Гости Natural Lodge в 2025–2026 годах описывают лодку на рассвете, птиц около ресторана и выбоины на дороге. Если нужны конкретные удобства в номере или более длинный водный выезд, запросите это отдельно.",
+        "sources": [
+          "natural-lodge-cano-negro-guest-notes",
+          "cano-negro-experience-guest-notes"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caño Negro Experience · Renato и местные гиды",
+        "source": "cano-negro-local-guides",
+        "note": "Попросите программу 1 ночь / 2 дня, маршрут подъезда и время работы La Cotinga.",
+        "phone": "+506 8539 4437",
+        "url": "https://www.canonegroexperience.com/",
+        "email": "experiencecanonegro@gmail.com"
+      },
+      {
+        "name": "La Cotinga · местное кафе",
+        "source": "cano-negro-local-guides",
+        "note": "Меню и часы через Caño Negro Experience.",
+        "url": "https://www.canonegroexperience.com/lacotingarestaurant"
+      }
+    ],
+    "nearby": [
+      "cano-negro-local-boat"
+    ]
+  },
+  "barra-colorado-tarpon-boat": {
+    "stops": [
+      {
+        "point": "puerto-lindo-public-dock",
+        "role": "Доступ · публичный причал Puerto Lindo",
+        "note": "Из Cariari по грунтовой дороге. Последнюю общественную лодку уточняют до выезда."
+      },
+      {
+        "point": "barra-colorado-norte-landing",
+        "role": "Ориентир переправы · Barra Norte",
+        "note": "Проверьте, где сойти и есть ли стыковка до лоджа."
+      },
+      {
+        "point": "barra-colorado-sur-landing",
+        "role": "Район встречи · Barra Sur",
+        "note": "Это общественная береговая остановка, точку посадки на рыбалку сообщает капитан."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Локальный капитан и альтернатива",
+        "text": "Kawe Lodge работает в районе Barra Sur и публикует лодочные программы на спиннинг и нахлыст. Rio Colorado Lodge публикует более длительные выезды с трансфером и проживанием. Для одного дня уточните формат без пакета и размер лодки.",
+        "sources": [
+          "kawe-barra-colorado",
+          "kawe-barra-tarpon",
+          "rio-colorado-lodge-fishing"
+        ]
+      },
+      {
+        "title": "Правила водоёма",
+        "text": "План ACTO делит воды по секторам и видам рыболовства. Уточните до выхода, какой документ нужен на ваш участок, какая снасть допустима и что делать с уловом. Морской выход через устье капитан оценивает отдельно.",
+        "sources": [
+          "acto-barra-colorado-fishing-plan",
+          "incopesca-angling-card",
+          "acto-barra-colorado-visit"
+        ]
+      },
+      {
+        "title": "Опыт гостей",
+        "text": "Гости Kawe описывают рыбалку на тарпона в небольших группах. Используйте отзывы, чтобы задать вопросы о времени в лодке и опытности команды. Направление и результат зависят от условий дня.",
+        "sources": [
+          "kawe-barra-guest-notes",
+          "kawe-barra-tarpon"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Kawe Lodge · рыбалка и проживание",
+        "source": "kawe-barra-colorado",
+        "note": "Уточните высадку в Barra Sur, местного проводника, снасти, лицензию и погодную отмену.",
+        "url": "https://www.kawelodge.com/",
+        "email": "kawelodge@gmail.com"
+      },
+      {
+        "name": "Rio Colorado Lodge",
+        "source": "rio-colorado-lodge-fishing",
+        "note": "Пакеты с трансфером и несколькими днями рыбалки. Попросите актуальные условия и состав пакета.",
+        "phone": "+1 601 201 7733",
+        "url": "https://riocoloradolodge.com/2026-rates",
+        "email": "riocoloradolodgefishing@gmail.com"
+      },
+      {
+        "name": "INCOPESCA · карне для рыбалки",
+        "source": "incopesca-angling-card",
+        "note": "Сверьте категорию, срок и необходимость отдельного оформления.",
+        "url": "https://www.incopesca.go.cr/carnets/tramites/Solicitud.aspx"
+      }
+    ],
+    "nearby": [
+      "barra-colorado-fishing-weekend-3"
+    ],
+    "line": "barra-colorado-ferry-approach"
+  },
+  "barra-colorado-fishing-weekend-3": {
+    "stops": [
+      {
+        "point": "puerto-lindo-public-dock",
+        "role": "Дни 1 и 3 · причал Puerto Lindo",
+        "note": "На машине уточните парковку и грунтовый подъезд. Без машины зафиксируйте стыковку автобуса."
+      },
+      {
+        "point": "barra-colorado-norte-landing",
+        "role": "Остановка на водном отрезке · Barra Norte",
+        "note": "Уточните нужна ли пересадка на рейсе вашего дня."
+      },
+      {
+        "point": "barra-colorado-sur-landing",
+        "role": "Дни 1–3 · район ночёвки и рыбалки",
+        "note": "Встречу у причала подтверждает хозяин лоджа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Поездка выходного дня",
+        "text": "ACTO описывает подъезд по Route 247 через Cariari и участок грунтовой дороги до Puerto Lindo. Проезд по воде, билет и высадку уточняют по типу дня. С ночёвкой в Barra Sur заранее договоритесь, где принимает лодж.",
+        "sources": [
+          "acto-barra-colorado-visit",
+          "aresep-ferry-lanchas",
+          "kawe-barra-colorado"
+        ]
+      },
+      {
+        "title": "Рыболовный день",
+        "text": "Этот сценарий собирается самостоятельно из ночёвок и одного рыболовного дня. Kawe может уточнить подходящий день и лодку. Если удобно передать логистику оператору, спросите о более длинном пакете Rio Colorado Lodge.",
+        "sources": [
+          "kawe-barra-colorado",
+          "kawe-barra-tarpon",
+          "rio-colorado-lodge-fishing"
+        ]
+      },
+      {
+        "title": "Карта и правила",
+        "text": "Синяя линия показывает подход по линии каботажа из OpenStreetMap. Капитан подтверждает фактическую высадку и решение о выходе. Правила рыбалки зависят от зоны.",
+        "sources": [
+          "osm-cr-points",
+          "aresep-ferry-lanchas",
+          "acto-barra-colorado-fishing-plan"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Kawe Lodge · рыбалка и проживание",
+        "source": "kawe-barra-colorado",
+        "note": "Уточните высадку в Barra Sur, местного проводника, снасти, лицензию и погодную отмену.",
+        "url": "https://www.kawelodge.com/",
+        "email": "kawelodge@gmail.com"
+      },
+      {
+        "name": "Rio Colorado Lodge",
+        "source": "rio-colorado-lodge-fishing",
+        "note": "Пакеты с трансфером и несколькими днями рыбалки. Попросите актуальные условия и состав пакета.",
+        "phone": "+1 601 201 7733",
+        "url": "https://riocoloradolodge.com/2026-rates",
+        "email": "riocoloradolodgefishing@gmail.com"
+      },
+      {
+        "name": "INCOPESCA · карне для рыбалки",
+        "source": "incopesca-angling-card",
+        "note": "Сверьте категорию, срок и необходимость отдельного оформления.",
+        "url": "https://www.incopesca.go.cr/carnets/tramites/Solicitud.aspx"
+      }
+    ],
+    "nearby": [
+      "barra-colorado-tarpon-boat"
+    ],
+    "line": "barra-colorado-ferry-approach"
+  },
+  "golfito-jimenez-passenger-boat": {
+    "stops": [
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Посадка · Muelle Principal de Golfito",
+        "note": "Пассажирская лодка на Puerto Jiménez. Точку продажи билета уточняйте на месте."
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Высадка · Muelle Municipal",
+        "note": "Публичный причал у посёлка, база для дальнейшей поездки без автомобиля."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Туда и обратно",
+        "text": "Регулятор публикует тариф, местный отель Hoja de Oro показывает номера, карты причалов и разные рейсы по дням. Согласно инструкции отеля, билет покупают на причале, приезжают за 15–20 минут. Сверьте время непосредственно в день переправы.",
+        "sources": [
+          "aresep-ferry-lanchas",
+          "hoja-de-oro-lanchas"
+        ]
+      },
+      {
+        "title": "Стыковка с автобусом",
+        "text": "Есть вариант добраться до Пуэрто-Хименеса по дороге автобусом Blanco Lobo. Для стыковки лодки с автобусом оставляйте запас. Если путешествуете с ребёнком, уточните посадку на причале, тип судна и жилет.",
+        "sources": [
+          "hoja-de-oro-lanchas",
+          "ict-golfito-jimenez-map"
+        ]
+      },
+      {
+        "title": "Геометрия на карте",
+        "text": "Синяя линия показывает положение пассажирской переправы на OpenStreetMap. Манёвры и фактический путь определяет экипаж.",
+        "sources": [
+          "osm-cr-points",
+          "aresep-ferry-lanchas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Пассажирская лодка Golfito — Puerto Jiménez",
+        "source": "hoja-de-oro-lanchas",
+        "note": "Местный номер из страницы Hoja de Oro. Сверьте рейс, причал, погоду и место для багажа.",
+        "phone": "+506 8326 0056",
+        "url": "https://www.hotelhojadeoro.com/como-llegar/"
+      },
+      {
+        "name": "ARESEP · тариф переправы",
+        "source": "aresep-ferry-lanchas",
+        "note": "Опубликованная цена и актуальная редакция тарифа.",
+        "url": "https://aresep.go.cr/cabotaje/tarifas-lanchas/"
+      }
+    ],
+    "nearby": [
+      "golfo-dulce-weekend-no-car",
+      "golfo-dulce-mangrove-kayak",
+      "puerto-jimenez-inshore-boat"
+    ],
+    "line": "golfo-dulce-public-lancha"
+  },
+  "golfo-dulce-mangrove-kayak": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "База поездки · Puerto Jiménez",
+        "note": "Точка посёлка. Спуск и точку встречи пришлёт гид."
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Транспортный ориентир · Muelle Municipal",
+        "note": "Пассажирский причал для приезда из Golfito. Посадку на каяк согласуют отдельно."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Утро, прилив и длительность",
+        "text": "Выезд может включать открытый короткий отрезок залива и узкие мангровые протоки. Расписание привязано к уровню воды. Для вечернего варианта с биолюминесценцией запросите отдельную программу, тандемы, возраст и обратный транспорт.",
+        "sources": [
+          "osa-mangrove-dreamcatcher",
+          "ict-aventuras-tropicales-golfo-dulce"
+        ]
+      },
+      {
+        "title": "Что заметили гости в 2026 году",
+        "text": "В отзыве о раннем выезде гости описали спокойную воду на рассвете и остановку на берегу перед манграми. В марте другой гость попал на круизный день и отметил несколько больших групп в протоках. Если важна тишина, спросите о маленькой группе.",
+        "sources": [
+          "aventuras-golfo-dulce-guest-notes",
+          "aventuras-golfo-dulce-cruise-note"
+        ]
+      },
+      {
+        "title": "Условия со своим снаряжением",
+        "text": "Для выхода со своим каяком, SUP или пакрафтом получите разрешение на конкретный спуск. Согласуйте допустимую акваторию, учитывая прилив и проход моторных лодок.",
+        "sources": [
+          "ict-aventuras-tropicales-golfo-dulce",
+          "osa-mangrove-dreamcatcher"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aventuras Tropicales Golfo Dulce",
+        "source": "ict-aventuras-tropicales-golfo-dulce",
+        "note": "Рассветные и приливные выезды, тандемы, точка спуска и размер группы.",
+        "phone": "+506 2735 5195",
+        "url": "https://es.visitcostarica.com/planning-your-trip/local-agency/aventuras-tropicales-golfo-dulce",
+        "email": "info@aventurastropicales.com"
+      },
+      {
+        "name": "Osa Dreamcatcher",
+        "source": "osa-mangrove-dreamcatcher",
+        "note": "Альтернатива для мангрового и вечернего варианта.",
+        "url": "https://www.osadreamcatcher.com/producto/kayak-tour-in-golfo-dulce-explore-the-wonders-of-mangroves/"
+      }
+    ],
+    "nearby": [
+      "golfito-jimenez-passenger-boat",
+      "golfo-dulce-kayak-camp-3",
+      "golfo-dulce-weekend-no-car"
+    ]
+  },
+  "puerto-jimenez-inshore-boat": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "База · Puerto Jiménez",
+        "note": "Подтвердите у оператора собственный причал. Местные чартеры используют разные точки."
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Как добраться · публичный причал",
+        "note": "Пересадочный ориентир для пассажиров из Golfito."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Inshore или дальний выход",
+        "text": "Запросите короткую прибрежную программу, если важны время или переносимость качки. На целый день сравните размер лодки, места в тени, туалет, жилеты, воду и включённые снасти. Osa Green Travel и Fish Puerto Jiménez публикуют варианты.",
+        "sources": [
+          "osa-green-fishing",
+          "fish-puerto-jimenez-boat",
+          "fecop-osa-sportfishing"
+        ]
+      },
+      {
+        "title": "Снасти, наживка и лицензия",
+        "text": "В заливе действуют зоны ответственной рыбалки. Просите капитана уточнить разрешённые снасти и наживку для выбранной зоны и оформление карне каждому участнику, который рыбачит. Применяйте условия выпуска рыбы для вида и сектора. Район выезда меняется вместе с морем и правилами.",
+        "sources": [
+          "incopesca-angling-card",
+          "incopesca-ampr-golfo-dulce",
+          "fecop-osa-sportfishing"
+        ]
+      },
+      {
+        "title": "Как встроить в поездку",
+        "text": "Оставьте ночь в Пуэрто-Хименесе до выхода. Для компании без машины полезно согласовать время встречи накануне и оставить следующий день на мангры или переправу в Golfito.",
+        "sources": [
+          "hoja-de-oro-lanchas",
+          "osa-green-fishing",
+          "osa-mangrove-dreamcatcher"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Green Travel",
+        "source": "osa-green-fishing",
+        "note": "Согласуйте капитана, порт посадки, опыт группы, стоимость и лицензии.",
+        "phone": "+506 8868 6481",
+        "url": "https://osagreentravel.com/tour/fishing-charter/"
+      },
+      {
+        "name": "Fish Puerto Jiménez",
+        "source": "fish-puerto-jimenez-boat",
+        "note": "Альтернативная команда для прибрежного или дальнего чартера.",
+        "url": "https://www.fishpuertojimenez.com/"
+      },
+      {
+        "name": "INCOPESCA · карне для рыбалки",
+        "source": "incopesca-angling-card",
+        "note": "Сверьте категорию, срок и необходимость отдельного оформления.",
+        "url": "https://www.incopesca.go.cr/carnets/tramites/Solicitud.aspx"
+      }
+    ],
+    "nearby": [
+      "golfito-jimenez-passenger-boat",
+      "golfo-dulce-weekend-no-car",
+      "golfo-dulce-mangrove-kayak"
+    ]
+  },
+  "golfo-dulce-kayak-camp-3": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Сбор и возвращение · Puerto Jiménez",
+        "note": "Точный адрес базы и время сообщит Aventuras Tropicales."
+      },
+      {
+        "point": "golfo-dulce-rincon-sector",
+        "role": "День 1 · сектор спуска у Rincón",
+        "note": "Ориентир бухты. Точный береговой старт определяет организатор."
+      },
+      {
+        "point": "golfo-dulce-mogos-sector",
+        "role": "День 1 · сектор лагеря Playitas de Mogos",
+        "note": "На карте район Mogos. Доступ и лагерь входят в согласованный выезд."
+      },
+      {
+        "point": "golfo-dulce-esquinas-sector",
+        "role": "День 2 · сектор Ескинас",
+        "note": "Географический ориентир. Проход через мангры зависит от условий."
+      },
+      {
+        "point": "golfo-dulce-sanjosecito-sector",
+        "role": "День 2 · сектор San Josecito в заливе",
+        "note": "Имеется в виду берег Гольфо-Дульсе. Координата района, по которой нельзя выбирать самостоятельную ночёвку."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и подбор группы",
+        "text": "58 км — сумма заявленных организатором участков 18 + 22 + 18 км. Путь на воде может меняться. Один канал продажи указывает 18–70 лет, другой приводит общие семейные оговорки. Уточните действующий возрастной минимум напрямую. Для одного участника нужен набор в группу.",
+        "sources": [
+          "pelago-golfo-dulce-kayak-camp",
+          "golfo-dulce-kayak-camp-viator",
+          "ict-aventuras-tropicales-golfo-dulce"
+        ]
+      },
+      {
+        "title": "Ночёвка и снаряжение",
+        "text": "Заранее согласуйте, входят ли палатка, коврик, гермомешки и сухая одежда, как везут пресную воду, что с питанием и какой план выхода при грозе. Платформа показывает сектора стоянок, опубликованные в программе. Для самостоятельной ночёвки сначала закрепите разрешение владельца или парка.",
+        "sources": [
+          "pelago-golfo-dulce-kayak-camp",
+          "ict-aventuras-tropicales-golfo-dulce"
+        ]
+      },
+      {
+        "title": "Чтение карты",
+        "text": "На карте отмечены стартовые и береговые ориентиры по дням. В открытой программе нет навигационного трека. Пересечение залива и выбор прохода через мангры ведёт местный гид.",
+        "sources": [
+          "pelago-golfo-dulce-kayak-camp",
+          "ict-golfito-jimenez-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aventuras Tropicales Golfo Dulce",
+        "source": "ict-aventuras-tropicales-golfo-dulce",
+        "note": "Даты набора, размер группы, требования к опыту, места ночёвок и план при непогоде.",
+        "phone": "+506 2735 5195",
+        "url": "https://es.visitcostarica.com/planning-your-trip/local-agency/aventuras-tropicales-golfo-dulce",
+        "email": "info@aventurastropicales.com"
+      },
+      {
+        "name": "Пассажирская лодка Golfito — Puerto Jiménez",
+        "source": "hoja-de-oro-lanchas",
+        "note": "Местный номер из страницы Hoja de Oro. Сверьте рейс, причал, погоду и место для багажа.",
+        "phone": "+506 8326 0056",
+        "url": "https://www.hotelhojadeoro.com/como-llegar/"
+      }
+    ],
+    "nearby": [
+      "golfo-dulce-mangrove-kayak",
+      "piedras-blancas",
+      "golfito-jimenez-passenger-boat"
+    ]
+  },
+  "golfo-dulce-weekend-no-car": {
+    "stops": [
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "День 1 · посадка в Golfito",
+        "note": ""
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Дни 1 и 3 · причал Puerto Jiménez",
+        "note": ""
+      },
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "День 2 · посёлок и связь с гидом",
+        "note": "Жильё выбирайте рядом с центром. Координаты спуска на каяк и посадки на чартер диктуют операторы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Практика поездки без машины",
+        "text": "Каяк и чартер бронируются как отдельные активности. Попросите партнёров прислать точки встречи и описание дороги от центра. При плохой погоде оставьте день на посёлок и берег.",
+        "sources": [
+          "hoja-de-oro-lanchas",
+          "ict-aventuras-tropicales-golfo-dulce",
+          "osa-green-fishing"
+        ]
+      },
+      {
+        "title": "Как выбрать дни",
+        "text": "Для семейного темпа подойдут два утра с одной активностью. Если основная цель рыбалка, возьмите прибрежную программу на второй день, а мангры сделайте короткой остановкой только при удобном приливе.",
+        "sources": [
+          "osa-green-fishing",
+          "osa-mangrove-dreamcatcher",
+          "aventuras-golfo-dulce-guest-notes"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Пассажирская лодка Golfito — Puerto Jiménez",
+        "source": "hoja-de-oro-lanchas",
+        "note": "Местный номер из страницы Hoja de Oro. Сверьте рейс, причал, погоду и место для багажа.",
+        "phone": "+506 8326 0056",
+        "url": "https://www.hotelhojadeoro.com/como-llegar/"
+      },
+      {
+        "name": "Aventuras Tropicales Golfo Dulce",
+        "source": "ict-aventuras-tropicales-golfo-dulce",
+        "note": "Запросите приливной каяк с посадкой и возвратом из посёлка.",
+        "phone": "+506 2735 5195",
+        "url": "https://es.visitcostarica.com/planning-your-trip/local-agency/aventuras-tropicales-golfo-dulce",
+        "email": "info@aventurastropicales.com"
+      },
+      {
+        "name": "Osa Green Travel",
+        "source": "osa-green-fishing",
+        "note": "Согласуйте капитана, порт посадки, опыт группы, стоимость и лицензии.",
+        "phone": "+506 8868 6481",
+        "url": "https://osagreentravel.com/tour/fishing-charter/"
+      }
+    ],
+    "nearby": [
+      "golfito-jimenez-passenger-boat",
+      "golfo-dulce-mangrove-kayak",
+      "puerto-jimenez-inshore-boat"
+    ],
+    "line": "golfo-dulce-public-lancha"
+  },
+  "los-arroyos-family-fishing": {
+    "stops": [
+      {
+        "point": "los-arroyos-pond",
+        "role": "Рыболовный пруд и ресторан",
+        "note": "Официальная метка хозяев. С неё открывается проезд в Google Maps или Waze."
+      },
+      {
+        "point": "espiritu-santo-coffee-tour",
+        "role": "Дополнение · кооперативный кофе",
+        "note": "Отдельная остановка по пути через Наранхо. Экскурсию согласуйте заранее."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как провести полдня",
+        "text": "Приезжайте с запасом до обеда. Сначала уточните отдельную оплату рыбы, снастей, наживки и приготовления. Затем выберите форель или тилапию из доступных в этот день прудов. В ресторане есть и блюда без рыбы.",
+        "sources": [
+          "los-arroyos-pesca",
+          "los-arroyos-contact"
+        ]
+      },
+      {
+        "title": "Семейные детали по местным источникам",
+        "text": "Исследование UCR 2024 года зафиксировало выдачу лески и наживки и детские развлечения рядом с прудами. Сверьте работу этих услуг на выбранный день. На сайте хозяев есть прямая ссылка на отзывы Google и на навигацию Waze.",
+        "sources": [
+          "ucr-los-arroyos",
+          "los-arroyos-contact"
+        ]
+      },
+      {
+        "title": "Вариант выходных",
+        "text": "Утро здесь удобно соединить с кофе Coopronaranjo. Если хочется ночёвки в машине с палаткой на крыше, согласуйте Alto del Rualdo и оставьте запас светлого времени на подъезд.",
+        "sources": [
+          "naranjo-municipal-turismo",
+          "rualdo-family-camp"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pesca Los Arroyos",
+        "source": "los-arroyos-contact",
+        "note": "Рыбалка, снасти, готовка улова, часы работы и доступ к столикам. Дополнительный телефон +506 2451 1616.",
+        "phone": "+506 2451 2489",
+        "url": "https://www.pescacr.com/contact.html"
+      },
+      {
+        "name": "Espíritu Santo Coffee Tour · Coopronaranjo",
+        "source": "naranjo-municipal-turismo",
+        "note": "Согласуйте время экскурсии, язык и возраст детей.",
+        "phone": "+506 2450 3838",
+        "url": "https://www.naranjo.go.cr/turismo/"
+      },
+      {
+        "name": "Alto del Rualdo · Camping y Overlanding",
+        "source": "rualdo-family-camp",
+        "note": "Согласуйте площадку под размеры автомобиля с раскрытой палаткой, поздний заезд и состояние дороги.",
+        "phone": "+506 8858 9950",
+        "url": "https://altodelrualdo.com/"
+      }
+    ],
+    "nearby": [
+      "naranjo-roof-pond-2",
+      "rualdo-overlanding"
+    ]
+  },
+  "naranjo-roof-pond-2": {
+    "stops": [
+      {
+        "point": "los-arroyos-pond",
+        "role": "День 1 · рыбалка и обед",
+        "note": ""
+      },
+      {
+        "point": "rualdo-entry",
+        "role": "День 1 · въезд в кемпинг",
+        "note": "Заезд через Cirrí Sur по контакту хозяев. Площадку выбирают с оператором."
+      },
+      {
+        "point": "espiritu-santo-coffee-tour",
+        "role": "День 2 · Coopronaranjo",
+        "note": "Опционально. Уточните открытие и наличие тура на ваш день."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка и подъезд",
+        "text": "Покажите хозяевам конфигурацию крыши и уточните место под лестницу, выравнивание машины, ветер и состояние грунта. Парковка у рыболовного пруда относится к дневному визиту.",
+        "sources": [
+          "rualdo-family-camp",
+          "rualdo-camping-cr",
+          "los-arroyos-contact"
+        ]
+      },
+      {
+        "title": "Разный темп на выходные",
+        "text": "Для семьи можно оставить один пруд и кемпинг. С друзьями добавьте кооператив или повторный заезд через центр Наранхо. Приезжайте в кемпинг до темноты, чтобы увидеть уклон и выбрать сторону палатки.",
+        "sources": [
+          "naranjo-municipal-turismo",
+          "rualdo-family-camp"
+        ]
+      },
+      {
+        "title": "Что показано на карте",
+        "text": "Въезд в кемпинг, пруд и кофейный кооператив отмечены по источникам. Последний отрезок к стоянке согласуйте с хозяевами после дождя.",
+        "sources": [
+          "los-arroyos-contact",
+          "rualdo-family-camp",
+          "naranjo-municipal-turismo"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pesca Los Arroyos",
+        "source": "los-arroyos-contact",
+        "note": "Рыбалка, снасти, готовка улова, часы работы и доступ к столикам. Дополнительный телефон +506 2451 1616.",
+        "phone": "+506 2451 2489",
+        "url": "https://www.pescacr.com/contact.html"
+      },
+      {
+        "name": "Alto del Rualdo · Camping y Overlanding",
+        "source": "rualdo-family-camp",
+        "note": "Согласуйте площадку под размеры автомобиля с раскрытой палаткой, поздний заезд и состояние дороги.",
+        "phone": "+506 8858 9950",
+        "url": "https://altodelrualdo.com/"
+      },
+      {
+        "name": "Espíritu Santo Coffee Tour · Coopronaranjo",
+        "source": "naranjo-municipal-turismo",
+        "note": "Согласуйте время экскурсии, язык и возраст детей.",
+        "phone": "+506 2450 3838",
+        "url": "https://www.naranjo.go.cr/turismo/"
+      }
+    ],
+    "nearby": [
+      "los-arroyos-family-fishing",
+      "rualdo-overlanding"
+    ]
+  },
+  "paquera-inshore-fishing": {
+    "stops": [
+      {
+        "point": "paquera-port-point",
+        "role": "Подъезд · паром Paquera",
+        "note": "После выгрузки ищите левый поворот на восток по указаниям хозяев."
+      },
+      {
+        "point": "bahia-rica-base",
+        "role": "Встреча · Bahía Rica",
+        "note": "От терминала около 1,5 км грунта. Точный спуск сообщит команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор рейса",
+        "text": "На пробный выход выбирайте полдня. У Bahía Rica есть несколько судов с разной ценой и вместимостью. На сайте для короткого выезда указаны снасти, наживка, жилеты, страховка и напитки. Проверьте, относится ли озвученная цена к лодке или человеку и есть ли доплаты.",
+        "sources": [
+          "bahia-rica-inshore",
+          "bahia-rica-full-fishing"
+        ]
+      },
+      {
+        "title": "Лицензия и участок",
+        "text": "Оператор даёт отдельную ссылку покупки лицензии. До оплаты уточните, нужно ли оформить карне каждому рыбаку, какой участок согласован, разрешённые снасти и выпуск рыбы. Прибрежную банку и направление выбирает экипаж по условиям.",
+        "sources": [
+          "incopesca-angling-card",
+          "visit-paquera-pesca",
+          "bahia-rica-inshore"
+        ]
+      },
+      {
+        "title": "Отзывы и сочетание с ночёвкой",
+        "text": "В отзывах есть поездки, когда рыбалку и биолюминесценцию совместили с базой в Bahía Rica. Для семьи с небольшой выносливостью оставьте между ними отдых и возможность отменить вечерний выезд.",
+        "sources": [
+          "bahia-rica-reviews",
+          "bahia-rica-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bahía Rica Adventures",
+        "source": "bahia-rica-contact",
+        "note": "Запросите полдня, тариф за лодку, назначение капитана и возраст детей.",
+        "phone": "+506 8850 5314",
+        "url": "https://bahiarica.com/contact",
+        "email": "post@bahiarica.com"
+      },
+      {
+        "name": "INCOPESCA · карне для рыбалки",
+        "source": "incopesca-angling-card",
+        "note": "Сверьте категорию, срок и необходимость отдельного оформления.",
+        "url": "https://www.incopesca.go.cr/carnets/tramites/Solicitud.aspx"
+      },
+      {
+        "name": "Naviera Tambor",
+        "source": "paquera-ferry-live",
+        "note": "Проверьте рейс именно на Paquera, места и условия перевозки снаряжения.",
+        "url": "https://navieratambor.com/horarios-y-tarifas"
+      }
+    ],
+    "nearby": [
+      "paquera-bioluminescence-kayak",
+      "paquera-paddle-sup",
+      "paquera-ferry-weekend-3"
+    ]
+  },
+  "paquera-bioluminescence-kayak": {
+    "stops": [
+      {
+        "point": "paquera-port-point",
+        "role": "Ориентир · терминал Paquera",
+        "note": "Не рассчитывайте на поздний паром без проверки расписания."
+      },
+      {
+        "point": "bahia-rica-base",
+        "role": "Старт · Bahía Rica",
+        "note": "Время встречи и точный спуск отправляет оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сбор на берегу",
+        "text": "Оставьте время на жилет, инструкции и посадку. Оператор указывает около часа именно на воде, плюс сбор. Уточните яркость луны, наличие тандемов и что делают при ветре или грозе.",
+        "sources": [
+          "bahia-rica-night-kayak",
+          "bahia-rica-directions"
+        ]
+      },
+      {
+        "title": "Что пишут гости",
+        "text": "Семья в июле 2026 года отметила, что гид помог детям 9 и 15 лет включиться в экскурсию. Отзыв июня 2026 года описывает эффект как небольшие вспышки. Оба опыта помогают выбрать ожидания при разной видимости.",
+        "sources": [
+          "bahia-rica-reviews"
+        ]
+      },
+      {
+        "title": "Своя лодка",
+        "text": "Эта программа проводится с оборудованием оператора. Для своего каяка или SUP нужно отдельно получить разрешение на конкретный спуск и согласовать дневной выход. Ночная экскурсия проходит по плану гида.",
+        "sources": [
+          "bahia-rica-night-kayak",
+          "bahia-rica-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bahía Rica Adventures",
+        "source": "bahia-rica-contact",
+        "note": "Согласуйте возраст, тандем, часы, группу и возвращение к машине или жилью.",
+        "phone": "+506 8850 5314",
+        "url": "https://bahiarica.com/contact",
+        "email": "post@bahiarica.com"
+      },
+      {
+        "name": "Naviera Tambor",
+        "source": "paquera-ferry-live",
+        "note": "Проверьте рейс именно на Paquera, места и условия перевозки снаряжения.",
+        "url": "https://navieratambor.com/horarios-y-tarifas"
+      }
+    ],
+    "nearby": [
+      "paquera-paddle-sup",
+      "paquera-ferry-weekend-3"
+    ]
+  },
+  "paquera-paddle-sup": {
+    "stops": [
+      {
+        "point": "paquera-port-point",
+        "role": "Подъезд · паром",
+        "note": "Указан как ориентир, у терминала работают пассажирские и автомобильные суда."
+      },
+      {
+        "point": "bahia-rica-base",
+        "role": "Сбор и прокат",
+        "note": "Bahía Rica даёт указания к спуску на берегу Punta Cuchillo."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прокат и программа",
+        "text": "На сайте отдельно указан прокат морских каяков и программа SUP с биолюминесценцией. Запросите дневное окно и уровень, жилет, гермоупаковку, условия возвращения и наличие гида. Для первого раза выбирайте короткое окно рядом с берегом по указанию команды.",
+        "sources": [
+          "bahia-rica-kayak-rental",
+          "bahia-rica-water-activities"
+        ]
+      },
+      {
+        "title": "Логистика на берегу",
+        "text": "Своя доска или каяк, место парковки и перенос от парковки к воде согласуются отдельно. У зоны парома грузовые и пассажирские манёвры.",
+        "sources": [
+          "bahia-rica-directions",
+          "bahia-rica-contact",
+          "paquera-ferry-live"
+        ]
+      },
+      {
+        "title": "Выбор на день",
+        "text": "Если волна или ветер мешают дневному выходу, перенесите активность на береговой маршрут Curú или на обед в городе. У вечернего каяка своё погодное окно.",
+        "sources": [
+          "curu-refuge-official",
+          "visit-paquera-local-food",
+          "bahia-rica-night-kayak"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bahía Rica Adventures",
+        "source": "bahia-rica-contact",
+        "note": "Спросите аренду SUP/каяка, доступные форматы и спуск со своим инвентарём до приезда.",
+        "phone": "+506 8850 5314",
+        "url": "https://bahiarica.com/contact",
+        "email": "post@bahiarica.com"
+      }
+    ],
+    "nearby": [
+      "curu-forest-coves",
+      "paquera-bioluminescence-kayak",
+      "paquera-ferry-weekend-3"
+    ]
+  },
+  "curu-forest-coves": {
+    "stops": [
+      {
+        "point": "curu-route-entrance",
+        "role": "Заезд · Calle Playa Curú",
+        "note": "Поворот с основной дороги к побережью."
+      },
+      {
+        "point": "curu-refuge-base",
+        "role": "Кабины, пляж и выбор троп",
+        "note": "Сверьте вход, билет и разрешённые маршруты у администрации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Утро в заповеднике",
+        "text": "Заповедник объединяет разные зоны от прибрежных троп и сухого леса до мангров. Начните утром, для маленьких детей выбирайте один короткий круг и берег. Спросите, какие тропы открыты и до скольких можно выйти обратно.",
+        "sources": [
+          "curu-refuge-official",
+          "curu-ict-refuge"
+        ]
+      },
+      {
+        "title": "Кесера и пляж",
+        "text": "Playa Curú подходит как основная остановка дня. Для отдельной Кесеры спросите администрацию, откуда стартует путь, сколько идти и как вернуться. Доступ на тропу, лодку и ночёвку подтверждается у владельцев.",
+        "sources": [
+          "curu-refuge-official",
+          "visit-paquera-beaches"
+        ]
+      },
+      {
+        "title": "Поесть и переночевать",
+        "text": "Хозяева предлагают кабины, часть без кухни. Для дневной поездки спланируйте обед в Пакере и уточните воду на тропах.",
+        "sources": [
+          "curu-refuge-official",
+          "visit-paquera-local-food"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Refugio Curú",
+        "source": "curu-refuge-official",
+        "note": "Билеты, открытые тропы, кабины и местные выезды на лодке.",
+        "phone": "+506 6210 1724",
+        "url": "https://curuwildliferefuge.com/es",
+        "email": "info@curuwildliferefuge.com"
+      }
+    ],
+    "nearby": [
+      "paquera-ferry-weekend-3",
+      "playa-organos-paquera"
+    ],
+    "line": "curu-road-approach"
+  },
+  "playa-organos-paquera": {
+    "stops": [
+      {
+        "point": "paquera-town-center",
+        "role": "Посёлок · закупка и обед",
+        "note": "Главная улица Paquera и местные рестораны."
+      },
+      {
+        "point": "playa-organos-road-turn",
+        "role": "Поворот · Calle Playa Órganos",
+        "note": "Начало проверенного берегового подъезда на карте."
+      },
+      {
+        "point": "playa-organos-road-end",
+        "role": "Берег · окончание подъезда",
+        "note": "Проверьте доступную парковку и возможность разворота после дождя."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбрать окно",
+        "text": "Полевой путеводитель описывает длинную линию берега и обширный отлив. Если хочется прогуляться, привяжите время к местной воде. Возвращайтесь тем же проверенным путём вдоль берега.",
+        "sources": [
+          "aguaepipa-organos-field",
+          "visit-paquera-beaches"
+        ]
+      },
+      {
+        "title": "Комбинация рядом",
+        "text": "Órganos подходит как короткая остановка до вечернего каяка или после обеда. Основной день с детьми можно провести в Curú, где вход и открытые тропы подтверждают хозяева.",
+        "sources": [
+          "visit-paquera-local-food",
+          "curu-refuge-official",
+          "bahia-rica-night-kayak"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Visit Paquera · местный путеводитель",
+        "source": "visit-paquera-beaches",
+        "note": "Пляжи и контакты в окрестностях Пакеры.",
+        "url": "https://www.visitpaquera.com/es/beaches-and-islands"
+      }
+    ],
+    "nearby": [
+      "curu-forest-coves",
+      "paquera-ferry-weekend-3"
+    ],
+    "line": "organos-road-approach"
+  },
+  "paquera-ferry-weekend-3": {
+    "stops": [
+      {
+        "point": "puntarenas-terminal-point",
+        "role": "День 1 · паром Naviera Tambor",
+        "note": "Проверьте Paquera как пункт назначения. Есть другой рейс на Playa Naranjo."
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "День 1 / 3 · Puerto Paquera",
+        "note": "По прибытии свяжитесь с лоджем. На этой же точке обратная переправа."
+      },
+      {
+        "point": "bahia-rica-base",
+        "role": "Дни 1–3 · лодж, SUP, ночной каяк и рыбалка",
+        "note": "Сверьте доступность каждого выезда с командой и условия размещения."
+      },
+      {
+        "point": "curu-route-entrance",
+        "role": "День 2 · поворот в Curú",
+        "note": "Дорожный подход по Calle Playa Curú."
+      },
+      {
+        "point": "curu-refuge-base",
+        "role": "День 2 · заповедник Curú",
+        "note": "Согласуйте трансфер туда и обратно и входное время."
+      },
+      {
+        "point": "playa-organos-road-turn",
+        "role": "День 3 · поворот к Órganos",
+        "note": "Опциональный заезд перед посадкой на паром."
+      },
+      {
+        "point": "playa-organos-road-end",
+        "role": "День 3 · короткий пляжный вариант",
+        "note": "Альтернатива рыбалке перед паромом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как ехать без машины",
+        "text": "Паром перевозит пеших пассажиров. Укажите лоджу время прибытия, договоритесь о трансфере к жилью и о двух плечах в Curú. Для багажа, детей и вечернего приезда спросите водителя заранее.",
+        "sources": [
+          "paquera-ferry-live",
+          "bahia-rica-directions",
+          "curu-refuge-official"
+        ]
+      },
+      {
+        "title": "Распределение времени",
+        "text": "Рыбалку лучше привязать к доступному утреннему капитану, а каяк с биолюминесценцией к подходящей погоде и согласованному времени. Сохраните запас до обратного парома. В город можно заехать на обед отдельно.",
+        "sources": [
+          "bahia-rica-inshore",
+          "bahia-rica-night-kayak",
+          "visit-paquera-local-food",
+          "paquera-ferry-live"
+        ]
+      },
+      {
+        "title": "Как выбрать ночлег",
+        "text": "Если основное время на воде, базу имеет смысл выбирать рядом со стартом. Другой вариант — кабины Curú, если приоритет тропы. При таком варианте закажите отдельный вечерний трансфер к каяку и обратно.",
+        "sources": [
+          "bahia-rica-directions",
+          "bahia-rica-reviews",
+          "curu-refuge-official"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bahía Rica Adventures",
+        "source": "bahia-rica-contact",
+        "note": "Лодж, трансфер от причала, рыбалка и программы на воде.",
+        "phone": "+506 8850 5314",
+        "url": "https://bahiarica.com/contact",
+        "email": "post@bahiarica.com"
+      },
+      {
+        "name": "Refugio Curú",
+        "source": "curu-refuge-official",
+        "note": "Тропы, билеты и ночёвка в кабинах.",
+        "phone": "+506 6210 1724",
+        "url": "https://curuwildliferefuge.com/es",
+        "email": "info@curuwildliferefuge.com"
+      },
+      {
+        "name": "Naviera Tambor",
+        "source": "paquera-ferry-live",
+        "note": "Проверьте рейс именно на Paquera, места и условия перевозки снаряжения.",
+        "url": "https://navieratambor.com/horarios-y-tarifas"
+      }
+    ],
+    "nearby": [
+      "paquera-inshore-fishing",
+      "paquera-bioluminescence-kayak",
+      "paquera-paddle-sup",
+      "curu-forest-coves",
+      "playa-organos-paquera"
+    ],
+    "line": "paquera-weekend-legs"
+  }
+}

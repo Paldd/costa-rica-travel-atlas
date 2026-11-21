@@ -2103,5 +2103,545 @@
         ]
       }
     ]
+  },
+  {
+    "id": "chira-fishing-island-2",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Остров Чира · два дня с рыбацкой общиной",
+    "native": "Costa de Pájaros · Isla de Chira · Bocana · Puerto Palito",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "boat",
+      "fishing",
+      "hiking",
+      "wildlife",
+      "views",
+      "relax"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "isla-chira-local",
+      "isla-chira-embarkation",
+      "isla-chira-local-contact",
+      "una-chira-la-amistad",
+      "incopesca-palito-montero",
+      "aresep-ferry-lanchas"
+    ],
+    "summary": "Поездка на остров к местным лодочникам и рыбакам. Можно распределить прогулку, общинную кухню и водный выезд по двум дням.",
+    "plan": "На остров отправляйтесь на местной лодке из Costa de Pájaros. Остановитесь у принимающей семьи или в посаде и договоритесь о поездке к рыбакам в секторе Palito–Montero.",
+    "conditions": "Подтвердите возврат, островные трансферы, точку прибытия и рыбный тур. Правила зоны и участие в рыбалке уточняйте заранее.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Местная лодка из Costa de Pájaros и ночь на Чире",
+        "note": "Сверьте посадку и островную высадку. Поселитесь в посаде с подтверждённым питанием и оставьте время на прогулку по деревне.",
+        "stops": [],
+        "sources": [
+          "isla-chira-local",
+          "isla-chira-embarkation",
+          "una-chira-la-amistad"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пуэрто-Палито, рыбаки и возврат",
+        "note": "Гид выбирает поездку по манграм или знакомство с промыслом. Если планируете забросить удочку, отдельно уточните правила и лицензию.",
+        "stops": [],
+        "sources": [
+          "incopesca-palito-montero",
+          "isla-chira-embarkation",
+          "incopesca-angling-card"
+        ]
+      }
+    ],
+    "distance": null
+  },
+  {
+    "id": "cano-negro-lagoon-weekend-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Каньо-Негро на выходные · ночной лес и утренняя лодка",
+    "native": "Caño Negro · La Cotinga · Río Frío · humedales",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "boat",
+      "river",
+      "wildlife",
+      "forest",
+      "hiking",
+      "relax"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "cano-negro-local-packages",
+      "cano-negro-directions",
+      "cano-negro-local-guides",
+      "cano-negro-experience-guest-notes",
+      "natural-lodge-cano-negro-guest-notes"
+    ],
+    "summary": "Местная программа на одну ночь с деревенским ужином, прогулкой наблюдения за ночной фауной и ранней лодкой на Río Frío.",
+    "plan": "Доехать до деревни засветло, заселиться и сходить на вечернюю прогулку с гидом. Утром выбрать поездку по лагунам, затем позавтракать и вернуться.",
+    "conditions": "Уточните грунтовые участки, высоту воды, время на лодке и варианты ужина. Гид советует запас наличных, поскольку в деревне нет банкомата.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Деревня, La Cotinga и вечерний выход",
+        "note": "Программа местного оператора включает размещение, ужин и двухчасовую ночную прогулку. Детский темп и время завершения обсуждаются заранее.",
+        "stops": [
+          "cano-negro-local-boat"
+        ],
+        "sources": [
+          "cano-negro-local-packages",
+          "cano-negro-local-guides",
+          "cano-negro-directions"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Río Frío на рассвете и возврат",
+        "note": "У оператора опубликована ранняя трёхчасовая экскурсия с завтраком после или на борту. Возврат по уточнённой дороге.",
+        "stops": [
+          "cano-negro-local-boat"
+        ],
+        "sources": [
+          "cano-negro-local-packages",
+          "natural-lodge-cano-negro-boat",
+          "cano-negro-directions"
+        ]
+      }
+    ],
+    "distance": null
+  },
+  {
+    "id": "barra-colorado-fishing-weekend-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Барра-дель-Колорадо · три дня в рыбацкой деревне",
+    "native": "Cariari · Puerto Lindo · Barra del Colorado Sur",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "boat",
+      "fishing",
+      "river",
+      "wildlife",
+      "multi"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "acto-barra-colorado-visit",
+      "acto-barra-colorado-fishing-plan",
+      "aresep-ferry-lanchas",
+      "kawe-barra-colorado",
+      "kawe-barra-tarpon",
+      "kawe-barra-guest-notes"
+    ],
+    "summary": "Базовый сценарий на три дня с одной полной рыболовной программой, ночёвками в Barra Sur и запасом на речную логистику.",
+    "plan": "Через Puerto Lindo прибыть в Barra, на второй день выйти с рыболовным гидом, на третий согласовать экскурсию по каналам или ранний возврат.",
+    "conditions": "Считайте длительность от причала. До поездки подтвердите ночлег, перевозку багажа, разрешение и соединение между Barra Norte и Barra Sur.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Дорога из Cariari и общественная лодка",
+        "note": "Согласуйте стыковку с лодкой в Puerto Lindo и высадку с хозяевами. ACTO описывает каботаж примерно на час.",
+        "stops": [
+          "barra-colorado-tarpon-boat"
+        ],
+        "sources": [
+          "acto-barra-colorado-visit",
+          "aresep-ferry-lanchas",
+          "kawe-barra-colorado"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Сабало с проводником",
+        "note": "Выход под разрешённый в этот день сектор. Если погода не пускает к устью, попросите речной вариант или прогулку по каналам.",
+        "stops": [
+          "barra-colorado-tarpon-boat"
+        ],
+        "sources": [
+          "kawe-barra-tarpon",
+          "acto-barra-colorado-fishing-plan"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Каналы или ранний возврат",
+        "note": "Соберите вещи с запасом до лодки. Короткая экскурсия по природе возможна по времени согласованных рейсов.",
+        "stops": [
+          "barra-colorado-tarpon-boat"
+        ],
+        "sources": [
+          "acto-barra-colorado-visit",
+          "aresep-ferry-lanchas",
+          "kawe-barra-colorado"
+        ]
+      }
+    ],
+    "distance": null
+  },
+  {
+    "id": "golfo-dulce-kayak-camp-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Гольфо-Дульсе · 58 км на каяках и две ночи в палатке",
+    "native": "Rincón · Playitas de Mogos · Esquinas · San Josecito · Puerto Jiménez",
+    "level": "expedition",
+    "days": 3,
+    "distance": 58,
+    "activities": [
+      "kayak",
+      "camping",
+      "multi",
+      "wildlife",
+      "snorkel",
+      "views"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "ict-aventuras-tropicales-golfo-dulce",
+      "pelago-golfo-dulce-kayak-camp",
+      "golfo-dulce-kayak-camp-viator",
+      "ict-golfito-jimenez-map"
+    ],
+    "summary": "Три дня на морских каяках с местной командой, двумя лагерями и пересечением залива. В программе указаны 18, 22 и 18 км на воде.",
+    "plan": "Сбор в Пуэрто-Хименесе, спуск у Rincón, ночи у Mogos и San Josecito. На третий день возвращение к базе через залив.",
+    "conditions": "Организатор выбирает точки посадки, высадки, лагеря и решение о переходе. Сверьте возраст, физическую нагрузку, экипировку и условия отмены.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Rincón → Playitas de Mogos · около 18 км",
+        "note": "После сбора на базе переезд к Rincón. Гребля с гидом к лагерю в секторе Mogos. По условиям возможна короткая дополнительная активность у берега.",
+        "stops": [
+          "golfo-dulce-mangrove-kayak"
+        ],
+        "sources": [
+          "pelago-golfo-dulce-kayak-camp",
+          "ict-aventuras-tropicales-golfo-dulce"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Mogos → Esquinas → San Josecito · около 22 км",
+        "note": "Гребля вдоль северной стороны залива, по условиям через район мангров Esquinas. Вторая ночёвка в секторе San Josecito.",
+        "stops": [
+          "piedras-blancas"
+        ],
+        "sources": [
+          "pelago-golfo-dulce-kayak-camp",
+          "ict-golfito-jimenez-map"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "San Josecito → Puerto Jiménez · около 18 км",
+        "note": "Переход через залив по решению команды, возвращение и обед на базе оператора. На случай сдвига оставьте запас перед следующим транспортом.",
+        "stops": [
+          "golfo-dulce-mangrove-kayak",
+          "golfito-jimenez-passenger-boat"
+        ],
+        "sources": [
+          "pelago-golfo-dulce-kayak-camp",
+          "hoja-de-oro-lanchas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "golfo-dulce-weekend-no-car",
+    "kind": "trip",
+    "region": "south",
+    "title": "Гольфо-Дульсе без машины · три дня из Гольфито",
+    "native": "Golfito · Puerto Jiménez · manglares del Golfo Dulce",
+    "level": "easy",
+    "days": 3,
+    "activities": [
+      "boat",
+      "kayak",
+      "fishing",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "boat",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "aresep-ferry-lanchas",
+      "hoja-de-oro-lanchas",
+      "ict-aventuras-tropicales-golfo-dulce",
+      "osa-green-fishing",
+      "aventuras-golfo-dulce-guest-notes"
+    ],
+    "summary": "Переправа из Golfito, две ночи в Пуэрто-Хименесе и выбор между манграми и рыбалкой в заливе.",
+    "plan": "В первый день лодка через залив и ночёвка в посёлке. Второй день — каяк в прилив и по желанию дополнительный выезд. Третий день — короткая рыбалка или прогулка и возвращение.",
+    "conditions": "На выходных пассажирских рейсов меньше. Не ставьте чартер вплотную к последней лодке. Сверьте спуск каяка с ночлегом и транспортом.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пассажирская лодка и жильё в посёлке",
+        "note": "Сядьте на рейс Golfito → Puerto Jiménez и заселитесь в пешей доступности от центра или закажите встречу у причала.",
+        "stops": [
+          "golfito-jimenez-passenger-boat"
+        ],
+        "sources": [
+          "aresep-ferry-lanchas",
+          "hoja-de-oro-lanchas"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Мангры с гидом в подходящий прилив",
+        "note": "Программа на полдня с выбором тандема и времени. При желании оставьте вечер в посёлке или согласуйте вечерний выезд отдельно.",
+        "stops": [
+          "golfo-dulce-mangrove-kayak"
+        ],
+        "sources": [
+          "ict-aventuras-tropicales-golfo-dulce",
+          "aventuras-golfo-dulce-guest-notes",
+          "osa-mangrove-dreamcatcher"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Вариант с капитаном и возвращение",
+        "note": "Если есть запас времени, короткая рыбалка в заливе. Возвращение в Golfito по подтверждённому рейсу либо автобусом по суше.",
+        "stops": [
+          "puerto-jimenez-inshore-boat",
+          "golfito-jimenez-passenger-boat"
+        ],
+        "sources": [
+          "hoja-de-oro-lanchas",
+          "osa-green-fishing",
+          "incopesca-angling-card"
+        ]
+      }
+    ],
+    "distance": null
+  },
+  {
+    "id": "naranjo-roof-pond-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Наранхо на выходные · пруд, кофе и палатка на крыше",
+    "native": "San Antonio de la Cueva · Coopronaranjo · Alto del Rualdo",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "fishing",
+      "coffee",
+      "rooftent",
+      "camping",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "los-arroyos-contact",
+      "naranjo-municipal-turismo",
+      "rualdo-family-camp",
+      "rualdo-camping-cr"
+    ],
+    "summary": "Два дня в окрестностях Наранхо. Пруд с домашней кухней, ночёвка высоко над долиной и кофе местного кооператива.",
+    "plan": "В первый день рыбалка и обед в Los Arroyos, затем заезд в Alto del Rualdo по указаниям хозяев. Во второй день кофе и возвращение через Наранхо.",
+    "conditions": "Для крыши подтвердите размер площадки и дорогу после дождя. На возвышенности приготовьте одежду на холодный и ветреный вечер.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пруд, обед и подъём к кемпингу",
+        "note": "Лос-Арройос утром, затем въезд в Alto del Rualdo засветло. Спросите кемпинг о текущем подъезде через Llano Bonito.",
+        "stops": [
+          "los-arroyos-family-fishing",
+          "rualdo-overlanding"
+        ],
+        "sources": [
+          "los-arroyos-contact",
+          "rualdo-family-camp"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Кофейный кооператив и домой",
+        "note": "Сверните крышу после рассвета. Если есть подтверждённое время, заедьте в Espíritu Santo Coffee Tour.",
+        "stops": [
+          "rualdo-overlanding"
+        ],
+        "sources": [
+          "naranjo-municipal-turismo",
+          "rualdo-family-camp"
+        ]
+      }
+    ],
+    "distance": null
+  },
+  {
+    "id": "paquera-ferry-weekend-3",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Пакера за три дня · паром, Куру, ночной каяк и рыбалка",
+    "native": "Puntarenas · Puerto Paquera · Punta Cuchillo · Curú · Órganos",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "boat",
+      "kayak",
+      "fishing",
+      "sup",
+      "beach",
+      "hiking",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "car",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "paquera-ferry-live",
+      "bahia-rica-directions",
+      "curu-refuge-official",
+      "bahia-rica-night-kayak",
+      "bahia-rica-inshore",
+      "bahia-rica-reviews"
+    ],
+    "summary": "Три дня с одной базой на берегу. На полуостров можно приплыть пешком, между бухтами договориться о трансфере.",
+    "plan": "Паром и короткий выход на воду, день в Curú и биолюминесценция, затем ранняя рыбалка или Órganos перед обратным паромом.",
+    "conditions": "Подтвердите развозку в Curú и назад, ночёвку у базы и возвратный рейс. Поездку на рыбалку можно заменить пляжем.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Паром из Пунтаренаса, заселение, выход на залив",
+        "note": "От терминала Paquera до базы 1,5 км по грунту. Если успеваете, возьмите короткий дневной SUP или каяк.",
+        "stops": [
+          "paquera-paddle-sup"
+        ],
+        "sources": [
+          "paquera-ferry-live",
+          "bahia-rica-directions",
+          "bahia-rica-water-activities"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Curú утром и тёмная бухта вечером",
+        "note": "Отправляйтесь в заповедник с ранним трансфером. Вечером присоединитесь к гиду на биолюминесценции.",
+        "stops": [
+          "curu-forest-coves",
+          "paquera-bioluminescence-kayak"
+        ],
+        "sources": [
+          "curu-refuge-official",
+          "bahia-rica-night-kayak"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Рыбалка или Órganos и обратный паром",
+        "note": "Утром выберите рыбалку с капитаном либо короткий пляжный выезд. Оставьте запас до посадки.",
+        "stops": [
+          "paquera-inshore-fishing",
+          "playa-organos-paquera"
+        ],
+        "sources": [
+          "bahia-rica-inshore",
+          "aguaepipa-organos-field",
+          "paquera-ferry-live"
+        ]
+      }
+    ],
+    "distance": null
   }
 ]
