@@ -1,0 +1,623 @@
+{
+  "parque-este-forest-loop-25": {
+    "stops": [
+      {
+        "point": "este-202-entrance",
+        "role": "Старт и финиш · въезд с Ruta 202",
+        "note": ""
+      },
+      {
+        "point": "este-forest-north-junction",
+        "role": "Начало лесной петли",
+        "note": ""
+      },
+      {
+        "point": "este-forest-eastern-turn",
+        "role": "Восточный поворот",
+        "note": ""
+      },
+      {
+        "point": "este-forest-south-junction",
+        "role": "Южная развилка",
+        "note": ""
+      },
+      {
+        "point": "este-forest-path-edge",
+        "role": "Нижний поворот лесной тропы",
+        "note": ""
+      },
+      {
+        "point": "este-return-to-main-road",
+        "role": "Выход на дорогу к кассе",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина и время",
+        "text": "На карте 2,5 км. Для спокойного бега оставьте около 25–40 минут, для семейной прогулки около 45–70 минут. Четыре круга по той же карте дают около 9,9 км. Муниципалитет описывает и другие тропы, на месте их можно добавить по схеме.",
+        "sources": [
+          "este-montes-de-oca-admin",
+          "este-early-run-field",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Утренний вход и подготовка",
+        "text": "Обычное посещение со вторника по воскресенье с 08:00 до 16:00. Администрация также публикует спортивное окно со свободным входом с 05:00 до 08:00. Уточните применимость для своего дня у кассы. На территории есть площадка для пикника, детская зона и туалеты. Возьмите воду и обувь с цепкой подошвой.",
+        "sources": [
+          "este-montes-de-oca-admin",
+          "este-montes-de-oca-visitor-rules",
+          "este-montes-de-oca-brochure"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Parque del Este · касса",
+        "source": "este-montes-de-oca-brochure",
+        "note": "Вход, утренняя спортивная программа, тарифы и доступ к тропам после дождя.",
+        "phone": "+506 8816 1022",
+        "url": "https://montesdeoca.go.cr/servicios/servicios_publicos/administracion_parque_del_este.aspx"
+      },
+      {
+        "name": "Parque del Este · администрация",
+        "source": "este-montes-de-oca-brochure",
+        "note": "Узнайте режим для группы и доступ к местам отдыха.",
+        "phone": "+506 2273 1153",
+        "url": "https://www.montesdeoca.go.cr/servicios/servicios_publicos/normas_parque_del_este.aspx"
+      }
+    ],
+    "nearby": [
+      "senderos-colon-run",
+      "rio-loro-cartago-forest",
+      "oikoumene"
+    ],
+    "line": "parque-este-forest-loop-25",
+    "photos": [
+      "parque-del-este"
+    ],
+    "videos": [
+      "este-visit-municipal-video"
+    ]
+  },
+  "las-catalinas-la-cresta-23": {
+    "stops": [
+      {
+        "point": "catalinas-trails-foot-start",
+        "role": "Старт и финиш у Playa Danta",
+        "note": ""
+      },
+      {
+        "point": "catalinas-la-cresta-foot-entry",
+        "role": "Начало La Cresta",
+        "note": ""
+      },
+      {
+        "point": "catalinas-la-cresta-ridge",
+        "role": "Середина подъёма",
+        "note": ""
+      },
+      {
+        "point": "catalinas-la-cresta-north-fork",
+        "role": "Развилка на гребне",
+        "note": ""
+      },
+      {
+        "point": "catalinas-guachipelines-foot-return",
+        "role": "Выход на возвратную тропу",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина и темп",
+        "text": "Расчёт по карте даёт около 2,3 км. Для тренировки выделите 30–65 минут с запасом на подъём и остановки. Вариант подходит для знакомства с рельефом перед длинным Secreto.",
+        "sources": [
+          "catalinas-walking-hiking-map",
+          "catalinas-danta-pass-trail-rules",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Пропуск и снаряжение",
+        "text": "Действующий Danta Pass выдаёт Pura Vida Ride. Для детей младше 12 лет правила требуют взрослого с пропуском. Нужны вода, обувь с протектором и защита от солнца. На общих участках двигайтесь с учётом велосипедистов.",
+        "sources": [
+          "catalinas-danta-pass-trail-rules",
+          "catalinas-contact",
+          "las-catalinas-danta-visit-direct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pura Vida Ride · Danta Pass",
+        "source": "catalinas-contact",
+        "note": "Пропуск, открытые пешие тропы, направления, парковка и услуги гида.",
+        "phone": "+506 8584 6045",
+        "url": "https://wa.me/50685846045"
+      }
+    ],
+    "nearby": [
+      "las-catalinas-secreto-13",
+      "dantita-shore-walk",
+      "catalinas-sup",
+      "catalinas-emtb-12"
+    ],
+    "line": "las-catalinas-la-cresta-23",
+    "photos": [
+      "dantita"
+    ]
+  },
+  "las-catalinas-secreto-13": {
+    "stops": [
+      {
+        "point": "catalinas-trails-foot-start",
+        "role": "Старт и финиш",
+        "note": ""
+      },
+      {
+        "point": "catalinas-la-cresta-foot-entry",
+        "role": "Начало La Cresta",
+        "note": ""
+      },
+      {
+        "point": "catalinas-la-cresta-ridge",
+        "role": "Подъём на гребень",
+        "note": ""
+      },
+      {
+        "point": "catalinas-la-cresta-north-fork",
+        "role": "Выход к местной дороге",
+        "note": ""
+      },
+      {
+        "point": "catalinas-secreto-trail-head",
+        "role": "Начало Secreto",
+        "note": ""
+      },
+      {
+        "point": "catalinas-secreto-middle",
+        "role": "Участок Secreto",
+        "note": ""
+      },
+      {
+        "point": "catalinas-secreto-north-turn",
+        "role": "Северный разворот",
+        "note": "Проверьте признаки закрытия. Продолжение по служебной ветке в план не входит."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина, время и развороты",
+        "text": "По нанесённой карте около 13 км туда и обратно. Оставьте примерно 2,5–4 часа для бега с переходами на шаг и паузами. Связку можно сократить, развернувшись у начала Secreto или на гребне La Cresta. При выборе темпа учитывайте покрытие и жару.",
+        "sources": [
+          "catalinas-walking-hiking-map",
+          "catalinas-danta-pass-trail-rules",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Питьё на весь выход, кроссовки с протектором, солнцезащиту и карту, доступную без связи. Узнайте про воду у старта. Danta Pass нужен для входа на сеть троп, а действующую схему и перекрытия сверяйте до выхода.",
+        "sources": [
+          "catalinas-danta-pass-trail-rules",
+          "catalinas-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pura Vida Ride · Danta Pass",
+        "source": "catalinas-contact",
+        "note": "Пропуск, открытые пешие тропы, направления, парковка и услуги гида.",
+        "phone": "+506 8584 6045",
+        "url": "https://wa.me/50685846045"
+      }
+    ],
+    "nearby": [
+      "las-catalinas-la-cresta-23",
+      "dantita-shore-walk",
+      "catalinas-sup",
+      "catalinas-mtb-25"
+    ],
+    "line": "las-catalinas-secreto-13",
+    "photos": [
+      "dantita",
+      "flamingo-main"
+    ]
+  },
+  "prusia-el-roble-loop-75": {
+    "stops": [
+      {
+        "point": "prusia-entry",
+        "role": "Начало и финиш · вход Prusia",
+        "note": ""
+      },
+      {
+        "point": "prusia-principal-end",
+        "role": "Конец дороги парка",
+        "note": ""
+      },
+      {
+        "point": "prusia-robles-micaela-junction",
+        "role": "Развилка El Roble и Micaela",
+        "note": ""
+      },
+      {
+        "point": "prusia-robles-upper-corner",
+        "role": "Верхний поворот El Roble",
+        "note": ""
+      },
+      {
+        "point": "prusia-robles-pinos-jct",
+        "role": "Развилка к Los Pinos",
+        "note": ""
+      },
+      {
+        "point": "prusia-tree",
+        "role": "Árbol Encantado",
+        "note": ""
+      },
+      {
+        "point": "prusia-micaela-east-junction",
+        "role": "Развилка Micaela",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как получилась дистанция",
+        "text": "Линия около 7,5 км учитывает оба прохода по Calle Principal от ворот. От точки в конце внутренней дороги остаётся лесной участок около 4,7 км. Позвольте примерно 2,5–4 часа в зависимости от начальной точки, остановок и темпа.",
+        "sources": [
+          "irazu-map",
+          "ict-prusia-trail-names-visitor-guide",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Подъезд и одежда",
+        "text": "При входе сохраните схему или сделайте её фото. Возьмите обувь для мокрых корней, тёплый слой, защиту от дождя, воду и билет. Связка использует отмеченные тропы, включая El Roble и Micaela. Полевые фотографии доступны по ссылкам.",
+        "sources": [
+          "ict-prusia-trail-names-visitor-guide",
+          "prusia-local-trip",
+          "irazu"
+        ]
+      },
+      {
+        "title": "Как прошёл визит у местной семьи",
+        "text": "В отчёте за май 2026 года описаны два подхода к сектору и прогулка через Лос-Абуэлос, El Roble и Micaela. На фото видны дорожки, вывески и укрытия. Автор советует идти утром и взять сухую смену одежды для возвращения. Условия открытия и парковки проверяйте у SINAC.",
+        "sources": [
+          "prusia-villalobos-may-2026",
+          "prusia-local-trip",
+          "irazu"
+        ]
+      },
+      {
+        "title": "Билет и время входа",
+        "text": "SINAC требует заранее купить билет онлайн именно на сектор Prusia и сохранить код. По опубликованным правилам последний вход в этот сектор в 13:00. Время выхода и доступные тропы сверяйте с билетом и кассой. Позвонить можно в справочную парка по номеру, указанному ICT.",
+        "sources": [
+          "irazu",
+          "irazu-map",
+          "reservas",
+          "ict-irazu-prusia-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · сектор Prusia",
+        "source": "irazu",
+        "note": "Уточняйте открытые тропы, расписание, правила входа и доступ по выбранному билету.",
+        "url": "https://www.sinac.go.cr/ES/ac/accvc/pnvi/Paginas/default.aspx"
+      },
+      {
+        "name": "SINAC · официальный вход и билет",
+        "source": "reservas",
+        "note": "При выборе проверьте сектор Prusia, дату и число участников.",
+        "url": "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+      },
+      {
+        "name": "Volcán Irazú · справочная парка",
+        "source": "ict-irazu-prusia-contact",
+        "note": "Уточнить въезд, открытые тропы и режим сектора Prusia.",
+        "phone": "+506 2200 5025",
+        "url": "https://es.visitcostarica.com/where-to-go/protected-areas/irazu-volcano-national-park"
+      }
+    ],
+    "nearby": [
+      "prusia",
+      "oikoumene",
+      "rio-loro-cartago-forest",
+      "trail-vulcania"
+    ],
+    "line": "prusia-el-roble-loop-75",
+    "videos": [
+      "prusia-robles-field-video"
+    ]
+  },
+  "rio-loro-cartago-forest": {
+    "stops": [
+      {
+        "point": "rio-loro-park-area",
+        "role": "Центральная часть территории",
+        "note": "Въезд идёт по Calle Avance. Муниципалитет описывает повороты от предприятия RECOPE."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пешеходные дорожки и время",
+        "text": "Муниципалитет указывает 3,3 км троп по парку, включая универсальный участок около 0,8 км. Остальные дорожки в основном грунтовые и сравнительно ровные. На прогулку с детьми выделите 1–2 часа. Коляску и маршрут по доступному покрытию согласуйте с сотрудником у входа.",
+        "sources": [
+          "cartago-rio-loro-municipal-rules",
+          "rio-loro-quebuenlugar-field"
+        ]
+      },
+      {
+        "title": "Вход и удобства",
+        "text": "Муниципалитет публикует посещение со среды по воскресенье с 08:00 до 15:00. Сверьте расписание для своего дня. Для прогулки подойдут закрытая обувь, вода и лёгкая защита от дождя. Галерея Qué Buen Lugar показывает тропы, мостики и места для отдыха. Авторы описывают воскресную прогулку и примерно полчаса пути от начала тропы до первого деревянного мостика.",
+        "sources": [
+          "cartago-rio-loro-municipal-rules",
+          "rio-loro-quebuenlugar-field",
+          "rio-loro-cartago-tourism-entry"
+        ]
+      },
+      {
+        "title": "Вход и экскурсии",
+        "text": "В ноябре 2026 муниципалитет публиковал ₡2 500 за взрослого, ₡1 150 за детей и пенсионеров, ₡1 000 для учащихся с действующим удостоверением. Для иностранных посетителей указан тариф $7 взрослому и $5 ребёнку. Муниципальная команда принимает заявки на экскурсии, мастер-классы и образовательные визиты.",
+        "sources": [
+          "cartago-rio-loro-municipal-rules"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Parque Ambiental Municipal Río Loro",
+        "source": "cartago-rio-loro-municipal-rules",
+        "note": "Часы, посещение с детьми, экскурсии, доступ к универсальной дорожке и режим парковки.",
+        "phone": "+506 2537 1200",
+        "email": "parqueambiental@muni-carta.go.cr",
+        "url": "https://www.muni-carta.go.cr/parque-ambiental-rio-loro/"
+      }
+    ],
+    "nearby": [
+      "oikoumene",
+      "prusia",
+      "prusia-el-roble-loop-75",
+      "parque-este-forest-loop-25"
+    ],
+    "videos": [
+      "rio-loro-donde-voy-video"
+    ]
+  },
+  "transtica-stage-race-2026": {
+    "stops": [
+      {
+        "point": "transtica-villa-nueva-locality",
+        "role": "Этап 1 · район старта",
+        "note": "Стартовая точка и транспорт по брифингу."
+      },
+      {
+        "point": "transtica-santa-maria-dota",
+        "role": "Этапы 1–2 · посёлок и район бивуака",
+        "note": "Вода, магазины и кофейный кооператив в посёлке. К месту бивуака следуйте по программе."
+      },
+      {
+        "point": "pejibaye-humo",
+        "role": "Этапы 3–4 · ориентир Эль-Умо",
+        "note": "Организатор указывает общинный зал. Маркер показывает спортплощадку посёлка."
+      },
+      {
+        "point": "transtica-san-pablo-tres-equis",
+        "role": "Этап 4 · район финиша",
+        "note": "Бивуак по программе у школы Сан-Пабло."
+      },
+      {
+        "point": "caribe-bike-manzanillo",
+        "role": "Этап 5 · район финиша",
+        "note": "Точный адрес финиша и старт на Playa Negra указаны в roadbook."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сколько занимает поездка",
+        "text": "10 календарных дней и 9 ночей. Пролог, пять соревновательных этапов, переезд на Карибы между четвёртым и пятым и день возвращения в Сан-Хосе. Программа публикует расстояния и набор по этапам, регламент округляет суммарные дистанции.",
+        "sources": [
+          "transtica-schedule-2026",
+          "transtica-rules-2026"
+        ]
+      },
+      {
+        "title": "Что входит в пакет",
+        "text": "Организатор перечисляет проживание по программе, бивуаки, ряд приёмов пищи, медсопровождение на гонке, пункты питания, указанные автобусные трансферы и доставку багажа. В базовом расписании встреча в отеле Radisson в Сан-Хосе. Уточните даты, действующий тариф, доступность стартового места и страховку перед оплатой.",
+        "sources": [
+          "transtica-booking-2026",
+          "transtica-schedule-2026",
+          "transtica-bernard-organizer"
+        ]
+      },
+      {
+        "title": "Допуск и контроль экипировки",
+        "text": "На регистрацию нужны анкета, медкарта и медицинская справка своей категории. На этапах обязательны ёмкости для 1,5 л воды, многоразовый стакан, фонарь со свежими батарейками, свисток, термоодеяло, кепка, лёгкая влагозащитная куртка и аптечка по списку. В бивуак берут спальник, коврик, тёплую одежду и сухую смену одежды. Лимит основного багажа 100 л на человека.",
+        "sources": [
+          "transtica-booking-2026",
+          "transtica-equipment-2026",
+          "transtica-rules-2026"
+        ]
+      },
+      {
+        "title": "Районы и фото",
+        "text": "Первое фото показывает городской парк Санта-Мария-де-Дота, где заканчивается первый этап. Посмотрите фотогалерею и записи прошлых выпусков, чтобы оценить покрытие троп, бивуаки и разницу между лесными и прибрежными этапами.",
+        "sources": [
+          "transtica-official-photo-gallery",
+          "transtica-official-video-gallery",
+          "transtica-schedule-2026"
+        ]
+      },
+      {
+        "title": "Точная навигация",
+        "text": "Карта атласа отмечает подтверждённые населённые пункты. Для La Esperanza и Playa Negra сверяйте точное место по roadbook. На странице этапа 5 есть профиль и карта, а последние изменения организатор сообщает перед стартом.",
+        "sources": [
+          "transtica-adventure-stage-five",
+          "transtica-schedule-2026",
+          "transtica-rules-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Бернар Маршаль · La Transtica",
+        "source": "transtica-bernard-organizer",
+        "note": "Организатор · регистрация, условия, медицинские формы и логистика.",
+        "phone": "+33 6 08 82 91 44",
+        "email": "bmarchal@latranstica.org",
+        "url": "https://www.latranstica.org/en/contact-2/"
+      }
+    ],
+    "nearby": [
+      "coopedota-santa-maria-coffee",
+      "la-roca-pejibaye",
+      "puerto-viejo-bike-manzanillo"
+    ],
+    "photos": [
+      "dota-park"
+    ],
+    "videos": [
+      "transtica-official-video-gallery"
+    ],
+    "track": "transtica-adventure-stage-five"
+  },
+  "coastal-challenge-2027": {
+    "stops": [
+      {
+        "point": "tcc-playa-del-rey-area",
+        "role": "Этап 1 · район Плайя-дель-Рей",
+        "note": "На карте ближайший посёлок. До пляжа и стартового створа идёт трансфер организатора."
+      },
+      {
+        "point": "rafiki-main-savegre-camp",
+        "role": "Этапы 1–2 · база у Савегре",
+        "note": "Лагерь по программе Expedition, независимые экскурсии бронируются отдельно."
+      },
+      {
+        "point": "dominical-school-local",
+        "role": "Этапы 2–3 · ориентир пляжа Доминикаль",
+        "note": "Привязка к берегу. Расположение лагеря организатор уточняет на брифинге."
+      },
+      {
+        "point": "nauyaca-upper-landmark",
+        "role": "Этап 3 · водопад Науяка",
+        "note": "Ориентир у верхнего каскада. Пропуск в рамках гонки определяется регламентом."
+      },
+      {
+        "point": "marino-uvita-gate",
+        "role": "Этап 3 · сектор Увита",
+        "note": "Ориентир парка Марино-Бальена. Точная зона финиша по программе."
+      },
+      {
+        "point": "tcc-coronado-osa",
+        "role": "Этап 4 · район старта",
+        "note": "Из лагеря предусмотрен трансфер."
+      },
+      {
+        "point": "tcc-palmar-norte-locality",
+        "role": "Этап 4 · район финиша",
+        "note": "Вечерняя база у Сьерпе по программе."
+      },
+      {
+        "point": "sierpe-ferry",
+        "role": "Этап 5 · причалы Сьерпе",
+        "note": "Точку посадки берите из программы."
+      },
+      {
+        "point": "ganadito-camp",
+        "role": "Этапы 5–6 · район пляжа Ганадито",
+        "note": "На карте ориентир у берега. Лагерь и стартовые створы указывает команда гонки."
+      },
+      {
+        "point": "drake-town",
+        "role": "Этап 6 · район Агуитас",
+        "note": "Ориентир петли вдоль залива Дрейк. Финиш возвращается к Ганадито."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать дистанцию",
+        "text": "На странице организатора Expedition указан ориентир 249 км. Adventure около 135 км и меньше набора, с другими точками выхода на часть этапов. Расстояния в списке этапов относятся к Expedition, отдельная карточка организатора даёт треки и отметки для Adventure.",
+        "sources": [
+          "tcc-2027-official-route-map",
+          "tcc-2027-expedition-stages",
+          "tcc-2027-adventure-stages"
+        ]
+      },
+      {
+        "title": "Обязательная экипировка",
+        "text": "На всех этапах требуются ёмкости суммарно минимум на 1 л, собственный стакан или фляга для пунктов питания, телефон с местной SIM, свисток, налобный фонарь от 50 лм и доступ к GPX своего формата. Для лагеря организатор указывает коврик, лёгкий спальник или вкладыш, сменную сухую одежду и посуду. Спланируйте сушку обуви и носков после переправ.",
+        "sources": [
+          "tcc-rules-gear",
+          "tcc-2027-expedition-stages"
+        ]
+      },
+      {
+        "title": "Бивуак и транспорт",
+        "text": "По программе организатор ставит палатки и перевозит один баул или контейнер до 100 л между лагерями. Проверьте распределение палаток, питание и сопровождение в своём пакете. При возвращении из Ганадито к автобусу предусмотрено водное такси, поэтому документы и электронику держите в гермочехле.",
+        "sources": [
+          "tcc-2027-expedition-stages",
+          "tcc-camp-faq",
+          "tcc-race-organizers"
+        ]
+      },
+      {
+        "title": "Карта и дорожная книга",
+        "text": "С карты организатора можно открыть профиль каждого этапа и запросить официальный комплект GPX. Ориентиры атласа показывают районы старта, лагерей и объектов. Время стартов, отсечки и изменения участка на следующий день подтверждает вечерний брифинг.",
+        "sources": [
+          "tcc-2027-official-route-map",
+          "tcc-2027-expedition-stages",
+          "tcc-rules-gear"
+        ]
+      },
+      {
+        "title": "Отчёты и фото местности",
+        "text": "Полевой репортаж Ian Corless показывает Науяку, лесные подъёмы и выход к побережью на прошлой гонке. Фотографии в атласе показывают берег Доминикаля и залив Дрейк. В архивном видео можно увидеть организацию и рельеф прошлой трассы.",
+        "sources": [
+          "tcc-corless-2026-stage3-field",
+          "tcc-pitufollow-archive-video",
+          "tcc-2027-expedition-stages"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Родриго Карасо · директор гонки",
+        "source": "tcc-race-organizers",
+        "note": "Дистанции, регламент, доступность участия и вопросы по старту.",
+        "phone": "+506 8853 7776",
+        "url": "https://thecoastalchallengecostarica.com/en/contact"
+      },
+      {
+        "name": "Серхио Санчес · логистика",
+        "source": "tcc-race-organizers",
+        "note": "Лагеря, багаж, брифинг и трансферы.",
+        "phone": "+506 8894 6178",
+        "url": "https://thecoastalchallengecostarica.com/en/contact"
+      }
+    ],
+    "nearby": [
+      "rafiki-savegre-river-glamping",
+      "dominical-surf",
+      "nauyaca-nature",
+      "marino-ballena",
+      "sierpe-boat",
+      "ganadito-roof",
+      "drake-without-car-3"
+    ],
+    "photos": [
+      "dominical",
+      "drake"
+    ],
+    "videos": [
+      "tcc-pitufollow-archive-video"
+    ],
+    "track": "tcc-2027-official-route-map"
+  }
+}

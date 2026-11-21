@@ -456,3 +456,33 @@ senderos-colon-bosque-1-start	Развилка La Laja — Bosque 1	9.907423	-84
 senderos-colon-bosque-2-start	Развилка Bosque 1 — Bosque 2	9.903897	-84.264902	osm-cr-points
 senderos-colon-cappuccino-start	Cappuccino · развилка у Bosque 2	9.9036066	-84.2609528	osm-cr-points
 senderos-colon-vip-junction	Развилка с VIP на возвратном участке	9.895556	-84.2572	osm-cr-points
+este-202-entrance	Parque del Este · автомобильный въезд с Ruta 202	9.9414403	-84.0127983	osm-cr-points
+este-forest-north-junction	Parque del Este · северная развилка внутри парка	9.9443922	-84.0096214	osm-cr-points
+este-forest-eastern-turn	Parque del Este · восточный поворот лесной петли	9.9430897	-84.0056647	osm-cr-points
+este-forest-south-junction	Parque del Este · южная развилка троп	9.9423153	-84.0094567	osm-cr-points
+este-forest-path-edge	Parque del Este · южный изгиб лесной тропы	9.9414316	-84.0108543	osm-cr-points
+este-return-to-main-road	Parque del Este · возвращение на внутреннюю дорогу	9.9419595	-84.0108349	osm-cr-points
+monte-cruz-dantas-road-fork	Monte de la Cruz · начало дороги к Серро-Дантас	10.068136	-84.0776482	dantas-owner
+dantas-gravel-north-point	Дорога к Серро-Дантас · северный грунтовый участок	10.0767912	-84.0781786	osm-cr-points
+dantas-authorized-road-bend	Серро-Дантас · развилка на подходе к приюту	10.0865234	-84.0778338	dantas-owner
+cerro-dantas-refuge-arrival	Refugio Cerro Dantas · приём посетителей	10.0945916	-84.0586925	osm-cr-points
+catalinas-trails-foot-start	Las Catalinas · выход на тропы рядом с Pura Vida Ride	10.4819059	-85.7867745	osm-cr-points
+catalinas-la-cresta-foot-entry	La Cresta · начало северного пешего участка	10.4835341	-85.7902563	osm-cr-points
+catalinas-la-cresta-ridge	La Cresta · середина подъёма	10.4847932	-85.789783	osm-cr-points
+catalinas-la-cresta-north-fork	La Cresta · выход к Calle Punta Guachipelines	10.486659	-85.7900786	osm-cr-points
+catalinas-guachipelines-foot-return	Calle Punta Guachipelines · возвратная развилка	10.4850561	-85.7885756	osm-cr-points
+catalinas-secreto-trail-head	Secreto Trail · начало от Calle Punta Guachipelines	10.4873383	-85.7908198	osm-cr-points
+catalinas-secreto-middle	Secreto Trail · ориентир в середине подъёма	10.4912541	-85.7826453	osm-cr-points
+catalinas-secreto-north-turn	Secreto Trail · северный разворот	10.49396	-85.7808804	osm-cr-points
+prusia-principal-end	Prusia · конец Calle Principal у троп	9.9604275	-83.8776955	osm-cr-points
+prusia-robles-micaela-junction	Prusia · развилка El Roble и Micaela	9.9642126	-83.8765258	osm-cr-points
+prusia-robles-upper-corner	Sendero El Roble · верхний поворот	9.9652706	-83.8710423	osm-cr-points
+prusia-robles-pinos-jct	Развилка El Roble — Los Pinos	9.9577351	-83.874602	osm-cr-points
+prusia-micaela-east-junction	Micaela · развилка возврата через El Roble	9.9612238	-83.8740426	osm-cr-points
+rio-loro-park-area	Parque Ambiental Río Loro · территория парка	9.9100192	-83.9430496	osm-cr-points
+transtica-villa-nueva-locality	Villa Nueva de Quepos · посёлок	9.4741958	-84.0692862	osm-cr-points
+transtica-santa-maria-dota	Santa María de Dota · посёлок	9.6534584	-83.9687094	osm-cr-points
+transtica-san-pablo-tres-equis	San Pablo de Tres Equis · посёлок	9.9340036	-83.5721355	osm-cr-points
+tcc-playa-del-rey-area	El Rey de Quepos · район подхода к берегу	9.3653847	-84.0540758	osm-cr-points
+tcc-palmar-norte-locality	Palmar Norte · посёлок	8.9619685	-83.4563775	osm-cr-points
+tcc-coronado-osa	Coronado de Osa · посёлок	9.0479764	-83.6168115	osm-cr-points

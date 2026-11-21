@@ -667,6 +667,15 @@
           "oik-contact",
           "oikoumene"
         ]
+      },
+      {
+        "title": "Тропы, ночёвка и короткий пеший выезд",
+        "text": "Администрация описывает территорию около 18 га с тропами, местами для ночёвки и активностями на природе. Для прогулки из лагеря попросите петлю и правила совместного использования троп с MTB. Для семейного выезда дополнительно есть муниципальный парк Río Loro в районе Очомого.",
+        "sources": [
+          "oikoumene-walking-trails-owner",
+          "oik-contact",
+          "cartago-rio-loro-municipal-rules"
+        ]
       }
     ],
     "contacts": [
@@ -676,13 +685,22 @@
         "note": "Дневной вход, кемпинг, велосипеды и маршрут к площадке.",
         "phone": "+506 8668 2723",
         "email": "info@oikoumene.cr"
+      },
+      {
+        "name": "Oikoumene · тропы и размещение",
+        "source": "oik-contact",
+        "note": "Уточните дневной вход, длину доступных петель и наличие места для палатки или домика.",
+        "phone": "+506 8668 2723",
+        "url": "https://www.oikoumene.cr/contacto/"
       }
     ],
     "nearby": [
       "escapadita",
       "lucha-bike",
       "lucha-weekend",
-      "cross-costa-rica-mtb-archive-3"
+      "cross-costa-rica-mtb-archive-3",
+      "rio-loro-cartago-forest",
+      "prusia-el-roble-loop-75"
     ],
     "track": null
   }

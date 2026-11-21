@@ -160,5 +160,41 @@
     "license": "CC BY 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Lake_Cachi_-_Orosi_-_Costa_Rica_-_panoramio_(2).jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "parque-del-este": {
+    "file": "trail-parque-del-este.jpg",
+    "alt": "Лесная зона Парка-дель-Эсте в Сан-Рафаэле",
+    "caption": "Parque del Este · Монтес-де-Ока · уменьшенная версия",
+    "author": "Haakon S. Krohn",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Parque_del_Este.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "dominical": {
+    "file": "trail-dominical.jpg",
+    "alt": "Пляж Доминикаль и волны Тихого океана",
+    "caption": "Плайя-Доминикаль · берег Тихого океана · уменьшенная версия",
+    "author": "Fky",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Dominical_(124938869).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "dota-park": {
+    "file": "trail-dota-park.jpg",
+    "alt": "Центральный парк Санта-Мария-де-Дота",
+    "caption": "Центральный парк Санта-Мария-де-Дота · уменьшенная версия",
+    "author": "Albus161",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Parque_Santa_Maria_de_Dota.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "drake": {
+    "file": "trail-drake.jpg",
+    "alt": "Берег на заливе Дрейк",
+    "caption": "Баия-Дрейк · берег залива · уменьшенная версия",
+    "author": "Imatges, algunes lle…",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Platja_de_Bahia_Drake._-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
   }
 }

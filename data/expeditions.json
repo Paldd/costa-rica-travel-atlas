@@ -4038,5 +4038,232 @@
         ]
       }
     ]
+  },
+  {
+    "id": "transtica-stage-race-2026",
+    "kind": "event",
+    "region": "centralpac",
+    "regions": [
+      "mountains",
+      "central",
+      "caribbean"
+    ],
+    "title": "La Transtica 2026 · 5 беговых этапов от Тихого океана к Карибам",
+    "native": "Costa Rica Trail – La Transtica · Extreme 190 km / Adventure 125 km",
+    "level": "expedition",
+    "days": 5,
+    "stageUnit": "stage",
+    "activities": [
+      "trailrun",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "solo",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "distance": 190,
+    "sources": [
+      "transtica-schedule-2026",
+      "transtica-rules-2026",
+      "transtica-equipment-2026",
+      "transtica-booking-2026",
+      "transtica-bernard-organizer",
+      "transtica-official-photo-gallery",
+      "transtica-official-video-gallery",
+      "transtica-adventure-stage-five"
+    ],
+    "summary": "26 ноября – 5 декабря 2026. Пять этапов и пролог. Две категории, около 190 км Extreme и 125 км Adventure по регламенту. Кофейные холмы, высокогорный лес, переходы через реки и финиш у карибского моря.",
+    "plan": "26 ноября регистрация и проверка в Сан-Хосе, 27 ноября переезд к Мануэль-Антонио и пролог 6 км. Основная дистанция начинается 28 ноября. В программу входит автобусный переезд на Карибы и возвращение через Сан-Хосе.",
+    "conditions": "Нужна регистрация и медицинские документы. Ориентиры на карте показывают посёлки по программе. Стартовые створа, места бивуаков, контрольное время и разрешённый доступ на участки указаны в актуальном roadbook участника.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "28.11 · Вилья-Нуэва → Санта-Мария-де-Дота",
+        "note": "Extreme 38,2 км и набор 2 860 м, Adventure 22,8 км и 1 820 м. От низин у Кепоса в кофейную долину. После финиша бивуак в Санта-Марии.",
+        "stops": [
+          "coopedota-santa-maria-coffee"
+        ],
+        "sources": [
+          "transtica-schedule-2026"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "29.11 · Санта-Мария-де-Дота → Ла-Эсперанса",
+        "note": "37,6 км и 2 460 м либо 23,8 км и 1 540 м набора. Самая высокая точка по программе около 2 900 м. Бивуак у школы La Esperanza, участникам Adventure предусмотрен трансфер к старту.",
+        "stops": [
+          "coopedota-santa-maria-coffee"
+        ],
+        "sources": [
+          "transtica-schedule-2026"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "30.11 · Ла-Эсперанса → Эль-Умо-де-Пехибайе",
+        "note": "45,7 км и 1 900 м либо 26,3 км и 1 210 м набора. Спуск с высоты, тропы среди ферм и переход через воду. Бивуак в местном общественном зале.",
+        "stops": [
+          "la-roca-pejibaye"
+        ],
+        "sources": [
+          "transtica-schedule-2026"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "01.12 · Эль-Умо → Сан-Пабло-де-Трес-Экис",
+        "note": "37,2 км и 1 540 м либо 22,4 км и 940 м набора. Грунт, участки дорог, пастбища и сахарный тростник. 2 декабря предусмотрен автобус на Карибы и ночь в отеле.",
+        "stops": [],
+        "sources": [
+          "transtica-schedule-2026"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "03.12 · Плайя-Негра → Мансанильо",
+        "note": "27,6 км и 230 м либо 20,1 км и 120 м набора. Жара, песок, прибрежные тропы и переходы через воду. Награждение вечером, 4 декабря трансфер в Сан-Хосе.",
+        "stops": [
+          "puerto-viejo-bike-manzanillo"
+        ],
+        "sources": [
+          "transtica-schedule-2026",
+          "transtica-adventure-stage-five"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coastal-challenge-2027",
+    "kind": "event",
+    "region": "south",
+    "regions": [
+      "centralpac"
+    ],
+    "title": "The Coastal Challenge 2027 · 249 км и 6 этапов до залива Дрейк",
+    "native": "The Coastal Challenge Costa Rica · Expedition 249 km / Adventure 135 km",
+    "level": "expedition",
+    "days": 6,
+    "stageUnit": "stage",
+    "activities": [
+      "trailrun",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "solo",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "distance": 249,
+    "sources": [
+      "tcc-2027-dates",
+      "tcc-2027-official-route-map",
+      "tcc-2027-expedition-stages",
+      "tcc-2027-adventure-stages",
+      "tcc-rules-gear",
+      "tcc-camp-faq",
+      "tcc-race-organizers",
+      "tcc-corless-2026-stage3-field",
+      "tcc-pitufollow-archive-video"
+    ],
+    "summary": "13–20 февраля 2027. Шесть беговых этапов вдоль Тихого океана с лагерями. Expedition около 249 км и 10 194 м набора, Adventure около 135 км и 3 823 м. Два формата идут по разным отрезкам с общими вечерними лагерями.",
+    "plan": "13 февраля регистрация и обязательный брифинг в районе Сан-Хосе. Старты 14–19 февраля, 20 февраля водное такси до Сьерпе и автобус в Сан-Хосе. Организатор перевозит багаж между лагерями по своим правилам.",
+    "conditions": "Гонка с регистрацией и обязательным брифингом. Уточните лимиты, речные переходы, приливы, финишные зоны и доступ к лагерям. Для навигации скачайте GPX своей категории через организатора.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "14.02 · Плайя-дель-Рей → Рафики",
+        "note": "Expedition 35,26 км и 998 м набора. Берег у Кепоса, грунт, лес и перепады температуры. Бивуак у Rafiki Safari Lodge. Точный порядок раннего трансфера выдаёт организатор.",
+        "stops": [
+          "rafiki-savegre-river-glamping"
+        ],
+        "sources": [
+          "tcc-2027-expedition-stages",
+          "tcc-2027-adventure-stages"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "15.02 · Рафики → Доминикаль",
+        "note": "42,49 км и 1 372 м набора. Переходы в долине Савегре, корни и грязные тропы, финиш по открытому берегу. Вечерний лагерь в Доминикале.",
+        "stops": [
+          "rafiki-savegre-river-glamping",
+          "dominical-surf"
+        ],
+        "sources": [
+          "tcc-2027-expedition-stages",
+          "tcc-2027-adventure-stages"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "16.02 · Доминикаль → Марино-Бальена",
+        "note": "51,14 км и 2 332 м набора. Речная галька, каскад Науяка, неровный переход к парку Марино-Бальена. Для посетителей водопада действует отдельный режим доступа.",
+        "stops": [
+          "dominical-surf",
+          "nauyaca-nature",
+          "marino-ballena"
+        ],
+        "sources": [
+          "tcc-2027-expedition-stages",
+          "tcc-2027-adventure-stages",
+          "tcc-corless-2026-stage3-field"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "17.02 · Коронадо → Пальмар-Норте",
+        "note": "40,48 км и 2 405 м набора. В программе утренний подвоз к старту, открытые фермерские дороги, крутые подъёмы и речные переходы. Ночёвка по расписанию у Sierpe Lodge.",
+        "stops": [
+          "sierpe-boat"
+        ],
+        "sources": [
+          "tcc-2027-expedition-stages",
+          "tcc-2027-adventure-stages"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "18.02 · причал Сьерпе → Ганадито",
+        "note": "42,83 км и 2 007 м набора. Паром, дороги и тропы полуострова Оса, в программе есть морской переход на катере. У Adventure собственное место начала бегового отрезка.",
+        "stops": [
+          "sierpe-boat",
+          "ganadito-roof"
+        ],
+        "sources": [
+          "tcc-2027-expedition-stages",
+          "tcc-2027-adventure-stages"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "19.02 · петля Ганадито через залив Дрейк",
+        "note": "37,13 км и 1 080 м набора для Expedition. У Adventure 26,58 км и 780 м. Петля через побережье, тропы и переходы через воду. Финиш, последняя ночь и награждение в Ганадито.",
+        "stops": [
+          "ganadito-roof",
+          "drake-without-car-3"
+        ],
+        "sources": [
+          "tcc-2027-expedition-stages",
+          "tcc-2027-adventure-stages"
+        ]
+      }
+    ]
   }
 ]

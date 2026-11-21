@@ -324,6 +324,15 @@
           "catalinas-water",
           "guanacaste-tides"
         ]
+      },
+      {
+        "title": "Пешие варианты в Las Catalinas",
+        "text": "Для пешего выхода над Дантой добавлены два варианта по La Cresta и Secreto. У Pura Vida Ride подтвердите Danta Pass, действующие направления движения и закрытия троп.",
+        "sources": [
+          "catalinas-walking-hiking-map",
+          "catalinas-danta-pass-trail-rules",
+          "catalinas-contact"
+        ]
       }
     ],
     "contacts": [
@@ -344,7 +353,9 @@
       "catalinas-sup",
       "pinilla-emtb",
       "dantita-shore-walk",
-      "flamingo-catalinas-water-2"
+      "flamingo-catalinas-water-2",
+      "las-catalinas-la-cresta-23",
+      "las-catalinas-secreto-13"
     ],
     "track": "catalinas-ride"
   },

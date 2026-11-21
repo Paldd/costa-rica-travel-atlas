@@ -375,6 +375,15 @@
           "senderos-colon-unicli-field",
           "senderos-colon"
         ]
+      },
+      {
+        "title": "Тренировка в комплексе и короткая альтернатива",
+        "text": "Для пробежки используйте схему, которую даёт администрация, и сравните с опубликованным беговым треком. Для более простого знакомства с грунтом в городе в атласе есть лесная петля Parque del Este. В Senderos Colón на подъём и выбор развилок оставьте запас времени.",
+        "sources": [
+          "senderos-colon",
+          "senderos-colon-local-run-track",
+          "este-montes-de-oca-admin"
+        ]
       }
     ],
     "contacts": [
@@ -388,7 +397,9 @@
     ],
     "nearby": [
       "senderos-colon-mtb",
-      "senderos-colon-mtb-laja-11"
+      "senderos-colon-mtb-laja-11",
+      "parque-este-forest-loop-25",
+      "las-catalinas-secreto-13"
     ],
     "track": "colon-trailforks",
     "videos": [
@@ -552,6 +563,14 @@
           "reservas",
           "prusia-local-trip"
         ]
+      },
+      {
+        "title": "Какой круг выбрать на первый визит",
+        "text": "В атласе есть вариант через El Roble, Los Pinos и Micaela. Его длина около 7,5 км от внешнего въезда, вместе с дорогой парка. Для более короткой прогулки спросите в кассе, где можно оставить машину и сколько останется пешком.",
+        "sources": [
+          "ict-prusia-trail-names-visitor-guide",
+          "irazu-map"
+        ]
       }
     ],
     "contacts": [
@@ -565,7 +584,10 @@
     ],
     "nearby": [
       "retos-irazu",
-      "irazu-craters"
+      "irazu-craters",
+      "prusia-el-roble-loop-75",
+      "rio-loro-cartago-forest",
+      "oikoumene"
     ],
     "track": "irazu-map"
   },
