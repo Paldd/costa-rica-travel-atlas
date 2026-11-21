@@ -24,6 +24,8 @@ SKIP = {
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
 SECTION_PATH = re.compile(r"/(?:author|authors|category|categoria|tag|tags|page|search)(?:/|$)", re.I)
 MIN_BODY_CHARS = 350
+ARTICLE_BODY_CLASSES = {"blogDetailBodyContent", "elementor-widget-theme-post-content"}
+EXTRACTOR_VERSION = 2
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
 
@@ -48,9 +50,12 @@ class EditorialPage(HTMLParser):
             if value := attrs.get(key):
                 self.add_media(value)
         if tag not in VOID:
+            classes = set((attrs.get("class") or "").split())
+            wordpress_post = (attrs.get("id") or "").startswith("post-") and {"type-post", "hentry"} <= classes
             content = (
                 tag in {"article", "main"} or attrs.get("role") == "main" or attrs.get("itemprop") == "articleBody"
                 or attrs.get("id") in {"main-content", "main-blog-content", "article-content"}
+                or bool(classes & ARTICLE_BODY_CLASSES) or wordpress_post
             )
             exclude = tag in SKIP or "hidden" in attrs or attrs.get("aria-hidden") == "true"
             self.stack.append((tag, content, exclude))
@@ -122,7 +127,7 @@ def read_archive(archive, urls, analyze):
     results = []
     for row in urls:
         url = row["url"]
-        entry = {"url": url, "title": row["title"], "status": "unavailable"}
+        entry = {"url": url, "title": row["title"], "status": "unavailable", "extractorVersion": EXTRACTOR_VERSION}
         try:
             if rules and not rules.can_fetch(AGENT, url):
                 entry["status"] = "robots-disallow"
@@ -174,7 +179,10 @@ def read_json(path, default):
 def enough_time(entry, today):
     if not entry:
         return True
-    days = 30 if entry["status"] in {"read", "robots-disallow"} else 3
+    status = entry["status"]
+    if status == "no-editorial-text" and entry.get("extractorVersion") != EXTRACTOR_VERSION:
+        return True
+    days = 30 if status in {"read", "robots-disallow"} else 3
     return today - datetime.date.fromisoformat(entry["checked"]) >= datetime.timedelta(days=days)
 
 
