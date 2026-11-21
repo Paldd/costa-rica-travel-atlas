@@ -91,7 +91,7 @@ function Hero() {
   }
   return <section className="hero">
     <div className="hero-copy">
-      <h1>Куда поехать<br />в Коста-Рике?</h1>
+      <h1>Куда поехать <br /><span>в Коста-Рике?</span></h1>
       <p>Походы, кемпинги и поездки от вулканов до океана.</p>
       <div className="hero-actions">
         <button type="button" className="button primary" onClick={focusSearch}>Найти маршрут</button>
@@ -215,13 +215,15 @@ function Detail({ row, atlas, route, saved, toggle }) {
     <div className="detail-body">
       <section>
         <h2>Как спланировать</h2>
-        <h3>{row.stages ? "План по дням" : "Маршрут"}</h3>
+        <h3>{row.stageUnit === "stage" ? "План по этапам" : row.stages ? "План по дням" : "Маршрут"}</h3>
         <p>{row.plan}</p>
         {row.stages?.length > 0 && <ol className="stages">{row.stages.map(stage => <li key={stage.day}>
-          <strong>День {stage.day} · {stage.title}</strong>
+          <strong>{row.stageUnit === "stage" ? "Этап" : "День"} {stage.day} · {stage.title}</strong>
           <p>{stage.note}</p>
-          {stage.stops?.length > 0 && <div className="stage-links">{stage.stops.map(stop =>
-            <a key={stop} href={urlFor("place", route.filters, stop)}>{byId.get(stop)?.title}<ArrowRight size={13} /></a>)}</div>}
+          {Boolean(stage.stops.length || stage.sources?.length) && <div className="stage-links">
+            {stage.stops.map(stop => <a key={stop} href={urlFor("place", route.filters, stop)}>{byId.get(stop)?.title}<ArrowRight size={13} /></a>)}
+            {stage.sources?.map(id => <External key={id} href={atlas.sources[id].url}>{atlas.sources[id].title}</External>)}
+          </div>}
         </li>)}</ol>}
         <h3>Ночёвка</h3>
         <p>{row.sleep.map(id => lodging[id]).join(" · ")}</p>
@@ -258,9 +260,10 @@ function SourcesPage({ atlas }) {
     <div className="source-summary">
       <article><strong>{overview.profiles || 0}</strong><span>профилей в реестре</span></article>
       <article><strong>{overview.instagramPosts || 0}</strong><span>постов Instagram в выборке</span></article>
+      <article><strong>{overview.facebookPosts || 0}</strong><span>постов Facebook просмотрено</span></article>
       <article><strong>{Object.keys(atlas.sources).length}</strong><span>источников каталога</span></article>
     </div>
-    <p>Подключённый Graph API читает активы LabX. Для сторонних аккаунтов публикации сверяются по доступным образцам и ссылкам. Статус в строке показывает, какие данные прочитаны.</p>
+    <p>Подключённый коннектор Meta читает управляемые аккаунты. Публикации сторонних профилей сверяются по доступным образцам и ссылкам. Статус в строке показывает, какие данные просмотрены.</p>
     <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/API.md">Проверка доступов и методика</External></p>
     <details className="evidence-list">
       <summary>Профили Instagram и Facebook <ChevronDown size={18} /></summary>

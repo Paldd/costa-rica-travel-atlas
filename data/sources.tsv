@@ -156,3 +156,32 @@ tico-arenal	operator	Costa Rica 4x4 Adventure · кольцо Ареналя	htt
 tico-nicoya	operator	Costa Rica 4x4 Adventure · полуостров Никоя	https://costarica4x4adventure.com/es/routes/nicoya-pacific/	Пятидневная программа вдоль полуострова
 tico-osa	operator	Costa Rica 4x4 Adventure · полуостров Оса	https://costarica4x4adventure.com/es/routes/osa-peninsula/	Шестидневная программа к южным районам
 tico-cloud	operator	Costa Rica 4x4 Adventure · облачные леса	https://costarica4x4adventure.com/es/routes/cloud-forests/	Четырёхдневная программа из нескольких зон
+camino-stage-1a	operator	Этап 1A · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-1a/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-1b	operator	Этап 1B · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-1b/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-2	operator	Этап 2 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-2/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-3	operator	Этап 3 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-3/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-4	operator	Этап 4 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-4/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-5	operator	Этап 5 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-5/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-6	operator	Этап 6 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-6/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-7	operator	Этап 7 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-7/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-8	operator	Этап 8 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-8/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-9	operator	Этап 9 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-9/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-10	operator	Этап 10 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-10/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-11	operator	Этап 11 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-11/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-12	operator	Этап 12 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-12/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-13	operator	Этап 13 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-13/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-14	operator	Этап 14 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-14/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-15	operator	Этап 15 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-15/	Длина, точки маршрута и местные варианты ночёвки
+camino-stage-16	operator	Этап 16 · Mar a Mar	https://caminodecostarica.org/es/descubre/etapa/etapa-16/	Длина, точки маршрута и местные варианты ночёвки
+camino-prepare	operator	Mar a Mar · подготовка к переходу	https://caminodecostarica.org/es/preparate-para-la-excursion/	Сезон, ночёвки и подготовка к переходу
+senderos-colon	directory	Descubramos Juntos Costa Rica · Senderos Colón	https://descubramoscostarica.com/es/destino/senderos-colon	Правила входа, пешие маршруты, бег и MTB в Море
+fb-ict-driving	official	Visit Costa Rica · выбор автомобиля в Facebook	https://www.facebook.com/visitcostarica/posts/pfbid024UPC2Hi67Go2L9qDady5qxyXgJPRKyUfk2ZPRT52drvCpkibnFNV4udSfyWLNYCLl	Советы туристического ведомства по выбору 2WD или 4×4 по маршруту
+fb-qbl-rana	experience	Qué Buen Lugar · Rancho Rana Roja в Facebook	https://www.facebook.com/reel/1111494751770808	Видео о Rancho Rana Roja, найденное в публичной ленте автора
+qbl-ruta-agua	experience	Qué Buen Lugar · Ruta del Agua	https://www.quebuenlugar.com/es/lugares/ruta-del-agua/	Путевой отчёт с последовательностью посещения водопадов и подъездами
+rana-roja	operator	Rancho Rana Roja · посещение и ночёвка	https://www.ranchoranaroja.com/tarifas	Вход к водопаду, ресторан и ночёвка у оператора
+eco-chontales	operator	Eco Chontales Waterfall · sendero	https://ecochontaleswaterfall.com/	Подъезд с Ruta 243, вход на тропу, длина и парковка
+elysiana	operator	Cascada Elysiana · водопад и тропы	https://www.cascadaelysiana.com/waterfall	Водопад, пешие маршруты и отдых в лесу
+elysiana-drive	operator	Cascada Elysiana · подъезд	https://www.cascadaelysiana.com/directions	Гравийный подъезд со стороны Платанильо и варианты трансфера
+tcr-dantica	event	The Trail Running CR · Dantica Trail 2026	https://thetrailrunningcr.com/dantica-trail-2026/	Дистанции и маршрут прошедшего выпуска в Эредии
+tcr-corcovado	event	A Buen Paso · Corcovado Stage Race 2026	https://abuenpaso.cr/event/corcovado-stage-race-2026	Регистрация закрыта. Описание двух этапов прошедшего выпуска
+perez-travel	official	Муниципалитет Перес-Селедона · путеводитель	https://www.perezzeledon.go.cr/component/phocadownload/category/1119-archivos-generales/1109-turismo.html?Itemid=112&download=18034%3Aguia-del-viajero-travel-guide	Региональные тропы, водопады и точки для маршрутов

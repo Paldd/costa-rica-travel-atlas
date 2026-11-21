@@ -25,6 +25,7 @@ for (const row of records) {
     assert(items.length > 0 && items.every(item => item in choices), `${row.id}: ${items}`);
   }
   assert((row.stages || []).every((s, i) => s.day === i + 1 && s.title && s.note && s.stops.every(id => known.has(id))), row.id);
+  assert((row.stages || []).every(s => (s.sources || []).every(id => id in atlas.sources)), row.id);
   if (row.stages?.length > 0) assert.equal(row.stages.length, row.days, row.id);
 }
 
@@ -43,4 +44,6 @@ assert.equal(atlas.social.profiles.filter(row => row.platform === "Instagram").l
 assert.equal(atlas.social.profiles.filter(row => row.platform === "Facebook").length, 100);
 assert.equal(atlas.social.overview.instagramPosts,
   atlas.social.profiles.filter(row => row.platform === "Instagram").reduce((count, row) => count + row.posts, 0));
+assert.equal(atlas.social.overview.facebookPosts,
+  atlas.social.profiles.filter(row => row.platform === "Facebook").reduce((count, row) => count + row.posts, 0));
 console.log(`Validated ${records.length} entries, ${Object.keys(atlas.sources).length} indexed sources and 200 profiles.`);

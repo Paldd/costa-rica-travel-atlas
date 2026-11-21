@@ -7,5 +7,8 @@
   {"name":"Costa Rica Camping Guide · горы и север","url":"https://costaricacampsites.com/northern-highlands-volcanoes/","paths":["/camp-sites/"]},
   {"name":"Costa Rica 4x4 Adventure · опубликованные маршруты","url":"https://costarica4x4adventure.com/es/routes/","paths":["/es/routes/"]},
   {"name":"Sarapiquí Outdoor Center · программы","url":"https://www.costaricaraft.com/rafting","paths":["/rafting/"]},
-  {"name":"Pacuare Outdoor Center · программы","url":"https://pacuareoutdoorcenter.com/es/experiencias/","paths":["/es/experiencias/","/es/actividades/"]}
+  {"name":"Pacuare Outdoor Center · программы","url":"https://pacuareoutdoorcenter.com/es/experiencias/","paths":["/es/experiencias/","/es/actividades/"]},
+  {"name":"Qué Buen Lugar · места","url":"https://www.quebuenlugar.com/es/lugares/","paths":["/es/lugares/","/es/hospedajes/"]},
+  {"name":"The Trail Running CR · календарь","url":"https://thetrailrunningcr.com/eventos/","paths":["/dantica-","/columbia-","/eventos/"]},
+  {"name":"Муниципалитет Перес-Селедона · туризм","url":"https://www.perezzeledon.go.cr/component/phocadownload/category/1109-turismo.html","paths":["/component/phocadownload/category/1109-turismo.html","/turismo/"]}
 ]

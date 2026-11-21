@@ -57,7 +57,7 @@ export const kinds = {
 };
 
 export const durations = {
-  half: "До полудня", one: "1 день", two: "2 дня", three: "3 дня",
+  half: "Полдня", one: "1 день", two: "2 дня", three: "3 дня",
   five: "4–5 дней", seven: "6–7 дней", long: "8+ дней",
 };
 

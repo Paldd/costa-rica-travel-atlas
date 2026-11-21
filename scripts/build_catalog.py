@@ -8,6 +8,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 SOURCE_FIELDS = ("id", "kind", "title", "url", "scope")
+POST_FIELDS = ("profile", "source")
 RECORD_FIELDS = (
     "id", "kind", "region", "title", "native", "level", "days", "activities",
     "audience", "access", "sleep", "sources", "summary", "plan", "conditions", "distance",
@@ -46,7 +47,23 @@ def main():
     social_path = DATA / "social-coverage.json"
     social = json.loads(social_path.read_text()) if social_path.exists() else {}
     social_matches = social.get("matches", {})
+    profiles_by_url = {profile["url"]: profile for profile in social.get("profiles", [])}
+    manual_posts = list(read_table(DATA / "public-posts.tsv", POST_FIELDS))
+    seen_post_sources = set()
+    for post in manual_posts:
+        profile = profiles_by_url.get(post["profile"])
+        source = post["source"]
+        if not profile or profile["platform"] != "Facebook" or source not in sources_by_id or source in seen_post_sources:
+            raise ValueError(f"Invalid public post entry for {source}")
+        profile["posts"] += 1
+        seen_post_sources.add(source)
+    social.setdefault("overview", {})["facebookPosts"] = len(seen_post_sources)
     metadata = json.loads((DATA / "snapshot.json").read_text())
+    check_path = DATA / "checks.tsv"
+    checked_by_record = {
+        check["id"]: check["checked"]
+        for check in read_table(check_path, ("id", "checked"))
+    } if check_path.exists() else {}
     known_records = set()
     for record in records:
         key = record["id"]
@@ -55,8 +72,10 @@ def main():
         known_records.add(key)
         if not record["sources"] or any(src not in sources_by_id for src in record["sources"]):
             raise ValueError(f"Unknown or missing source for {key}")
-        record["checked"] = metadata["checked"]
+        record["checked"] = checked_by_record.get(key, metadata["checked"])
         record["posts"] = social_matches.get(key, [])[:5]
+    if unknown_checks := checked_by_record.keys() - known_records:
+        raise ValueError(f"Unknown records with check dates: {', '.join(sorted(unknown_checks))}")
     for record in records:
         for stage in record.get("stages", []):
             for stop in stage.get("stops", []):
