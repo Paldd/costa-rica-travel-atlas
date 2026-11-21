@@ -1,0 +1,738 @@
+{
+  "samara-quads-sky-ridge": {
+    "stops": [
+      {
+        "point": "samara-quads2u-office",
+        "role": "Офис и ориентир сбора",
+        "note": "Проверьте адрес отправления в подтверждении."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор формата",
+        "text": "Sky Ridge занимает около 4–5 часов. На сайте есть также Sámara Explorer на два часа и Hills to Shore на три. Короткий вариант удобен, если поездку нужно совместить с уроком сёрфа или ребёнок плохо переносит долгую тряску.",
+        "sources": [
+          "samara-quads2u-programs"
+        ]
+      },
+      {
+        "title": "ATV или багги",
+        "text": "Владелец показывает четырёхместный UForce SBS и двухместные квадроциклы. Уточните отдельные цены за машину и пассажира, допустимый возраст, права водителя, защиту, депозит и условия страхования. Возьмите закрытую обувь и защиту от пыли.",
+        "sources": [
+          "samara-quads2u-programs"
+        ]
+      },
+      {
+        "title": "Что отмечено на карте",
+        "text": "Пин стоит у офиса. Для маршрута с визитом на водопад спросите, сколько идти, есть ли обход мокрых участков и что происходит при подъёме воды. На пляжах транспорт оставляют за пределами берега.",
+        "sources": [
+          "samara-quads2u-osm",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Quads2U Sámara",
+        "source": "samara-quads2u-programs",
+        "note": "Уточните места в машине, нижний возраст пассажира, права и условия страховки.",
+        "phone": "+506 8949 5457",
+        "url": "https://wa.me/50689495457",
+        "email": "atvquads2u@gmail.com"
+      }
+    ],
+    "nearby": [
+      "samara-quads-ride-cook",
+      "samara-cocos-beach-camp",
+      "samara-carrillo-mtb-varco"
+    ],
+    "galleries": [
+      "samara-quads2u-programs"
+    ],
+    "photos": [
+      "samara-beach-commons"
+    ],
+    "connectStops": false
+  },
+  "samara-quads-ride-cook": {
+    "stops": [
+      {
+        "point": "samara-quads2u-office",
+        "role": "Офис и ориентир сбора",
+        "note": "Адрес фермы выдаёт команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроен день",
+        "text": "В программе 4–5 часов с началом около 8 утра. Часть времени проходит за рулём, затем гости готовят тортильи с семьёй и обедают. Для нескольких человек удобнее заранее попросить одну машину side-by-side.",
+        "sources": [
+          "samara-quads2u-programs"
+        ]
+      },
+      {
+        "title": "Водопад, еда и экипировка",
+        "text": "Уточните длительность пешей части, детские размеры средств защиты и состав блюда. Возьмите закрытую обувь, сухой мешок и сменный комплект, если команда подтвердит выход к воде.",
+        "sources": [
+          "samara-quads2u-programs"
+        ]
+      },
+      {
+        "title": "Точка и дорога",
+        "text": "Офис отмечен по карте организатора и OSM. Маршрут по сельским дорогам и положение фермы остаются в программе встречающего гида.",
+        "sources": [
+          "samara-quads2u-osm",
+          "samara-quads2u-programs"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Quads2U Sámara",
+        "source": "samara-quads2u-programs",
+        "note": "Уточните места в машине, нижний возраст пассажира, права и условия страховки.",
+        "phone": "+506 8949 5457",
+        "url": "https://wa.me/50689495457",
+        "email": "atvquads2u@gmail.com"
+      }
+    ],
+    "nearby": [
+      "samara-quads-sky-ridge",
+      "pato-samara-school",
+      "carrillo"
+    ],
+    "galleries": [
+      "samara-quads2u-programs"
+    ],
+    "photos": [
+      "samara-beach-commons"
+    ],
+    "connectStops": false
+  },
+  "nosara-atv-coffee-waterfall": {
+    "stops": [
+      {
+        "point": "guiones-north-area",
+        "role": "Гионес · ориентир района",
+        "note": "Офис и место подачи уточняются у организатора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три формата",
+        "text": "Tierra Costa предлагает по четыре часа на водопад, кофе или комбинированную поездку. При сравнении запросите цену на весь состав и проверьте, входят ли напитки и обед именно в вашу программу.",
+        "sources": [
+          "nosara-tierra-atv-guides"
+        ]
+      },
+      {
+        "title": "Техника и багаж",
+        "text": "У Tierra Costa есть двухместные ATV и четырёхместные UTV по запросу. В программе указаны шлем, двуязычный гид и напитки. Возьмите закрытую обувь, одежду для пыли и солнцезащиту.",
+        "sources": [
+          "nosara-tierra-atv-guides"
+        ]
+      },
+      {
+        "title": "Локальная альтернатива",
+        "text": "Macho ATV публикует отдельный выезд в Наранхаль с посещением семейной фермы. При запросе уточните, какая ферма включена, можно ли заменить водопад на остановку в посёлке и закончить без переезда после темноты.",
+        "sources": [
+          "nosara-macho-naranjal-farm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tierra Costa · Носара",
+        "source": "nosara-tierra-atv-guides",
+        "note": "Спросите точку встречи и четыре места в UTV или два в ATV.",
+        "phone": "+506 8974 0952",
+        "url": "https://www.tierracosta.com/atv",
+        "email": "info@tierracosta.com"
+      },
+      {
+        "name": "Macho ATV · Носара",
+        "source": "nosara-macho-naranjal-farm",
+        "note": "Альтернатива для сельской поездки и обеда. Сверьте программу, состав группы и оценку дороги.",
+        "phone": "+506 8869 4241",
+        "url": "https://www.machoatv.com/tours",
+        "email": "machoatvrentalscr@gmail.com"
+      }
+    ],
+    "nearby": [
+      "nosara-electric-estuary-boat",
+      "garza-el-tiguacal-camp",
+      "guiones-ostional-30"
+    ],
+    "galleries": [
+      "nosara-tierra-atv-guides",
+      "nosara-macho-naranjal-farm"
+    ],
+    "connectStops": false,
+    "photos": [
+      "guiones-sunset-commons"
+    ]
+  },
+  "nosara-electric-estuary-boat": {
+    "stops": [
+      {
+        "point": "nosara-boca-estuary-area",
+        "role": "Устье · ориентир акватории",
+        "note": "Здесь отмечена география, конкретный причал отправит команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит",
+        "text": "Оператор описывает прогулку по двум рекам с местным гидом. Время и цена по запросу. Состав для детей и пожилых указан в программе, параметры жилетов и ступени при посадке уточняйте.",
+        "sources": [
+          "nosara-eboa-zone-azul"
+        ]
+      },
+      {
+        "title": "Воды у Пелады",
+        "text": "SINAC отмечает устье у края Плайя-Носара. Местный репортаж также описывает Пеладу по другую сторону устья. Точный ход лодки и обратный причал зависят от рейса.",
+        "sources": [
+          "nosara-estuary-sinac-map",
+          "nosara-river-local-paper"
+        ]
+      },
+      {
+        "title": "Удобно взять",
+        "text": "Питьевая вода, кепка, репеллент и бинокль. Спросите про навес и обувь для посадки. У берегов наблюдают диких животных, поэтому купание планируйте на отдельном пляже по его условиям.",
+        "sources": [
+          "nosara-eboa-zone-azul",
+          "nosara-estuary-sinac-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Expedición Zona Azul",
+        "source": "nosara-eboa-zone-azul",
+        "note": "Согласуйте продолжительность, причал, число мест и размер жилетов.",
+        "phone": "+506 8863 5673",
+        "url": "https://wa.me/50688635673"
+      }
+    ],
+    "nearby": [
+      "guiones",
+      "nosara-atv-coffee-waterfall",
+      "garza-el-tiguacal-camp"
+    ],
+    "galleries": [
+      "nosara-eboa-zone-azul"
+    ],
+    "connectStops": false,
+    "photos": [
+      "guiones-sunset-commons"
+    ]
+  },
+  "uvita-atv-mountain-rides": {
+    "stops": [
+      {
+        "point": "uvita-offroad-meeting",
+        "role": "Сбор Uvita Adventure Off-Road",
+        "note": "Сверьте точку со своим подтверждением."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расписание и цена",
+        "text": "Утренний старт опубликован на 9:00, дневной на 14:00. Максимум семь участников. Ориентир ноября 2026 года от 150 USD и 60 USD за сопровождающего, итог уточняют на выбранную дату.",
+        "sources": [
+          "uvita-atv-sunrise-direct",
+          "uvita-atv-sunset-direct"
+        ]
+      },
+      {
+        "title": "Комплект и состав",
+        "text": "Гиды заявляют шлем и защиту, воду, фрукты и вводный инструктаж. Возьмите закрытую обувь, одежду от дождя и мешок для телефона. Спросите, есть ли отдельный автомобиль для сопровождающих.",
+        "sources": [
+          "uvita-atv-sunrise-direct",
+          "uvita-offroad-home-map"
+        ]
+      },
+      {
+        "title": "Что говорят гости",
+        "text": "В отзывах, размещённых на сайте команды, отмечают разнообразие грунта и виды с остановок. Нужна независимая проверка любых заявлений о конкретной линии. На карте стоит только опубликованный пин встречи.",
+        "sources": [
+          "uvita-atv-sunrise-direct",
+          "uvita-atv-sunset-direct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Uvita Adventure Off-Road",
+        "source": "uvita-offroad-home-map",
+        "note": "Подтвердите время, возраст пассажиров, водительские права, пин и правила при дожде.",
+        "phone": "+506 8305 1888",
+        "url": "https://wa.me/50683051888",
+        "email": "info@uvitaoffroad.com"
+      }
+    ],
+    "nearby": [
+      "uvita-casa-viva-forest-camp",
+      "uvita-isla-cano-guide",
+      "marino-ballena"
+    ],
+    "galleries": [
+      "uvita-offroad-home-map",
+      "uvita-atv-sunset-direct"
+    ],
+    "connectStops": false,
+    "photos": [
+      "punta-uvita-commons"
+    ]
+  },
+  "orosi-tapanti-ranch-camp": {
+    "stops": [
+      {
+        "point": "purisil",
+        "role": "Пурисиль · ориентир дороги",
+        "note": ""
+      },
+      {
+        "point": "tapanti-ranch-main-area",
+        "role": "Ранчо · ориентир хозяйства",
+        "note": "У хозяев запросите въезд и место, которое подходит вашему автомобилю."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка, душ и питание",
+        "text": "Ассоциация Camino указывает ответвление около 800 м от своего маршрута. Справочник ночёвок показывает места под навесом, душ и туалет. Спрашивайте где поставить авто, есть ли разрешение на лестницу и как получить ужин после закрытия кухни.",
+        "sources": [
+          "tapanti-ranch-camino-stage",
+          "tapanti-ranch-camino-gallery"
+        ]
+      },
+      {
+        "title": "Семья и поездка друзей",
+        "text": "Для семьи подойдут дневной визит на ферму, обед и прогулка по территории. Доступ к лошадям и возраст проверяет ранчо. В отчётах двух групп 2026 года видны укрытия и сам лагерь. Цены из роликов относятся к поездкам авторов.",
+        "sources": [
+          "tapanti-ranch-field-teletica",
+          "tapanti-ranch-group-video",
+          "tapanti-ranch-guest-video"
+        ]
+      },
+      {
+        "title": "Клиренс, снаряжение и вода",
+        "text": "Сохраните карту заранее, в справочнике ночёвок отмечена слабая связь. Возьмите тент от дождя, коврик, налобный свет, воду и обувь с протектором. После осадков уточните у хозяев последний участок и действующую схему проезда мостов.",
+        "sources": [
+          "tapanti-ranch-camino-gallery",
+          "orosi-bridges-mopt",
+          "tapanti-ict-park-brochure"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Ganadera Tapantí Media",
+        "source": "tapanti-ranch-camino-stage",
+        "note": "По WhatsApp запросите фото участка под палатку, условия пользования очагом и точный въезд.",
+        "phone": "+506 7053 0869",
+        "url": "https://wa.me/50670530869",
+        "email": "haciendaganaderatapanti@gmail.com"
+      },
+      {
+        "name": "SINAC · сектор Tapantí",
+        "source": "tapanti-ict-park-brochure",
+        "note": "Уточните открытые тропы, состояние подъезда, часы и билеты.",
+        "phone": "+506 2206 5615",
+        "url": "https://sinac.go.cr/ES/ac/accvc/pntpmm/Paginas/default.aspx",
+        "email": "tapanti.info@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "tapanti",
+      "orosi-tapanti-ranch-weekend",
+      "orosi-hot"
+    ],
+    "galleries": [
+      "tapanti-ranch-camino-gallery",
+      "tapanti-ranch-field-teletica"
+    ],
+    "photos": [
+      "orosi-valley"
+    ],
+    "videos": [
+      "tapanti-ranch-group-video",
+      "tapanti-ranch-guest-video"
+    ],
+    "connectStops": false
+  },
+  "sardinal-calzon-de-pobre": {
+    "stops": [
+      {
+        "point": "calzon-de-pobre-beach-area",
+        "role": "Бухта · береговой ориентир",
+        "note": "Пин на берегу. Ищите указанный общественный подход с дороги Пунта-Касике."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подход с суши",
+        "text": "Отчёт сентября 2026 года отмечает ответвление за калиткой рядом с подходом к соседней Плайя-Пенка. Комментарии местных расходятся о парковке. При короткой поездке удобно приехать на такси к началу спуска и сразу оговорить обратную встречу.",
+        "sources": [
+          "cacique-access-september-2026",
+          "calzon-visitor-thread-2026"
+        ]
+      },
+      {
+        "title": "С детьми",
+        "text": "Возьмите питьевую воду, еду, нескользящую обувь на склон и компактную тень. Оставьте запас на подъём в жару. С коляской разумно заранее выяснить, подходит ли крутая тропа, или попросить команду из Коко о варианте катера с удобной посадкой.",
+        "sources": [
+          "calzon-ict-report",
+          "calzon-road-field-2025"
+        ]
+      },
+      {
+        "title": "Снорклинг и лодка",
+        "text": "Муниципалитет описывает небольшую песчаную бухту. Видимость меняется после дождей. У экипажа спрашивайте, разрешены ли подход и высадка в этот день, где будут камни и какой транспорт доставит обратно.",
+        "sources": [
+          "calzon-carrillo-beach-map",
+          "calzon-road-field-2025",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Каррильо",
+        "source": "calzon-carrillo-beach-map",
+        "note": "Публичная страница с картой подхода и переходом к общим контактам муниципалитета.",
+        "url": "https://www.municarrillo.go.cr/nuestro-canton/playas/playa-calzon-de-pobre-2/"
+      }
+    ],
+    "nearby": [
+      "sardinal-sukka-camper"
+    ],
+    "galleries": [
+      "calzon-ict-report",
+      "calzon-road-field-2025"
+    ],
+    "track": "calzon-road-field-2025",
+    "connectStops": false
+  },
+  "uvita-isla-cano-guide": {
+    "stops": [
+      {
+        "point": "uvita-dive-club-pin",
+        "role": "Увита · место регистрации дайв-центра",
+        "note": "Подтвердите адрес и точку посадки с оператором."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Две разные программы",
+        "text": "Снорклинг подходит уверенным в открытой воде участникам. Для дайва с сертификатом возьмите документ и уточните требуемый уровень в зависимости от группы. Спросите о вводном занятии для новичка и условиях погружений в тот же день.",
+        "sources": [
+          "uvita-cano-contact-valid",
+          "uvita-cano-operator-checkin",
+          "uvita-cano-snorkel-direct"
+        ]
+      },
+      {
+        "title": "Посадка и островной резерв",
+        "text": "Перед выходом оформите состав участников. Уточните, как посадка зависит от прибоя, входит ли билет SINAC и какая остановка запланирована. Слоты и морские участки регулируются заповедником, так что публикуем ориентир сбора.",
+        "sources": [
+          "uvita-cano-operator-checkin",
+          "cano-sinac-dive-access"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Сухой мешок для вещей, запас воды, защиту от солнца, полотенце и сменную одежду. При записи уточните размеры маски, жилета и гидрокостюма и сообщает ли команда перенос по волнению до раннего выезда.",
+        "sources": [
+          "uvita-cano-boats-photo",
+          "uvita-cano-operator-checkin"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Rica Dive & Surf · Увита",
+        "source": "uvita-cano-padi-dive-center",
+        "note": "Запросите подходящий формат, вход в резерв, время встречи и детские жилеты.",
+        "phone": "+506 8478 4848",
+        "url": "https://www.padi.com/dive-center/costa-rica/costa-rica-dive-and-surf-2/"
+      }
+    ],
+    "nearby": [
+      "uvita-casa-viva-forest-camp",
+      "uvita-atv-mountain-rides"
+    ],
+    "galleries": [
+      "uvita-cano-padi-dive-center",
+      "uvita-cano-boats-photo"
+    ],
+    "videos": [
+      "uvita-cano-youtube-channel"
+    ],
+    "connectStops": false,
+    "photos": [
+      "punta-uvita-commons"
+    ]
+  },
+  "orosi-tapanti-ranch-weekend": {
+    "stops": [
+      {
+        "point": "orosi",
+        "role": "День 1 · Ороси",
+        "note": ""
+      },
+      {
+        "point": "purisil",
+        "role": "День 1 · Пурисиль",
+        "note": ""
+      },
+      {
+        "point": "tapanti-ranch-main-area",
+        "role": "День 1 · ориентир лагеря",
+        "note": "Точный въезд и площадку отправляют хозяева."
+      },
+      {
+        "point": "tapanti",
+        "role": "День 2 · въезд в нацпарк",
+        "note": ""
+      },
+      {
+        "point": "hacienda-orosi-thermal",
+        "role": "День 2 · необязательные термальные бассейны",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор дороги",
+        "text": "Ороси и Пурисиль соединены общими дорогами. Последняя часть подъезда к парку включает грунт. Проверьте мосты Паломо и Тапанти, в ноябрьских материалах строительство ещё идёт.",
+        "sources": [
+          "orosi-bridges-mopt-sept",
+          "orosi-bridges-nov-press",
+          "tapanti-ict-park-brochure"
+        ]
+      },
+      {
+        "title": "Сложность похода",
+        "text": "Администрация публикует короткую Oropéndola и более крутую Árboles Caídos. Перед выходом уточните проход, скользкие участки и время закрытия. С маленькими детьми можно сократить день до короткой прогулки и термальных бассейнов.",
+        "sources": [
+          "tapanti-trail-details",
+          "tapanti-ict-park-brochure",
+          "orosi"
+        ]
+      },
+      {
+        "title": "Палаточный список",
+        "text": "Коврик, тент от дождя, фонарь, треккинговая обувь, запас воды и сухая одежда. По лагерю уточните наличие ровной площадки, санитарные условия, еду и вариант размещения в помещении при ливне.",
+        "sources": [
+          "tapanti-ranch-camino-gallery",
+          "tapanti-ranch-guest-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Ganadera Tapantí Media",
+        "source": "tapanti-ranch-camino-stage",
+        "note": "По WhatsApp запросите фото участка под палатку, условия пользования очагом и точный въезд.",
+        "phone": "+506 7053 0869",
+        "url": "https://wa.me/50670530869",
+        "email": "haciendaganaderatapanti@gmail.com"
+      },
+      {
+        "name": "SINAC · сектор Tapantí",
+        "source": "tapanti-ict-park-brochure",
+        "note": "Уточните открытые тропы, состояние подъезда, часы и билеты.",
+        "phone": "+506 2206 5615",
+        "url": "https://sinac.go.cr/ES/ac/accvc/pntpmm/Paginas/default.aspx",
+        "email": "tapanti.info@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "casona-cafetal",
+      "orosi-cachi-224-32"
+    ],
+    "galleries": [
+      "tapanti-ranch-camino-gallery",
+      "tapanti-ranch-field-teletica"
+    ],
+    "photos": [
+      "orosi-valley"
+    ],
+    "videos": [
+      "tapanti-ranch-group-video"
+    ],
+    "track": "tapanti-ict-park-brochure",
+    "connectStops": false,
+    "line": "orosi-tapanti-ranch-road-osm"
+  },
+  "samara-carrillo-quad-camp-2": {
+    "stops": [
+      {
+        "point": "samara-quads2u-office",
+        "role": "День 1 · сбор организатора",
+        "note": ""
+      },
+      {
+        "point": "samara-cocos-camp-pin",
+        "role": "День 1 · лагерь",
+        "note": ""
+      },
+      {
+        "point": "carrillo-shore-area",
+        "role": "День 2 · бухта Каррильо",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Эта комбинация на два дня",
+        "text": "Багги удобно бронировать целиком на компанию. При первой поездке короткий выезд оставляет больше времени на пляж и заселение. Договоритесь с каждой командой о времени сбора, чтобы багаж оставался в согласованном месте.",
+        "sources": [
+          "samara-quads2u-programs",
+          "cocos-samara-camping-contact"
+        ]
+      },
+      {
+        "title": "Палатка и покрытие",
+        "text": "Лагерь заездной с улицы, берег посещают пешком. На схеме показан отдельный дорожный перегон Самара — Каррильо. Внутренний маршрут по холмам подбирает гид с учётом погоды.",
+        "sources": [
+          "cocos-samara-yoko",
+          "osm-cr-points",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      },
+      {
+        "title": "Пляж для семьи",
+        "text": "В Каррильо запланируйте прогулку, тень, еду и воду. Урок сёрфа проходит в Самаре по окну, которое рекомендует инструктор. Возьмите защитную майку, а для ATV отдельную закрытую обувь.",
+        "sources": [
+          "ict-nicoya",
+          "pato-surf",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Quads2U Sámara",
+        "source": "samara-quads2u-programs",
+        "note": "Уточните места в машине, нижний возраст пассажира, права и условия страховки.",
+        "phone": "+506 8949 5457",
+        "url": "https://wa.me/50689495457",
+        "email": "atvquads2u@gmail.com"
+      },
+      {
+        "name": "Camping Los Cocos",
+        "source": "cocos-samara-camping-contact",
+        "note": "Подтвердите время въезда и вариант размещения.",
+        "url": "https://camping.cr/listing/camping-cocos-playa-samara/"
+      }
+    ],
+    "nearby": [
+      "samara-carrillo-mtb-varco",
+      "samara-garza-camp-bike-water-3"
+    ],
+    "galleries": [
+      "samara-quads2u-programs",
+      "cocos-samara-yoko"
+    ],
+    "photos": [
+      "samara-beach-commons"
+    ],
+    "connectStops": false,
+    "line": "samara-carrillo-quad-camp-road-osm"
+  },
+  "uvita-roof-atv-cano-3": {
+    "stops": [
+      {
+        "point": "uvita-casa-viva-camp-entry",
+        "role": "День 1 · Casa Viva",
+        "note": ""
+      },
+      {
+        "point": "uvita-offroad-meeting",
+        "role": "День 2 · сбор на квадроциклы",
+        "note": ""
+      },
+      {
+        "point": "uvita-dive-club-pin",
+        "role": "День 3 · дайв-центр",
+        "note": ""
+      },
+      {
+        "point": "marino-uvita-gate",
+        "role": "День 3 · вход в национальный парк",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "База для палатки на машине",
+        "text": "На первую и вторую ночь оставьте один лагерь у Calle La Colonia. Спросите про высоту веток, уровень грунта, оставление стоянки на день и открытие ворот перед лодочным рейсом. Как альтернатива рядом есть гостиница El Tecal.",
+        "sources": [
+          "uvita-casa-viva-camp-field",
+          "uvita-el-tecal-hotel"
+        ]
+      },
+      {
+        "title": "Выбор морского дня",
+        "text": "Резерв Каньо потребует ранний сбор, лодку, экипировку и регистрацию у организатора. Для незнакомой с открытой водой группы обсудите обязательные навыки. Прогулку по парку и урок сёрфа подберите отдельно по приливам.",
+        "sources": [
+          "uvita-cano-padi-dive-center",
+          "uvita-ict-osa-dive-operators",
+          "uvita360-chaman-lesson",
+          "marino-ballena-sector-map"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Ключи и документы держите в сухом мешке. Для квадроцикла возьмите обувь с закрытым носком, для лагеря свет и тент от дождя, для лодки полотенце и запасную одежду. Подтвердите порядок отмены на случай погоды.",
+        "sources": [
+          "uvita-atv-sunrise-direct",
+          "uvita-casa-viva-camp-field",
+          "uvita-cano-operator-checkin"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Uvita Adventure Off-Road",
+        "source": "uvita-offroad-home-map",
+        "note": "Подтвердите время, возраст пассажиров, водительские права, пин и правила при дожде.",
+        "phone": "+506 8305 1888",
+        "url": "https://wa.me/50683051888",
+        "email": "info@uvitaoffroad.com"
+      },
+      {
+        "name": "Costa Rica Dive & Surf · Увита",
+        "source": "uvita-cano-padi-dive-center",
+        "note": "Запросите подходящий формат, вход в резерв, время встречи и детские жилеты.",
+        "phone": "+506 8478 4848",
+        "url": "https://www.padi.com/dive-center/costa-rica/costa-rica-dive-and-surf-2/"
+      },
+      {
+        "name": "Casa Viva · Увита",
+        "source": "uvita-casa-viva-camp-field",
+        "note": "Прямой номер кемпинга и карта приведены в полевом справочнике.",
+        "url": "https://costaricacampsites.com/camp-sites/camping-casa-viva/"
+      }
+    ],
+    "nearby": [
+      "uvita-el-tecal-family-base",
+      "uvita-colonia-surf"
+    ],
+    "galleries": [
+      "uvita-offroad-home-map",
+      "uvita-casa-viva-camp-field",
+      "uvita-cano-boats-photo"
+    ],
+    "videos": [
+      "uvita-cano-youtube-channel"
+    ],
+    "connectStops": false,
+    "photos": [
+      "punta-uvita-commons"
+    ]
+  }
+}

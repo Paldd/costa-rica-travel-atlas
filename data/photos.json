@@ -475,5 +475,23 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "original": "https://commons.wikimedia.org/wiki/File:Iglesia_San_Bartolome_Barva,_Costa_Rica.jpg"
+  },
+  "guiones-sunset-commons": {
+    "file": "weekends-guiones.jpg",
+    "caption": "Берег Гионес в Носаре · архивный снимок",
+    "alt": "Закат над пляжем Гионес, Носара",
+    "author": "VanTucky",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Guiones.jpg"
+  },
+  "punta-uvita-commons": {
+    "file": "weekends-punta-uvita.jpg",
+    "caption": "Пунта-Увита, парк Марино-Бальена · июль 2022 года",
+    "alt": "Берег Пунта-Увита в национальном парке Марино-Бальена",
+    "author": "Mdelt",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Parque_Natural_Marino_Ballena.jpg"
   }
 }

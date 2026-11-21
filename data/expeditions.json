@@ -6904,5 +6904,248 @@
         ]
       }
     ]
+  },
+  {
+    "id": "orosi-tapanti-ranch-weekend",
+    "kind": "trip",
+    "region": "central",
+    "title": "Ороси — Пурисиль — Тапанти · два дня с палаткой и лесными тропами",
+    "native": "Orosí · Ruta 408 · Hacienda Ganadera Tapantí · Parque Nacional Tapantí",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "car",
+      "hiking",
+      "river",
+      "forest",
+      "horseback",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "tapanti-ranch-camino-stage",
+      "tapanti-ranch-camino-gallery",
+      "tapanti-ict-park-brochure",
+      "orosi-bridges-mopt-sept",
+      "orosi-bridges-nov-press"
+    ],
+    "summary": "Лагерь на действующем ранчо на первом дне и утренний выход в дождевой лес Тапанти. Можно выбрать наземную палатку или ночлег под крышей.",
+    "plan": "Держитесь публичного подъезда из Ороси через Пурисиль, отведите запас на мосты. На второй день выберите одну открытую тропу по погоде и силам группы.",
+    "conditions": "Проезжаемость после дождя и мостовые работы проверяйте перед стартом. Крышу машины и очаг согласуют хозяева. Вход в нацпарк оформляется отдельно.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Ороси и ночёвка на ранчо",
+        "note": "Начните днём из Ороси. Сверьте маршрут к Пурисилю, установите палатку с запасом времени и закажите ужин, если кухня закроется до вашего возвращения.",
+        "stops": [
+          "orosi-tapanti-ranch-camp"
+        ],
+        "sources": [
+          "tapanti-ranch-camino-stage",
+          "tapanti-ranch-camino-gallery",
+          "orosi-bridges-mopt-sept"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Национальный парк Тапанти",
+        "note": "На короткий выход выбирайте Oropéndola по действующей схеме. Взрослой группе можно спросить про влажный подъём Árboles Caídos. Термальные бассейны Ороси остаются вариантом после похода или при закрытии троп.",
+        "stops": [
+          "tapanti",
+          "orosi-hot"
+        ],
+        "sources": [
+          "tapanti-ict-park-brochure",
+          "tapanti-trail-details",
+          "orosi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "samara-carrillo-quad-camp-2",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Самара и Каррильо · холмы на багги, ночёвка в палатке и пляж",
+    "native": "Sámara · Quads2U · Camping Los Cocos · Playa Carrillo",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "utv",
+      "atv",
+      "camping",
+      "beach",
+      "surf",
+      "school",
+      "coffee",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "samara-quads2u-programs",
+      "cocos-samara-camping-contact",
+      "cocos-samara-yoko",
+      "pato-surf",
+      "ict-nicoya",
+      "imn-tides-table"
+    ],
+    "summary": "Ночь у пляжа Самары, полдня с местной командой ATV или багги и утро в бухте Каррильо. Можно выбрать выезд на ферму с обедом.",
+    "plan": "В первый день запланируйте утренний выезд и вечер в лагере. Во второй день выберите прогулку и урок сёрфа по схеме приливов.",
+    "conditions": "У Los Cocos заявлены наземные палатки. Согласуйте правила для палатки на машине. Перед выездом уточните детский возраст, крепления, дождь и точную встречу.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Холмы, ферма или водопад и ночёвка",
+        "note": "Старт у команды из Самары. Выберите Sky Ridge для панорам или Ride & Cook для обеда на ферме. После возвращения заселитесь в Los Cocos.",
+        "stops": [
+          "samara-quads-sky-ridge",
+          "samara-quads-ride-cook",
+          "samara-cocos-beach-camp"
+        ],
+        "sources": [
+          "samara-quads2u-programs",
+          "cocos-samara-camping-contact"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Каррильо и урок в Самаре",
+        "note": "Утром проверьте прилив и время занятия. Вторая половина дня подходит для прогулки под пальмами Каррильо и возвращения в Самару по дороге.",
+        "stops": [
+          "pato-samara-school",
+          "carrillo"
+        ],
+        "sources": [
+          "pato-surf",
+          "ict-nicoya",
+          "imn-tides-table"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uvita-roof-atv-cano-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Увита · три дня с палаткой на крыше, квадроциклами и островом Каньо",
+    "native": "Uvita · Camping Casa Viva · Off-Road · Isla del Caño · Playa Colonia",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "camping",
+      "rooftent",
+      "atv",
+      "boat",
+      "snorkel",
+      "scuba",
+      "surf",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "roof",
+      "lodge"
+    ],
+    "sources": [
+      "uvita-casa-viva-camp-field",
+      "uvita-offroad-home-map",
+      "uvita-cano-padi-dive-center",
+      "uvita-cano-snorkel-direct",
+      "cano-sinac-dive-access",
+      "uvita360-chaman-lesson"
+    ],
+    "summary": "Лесная стоянка у Плайя-Колония, выезд на квадроциклах с видом на бухту и отдельный морской день на острове Каньо. Для тех, кто хочет вернуться в один лагерь.",
+    "plan": "Выделите на лодку самый спокойный по прогнозу день. Выезд на квадроциклах занимает отдельное полдня. При отмене на море можно перенести прогулку в официальных секторах Marino Ballena.",
+    "conditions": "Палатка на крыше описана в путеводителе лагеря. Подтвердите площадку и время выезда. Для ATV действуют отдельные требования, а для дайвинга нужны документы.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Стоянка Casa Viva, Colonia или Chamán",
+        "note": "Покажите хозяевам машину и уточните, где открыть палатку. Если хотите урок сёрфа, запросите окно прилива на первый или третий день.",
+        "stops": [
+          "uvita-casa-viva-forest-camp",
+          "uvita-colonia-surf"
+        ],
+        "sources": [
+          "uvita-casa-viva-camp-field",
+          "uvita360-chaman-lesson",
+          "marino-ballena-sector-map"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Горы над заливом",
+        "note": "У команды ATV выберите утро или день, проверьте лицензию и обувь. Закладывайте гибкость на ливень и перенос старта.",
+        "stops": [
+          "uvita-atv-mountain-rides"
+        ],
+        "sources": [
+          "uvita-atv-sunrise-direct",
+          "uvita-atv-sunset-direct"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Сбор в дайв-центре и рейс к острову",
+        "note": "Рано выезжайте из лагеря по договорённости. Разделите группу по уровню и виду активности. Если выход отменён, выберите береговой маршрут по условиям парка.",
+        "stops": [
+          "uvita-isla-cano-guide",
+          "marino-ballena"
+        ],
+        "sources": [
+          "uvita-cano-padi-dive-center",
+          "uvita-cano-operator-checkin",
+          "cano-sinac-dive-access"
+        ]
+      }
+    ]
   }
 ]

@@ -15,7 +15,7 @@ import urllib.robotparser
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from build_catalog import DATA, SOURCE_FIELDS, read_table
+from build_catalog import DATA, PUBLISHER_FIELDS, SOURCE_FIELDS, read_table
 
 AGENT = "CostaRicaTravelAtlas"
 MAX_BYTES = 3_000_000
@@ -28,6 +28,13 @@ def host(url):
 def canonical(url):
     parsed = urllib.parse.urlsplit(url)
     return host(url) + parsed.path.lower().rstrip("/")
+
+
+def sitemap_date(value):
+    try:
+        return datetime.date.fromisoformat(value.strip()[:10]).isoformat()
+    except ValueError:
+        return ""
 
 
 class SameSiteRedirect(urllib.request.HTTPRedirectHandler):
@@ -90,13 +97,17 @@ def sitemap_links(opener, target, archive, rules):
         root = ET.fromstring(body)
         if root.tag.rsplit("}", 1)[-1] != "urlset":
             raise ValueError("expected an article sitemap")
-        links = [(entry.text.strip(), "") for entry in root.findall("./{*}url/{*}loc") if entry.text]
+        links = []
+        for entry in root.findall("./{*}url"):
+            address = entry.findtext("{*}loc", "").strip()
+            if address:
+                links.append((address, "", sitemap_date(entry.findtext("{*}lastmod", ""))))
         return links, {**receipt, "status": "read", "urls": len(links)}
     except (urllib.error.URLError, OSError, ValueError, ET.ParseError) as error:
         return [], {**receipt, "reason": str(error)[:180]}
 
 
-def inspect(feed, known):
+def inspect(feed, known, publisher_archives=()):
     target = feed["url"]
     result = {"source": feed["name"], "url": target, "status": "unread", "candidates": []}
     opener = urllib.request.build_opener(SameSiteRedirect())
@@ -109,11 +120,11 @@ def inspect(feed, known):
         parser = Links()
         parser.feed(body.decode("utf-8", errors="replace"))
         matches = {}
-        links = parser.results
+        links = [(href, title, "") for href, title in parser.results]
         if feed.get("sitemap"):
             extra, result["sitemap"] = sitemap_links(opener, feed["sitemap"], fetched, rules)
             links = links + extra
-        for href, title in links:
+        for href, title, last_modified in links:
             location = urllib.parse.urlsplit(urllib.parse.urljoin(fetched, html.unescape(href)))
             url = urllib.parse.urlunsplit((location.scheme, location.netloc, location.path, "", ""))
             if location.scheme != "https" or host(url) != host(fetched) or (rules and not rules.can_fetch(AGENT, url)):
@@ -122,12 +133,19 @@ def inspect(feed, known):
                        location.path.rstrip("/") != path.rstrip("/") for path in feed["paths"]):
                 continue
             candidate = canonical(url)
-            if candidate not in known and candidate != canonical(fetched):
-                match = {"url": url, "title": (title or location.path.strip("/").split("/")[-1])[:180]}
-                if candidate not in matches or len(match["title"]) > len(matches[candidate]["title"]):
-                    matches[candidate] = match
+            if candidate == canonical(fetched):
+                continue
+            if candidate not in matches:
+                matches[candidate] = {"url": url, "title": (title or location.path.strip("/").split("/")[-1])[:180]}
+            match = matches[candidate]
+            if len(title) > len(match["title"]):
+                match["title"] = title[:180]
+            if last_modified > match.get("lastModified", ""):
+                match["lastModified"] = last_modified
         result.update(status="read", fingerprint=hashlib.sha256(body).hexdigest(),
-                      candidates=sorted(matches.values(), key=lambda x: x["url"]))
+                      candidates=sorted((row for key, row in matches.items() if key not in known), key=lambda x: x["url"]))
+        if canonical(target) in publisher_archives:
+            result["archivePages"] = list(matches.values())
     except (urllib.error.URLError, OSError, ValueError) as error:
         result.update(status="unavailable", reason=str(error)[:180])
     return result
@@ -138,14 +156,17 @@ def main():
     parser.add_argument("--out", type=Path, default=Path(".cache/refresh.json"))
     config = parser.parse_args()
     feeds = [feed for feed in json.loads((DATA / "feeds.json").read_text()) if feed.get("paths")]
-    known = {canonical(row["url"]) for row in read_table(DATA / "sources.tsv", SOURCE_FIELDS)}
+    sources = {row["id"]: canonical(row["url"]) for row in read_table(DATA / "sources.tsv", SOURCE_FIELDS)}
+    known = set(sources.values())
+    publisher_archives = {sources[row["archive"]] for row in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS)
+                          if row["archive"]}
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
-        results = list(pool.map(lambda feed: inspect(feed, known), feeds))
+        results = list(pool.map(lambda feed: inspect(feed, known, publisher_archives), feeds))
     summary = {
         "timeUtc": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
         "feeds": len(results),
         "read": sum(r["status"] == "read" for r in results),
-        "candidateUrls": len({item["url"] for r in results for item in r["candidates"]}),
+        "candidateUrls": len({canonical(item["url"]) for r in results for item in r["candidates"]}),
     }
     config.out.parent.mkdir(parents=True, exist_ok=True)
     config.out.write_text(json.dumps({**summary, "results": results}, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")

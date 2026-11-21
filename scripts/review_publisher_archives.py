@@ -14,7 +14,7 @@ from urllib.request import build_opener
 
 from build_catalog import DATA, PUBLISHER_FIELDS, RECORD_FIELDS, SOURCE_FIELDS, read_table
 from import_social import normalized, recurring_names
-from refresh import AGENT, SameSiteRedirect, canonical, host, request, robots_rules
+from refresh import AGENT, SameSiteRedirect, canonical, host, request, robots_rules, sitemap_date
 from review_social_posts import PLACE_NAME, TOPICS, publication
 
 
@@ -127,7 +127,7 @@ def read_archive(archive, urls, analyze):
     results = []
     for row in urls:
         url = row["url"]
-        entry = {"url": url, "title": row["title"], "status": "unavailable", "extractorVersion": EXTRACTOR_VERSION}
+        entry = {**row, "status": "unavailable", "extractorVersion": EXTRACTOR_VERSION}
         try:
             if rules and not rules.can_fetch(AGENT, url):
                 entry["status"] = "robots-disallow"
@@ -176,21 +176,41 @@ def read_json(path, default):
     return json.loads(path.read_text(encoding="utf-8")) if path.is_file() else default
 
 
-def enough_time(entry, today):
+def has_update(entry, row):
+    return row.get("lastModified", "") > (entry.get("lastModified") or entry["checked"])
+
+
+def enough_time(entry, row, today):
     if not entry:
         return True
     status = entry["status"]
     if status == "no-editorial-text" and entry.get("extractorVersion") != EXTRACTOR_VERSION:
         return True
+    if status in {"read", "no-editorial-text"} and has_update(entry, row):
+        return True
     days = 30 if status in {"read", "robots-disallow"} else 3
     return today - datetime.date.fromisoformat(entry["checked"]) >= datetime.timedelta(days=days)
 
 
-def candidates(result, archive, previous, today):
-    rows = (row for row in result.get("candidates", [])
-            if host(row["url"]) == host(archive) and not SECTION_PATH.search(urlsplit(row["url"]).path))
-    return sorted((row for row in rows if enough_time(previous.get(canonical(row["url"])), today)),
-                  key=lambda row: (canonical(row["url"]) in previous, row["url"]))
+def archive_pages(result, archive):
+    pages = {}
+    for row in result.get("archivePages", result.get("candidates", [])):
+        url = row["url"]
+        if host(url) == host(archive) and not SECTION_PATH.search(urlsplit(url).path):
+            pages.setdefault(canonical(url), row)
+    return pages
+
+
+def candidates(pages, previous, today):
+    ranked = []
+    for position, (key, row) in enumerate(pages.items()):
+        entry = previous.get(key)
+        if enough_time(entry, row, today):
+            modified = sitemap_date(row.get("lastModified", ""))
+            ordinal = datetime.date.fromisoformat(modified).toordinal() if modified else 0
+            routine_recheck = bool(entry and not has_update(entry, row))
+            ranked.append((routine_recheck, -ordinal, position, row))
+    return [row for _, _, _, row in sorted(ranked)]
 
 
 def write_json(path, data):
@@ -231,16 +251,20 @@ def main():
                 current.append({"archive": archive, "profiles": profiles, "status": result["status"] if result else "unconfigured"})
                 continue
             previous = state.setdefault(archive_id, {})
-            batch = candidates(result, archive, previous, day)[:args.per_archive]
-            futures[archive_id] = pool.submit(read_archive, archive, batch, analyze) if batch else None
+            pages = archive_pages(result, archive)
+            batch = candidates(pages, previous, day)[:args.per_archive]
+            future = pool.submit(read_archive, archive, batch, analyze) if batch else None
+            futures[archive_id] = (pages, future)
 
-        for archive_id, future in futures.items():
+        for archive_id, (pages, future) in futures.items():
             batch = future.result() if future else []
             previous = state[archive_id]
             for row in batch:
                 previous[canonical(row["url"])] = {**row, "checked": day.isoformat()}
+            indexed_read = sum(previous.get(key, {}).get("status") == "read" for key in pages)
             current.append({"archive": catalog[archive_id], "profiles": archives[archive_id], "status": "read",
-                            "checked": batch, "readToDate": sum(row["status"] == "read" for row in previous.values())})
+                            "checked": batch, "indexedPages": len(pages), "indexedPagesRead": indexed_read,
+                            "readToDate": sum(row["status"] == "read" for row in previous.values())})
 
     pages = [row for source in current for row in source.get("checked", [])]
     pages_read = {canonical(row["finalUrl"]) for row in pages if row["status"] == "read"}
