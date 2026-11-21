@@ -45,6 +45,15 @@
           "cafe1743",
           "cachi-casona"
         ]
+      },
+      {
+        "title": "Другой круг с картой и смотровыми",
+        "text": "Около 38,6 км относятся к опубликованному треку. В отдельной карточке рассчитан круг на 32,3 км через Паломо, Качи, Ухаррас и Параисо. У смотровых узнайте часы входа, а у кофейни уточните, где оставить группу велосипедов.",
+        "sources": [
+          "orosi-road-track",
+          "ict-orosi-ujarras-lookout-report",
+          "orosi-cafe1743-public-contact"
+        ]
       }
     ],
     "contacts": [
@@ -58,12 +67,40 @@
         "source": "cachi-casona",
         "note": "Ресторан возле водохранилища, бронь и меню.",
         "email": "lacasonadelcafetal@gmail.com"
+      },
+      {
+        "name": "Cafetería 1743 · Ороси",
+        "source": "orosi-cafe1743-public-contact",
+        "note": "Часы, завтрак и место, где можно поставить велосипеды.",
+        "phone": "+506 8963 7733",
+        "url": "https://cafeteria1743.com/contacto/"
+      },
+      {
+        "name": "La Casona del Cafetal · Качи",
+        "source": "cachi-casona",
+        "note": "Обед у водохранилища и условия для групп на велосипедах.",
+        "email": "lacasonadelcafetal@gmail.com",
+        "url": "https://www.lacasonadelcafetal.com/"
+      },
+      {
+        "name": "PuroMTB · аренда и веломастерская",
+        "source": "puromtb-taller-contact-cycling",
+        "note": "Уточните размер рамы, доступность MTB или e-MTB, доставку и ремонт. Мастерская в Сан-Хосе.",
+        "phone": "+506 2231 4110",
+        "email": "ventas@puromtb.com",
+        "url": "https://puromtb.com/pages/contact"
       }
     ],
     "nearby": [
       "cafe-1743-orosi",
       "casona-cafetal",
-      "orosi-hot"
+      "orosi-hot",
+      "orosi-cachi-224-32"
+    ],
+    "photos": [
+      "orosi-valley",
+      "cachi-dam",
+      "ujarras-ruins"
     ]
   },
   "sj-orotina-gravel": {
@@ -101,6 +138,15 @@
           "gravel-puro",
           "puromtb-hire"
         ]
+      },
+      {
+        "title": "Короткий выезд по тому же сельскому коридору",
+        "text": "У PuroMTB опубликован авторский заезд на 113 км. В отдельной карточке показаны 50 км от Piedras Negras до Оротины через несколько тех же посёлков. Для длинного выезда проверьте точки пополнения воды и машину поддержки.",
+        "sources": [
+          "gravel-puro",
+          "inder-turrubares-rural-road-corridor",
+          "turrubares-contact-public-roads"
+        ]
       }
     ],
     "contacts": [
@@ -108,11 +154,31 @@
         "name": "PuroMTB",
         "source": "puromtb-hire",
         "note": "Прокат, подбор велосипеда и обратная связь по опыту клуба."
+      },
+      {
+        "name": "PuroMTB · аренда и веломастерская",
+        "source": "puromtb-taller-contact-cycling",
+        "note": "Уточните размер рамы, доступность MTB или e-MTB, доставку и ремонт. Мастерская в Сан-Хосе.",
+        "phone": "+506 2231 4110",
+        "email": "ventas@puromtb.com",
+        "url": "https://puromtb.com/pages/contact"
+      },
+      {
+        "name": "Муниципалитет Туррубареса",
+        "source": "turrubares-contact-public-roads",
+        "note": "Спросите про Grifo Alto, San Francisco, Lagunas и мост на выходе к Оротине.",
+        "phone": "+506 2419 0445",
+        "url": "https://turrubares.go.cr/index.php/conozcanos/mi-municipalidad/contactenos"
       }
     ],
     "nearby": [
       "vuelta-arenal-107",
-      "orosi-road-loop"
+      "orosi-road-loop",
+      "piedras-negras-orotina-gravel-50"
+    ],
+    "photos": [
+      "puriscal-hills",
+      "orotina-pavilion"
     ]
   },
   "vuelta-arenal-107": {
@@ -346,6 +412,14 @@
           "cafe1743",
           "cachi-casona"
         ]
+      },
+      {
+        "title": "Остановка для группы велосипедистов",
+        "text": "У кофейни ориентир — колониальная церковь Ороси. Уточните часы и место для велосипедов, если приезжаете компанией. Старт короткого кольца проходит у кофейни, чтобы проще было сверить точку сбора.",
+        "sources": [
+          "orosi-cafe1743-public-contact",
+          "ict-orosi-ujarras-lookout-report"
+        ]
       }
     ],
     "contacts": [
@@ -353,12 +427,23 @@
         "name": "Cafetería 1743",
         "source": "cafe1743",
         "note": "Меню и часы. Спросите, где поставить велосипеды, если едете группой."
+      },
+      {
+        "name": "Cafetería 1743 · Ороси",
+        "source": "orosi-cafe1743-public-contact",
+        "note": "Часы, завтрак и место, где можно поставить велосипеды.",
+        "phone": "+506 8963 7733",
+        "url": "https://cafeteria1743.com/contacto/"
       }
     ],
     "nearby": [
       "orosi-road-loop",
       "orosi-hot",
-      "casona-cafetal"
+      "casona-cafetal",
+      "orosi-cachi-224-32"
+    ],
+    "photos": [
+      "orosi-valley"
     ]
   },
   "casona-cafetal": {
@@ -398,7 +483,12 @@
     ],
     "nearby": [
       "orosi-road-loop",
-      "cafe-1743-orosi"
+      "cafe-1743-orosi",
+      "orosi-cachi-224-32"
+    ],
+    "photos": [
+      "cachi-dam",
+      "orosi-valley"
     ]
   }
 }

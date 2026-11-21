@@ -106,5 +106,59 @@
     "license": "CC BY 2.0",
     "original": "https://commons.wikimedia.org/wiki/File:Tronadora.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "orotina-pavilion": {
+    "file": "ride-orotina-pavilion.jpg",
+    "alt": "Павильон в центральном парке Оротины",
+    "caption": "Центральный парк Оротины",
+    "author": "Rodtico21",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Orotina_Pavilion._Costa_Rica.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "orosi-valley": {
+    "file": "ride-orosi-valley.jpg",
+    "alt": "Зелёные склоны долины Ороси",
+    "caption": "Долина Ороси · панорама",
+    "author": "The LEAF Project",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Central_Valley_(Costa_Rica)_banner_Oros%C3%AD_Valley.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "cachi-dam": {
+    "file": "ride-cachi-dam.jpg",
+    "alt": "Дамба Качи и склон леса над озером",
+    "caption": "Водохранилище Качи · район плотины",
+    "author": "Joel Diplan",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Represa_de_Cach%C3%AD,_Provincia_de_Cartago,_Costa_Rica_-_panoramio_(1).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "ujarras-ruins": {
+    "file": "ride-ujarras-ruins.jpg",
+    "alt": "Каменные стены исторического храма в Ухаррасе",
+    "caption": "Руины Ухарраса · съёмка декабря 2023 года",
+    "author": "Ridiculopathy",
+    "license": "CC0",
+    "original": "https://commons.wikimedia.org/wiki/File:Dec2023._Nuestra_Se%C3%B1ora_de_la_Limpia_Concepci%C3%B3n_del_Rescate_de_Ujarr%C3%A1s,_near_Para%C3%ADso,_Cartago_Province,_Costa_Rica_02.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "puriscal-hills": {
+    "file": "ride-puriscal-hills.png",
+    "alt": "Зелёные горы кантона Пурискаль",
+    "caption": "Кантон Пурискаль · окрестности веломаршрута",
+    "author": "Csavil",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Monta%C3%B1as_en_Puriscal.png",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "cachi-lake-shore": {
+    "file": "ride-cachi-lake-shore.jpg",
+    "alt": "Берег водохранилища Качи между зелёными холмами",
+    "caption": "Озеро Качи · вид с берега в долине Ороси",
+    "author": "David Broad",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Lake_Cachi_-_Orosi_-_Costa_Rica_-_panoramio_(2).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
   }
 }

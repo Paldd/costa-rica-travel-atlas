@@ -358,21 +358,42 @@
           "colon-trailforks",
           "senderos-colon"
         ]
+      },
+      {
+        "title": "Пешая петля и время",
+        "text": "Администрация комплекса принимает и бегунов. Схему выбирайте по пешим дорожкам, поскольку у MTB-трасс свой режим. В отчёте Uni-Cli Droid есть фото местности и описание парковки, а у местного бегуна опубликован отдельный трек с профилем.",
+        "sources": [
+          "senderos-colon",
+          "senderos-colon-local-run-track",
+          "senderos-colon-unicli-field"
+        ]
+      },
+      {
+        "title": "Подготовка к трейлу",
+        "text": "Возьмите обувь с цепкой подошвой, воду, заряженный телефон и офлайн-маршрут. Уточните состояние подходов после дождя. Если решили бегать с собакой, в отчёте упомянут отдельный вариант, действующий порядок узнавайте на входе.",
+        "sources": [
+          "senderos-colon-unicli-field",
+          "senderos-colon"
+        ]
       }
     ],
     "contacts": [
       {
         "name": "Senderos Colón · Hacienda Pampa y Cielo",
         "source": "senderos-colon",
-        "note": "Въезд в комплекс, режим трасс и действующий билет.",
+        "note": "Попросите карту трасс для велосипеда или бега, режим на сегодня и состояние грунта.",
         "phone": "+506 8966 4114",
         "url": "https://www.facebook.com/SenderosColon/"
       }
     ],
     "nearby": [
-      "senderos-colon-mtb"
+      "senderos-colon-mtb",
+      "senderos-colon-mtb-laja-11"
     ],
-    "track": "colon-trailforks"
+    "track": "colon-trailforks",
+    "videos": [
+      "senderos-colon-ruta-hoy-video"
+    ]
   },
   "retos-irazu": {
     "stops": [

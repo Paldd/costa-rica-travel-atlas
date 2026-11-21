@@ -136,6 +136,23 @@
           "orotina-bajamar-ebike-report",
           "puromtb-bike-rent"
         ]
+      },
+      {
+        "title": "Как шёл заезд и сколько занял",
+        "text": "Авторский выезд на 54,72 км опубликован в ноябре 2026 года с общим временем 4 часа 24 минуты. Автор описывает выезд к Бахамару утром, участок грунта после поворота к берегу и сильную жару после 10 утра. Держите запас воды и батареи на переезд обратно.",
+        "sources": [
+          "orotina-bajamar-ebike-report",
+          "orotina-bajamar-guacalillo-field-2021"
+        ]
+      },
+      {
+        "title": "Круг с местными тоннелями",
+        "text": "В отдельной карточке есть карта варианта через Las Huacas и Túnel Trinidad, по местным улицам. Сверьте движение и земляное покрытие после дождя. Подтвердите доставку e‑MTB и место получения до оплаты.",
+        "sources": [
+          "orotina-routes-local-plan",
+          "lanamme-calle-loros-overpass-report",
+          "puromtb-taller-contact-cycling"
+        ]
       }
     ],
     "contacts": [
@@ -148,13 +165,33 @@
         "name": "Авторский маршрут Oscar и Marlon",
         "source": "orotina-bajamar-ebike-report",
         "note": "Ориентир по треку и покрытию. Проходимость отдельных отрезков меняется."
+      },
+      {
+        "name": "Муниципалитет Оротины · Infraestructura Vial",
+        "source": "orotina-roads-public-contact",
+        "note": "Спросите об осадках, ремонте и проезде через Túnel Trinidad или Las Huacas.",
+        "url": "https://www.muniorotina.go.cr/index.php/ayuda/directorio-telefonico"
+      },
+      {
+        "name": "PuroMTB · аренда и веломастерская",
+        "source": "puromtb-taller-contact-cycling",
+        "note": "Уточните размер рамы, доступность MTB или e-MTB, доставку и ремонт. Мастерская в Сан-Хосе.",
+        "phone": "+506 2231 4110",
+        "email": "ventas@puromtb.com",
+        "url": "https://puromtb.com/pages/contact"
       }
     ],
     "nearby": [
       "orotina-gravel-46",
-      "sj-orotina-gravel"
+      "sj-orotina-gravel",
+      "orotina-bajamar-trinidad-54",
+      "lagunillas-bajamar-gravel-21",
+      "ceiba-trinidad-cycling-18"
     ],
-    "track": "orotina-bajamar-ebike-report"
+    "track": "orotina-bajamar-ebike-report",
+    "photos": [
+      "orotina-pavilion"
+    ]
   },
   "orotina-gravel-46": {
     "stops": [
@@ -199,6 +236,15 @@
           "puromtb-bike-rent",
           "orotina-bajamar-ebike-report"
         ]
+      },
+      {
+        "title": "Подъезд и грунт",
+        "text": "Для полного авторского круга откройте геометрию Komoot. Parada Soda Nidia служит дорожным ориентиром, работу кафе проверяйте отдельно. Для подтверждённой карты более короткого выезда откройте Лагунильяс — Пеньон-де-Бахамар. Возьмите воду на обе части пути.",
+        "sources": [
+          "orotina-gravel-map",
+          "orotina-routes-local-plan",
+          "orotina-bajamar-ebike-report"
+        ]
       }
     ],
     "contacts": [
@@ -211,13 +257,33 @@
         "name": "PuroMTB · прокат MTB",
         "source": "puromtb-bike-rent",
         "note": "Размер рамы, колёса для грунта и условия доставки."
+      },
+      {
+        "name": "Муниципалитет Оротины · Infraestructura Vial",
+        "source": "orotina-roads-public-contact",
+        "note": "Спросите об осадках, ремонте и проезде через Túnel Trinidad или Las Huacas.",
+        "url": "https://www.muniorotina.go.cr/index.php/ayuda/directorio-telefonico"
+      },
+      {
+        "name": "PuroMTB · аренда и веломастерская",
+        "source": "puromtb-taller-contact-cycling",
+        "note": "Уточните размер рамы, доступность MTB или e-MTB, доставку и ремонт. Мастерская в Сан-Хосе.",
+        "phone": "+506 2231 4110",
+        "email": "ventas@puromtb.com",
+        "url": "https://puromtb.com/pages/contact"
       }
     ],
     "nearby": [
       "orotina-ebike-55",
-      "sj-orotina-gravel"
+      "sj-orotina-gravel",
+      "lagunillas-bajamar-gravel-21",
+      "orotina-bajamar-trinidad-54",
+      "ceiba-trinidad-cycling-18"
     ],
-    "track": "orotina-gravel-map"
+    "track": "orotina-gravel-map",
+    "photos": [
+      "orotina-pavilion"
+    ]
   },
   "catalinas-emtb-12": {
     "stops": [
