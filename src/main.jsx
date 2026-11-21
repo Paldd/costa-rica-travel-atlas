@@ -393,7 +393,7 @@ function App() {
   const [saved, setSaved] = useState(initialSaves);
   const main = useRef(null);
   useEffect(() => {
-    fetch(asset("atlas.json")).then(response => {
+    fetch(asset("atlas.json"), { cache: "no-cache" }).then(response => {
       if (!response.ok) throw new Error("catalog");
       return response.json();
     }).then(setAtlas).catch(() => setError(true));
