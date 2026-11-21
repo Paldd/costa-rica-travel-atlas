@@ -7,7 +7,7 @@
     "instagramUniquePosts": 579,
     "instagramPosts": 582,
     "facebookAbout": 100,
-    "placesWithPostLinks": 30
+    "placesWithPostLinks": 33
   },
   "profiles": [
     {
@@ -1772,6 +1772,12 @@
         "url": "https://www.instagram.com/p/Df3Ak91Bq-j/"
       }
     ],
+    "chayote-cloud-forest-hike": [
+      {
+        "profile": "Hiking Tiquicia",
+        "url": "https://www.instagram.com/p/DfiGKQKn4D_/"
+      }
+    ],
     "sabana-oka": [
       {
         "profile": "Hiking Tiquicia",
@@ -1880,6 +1886,18 @@
       {
         "profile": "El Mangroove Hotel",
         "url": "https://www.instagram.com/p/DfvN32_yycd/"
+      }
+    ],
+    "diamante-baru-day": [
+      {
+        "profile": "Senderismo Costa Rica",
+        "url": "https://www.instagram.com/p/Df81Kv2Kopg/"
+      }
+    ],
+    "diamante-baru-overnight": [
+      {
+        "profile": "Senderismo Costa Rica",
+        "url": "https://www.instagram.com/p/Df81Kv2Kopg/"
       }
     ],
     "chirripo": [

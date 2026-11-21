@@ -114,7 +114,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", type=Path, default=Path(".cache/refresh.json"))
     config = parser.parse_args()
-    feeds = json.loads((DATA / "feeds.json").read_text())
+    feeds = [feed for feed in json.loads((DATA / "feeds.json").read_text()) if feed.get("paths")]
     known = {canonical(row["url"]) for row in read_table(DATA / "sources.tsv", SOURCE_FIELDS)}
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         results = list(pool.map(lambda feed: inspect(feed, known), feeds))

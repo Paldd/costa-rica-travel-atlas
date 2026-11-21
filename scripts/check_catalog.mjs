@@ -13,6 +13,11 @@ for (const source of Object.values(atlas.sources)) {
   assert.equal(new URL(source.url).protocol, "https:", source.id);
   assert(source.scope && source.title);
 }
+assert.equal(new Set(atlas.guides.map(guide => guide.url)).size, atlas.guides.length);
+for (const guide of atlas.guides) {
+  assert.equal(new URL(guide.url).protocol, "https:", guide.name);
+  assert(["es", "en", "es-en"].includes(guide.language) && guide.focus && guide.name);
+}
 for (const [id, line] of Object.entries(atlas.lines)) {
   assert(line.note && line.source in atlas.sources, id);
   if (line.stages) {

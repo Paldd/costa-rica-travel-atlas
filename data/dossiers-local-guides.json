@@ -1,0 +1,1112 @@
+{
+  "caballito-day": {
+    "stops": [
+      {
+        "point": "caballito-village",
+        "role": "Деревня Кабальито · ориентир до встречи",
+        "note": "Место встречи и конкретную парковку у хозяйства сообщает проводник."
+      },
+      {
+        "point": "caballito-peak",
+        "role": "Cerro Caballito · район верхних площадок",
+        "note": "На вершине и рядом с ней несколько смотровых. Гид проведёт к площадке ночёвки, если она согласована."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и подъём",
+        "text": "Qué Buen Lugar и запись участника за июль 2026 года приводят около 7 км туда и обратно. Репортаж La Voz описывает открытое пастбище, сухолесье, скамьи и крутой участок камней до верхней смотровой. Темп зависит от группы. Для съёмки заката закладывайте спуск примерно на час после него.",
+        "sources": [
+          "caballito-qbl",
+          "caballito-wikiloc",
+          "caballito-voz"
+        ]
+      },
+      {
+        "title": "С детьми, утренним стартом и экипировкой",
+        "text": "В раннем репортаже проводник принимал подготовленных детей от семи лет. Для семьи согласуйте темп, время возврата и высоту смотровой. Возьмите воду, перекус, налобный фонарь, слой для прохлады, дождевик и нескользящую обувь. В июльской записи есть фото по ходу подъёма.",
+        "sources": [
+          "caballito-voz",
+          "caballito-qbl",
+          "caballito-wikiloc"
+        ]
+      },
+      {
+        "title": "Как выглядит тропа",
+        "text": "Оригинальное видео показывает сухой склон и панораму. Университетская работа содержит схему смотровых и площадки кемпинга. Геометки в атласе обозначают деревню и вершину, а точку входа и участок для парковки уточняет проводник.",
+        "sources": [
+          "caballito-film",
+          "caballito-una",
+          "caballito-village-sutel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Víctor Obando · местный проводник",
+        "source": "caballito-voz",
+        "note": "Выбор старта, место встречи, платный вход, кемпинг и возрастные условия.",
+        "phone": "+506 8654 2332",
+        "url": "https://wa.me/50686542332"
+      }
+    ],
+    "videos": [
+      "caballito-film"
+    ],
+    "nearby": [
+      "caballito-camp-weekend",
+      "barra-honda"
+    ],
+    "track": "caballito-wikiloc",
+    "galleries": [
+      "caballito-qbl",
+      "caballito-wikiloc"
+    ]
+  },
+  "caballito-camp-weekend": {
+    "stops": [
+      {
+        "point": "caballito-village",
+        "role": "Деревня Кабальито · ориентир до встречи",
+        "note": "Место встречи и конкретную парковку у хозяйства сообщает проводник."
+      },
+      {
+        "point": "caballito-peak",
+        "role": "Cerro Caballito · район верхних площадок",
+        "note": "На вершине и рядом с ней несколько смотровых. Гид проведёт к площадке ночёвки, если она согласована."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроена ночёвка",
+        "text": "Гид согласует наземное место для лагеря возле верхних смотровых. По отчётам от места парковки до верхней части идут пешком с вещами. Спросите хозяев о выдаче воды, рабочем туалете, возможности ужина и принятии подростков на ночной подъём.",
+        "sources": [
+          "caballito-qbl",
+          "caballito-voz",
+          "caballito-una"
+        ]
+      },
+      {
+        "title": "Что нести наверх",
+        "text": "Для ночи нужны компактная палатка с дождевой защитой, коврик, лёгкий спальник, вода, налобный фонарь и гермомешок для сухих вещей. Согласуйте с хозяином ветрозащиту точки, время доступа к парковке и план на дождь. Проверьте режим закрытия фермы до начала пешего участка.",
+        "sources": [
+          "caballito-qbl",
+          "caballito-voz"
+        ]
+      },
+      {
+        "title": "Маршрут и фотографии",
+        "text": "В атласе отмечены два ориентира. Актуальный старт в хозяйстве проверяет гид. Архивный видеодневник и новая запись участника показывают открытые участки, верхнюю гряду и пейзаж.",
+        "sources": [
+          "caballito-wikiloc",
+          "caballito-film",
+          "caballito-una"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Víctor Obando · местный проводник",
+        "source": "caballito-voz",
+        "note": "Выбор старта, место встречи, платный вход, кемпинг и возрастные условия.",
+        "phone": "+506 8654 2332",
+        "url": "https://wa.me/50686542332"
+      }
+    ],
+    "videos": [
+      "caballito-film"
+    ],
+    "nearby": [
+      "caballito-day",
+      "barra-honda"
+    ],
+    "track": "caballito-una",
+    "galleries": [
+      "caballito-qbl",
+      "caballito-voz"
+    ]
+  },
+  "pelon-zapotal": {
+    "stops": [
+      {
+        "point": "pelon-zapotal-lookout",
+        "role": "Сапоталь · ориентир Серро-Пелон",
+        "note": "Авторская метка местности. Точку въезда на частную дорогу и места парковки узнавайте у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Одна гора и два подъезда",
+        "text": "Региональный материал описывает Серро-Пелон и Серро-Ла-Крус в Сапотале как одну смотровую. Отчёт Qué Buen Lugar приводит возможность пройти около двух километров вверх от нижней доступной точки с автомобилем высокого клиренса. По сухому допустимый подъезд до верхней части обсуждают с хозяйством.",
+        "sources": [
+          "pelon-zapotal-rural",
+          "pelon-zapotal-qbl",
+          "pelon-zapotal-map"
+        ]
+      },
+      {
+        "title": "Семейная остановка и кемпинг",
+        "text": "Авторы отчёта нашли навес, тень, воду и туалет. Можно спросить о завтраке или обеде, наземной палатке и месте для пикника. Если едете компанией, заранее уточните ветер и где безопасно смотреть на склон. У смотровых держите дистанцию от края.",
+        "sources": [
+          "pelon-zapotal-qbl",
+          "pelon-zapotal-rural"
+        ]
+      },
+      {
+        "title": "Что взять и когда ехать",
+        "text": "Нужны вода, ветровка, обувь для грязного подъёма, перекус и слой для прохлады. По отчёту грунтовый подъезд быстро становится скользким при дождях. У хозяев уточните разрешение входа за ворота, возврат по светлу и допуск животных.",
+        "sources": [
+          "pelon-zapotal-qbl",
+          "pelon-zapotal-rural"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Хозяйство Cerro Pelón · первый номер",
+        "source": "pelon-zapotal-qbl",
+        "note": "Доступ, питание и места для ночёвки. В отчёте также опубликован номер +506 8570 5127.",
+        "phone": "+506 8352 7227"
+      }
+    ],
+    "nearby": [],
+    "track": "pelon-zapotal-map",
+    "galleries": [
+      "pelon-zapotal-qbl"
+    ]
+  },
+  "poza-blanca-roof": {
+    "stops": [
+      {
+        "point": "poza-mateo-center",
+        "role": "Начало подъезда от парка Сан-Матео",
+        "note": "Отсюда около 1,3 км по местным улицам до ворот. Линия на карте заканчивается на Calle Poza Blanca у кемпинга."
+      },
+      {
+        "point": "poza-machuca-camp",
+        "role": "Poza Blanca · навигация к кемпингу",
+        "note": "Используйте название Aventura y Camping. Гостиница Poza Blanca Lodge расположена рядом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Для палатки на крыше",
+        "text": "Costa Rica Camping Guide упоминает крышевые палатки и автодома. Спросите у кемпинга про ровную площадку, остаток свободных мест, возможность раскрыть палатку и уклон последнего подъезда. Описанная в отзыве нижняя часть удобнее на машине с высоким клиренсом.",
+        "sources": [
+          "poza-roof-report",
+          "poza-camp-listing",
+          "poza-roof-waze",
+          "poza-mateo-osrm"
+        ]
+      },
+      {
+        "title": "Семьёй на ночь",
+        "text": "По справочникам есть столы под навесами, гриль, туалеты и душ. Уточните розетку и питьевую воду на выбранной площадке. Если часть семьи предпочитает домик, есть соседний Poza Blanca Lodge со своим режимом размещения. Для детского выезда уточните тишину и безопасный подход к воде.",
+        "sources": [
+          "poza-camp-listing",
+          "poza-roof-report",
+          "poza-lodge"
+        ]
+      },
+      {
+        "title": "Река, погода и снаряжение",
+        "text": "Кемпинг разрешает посещение речной чаши при подходящей погоде. После ливня до спуска к реке уточняйте уровень и течения у хозяев. Возьмите фонарь, нескользящую обувь, средство от насекомых, отдельную питьевую воду и противооткатные упоры, если выбрали автомобильную площадку.",
+        "sources": [
+          "poza-camp-listing",
+          "poza-roof-report"
+        ]
+      },
+      {
+        "title": "Фото, отзывы и время ворот",
+        "text": "У руководства по кемпингам есть фотографии поляны. В Camping.cr опубликован отзыв о ночёвке. На время визита подтвердите часы заезда и отдельный тариф для палатки и автомобиля.",
+        "sources": [
+          "poza-roof-report",
+          "poza-camp-listing",
+          "poza-roof-waze"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aventura y Camping Poza Blanca · лагерь",
+        "source": "poza-roof-waze",
+        "note": "Ровное место для машины, ворота, текущая цена, клиренс и разрешённый доступ к реке.",
+        "phone": "+506 8809 5276",
+        "url": "https://wa.me/50688095276"
+      }
+    ],
+    "nearby": [
+      "piedras-negras-orotina-gravel-50"
+    ],
+    "track": "poza-roof-waze",
+    "line": "poza-mateo-approach",
+    "galleries": [
+      "poza-roof-report",
+      "poza-camp-listing"
+    ]
+  },
+  "dinoland-rio-agrio": {
+    "stops": [
+      {
+        "point": "rio-agrio-dino-entry",
+        "role": "Dinoland–Río Agrio · вход и парковка",
+        "note": "Проверяйте выбранный комплект входных билетов у кассы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Распорядок с детьми",
+        "text": "Парк состоит из зоны динозавров, смотровой, спуска к водопаду и отдельной части с речными чашами. С малышами удобнее начать с площадки фигур и смотровой. На подход к Рио-Агрио оператор даёт 15–20 минут. Попросите описать подъём обратно, ступени и самый короткий вариант для вашей семьи.",
+        "sources": [
+          "dino-activities",
+          "dino-sarchi",
+          "dino-ict"
+        ]
+      },
+      {
+        "title": "Где заходить в воду",
+        "text": "Под водопадом оператор советует воздержаться от купания. Позас-Селестес находятся в другой части программы. Возможность зайти в воду и работа водной горки зависят от уровня реки и конкретного билета. Возьмите сухую смену, дождевик и обувь для скользкой тропы.",
+        "sources": [
+          "dino-activities",
+          "dino-faq",
+          "dino-ict"
+        ]
+      },
+      {
+        "title": "Фото, время и связь",
+        "text": "У оператора есть фотографии зон и список занятий. Независимый ролик показывает, как устроен выход к тропе. По телефонам парк сообщает возрастные тарифы, текущие часы и какие семейные зоны открыты.",
+        "sources": [
+          "dino-activities",
+          "dino-contact",
+          "dino-visit-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dinoland Costa Rica · вход и поездки с детьми",
+        "source": "dino-contact",
+        "note": "Комплекты билетов для семьи, проход у водопада, режим чаш и ресторан. Стационарный телефон +506 2476 1932.",
+        "phone": "+506 8887 0310",
+        "url": "https://wa.me/50688870310",
+        "email": "info@dinolandcostarica.com"
+      }
+    ],
+    "nearby": [
+      "higueron-toro",
+      "blue-falls-toro",
+      "bajos-toro-weekend"
+    ],
+    "videos": [
+      "dino-visit-film"
+    ],
+    "track": "dino-pin",
+    "galleries": [
+      "dino-activities"
+    ]
+  },
+  "diamante-baru-day": {
+    "stops": [
+      {
+        "point": "diamante-journeys-base",
+        "role": "Лас-Тумбас · база Pacific Journeys",
+        "note": "Оператор подтверждает парковку, время выхода и встречу для группы без машины."
+      },
+      {
+        "point": "diamante-baru-falls",
+        "role": "Диаманте · район верхнего водопада",
+        "note": "Картографический ориентир. Подход к пещере и смотровой проходит по маршруту проводника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция, набор и время",
+        "text": "FAQ оператора даёт полный пеший формат около четырёх миль, то есть 6,4 км. В расписании указан выход в 8:30 и возврат около 15:30. Рельеф с коротким интенсивным набором нагрузки. Обед готовят у водопада, а программа может включать остановку в саду и у природных чаш.",
+        "sources": [
+          "diamante-journeys-tours",
+          "diamante-journeys-faq"
+        ]
+      },
+      {
+        "title": "Без машины и с группой",
+        "text": "Организатор описывает трансфер от Soda La Peña в Сан-Кристобале для приезжающих автобусом из Увиты, Доминикаля или Сан-Исидро. Подтвердите время общественного автобуса, места в машине и обратный выезд. В машине можно оставить лишние вещи на базе согласно FAQ.",
+        "sources": [
+          "diamante-journeys-faq",
+          "diamante-journeys-contact"
+        ]
+      },
+      {
+        "title": "Экипировка и фото",
+        "text": "Подойдут закрытые троповые ботинки, дождевик, вода и сухой мешок. Для спуска с верёвкой у оператора отдельная программа с инструктором и возрастным допуском. Галерея и видео показывают пещеру и выход к воде. Сам допуск к участкам сообщает гид на дату.",
+        "sources": [
+          "diamante-journeys-tours",
+          "diamante-journeys-faq",
+          "diamante-journeys-gallery",
+          "diamante-baru-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pacific Journeys · гиды Диаманте",
+        "source": "diamante-journeys-contact",
+        "note": "Время встречи, транспорт с остановки автобуса, спуск с гидом и палаточный лагерь.",
+        "phone": "+506 8325 9818",
+        "url": "https://wa.me/50683259818",
+        "email": "reservations@pacificjourneyscr.com"
+      }
+    ],
+    "nearby": [
+      "diamante-baru-overnight",
+      "nauyaca-don-lulo"
+    ],
+    "videos": [
+      "diamante-baru-film"
+    ],
+    "track": "diamante-journeys-faq",
+    "galleries": [
+      "diamante-journeys-gallery"
+    ]
+  },
+  "diamante-baru-overnight": {
+    "stops": [
+      {
+        "point": "diamante-journeys-base",
+        "role": "Лас-Тумбас · база Pacific Journeys",
+        "note": "Оператор подтверждает парковку, время выхода и встречу для группы без машины."
+      },
+      {
+        "point": "diamante-baru-falls",
+        "role": "Диаманте · район верхнего водопада",
+        "note": "Картографический ориентир. Подход к пещере и смотровой проходит по маршруту проводника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где ночуют сейчас",
+        "text": "В действующем пакете Pacific Journeys выделяет ночёвку в палатке в горном саду The Garden. Включены палатка, спальник и коврик. Casa de Piedra посещают во время похода. В старом фотоотчёте было размещение в пещере. Программа оператора подтверждает место ночёвки на выбранную дату.",
+        "sources": [
+          "diamante-journeys-garden",
+          "diamante-journeys-faq",
+          "diamante-baru-qbl"
+        ]
+      },
+      {
+        "title": "Когда выезжать и что входит",
+        "text": "Опубликованное расписание начинается в 8:30 первого дня и заканчивается около 11:00 второго. В программе обед, ужин и завтрак с вегетарианским меню. Заезд без машины возможен с предварительно согласованным трансфером от остановки в Сан-Кристобале.",
+        "sources": [
+          "diamante-journeys-garden",
+          "diamante-journeys-faq",
+          "diamante-journeys-contact"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Возьмите обувь с цепкой подошвой, лёгкую куртку, сухую смену одежды, воду, налобный фонарь, чехол для электроники и личные вещи. Для детей гид рассматривает нагрузку и размер снаряжения индивидуально. Выезд к каскаду и чашам зависит от погоды.",
+        "sources": [
+          "diamante-journeys-faq",
+          "diamante-journeys-garden",
+          "diamante-baru-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pacific Journeys · гиды Диаманте",
+        "source": "diamante-journeys-contact",
+        "note": "Время встречи, транспорт с остановки автобуса, спуск с гидом и палаточный лагерь.",
+        "phone": "+506 8325 9818",
+        "url": "https://wa.me/50683259818",
+        "email": "reservations@pacificjourneyscr.com"
+      }
+    ],
+    "nearby": [
+      "diamante-baru-day",
+      "nauyaca-nature"
+    ],
+    "videos": [
+      "diamante-baru-film"
+    ],
+    "track": "diamante-journeys-faq",
+    "galleries": [
+      "diamante-journeys-gallery",
+      "diamante-baru-qbl"
+    ]
+  },
+  "figues-los-montes": {
+    "stops": [
+      {
+        "point": "figues-farm-entry",
+        "role": "Старт у фермы",
+        "note": "В кассе уточните полную петлю, путь к подвесному мосту и время последнего входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ход прогулки",
+        "text": "Сначала луга с видом на Карибскую низменность, затем спуск через лес к купальням. В собственном отчёте Qué Buen Lugar авторы шли с проводником хозяйства. На возврат оставьте запас времени.",
+        "sources": [
+          "figues-main",
+          "figues-qbl"
+        ]
+      },
+      {
+        "title": "Машина и снаряжение",
+        "text": "Из Гуасимо есть грунтовый участок. После ливней уточните проезд у фермы. Возьмите закрытую обувь с протектором, воду, дождевик и сухую одежду. Тропа к мосту подходит для сокращённого визита.",
+        "sources": [
+          "figues-main",
+          "figues-crsf",
+          "figues-navi"
+        ]
+      },
+      {
+        "title": "Расписание, вход и еда",
+        "text": "Хозяйство публикует вторник–воскресенье с 8:00 до 16:00, вход ₡4 000 для граждан и резидентов и $25 для иностранных гостей. Отдельно уточните цену Chapulín, проводника и обеда. У фермы есть ресторан.",
+        "sources": [
+          "figues-main",
+          "figues-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Figue’s Farm · поход и ночёвка",
+        "source": "figues-main",
+        "note": "Цена, ночёвка, программа для семьи и экскурсионный трактор Chapulín.",
+        "phone": "+506 8994 7956"
+      }
+    ],
+    "nearby": [
+      "figues-farm-camp",
+      "las-golondrinas-guacimo",
+      "guacimo-waterfalls-weekend"
+    ],
+    "track": "figues-navi",
+    "galleries": [
+      "figues-qbl",
+      "figues-crsf"
+    ],
+    "videos": [
+      "figues-video"
+    ]
+  },
+  "figues-farm-camp": {
+    "stops": [
+      {
+        "point": "figues-farm-entry",
+        "role": "Старт у фермы",
+        "note": "В кассе уточните полную петлю, путь к подвесному мосту и время последнего входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Место ночёвки",
+        "text": "Ферма описывает поляну с прудом с тилапией, душем и туалетами. Есть домики. Уточните, входят ли тропы в ночёвку. Для машины с палаткой на крыше и рыбалки в пруду требуется подтверждение хозяев.",
+        "sources": [
+          "figues-main",
+          "figues-ict"
+        ]
+      },
+      {
+        "title": "Подготовка к ночи",
+        "text": "Запаситесь влагоустойчивым тентом, налобным фонарём и сухой одеждой. Отчёт Costa Rica Sin Filtros описывает грунт на подъезде. На дату дождя попросите уточнить условия для обычного автомобиля.",
+        "sources": [
+          "figues-crsf",
+          "figues-main",
+          "figues-navi"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Figue’s Farm · поход и ночёвка",
+        "source": "figues-main",
+        "note": "Цена, ночёвка, программа для семьи и экскурсионный трактор Chapulín.",
+        "phone": "+506 8994 7956"
+      }
+    ],
+    "nearby": [
+      "figues-los-montes",
+      "las-golondrinas-guacimo",
+      "guacimo-waterfalls-weekend"
+    ],
+    "track": "figues-navi",
+    "galleries": [
+      "figues-main",
+      "figues-crsf"
+    ],
+    "videos": []
+  },
+  "las-golondrinas-guacimo": {
+    "stops": [
+      {
+        "point": "golondrinas-access-area",
+        "role": "Район встречи у входа",
+        "note": "Точные ворота и парковку подтвердите по телефону хозяйства."
+      },
+      {
+        "point": "golondrinas-falls",
+        "role": "Каскад и лесная чаша",
+        "note": "К водопаду подходят с территории хозяйства по открытой тропе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Тропа и темп",
+        "text": "От входа проходите луг, затем мост и лес с каменистым подходом. Заложите около двух часов с остановками при семейном темпе. Два отчёта по-разному оценивают сложность у скользких глыб.",
+        "sources": [
+          "golondrinas-crsf",
+          "golondrinas-qbl"
+        ]
+      },
+      {
+        "title": "Парковка, услуги и ночёвка",
+        "text": "В отчёте Costa Rica Sin Filtros указаны парковка, туалеты, душ, ресторан и вариант размещения в домике. Контакт пригодится для подтверждения свежих цен, открытых услуг и точки парковки.",
+        "sources": [
+          "golondrinas-crsf",
+          "golondrinas-qbl",
+          "golondrinas-entrance-map"
+        ]
+      },
+      {
+        "title": "Обувь и вода",
+        "text": "Возьмите закрытую обувь, дождевик, питьевую воду, гермомешок и сменную одежду. Уточните разрешённый подход к воде у хозяев, особенно после дождей.",
+        "sources": [
+          "golondrinas-crsf",
+          "golondrinas-qbl"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Лас-Голондринас · вход",
+        "source": "golondrinas-crsf",
+        "note": "Условия входа, домик, состояние подвесного моста и режим купания.",
+        "phone": "+506 8768 3079"
+      }
+    ],
+    "nearby": [
+      "figues-los-montes",
+      "figues-farm-camp",
+      "guacimo-waterfalls-weekend"
+    ],
+    "track": "golondrinas-entrance-map",
+    "galleries": [
+      "golondrinas-crsf",
+      "golondrinas-qbl"
+    ],
+    "videos": [
+      "golondrinas-video"
+    ]
+  },
+  "guacimo-waterfalls-weekend": {
+    "stops": [
+      {
+        "point": "figues-farm-entry",
+        "role": "Старт у фермы",
+        "note": "В кассе уточните полную петлю, путь к подвесному мосту и время последнего входа."
+      },
+      {
+        "point": "golondrinas-access-area",
+        "role": "Район встречи у входа",
+        "note": "Точные ворота и парковку подтвердите по телефону хозяйства."
+      },
+      {
+        "point": "golondrinas-falls",
+        "role": "Каскад и лесная чаша",
+        "note": "К водопаду подходят с территории хозяйства по открытой тропе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два дня с одной ночёвкой",
+        "text": "Первая прогулка длиннее, поэтому её удобно начать утром. Ночуйте на ферме. На следующий день позвоните хозяевам Лас-Голондринас перед входом. У каждого хозяйства свой режим.",
+        "sources": [
+          "figues-main",
+          "figues-qbl",
+          "golondrinas-crsf"
+        ]
+      },
+      {
+        "title": "Вариант при усталости или дожде",
+        "text": "На ферме можно сократить поход до моста или согласовать Chapulín. На второй день уточняйте открытые тропы. Вещи, обувь и еду держите сухими в отдельном пакете.",
+        "sources": [
+          "figues-main",
+          "figues-crsf",
+          "golondrinas-qbl"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Figue’s Farm · поход и ночёвка",
+        "source": "figues-main",
+        "note": "Цена, ночёвка, программа для семьи и экскурсионный трактор Chapulín.",
+        "phone": "+506 8994 7956"
+      },
+      {
+        "name": "Лас-Голондринас · вход",
+        "source": "golondrinas-crsf",
+        "note": "Условия входа, домик, состояние подвесного моста и режим купания.",
+        "phone": "+506 8768 3079"
+      }
+    ],
+    "nearby": [
+      "figues-farm-camp",
+      "figues-los-montes",
+      "las-golondrinas-guacimo"
+    ],
+    "track": "figues-navi",
+    "galleries": [
+      "figues-qbl",
+      "golondrinas-crsf"
+    ],
+    "videos": [
+      "figues-video",
+      "golondrinas-video"
+    ]
+  },
+  "vistas-del-cielo-higuito": {
+    "stops": [
+      {
+        "point": "vistas-higuito-plaza",
+        "role": "Ориентир для навигатора",
+        "note": "Сначала введите Plaza de Higuito del Guarco. От площадки продолжайте к Refugio Silvestre."
+      },
+      {
+        "point": "vistas-higuito-gate",
+        "role": "Вход в Vistas del Cielo",
+        "note": "Около 3,7 км по Calle Palo Blanco. Подтвердите стоянку и место ночёвки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "С детьми на день",
+        "text": "Утром удобно пройти по садам и под деревьями, потом остановиться у видовой или пообедать. В выходные и праздники оператор указывает обычный дневной вход без записи. Проверьте рост, возраст и вес для канопи.",
+        "sources": [
+          "vistas-higuito-main",
+          "vistas-higuito-film"
+        ]
+      },
+      {
+        "title": "Палатка, глэмпинг и домик",
+        "text": "В описании хозяев есть площадки со своими зонами, душ, туалеты и готовые варианты ночлега. Возьмите тёплый и сухой слои. Условия для крышевой палатки уточняйте у хозяйства отдельно.",
+        "sources": [
+          "vistas-higuito-main",
+          "vistas-higuito-camp"
+        ]
+      },
+      {
+        "title": "Подъезд через Хигито",
+        "text": "Оператор указывает единственный заезд через спортивную площадку Хигито. Дорожная линия по Calle Palo Blanco около 3,7 км. Узнайте про покрытие и необходимость высокого клиренса, особенно после осадков. Часы работы разных услуг на сайте различаются.",
+        "sources": [
+          "vistas-higuito-main",
+          "vistas-higuito-plaza",
+          "vistas-higuito-osrm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vistas del Cielo · хозяева",
+        "source": "vistas-higuito-main",
+        "note": "Режим ночёвки, канопи, дорога и расписание ресторана.",
+        "phone": "+506 6283 9159",
+        "email": "vistasdelcielohiguito@gmail.com"
+      }
+    ],
+    "nearby": [
+      "escapadita"
+    ],
+    "track": "vistas-higuito-virtual",
+    "galleries": [
+      "vistas-higuito-main",
+      "vistas-higuito-camp"
+    ],
+    "videos": [
+      "vistas-higuito-film"
+    ],
+    "line": "vistas-higuito-approach"
+  },
+  "chayote-cloud-forest-hike": {
+    "stops": [
+      {
+        "point": "chayote-lodge-entry",
+        "role": "Место встречи у лоджа",
+        "note": "Здесь начинается экскурсия местного проводника и расположен ресторан Quelites."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Поход с проводником",
+        "text": "От лоджа проходят по местным путям через охраняемую зону. Оператор оценивает сложность как умеренную и длительность около трёх часов. Дистанцию и схему поворотов уточняйте по выбранной программе. Hiking Tiquicia упоминает это место среди малолюдных выходов.",
+        "sources": [
+          "chayote-hike-lodge",
+          "chayote-hike-ig",
+          "chayote-hike-report"
+        ]
+      },
+      {
+        "title": "Дорога и экипировка",
+        "text": "Чайоте охраняет истоки рек, а отдельные проходы ведут по частным территориям. Обувь с протектором, вода, ветровка и защита телефона помогут пройти влажный лес. После выхода обсудите ресторан или ночёвку на Alto del Rualdo.",
+        "sources": [
+          "chayote-hike-sinac",
+          "chayote-hike-report",
+          "chayote-quelites"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Chayote Lodge · поход, кафе и домики",
+        "source": "chayote-hike-contact",
+        "note": "Актуальный маршрут, встреча, цена и столик в Quelites.",
+        "phone": "+506 4001 6923",
+        "url": "https://wa.me/50640016923",
+        "email": "info@chayotelodge.com"
+      }
+    ],
+    "nearby": [
+      "quelites-chayote-cafe",
+      "rualdo-overlanding"
+    ],
+    "track": "chayote-hike-map",
+    "galleries": [
+      "chayote-hike-lodge",
+      "chayote-hike-report"
+    ],
+    "videos": [
+      "chayote-quelites-film"
+    ]
+  },
+  "quelites-chayote-cafe": {
+    "stops": [
+      {
+        "point": "chayote-lodge-entry",
+        "role": "Место встречи у лоджа",
+        "note": "Здесь начинается экскурсия местного проводника и расположен ресторан Quelites."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Местный кофе и кухня",
+        "text": "Ресторан использует местные продукты. Детали интерьера отсылают к обработке кофе в Наранхо. В репортаже Teletica показаны путь через холмы и панорама.",
+        "sources": [
+          "chayote-quelites",
+          "chayote-quelites-film"
+        ]
+      },
+      {
+        "title": "Совместить с прогулкой",
+        "text": "Поход и ресторан используют один въезд. Запись к проводнику и столик можно согласовать у одного оператора. Для ясного вида ориентируйтесь на прогноз облачности.",
+        "sources": [
+          "chayote-quelites",
+          "chayote-hike-lodge",
+          "chayote-hike-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Chayote Lodge · поход, кафе и домики",
+        "source": "chayote-hike-contact",
+        "note": "Актуальный маршрут, встреча, цена и столик в Quelites.",
+        "phone": "+506 4001 6923",
+        "url": "https://wa.me/50640016923",
+        "email": "info@chayotelodge.com"
+      }
+    ],
+    "nearby": [
+      "chayote-cloud-forest-hike",
+      "rualdo-overlanding"
+    ],
+    "track": "chayote-hike-map",
+    "galleries": [
+      "chayote-quelites"
+    ],
+    "videos": [
+      "chayote-quelites-film"
+    ]
+  },
+  "pozo-azul-toro-falls": {
+    "stops": [
+      {
+        "point": "pozo-toro-cascades-entry",
+        "role": "Вход, парковка и схема похода",
+        "note": "Попросите у стойки актуальную схему, время последнего входа и список открытых участков."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Идти целиком или сократить",
+        "text": "От входа маршрут проходит Las Rocas, Poza Azul и Las Nacientes. После леса и переправы есть видовая площадка. В отчёте Two Weeks дальше около 350 ступеней, а обратный подъём занял около 40 минут с остановками. Первые каскады доступны более короткой прогулкой.",
+        "sources": [
+          "pozo-toro-guide",
+          "pozo-toro-ict",
+          "pozo-toro-qbl"
+        ]
+      },
+      {
+        "title": "Короткий подъезд и подготовка",
+        "text": "Авторский отчёт даёт около 800 м грунта от основной дороги. Уточните клиренс после дождя. Возьмите закрытую обувь, воду, перекус и дождевик. Схему у ранчо и разрешение на использование переправы уточняйте у хозяев.",
+        "sources": [
+          "pozo-toro-guide",
+          "pozo-toro-parking",
+          "pozo-toro-local"
+        ]
+      },
+      {
+        "title": "Что описывают авторы",
+        "text": "Costa Rica Mochilera включает Посо-Асуль в выборку мест у Бахос-дель-Торо. У Two Weeks есть полный отчёт с фотографиями и описанием обеда. Для сезонных условий и цен звоните хозяйству.",
+        "sources": [
+          "pozo-toro-ig",
+          "pozo-toro-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cascadas Pozo Azul · семья Замора-Чакон",
+        "source": "pozo-toro-local",
+        "note": "Вход, тропа, ночлег, режим воды и обед.",
+        "phone": "+506 8922 8799",
+        "url": "https://www.facebook.com/CascadasPozoAzulColoniaToroAmarillo"
+      }
+    ],
+    "nearby": [
+      "pozo-azul-toro-camp",
+      "bajos-toro-weekend",
+      "laguna-rio-cuarto-paddle"
+    ],
+    "track": "pozo-toro-guide",
+    "galleries": [
+      "pozo-toro-guide",
+      "pozo-toro-qbl"
+    ],
+    "videos": [
+      "pozo-toro-film"
+    ]
+  },
+  "pozo-azul-toro-camp": {
+    "stops": [
+      {
+        "point": "pozo-toro-cascades-entry",
+        "role": "Вход, парковка и схема похода",
+        "note": "Попросите у стойки актуальную схему, время последнего входа и список открытых участков."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Бронирование и условия",
+        "text": "Каньонинг-клуб описывает зелёную поляну и домик с водой и душем. Two Weeks показывает домики и отдельный бассейн у них. Тариф, ночные ворота и место машины подтверждает семья хозяйства.",
+        "sources": [
+          "pozo-toro-local",
+          "pozo-toro-guide",
+          "pozo-toro-social"
+        ]
+      },
+      {
+        "title": "Две половины выходных",
+        "text": "Если после дождя тропа к большому каскаду закрыта, спросите про ближние видовые или замените утренний поход выездом к лагуне Рио-Куарто. На ночёвку возьмите тент, фонарь и сухую смену.",
+        "sources": [
+          "pozo-toro-ict",
+          "pozo-toro-qbl",
+          "pozo-toro-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cascadas Pozo Azul · семья Замора-Чакон",
+        "source": "pozo-toro-local",
+        "note": "Вход, тропа, ночлег, режим воды и обед.",
+        "phone": "+506 8922 8799",
+        "url": "https://www.facebook.com/CascadasPozoAzulColoniaToroAmarillo"
+      }
+    ],
+    "nearby": [
+      "pozo-azul-toro-falls",
+      "laguna-rio-cuarto-paddle"
+    ],
+    "track": "pozo-toro-parking",
+    "galleries": [
+      "pozo-toro-guide",
+      "pozo-toro-qbl"
+    ],
+    "videos": [
+      "pozo-toro-film"
+    ]
+  },
+  "pozo-azul-sarapiqui": {
+    "stops": [
+      {
+        "point": "pozo-sarapiqui-area",
+        "role": "Справочный район каскада",
+        "note": "Проверьте ворота у хозяйства. У Mytanfeet есть фотографии въезда и тропы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Хозяйство и парковка",
+        "text": "Позвоните перед въездом и спросите про регистрацию, плату и часы. Из Ла-Вирхен обычно подъезжают по асфальту к дому. Пешком ожидайте грунтовый спуск со скользкими ступенями.",
+        "sources": [
+          "pozo-sarapiqui-mtf",
+          "pozo-sarapiqui-teja"
+        ]
+      },
+      {
+        "title": "Чаша и снаряжение",
+        "text": "Возьмите воду, обувь с протектором, защиту от дождя и гермомешок. Описание Mytanfeet даёт ориентир на спокойную воду до сильных осадков. На дату купание определяет принимающее хозяйство.",
+        "sources": [
+          "pozo-sarapiqui-mtf",
+          "pozo-sarapiqui-qbl"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Catarata del Río Pozo Azul · хозяйство",
+        "source": "pozo-sarapiqui-teja",
+        "note": "Частный вход, парковка и состояние воды на день посещения.",
+        "phone": "+506 8583 2673"
+      }
+    ],
+    "nearby": [],
+    "track": "pozo-sarapiqui-qbl",
+    "galleries": [
+      "pozo-sarapiqui-qbl",
+      "pozo-sarapiqui-mtf"
+    ],
+    "videos": [
+      "pozo-sarapiqui-video"
+    ]
+  },
+  "karen-mogensen-falls": {
+    "stops": [
+      {
+        "point": "karen-road-reference",
+        "role": "Дорожный ориентир перед пешим участком",
+        "note": "Парковку и точку встречи уточните в ASEPALECO."
+      },
+      {
+        "point": "karen-reserve-area",
+        "role": "Район приюта и развилки троп",
+        "note": "К водопаду и смотровой идите с назначенным проводником по открытой тропе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога из Хикараля",
+        "text": "Въезд в районе Сан-Рамон-де-Рио-Бланко. При согласовании спросите про гравий, высокий клиренс и фактическую точку встречи. Ряд координат на картах относится к приюту глубже в лесу.",
+        "sources": [
+          "karen-asepaleco",
+          "karen-parking-waze",
+          "karen-guide",
+          "karen-qbl"
+        ]
+      },
+      {
+        "title": "К водопаду с гидом",
+        "text": "Местные авторы шли частью пути вдоль реки. Программа может включить Velo de Novia и по времени видовую площадку. Линия на карте показывает участок к району базы, а в отчёте Wikiloc есть схема похода с промежуточными точками.",
+        "sources": [
+          "karen-qbl",
+          "karen-wikiloc",
+          "karen-track-osm"
+        ]
+      },
+      {
+        "title": "Снаряжение",
+        "text": "Возьмите обувь для бродов и влажной тропы, налобный фонарь, воду, перекус и дождевик. Возможность купания уточняйте по погоде у гида.",
+        "sources": [
+          "karen-asepaleco",
+          "karen-network"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASEPALECO · Reserva Karen Mogensen",
+        "source": "karen-asepaleco",
+        "note": "Бронь проводника и ночей, подъезд, питание, открытые маршруты и броды.",
+        "phone": "+506 2650 0607",
+        "url": "https://wa.me/50626500607",
+        "email": "infoasepaleco@gmail.com"
+      }
+    ],
+    "nearby": [
+      "karen-mogensen-3"
+    ],
+    "track": "karen-wikiloc",
+    "galleries": [
+      "karen-network",
+      "karen-qbl"
+    ],
+    "videos": [
+      "karen-video"
+    ],
+    "line": "karen-mogensen-mapped"
+  },
+  "karen-mogensen-3": {
+    "stops": [
+      {
+        "point": "karen-road-reference",
+        "role": "Дорожный ориентир перед пешим участком",
+        "note": "Парковку и точку встречи уточните в ASEPALECO."
+      },
+      {
+        "point": "karen-reserve-area",
+        "role": "Район приюта и развилки троп",
+        "note": "К водопаду и смотровой идите с назначенным проводником по открытой тропе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где спать и сколько стоит",
+        "text": "Ассоциация рекомендует две ночи. На её сайте есть варианты домиков от $130 на человека с тремя приёмами пищи, а гид оплачивается отдельно за группу. Уточните скидки, состав программы и аллергии до поездки.",
+        "sources": [
+          "karen-asepaleco",
+          "karen-network"
+        ]
+      },
+      {
+        "title": "Пеший подъём к приюту",
+        "text": "До приюта примерно час пешком, в основном вверх. Берите лёгкий рюкзак, воду, фонарь, обувь для бродов и сухой комплект одежды. У домиков есть электричество от солнечных панелей.",
+        "sources": [
+          "karen-asepaleco",
+          "karen-guide"
+        ]
+      },
+      {
+        "title": "Тропы на второй день",
+        "text": "Хозяева указывают сеть из 22 км троп. Обсудите подход к Velo de Novia, Tres Ríos и видовой точке. Выберите нагрузку по погоде и плану гида.",
+        "sources": [
+          "karen-asepaleco",
+          "karen-wikiloc",
+          "karen-qbl"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASEPALECO · Reserva Karen Mogensen",
+        "source": "karen-asepaleco",
+        "note": "Бронь проводника и ночей, подъезд, питание, открытые маршруты и броды.",
+        "phone": "+506 2650 0607",
+        "url": "https://wa.me/50626500607",
+        "email": "infoasepaleco@gmail.com"
+      }
+    ],
+    "nearby": [
+      "karen-mogensen-falls"
+    ],
+    "track": "karen-wikiloc",
+    "galleries": [
+      "karen-asepaleco",
+      "karen-network"
+    ],
+    "videos": [
+      "karen-video"
+    ],
+    "line": "karen-mogensen-mapped"
+  }
+}

@@ -4492,5 +4492,289 @@
         ]
       }
     ]
+  },
+  {
+    "id": "caballito-camp-weekend",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Кабальито на два дня · палатка над Никоей",
+    "native": "Cerro Caballito · campamento · Quebrada Honda · Nicoya",
+    "level": "hard",
+    "days": 2,
+    "activities": [
+      "multi",
+      "camping",
+      "hiking",
+      "summit",
+      "views",
+      "savanna",
+      "forest"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "caballito-qbl",
+      "caballito-voz",
+      "caballito-una",
+      "caballito-wikiloc",
+      "caballito-film"
+    ],
+    "summary": "Короткая двухдневная поездка с пешим подъёмом в сухолесье, закатом наверху и переносом лагеря на себе.",
+    "plan": "Согласуйте вечерний выход с гидом. Поднимитесь к разрешённой площадке, встречайте рассвет на открытой смотровой, спуститесь после завтрака.",
+    "conditions": "Проверьте ветер, ливни, открытие лагеря и возможности транспорта. Вода и перенос снаряжения согласовываются отдельно.",
+    "distance": 7,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Подъём из деревни и ночёвка",
+        "note": "Пешком к верхней площадке в согласованном хозяйством темпе. До темноты поставьте палатку и проверьте, где находится согласованный выход на рассвет.",
+        "stops": [
+          "caballito-day"
+        ],
+        "sources": [
+          "caballito-qbl",
+          "caballito-una"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Рассвет и возвращение к машине",
+        "note": "Спуститесь по маршруту хозяйства с проводником или по выданной схеме. Для отдельного дневного выезда в Барра-Онду уточните расписание парка.",
+        "stops": [
+          "caballito-day",
+          "barra-honda"
+        ],
+        "sources": [
+          "caballito-voz",
+          "caballito-wikiloc"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diamante-baru-overnight",
+    "kind": "trip",
+    "region": "south",
+    "title": "Два дня у водопада Диаманте · палатка в горном саду",
+    "native": "Catarata Diamante · The Garden · Las Tumbas de Barú",
+    "level": "hard",
+    "days": 2,
+    "activities": [
+      "multi",
+      "camping",
+      "hiking",
+      "waterfall",
+      "forest",
+      "cave",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "transfer"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "diamante-journeys-garden",
+      "diamante-journeys-faq",
+      "diamante-journeys-muni",
+      "diamante-baru-qbl",
+      "diamante-journeys-contact"
+    ],
+    "summary": "Подъём через частный заповедник, смотровая над водопадом, посещение пещеры и ночь в палатке, которую выдаёт оператор.",
+    "plan": "Приехать в Лас-Тумбас, подняться с гидом в The Garden и сходить к водопаду. Утром пройти обратный участок к машине или встрече с транспортом.",
+    "conditions": "Запись обязательна. Точку выезда, нагрузку, воду на маршруте и время обратного трансфера организатор проверяет для группы.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Подъём в сад и поход к Casa de Piedra",
+        "note": "Встреча около 8:30. Крутой подъём до лагеря. В течение дня посещение пещеры и разрешённых смотровых. Ужин и палатка в The Garden.",
+        "stops": [
+          "diamante-baru-day"
+        ],
+        "sources": [
+          "diamante-journeys-garden",
+          "diamante-journeys-faq"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Завтрак и спуск в Лас-Тумбас",
+        "note": "Упакуйте вещи, пройдите обратный участок и запланируйте выдачу машины или автобус после ориентировочного возвращения около 11:00.",
+        "stops": [
+          "diamante-baru-day"
+        ],
+        "sources": [
+          "diamante-journeys-garden",
+          "diamante-journeys-contact"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guacimo-waterfalls-weekend",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Гуасимо за два дня · два хозяйства и три водопада",
+    "native": "Figue’s Farm y Catarata Las Golondrinas · Guácimo",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "hiking",
+      "camping",
+      "forest",
+      "waterfall",
+      "river",
+      "cafe",
+      "multi"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "figues-main",
+      "figues-ict",
+      "golondrinas-crsf",
+      "golondrinas-qbl"
+    ],
+    "summary": "Два каскада на ферме Фигес, ночёвка на месте и короткая тропа Лас-Голондринас следующим утром.",
+    "plan": "Забронируйте ночёвку и проверьте доступ к обеим тропам. Пешая программа около 7,4 км, если оба маршрута открыты целиком.",
+    "conditions": "В сезон дождей сверяйте грунтовый подъезд, мосты и требования у каждого хозяйства перед выездом.",
+    "distance": 7.4,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Ферма Фигес",
+        "note": "Пеший круг или короткая прогулка до моста. После похода заселитесь в домик или установите палатку.",
+        "stops": [
+          "figues-los-montes",
+          "figues-farm-camp"
+        ],
+        "sources": [
+          "figues-main",
+          "figues-qbl"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лас-Голондринас",
+        "note": "Утром проверьте вход и пройдите по тропе к каскаду. Оцените воду и погоду для возвращения на парковку.",
+        "stops": [
+          "las-golondrinas-guacimo"
+        ],
+        "sources": [
+          "golondrinas-crsf",
+          "golondrinas-qbl"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "karen-mogensen-3",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Три дня в Карен-Могенсен · лесной приют и водопад",
+    "native": "Posada Cerro Escondido · Reserva Karen Mogensen",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "hiking",
+      "forest",
+      "waterfall",
+      "views",
+      "wildlife",
+      "river",
+      "multi"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "karen-asepaleco",
+      "karen-guide",
+      "karen-network",
+      "karen-qbl"
+    ],
+    "summary": "Две ночи в Cerro Escondido с местными хозяевами, водопад и утренние выходы к птицам.",
+    "plan": "Забронируйте проводника и ночёвки. Выберите на второй день водопад или смотровую после проверки погоды.",
+    "conditions": "До приюта идут пешком с гидом. На подходе могут быть броды. Сверьте подъезд, меню и полную стоимость до выезда.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Встреча и Cerro Escondido",
+        "note": "Согласуйте парковку, пройдите пеший подъём с гидом и заселитесь в приют.",
+        "stops": [],
+        "sources": [
+          "karen-asepaleco",
+          "karen-parking-waze"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Водопад и обзорная тропа",
+        "note": "Планируйте Velo de Novia по состоянию воды. Если открыто, добавьте короткий выход к смотровой.",
+        "stops": [
+          "karen-mogensen-falls"
+        ],
+        "sources": [
+          "karen-guide",
+          "karen-qbl",
+          "karen-wikiloc"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Рассвет и спуск",
+        "note": "При подходящей погоде отправьтесь на утреннюю прогулку к птицам, позавтракайте и спуститесь к парковке или трансферу.",
+        "stops": [],
+        "sources": [
+          "karen-asepaleco",
+          "karen-network"
+        ]
+      }
+    ]
   }
 ]

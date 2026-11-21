@@ -211,15 +211,18 @@ function RoutePhoto({ photo, className, loading }) {
 function DossierMedia({ dossier, sources }) {
   const photos = dossier?.photos?.slice(1) || [];
   const videos = dossier?.videos || [];
-  if (!photos.length && !videos.length) return null;
-  const title = photos.length ? (videos.length ? "Фото и видео" : "Фотографии") : "Видео с места";
+  const galleries = dossier?.galleries || [];
+  const withPhotos = photos.length || galleries.length;
+  const mediaLinks = [...galleries, ...videos];
+  if (!withPhotos && !videos.length) return null;
+  const title = withPhotos ? (videos.length ? "Фото и видео" : "Фотографии") : "Видео с места";
   return <section className="dossier-section">
     <h3>{title}</h3>
     {photos.length > 0 && <div className="dossier-photo-grid">
       {photos.map(photo => <RoutePhoto key={photo.file} photo={photo} className="dossier-photo" loading="lazy" />)}
     </div>}
-    {videos.length > 0 && <ul className="dossier-videos">
-      {videos.map(id => {
+    {mediaLinks.length > 0 && <ul className="dossier-videos">
+      {mediaLinks.map(id => {
         const source = sources[id];
         return <li key={id}><External href={source.url}>{source.title}</External><p>{source.scope}</p></li>;
       })}
@@ -327,6 +330,8 @@ function SourcesPage({ atlas }) {
   );
   const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length).length;
   const withVideos = atlas.records.filter(row => row.dossier?.videos?.length).length;
+  const withGalleries = atlas.records.filter(row => row.dossier?.galleries?.length).length;
+  const guideLanguages = { es: "На испанском", en: "На английском", "es-en": "На испанском и английском" };
   return <section className="sources-page">
     <h1>Источники</h1>
     <p className="page-lede">Проверки доступа, правила площадок и опыт путешественников.</p>
@@ -374,6 +379,15 @@ function SourcesPage({ atlas }) {
         </div>)}
       </div>
     </details>
+    {Boolean(atlas.guides?.length) && <details className="evidence-list" open>
+      <summary>Путеводители на испанском и английском <ChevronDown size={18} /></summary>
+      {Object.entries(guideLanguages).map(([language, label]) => <section key={language}>
+        <h3>{label}</h3>
+        <div className="source-directory">{atlas.guides.filter(guide => guide.language === language).map(guide => <div key={guide.url}>
+          <External href={guide.url}>{guide.name}</External><p>{guide.focus}</p>
+        </div>)}</div>
+      </section>)}
+    </details>}
     <details className="evidence-list"><summary>Парки, операторы и путеводители <ChevronDown size={18} /></summary>
       <div className="source-directory">{Object.values(atlas.sources).map(source => <div key={source.id}>
         <External href={source.url}>{source.title}</External><p>{source.scope}</p>
@@ -381,6 +395,7 @@ function SourcesPage({ atlas }) {
     </details>
     <details className="evidence-list"><summary>Фотографии и карта <ChevronDown size={18} /></summary>
       <p>Фотографии с указанием автора есть в {withPhotos} из {atlas.records.length} карточек, ссылки на видео — в {withVideos}.</p>
+      {withGalleries > 0 && <p>Ссылки на фотографии авторов и операторов есть в {withGalleries} карточках.</p>}
       <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/MEDIA.md">Авторы, лицензии и иллюстрации</External></p>
     </details>
   </section>;

@@ -116,8 +116,10 @@ def main():
                 if len(photo_ids) != len(set(photo_ids)) or any(photo not in photos for photo in photo_ids):
                     raise ValueError(f"Unknown or repeated photo for {key}")
                 dossier["photos"] = [photos[photo] for photo in photo_ids]
-            if any(video not in sources_by_id for video in dossier.get("videos", [])):
-                raise ValueError(f"Unknown video source for {key}")
+            for field in ("videos", "galleries"):
+                media = dossier.get(field, [])
+                if len(media) != len(set(media)) or any(source not in sources_by_id for source in media):
+                    raise ValueError(f"Unknown or repeated {field} source for {key}")
             dossiers[key] = dossier
 
     records = []
@@ -133,6 +135,10 @@ def main():
         records.extend(json.loads(trips_path.read_text()))
     social = build_social(sources_by_id)
     social_matches = social.pop("matches")
+    guides = [
+        {key: feed[key] for key in ("name", "url", "language", "focus")}
+        for feed in json.loads((DATA / "feeds.json").read_text()) if "language" in feed
+    ]
     metadata = json.loads((DATA / "snapshot.json").read_text())
     check_path = DATA / "checks.tsv"
     checked_by_record = {
@@ -163,7 +169,7 @@ def main():
     out = ROOT / "public" / "atlas.json"
     out.write_text(json.dumps({
         "checked": metadata["checked"], "records": records,
-        "sources": sources_by_id, "social": social, "lines": lines,
+        "sources": sources_by_id, "social": social, "lines": lines, "guides": guides,
     }, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     print(f"{len(records)} records, {len(sources)} sources, {len(social.get('profiles', []))} social profiles")
 
