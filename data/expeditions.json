@@ -4996,5 +4996,288 @@
         ]
       }
     ]
+  },
+  {
+    "id": "arenal-cote-2-water",
+    "kind": "trip",
+    "region": "north",
+    "title": "Ареналь и Коте · два дня на воде от Нуэво-Ареналя",
+    "native": "Parque del Lago · Nuevo Arenal · Cote Lake Safari",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "sup",
+      "kayak",
+      "lake",
+      "views",
+      "forest"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "cote-sup-local",
+      "cote-hormiga-stay",
+      "cote-tenorio-sinac",
+      "cote-sup-field-reviews"
+    ],
+    "summary": "Полдня на озере Ареналь, ночь в округе Нуэво-Ареналя и отдельный выезд к природному озеру Коте.",
+    "plan": "Для первого дня подойдет согласованный выход с местной базы или рампы Parque del Lago. На второй выберите экскурсию CoteSup либо запросите условия своей лодки.",
+    "conditions": "Ветер и подъём воды меняют площадки. Для двух озёр уточняйте разные места встречи. В Casa Hormiga опубликовано проживание в домике.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Нуэво-Ареналь и рампа Parque del Lago",
+        "note": "Утренний выход после сверки ветра и места посадки. Ночь на озере Ареналь.",
+        "stops": [
+          "nuevo-arenal-parque-lago-own"
+        ],
+        "sources": [
+          "cote-sup-local",
+          "cote-hormiga-stay"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Коте с местным гидом",
+        "note": "Грунтовый подъезд, пеший спуск и SUP по подтверждённым условиям. Для своей лодки согласуйте отдельный допуск.",
+        "stops": [
+          "cote-sup-with-guide",
+          "cote-own-kayak-packraft"
+        ],
+        "sources": [
+          "cote-sup-local",
+          "cote-rule-gaceta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "agujas-bijagual-weekend-2",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Агухас и Бихагуаль · каяк, лес и ночёвка за два дня",
+    "native": "Playa Agujas · Bijagual Waterfall · Parque Nacional Carara",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "kayak",
+      "sup",
+      "hiking",
+      "waterfall",
+      "camping",
+      "rooftent",
+      "beach",
+      "forest"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "agujas-bijagual-qbl",
+      "agujas-kayak-contact",
+      "bijagual-waterfall-trips",
+      "bijagual-camping-roof-directory",
+      "carara-sinac-footpaths"
+    ],
+    "summary": "Утро на воде в Агухас, ночь у Карары и пеший маршрут к водопаду в Бихагуале. Ночёвка с крышей возможна при подтверждении конкретного кемпинга.",
+    "plan": "Выберите раннюю греблю или SUP и обед в районе Quebrada Ganado. Переезжайте в горы засветло. На второй день начните поход от официального входа.",
+    "conditions": "Согласуйте море с гидом, а подъезд и ночёвку с хозяевами. Если вода поднимается, можно провести второе утро на официальной тропе Carara и перенести водопад.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Агухас и подъём в Бихагуаль",
+        "note": "Каяк или SUP утром. После обеда ехать через Ruta 34 и Vía 320. Въезжайте в кемпинг по подтверждённому адресу или ночуйте в домике у Карары.",
+        "stops": [
+          "agujas-kayak-sup-bay",
+          "bijagual-rooftent-visit"
+        ],
+        "sources": [
+          "agujas-kayak-contact",
+          "bijagual-camping-roof-directory"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пешие тропы Карары или водопад",
+        "note": "Утренний маршрут к водопаду по схеме хозяев. После ливней — подходящая тропа национального парка и возврат.",
+        "stops": [
+          "bijagual-waterfall-hike-7",
+          "carara"
+        ],
+        "sources": [
+          "bijagual-waterfall-trips",
+          "carara-sinac-footpaths"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "miramar-mtb-domos-weekend-2",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Монтес-де-Оро · MTB, купол и пешая смотровая за два дня",
+    "native": "Miramar · El Palmar · Tajo Alto · Cerro El Encanto",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "mtb",
+      "gravel",
+      "cycling",
+      "hiking",
+      "glamping",
+      "views"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "family-teen"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping"
+    ],
+    "sources": [
+      "miramar-mtb-municipal",
+      "miramar-mtb-accounts",
+      "domos-tajo-owner",
+      "piedra"
+    ],
+    "summary": "Первый день — местный MTB-круг с выездом из Мирамара, вечер в куполе над кантоном. Второй — короткая тропа на Серро-эль-Энканто либо более длинный маршрут с проводником.",
+    "plan": "Сверьте уровень воды и время выезда в Мирамаре. На ночь заранее согласуйте купол. Для второго дня отдельно запишите тропу и проверьте открытие подъезда.",
+    "conditions": "Круг можно сократить до дорожного отрезка и обратно. Проверяйте состояние подъездов в холмы и выбирайте смотровую с запасом времени до дождей.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "MTB-круг и ночь в Тахо-Альто",
+        "note": "Велостарт из центра Мирамара, выбор полной дистанции после местной проверки. Вечером купол или глэмпинг.",
+        "stops": [
+          "miramar-palmar-rio-seco-36",
+          "domos-tajo-alto",
+          "piedra-angel"
+        ],
+        "sources": [
+          "miramar-mtb-municipal",
+          "domos-tajo-owner"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Смотровые Эль-Энканто",
+        "note": "Выберите короткое восхождение или вариант через Аранхуэс с гидом. Пополните воду в Мирамаре перед отъездом.",
+        "stops": [
+          "encanto-summit-short",
+          "aranjuez-encanto"
+        ],
+        "sources": [
+          "miramar-roads-canton",
+          "piedra"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "uran-herradura-camp-3",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Серро-Уран · трёхдневный поход с ночёвкой на перевале",
+    "native": "Herradura de Rivas · Paso de los Indios · Cerro Urán",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "multi",
+      "hiking",
+      "summit",
+      "camping",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "uran-herradura-sinac",
+      "uran-herradura-use-rules",
+      "uran-3-day-guide",
+      "uran-community-field"
+    ],
+    "summary": "Первый день — регистрация и ночь в Эррадуре. Второй — 14,5 км к горной ночёвке. Третий — около 22,5 км через вершину Уран и обратно на исходную сторону.",
+    "plan": "Согласуйте с ADI Herradura посещение именно Урана с возвратом в Эррадуру, дату, ночёвку и проводника. В опубликованной программе два ходовых дня дают 37 км.",
+    "conditions": "Высокогорье, ранний старт в темноте, мокрые корни и длинный спуск. Уточните у гида допуск, размещение в укрытии или палатке, питьевую воду, питание и вариант эвакуации.",
+    "distance": 37,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Регистрация и ночь у старта",
+        "note": "Сверьте время регистрации в Сан-Херардо-де-Ривас, затем переезд на ночёвку в Эррадуру.",
+        "stops": [],
+        "sources": [
+          "uran-herradura-use-rules",
+          "uran-3-day-guide"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Эррадура — Paso de los Indios",
+        "note": "Около 14,5 км с набором и ночёвкой в районе перевала по договорённости с гидом.",
+        "stops": [],
+        "sources": [
+          "uran-3-day-guide",
+          "uran-paso-map"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Уран и возврат в Эррадуру",
+        "note": "Около 22,5 км. Выход к вершине с гидом, затем спуск обратно в посёлок.",
+        "stops": [],
+        "sources": [
+          "uran-3-day-guide",
+          "uran-herradura-sinac"
+        ]
+      }
+    ]
   }
 ]

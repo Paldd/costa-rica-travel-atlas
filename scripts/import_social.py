@@ -39,6 +39,8 @@ ALIASES = {
     "toro-vuelta-canyon": ("catarata vuelta al canon", "catarata vuelta del canon", "vuelta al canon, bajos del toro"),
     "domos-tajo-alto": ("domos mirador glamping", "domos finca el mirador", "domos mirador", "finca el mirador, montes de oro", "@fincaelmirador"),
     "aranjuez-encanto": ("canon rio aranjuez", "canon del rio aranjuez", "canon de aranjuez", "rio aranjuez y cerro"),
+    "guiones-samara-carrillo-27": ("guiones carrillo", "guiones a carrillo", "guiones to carrillo"),
+    "santa-teresa-nosara-gravel-101": ("santa teresa nosara", "santa teresa a nosara", "santa teresa to nosara"),
     "piedras-blancas": ("parque nacional piedras blancas", "piedras blancas, golfito"),
     "las-catalinas-la-cresta-23": ("la cresta norte",),
     "las-catalinas-secreto-13": ("secreto trail",),
@@ -60,7 +62,8 @@ def recurring_names(record):
     native = normalized(record["native"].split("·")[0].strip())
     broad = {"playa", "camping", "costa rica", "arenal", "monteverde", "las catalinas", "hacienda orosi"}
     terms = ALIASES.get(record["id"], ())
-    if len(native) >= 12 and native not in broad:
+    starting_point_only = record["id"] in {"guiones-samara-carrillo-27", "santa-teresa-nosara-gravel-101"}
+    if len(native) >= 12 and native not in broad and not starting_point_only:
         terms = (*terms, native)
     return terms
 

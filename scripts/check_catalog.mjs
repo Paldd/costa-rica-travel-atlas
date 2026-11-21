@@ -110,4 +110,9 @@ assert(atlas.social.overview.instagramUniquePosts <= atlas.social.overview.insta
 assert(find({ q: "Bajos del Toro", duration: "two", detail: "map" }, "expeditions").some(row => row.id === "bajos-toro-weekend"));
 assert(find({ region: "nicoya", activity: "gravel", km: "hundred" }).some(row => row.id === "santa-teresa-nosara-gravel-101"));
 assert(find({ region: "south", activity: "camping", transport: "noCar", duration: "three" }, "expeditions").some(row => row.id === "drake-rincon-3-no-car"));
+assert(find({ region: "north", activity: "own-craft" }).some(row => row.id === "cote-own-kayak-packraft"));
+assert(find({ region: "centralpac", activity: "rooftent", duration: "two" }).some(row => row.id === "bijagual-rooftent-visit"));
+assert(find({ region: "mountains", activity: "summit", km: "thirty", duration: "three" }, "expeditions").some(row => row.id === "uran-herradura-camp-3"));
+const farm = records.find(row => row.id === "monteverde-finca-madre-tierra");
+assert(farm.posts?.some(post => post.url === "https://www.instagram.com/p/DfmxPxDFybR/"));
 console.log(`Validated ${records.length} entries, ${Object.keys(atlas.sources).length} indexed sources and 200 profiles.`);

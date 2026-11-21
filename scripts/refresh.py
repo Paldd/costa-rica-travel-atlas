@@ -65,17 +65,22 @@ def request(opener, url):
         return response.read(MAX_BYTES), response.url
 
 
-def respect_robots(opener, target):
+def robots_rules(opener, target):
     robots_url = urllib.parse.urljoin(target, "/robots.txt")
     parser = urllib.robotparser.RobotFileParser(robots_url)
     try:
         body, _ = request(opener, robots_url)
     except urllib.error.HTTPError as error:
         if error.code in (404, 410):
-            return True
+            return None
         raise
     parser.parse(body.decode("utf-8", errors="replace").splitlines())
-    return parser.can_fetch(AGENT, target)
+    return parser
+
+
+def respect_robots(opener, target):
+    rules = robots_rules(opener, target)
+    return rules is None or rules.can_fetch(AGENT, target)
 
 
 def inspect(feed, known):

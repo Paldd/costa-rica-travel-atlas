@@ -15,16 +15,31 @@ concurrency:
 jobs:
   discover:
     runs-on: ubuntu-latest
-    timeout-minutes: 6
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
       - name: Read public directories and collect candidates
         run: python3 scripts/refresh.py
+      - name: Restore publisher review history
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/publisher-archive-state.json
+          key: atlas-publisher-review-v1-${{ github.run_id }}
+          restore-keys: atlas-publisher-review-v1-
+      - name: Review editorial text from verified publishers
+        run: python3 scripts/review_publisher_archives.py
+      - name: Save deduplicated publisher review history
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/publisher-archive-state.json
+          key: atlas-publisher-review-v1-${{ github.run_id }}
       - name: Keep the source-read receipt and candidates
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: atlas-candidates
-          path: .cache/refresh.json
+          path: |
+            .cache/refresh.json
+            .cache/publisher-review.json
           include-hidden-files: true
           retention-days: 30

@@ -342,7 +342,8 @@ function SourcesPage({ atlas }) {
       <article><strong>{Object.keys(atlas.sources).length}</strong><span>источников каталога</span></article>
     </div>
     <p>Подключённый коннектор Meta читает управляемые аккаунты. Публикации сторонних профилей сверяются по доступным образцам и ссылкам. Статус в строке показывает, какие данные просмотрены.</p>
-    <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/API.md">Проверка доступов и методика</External></p>
+    <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/API.md">Проверка доступов и методика</External>{" · "}
+      <External href="https://github.com/Paldd/costa-rica-travel-atlas/actions/workflows/refresh.yml">Ежедневное чтение открытых архивов</External></p>
     <details className="evidence-list">
       <summary>Рейтинг Instagram и Facebook <ChevronDown size={18} /></summary>
       <p>По {overview.instagramProfiles} профилей на каждой платформе с аудиторией свыше 1 000 подписчиков. Замер от <time dateTime={measurementDate}>{measurementDate?.split("-").reverse().join(".")}</time>.</p>

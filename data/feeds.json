@@ -60,5 +60,7 @@
   {"name":"Hacienda Guachipelín · поездки у вулкана","url":"https://www.guachipelin.com/blog/en/","paths":["/blog/","/tours/"]},
   {"name":"Selvatura · тропы и канопи Монтеверде","url":"https://www.selvatura.com/blog/","paths":["/blog/","/tours/"]},
   {"name":"Vista Los Sueños · материалы о поездках из Хако","url":"https://vistalossuenosadventurepark.com/blog/","paths":["/blog/","/tours/"]},
-  {"name":"Arenal Manoa · термы и поездки из Ла-Фортуны","url":"https://arenalmanoa.com/blog/","paths":["/blog/","/tours/"]}
+  {"name":"Arenal Manoa · термы и поездки из Ла-Фортуны","url":"https://arenalmanoa.com/blog/","paths":["/blog/","/tours/"]},
+  {"name":"Hotel Belmar · журнал Монтеверде","url":"https://www.hotelbelmar.net/happenings/blog","paths":["/blog/","/es/blog/"]},
+  {"name":"Diamante · журнал парка","url":"https://diamanteecoadventurepark.com/blog/","paths":["/blog/","/es/blog/"]}
 ]

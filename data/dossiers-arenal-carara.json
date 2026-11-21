@@ -1,0 +1,877 @@
+{
+  "cote-sup-with-guide": {
+    "stops": [
+      {
+        "point": "nuevo-arenal",
+        "role": "Сбор в Nuevo Arenal",
+        "note": "Гид сообщает точку встречи в центре и доступный транспорт."
+      },
+      {
+        "point": "wave3-cote-centre",
+        "role": "Lago Cote · озеро",
+        "note": "Метка находится на воде. Берег входа и высадки уточняйте у администрации и гида."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Состав выезда",
+        "text": "CoteSup описывает отдельную программу на Lago Cote и несколько вариантов на озере Ареналь. При записи укажите нужный водоём, рост и возраст участников. Попросите оценку времени на подъезд и ходьбу. Для Lago Cote сайт указывает 75 USD с человека на дату проверки. Включены вводный урок, доска, весло, жилет и фото. Трансфер за дополнительную плату.",
+        "sources": [
+          "cote-sup-local",
+          "cote-sup-field-reviews"
+        ]
+      },
+      {
+        "title": "Местные впечатления",
+        "text": "В отзывах про Коте путешественники отмечают укромность берега и то, что доску нужно донести до воды. Площадка с отзывами объединяет разные программы Хосе, поэтому уточняйте конкретный вариант.",
+        "sources": [
+          "cote-sup-field-reviews",
+          "cote-sup-local"
+        ]
+      },
+      {
+        "title": "Экипировка и запасной вариант",
+        "text": "Для спуска подойдёт закрытая обувь, на воде нужен подобранный жилет. Возьмите гермомешок, воду и защиту от солнца. При ветре попросите перенести выход или подобрать защищённую бухту Ареналя.",
+        "sources": [
+          "cote-sup-local",
+          "cote-tenorio-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "CoteSup · Хосе, местный инструктор",
+        "source": "cote-sup-local",
+        "note": "Уточните точное место встречи, трансфер, размеры досок, формат допуска и пригодность программы для группы.",
+        "phone": "+506 8720 1984",
+        "url": "https://www.cotesup.com/",
+        "email": "chopsart@icloud.com"
+      },
+      {
+        "name": "SINAC · Volcán Tenorio / ACAT",
+        "source": "cote-tenorio-sinac",
+        "note": "Запросите действующие условия допуска на озеро Коте, тип разрешённого судна, вход, часы и согласование частного берега.",
+        "phone": null,
+        "url": "https://www.sinac.go.cr/es/ac/acat/pnvt/paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "cote-own-kayak-packraft",
+      "arenal-cote-2-water",
+      "nuevo-arenal-parque-lago-own"
+    ],
+    "track": null,
+    "galleries": [
+      "cote-sup-local"
+    ],
+    "videos": [
+      "cote-lake-field-video"
+    ]
+  },
+  "cote-own-kayak-packraft": {
+    "stops": [
+      {
+        "point": "nuevo-arenal",
+        "role": "Сбор в Nuevo Arenal",
+        "note": "Гид сообщает точку встречи в центре и доступный транспорт."
+      },
+      {
+        "point": "wave3-cote-centre",
+        "role": "Lago Cote · озеро",
+        "note": "Метка находится на воде. Берег входа и высадки уточняйте у администрации и гида."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как читать регламент",
+        "text": "SINALEVI помечает декрет 39412-MINAE действующим. Статья 23 относится именно к Lago Cote и отдельно отсылает к административному порядку доступа. Подтверждённый режим конкретного спуска запрашивается у управляющей организации.",
+        "sources": [
+          "cote-decree-register",
+          "cote-rule-gaceta",
+          "cote-tenorio-sinac"
+        ]
+      },
+      {
+        "title": "Что подтвердить письменно",
+        "text": "Проверьте, требуется ли отдельная запись, подходит ли складной каяк или пакрафт и кто открывает наземный подъезд. Попросите расположение парковки, места входа и условия по сезону. При неопределённости есть экскурсия местного оператора.",
+        "sources": [
+          "cote-tenorio-sinac",
+          "cote-sup-local"
+        ]
+      },
+      {
+        "title": "Снаряжение",
+        "text": "Перед согласованным выходом проверьте жилет, весло, гермоупаковку и возможность связи. Спланируйте береговой вариант на случай сильного ветра или отказа в допуске.",
+        "sources": [
+          "cote-sup-local",
+          "cote-rule-gaceta"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Volcán Tenorio / ACAT",
+        "source": "cote-tenorio-sinac",
+        "note": "Запросите действующие условия допуска на озеро Коте, тип разрешённого судна, вход, часы и согласование частного берега.",
+        "phone": null,
+        "url": "https://www.sinac.go.cr/es/ac/acat/pnvt/paginas/default.aspx"
+      },
+      {
+        "name": "CoteSup · Хосе, местный инструктор",
+        "source": "cote-sup-local",
+        "note": "Уточните точное место встречи, трансфер, размеры досок, формат допуска и пригодность программы для группы.",
+        "phone": "+506 8720 1984",
+        "url": "https://www.cotesup.com/",
+        "email": "chopsart@icloud.com"
+      }
+    ],
+    "nearby": [
+      "cote-sup-with-guide",
+      "arenal-cote-2-water",
+      "nuevo-arenal-parque-lago-own"
+    ],
+    "track": null,
+    "galleries": [
+      "cote-sup-local"
+    ],
+    "videos": [
+      "cote-lake-field-video"
+    ]
+  },
+  "arenal-cote-2-water": {
+    "stops": [
+      {
+        "point": "nuevo-arenal",
+        "role": "Сбор в Nuevo Arenal",
+        "note": "Гид сообщает точку встречи в центре и доступный транспорт."
+      },
+      {
+        "point": "wave3-cote-centre",
+        "role": "Lago Cote · озеро",
+        "note": "Метка находится на воде. Берег входа и высадки уточняйте у администрации и гида."
+      },
+      {
+        "point": "nuevo-arenal-parque-lago-ramp",
+        "role": "Parque del Lago · первый день",
+        "note": "Согласуйте состояние рампы, парковку и момент выхода на воду."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и еда",
+        "text": "CoteSup публикует Casa Hormiga на 1–6 гостей с горячим душем и простой кухней. Это база на Аренале у La Unión. Попросите точную геометку дома и часы поселения. В La Unión есть магазины и заведения для еды.",
+        "sources": [
+          "cote-hormiga-stay",
+          "cote-sup-local"
+        ]
+      },
+      {
+        "title": "Запасной маршрут",
+        "text": "В программе есть несколько вариантов на Аренале, в том числе защищённая марина и поездка с видом на вулкан. Попросите подтверждение транспорта и выберите бухту по текущему ветру.",
+        "sources": [
+          "cote-sup-local",
+          "cote-sup-field-reviews"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "CoteSup · Хосе, местный инструктор",
+        "source": "cote-sup-local",
+        "note": "Уточните точное место встречи, трансфер, размеры досок, формат допуска и пригодность программы для группы.",
+        "phone": "+506 8720 1984",
+        "url": "https://www.cotesup.com/",
+        "email": "chopsart@icloud.com"
+      },
+      {
+        "name": "SINAC · Volcán Tenorio / ACAT",
+        "source": "cote-tenorio-sinac",
+        "note": "Запросите действующие условия допуска на озеро Коте, тип разрешённого судна, вход, часы и согласование частного берега.",
+        "phone": null,
+        "url": "https://www.sinac.go.cr/es/ac/acat/pnvt/paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "cote-sup-with-guide",
+      "cote-own-kayak-packraft",
+      "nuevo-arenal-parque-lago-own",
+      "tronadora-weekend-roof"
+    ],
+    "track": null,
+    "galleries": [
+      "cote-hormiga-stay",
+      "cote-sup-local"
+    ],
+    "videos": [],
+    "photos": [
+      "arenal"
+    ]
+  },
+  "agujas-kayak-sup-bay": {
+    "stops": [
+      {
+        "point": "wave3-agujas-kayak-base",
+        "role": "База команды в Playa Agujas",
+        "note": "Сверьте точку встречи по схеме владельца. База расположена примерно в 200–250 м от пляжа."
+      },
+      {
+        "point": "wave3-agujas-bay",
+        "role": "Бухта Агухас",
+        "note": "Общий ориентир. Место старта переносится при волнении или на другой прилив."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первый выезд или урок",
+        "text": "На сайте описаны подбор размера SUP, весло, сопровождение и остановка у берега. Для семьи спросите про двойной каяк, правила для детей и маршрут без открытого участка.",
+        "sources": [
+          "agujas-kayak-sup",
+          "agujas-local-experiences"
+        ]
+      },
+      {
+        "title": "Личный опыт",
+        "text": "Qué Buen Lugar описывает утреннюю греблю у скал и обед по соседству. Сводка LocalView отмечает внимание гидов к группе и зависимость сноркелинга от моря.",
+        "sources": [
+          "agujas-bijagual-qbl",
+          "agujas-jaco-localview"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Возьмите одежду для воды, сухую смену, питьё и гермочехол. Перед выездом выясните, что входит в цену и как погодные переносы влияют на бронь.",
+        "sources": [
+          "agujas-kayak-contact",
+          "agujas-kayak-sup"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Kayak Jacó · команда Playa Agujas",
+        "source": "agujas-kayak-contact",
+        "note": "Подтвердите начало, волну, размер жилетов, вариант SUP, трансфер и время возвращения.",
+        "phone": "+506 8732 3131",
+        "url": "https://kayakjaco.com/index.php/contact-us",
+        "email": "kayakjaco@gmail.com"
+      }
+    ],
+    "nearby": [
+      "agujas-kayak-fishing-day",
+      "bijagual-waterfall-hike-7",
+      "agujas-bijagual-weekend-2"
+    ],
+    "track": null,
+    "galleries": [
+      "agujas-bijagual-qbl",
+      "agujas-kayak-sup"
+    ],
+    "videos": []
+  },
+  "agujas-kayak-fishing-day": {
+    "stops": [
+      {
+        "point": "wave3-agujas-kayak-base",
+        "role": "База команды в Playa Agujas",
+        "note": "Сверьте точку встречи по схеме владельца. База расположена примерно в 200–250 м от пляжа."
+      },
+      {
+        "point": "wave3-agujas-bay",
+        "role": "Бухта Агухас",
+        "note": "Общий ориентир. Место старта переносится при волнении или на другой прилив."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Организация и снаряжение",
+        "text": "На странице указано около трёх часов рыбалки, с выходом в 08:00 или 13:30. Включены гид, необходимая экипировка, питьевая вода, фрукты, душ и раздевалка. Подтвердите, в каких условиях группа выходит дальше бухты, и проверьте часы на дату.",
+        "sources": [
+          "agujas-kayak-fishing",
+          "agujas-kayak-contact"
+        ]
+      },
+      {
+        "title": "Прогноз и лицензия",
+        "text": "INCOPESCA требует удостоверение для спортивной рыбалки с плавсредства. Уточните порядок оформления у оператора до выезда. Согласуйте правила улова, время на открытой воде и условия погодного переноса.",
+        "sources": [
+          "agujas-kayak-fishing",
+          "agujas-kayak-sup",
+          "imn-tides-table",
+          "agujas-fishing-incopesca"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Kayak Jacó · команда Playa Agujas",
+        "source": "agujas-kayak-contact",
+        "note": "Подтвердите начало, волну, размер жилетов, вариант SUP, трансфер и время возвращения.",
+        "phone": "+506 8732 3131",
+        "url": "https://kayakjaco.com/index.php/contact-us",
+        "email": "kayakjaco@gmail.com"
+      }
+    ],
+    "nearby": [
+      "agujas-kayak-sup-bay",
+      "herradura-tortuga-costa-cat",
+      "agujas-bijagual-weekend-2"
+    ],
+    "track": null,
+    "galleries": [
+      "agujas-kayak-fishing"
+    ],
+    "videos": []
+  },
+  "bijagual-waterfall-hike-7": {
+    "stops": [
+      {
+        "point": "wave3-bijagual-entry",
+        "role": "Bijagual Waterfall · вход",
+        "note": "Оператор публикует эту координату для визита. Сверьте номер ворот у своего организатора."
+      },
+      {
+        "point": "carara-reception",
+        "role": "Главный вход соседнего национального парка",
+        "note": "Отдельный парк с отдельным билетом, подходит для второй прогулки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какой маршрут считать",
+        "text": "Текущий оператор предлагает размеченный вариант 7 км туда и обратно за 3–4 часа и публикует 20 USD с человека. В старом полевом отчёте другой замер и подход. Скачайте схему владельца и проверьте фактический вход.",
+        "sources": [
+          "bijagual-waterfall-trips",
+          "bijagual-waterfall-map",
+          "bijagual-field-qbl"
+        ]
+      },
+      {
+        "title": "Подъезд и вариант на лошади",
+        "text": "Последняя часть включает горный подъезд от Ruta 34 по Vía 320. В дождь проверьте грунтовку и возможность трансфера. Оператор показывает конный тур с гидом около 8 км и 3,5 часа по отдельной программе.",
+        "sources": [
+          "bijagual-waterfall-trips",
+          "bijagual-waterfall-call",
+          "agujas-bijagual-qbl"
+        ]
+      },
+      {
+        "title": "Обувь и выход на берег",
+        "text": "Подойдут закрытые обувь для мокрой тропы и гермочехол. После ливня проверяйте условия у владельца. На тропе есть ручьи, камни и участки с крутым уклоном.",
+        "sources": [
+          "bijagual-field-hub",
+          "bijagual-waterfall-trips"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bijagual Waterfall · тропы и бронирование",
+        "source": "bijagual-waterfall-call",
+        "note": "Уточните состояние дороги и переправ, время начала, входы и возможность ночёвки на конкретной площадке.",
+        "phone": "+506 8608 9990",
+        "url": "https://bijagualwaterfall.com/contact/",
+        "email": "info@bijagualwaterfall.com"
+      }
+    ],
+    "nearby": [
+      "bijagual-rooftent-visit",
+      "agujas-bijagual-weekend-2",
+      "carara"
+    ],
+    "track": "bijagual-waterfall-map",
+    "galleries": [
+      "bijagual-waterfall-trips",
+      "bijagual-field-qbl"
+    ],
+    "videos": []
+  },
+  "bijagual-rooftent-visit": {
+    "stops": [
+      {
+        "point": "wave3-bijagual-entry",
+        "role": "Bijagual Waterfall · вход",
+        "note": "Оператор публикует эту координату для визита. Сверьте номер ворот у своего организатора."
+      },
+      {
+        "point": "wave3-agujas-bay",
+        "role": "Бухта Агухас · следующая остановка",
+        "note": "Спуск с холмов к берегу, возможность добавить водную программу."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка на крыше и доступ",
+        "text": "Справочник с фото явно перечисляет rooftop tent и рекомендует 4×4. Запросите точку ночёвки перед выездом и уточните, на чьей стороне оформляется бронирование. Тариф дневного тура и стоимость ночёвки проверяйте отдельно. Справочник показывает 7 500 CRC или 15 USD с человека и публикует телефон принимающей стороны. Актуальную стоимость уточняйте в разговоре о ночёвке.",
+        "sources": [
+          "bijagual-camping-roof-directory",
+          "bijagual-waterfall-call"
+        ]
+      },
+      {
+        "title": "Запас на погоду",
+        "text": "Грунтовая дорога на подъёме становится скользкой. Если хозяева ожидают размыв, отложите ночёвку либо выберите домик в районе Карары или Тарколеса.",
+        "sources": [
+          "bijagual-field-qbl",
+          "bijagual-field-hub",
+          "bijagual-waterfall-call"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Александер · контакт кемпинга из Camping Guide",
+        "source": "bijagual-camping-roof-directory",
+        "phone": "+506 8885 2173",
+        "url": "https://wa.me/50688852173",
+        "note": "Владелец, которого указывает справочник. Подтвердите ночёвку с палаткой на крыше, пропуск и геометку ворот."
+      },
+      {
+        "name": "Bijagual Waterfall · тропы и бронирование",
+        "source": "bijagual-waterfall-call",
+        "note": "Уточните состояние дороги и переправ, время начала, входы и возможность ночёвки на конкретной площадке.",
+        "phone": "+506 8608 9990",
+        "url": "https://bijagualwaterfall.com/contact/",
+        "email": "info@bijagualwaterfall.com"
+      }
+    ],
+    "nearby": [
+      "bijagual-waterfall-hike-7",
+      "agujas-bijagual-weekend-2",
+      "carara"
+    ],
+    "track": null,
+    "galleries": [
+      "bijagual-camping-roof-directory",
+      "bijagual-field-qbl"
+    ],
+    "videos": []
+  },
+  "agujas-bijagual-weekend-2": {
+    "stops": [
+      {
+        "point": "wave3-agujas-kayak-base",
+        "role": "База команды в Playa Agujas",
+        "note": "Сверьте точку встречи по схеме владельца. База расположена примерно в 200–250 м от пляжа."
+      },
+      {
+        "point": "wave3-agujas-bay",
+        "role": "Бухта Агухас",
+        "note": "Общий ориентир. Место старта переносится при волнении или на другой прилив."
+      },
+      {
+        "point": "wave3-bijagual-entry",
+        "role": "Bijagual Waterfall · вход",
+        "note": "Оператор публикует эту координату для визита. Сверьте номер ворот у своего организатора."
+      },
+      {
+        "point": "carara-reception",
+        "role": "Carara · лесной резервный вариант",
+        "note": "Билеты, время и тропы проверьте по SINAC."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Переезд между базами",
+        "text": "Дорожная линия от Kayak Jacó к Bijagual составляет около 16,5 км. В мокрый сезон подъезд может занять дольше. Убедитесь, что у принимающей стороны та же точка назначения.",
+        "sources": [
+          "osm-cr-points",
+          "agujas-kayak-contact",
+          "bijagual-waterfall-call"
+        ]
+      },
+      {
+        "title": "Полевой опыт и запас",
+        "text": "Qué Buen Lugar объединил каяк и водопад за один день. Двухдневная схема оставляет запас на прибрежное утро, подтверждённую ночёвку и спокойный проход тропы.",
+        "sources": [
+          "agujas-bijagual-qbl",
+          "bijagual-camping-roof-directory",
+          "carara-sinac-footpaths"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Kayak Jacó · команда Playa Agujas",
+        "source": "agujas-kayak-contact",
+        "note": "Подтвердите начало, волну, размер жилетов, вариант SUP, трансфер и время возвращения.",
+        "phone": "+506 8732 3131",
+        "url": "https://kayakjaco.com/index.php/contact-us",
+        "email": "kayakjaco@gmail.com"
+      },
+      {
+        "name": "Bijagual Waterfall · тропы и бронирование",
+        "source": "bijagual-waterfall-call",
+        "note": "Уточните состояние дороги и переправ, время начала, входы и возможность ночёвки на конкретной площадке.",
+        "phone": "+506 8608 9990",
+        "url": "https://bijagualwaterfall.com/contact/",
+        "email": "info@bijagualwaterfall.com"
+      },
+      {
+        "name": "Александер · контакт кемпинга из Camping Guide",
+        "source": "bijagual-camping-roof-directory",
+        "phone": "+506 8885 2173",
+        "url": "https://wa.me/50688852173",
+        "note": "Владелец, которого указывает справочник. Подтвердите ночёвку с палаткой на крыше, пропуск и геометку ворот."
+      }
+    ],
+    "nearby": [
+      "agujas-kayak-sup-bay",
+      "agujas-kayak-fishing-day",
+      "bijagual-waterfall-hike-7",
+      "bijagual-rooftent-visit",
+      "carara"
+    ],
+    "track": "bijagual-waterfall-map",
+    "galleries": [
+      "agujas-bijagual-qbl",
+      "bijagual-camping-roof-directory"
+    ],
+    "videos": [],
+    "line": "wave3-agujas-bijagual-drive"
+  },
+  "miramar-palmar-rio-seco-36": {
+    "stops": [
+      {
+        "point": "miramar-town",
+        "role": "Мирамар · старт",
+        "note": "Веломагазин, пекарня и вода в центре. Точку парковки согласуйте заранее."
+      },
+      {
+        "point": "wave3-el-palmar",
+        "role": "Эль-Пальмар · южный участок",
+        "note": "Короткий съезд по общественной сети. Убедитесь в допуске дальше от посёлка."
+      },
+      {
+        "point": "wave3-zagala-vieja",
+        "role": "Ориентир Загала-Вьеха",
+        "note": "Посёлок на западной стороне маршрута. Состояние возвратного участка уточняйте в день поездки."
+      },
+      {
+        "point": "wave3-rio-seco-sector",
+        "role": "Район Рио-Секо",
+        "note": "Метка сектора. Точку переправы и условия проезда подтвердите у местных."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и рельеф",
+        "text": "Муниципалитет указывает около 36 км, а csoto18 публикует два дорожных GPS-варианта, 34,24 км и +510 м либо 42,14 км и +734 м. Маршрут опускается к тихоокеанской равнине и возвращается вверх. На карте отдельно показан дорожный отрезок Miramar — Zagala Vieja, подходящий для планирования точки разворота.",
+        "sources": [
+          "miramar-mtb-municipal",
+          "miramar-mtb-accounts",
+          "miramar-roads-canton",
+          "miramar-wikiloc-34",
+          "miramar-wikiloc-42"
+        ]
+      },
+      {
+        "title": "Дорога, вода и еда",
+        "text": "Подтвердите текущий объезд, поскольку муниципальное описание включает переправу. Возьмите запас питья, фонарь для проезжих участков, офлайн-карту, камеру и насос. Проверьте магазины в выходной, пока вы в Мирамаре.",
+        "sources": [
+          "miramar-mtb-municipal",
+          "miramar-palmar-village",
+          "miramar-zagala-field-video"
+        ]
+      },
+      {
+        "title": "Ночёвка по соседству",
+        "text": "По возвращении можно продолжить выходные у Тахо-Альто или подобрать купол в Монтес-де-Оро. Для гравийника оцените состояние рыхлого грунта и шаг проезда со своим опытом.",
+        "sources": [
+          "miramar-mtb-accounts",
+          "piedra",
+          "domos-tajo-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Montes de Oro · местная велосхема и службы",
+        "source": "miramar-mtb-municipal",
+        "note": "Муниципальный маршрут даёт местные ориентиры. За свежим состоянием съездов, переправы и прокатом обратитесь в местный веломагазин, отмеченный автором.",
+        "phone": null,
+        "url": "https://montesdeoro.go.cr/ruta-mtb-miramar-el-palmar-rio-seco-miramar/"
+      }
+    ],
+    "nearby": [
+      "miramar-mtb-domos-weekend-2",
+      "domos-tajo-alto",
+      "piedra-angel",
+      "encanto-summit-short"
+    ],
+    "track": "miramar-wikiloc-34",
+    "galleries": [
+      "miramar-mtb-municipal",
+      "miramar-palmar-village"
+    ],
+    "videos": [
+      "miramar-zagala-field-video"
+    ],
+    "line": "wave3-miramar-zagala-road"
+  },
+  "miramar-mtb-domos-weekend-2": {
+    "stops": [
+      {
+        "point": "miramar-town",
+        "role": "Мирамар · старт",
+        "note": "Веломагазин, пекарня и вода в центре. Точку парковки согласуйте заранее."
+      },
+      {
+        "point": "wave3-el-palmar",
+        "role": "Эль-Пальмар · южный участок",
+        "note": "Короткий съезд по общественной сети. Убедитесь в допуске дальше от посёлка."
+      },
+      {
+        "point": "wave3-zagala-vieja",
+        "role": "Ориентир Загала-Вьеха",
+        "note": "Посёлок на западной стороне маршрута. Состояние возвратного участка уточняйте в день поездки."
+      },
+      {
+        "point": "wave3-rio-seco-sector",
+        "role": "Район Рио-Секо",
+        "note": "Метка сектора. Точку переправы и условия проезда подтвердите у местных."
+      },
+      {
+        "point": "domos-tajo-pin",
+        "role": "Тахо-Альто · вариант ночёвки",
+        "note": "Геометка куполов Calle Pavones. Сверьте парковку, часы регистрации и условия заезда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как распределить нагрузку",
+        "text": "Первый день отведите под велосипед и дорогу к ночёвке засветло. Второй — короткую прогулку либо длинное прохождение в районе Эль-Энканто с местным гидом. Полный круг требует заметно больше усилий, чем дорожный разворот.",
+        "sources": [
+          "miramar-mtb-municipal",
+          "miramar-mtb-accounts",
+          "domos-tajo-owner"
+        ]
+      },
+      {
+        "title": "Варианты размещения",
+        "text": "Domos Finca El Mirador и Piedra Ángel предлагают разные точки въезда. Выберите место заранее и отдельно проверьте возможность оставить велосипед и поесть по своему графику.",
+        "sources": [
+          "domos-tajo-owner",
+          "piedra"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Montes de Oro · местная велосхема и службы",
+        "source": "miramar-mtb-municipal",
+        "note": "Муниципальный маршрут даёт местные ориентиры. За свежим состоянием съездов, переправы и прокатом обратитесь в местный веломагазин, отмеченный автором.",
+        "phone": null,
+        "url": "https://montesdeoro.go.cr/ruta-mtb-miramar-el-palmar-rio-seco-miramar/"
+      }
+    ],
+    "nearby": [
+      "miramar-palmar-rio-seco-36",
+      "domos-tajo-alto",
+      "piedra-angel",
+      "encanto-summit-short",
+      "aranjuez-encanto"
+    ],
+    "track": "miramar-mtb-municipal",
+    "galleries": [
+      "miramar-palmar-village"
+    ],
+    "videos": [
+      "miramar-zagala-field-video"
+    ],
+    "line": "wave3-miramar-zagala-road"
+  },
+  "vueltas-lodge-camp-dota": {
+    "stops": [
+      {
+        "point": "wave3-vueltas-lodge",
+        "role": "Лодж и район троп",
+        "note": "По координатам из отчёта. Фактический въезд, сухую платформу и санузлы подтвердите у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Тропы и подход",
+        "text": "Qué Buen Lugar описывает Los Milenarios, небольшие водопады и последние 300 м до смотровой. Варианты на территории доходят по их данным до 16 км. Выберите длину по состоянию троп, погоде и темпу группы.",
+        "sources": [
+          "vueltas-lodge-qbl",
+          "vueltas-lodge-map"
+        ]
+      },
+      {
+        "title": "Кемпинг и ночной холод",
+        "text": "На выезде авторов застали сильные осадки. Возьмите защиту от воды, тёплый спальник и сухой слой на ночь. Запросите наличие горячего душа, еды и расписание входа на территорию.",
+        "sources": [
+          "vueltas-lodge-qbl",
+          "vueltas-lodge-address"
+        ]
+      },
+      {
+        "title": "Точный адрес",
+        "text": "Страница размещения указывает Tres de Junio, Copey de Dota, район 71-го км. Координата начала прогулки рядом с этим районом. Уточните грунтовую часть после дождей.",
+        "sources": [
+          "vueltas-lodge-address",
+          "vueltas-lodge-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cerro Vueltas Lodge · ночёвка в Доте",
+        "source": "vueltas-lodge-address",
+        "note": "Проверьте места, как добраться, точку стоянки, тёплый душ и тропы.",
+        "phone": "+506 8940 8284",
+        "url": "https://www.instagram.com/lasvueltaslodge/"
+      }
+    ],
+    "nearby": [
+      "dota-roof-trout-coffee-2",
+      "selva-madre-rooftent-trout",
+      "savegre"
+    ],
+    "track": null,
+    "galleries": [
+      "vueltas-lodge-qbl",
+      "vueltas-lodge-address"
+    ],
+    "videos": [
+      "vueltas-lodge-qbl-video"
+    ]
+  },
+  "uran-herradura-camp-3": {
+    "stops": [
+      {
+        "point": "herradura-rivas-area",
+        "role": "Эррадура-де-Ривас · старт и первая ночь",
+        "note": "Гид сообщит место встречи и порядок переезда к тропе."
+      },
+      {
+        "point": "wave3-paso-de-los-indios",
+        "role": "Paso de los Indios · район горной ночёвки",
+        "note": "Картографический ориентир. Точный вход в укрытие и место установки палатки назначает принимающая сторона."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Доступ и документы",
+        "text": "SINAC указывает ADI Herradura как контакт местного сектора. Согласуйте доступ и проводника до оплаты размещения. Проверьте, требуется ли личная явка в офис парка накануне, и сверяйте документ, указанный при записи.",
+        "sources": [
+          "uran-herradura-sinac",
+          "uran-herradura-use-rules",
+          "uran-3-day-guide"
+        ]
+      },
+      {
+        "title": "Ночёвка и высота",
+        "text": "Оператор описывает ночлег у Paso de los Indios и выход к вершине в третий день. В таблице SINAC высота Cerro Urán указана 3 664 м. Вид жилья на перевале, вода и питание зависят от выбранной программы.",
+        "sources": [
+          "uran-3-day-guide",
+          "uran-herradura-sinac",
+          "uran-refuge-local-video"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Для ночи и раннего старта нужны тёплый и непромокаемый слои, запас работы налобного фонаря, обувь с хорошим сцеплением, сухая одежда и защита от солнца. У гида уточните съём воды, высотный темп и порядок переноса багажа.",
+        "sources": [
+          "uran-3-day-guide",
+          "uran-community-field"
+        ]
+      },
+      {
+        "title": "Другой вариант перехода",
+        "text": "Вариант Эррадура — Уран — Чиррипо — Base Crestones оформляется отдельно. В отчёте Wikiloc показан именно вариант через Чиррипо. Для плана на 37 км пользуйтесь схемой выбранного проводника и рассчитывайте возврат в Эррадуру.",
+        "sources": [
+          "uran-local-field-track",
+          "uran-3-day-guide",
+          "uran-herradura-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ADI Herradura · местный допуск на Cerro Urán",
+        "source": "uran-herradura-sinac",
+        "note": "Запросите дату, допуск местного сектора, формат лагеря и команду сопровождения.",
+        "phone": "+506 7129 9812",
+        "url": "https://www.sinac.go.cr/es/ac/aclap/pnch/paginas/default.aspx"
+      },
+      {
+        "name": "Costarican Adventures · поездка с гидом",
+        "source": "uran-3-day-guide",
+        "note": "Проверьте состав пакета, транспорт до тропы, связь, питание и перенос багажа.",
+        "phone": "+506 8680 8236",
+        "url": "https://www.costarican-adventures.com/producto/uran-route-hike-cost-per-person/"
+      }
+    ],
+    "nearby": [
+      "chirripo-herradura",
+      "chirripo",
+      "chirripo-jeronimo"
+    ],
+    "track": "uran-3-day-guide",
+    "galleries": [
+      "uran-community-field"
+    ],
+    "videos": [
+      "uran-refuge-local-video"
+    ]
+  },
+  "monteverde-finca-madre-tierra": {
+    "stops": [
+      {
+        "point": "wave3-belmar-contact",
+        "role": "Hotel Belmar · запрос и связь",
+        "note": "Уточните назначенную координату фермы и порядок приезда непосредственно у команды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Варианты занятия",
+        "text": "Сайт фермы описывает знакомство с хозяйством, продуктами и конный вариант. Если едете с маленькими детьми, запросите короткий наземный визит и уточните возраст, условия подхода и доступность туалета. Осенью или зимой уточните, какие занятия с кофе, тростником и сыром проходят на вашу дату.",
+        "sources": [
+          "finca-madre-tierra-owner",
+          "finca-madre-tierra-belmar",
+          "finca-madre-tierra-farm-tour",
+          "finca-madre-tierra-local-broker"
+        ]
+      },
+      {
+        "title": "От публикации к поездке",
+        "text": "В публикации Hotel Belmar изученный текст связывает продукты фермы с кухней лоджа. Старый гостевой отчёт описывает фермерские занятия и дегустацию. Текущую программу и время следует уточнить при выборе даты.",
+        "sources": [
+          "finca-madre-tierra-travel-post",
+          "finca-madre-tierra-authors",
+          "finca-madre-tierra-contact"
+        ]
+      },
+      {
+        "title": "Обувь и питание",
+        "text": "Возьмите закрытую обувь для сельской территории и одежду от дождя. При семейном визите сообщите о диетических ограничениях и уточните, проводится ли дегустация или обед.",
+        "sources": [
+          "finca-madre-tierra-owner",
+          "finca-madre-tierra-belmar"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Madre Tierra · команда Hotel Belmar",
+        "source": "finca-madre-tierra-contact",
+        "note": "Экскурсии для семьи, трансфер и координата въезда в хозяйство.",
+        "phone": "+506 2645 5201",
+        "url": "https://www.fincamadretierra.com/contact-us"
+      }
+    ],
+    "nearby": [
+      "monteverde-reserve",
+      "santa-elena-reserve-local"
+    ],
+    "track": null,
+    "galleries": [
+      "finca-madre-tierra-owner",
+      "finca-madre-tierra-belmar",
+      "finca-madre-tierra-farm-tour"
+    ],
+    "videos": []
+  }
+}
