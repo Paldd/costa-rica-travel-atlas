@@ -7719,5 +7719,242 @@
         ]
       }
     ]
+  },
+  {
+    "id": "nicoya-gravel-expedition-9",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Никойя за девять дней · шесть этапов на гравийном велосипеде",
+    "native": "The Gravel Expedition · Paquera · Santa Teresa · Nosara · Tamarindo · Brasilito",
+    "level": "expedition",
+    "days": 9,
+    "activities": [
+      "cycling",
+      "gravel",
+      "mtb",
+      "beach",
+      "forest",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "nicoya-gravel-mya-overview",
+      "nicoya-gravel-mya-dry",
+      "nicoya-gravel-mya-wet",
+      "paquera-bike-ticket",
+      "pinilla-activity-index"
+    ],
+    "summary": "Шесть велодней от парома в Пакере до Брасилито. Ориентир 356 км и около 7 821 м набора для опубликованной схемы. Объявлены выезды 23–31 января и 3–11 июля 2027.",
+    "plan": "По две ночёвки в Санта-Тересе, Носаре и Тамариндо. В июле для длинного берегового этапа у крупных устьев предусмотрен объезд по внутренним дорогам.",
+    "conditions": "Сезонный объезд может менять фактическую длину и набор. Запросите действующие карты, подвоз, условия ночёвки, перевозку батареи и вариант короткого дня у организатора.",
+    "distance": 356,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сбор и проверка велосипеда у Сан-Хосе",
+        "note": "Проверьте посадку, давление, тормоза и подготовьте к парому вещи, свет, ремкомплект и запас питания.",
+        "stops": [],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Паром в Пакеру и 46,5 км до Санта-Тересы",
+        "note": "После переправы дорога через Тамбор и Кобано, примерно +915 м. Оставьте время на встречу в терминале и пересадку.",
+        "stops": [
+          "paquera-santa-teresa-gravel-46"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "paquera-bike-ticket"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Лепанто — Санта-Тереса · 55,8 км",
+        "note": "Подвоз к внутреннему берегу. Ранний подъём на хребет и спуск к Санта-Тересе. Набор около 1 644 м.",
+        "stops": [
+          "lepanto-santa-teresa-gravel-56"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Из Санта-Тересы в Носару · около 101 км сухим вариантом",
+        "note": "Остановки и питание запланируйте до съезда к побережью. В июле нужно подтвердить дорожные обходы устьев и итоговую нагрузку.",
+        "stops": [
+          "santa-teresa-nosara-gravel-101"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Кольцо Носары и Остионаля · 69,3 км",
+        "note": "Самый большой набор программы, около 2 632 м. Заранее выберите режим поддержки и зарядки, если оператор подтвердит e‑bike.",
+        "stops": [
+          "nosara-gravel-reina-69"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-overview",
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Носара — Тамариндо · 59,2 км",
+        "note": "Прибрежные посёлки и выбор остановки в Сан-Хуанильо или Авельянас. Уточните допуск у Hacienda Pinilla.",
+        "stops": [
+          "nosara-tamarindo-gravel-59"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "pinilla-activity-index"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Тамариндо — Брасилито · 23,8 км",
+        "note": "Короткий велодень с финишем у Брасилито. Прогулку к Кончалю и возврат к жилью планируйте отдельно.",
+        "stops": [
+          "tamarindo-brasilito-gravel-24"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Обратный трансфер к Сан-Хосе",
+        "note": "День без велоэтапа. Подтвердите размер перевозимого бокса, время вывоза и место ночёвки.",
+        "stops": [],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Отъезд",
+        "note": "Заложите время на упаковку велосипеда и частный переезд к аэропорту по программе организатора.",
+        "stops": [],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      }
+    ],
+    "regions": [
+      "guanacaste"
+    ]
+  },
+  {
+    "id": "arenal-bike-camp-3",
+    "kind": "trip",
+    "region": "north",
+    "title": "Ареналь на три дня · MTB, кемпинг с видом и озеро",
+    "native": "Arenal · El Castillo · Camping y Mirador El Castillo · Lago Arenal",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "cycling",
+      "mtb",
+      "gravel",
+      "camping",
+      "campfire",
+      "lake",
+      "kayak",
+      "sup",
+      "volcano",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "bikearenal-castillo-map",
+      "el-castillo-camp-host-listing",
+      "desafio-tumbas-24-owner",
+      "lake-rent"
+    ],
+    "summary": "Два разных велодня с базой в Эль-Кастильо. Третий день можно оставить для утреннего выхода на каяке или SUP.",
+    "plan": "Дамба и короткий вариант MTB в первый день. Во второй — местный маршрут до Тумбаса при подходящей воде или катание по сухому дорожному отрезку. В третий день — озеро и выезд.",
+    "conditions": "Ночёвку, проезд к площадке, место для очага и возможность поставить крышную палатку согласуйте заранее. Программу на воде проводите после проверки ветра и волны.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Дамба, Эль-Кастильо и ночёвка",
+        "note": "Выберите короткий велопроезд с гидом или дорожную связку. Заселяйтесь до сумерек, спросите хозяев о грунтовом подъезде и расположении палатки.",
+        "stops": [
+          "arenal-dam-el-castillo-mtb",
+          "el-castillo-fogata-camp"
+        ],
+        "sources": [
+          "bikearenal-castillo-map",
+          "el-castillo-camp-host-listing"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Тумбас или короткая велопрогулка",
+        "note": "Длинный выезд с проводником подходит активной группе. При высокой воде оставьте короткий объезд по открытой дороге, свободное время у лагеря или прогулку.",
+        "stops": [
+          "arenal-tumbas-guided-mtb-24",
+          "arenal-dam-el-castillo-mtb"
+        ],
+        "sources": [
+          "desafio-tumbas-24-owner",
+          "bikearenal-castillo-map"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Каяк или SUP у Ареналя",
+        "note": "При спокойной погоде сделайте утренний выход с местной базой проката. После возвращения проверьте, что снаряжение высохло и велосипеды надёжно закреплены.",
+        "stops": [
+          "arenal-paddle",
+          "el-castillo-fogata-camp"
+        ],
+        "sources": [
+          "lake-rent",
+          "el-castillo-camp-host-listing"
+        ]
+      }
+    ]
   }
 ]

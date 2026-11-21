@@ -129,8 +129,10 @@ def inspect(feed, known, publisher_archives=()):
             url = urllib.parse.urlunsplit((location.scheme, location.netloc, location.path, "", ""))
             if location.scheme != "https" or host(url) != host(fetched) or (rules and not rules.can_fetch(AGENT, url)):
                 continue
-            if not any(location.path.lower().startswith(path) and
-                       location.path.rstrip("/") != path.rstrip("/") for path in feed["paths"]):
+            path = location.path.lower()
+            matches_prefix = any(path.startswith(prefix) and path.rstrip("/") != prefix.rstrip("/")
+                                 for prefix in feed.get("paths", ()))
+            if not matches_prefix and path.rstrip("/") not in feed.get("exactPaths", ()):
                 continue
             candidate = canonical(url)
             if candidate == canonical(fetched):
@@ -155,7 +157,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", type=Path, default=Path(".cache/refresh.json"))
     config = parser.parse_args()
-    feeds = [feed for feed in json.loads((DATA / "feeds.json").read_text()) if feed.get("paths")]
+    feeds = [feed for feed in json.loads((DATA / "feeds.json").read_text()) if feed.get("paths") or feed.get("exactPaths")]
     sources = {row["id"]: canonical(row["url"]) for row in read_table(DATA / "sources.tsv", SOURCE_FIELDS)}
     known = set(sources.values())
     publisher_archives = {sources[row["archive"]] for row in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS)

@@ -1,0 +1,1064 @@
+{
+  "arenal-dam-el-castillo-mtb": {
+    "stops": [
+      {
+        "point": "arenal-dam",
+        "role": "Дамба · район начала у Ареналя",
+        "note": ""
+      },
+      {
+        "point": "el-castillo",
+        "role": "El Castillo · посёлок и точка разворота",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина и карта",
+        "text": "Bike Arenal показывает 13–29 км, гравий и отдельные песчаные или каменистые места. Для самостоятельной поездки на карте нанесён дорожный вариант около 23,5 км туда и обратно. Тропу под конкретный возраст и размер группы согласуют с гидом.",
+        "sources": [
+          "bikearenal-castillo-map",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Транспорт и велосипед",
+        "text": "У оператора около четырёх часов вместе со встречей, остановками и переездом. В комплекте велосипед, шлем и транспорт поддержки. Согласуйте рост ребёнка и способ перевозки, если он ещё не ездит сам.",
+        "sources": [
+          "bikearenal-owner",
+          "bikearenal-castillo-map"
+        ]
+      },
+      {
+        "title": "Что видно по дороге",
+        "text": "Детали покрытия и темпа описаны в отзывах на странице Bike Arenal. Для самостоятельного выезда возьмите яркую одежду, задний свет, ремнабор, воду и дождевик. Пешеходные зоны и ворота парка имеют собственный режим.",
+        "sources": [
+          "bikearenal-castillo-map",
+          "fortuna-services-castillo-bike"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bike Arenal · команда и прокат",
+        "source": "bikearenal-owner",
+        "note": "Согласуйте длину, размер велосипеда, формат для ребёнка, трансфер и покрытие.",
+        "url": "https://wa.me/50671043315",
+        "phone": "+506 2479 9020",
+        "email": "info@bikearenal.com"
+      }
+    ],
+    "galleries": [
+      "bikearenal-castillo-map",
+      "fortuna-services-castillo-bike"
+    ],
+    "nearby": [
+      "arenal-tumbas-guided-mtb-24",
+      "el-castillo-fogata-camp",
+      "arenal-paddle"
+    ],
+    "track": "bikearenal-castillo-map",
+    "connectStops": false,
+    "photos": [
+      "arenal-dam"
+    ],
+    "line": "dam-castillo-road-bike-line"
+  },
+  "arenal-tumbas-guided-mtb-24": {
+    "stops": [
+      {
+        "point": "fortuna-park",
+        "role": "Ла-Фортуна · район трансфера",
+        "note": ""
+      },
+      {
+        "point": "arenal-dam",
+        "role": "Район озера и выезда",
+        "note": "Оператор подтверждает точную точку Pedal & Paddle и выбранную ветку."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Программа и ограничения",
+        "text": "Организатор указывает грунтовые дороги, фермы, дорожки в лесу и переходы через воду. Выясните, какой участок группа проедет в день визита и сколько времени останется на остановки. В условия входит гид, шлем и велосипед.",
+        "sources": [
+          "desafio-tumbas-24-owner"
+        ]
+      },
+      {
+        "title": "Вода на тропе",
+        "text": "Переход Caño Negro зависит от уровня реки. Осадки могут изменить старт, разворот и программу. Подход к Эль-Кастильо с Bike Arenal даёт другой вариант выезда у Ареналя.",
+        "sources": [
+          "desafio-tumbas-24-owner",
+          "bikearenal-castillo-map"
+        ]
+      },
+      {
+        "title": "Перед выходом",
+        "text": "Возьмите закрытую обувь, защиту от солнца, воду и сухую смену. Уточните посадку ребёнка, весовой предел и переезд обратно. Тур проходит у Ареналя, в другом районе, чем одноимённый заповедник у Лос-Чилес.",
+        "sources": [
+          "desafio-tumbas-24-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Desafío Adventure Company",
+        "source": "desafio-tumbas-24-owner",
+        "note": "Подтвердите базу, допустимый вес, наличие велосипеда нужного размера и решение по уровню реки.",
+        "url": "https://www.desafiocostarica.com/service/mountain-bike-around-arenal-lake-tumbas/"
+      },
+      {
+        "name": "Bike Arenal · команда и прокат",
+        "source": "bikearenal-owner",
+        "note": "Согласуйте длину, размер велосипеда, формат для ребёнка, трансфер и покрытие.",
+        "url": "https://wa.me/50671043315",
+        "phone": "+506 2479 9020",
+        "email": "info@bikearenal.com"
+      }
+    ],
+    "galleries": [
+      "desafio-tumbas-24-owner"
+    ],
+    "nearby": [
+      "arenal-dam-el-castillo-mtb",
+      "arenal-paddle"
+    ],
+    "connectStops": false,
+    "photos": [
+      "arenal-open-aerial"
+    ]
+  },
+  "cocles-punta-uva-bike-kayak": {
+    "stops": [
+      {
+        "point": "caribeans-cocles-cafe",
+        "role": "Коклес · ориентир старта у кафе",
+        "note": ""
+      },
+      {
+        "point": "cocles-cariblue-road",
+        "role": "Коклес · выход на дорожный коридор",
+        "note": ""
+      },
+      {
+        "point": "punta-uva-shore-area",
+        "role": "Пунта-Ува · район встречи у воды",
+        "note": "Точный спуск в Eduardo Creek определяет организатор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расстояние и покрытие",
+        "text": "Линия велоотрезка от Коклеса до Пунта-Ува около 7,6 км. Вернуться можно той же дорогой, примерно 15,1 км в обе стороны. Водная часть по Eduardo Creek зависит от притока и обратного времени.",
+        "sources": [
+          "osm-cr-points",
+          "aguas-claras-cocles-punta-uva"
+        ]
+      },
+      {
+        "title": "Кому подходит",
+        "text": "В районе ездят на простых городских велосипедах. При поездке с детьми проверьте размер, тормоза и готовность ехать вместе с машинами. Если общий поток не подходит, попросите трансфер к месту спуска.",
+        "sources": [
+          "aguas-claras-cocles-punta-uva",
+          "aguas-claras-activity-index"
+        ]
+      },
+      {
+        "title": "Как совместить с водой",
+        "text": "Сохраните место стоянки, возьмите гермомешок, воду, закрываемую обувь и подберите спасжилет по размеру. Согласуйте именно выход в ручей. При подъёме воды или сильном прибое оставьте пляжную прогулку.",
+        "sources": [
+          "aguas-claras-cocles-punta-uva"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aguas Claras · консьерж в Пунта-Коклес",
+        "source": "aguas-claras-cocles-punta-uva",
+        "note": "Уточните велосипед для гостя, детский размер, сторонний прокат и контакты гида на каяке.",
+        "url": "https://hotelaguasclaras.com/punta-uva/",
+        "phone": "+506 2750 0131"
+      }
+    ],
+    "galleries": [
+      "aguas-claras-cocles-punta-uva"
+    ],
+    "nearby": [
+      "puerto-viejo-bike-manzanillo"
+    ],
+    "connectStops": false,
+    "photos": [
+      "caribe-punta-uva"
+    ],
+    "line": "cocles-punta-uva-ruta256-bike-line"
+  },
+  "sarapiqui-tirimbina-mtb-34": {
+    "stops": [
+      {
+        "point": "sarapiqui-tirimbina-town-mtb",
+        "role": "Тиримбина · район старта локального круга",
+        "note": ""
+      },
+      {
+        "point": "sarapiqui-la-virgen-area",
+        "role": "La Virgen · ориентир сервиса и встречи",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Отметки автора",
+        "text": "На записи 34,14 км, набор 549 м и 3 часа 38 минут движения. Дневник отмечает крутые уклоны и техническое покрытие. Общее время автора около пяти часов.",
+        "sources": [
+          "sarapiqui-tirimbina-mtb-ride"
+        ]
+      },
+      {
+        "title": "План выходного дня",
+        "text": "Размещение, парковку и пешие экскурсии уточните отдельно у Tirimbina. Если планируете сочетать велосипед и воду, лучше выделить два дня и оставить время на перемещения между Ла-Вирхен и Чиламате.",
+        "sources": [
+          "sarapiqui-tirimbina-official",
+          "sarapiqui-ict-guide"
+        ]
+      },
+      {
+        "title": "Что брать",
+        "text": "Нужны исправные тормоза, шлем, насос, запаска, достаточная вода и скачанная карта. Для технической части уточните недавнее состояние и право проезда у местного человека.",
+        "sources": [
+          "sarapiqui-tirimbina-mtb-ride",
+          "sarapiqui-ict-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tirimbina · заповедник и размещение",
+        "source": "sarapiqui-tirimbina-official",
+        "note": "Попросите подтвердить место сбора, возможность оставить машину и доступ к тропам по назначению.",
+        "url": "https://www.tirimbina.org/"
+      }
+    ],
+    "galleries": [
+      "sarapiqui-tirimbina-mtb-ride",
+      "sarapiqui-tirimbina-official"
+    ],
+    "nearby": [
+      "sarapiqui-rental-doki",
+      "sarapiqui-float",
+      "sarapiqui-jungle-kayak-10"
+    ],
+    "track": "sarapiqui-tirimbina-mtb-ride",
+    "connectStops": false
+  },
+  "gfaa-cartago-sarapiqui-155-2027": {
+    "stops": [
+      {
+        "point": "gfaa-metropoli-start-area",
+        "role": "Картаго · район старта у Paseo Metrópoli",
+        "note": ""
+      },
+      {
+        "point": "paraiso",
+        "role": "Параисо · район прохождения",
+        "note": ""
+      },
+      {
+        "point": "gfaa-angostura-area",
+        "role": "Ангостура · ориентир и район старта среднего формата",
+        "note": ""
+      },
+      {
+        "point": "gfaa-villalobos-area",
+        "role": "Colonia Villalobos · район финиша",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два формата",
+        "text": "Полный заезд стартует в Картаго, средний на 99 км — у Ангостуры. Финиш общий. Длина и набор взяты из действующей схемы организатора. Пины показывают районы, официальную линию и схему движения открывайте на странице события.",
+        "sources": [
+          "gfaa-current",
+          "gfaa-2027-report",
+          "gfaa-metropoli-osm"
+        ]
+      },
+      {
+        "title": "Подготовка велосипеда",
+        "text": "Проверьте шлем, тормоза, питание, воду, запасную камеру и насос. Уточните правила зачёта, времени старта, поддержки и выезда из финишной зоны через организатора.",
+        "sources": [
+          "gfaa-current"
+        ]
+      },
+      {
+        "title": "После финиша",
+        "text": "Организатор публикует отдельное предложение транспорта. Проверьте перевозку велосипеда, время отправления и куда довозят. Для близких уточните, где смотреть финиш.",
+        "sources": [
+          "gfaa-current",
+          "gfaa-2027-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Gran Fondo Andrey Amador · запись, трасса, трансфер",
+        "source": "gfaa-current",
+        "note": "Уточните точку старта, окна доступа, актуальную схему и возврат с велосипедом. На сайте есть ссылка на транспорт.",
+        "url": "https://www.gfaacr.com/"
+      }
+    ],
+    "galleries": [
+      "gfaa-current"
+    ],
+    "nearby": [
+      "gfaa-99-2027",
+      "orosi-cachi-224-32"
+    ],
+    "track": "gfaa-current",
+    "connectStops": false
+  },
+  "arenal-epic-short-40-archive": {
+    "stops": [
+      {
+        "point": "epic-zeta13-area",
+        "role": "Район старта и финиша",
+        "note": ""
+      },
+      {
+        "point": "epic-la-torre-local",
+        "role": "La Torre · район двух пунктов",
+        "note": ""
+      },
+      {
+        "point": "epic-santa-eulalia",
+        "role": "Santa Eulalia · разворот короткого круга",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина по описанию организатора",
+        "text": "В заголовке указано 45 км, таблица даёт 40 км и набор 1 150 м. Есть архивная категория e‑bike.",
+        "sources": [
+          "arenal-epic-archive-short",
+          "arenal-epic-2026-owner"
+        ]
+      },
+      {
+        "title": "Частные участки и геометрия",
+        "text": "На карте отмечены опубликованные районы. В технических страницах остались описания разных выпусков, рядом с полем GPX нет актуальной загрузки. У организатора запросите файл конкретного года и отдельно спросите разрешение на тренировочный проход.",
+        "sources": [
+          "arenal-epic-archive-short",
+          "arenal-epic-archive-contact"
+        ]
+      },
+      {
+        "title": "Снаряжение и обстановка",
+        "text": "Репортаж марта 2026 показывает фактическое покрытие в день гонки. Для тренировки подготовьте воду, питание, шлем, яркий задний свет и навигацию. За пределами события заранее найдите точки пополнения воды и доступные объезды.",
+        "sources": [
+          "arenal-epic-2026-field-video",
+          "arenal-epic-2026-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Epic · организатор",
+        "source": "arenal-epic-archive-contact",
+        "note": "Запросите схему нужного выпуска и текущие варианты для тренировок.",
+        "url": "https://www.arenalepic.com/contacto.html",
+        "email": "info@arenalepic.com"
+      },
+      {
+        "name": "Bike Arenal · команда и прокат",
+        "source": "bikearenal-owner",
+        "note": "Согласуйте длину, размер велосипеда, формат для ребёнка, трансфер и покрытие.",
+        "url": "https://wa.me/50671043315",
+        "phone": "+506 2479 9020",
+        "email": "info@bikearenal.com"
+      }
+    ],
+    "galleries": [
+      "arenal-epic-archive-gallery",
+      "arenal-epic-archive-short"
+    ],
+    "videos": [
+      "arenal-epic-2026-field-video"
+    ],
+    "nearby": [
+      "arenal-dam-el-castillo-mtb",
+      "vuelta-arenal-107",
+      "arenal-bike-camp-3"
+    ],
+    "track": "arenal-epic-archive-short",
+    "connectStops": false
+  },
+  "arenal-epic-mid-90-archive": {
+    "stops": [
+      {
+        "point": "epic-zeta13-area",
+        "role": "Район старта и финиша",
+        "note": ""
+      },
+      {
+        "point": "epic-la-torre-local",
+        "role": "La Torre · горный ориентир",
+        "note": ""
+      },
+      {
+        "point": "epic-venado-village",
+        "role": "Венадо · посёлок на трассе",
+        "note": ""
+      },
+      {
+        "point": "epic-mata-de-cana",
+        "role": "Mata de Caña · район разворота у озера",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина по описанию организатора",
+        "text": "Организатор указывает 90 км и +2 350 м, грунт и быстрые асфальтовые отрезки. В опубликованных категориях были gravel и e‑bike.",
+        "sources": [
+          "arenal-epic-archive-mid",
+          "arenal-epic-2026-owner"
+        ]
+      },
+      {
+        "title": "Частные участки и геометрия",
+        "text": "На карте отмечены опубликованные районы. В технических страницах остались описания разных выпусков, рядом с полем GPX нет актуальной загрузки. У организатора запросите файл конкретного года и отдельно спросите разрешение на тренировочный проход.",
+        "sources": [
+          "arenal-epic-archive-mid",
+          "arenal-epic-archive-contact"
+        ]
+      },
+      {
+        "title": "Снаряжение и обстановка",
+        "text": "Репортаж марта 2026 показывает фактическое покрытие в день гонки. Для тренировки подготовьте воду, питание, шлем, яркий задний свет и навигацию. За пределами события заранее найдите точки пополнения воды и доступные объезды.",
+        "sources": [
+          "arenal-epic-2026-field-video",
+          "arenal-epic-2026-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Epic · организатор",
+        "source": "arenal-epic-archive-contact",
+        "note": "Запросите схему нужного выпуска и текущие варианты для тренировок.",
+        "url": "https://www.arenalepic.com/contacto.html",
+        "email": "info@arenalepic.com"
+      },
+      {
+        "name": "Bike Arenal · команда и прокат",
+        "source": "bikearenal-owner",
+        "note": "Согласуйте длину, размер велосипеда, формат для ребёнка, трансфер и покрытие.",
+        "url": "https://wa.me/50671043315",
+        "phone": "+506 2479 9020",
+        "email": "info@bikearenal.com"
+      }
+    ],
+    "galleries": [
+      "arenal-epic-archive-gallery",
+      "arenal-epic-archive-mid"
+    ],
+    "videos": [
+      "arenal-epic-2026-field-video"
+    ],
+    "nearby": [
+      "arenal-dam-el-castillo-mtb",
+      "vuelta-arenal-107",
+      "arenal-bike-camp-3"
+    ],
+    "track": "arenal-epic-archive-mid",
+    "connectStops": false
+  },
+  "arenal-epic-long-148-archive": {
+    "stops": [
+      {
+        "point": "epic-zeta13-area",
+        "role": "Район старта и финиша",
+        "note": ""
+      },
+      {
+        "point": "epic-venado-village",
+        "role": "Венадо · один из первых районов",
+        "note": ""
+      },
+      {
+        "point": "epic-mata-de-cana",
+        "role": "Mata de Caña · район северного берега",
+        "note": ""
+      },
+      {
+        "point": "wave3-cote-centre",
+        "role": "Озеро Коте · природный ориентир",
+        "note": ""
+      },
+      {
+        "point": "epic-sabalito-tilaran",
+        "role": "Sabalito · район перед ветровыми станциями",
+        "note": ""
+      },
+      {
+        "point": "tronadora-town",
+        "role": "Тронадора · район остановки",
+        "note": ""
+      },
+      {
+        "point": "el-castillo",
+        "role": "Эль-Кастильо · район последнего пункта",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина по описанию организатора",
+        "text": "Название на странице — 100 Millas. В технической таблице — 148 км и около +3 500 м. Два описания расходятся по положению контрольных пунктов. Для версии следующего выпуска понадобится официальный трек.",
+        "sources": [
+          "arenal-epic-archive-long",
+          "arenal-epic-2026-owner"
+        ]
+      },
+      {
+        "title": "Частные участки и геометрия",
+        "text": "На карте отмечены опубликованные районы. В технических страницах остались описания разных выпусков, рядом с полем GPX нет актуальной загрузки. У организатора запросите файл конкретного года и отдельно спросите разрешение на тренировочный проход.",
+        "sources": [
+          "arenal-epic-archive-long",
+          "arenal-epic-archive-contact"
+        ]
+      },
+      {
+        "title": "Снаряжение и обстановка",
+        "text": "Репортаж марта 2026 показывает фактическое покрытие в день гонки. Для тренировки подготовьте воду, питание, шлем, яркий задний свет и навигацию. За пределами события заранее найдите точки пополнения воды и доступные объезды.",
+        "sources": [
+          "arenal-epic-2026-field-video",
+          "arenal-epic-2026-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Epic · организатор",
+        "source": "arenal-epic-archive-contact",
+        "note": "Запросите схему нужного выпуска и текущие варианты для тренировок.",
+        "url": "https://www.arenalepic.com/contacto.html",
+        "email": "info@arenalepic.com"
+      },
+      {
+        "name": "Bike Arenal · команда и прокат",
+        "source": "bikearenal-owner",
+        "note": "Согласуйте длину, размер велосипеда, формат для ребёнка, трансфер и покрытие.",
+        "url": "https://wa.me/50671043315",
+        "phone": "+506 2479 9020",
+        "email": "info@bikearenal.com"
+      }
+    ],
+    "galleries": [
+      "arenal-epic-archive-gallery",
+      "arenal-epic-archive-long"
+    ],
+    "videos": [
+      "arenal-epic-2026-field-video"
+    ],
+    "nearby": [
+      "arenal-dam-el-castillo-mtb",
+      "vuelta-arenal-107",
+      "arenal-bike-camp-3"
+    ],
+    "track": "arenal-epic-archive-long",
+    "connectStops": false,
+    "photos": [
+      "tronadora"
+    ]
+  },
+  "paquera-santa-teresa-gravel-46": {
+    "stops": [
+      {
+        "point": "paquera-port-point",
+        "role": "Пакера · паром и начало велоэтапа",
+        "note": ""
+      },
+      {
+        "point": "paquera-town-center",
+        "role": "Пакера · посёлок",
+        "note": ""
+      },
+      {
+        "point": "tambor-giro-venue",
+        "role": "Тамбор · район прохода вдоль залива",
+        "note": ""
+      },
+      {
+        "point": "gravel-cobano-town",
+        "role": "Кобано · пополнение запасов",
+        "note": ""
+      },
+      {
+        "point": "santateresa-shore-reference",
+        "role": "Санта-Тереса · береговой район финиша",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Паром и расписание",
+        "text": "Naviera Tambor публикует перевозку велосипедов отдельной строкой. Сверьте вещевой багаж, оплату и посадку с батареей. Заложите запас перед отправлением и переездом из терминала.",
+        "sources": [
+          "paquera-bike-ticket",
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "title": "Профиль дня",
+        "text": "Оператор указывает 46,5 км и +915 м. Дорожная линия OpenStreetMap около 48 км проходит по общим дорогам через посёлки и позволяет самостоятельно спланировать остановки. Точную ветку группового тура показывает карта организатора.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Оборудование",
+        "text": "Возьмите шлем, задний фонарь, две фляги, питание, насос и запасную камеру. Внутренние подъёмы и участки без тени требуют запаса времени. С группой удобнее согласовать транспорт багажа до ночёвки.",
+        "sources": [
+          "nicoya-gravel-mya-wet",
+          "nicoya-gravel-mya-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "My Adventure Costa Rica · Эстебан Уманья",
+        "source": "nicoya-gravel-mya-contact",
+        "note": "Запросите точку встречи, сезонный трек, запасной вариант и формат поддержки.",
+        "url": "https://wa.me/50685050909",
+        "phone": "+506 8505 0909",
+        "email": "info@myadventurecostarica.com"
+      },
+      {
+        "name": "Naviera Tambor · паром на Никойю",
+        "source": "paquera-bike-ticket",
+        "note": "Уточните текущий билет с велосипедом, порядок посадки, опоздания и провоз батареи e‑bike.",
+        "url": "https://navieratambor.com/horarios-y-tarifas"
+      }
+    ],
+    "galleries": [
+      "nicoya-gravel-mya-dry"
+    ],
+    "nearby": [
+      "lepanto-santa-teresa-gravel-56",
+      "nicoya-gravel-expedition-9"
+    ],
+    "track": "nicoya-gravel-mya-dry",
+    "connectStops": false,
+    "photos": [
+      "santa-teresa-shore-archive"
+    ],
+    "line": "paquera-to-santateresa-road-bike-line"
+  },
+  "lepanto-santa-teresa-gravel-56": {
+    "stops": [
+      {
+        "point": "gravel-lepanto-village",
+        "role": "Лепанто · район старта",
+        "note": ""
+      },
+      {
+        "point": "santateresa-shore-reference",
+        "role": "Санта-Тереса · береговая база",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъём и спуск",
+        "text": "Первые двадцать километров ведут на лесистый хребет высотой около 460–530 м. На оставшуюся часть дня приходится спуск к побережью. Оператор публикует карту именно этой ветки.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "title": "План встречи",
+        "text": "Лепанто и Санта-Тереса находятся на разных береговых сторонах полуострова. Закажите подвоз к началу и уточните точку финиша. При сильном дожде перенос или короткую дорожную замену обсуждают с гидом.",
+        "sources": [
+          "nicoya-gravel-mya-wet",
+          "nicoya-gravel-mya-contact"
+        ]
+      },
+      {
+        "title": "Экипировка",
+        "text": "Подберите передачи для непрерывного подъёма, проверьте тормозные колодки для спусков. Берите воду, запас на прокол, лёгкую непромокаемую одежду и скачанный трек.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "My Adventure Costa Rica · Эстебан Уманья",
+        "source": "nicoya-gravel-mya-contact",
+        "note": "Запросите точку встречи, сезонный трек, запасной вариант и формат поддержки.",
+        "url": "https://wa.me/50685050909",
+        "phone": "+506 8505 0909",
+        "email": "info@myadventurecostarica.com"
+      }
+    ],
+    "galleries": [
+      "nicoya-gravel-mya-dry",
+      "nicoya-gravel-mya-wet"
+    ],
+    "nearby": [
+      "paquera-santa-teresa-gravel-46",
+      "santa-teresa-nosara-gravel-101",
+      "nicoya-gravel-expedition-9"
+    ],
+    "track": "nicoya-gravel-mya-dry",
+    "connectStops": false,
+    "photos": [
+      "santa-teresa-shore-archive"
+    ]
+  },
+  "nosara-tamarindo-gravel-59": {
+    "stops": [
+      {
+        "point": "nosara-cycling-anchor",
+        "role": "Носара · район начала",
+        "note": ""
+      },
+      {
+        "point": "ostional-village-road",
+        "role": "Остиональ · дорога у охраняемого побережья",
+        "note": ""
+      },
+      {
+        "point": "gravel-san-juanillo",
+        "role": "Сан-Хуанильо · прибрежный посёлок",
+        "note": ""
+      },
+      {
+        "point": "avellanas-camp-area",
+        "role": "Авельянас · дорожный ориентир",
+        "note": ""
+      },
+      {
+        "point": "tamarindo-beach",
+        "role": "Тамариндо · район финиша",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где проложен этап",
+        "text": "По программе 59,2 км с +782 м. Групповой трек идёт от Носары через ряд курортных и рыбацких поселений и заканчивается в Тамариндо. Для остановок на берегу предусмотрите дополнительное время.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "title": "Допуск на частной земле",
+        "text": "Официальная схема Hacienda Pinilla выделяет отдельные въезды и зоны с контролем. Если вы едете отдельно от группы, согласуйте въезд или попросите безопасный дорожный объезд. Для Остионаля согласуйте прогулку по пляжу отдельно.",
+        "sources": [
+          "pinilla-activity-index",
+          "ostional-sinac-adio"
+        ]
+      },
+      {
+        "title": "Темп и поддержка",
+        "text": "Запаситесь водой и защитой от солнца для длинных перегонов. Уточните, где перевозят вещи, где можно завершить поездку досрочно и как соединить с уроком серфинга в день отдыха.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "My Adventure Costa Rica · Эстебан Уманья",
+        "source": "nicoya-gravel-mya-contact",
+        "note": "Запросите точку встречи, сезонный трек, запасной вариант и формат поддержки.",
+        "url": "https://wa.me/50685050909",
+        "phone": "+506 8505 0909",
+        "email": "info@myadventurecostarica.com"
+      }
+    ],
+    "galleries": [
+      "nicoya-gravel-mya-dry",
+      "nicoya-gravel-mya-wet"
+    ],
+    "nearby": [
+      "tamarindo-brasilito-gravel-24",
+      "tamarindo-surf",
+      "pinilla-emtb",
+      "nicoya-gravel-expedition-9"
+    ],
+    "track": "nicoya-gravel-mya-dry",
+    "connectStops": false,
+    "photos": [
+      "tamarindo-aerial-archive"
+    ]
+  },
+  "tamarindo-brasilito-gravel-24": {
+    "stops": [
+      {
+        "point": "tamarindo-iguana",
+        "role": "Тамариндо · ориентир старта",
+        "note": ""
+      },
+      {
+        "point": "gravel-villarreal-town",
+        "role": "Вильярреаль · район выезда из Тамариндо",
+        "note": ""
+      },
+      {
+        "point": "gravel-huacas-playa-area",
+        "role": "Уакас · район дорожных связок",
+        "note": ""
+      },
+      {
+        "point": "brasilito-village",
+        "role": "Брасилито · посёлок у пляжа",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два варианта проезда",
+        "text": "Короткий организованный этап 23,8 км с набором около 318 м. Нанесённый дорожный вариант от Тамариндо около 19,2 км. Он использует общие дороги. Трек тура и направление возврата сверяйте у оператора.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "У побережья",
+        "text": "У оператора финишный ориентир — рыбацкий посёлок Брасилито. При планах прогуляться до Кончаля заранее поставьте велосипед в разрешённом месте и уточните доступ по берегу.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "title": "Что брать",
+        "text": "Отражатель и задний свет для движения рядом с машинами, воду, шлем и насос. Утром прохладнее. Если возвращаетесь на велосипеде, рассчитайте примерно двойное расстояние для того же дорожного варианта.",
+        "sources": [
+          "nicoya-gravel-mya-contact",
+          "osm-cr-points"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "My Adventure Costa Rica · Эстебан Уманья",
+        "source": "nicoya-gravel-mya-contact",
+        "note": "Запросите точку встречи, сезонный трек, запасной вариант и формат поддержки.",
+        "url": "https://wa.me/50685050909",
+        "phone": "+506 8505 0909",
+        "email": "info@myadventurecostarica.com"
+      }
+    ],
+    "galleries": [
+      "nicoya-gravel-mya-dry"
+    ],
+    "nearby": [
+      "tamarindo-surf",
+      "nosara-tamarindo-gravel-59",
+      "nicoya-gravel-expedition-9"
+    ],
+    "track": "nicoya-gravel-mya-dry",
+    "connectStops": false,
+    "photos": [
+      "tamarindo-aerial-archive"
+    ],
+    "line": "tamarindo-brasilito-road-bike-line"
+  },
+  "nicoya-gravel-expedition-9": {
+    "stops": [
+      {
+        "point": "puntarenas-terminal-point",
+        "role": "День 2 · автомобильный паром в Пунтаренасе",
+        "note": ""
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "Начало велоэтапов · Пакера",
+        "note": ""
+      },
+      {
+        "point": "santateresa-shore-reference",
+        "role": "База 1 · Санта-Тереса",
+        "note": ""
+      },
+      {
+        "point": "gravel-lepanto-village",
+        "role": "День 3 · Лепанто",
+        "note": ""
+      },
+      {
+        "point": "nosara-cycling-anchor",
+        "role": "База 2 · Носара",
+        "note": ""
+      },
+      {
+        "point": "ostional-village-road",
+        "role": "Остиональ · ориентир для двух этапов",
+        "note": ""
+      },
+      {
+        "point": "tamarindo-beach",
+        "role": "База 3 · Тамариндо",
+        "note": ""
+      },
+      {
+        "point": "brasilito-village",
+        "role": "День 7 · последний велосипедный финиш",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор сезона",
+        "text": "У организатора есть две разные поездки в 2027 году. Январский план использует больше прибрежных отрезков. Июльский этап Санта-Тереса — Носара огибает крупные устья. Суммарный ориентир на странице одинаковый. Попросите итоговые цифры нужного выезда, прежде чем бронировать транспорт или выбирать передачи.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      },
+      {
+        "title": "Карта и загрузка треков",
+        "text": "Пины показывают паром, основные базы, контрольные пункты и дорожные варианты двух коротких этапов. Полная карта каждого из шести этапов есть на странице организатора. Для самостоятельной поездки сверяйте доступ к землям и проходимость каждого отрезка.",
+        "sources": [
+          "nicoya-gravel-mya-overview",
+          "nicoya-gravel-mya-wet",
+          "pinilla-activity-index"
+        ]
+      },
+      {
+        "title": "Поддержка и снаряжение",
+        "text": "Сбор минимум за день до длинного этапа, подгонка велосипеда, шлем, фонари, инструменты, гермоупаковка, фляги, запасная одежда и защита от солнца. Уточните, что дадут организаторы, какой формат допускает e‑bike и чем перевозят вещи.",
+        "sources": [
+          "nicoya-gravel-mya-overview",
+          "nicoya-gravel-mya-contact",
+          "paquera-bike-ticket"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "My Adventure Costa Rica · Эстебан Уманья",
+        "source": "nicoya-gravel-mya-contact",
+        "note": "Запросите точку встречи, сезонный трек, запасной вариант и формат поддержки.",
+        "url": "https://wa.me/50685050909",
+        "phone": "+506 8505 0909",
+        "email": "info@myadventurecostarica.com"
+      },
+      {
+        "name": "Naviera Tambor · паром на Никойю",
+        "source": "paquera-bike-ticket",
+        "note": "Уточните текущий билет с велосипедом, порядок посадки, опоздания и провоз батареи e‑bike.",
+        "url": "https://navieratambor.com/horarios-y-tarifas"
+      }
+    ],
+    "galleries": [
+      "nicoya-gravel-mya-dry",
+      "nicoya-gravel-mya-wet"
+    ],
+    "nearby": [
+      "nicoya-bikepack-6",
+      "paquera-santa-teresa-gravel-46",
+      "nosara-tamarindo-gravel-59"
+    ],
+    "photos": [
+      "santa-teresa-shore-archive",
+      "tamarindo-aerial-archive"
+    ],
+    "track": "nicoya-gravel-mya-overview",
+    "connectStops": false,
+    "line": "nicoya-gravel-mya-two-road-sections"
+  },
+  "arenal-bike-camp-3": {
+    "stops": [
+      {
+        "point": "arenal-dam",
+        "role": "День 1 · район велостарта",
+        "note": ""
+      },
+      {
+        "point": "el-castillo",
+        "role": "El Castillo · посёлок, покупки и встреча",
+        "note": ""
+      },
+      {
+        "point": "el-castillo-mirador-camp-entry",
+        "role": "Ночёвка и хозяйская геометка",
+        "note": ""
+      },
+      {
+        "point": "fortuna-park",
+        "role": "Ла-Фортуна · район выезда с проводником в день 2",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и автомобиль",
+        "text": "Кемпинг и костровая зона опубликованы в карточке хозяев. Уточните открытый подъезд, формат стоянки, ровное место для машины с палаткой, место заряда и разрешение на огонь в сухой сезон.",
+        "sources": [
+          "el-castillo-camp-host-listing"
+        ]
+      },
+      {
+        "title": "Вариант для семьи",
+        "text": "Выберите длину первого выхода и уточните у Bike Arenal рост ребёнка и транспорт. Для Тумбаса у Desafío указана нижняя граница 10 лет, а при высокой воде оператор меняет план.",
+        "sources": [
+          "bikearenal-castillo-map",
+          "desafio-tumbas-24-owner"
+        ]
+      },
+      {
+        "title": "Каяк и велосипед в одной поездке",
+        "text": "Разнесите выходы на утро и день. Для велосипеда приготовьте шлем и ремонтный набор, для лодки подберите спасжилет и гермоупаковку. У проката уточните точку спуска, ветер и фактический вид лодки.",
+        "sources": [
+          "lake-rent",
+          "bikearenal-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bike Arenal · команда и прокат",
+        "source": "bikearenal-owner",
+        "note": "Согласуйте длину, размер велосипеда, формат для ребёнка, трансфер и покрытие.",
+        "url": "https://wa.me/50671043315",
+        "phone": "+506 2479 9020",
+        "email": "info@bikearenal.com"
+      },
+      {
+        "name": "Desafío Adventure Company",
+        "source": "desafio-tumbas-24-owner",
+        "note": "Подтвердите базу, допустимый вес, наличие велосипеда нужного размера и решение по уровню реки.",
+        "url": "https://www.desafiocostarica.com/service/mountain-bike-around-arenal-lake-tumbas/"
+      }
+    ],
+    "galleries": [
+      "bikearenal-castillo-map",
+      "desafio-tumbas-24-owner",
+      "el-castillo-camp-host-listing"
+    ],
+    "nearby": [
+      "arenal-dam-el-castillo-mtb",
+      "arenal-tumbas-guided-mtb-24",
+      "el-castillo-fogata-camp",
+      "arenal-paddle"
+    ],
+    "photos": [
+      "arenal-dam"
+    ],
+    "connectStops": false,
+    "line": "dam-castillo-road-bike-line"
+  }
+}
