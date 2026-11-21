@@ -493,5 +493,23 @@
     "license": "CC0 1.0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "original": "https://commons.wikimedia.org/wiki/File:Parque_Natural_Marino_Ballena.jpg"
+  },
+  "venado-forest-commons": {
+    "file": "venado-caves-forest.jpg",
+    "caption": "Холмы у каверн Венадо · май 2013, уменьшенная копия",
+    "alt": "Зелёное пастбище в окрестностях пещер Венадо",
+    "author": "MongeNajera",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Cavernas_venado-14.jpg"
+  },
+  "golfito-dulce-commons": {
+    "file": "golfito-golfo-dulce-view.jpg",
+    "caption": "Гольфито и Гольфо-Дульсе · архивный снимок",
+    "alt": "Вид на Гольфито и залив Гольфо-Дульсе с холмов над городом",
+    "author": "DirkvdM",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:DirkvdM_golfito-1.jpg"
   }
 }

@@ -141,6 +141,7 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .detail-hero { display: grid; grid-template-columns: minmax(0, .91fr) minmax(0, 1fr); gap: min(5vw, 56px); align-items: start; margin-bottom: 24px; }
 .detail-hero.no-photo { display: block; max-width: 855px; }
 .detail-hero h1, .subpage-heading h1, .sources-page h1 { font-size: clamp(2.55rem, 4.9vw, 4.9rem); }
+.detail-hero h1 { overflow-wrap: anywhere; }
 .detail-location, .native-name { color: var(--muted); }
 .detail-location { font: 1.18rem/1.4 var(--serif); margin-top: 10px; }
 .native-name { font-size: .88rem; margin-top: 4px; }

@@ -40,7 +40,7 @@
   {"name":"Coco’s Tours · местные выезды из Пунтаренаса","url":"https://cocostours.cr/tour-category/tours/","paths":["/tour/","/contacto/"]},
   {"name":"The Majestic · рейсы от Tambor Pier","url":"https://themajesticcostarica.com/","paths":["/tour-","/es/","/contact"]},
   {"name":"Ecotours Toro Amarillo · маршруты долины","url":"https://bajosdeltoroamarillo.com/es/","paths":["/es/","/senderismo-","/cataratas-","/best-hiking-"]},
-  {"name":"Senderos del Toro · походы и водопады","url":"https://senderosdeltoro.com/","paths":["/catarata-","/cataratas/","/blue-falls/"],"language":"es","focus":"Местные проводники района Торо-Амарильо. Однодневные походы и участки, для которых нужен сопровождающий."},
+  {"name":"Senderos del Toro · походы и водопады","url":"https://senderosdeltoro.com/tours/","paths":["/pozo-azul-","/catarata-rio-agrio","/catarata-vuelta-","/catarata-blue-","/catarata-la-diana"],"language":"es","focus":"Местные проводники Бахос-дель-Торо. Походы к водопадам, условия допуска и снаряжение."},
   {"name":"Монтес-де-Оро · сельские тропы","url":"https://montesdeoro.go.cr/tajo-alto/","paths":["/finca-","/senderismo/","/caminata-al-","/canon-del-"]},
   {"name":"Valhalla · местные туры и треки","url":"https://valhallamodotapir.com/tours/","paths":["/tours/"]},
   {"name":"Finca Curubanda · походы у Рио-Бланко","url":"https://www.leonawaterfallcurubanda.com/en","paths":["/en/","/post/"]},
@@ -81,5 +81,8 @@
   {"name":"Pavones Hub · кемпинги и жильё","url":"https://pavoneshub.com/alojamiento-lodging/","paths":["/transporte-","/category/","/surf","/guide","/event","/alojamiento-"],"language":"es-en","focus":"Местное размещение и поездки вокруг Павонеса. Контакты кемпингов, жильё и транспорт."},
   {"name":"YöKö CR · overlanding и кемпинги","url":"https://yokocr.com/camping","paths":["/camping/"],"language":"es","focus":"Испаноязычный каталог мест под обычную палатку и автостоянок. Фото, навигация и контакты отдельных кемпингов."},
   {"name":"Sea Saw · маршруты лодок из Гарсы","url":"https://nosaraseasawtours.com/experience/unwind/","paths":["/tour/","/experience/"],"language":"en","focus":"Катамараны, снорклинг и рыбалка небольших местных экипажей, расписания и условия."},
-  {"name":"A Dónde Ir Costa Rica · архив мест по провинциям","url":"https://adondeircr.com/category/guanacaste/","sitemap":"https://adondeircr.com/post-sitemap.xml","paths":["/guanacaste/","/puntarenas/","/heredia/","/alajuela/","/cartago/","/limon/","/san-jose/"],"language":"es","focus":"Испаноязычный архив туристических заметок. Публикации о береговых подходах, тропах и местах Никои."}
+  {"name":"A Dónde Ir Costa Rica · архив мест по провинциям","url":"https://adondeircr.com/category/guanacaste/","sitemap":"https://adondeircr.com/post-sitemap.xml","paths":["/guanacaste/","/puntarenas/","/heredia/","/alajuela/","/cartago/","/limon/","/san-jose/"],"language":"es","focus":"Испаноязычный архив туристических заметок. Публикации о береговых подходах, тропах и местах Никои."},
+  {"name":"Costa Tours · поездки и кемпинги","url":"https://costatourscr.com/es/","paths":["/es/tour/"],"language":"es","focus":"Программы из Центральной долины, островные пересадки, палаточные выезды и региональные маршруты."},
+  {"name":"Special Places of Costa Rica · Гуанакасте","url":"https://www.specialplacesofcostarica.com/blog/all/","paths":["/blog/"],"language":"en","focus":"Подробные материалы по пляжам, экскурсиям и логистике побережья Гуанакасте."},
+  {"name":"Hideaway Río Celeste · туры и тропы","url":"https://www.riocelestehideaway.com/tours","paths":["/tours/"],"language":"en","focus":"Тенорио и Рио-Селесте, водные активности, верховые маршруты и выходы с проводниками."}
 ]

@@ -7147,5 +7147,284 @@
         ]
       }
     ]
+  },
+  {
+    "id": "arenal-venado-cave-camp-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Ареналь и Венадо · два дня с палаткой и подземной рекой",
+    "native": "Parque Ecológico Arenal · Monterrey · Cavernas del Venado",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "car",
+      "hiking",
+      "cave",
+      "forest",
+      "river",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "arenal-eco-camp-details",
+      "venado-caves-operator-tour",
+      "venado-caves-operator-contact",
+      "venado-mopt-2026-works",
+      "venado-conavi-road-inventory"
+    ],
+    "summary": "Ночь у вулкана и поездка в Венадо с местным проводником. На второе утро можно проехать через Монтеррей и спуститься в известняковую систему.",
+    "plan": "На первый день оставьте короткую прогулку от лагеря. На второй подтвердите условия в кавернах, выезжайте рано и оставьте запас на переезд и смену одежды.",
+    "conditions": "Маршрут через Монтеррей включает грунтовые участки. При слабой проходимости выбирайте подъезд, подтверждённый оператором, или трансфер. Режим лагеря и пещеры независимы.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Лесная тропа и лагерь у вулкана",
+        "note": "Сверьте бронирование площадки. Оставьте время для короткой прогулки к лагуне и подготовьте вещи на мокрый выход.",
+        "stops": [
+          "arenal-eco-camp"
+        ],
+        "sources": [
+          "arenal-eco-camp-details",
+          "arenal-eco-trails-map"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Монтеррей и каверны Венадо",
+        "note": "Выехать по выбранной видовой дороге можно после проверки покрытия. На гостевом входе проверьте размеры сапог и выберите вариант подземной прогулки.",
+        "stops": [
+          "venado-caves-san-carlos"
+        ],
+        "sources": [
+          "venado-caves-operator-tour",
+          "venado-conavi-road-inventory",
+          "venado-mopt-2026-works"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "corredores-coto-brus-weekend-2",
+    "kind": "trip",
+    "region": "south",
+    "title": "Корредорес и Сан-Вито · пещера, ночёвка в Нейли и лесная станция",
+    "native": "San Rafael · Caverna Corredores · Ciudad Neily · Las Cruces",
+    "level": "hard",
+    "days": 2,
+    "activities": [
+      "cave",
+      "hiking",
+      "forest",
+      "river",
+      "wildlife",
+      "car"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "corredores-caves-surtrips",
+      "corredores-caves-ict-guide",
+      "neily-centro-turistico-directory",
+      "wilson-ots-visitor-program",
+      "wilson-municipal-visitor"
+    ],
+    "summary": "Два дня на крайнем юге с влажной пещерой и более спокойной прогулкой на научной станции Кото-Бруса. Ночёвка в Сьюдад-Нейли между выездами.",
+    "plan": "Назначьте раннюю встречу с гидом на первый день. На второй запланируйте подъём из Сьюдад-Нейли к станции Лас-Крусес и прогулку с местным биологом.",
+    "conditions": "В дождь выход в пещеру зависит от уровня реки. Ботанический сад работает по своим условиям. На карте показан сухопутный переезд, точку подхода к пещере даёт гид.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сан-Рафаэль и мокрая пещера",
+        "note": "По подтверждению гида идите от посёлка к речному подходу. В отеле держите запас сухой одежды и оставьте вечер на восстановление.",
+        "stops": [
+          "corredores-caves-san-rafael",
+          "ciudad-neily-centro-overnight"
+        ],
+        "sources": [
+          "corredores-caves-surtrips",
+          "neily-centro-turistico-directory"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Подъём к станции Лас-Крусес",
+        "note": "Езжайте по дороге в сторону Сан-Вито. Посетите сад и влажный лес, уточните возможность обеда или дополнительного выхода по наблюдению за птицами.",
+        "stops": [
+          "san-vito-wilson-las-cruces"
+        ],
+        "sources": [
+          "wilson-ots-visitor-program",
+          "wilson-municipal-visitor"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turrialba-angostura-atirro-weekend-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Ангостура и Атирро · два дня с SUP и ночёвкой у Турриальбы",
+    "native": "Lago Angostura · Atirro · Casa Turire · Finca Quijote",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "sup",
+      "lake",
+      "camping",
+      "hiking",
+      "wildlife",
+      "cafe"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "angostura-poc-sup-lake",
+      "angostura-camino-2026-field",
+      "angostura-turire-contact",
+      "quijote-camping-cr",
+      "camino-stage-7"
+    ],
+    "summary": "Свободный день на озере и второй день в сельской долине. Можно ночевать в доме у озера или в палатке на местной ферме Quijote.",
+    "plan": "Поставьте SUP на спокойное утро по согласованию с хозяевами. На второй день выберите короткую прогулку в Атирро или более длинный участок El Camino с подходящим транспортом.",
+    "conditions": "Озёрная программа, прогулка по тропам и ночлег бронируются отдельно. Для своей доски уточняйте допуск к месту спуска, на речной участок едут только со специалистом.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "SUP в береговом секторе и ночёвка",
+        "note": "Спросите у проката точный район спуска, продолжительность и жилеты. Для альтернативного ночлега приезжайте на Finca Quijote засветло.",
+        "stops": [
+          "angostura-atirro-flatwater-sup",
+          "angostura-casa-turire-lodge",
+          "atirro-quijote-camp"
+        ],
+        "sources": [
+          "angostura-camino-2026-field",
+          "angostura-turire-contact",
+          "quijote-camping-cr"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Атирро пешком или стадия El Camino",
+        "note": "Перед длинным переходом проверьте пешеходные условия и встречу после этапа. Семье можно оставить короткую прогулку по хозяйству и обед.",
+        "stops": [
+          "el-camino-etapa-7",
+          "atirro-quijote-camp"
+        ],
+        "sources": [
+          "camino-stage-7",
+          "quijote-camping-guide"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cedros-luminosa-camp-no-car-2",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Седрос без машины · два дня у воды с палаткой и биолюминесценцией",
+    "native": "Costa Tours · Puntarenas · Playa Luminosa · Isla Cedros · campamento",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "camping",
+      "campfire",
+      "boat",
+      "beach",
+      "fishing",
+      "relax"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "costa-tours-luminosa-overnight",
+      "costa-tours-luminosa-day",
+      "cedros-ict-nicoya-tourism",
+      "cedros-luminosa-field-video"
+    ],
+    "summary": "Лодка на остров Седрос, ночёвка в подготовленной палатке и вечер у воды. Обратно организатор описывает лодку или паромную связку по расписанию программы.",
+    "plan": "Выберите отправление из Пунтаренаса или закажите наземный трансфер из столицы. На втором дне ветку с рыбалкой и время возвращения подтвердите по погоде.",
+    "conditions": "Вечерний береговой выход и наблюдение свечения зависят от воды и луны. Огонь возможен по правилам площадки и решению команды. Уточните рыбалку и возраст участников.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "От Пунтаренаса на остров и ночь в палатке",
+        "note": "Приезжайте к точке сбора, полученной от организатора. На острове проверьте шкафчик или сухую зону, правила лагеря и встречу для вечернего выхода.",
+        "stops": [
+          "cedros-playa-luminosa-island-camp"
+        ],
+        "sources": [
+          "costa-tours-luminosa-overnight",
+          "cedros-ict-nicoya-tourism"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Береговой завтрак и возвращение",
+        "note": "По условиям воды выберите рыбалку с командой, короткую прогулку или отдых у палатки. Попросите точное окно обратной лодки и время пересадки к автобусу.",
+        "stops": [
+          "cedros-playa-luminosa-island-camp"
+        ],
+        "sources": [
+          "costa-tours-luminosa-overnight",
+          "cedros-luminosa-field-video"
+        ]
+      }
+    ]
   }
 ]

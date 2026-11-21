@@ -1,0 +1,884 @@
+{
+  "venado-caves-san-carlos": {
+    "stops": [
+      {
+        "point": "venado-caves-public-entry",
+        "role": "Район сбора Cavernas de Venado",
+        "note": "Проверьте последние метры дороги у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Время и состав",
+        "text": "Оператор описывает примерно два часа в пещере. Местный справочник указывает 4–6 часов на выезд из Ла-Фортуны с трансфером. При записи сообщите опыт группы, возраст и отношение к узким проходам.",
+        "sources": [
+          "venado-caves-operator-tour",
+          "venado-visit-fortuna-field"
+        ]
+      },
+      {
+        "title": "Снаряжение и вода",
+        "text": "На месте заявлены каска, фонарь и сапоги. Полезны смена одежды, полотенце и гермомешок. Просите гида объяснить условия прохода после дождя, порядок возвращения и подходящий вариант участникам, которые плохо переносят тесноту.",
+        "sources": [
+          "venado-caves-operator-tour",
+          "venado-municipal-tourism-plan"
+        ]
+      },
+      {
+        "title": "Впечатления и подъезд",
+        "text": "Видео местного путешественника показывает настоящие мокрые проходы и масштаб зала. В отзывах 2026 года можно сверить опыт групп. Вход отмечен отдельно от подземного маршрута, который выбирает проводник.",
+        "sources": [
+          "venado-caves-local-video",
+          "venado-visit-fortuna-field",
+          "venado-caves-map-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cavernas del Venado",
+        "source": "venado-caves-operator-contact",
+        "note": "Запросите слот, допустимый возраст, размеры резиновых сапог и решение на случай дождя.",
+        "url": "https://wa.me/50684404333",
+        "phone": "+506 8440 4333",
+        "email": "info@cavernasdevenado.com"
+      }
+    ],
+    "galleries": [
+      "venado-caves-operator-photos",
+      "venado-visit-fortuna-field"
+    ],
+    "videos": [
+      "venado-caves-local-video"
+    ],
+    "nearby": [
+      "arenal-eco-camp",
+      "arenal-outback-utv-monterrey",
+      "arenal-venado-cave-camp-2"
+    ],
+    "connectStops": false,
+    "photos": [
+      "venado-forest-commons"
+    ]
+  },
+  "corredores-caves-san-rafael": {
+    "stops": [
+      {
+        "point": "corredores-san-rafael-locality",
+        "role": "Посёлок Сан-Рафаэль · район встречи",
+        "note": "Гид отправит пин парковки и определит разрешённый подход."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подход и подземная часть",
+        "text": "Программа идёт от Сан-Рафаэля вдоль русла реки. Камни на подходе требуют уверенной ходьбы по мокрому грунту. Длину подземной части выбирает гид. На карте отмечен район, откуда начинается сопровождаемый подход.",
+        "sources": [
+          "corredores-caves-surtrips",
+          "corredores-san-rafael-ign"
+        ]
+      },
+      {
+        "title": "Подготовка поездки",
+        "text": "Уточните размер группы, наличие подходящей защиты, способы связи и разворот при росте воды. Возьмите закрытую обувь с протектором, гермомешок, воду и сухую одежду. У организатора уточните возрастные и физические ограничения.",
+        "sources": [
+          "corredores-caves-surtrips"
+        ]
+      },
+      {
+        "title": "Местный взгляд",
+        "text": "Путеводитель ICT показывает природный район, а короткий фильм местных авторов даёт представление о рельефе. Сведения о входе и правилах берите из подтверждения местного гида.",
+        "sources": [
+          "corredores-caves-ict-guide",
+          "corredores-caves-mantra-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SurTrips · Coto Brus",
+        "source": "corredores-caves-surtrips",
+        "note": "Запрашивайте у организатора открытый маршрут, фактическую воду, точку парковки и экипировку.",
+        "url": "https://surtrips.com/tour-caverna-corredores/"
+      }
+    ],
+    "galleries": [
+      "corredores-caves-surtrips"
+    ],
+    "videos": [
+      "corredores-caves-mantra-video"
+    ],
+    "nearby": [
+      "ciudad-neily-centro-overnight",
+      "san-vito-wilson-las-cruces",
+      "corredores-coto-brus-weekend-2"
+    ],
+    "connectStops": false
+  },
+  "ciudad-neily-centro-overnight": {
+    "stops": [
+      {
+        "point": "ciudad-neily-centro-hotel",
+        "role": "Centro Turístico Neily · район входа",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что за место",
+        "text": "В справочнике Destino Brunca описан отель, основанный Рикардо Нейли. Сейчас у него ресторан и обычные номера. Попросите текущие фото номера и условия позднего приезда.",
+        "sources": [
+          "neily-centro-turistico-directory",
+          "neily-centro-osm"
+        ]
+      },
+      {
+        "title": "Как скомбинировать",
+        "text": "Ранний старт отсюда подходит для поездок в Сан-Рафаэль. После ночёвки можно также ехать к станции Лас-Крусес по публичной дороге. В сезон дождей делайте запас по времени.",
+        "sources": [
+          "corredores-caves-ict-guide",
+          "wilson-municipal-visitor"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Centro Turístico Neily",
+        "source": "neily-centro-turistico-directory",
+        "note": "Уточните парковку, ужин и ранний выезд в день похода.",
+        "url": "https://destinobrunca.com/es/node/153",
+        "phone": "+506 2783 3031",
+        "email": "hctncr@hotmail.com"
+      },
+      {
+        "name": "SurTrips · Coto Brus",
+        "source": "corredores-caves-surtrips",
+        "note": "Запрашивайте у организатора открытый маршрут, фактическую воду, точку парковки и экипировку.",
+        "url": "https://surtrips.com/tour-caverna-corredores/"
+      }
+    ],
+    "galleries": [
+      "neily-centro-turistico-directory"
+    ],
+    "nearby": [
+      "corredores-caves-san-rafael",
+      "san-vito-wilson-las-cruces"
+    ],
+    "connectStops": false
+  },
+  "san-vito-wilson-las-cruces": {
+    "stops": [
+      {
+        "point": "wilson-las-cruces-visitor-buildings",
+        "role": "Лас-Крусес · район приёмной и корпусов",
+        "note": "Гостевой вход связан с публичной дорогой на Сан-Вито."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Птицы и ботаника",
+        "text": "Начните с садовой петли по схеме станции. Для посещения с биологом обсудите интересы семьи. Утро подходит для наблюдений, а отдельный вечерний выход в программе посвящён ночной активности леса.",
+        "sources": [
+          "wilson-ots-visitor-program",
+          "wilson-local-tourism-gallery"
+        ]
+      },
+      {
+        "title": "Дневной визит и питание",
+        "text": "Спрашивайте время приезда, длительность и обед у приёмной. Кроссовки с протектором, вода, лёгкая защита от дождя и бинокль помогают на лесной прогулке. Запросите карту разрешённых ответвлений.",
+        "sources": [
+          "wilson-ots-visitor-program",
+          "wilson-municipal-visitor"
+        ]
+      },
+      {
+        "title": "Размещение и подъезд",
+        "text": "Для длинной остановки уточните наличие гостевых комнат станции. Муниципалитет и OTS дают диапазон 5–6 км от Сан-Вито, координата указывает здания.",
+        "sources": [
+          "wilson-municipal-visitor",
+          "wilson-ots-visitor-program",
+          "wilson-station-osm-area"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Администрация станции Лас-Крусес",
+        "source": "wilson-municipal-visitor",
+        "note": "Утренний визит, ночной выход и обед бронируются отдельно.",
+        "url": "https://tropicalstudies.org/portfolio/natural-history-visitors-las-cruces/",
+        "phone": "+506 2511 4900",
+        "email": "recepcion.lc@tropicalstudies.org"
+      }
+    ],
+    "galleries": [
+      "wilson-ots-visitor-program",
+      "wilson-local-tourism-gallery"
+    ],
+    "nearby": [
+      "corredores-caves-san-rafael",
+      "ciudad-neily-centro-overnight"
+    ],
+    "connectStops": false
+  },
+  "angostura-casa-turire-lodge": {
+    "stops": [
+      {
+        "point": "angostura-casa-turire",
+        "role": "Casa Turire · вход на территорию отеля",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий выезд с детьми",
+        "text": "Хозяева описывают несколько спокойных форматов. Прогулки по ферме, бассейн, ресторан, птицы, лошади по согласованию. Для выхода с детьми спросите возраст, жилет или шлем и время, пока солнце невысоко.",
+        "sources": [
+          "angostura-turire-owner",
+          "angostura-turire-muni-directory"
+        ]
+      },
+      {
+        "title": "Кофе, фото и вода",
+        "text": "В полевом материале Camino Lodging показан SUP на озере, в отдельном ролике видны территория и берег. Для дневного выезда уточните меню, место на террасе и условия проката.",
+        "sources": [
+          "angostura-camino-2026-field",
+          "angostura-turire-guest-video"
+        ]
+      },
+      {
+        "title": "Окрестности и дорога",
+        "text": "База находится у Атирро. Совместите её с выходом на выбранный участок El Camino или ночёвкой на ферме Quijote. Координата соответствует комплексу. Точку спуска подтверждает арендодатель.",
+        "sources": [
+          "angostura-turire-osm",
+          "angostura-turire-muni-directory",
+          "quijote-camping-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Turire · Турриальба",
+        "source": "angostura-turire-contact",
+        "note": "Спросите дневной доступ, аренду SUP, размер жилета или ночёвку.",
+        "url": "https://www.hotelcasaturire.com/contact-us/",
+        "phone": "+506 2531 1111",
+        "email": "reservaciones@gpr.cr"
+      },
+      {
+        "name": "Pacuare Outdoor Center",
+        "source": "poc-contact",
+        "note": "Подтвердите прокат, доставку, точку спуска и статус своей доски на выбранную дату.",
+        "url": "https://pacuareoutdoorcenter.com/contact/"
+      }
+    ],
+    "galleries": [
+      "angostura-turire-owner",
+      "angostura-camino-2026-field"
+    ],
+    "videos": [
+      "angostura-turire-guest-video"
+    ],
+    "nearby": [
+      "angostura-atirro-flatwater-sup",
+      "el-camino-etapa-7",
+      "atirro-quijote-camp"
+    ],
+    "connectStops": false
+  },
+  "angostura-atirro-flatwater-sup": {
+    "stops": [
+      {
+        "point": "angostura-casa-turire",
+        "role": "Район проката Casa Turire у озера",
+        "note": "Можно согласовать альтернативный спуск и доставку с POC."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два способа забронировать",
+        "text": "В отчёте апреля 2026 года названы Casa Turire и Pacuare Outdoor Center. Попросите указать точку, подтверждённый доступ к берегу и длительность. Для своей доски отдельно спросите разрешение и место парковки.",
+        "sources": [
+          "angostura-camino-2026-field",
+          "angostura-poc-sup-lake",
+          "angostura-turire-contact"
+        ]
+      },
+      {
+        "title": "Береговой формат",
+        "text": "Занятия и тренировки на Ангостуре существуют. Для первого SUP выбирайте озёрный участок с жилетом и коротким радиусом. Речное продолжение через Пехибайе, о котором пишет оператор, зависит от потока и имеет другой уровень сложности.",
+        "sources": [
+          "angostura-poc-sup-lake",
+          "angostura-canoaykayak-events"
+        ]
+      },
+      {
+        "title": "Когда разворачиваться",
+        "text": "Спросите у инструктора ограничения по ветру, границы у водозабора, схему возврата и время выхода на берег. Возьмите воду, защиту от солнца и гермомешок. Запасной вариант того же дня — наблюдение за птицами у берега.",
+        "sources": [
+          "angostura-explore-local-map",
+          "angostura-camino-2026-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Turire · Турриальба",
+        "source": "angostura-turire-contact",
+        "note": "Спросите дневной доступ, аренду SUP, размер жилета или ночёвку.",
+        "url": "https://www.hotelcasaturire.com/contact-us/",
+        "phone": "+506 2531 1111",
+        "email": "reservaciones@gpr.cr"
+      },
+      {
+        "name": "Pacuare Outdoor Center",
+        "source": "poc-contact",
+        "note": "Подтвердите прокат, доставку, точку спуска и статус своей доски на выбранную дату.",
+        "url": "https://pacuareoutdoorcenter.com/contact/"
+      }
+    ],
+    "galleries": [
+      "angostura-camino-2026-field",
+      "angostura-poc-sup-lake"
+    ],
+    "nearby": [
+      "angostura-casa-turire-lodge",
+      "el-camino-etapa-7",
+      "pejibaye-school-own-packraft"
+    ],
+    "connectStops": false
+  },
+  "golfito-cacao-shore-water-taxi": {
+    "stops": [
+      {
+        "point": "golfito-cacao-area",
+        "role": "Плайя-Какао · район берега",
+        "note": "У перевозчика запросите точное место встречи и возврата."
+      }
+    ],
+    "sections": [
+      {
+        "title": "На короткий выезд без машины",
+        "text": "Договоритесь о лодке туда и обратно из Гольфито. Уточните высадку, сколько ждать до обратного рейса и план на сильный дождь. В городских ориентирах встречаются разные причалы.",
+        "sources": [
+          "cacao-golfito-aguaepipa",
+          "cacao-golfito-ict-map"
+        ]
+      },
+      {
+        "title": "Что видно на месте",
+        "text": "Панорама даёт представление о берегу и защищённой акватории. Отдельно сверяйте работу кафе, купание и прилив. Вода, тень, обувь для посадки и сухой мешок пригодятся всей семье.",
+        "sources": [
+          "cacao-golfito-panorama",
+          "golfito-golfo-dulce-ict"
+        ]
+      },
+      {
+        "title": "Дальше по заливу",
+        "text": "Пляжный переезд можно совместить с отдельным частным рейсом Río León. Спросите у команды, возможно ли начать и закончить в одной точке.",
+        "sources": [
+          "rio-leon-local-tourism-guide",
+          "rio-leon-private-boat-direct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Río León Tours",
+        "source": "rio-leon-private-boat-direct",
+        "note": "Запросите точку посадки, вид лодки, длительность, детские жилеты и запасной вариант маршрута.",
+        "url": "https://rioleontours.com/"
+      }
+    ],
+    "galleries": [
+      "cacao-golfito-panorama",
+      "cacao-golfito-aguaepipa"
+    ],
+    "nearby": [
+      "golfito-rio-leon-mangroves-boat",
+      "golfito-jimenez-passenger-boat",
+      "golfito-cativo-rio-esquinas-kayak"
+    ],
+    "connectStops": false,
+    "photos": [
+      "golfito-dulce-commons"
+    ]
+  },
+  "golfito-rio-leon-mangroves-boat": {
+    "stops": [
+      {
+        "point": "golfito-cacao-area",
+        "role": "Плайя-Какао · ориентир района лодочного оператора",
+        "note": "Точный причал назначает команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут малой группы",
+        "text": "У команды есть отдельный вариант мангрового тура и возможность подобрать остановки. Группа перемещается между протоками на моторной лодке. Часть времени уходит на переход по заливу.",
+        "sources": [
+          "rio-leon-mangroves-boat",
+          "rio-leon-private-boat-direct"
+        ]
+      },
+      {
+        "title": "Условия при посадке",
+        "text": "Спросите, где можно сесть без глубокого захода в воду, есть ли тень, сухое место под вещи и запасной план на ветер или грозу. Полевые впечатления на сайте команды помогают оценить формат частного рейса.",
+        "sources": [
+          "rio-leon-private-boat-direct",
+          "rio-leon-local-tourism-guide"
+        ]
+      },
+      {
+        "title": "Охраняемые воды",
+        "text": "Выход в залив проводят с соблюдением правил наблюдения за фауной. Если цель птицы и мангры, попросите выбрать комфортное окно по приливу.",
+        "sources": [
+          "rio-leon-mangroves-boat",
+          "golfito-golfo-dulce-ict",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Río León Tours",
+        "source": "rio-leon-private-boat-direct",
+        "note": "Запросите точку посадки, вид лодки, длительность, детские жилеты и запасной вариант маршрута.",
+        "url": "https://rioleontours.com/"
+      }
+    ],
+    "galleries": [
+      "rio-leon-mangroves-boat",
+      "rio-leon-private-boat-direct"
+    ],
+    "nearby": [
+      "golfito-cacao-shore-water-taxi",
+      "golfito-cativo-rio-esquinas-kayak",
+      "golfito-jimenez-passenger-boat"
+    ],
+    "connectStops": false,
+    "photos": [
+      "golfito-dulce-commons"
+    ]
+  },
+  "golfito-cativo-rio-esquinas-kayak": {
+    "stops": [
+      {
+        "point": "cativo-lodge-gps",
+        "role": "Playa Cativo · район регистрации и трансфера",
+        "note": "Место отправления к Эскинас зависит от программы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что выбрать",
+        "text": "Лодж различает самостоятельную греблю в своей бухте и выезд с проводником на Эскинас. Спросите время на моторной лодке и время с веслом. Для короткого первого выхода подходит более спокойная программа с гидом по фактическим условиям.",
+        "sources": [
+          "cativo-activities-direct",
+          "cativo-mangrove-kayak"
+        ]
+      },
+      {
+        "title": "Трансфер и снаряжение",
+        "text": "Доставку лодкой согласовывают отдельно перед поездкой. Запросите размер жилетов, обувь для посадки, тандем и цену для гостя без ночёвки. Возьмите воду, репеллент, гермомешок и кепку.",
+        "sources": [
+          "cativo-boat-transfer-contact",
+          "cativo-mangrove-kayak"
+        ]
+      },
+      {
+        "title": "Речная обстановка",
+        "text": "На открытых илистых берегах при низкой воде бывает удобно наблюдать птиц, при этом возможность пройти мелкие каналы определяет гид. Точные маршруты лодки и каяка зависят от воды.",
+        "sources": [
+          "cativo-activities-direct",
+          "golfito-golfo-dulce-ict",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Cativo Lodge",
+        "source": "cativo-boat-transfer-contact",
+        "note": "Запросите каяк на Эскинас, место встречи в Гольфито и условия для дневных гостей.",
+        "url": "https://wa.me/50685835757",
+        "phone": "+506 8583 5757",
+        "email": "reservations@playacativo.com"
+      }
+    ],
+    "galleries": [
+      "cativo-activities-direct",
+      "cativo-mangrove-kayak"
+    ],
+    "nearby": [
+      "golfito-rio-leon-mangroves-boat",
+      "golfito-cacao-shore-water-taxi",
+      "piedras-blancas"
+    ],
+    "connectStops": false,
+    "photos": [
+      "golfito-dulce-commons"
+    ]
+  },
+  "cedros-playa-luminosa-island-camp": {
+    "stops": [
+      {
+        "point": "cedros-island-reference-point",
+        "role": "Седрос · островной ориентир",
+        "note": "Лагерь находится на Плайя-Луминоса. Экипаж подтверждает точку высадки и возврата."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатки и быт",
+        "text": "Оператор заявляет оборудованную палатку с надувным матрасом и подушкой. Привезите свою простыню или лёгкое одеяло, средство от насекомых и гермомешок. Уточните душ, воду и питание для ребёнка.",
+        "sources": [
+          "costa-tours-luminosa-overnight"
+        ]
+      },
+      {
+        "title": "Свечение и тёмный берег",
+        "text": "Можно увидеть биолюминесценцию с берега, если условия позволяют. Если участники не плавают или не хотят идти в воду, сообщите это при записи. Поставьте запасной вечерний план при свете луны или волнении.",
+        "sources": [
+          "costa-tours-luminosa-day",
+          "cedros-ict-nicoya-tourism"
+        ]
+      },
+      {
+        "title": "Огонь и рыбалка",
+        "text": "В двухдневной программе организатор указывает вечерний костёр и выход на традиционную рыбалку. Свою рыбалку, костровое место, дрова и разрешения отдельно уточняют у команды.",
+        "sources": [
+          "costa-tours-luminosa-overnight",
+          "incopesca-angling-card"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Tours · Плайя-Луминоса",
+        "source": "costa-tours-luminosa-overnight",
+        "note": "Уточните город сбора, трансфер, детский возраст, место высадки и наличие палаток.",
+        "url": "https://costatourscr.com/es/tour/camping-bioluminiscente-2-dias/"
+      }
+    ],
+    "galleries": [
+      "costa-tours-luminosa-overnight",
+      "costa-tours-luminosa-day"
+    ],
+    "videos": [
+      "cedros-luminosa-field-video"
+    ],
+    "nearby": [
+      "paquera-bioluminescence-kayak",
+      "paquera-isla-chiquita-family-glamp",
+      "cedros-luminosa-camp-no-car-2"
+    ],
+    "connectStops": false
+  },
+  "arenal-venado-cave-camp-2": {
+    "stops": [
+      {
+        "point": "arenal-eco-entry",
+        "role": "День 1 · гостевой вход лагеря",
+        "note": ""
+      },
+      {
+        "point": "arenal-monterrey-locality",
+        "role": "День 2 · ориентир Монтеррея",
+        "note": ""
+      },
+      {
+        "point": "venado-caves-public-entry",
+        "role": "День 2 · каверны Венадо",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъезд через Монтеррей",
+        "text": "На схеме нанесены существующие дороги через Монтеррей. Некоторые короткие соединения грунтовые. Проверьте их у оператора. Ведомство также сообщало об осенних работах на мостах Ruta 4 в районе Венадо.",
+        "sources": [
+          "osm-cr-points",
+          "venado-mopt-2026-works",
+          "venado-conavi-road-inventory"
+        ]
+      },
+      {
+        "title": "Что взять на оба дня",
+        "text": "Для ночи понадобятся палатка, тент, фонарь и сухая смена. Для верхней части пути берите воду и обувь, а в кавернах используйте комплект оператора. У маленьких детей отдельно уточняют допуск.",
+        "sources": [
+          "arenal-eco-camp-details",
+          "venado-caves-operator-tour"
+        ]
+      },
+      {
+        "title": "Погодное окно",
+        "text": "Дождь у вулкана и вода в пещере могут меняться независимо. У гида запросите утреннее подтверждение, а при переносе оставьте на день прогулку по тропам Ареналя.",
+        "sources": [
+          "venado-caves-operator-contact",
+          "arenal-eco-trails-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cavernas del Venado",
+        "source": "venado-caves-operator-contact",
+        "note": "Запросите слот, допустимый возраст, размеры резиновых сапог и решение на случай дождя.",
+        "url": "https://wa.me/50684404333",
+        "phone": "+506 8440 4333",
+        "email": "info@cavernasdevenado.com"
+      },
+      {
+        "name": "Parque Ecológico Arenal",
+        "source": "arenal-eco-arrival",
+        "note": "Запись на ночёвку и хозяйский пин лагеря.",
+        "url": "https://parqueecologicocr.com/es/"
+      }
+    ],
+    "galleries": [
+      "venado-caves-operator-photos",
+      "arenal-eco-camp-details"
+    ],
+    "videos": [
+      "venado-caves-local-video"
+    ],
+    "nearby": [
+      "arenal-peninsula",
+      "arenal-observatory"
+    ],
+    "connectStops": false,
+    "line": "arenal-monterrey-venado-public-osm",
+    "photos": [
+      "venado-forest-commons"
+    ]
+  },
+  "corredores-coto-brus-weekend-2": {
+    "stops": [
+      {
+        "point": "corredores-san-rafael-locality",
+        "role": "День 1 · район встречи с гидом",
+        "note": ""
+      },
+      {
+        "point": "ciudad-neily-centro-hotel",
+        "role": "День 1 · база в Нейли",
+        "note": ""
+      },
+      {
+        "point": "wilson-las-cruces-visitor-buildings",
+        "role": "День 2 · станция Лас-Крусес",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "План по погоде",
+        "text": "Ставьте пещеру на день, который подтверждает организатор. Если вода растёт, посетите сад на станции, а к реке возвращайтесь по новому подтверждению команды.",
+        "sources": [
+          "corredores-caves-surtrips",
+          "wilson-ots-visitor-program"
+        ]
+      },
+      {
+        "title": "Сухая и мокрая части",
+        "text": "Сменные вещи, вода и закрытая обувь остаются отдельными наборами на каждый день. Для прогулки в саду возьмите бинокль. При возвращении по горной дороге учитывайте темноту и осадки.",
+        "sources": [
+          "corredores-caves-surtrips",
+          "wilson-local-tourism-gallery"
+        ]
+      },
+      {
+        "title": "Как прочитать карту",
+        "text": "В Сан-Рафаэле отмечен район встречи. Дорожная линия ведёт из Сьюдад-Нейли к району гостевых корпусов Лас-Крусес. Подземный участок проходит только по варианту, согласованному с гидом.",
+        "sources": [
+          "corredores-san-rafael-ign",
+          "wilson-station-osm-area",
+          "osm-cr-points"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SurTrips · Coto Brus",
+        "source": "corredores-caves-surtrips",
+        "note": "Запрашивайте у организатора открытый маршрут, фактическую воду, точку парковки и экипировку.",
+        "url": "https://surtrips.com/tour-caverna-corredores/"
+      },
+      {
+        "name": "Hotel Centro Turístico Neily",
+        "source": "neily-centro-turistico-directory",
+        "note": "Уточните парковку, ужин и ранний выезд в день похода.",
+        "url": "https://destinobrunca.com/es/node/153",
+        "phone": "+506 2783 3031",
+        "email": "hctncr@hotmail.com"
+      },
+      {
+        "name": "Администрация станции Лас-Крусес",
+        "source": "wilson-municipal-visitor",
+        "note": "Утренний визит, ночной выход и обед бронируются отдельно.",
+        "url": "https://tropicalstudies.org/portfolio/natural-history-visitors-las-cruces/",
+        "phone": "+506 2511 4900",
+        "email": "recepcion.lc@tropicalstudies.org"
+      }
+    ],
+    "galleries": [
+      "corredores-caves-surtrips",
+      "wilson-local-tourism-gallery"
+    ],
+    "videos": [
+      "corredores-caves-mantra-video"
+    ],
+    "nearby": [
+      "golfito-cacao-shore-water-taxi",
+      "golfito-rio-leon-mangroves-boat"
+    ],
+    "connectStops": false,
+    "line": "neily-las-cruces-public-osm"
+  },
+  "turrialba-angostura-atirro-weekend-2": {
+    "stops": [
+      {
+        "point": "angostura-casa-turire",
+        "role": "День 1 · база у водохранилища",
+        "note": ""
+      },
+      {
+        "point": "quijote-lookout-camping",
+        "role": "День 1 · вариант палаточного лагеря",
+        "note": ""
+      },
+      {
+        "point": "camino-gpx-stop-la-suiza",
+        "role": "День 2 · район начала этапа 7",
+        "note": ""
+      },
+      {
+        "point": "camino-gpx-stop-humo",
+        "role": "День 2 · район конца этапа 7",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Логистика двух форматов",
+        "text": "Отелю и лагерю отправьте разные запросы. Для встречи с инструктором оставьте контакт на берегу, для похода согласуйте возврат от точки финиша выбранной ветки.",
+        "sources": [
+          "angostura-turire-contact",
+          "quijote-camping-cr",
+          "camino-stage-7"
+        ]
+      },
+      {
+        "title": "Экипировка лагеря и воды",
+        "text": "Для наземной палатки возьмите тент и свет. На воде нужны жилет, питьевая вода и гермомешок. Спросите, выдаёт ли инструктор экипировку под возраст и уровень.",
+        "sources": [
+          "quijote-camping-guide",
+          "angostura-camino-2026-field",
+          "angostura-poc-sup-lake"
+        ]
+      },
+      {
+        "title": "Что делать при смене погоды",
+        "text": "Ветер на водохранилище, влага на маршруте и условия кемпинга меняются по-разному. При сильной воде проще сократить маршрут до прогулки по ферме или обеда у озера.",
+        "sources": [
+          "angostura-turire-owner",
+          "quijote-camping-guide",
+          "camino-stage-7"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Turire · Турриальба",
+        "source": "angostura-turire-contact",
+        "note": "Спросите дневной доступ, аренду SUP, размер жилета или ночёвку.",
+        "url": "https://www.hotelcasaturire.com/contact-us/",
+        "phone": "+506 2531 1111",
+        "email": "reservaciones@gpr.cr"
+      },
+      {
+        "name": "Pacuare Outdoor Center",
+        "source": "poc-contact",
+        "note": "Подтвердите прокат, доставку, точку спуска и статус своей доски на выбранную дату.",
+        "url": "https://pacuareoutdoorcenter.com/contact/"
+      },
+      {
+        "name": "Quijote Experiencia Rural",
+        "source": "quijote-camping-cr",
+        "note": "Спросите условия наземной палатки и хозяйскую встречу.",
+        "url": "https://camping.cr/listing/quijote-experiencia-rural/"
+      }
+    ],
+    "galleries": [
+      "angostura-camino-2026-field",
+      "quijote-camping-guide"
+    ],
+    "videos": [
+      "angostura-turire-guest-video"
+    ],
+    "nearby": [
+      "pejibaye-school-own-packraft",
+      "atirro-pejibaye-paddle-2"
+    ],
+    "track": "camino-stage-7",
+    "connectStops": false
+  },
+  "cedros-luminosa-camp-no-car-2": {
+    "stops": [
+      {
+        "point": "puntarenas-terminal-point",
+        "role": "Пунтаренас · публичный ориентир морской логистики",
+        "note": "Посадку тура подтверждает Costa Tours."
+      },
+      {
+        "point": "cedros-island-reference-point",
+        "role": "Седрос · ориентир острова",
+        "note": "Точный береговой вход даёт оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Отправление из четырёх районов",
+        "text": "Оператор указывает морской выезд из Пунтаренаса и вариант наземного трансфера из Сан-Хосе, Эредии или Алахуэлы. Подтвердите, какой вариант и завтрак входят в ваш заказ.",
+        "sources": [
+          "costa-tours-luminosa-overnight"
+        ]
+      },
+      {
+        "title": "Готовое место для сна",
+        "text": "Оборудованная наземная палатка заявлена с матрасом и подушкой. Пригодятся тонкое бельё, полотенце, фонарь с красным светом и сухой мешок. Проверьте ночную температуру, душ и хранение вещей.",
+        "sources": [
+          "costa-tours-luminosa-overnight",
+          "cedros-luminosa-field-video"
+        ]
+      },
+      {
+        "title": "Ночное наблюдение",
+        "text": "Возможен формат с берега. С экипажем также согласовывают детский жилет, видимость, прилив, правила вечера и условия возврата при непогоде. Отдельная программа на один день подходит, если ночлег не нужен.",
+        "sources": [
+          "costa-tours-luminosa-day",
+          "cedros-ict-nicoya-tourism"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Tours · Плайя-Луминоса",
+        "source": "costa-tours-luminosa-overnight",
+        "note": "Уточните город сбора, трансфер, детский возраст, место высадки и наличие палаток.",
+        "url": "https://costatourscr.com/es/tour/camping-bioluminiscente-2-dias/"
+      }
+    ],
+    "galleries": [
+      "costa-tours-luminosa-overnight"
+    ],
+    "videos": [
+      "cedros-luminosa-field-video"
+    ],
+    "nearby": [
+      "paquera-bioluminescence-kayak"
+    ],
+    "connectStops": false
+  }
+}
