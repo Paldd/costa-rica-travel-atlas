@@ -140,6 +140,11 @@
         "point": "cahuita-vargas",
         "role": "Сектор Puerto Vargas",
         "note": "Планируйте выход и отдельный транспорт. Отмечен береговой ориентир."
+      },
+      {
+        "point": "cahuita-experience-meet",
+        "role": "Отдельная экскурсия · офис Cahuita Experience",
+        "note": "Для лодочного выхода получите адрес посадки у оператора."
       }
     ],
     "sections": [
@@ -160,6 +165,15 @@
           "cahuita-guides",
           "cahuita-2026"
         ]
+      },
+      {
+        "title": "Как совместить риф и тропу",
+        "text": "Местные команды могут высадить у Punta Cahuita по условиям моря и парка. Согласуйте высадку и обратный пеший путь перед оплатой. При плохой видимости береговой маршрут доступен по режиму парка.",
+        "sources": [
+          "cahuita-experience-reef",
+          "cahuita-cr-snorkel-local",
+          "cahuita-map"
+        ]
       }
     ],
     "contacts": [
@@ -174,11 +188,21 @@
         "name": "Местные лодочные операторы",
         "source": "cahuita-guides",
         "note": "Перечень SINAC для воды и экскурсий."
+      },
+      {
+        "name": "Cahuita Experience",
+        "source": "cahuita-experience-reef",
+        "note": "Попросите подтвердить адрес сбора, возраст участников, видимость и высадку у Punta Cahuita.",
+        "phone": "+506 8378 4764",
+        "url": "https://www.cahuitaexperience.com/snorkeling",
+        "email": "cahuitaexperience@gmail.com"
       }
     ],
     "nearby": [
       "caribe-bus-3",
-      "cocles"
+      "cocles",
+      "cahuita-reef-snorkel",
+      "talamanca-reef-surf-3"
     ],
     "track": "cahuita-trail-km",
     "line": "cahuita-trail"
@@ -189,6 +213,16 @@
         "point": "cocles-beach",
         "role": "Пляж Cocles",
         "note": "Это ориентир бухты. Точную зону урока сообщает инструктор."
+      },
+      {
+        "point": "cocles-cariblue-road",
+        "role": "К школе · поворот на Calle Cariblue",
+        "note": ""
+      },
+      {
+        "point": "caribeans-cocles-cafe",
+        "role": "После урока · кафе Caribeans",
+        "note": ""
       }
     ],
     "sections": [
@@ -209,6 +243,16 @@
           "cr-ict-tips",
           "cahuita-map"
         ]
+      },
+      {
+        "title": "Разные планы для одной группы",
+        "text": "Новичкам и детям договоритесь с инструктором о подходящем участке. Тот, кто не занимается, может провести время в кафе Caribeans или прогуляться вдоль берега. Для просмотра тяжёлой рифовой волны есть отдельная карта Salsa Brava.",
+        "sources": [
+          "cocles-nativos",
+          "mamita-surf-family-cocles",
+          "caribeans-cacao-cocles-direct",
+          "salsa-brava-reef-guide"
+        ]
       }
     ],
     "contacts": [
@@ -218,12 +262,28 @@
         "note": "Школа в районе Cariblue, уроки, точка встречи и размер группы.",
         "phone": "+506 8781 6476",
         "email": "surfschoolnativos@gmail.com"
+      },
+      {
+        "name": "Mamita’s Surf School · La Costa de Papito",
+        "source": "mamita-surf-family-cocles",
+        "note": "Согласуйте пляж, возраст и условия для первого занятия.",
+        "url": "https://www.lacostadepapito.com/surf-school/"
+      },
+      {
+        "name": "Caribeans Coffee & Chocolate",
+        "source": "caribeans-cacao-contact",
+        "note": "Бронь через сайт. Если планируете прогулку, укажите ребёнка и спросите про подъём и обувь.",
+        "url": "https://www.caribeanschocolate.com/contact",
+        "email": "caribeanscr@gmail.com"
       }
     ],
     "nearby": [
       "cahuita-trail",
       "caribe-bus-3",
-      "pato-samara-school"
+      "pato-samara-school",
+      "caribeans-cacao",
+      "salsa-brava-reef",
+      "talamanca-reef-surf-3"
     ],
     "track": null
   },
@@ -279,7 +339,10 @@
     "nearby": [
       "cocles",
       "cahuita-trail",
-      "tortuguero-no-car"
+      "tortuguero-no-car",
+      "cahuita-reef-snorkel",
+      "caribeans-cacao",
+      "talamanca-reef-surf-3"
     ],
     "track": "mepe"
   },

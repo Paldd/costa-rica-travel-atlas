@@ -1,0 +1,1236 @@
+{
+  "dominicalito-surf-family": {
+    "stops": [
+      {
+        "point": "dominicalito-surf-area",
+        "role": "Встреча · Dominicalito Surf Family",
+        "note": "Согласуйте на карте с инструктором актуальную точку."
+      },
+      {
+        "point": "dominical-school-local",
+        "role": "Альтернативная школа · Доминикаль",
+        "note": "Отдельный пляж с другими условиями."
+      },
+      {
+        "point": "dominical-eco-feria-stop",
+        "role": "Закупка у местных производителей · Eco Feria",
+        "note": "Часы и место очной торговли уточняйте у организаторов."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать первое занятие",
+        "text": "Dominicalito Surf Family предлагает разовый урок и серию занятий. У WaveRider занятие для начинающих может пройти в одной из трёх бухт, а час зависит от прилива. Семье с детьми удобнее договориться о небольшом составе и уточнить размер досок.",
+        "sources": [
+          "dominicalito-surf-family-book",
+          "dominical-waverider-firsthand"
+        ]
+      },
+      {
+        "title": "Где остановиться по дороге",
+        "text": "В Доминикале найдите продукты от местных производителей в Eco Feria. Сайт кооператива отдельно публикует выдачу заказов по пятницам. Уточните очную ярмарку перед тем, как закладывать её в выезд.",
+        "sources": [
+          "eco-feria-dominical-direct",
+          "eco-feria-dominical-local-map"
+        ]
+      },
+      {
+        "title": "Берег и море",
+        "text": "Спросите у школы, где провести время тем, кто остаётся на суше. Ассоциация спасателей отдельно публикует покрытие Доминикаля и Эрмосы. Для Доминикалито уточняйте условия у своего инструктора.",
+        "sources": [
+          "ict-sur",
+          "guardavidas-ballena-coast",
+          "dominicalito-surf-family-direct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dominicalito Surf Family",
+        "source": "dominicalito-surf-family-direct",
+        "note": "Укажите возраст, уровень и даты. Попросите точку встречи и время с учётом моря.",
+        "phone": "+506 7175 6293",
+        "url": "https://wa.me/50671756293"
+      },
+      {
+        "name": "Dominical WaveRider · Tortilla Flats",
+        "source": "dominical-waverider-firsthand",
+        "note": "Первый урок или подбор пляжа инструктором. Уточните фактическое место урока отдельно от базы.",
+        "phone": "+506 8311 8950",
+        "url": "https://www.dominicalwaverider.com/surf-lessons",
+        "email": "dominicalwaverider@gmail.com"
+      },
+      {
+        "name": "Eco Feria Dominical",
+        "source": "eco-feria-dominical-direct",
+        "note": "Уточните место и часы очной ярмарки или день выдачи предзаказов.",
+        "phone": "+506 8943 3355",
+        "url": "https://ecoferiadominical.com/",
+        "email": "ecoferiaorders@gmail.com"
+      }
+    ],
+    "nearby": [
+      "dominical-surf",
+      "hermosa-uvita-beach",
+      "uvita-colonia-surf",
+      "costa-ballena-rooftop-surf-3"
+    ]
+  },
+  "hermosa-uvita-beach": {
+    "stops": [
+      {
+        "point": "hermosa-osa-public-approach",
+        "role": "Подъезд к пляжу · Эрмоса-де-Оса",
+        "note": "Маршрут доводит до конца отмеченной дороги. Спуск и место парковки уточните на месте."
+      },
+      {
+        "point": "marino-uvita-gate",
+        "role": "Запасной план · официальный вход Uvita",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как отличить пляж",
+        "text": "Ищите Playa Hermosa de Osa на участке Ruta 34 севернее Увиты. В атласе есть отдельный пляж с тем же названием у Хако.",
+        "sources": [
+          "ict-dominical-ballena-plan",
+          "ict-sur",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Что проверить у спасателей",
+        "text": "Guardavidas Costa Ballena публикует работу постов в Эрмосе и Доминикале. Спросите у дежурных о текущих течениях, флагах и месте, где в этот день разрешён заход. Для маленьких детей основной план здесь — прогулка и песок.",
+        "sources": [
+          "guardavidas-ballena-coast",
+          "ict-sur"
+        ]
+      },
+      {
+        "title": "Чем дополнить полдня",
+        "text": "В Доминикалито можно заказать урок в бухте. В Увите есть официальный вход к берегу Марино-Бальена и отдельная школа у Colonia. Выбирайте место занятия с инструктором по состоянию моря.",
+        "sources": [
+          "dominicalito-surf-family-direct",
+          "uvita360-chaman-lesson",
+          "marino-ballena-sector-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Guardavidas Costa Ballena",
+        "source": "guardavidas-ballena-coast",
+        "note": "Ассоциация публикует пляжи с постами. На месте ориентируйтесь на флаги и береговой пост.",
+        "url": "https://www.lifeguardscostaballena.com/"
+      },
+      {
+        "name": "Dominicalito Surf Family",
+        "source": "dominicalito-surf-family-direct",
+        "note": "Укажите возраст, уровень и даты. Попросите точку встречи и время с учётом моря.",
+        "phone": "+506 7175 6293",
+        "url": "https://wa.me/50671756293"
+      },
+      {
+        "name": "Uvita 360",
+        "source": "uvita360-chaman-lesson",
+        "note": "Урок на Chamán. Согласуйте возраст, индивидуальный формат, вход в парк и точку сбора.",
+        "phone": "+506 8586 8745",
+        "url": "https://uvita360.com/tour/surf-lessons/",
+        "email": "info@uvita360.com"
+      }
+    ],
+    "nearby": [
+      "dominicalito-surf-family",
+      "uvita-colonia-surf",
+      "marino-ballena",
+      "hermosa-jaco"
+    ]
+  },
+  "uvita-colonia-surf": {
+    "stops": [
+      {
+        "point": "colonia-chaman-approach",
+        "role": "Подъезд · сектор Colonia / Chamán",
+        "note": "Точный сбор сообщит школа."
+      },
+      {
+        "point": "cola-ballena-camping-site",
+        "role": "Ночёвка рядом · Camping Cola Ballena",
+        "note": ""
+      },
+      {
+        "point": "marino-uvita-gate",
+        "role": "Отдельный сектор · вход Uvita к косе",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Начать с одного урока",
+        "text": "У Uvita 360 есть уроки для новичков на Playa Chamán. В программе сначала тренируют гребок и подъём на доску на песке. Привязку к приливу, число участников и билет в парк подтвердите у школы.",
+        "sources": [
+          "uvita360-chaman-lesson",
+          "marino-ballena-sector-map",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "title": "Доска и второй урок",
+        "text": "В мастерской Colotico можно уточнить, какую доску выбрать для следующего занятия. Они делают доски в Увите и проводят разовые уроки. Получите свою точку встречи у школы.",
+        "sources": [
+          "colotico-uvita-board-school",
+          "uvita360-chaman-lesson"
+        ]
+      },
+      {
+        "title": "Как выбрать вход",
+        "text": "Для урока ищите Sector Colonia / Playa Chamán. У желающих пройти к песчаной «Китовой косе» отдельный вход Uvita. Закладывайте переезд между секторами и сверяйте окно каждого занятия отдельно.",
+        "sources": [
+          "marino-ballena-sector-map",
+          "marino",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Uvita 360",
+        "source": "uvita360-chaman-lesson",
+        "note": "Урок на Chamán. Согласуйте возраст, индивидуальный формат, вход в парк и точку сбора.",
+        "phone": "+506 8586 8745",
+        "url": "https://uvita360.com/tour/surf-lessons/",
+        "email": "info@uvita360.com"
+      },
+      {
+        "name": "Colotico Surfboards",
+        "source": "colotico-uvita-board-school",
+        "note": "Местная мастерская, выбор доски и урока подходящего уровня.",
+        "url": "https://www.coloticosurfboards.com/",
+        "email": "info@coloticosurfboards.com"
+      },
+      {
+        "name": "SINAC · Marino Ballena",
+        "source": "marino-ballena-sector-map",
+        "note": "Открытие сектора, окно прилива, сбор и условия прохода.",
+        "phone": "+506 2786 5392",
+        "url": "https://www.sinac.go.cr/ES/ac/acosa/pnmb/Paginas/Contacto.aspx",
+        "email": "pnmarinoballena@gmail.com"
+      }
+    ],
+    "nearby": [
+      "cola-ballena-rooftop",
+      "marino-ballena",
+      "dominicalito-surf-family"
+    ]
+  },
+  "cola-ballena-rooftop": {
+    "stops": [
+      {
+        "point": "cola-ballena-camping-site",
+        "role": "Частная площадка · Camping Cola Ballena",
+        "note": "Перед бронированием попросите прислать точный въезд для автомобиля."
+      },
+      {
+        "point": "colonia-chaman-approach",
+        "role": "Подъезд к берегу · Playa Chamán",
+        "note": ""
+      },
+      {
+        "point": "marino-uvita-gate",
+        "role": "Днём · отдельный вход Uvita",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что попросить для крышной палатки",
+        "text": "Укажите габариты машины и высоту открытой палатки. Спросите, можно ли оставить её раскрытой до утра, есть ли ровная площадка вне низины, душ, туалет и питьевая вода. Справочники подтверждают формат размещения, а наличие конкретной площадки подтверждает хозяин.",
+        "sources": [
+          "cola-ballena-camp-listing",
+          "cola-ballena-roof-types"
+        ]
+      },
+      {
+        "title": "Что пишут после ночёвки",
+        "text": "Участники поездки Relatos por el Mundo остановились здесь на маршруте по югу. В отчёте отмечают семейный приём у двух сестёр. Это описание их визита. Актуальные условия уточните по опубликованному WhatsApp.",
+        "sources": [
+          "cola-ballena-camper-report",
+          "cola-ballena-camp-listing"
+        ]
+      },
+      {
+        "title": "Два дня с одной стоянки",
+        "text": "На Playa Chamán можно выйти к берегу или заранее взять урок. На следующий день съездите к сектору Uvita или Piñuela. Дневной доступ в охраняемую зону оформляют по правилам SINAC.",
+        "sources": [
+          "uvita360-chaman-lesson",
+          "marino-ballena-sector-map",
+          "marino"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Cola Ballena",
+        "source": "cola-ballena-camp-listing",
+        "note": "Заранее подтвердите место для автомобиля с открытой крышей, ночной заезд и актуальную цену.",
+        "phone": "+506 8615 8789",
+        "url": "https://wa.me/50686158789"
+      },
+      {
+        "name": "Uvita 360",
+        "source": "uvita360-chaman-lesson",
+        "note": "Урок на Chamán. Согласуйте возраст, индивидуальный формат, вход в парк и точку сбора.",
+        "phone": "+506 8586 8745",
+        "url": "https://uvita360.com/tour/surf-lessons/",
+        "email": "info@uvita360.com"
+      },
+      {
+        "name": "SINAC · Marino Ballena",
+        "source": "marino-ballena-sector-map",
+        "note": "Открытие сектора, окно прилива, сбор и условия прохода.",
+        "phone": "+506 2786 5392",
+        "url": "https://www.sinac.go.cr/ES/ac/acosa/pnmb/Paginas/Contacto.aspx",
+        "email": "pnmarinoballena@gmail.com"
+      }
+    ],
+    "nearby": [
+      "uvita-colonia-surf",
+      "marino-ballena",
+      "pinuela-beach",
+      "costa-ballena-rooftop-surf-3"
+    ]
+  },
+  "pinuela-beach": {
+    "stops": [
+      {
+        "point": "pinuela-road-end",
+        "role": "Подъезд · Calle Playa Piñuela",
+        "note": "Въезд и приём посетителей подтвердите в парке."
+      },
+      {
+        "point": "ventanas-osa-beach-approach",
+        "role": "Следующая бухта · Ventanas",
+        "note": "Переезд по Ruta 34 и другая парковка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Когда сюда ехать",
+        "text": "SINAC указывает Piñuela среди четырёх официальных секторов. Это вариант береговой части поездки в день, когда переход к косе Uvita не совпадает с вашим временем. Уточните фактическое состояние въезда и береговой зоны перед выездом.",
+        "sources": [
+          "marino",
+          "marino-ballena-sector-map",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "title": "Как построить короткий выезд",
+        "text": "Сначала Piñuela через свой въезд, потом Ventanas отдельным подъездом. Линия поездки проходит по дороге. Возьмите воду и закуски в Увите или Очочале.",
+        "sources": [
+          "ict-sur",
+          "ventanas-osa-access-faq",
+          "osm-cr-points"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Marino Ballena",
+        "source": "marino-ballena-sector-map",
+        "note": "Открытие сектора, окно прилива, сбор и условия прохода.",
+        "phone": "+506 2786 5392",
+        "url": "https://www.sinac.go.cr/ES/ac/acosa/pnmb/Paginas/Contacto.aspx",
+        "email": "pnmarinoballena@gmail.com"
+      }
+    ],
+    "nearby": [
+      "ventanas-shore",
+      "marino-ballena",
+      "cola-ballena-rooftop",
+      "costa-ballena-rooftop-surf-3"
+    ]
+  },
+  "ventanas-shore": {
+    "stops": [
+      {
+        "point": "ventanas-osa-beach-approach",
+        "role": "Подъезд · Playa Ventanas",
+        "note": "Проверьте доступность парковки и состояние последнего отрезка."
+      },
+      {
+        "point": "pinuela-road-end",
+        "role": "Соседний сектор · Piñuela",
+        "note": "Официальный вход в парк по отдельной дороге."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъезд и ориентиры",
+        "text": "Локальная памятка показывает поворот со стороны Ruta 34 у километрового ориентира 176. Карта атласа ведёт по Calle Playa Ventanas. Окончательную схему въезда и стоянки сообщат на месте.",
+        "sources": [
+          "ventanas-osa-access-faq",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Остановиться ради берега",
+        "text": "В фотодневнике видны проёмы и линия скал с песка. Планируйте смотреть оттуда. Время низкой воды и местные условия проверьте до выезда, так как в прибое вода заходит в проёмы и меняет доступ вдоль скал.",
+        "sources": [
+          "ventanas-osa-photo-report",
+          "ventanas-osa-access-faq",
+          "imn-tides-table",
+          "ict-sur"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Ventanas · местная информация",
+        "source": "ventanas-osa-access-faq",
+        "note": "Схема поворота и информация о посещении.",
+        "url": "https://playaventanascostarica.com/faq/"
+      }
+    ],
+    "nearby": [
+      "pinuela-beach",
+      "marino-ballena",
+      "costa-ballena-rooftop-surf-3"
+    ]
+  },
+  "costa-ballena-rooftop-surf-3": {
+    "stops": [
+      {
+        "point": "dominical-eco-feria-stop",
+        "role": "День 1 · продукты и кофе в Доминикале",
+        "note": "День очной ярмарки сверяйте с организаторами."
+      },
+      {
+        "point": "dominical-school-local",
+        "role": "День 1 · берег Доминикаля",
+        "note": ""
+      },
+      {
+        "point": "dominicalito-surf-area",
+        "role": "День 1 · урок Dominicalito Surf Family",
+        "note": ""
+      },
+      {
+        "point": "hermosa-osa-public-approach",
+        "role": "День 1 · тёмный берег Эрмосы",
+        "note": ""
+      },
+      {
+        "point": "colonia-chaman-approach",
+        "role": "Дни 1–3 · съезд на Chamán",
+        "note": ""
+      },
+      {
+        "point": "cola-ballena-camping-site",
+        "role": "Ночи 1 и 2 · Camping Cola Ballena",
+        "note": ""
+      },
+      {
+        "point": "marino-uvita-gate",
+        "role": "День 2 · вход Uvita",
+        "note": ""
+      },
+      {
+        "point": "punta-ballena-tide",
+        "role": "Ориентир косы · проход по решению SINAC",
+        "note": ""
+      },
+      {
+        "point": "pinuela-road-end",
+        "role": "День 3 · Sector Piñuela",
+        "note": ""
+      },
+      {
+        "point": "ventanas-osa-beach-approach",
+        "role": "День 3 · берег Ventanas",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Для семьи и небольшой компании",
+        "text": "С маленькими детьми можно оставить прогулку, короткий берег и ранний заезд. Детям, которые уже уверенно чувствуют себя в море, заранее согласуйте отдельный урок с инструктором. Для компании удобно взять два урока на разных пляжах.",
+        "sources": [
+          "dominicalito-surf-family-book",
+          "uvita360-chaman-lesson",
+          "guardavidas-ballena-coast"
+        ]
+      },
+      {
+        "title": "Как разместить машину",
+        "text": "У площадки Cola Ballena уточните ширину места с открытой палаткой и навесом, доступ к душу и время въезда. Отмеченный маршрут доводит до подхода к сектору. Подъезд на саму площадку подтвердите у хозяев.",
+        "sources": [
+          "cola-ballena-roof-types",
+          "cola-ballena-camp-listing",
+          "cola-ballena-camper-report"
+        ]
+      },
+      {
+        "title": "Порядок при волне или дожде",
+        "text": "Сперва проверьте флаги и состояние дорог. Перенести можно и урок, и поездку к косе. В качестве сухопутной остановки останутся береговые точки, ярмарка при совпадении расписания или мастерская досок по согласованию.",
+        "sources": [
+          "guardavidas-ballena-coast",
+          "marino-ballena-sector-map",
+          "imn-tides-table",
+          "eco-feria-dominical-direct",
+          "colotico-uvita-board-school"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Cola Ballena",
+        "source": "cola-ballena-camp-listing",
+        "note": "Заранее подтвердите место для автомобиля с открытой крышей, ночной заезд и актуальную цену.",
+        "phone": "+506 8615 8789",
+        "url": "https://wa.me/50686158789"
+      },
+      {
+        "name": "Dominicalito Surf Family",
+        "source": "dominicalito-surf-family-direct",
+        "note": "Укажите возраст, уровень и даты. Попросите точку встречи и время с учётом моря.",
+        "phone": "+506 7175 6293",
+        "url": "https://wa.me/50671756293"
+      },
+      {
+        "name": "Uvita 360",
+        "source": "uvita360-chaman-lesson",
+        "note": "Урок на Chamán. Согласуйте возраст, индивидуальный формат, вход в парк и точку сбора.",
+        "phone": "+506 8586 8745",
+        "url": "https://uvita360.com/tour/surf-lessons/",
+        "email": "info@uvita360.com"
+      },
+      {
+        "name": "SINAC · Marino Ballena",
+        "source": "marino-ballena-sector-map",
+        "note": "Открытие сектора, окно прилива, сбор и условия прохода.",
+        "phone": "+506 2786 5392",
+        "url": "https://www.sinac.go.cr/ES/ac/acosa/pnmb/Paginas/Contacto.aspx",
+        "email": "pnmarinoballena@gmail.com"
+      },
+      {
+        "name": "Eco Feria Dominical",
+        "source": "eco-feria-dominical-direct",
+        "note": "Уточните место и часы очной ярмарки или день выдачи предзаказов.",
+        "phone": "+506 8943 3355",
+        "url": "https://ecoferiadominical.com/",
+        "email": "ecoferiaorders@gmail.com"
+      }
+    ],
+    "nearby": [
+      "dominicalito-surf-family",
+      "hermosa-uvita-beach",
+      "uvita-colonia-surf",
+      "cola-ballena-rooftop",
+      "pinuela-beach",
+      "ventanas-shore",
+      "marino-ballena"
+    ],
+    "line": "costa-ballena-rooftop-surf-3"
+  },
+  "cahuita-reef-snorkel": {
+    "stops": [
+      {
+        "point": "cahuita-experience-meet",
+        "role": "Встреча · офис Cahuita Experience",
+        "note": "Адрес и причал перепроверьте у команды при записи."
+      },
+      {
+        "point": "cahuita-punta",
+        "role": "Ориентир · Punta Cahuita",
+        "note": "Возможную высадку и пешее возвращение согласуйте заранее."
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "Пешее возвращение · Playa Blanca / Kelly Creek",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выезд и обратный путь",
+        "text": "Cahuita Experience публикует сбор в офисе, выдачу снаряжения у посадки и выход на лодке к рифу. Cahuita.cr предлагает варианты с возвращением на лодке или береговой прогулкой. Для второго варианта попросите подтверждение разрешённой высадки и времени на тропу.",
+        "sources": [
+          "cahuita-experience-reef",
+          "cahuita-cr-snorkel-local",
+          "cahuita-map"
+        ]
+      },
+      {
+        "title": "Что влияет на поездку",
+        "text": "Попросите ответить утром на вопрос о прозрачности и волне. Проверьте, есть ли маска и жилет ребёнку, что требуется от начинающего пловца и как переносится отменённый выезд. При плохих условиях оставьте береговую тропу с входом Kelly Creek.",
+        "sources": [
+          "cahuita-cr-snorkel-local",
+          "cahuita-experience-reef",
+          "cahuita-trail-km"
+        ]
+      },
+      {
+        "title": "Как беречь риф",
+        "text": "Договоритесь с оператором о разрешённом участке. Не трогайте кораллы, не становитесь на них и сохраняйте дистанцию от животных. Участок снорклинга выбирает команда по условиям парка и моря.",
+        "sources": [
+          "cahuita",
+          "cahuita-sinac-coral-plan",
+          "cahuita-guides"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cahuita Experience",
+        "source": "cahuita-experience-reef",
+        "note": "Попросите подтвердить адрес сбора, возраст участников, видимость и высадку у Punta Cahuita.",
+        "phone": "+506 8378 4764",
+        "url": "https://www.cahuitaexperience.com/snorkeling",
+        "email": "cahuitaexperience@gmail.com"
+      },
+      {
+        "name": "Cahuita.cr · местный оператор",
+        "source": "cahuita-cr-snorkel-local",
+        "note": "Снорклинг отдельно или с пешим гидом. Спросите, включены ли сборы и что происходит при переносе из-за моря.",
+        "phone": "+506 8900 8684",
+        "url": "https://wa.me/50689008684"
+      }
+    ],
+    "nearby": [
+      "cahuita-trail",
+      "talamanca-reef-surf-3",
+      "caribe-bus-3"
+    ]
+  },
+  "caribeans-cacao": {
+    "stops": [
+      {
+        "point": "caribeans-cocles-cafe",
+        "role": "Встреча и дегустация · Caribeans",
+        "note": "Посадка на экскурсию в кафе у дороги, если оператор не назначит другой сбор."
+      },
+      {
+        "point": "cocles-beach",
+        "role": "Рядом · берег Коклеса",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кофе без экскурсии",
+        "text": "В кафе обжаривают кофе из Mata de Plátano и работают с какао из Таламанки. Можно взять напиток и плитку местного шоколада между береговыми остановками.",
+        "sources": [
+          "caribeans-cacao-cocles-direct",
+          "caribeans-cocles-local-guide"
+        ]
+      },
+      {
+        "title": "Прогулка к какао",
+        "text": "В программе разбирают путь от плодов какао до шоколада. Участники отзывов отмечают подъём к точке дегустации, виды и объяснения гида. Для семьи с коляской заранее обсудите доступность или останьтесь на дегустацию в кафе.",
+        "sources": [
+          "caribeans-cacao-cocles-direct",
+          "caribeans-cocles-visitor-notes",
+          "caribeans-cacao-contact"
+        ]
+      },
+      {
+        "title": "Как встроить в день",
+        "text": "Кафе находится у Ruta 256. Согласуйте время экскурсии в стороне от урока сёрфа, который может сдвинуться по морю. Для одного заезда достаточно напитка и прогулки вдоль берега.",
+        "sources": [
+          "caribeans-cocles-local-guide",
+          "cocles-nativos",
+          "osm-cr-points"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caribeans Coffee & Chocolate",
+        "source": "caribeans-cacao-contact",
+        "note": "Бронь через сайт. Если планируете прогулку, укажите ребёнка и спросите про подъём и обувь.",
+        "url": "https://www.caribeanschocolate.com/contact",
+        "email": "caribeanscr@gmail.com"
+      }
+    ],
+    "nearby": [
+      "cocles",
+      "salsa-brava-reef",
+      "talamanca-reef-surf-3"
+    ]
+  },
+  "salsa-brava-reef": {
+    "stops": [
+      {
+        "point": "salsa-brava-shore-view",
+        "role": "С берега · район рифа Salsa Brava",
+        "note": "Смотрите со стороны населённой части берега."
+      },
+      {
+        "point": "caribeans-cocles-cafe",
+        "role": "После берега · Caribeans в сторону Cocles",
+        "note": ""
+      },
+      {
+        "point": "cocles-beach",
+        "role": "Отдельный пляж · стоп для урока по подбору школы",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Уровень и характер волны",
+        "text": "ICT относит Salsa Brava к мощным волнам направления, а Surfline описывает короткую рифовую зону с тяжёлой волной. Фактические течения и выход оценивайте с местным опытным сёрфером, знакомым с этим рифом.",
+        "sources": [
+          "ict-talamanca-salsa-brava",
+          "salsa-brava-reef-guide"
+        ]
+      },
+      {
+        "title": "Если в группе разный уровень",
+        "text": "Оставьте Salsa Brava для берегового просмотра. Для ученика свяжитесь с Mamita или Nativos и спросите, какой участок выбран с учётом того, как человек плавает. Для ожидания удобно кафе у начала Коклеса.",
+        "sources": [
+          "mamita-surf-family-cocles",
+          "cocles-nativos",
+          "caribeans-cacao-cocles-direct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Mamita’s Surf School · La Costa de Papito",
+        "source": "mamita-surf-family-cocles",
+        "note": "Согласуйте пляж, возраст и условия для первого занятия.",
+        "url": "https://www.lacostadepapito.com/surf-school/"
+      },
+      {
+        "name": "Caribeans Coffee & Chocolate",
+        "source": "caribeans-cacao-contact",
+        "note": "Бронь через сайт. Если планируете прогулку, укажите ребёнка и спросите про подъём и обувь.",
+        "url": "https://www.caribeanschocolate.com/contact",
+        "email": "caribeanscr@gmail.com"
+      }
+    ],
+    "nearby": [
+      "cocles",
+      "caribeans-cacao",
+      "talamanca-reef-surf-3"
+    ]
+  },
+  "talamanca-reef-surf-3": {
+    "stops": [
+      {
+        "point": "cahuita-experience-meet",
+        "role": "День 1 · встреча с лодочной командой",
+        "note": ""
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "День 1 · пеший вход Playa Blanca",
+        "note": ""
+      },
+      {
+        "point": "cahuita-punta",
+        "role": "День 1 · береговой ориентир Punta Cahuita",
+        "note": ""
+      },
+      {
+        "point": "salsa-brava-shore-view",
+        "role": "День 2 · берег у рифа Salsa Brava",
+        "note": ""
+      },
+      {
+        "point": "caribeans-cocles-cafe",
+        "role": "День 2 · объекты какао и кофе",
+        "note": ""
+      },
+      {
+        "point": "cocles-cariblue-road",
+        "role": "Дни 2 и 3 · дорожный ориентир у школы",
+        "note": ""
+      },
+      {
+        "point": "cocles-beach",
+        "role": "Дни 2 и 3 · Cocles",
+        "note": ""
+      },
+      {
+        "point": "punta-uva-shore-area",
+        "role": "День 3 · бухта Punta Uva",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Если часть семьи остаётся на суше",
+        "text": "В Кауите можно назначить встречу у входа Kelly Creek. В Коклесе удобно совместить береговую прогулку с остановкой в кафе. Перед вводным занятием уточните возраст ребёнка, умение плавать и наличие индивидуального урока.",
+        "sources": [
+          "cahuita-map",
+          "cocles-nativos",
+          "caribeans-cacao-cocles-direct"
+        ]
+      },
+      {
+        "title": "Когда переставить дни",
+        "text": "В Кауите уточняйте видимость и волну в день выезда. Если лодка отменена, сначала пройдите парк или посетите кафе по времени экскурсии. Каяк и урок в соседней бухте согласуются отдельно по местным условиям.",
+        "sources": [
+          "cahuita-experience-reef",
+          "cahuita-cr-snorkel-local",
+          "caribeans-cacao-cocles-direct",
+          "ict-caribe"
+        ]
+      },
+      {
+        "title": "Без автомобиля",
+        "text": "Выберите жильё в пешей доступности от основной дороги. Сверяйте остановки и последний рейс MEPE по карточке автобусного маршрута. На лодочные и спортивные выезды попросите оператора подтвердить сбор и перевозку вещей.",
+        "sources": [
+          "mepe",
+          "cahuita-experience-reef",
+          "mamita-surf-family-cocles"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cahuita Experience",
+        "source": "cahuita-experience-reef",
+        "note": "Попросите подтвердить адрес сбора, возраст участников, видимость и высадку у Punta Cahuita.",
+        "phone": "+506 8378 4764",
+        "url": "https://www.cahuitaexperience.com/snorkeling",
+        "email": "cahuitaexperience@gmail.com"
+      },
+      {
+        "name": "Cahuita.cr · местный оператор",
+        "source": "cahuita-cr-snorkel-local",
+        "note": "Снорклинг отдельно или с пешим гидом. Спросите, включены ли сборы и что происходит при переносе из-за моря.",
+        "phone": "+506 8900 8684",
+        "url": "https://wa.me/50689008684"
+      },
+      {
+        "name": "Mamita’s Surf School · La Costa de Papito",
+        "source": "mamita-surf-family-cocles",
+        "note": "Согласуйте пляж, возраст и условия для первого занятия.",
+        "url": "https://www.lacostadepapito.com/surf-school/"
+      },
+      {
+        "name": "Caribeans Coffee & Chocolate",
+        "source": "caribeans-cacao-contact",
+        "note": "Бронь через сайт. Если планируете прогулку, укажите ребёнка и спросите про подъём и обувь.",
+        "url": "https://www.caribeanschocolate.com/contact",
+        "email": "caribeanscr@gmail.com"
+      }
+    ],
+    "nearby": [
+      "caribe-bus-3",
+      "cahuita-reef-snorkel",
+      "caribeans-cacao",
+      "salsa-brava-reef",
+      "puerto-viejo-bike-manzanillo"
+    ],
+    "line": "talamanca-reef-surf-3"
+  },
+  "osa-pan-dulce-lesson": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Выезд · Puerto Jiménez",
+        "note": "Согласуйте адрес сбора в городе, если берёте трансфер."
+      },
+      {
+        "point": "pan-dulce-osa-shore",
+        "role": "Урок · Pan Dulce",
+        "note": "Береговой ориентир. Окончательный сбор назначит инструктор."
+      },
+      {
+        "point": "encanta-la-vida-matapalo-base",
+        "role": "При желании · обед и ночёвка у берега",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два контакта на один берег",
+        "text": "Osa Wild указывает Pan Dulce для вводного урока в подходящую фазу прилива. Matapalo Surf Experience ведёт занятия в регионе. Укажите уровень и спросите, где пройдёт занятие для вашего состава. Точный состав трансфера подтвердите отдельно.",
+        "sources": [
+          "osa-wild-pan-dulce-lesson",
+          "matapalo-surf-experience-direct"
+        ]
+      },
+      {
+        "title": "Дорога из Пуэрто-Хименеса",
+        "text": "Официальный путеводитель ICT выделяет несколько бухт с разными условиями. Для урока попросите точку именно на Pan Dulce. Последнюю часть пути лучше сверить у местного водителя или хозяев жилья после дождя.",
+        "sources": [
+          "ict-osa-cabo-beaches",
+          "cabo-matapalo-aguaepipa",
+          "osa-wild-pan-dulce-lesson"
+        ]
+      },
+      {
+        "title": "Что пишут ученики",
+        "text": "В отзывах, опубликованных самой школой Matapalo, отмечают подбор занятия под разный опыт. Для своего выезда спросите, как группа делится по уровню, выдаёт ли школа защитную одежду и когда возможен перенос.",
+        "sources": [
+          "matapalo-surf-experience-direct",
+          "osa-wild-pan-dulce-lesson"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Wild · урок на Pan Dulce",
+        "source": "osa-wild-pan-dulce-lesson",
+        "note": "Попросите раздельно подтвердить перенос, аренду доски, возраст и включение трансфера.",
+        "phone": "+506 8716 5775",
+        "url": "https://www.osawild.travel/product/surfing-lessons",
+        "email": "info@osawild.travel"
+      },
+      {
+        "name": "Matapalo Surf Experience · Аарон",
+        "source": "matapalo-surf-experience-direct",
+        "note": "Урок или тренировка по уровню и состоянию воды. Согласуйте встречу и спот с командой.",
+        "phone": "+506 8946 0041",
+        "url": "https://wa.me/50689460041",
+        "email": "matapalosurfexperience@gmail.com"
+      },
+      {
+        "name": "Encanta La Vida · лодж и ресторан",
+        "source": "encanta-la-vida-matapalo-dining",
+        "note": "Попросите подтвердить визит на обед, если живёте в другом месте, и проезд в дождь.",
+        "phone": "+506 8376 3209",
+        "url": "https://encantalavida.com/dining/",
+        "email": "reservations@encantalavida.com"
+      }
+    ],
+    "nearby": [
+      "cabo-matapalo-backwash",
+      "cabo-matapalo-surf-3",
+      "lapa-rios"
+    ]
+  },
+  "cabo-matapalo-backwash": {
+    "stops": [
+      {
+        "point": "backwash-matapalo-road-bend",
+        "role": "Дорога · район Backwash",
+        "note": "Ориентир на Calle Matapalo. Проход к берегу согласуйте."
+      },
+      {
+        "point": "encanta-la-vida-matapalo-base",
+        "role": "Заезд по согласованию · Encanta La Vida",
+        "note": ""
+      },
+      {
+        "point": "pan-dulce-osa-shore",
+        "role": "Более ранний участок берега · Pan Dulce",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три волны на одном побережье",
+        "text": "ICT выделяет Pan Dulce, Backwash и Matapalo как разные участки. Surfzone описывает подводные камни и характер Backwash. Уверенным сёрферам стоит согласовать чтение спота с местной командой. Для первого урока у Osa Wild есть отдельный вариант на Pan Dulce.",
+        "sources": [
+          "ict-osa-cabo-beaches",
+          "backwash-osa-surfzone",
+          "osa-wild-pan-dulce-lesson",
+          "matapalo-surf-experience-direct"
+        ]
+      },
+      {
+        "title": "Что удобно сделать на берегу",
+        "text": "У Encanta La Vida есть ресторан с завтраками, обедом и ужином. Попросите подтвердить визит без проживания и где оставить машину. На карте отмечены район дороги и лодж.",
+        "sources": [
+          "encanta-la-vida-matapalo-dining",
+          "encanta-la-vida-matapalo-lodge",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Последний подъезд",
+        "text": "В местном путеводителе отмечена грунтовая составляющая дороги из Puerto Jiménez. После ливня узнайте про проезд к выбранному споту и используйте дневной трансфер, если сомневаетесь в доступе.",
+        "sources": [
+          "cabo-matapalo-aguaepipa",
+          "matapalo-surf-experience-direct",
+          "osa-wild-pan-dulce-lesson"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Matapalo Surf Experience · Аарон",
+        "source": "matapalo-surf-experience-direct",
+        "note": "Урок или тренировка по уровню и состоянию воды. Согласуйте встречу и спот с командой.",
+        "phone": "+506 8946 0041",
+        "url": "https://wa.me/50689460041",
+        "email": "matapalosurfexperience@gmail.com"
+      },
+      {
+        "name": "Encanta La Vida · лодж и ресторан",
+        "source": "encanta-la-vida-matapalo-dining",
+        "note": "Попросите подтвердить визит на обед, если живёте в другом месте, и проезд в дождь.",
+        "phone": "+506 8376 3209",
+        "url": "https://encantalavida.com/dining/",
+        "email": "reservations@encantalavida.com"
+      },
+      {
+        "name": "Osa Wild · урок на Pan Dulce",
+        "source": "osa-wild-pan-dulce-lesson",
+        "note": "Попросите раздельно подтвердить перенос, аренду доски, возраст и включение трансфера.",
+        "phone": "+506 8716 5775",
+        "url": "https://www.osawild.travel/product/surfing-lessons",
+        "email": "info@osawild.travel"
+      }
+    ],
+    "nearby": [
+      "osa-pan-dulce-lesson",
+      "cabo-matapalo-surf-3",
+      "lapa-rios"
+    ]
+  },
+  "aventuras-cafe-puerto-jimenez": {
+    "stops": [
+      {
+        "point": "aventuras-cafe-osa-estate",
+        "role": "Остановка · Aventuras, Pueblo Viejo",
+        "note": "Отмечена территория Aventuras. Точный вход смотрите в адресе кафе."
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Другой заезд · муниципальный причал Puerto Jiménez",
+        "note": "Место посадки на чартер может отличаться."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что попробовать и сколько времени оставить",
+        "text": "Кафе работает как семейный проект. В меню есть блюда с местным урожаем и выпечка. В отзывах отмечают тихое место на окраине и десерты. Для самостоятельного выезда удобно заехать до переезда к океанскому берегу или после прогулки по заливу.",
+        "sources": [
+          "aventuras-cafe-osa-direct",
+          "aventuras-cafe-osa-guest-notes"
+        ]
+      },
+      {
+        "title": "Что рядом на воде",
+        "text": "Отдельно можно связаться с местной командой для рыбалки в заливе или прогулки на каяке по манграм. Уточните у организатора адрес посадки и чем дополнить выезд для тех, кто остаётся на суше.",
+        "sources": [
+          "osa-green-fishing",
+          "fish-puerto-jimenez-boat",
+          "aventuras-cafe-osa-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aventuras Café · Pueblo Viejo",
+        "source": "aventuras-cafe-osa-contact",
+        "note": "Семейное кафе у залива. Уточните часы и встречу, если совмещаете с выездом на лодке.",
+        "phone": "+506 8936 8113",
+        "url": "https://wa.me/50689368113",
+        "email": "aventurascafe@gmail.com"
+      }
+    ],
+    "nearby": [
+      "puerto-jimenez-inshore-boat",
+      "golfo-dulce-mangrove-kayak",
+      "cabo-matapalo-surf-3"
+    ]
+  },
+  "punta-banco-rancho-tiskita": {
+    "stops": [
+      {
+        "point": "rio-claro-pavones",
+        "role": "Старт · Río Claro de Pavones",
+        "note": ""
+      },
+      {
+        "point": "punta-banco-tiskita-turn",
+        "role": "Съезд · к Tiskita Jungle Lodge",
+        "note": ""
+      },
+      {
+        "point": "tiskita-reserve-lodge",
+        "role": "По записи · лесной резерват Tiskita",
+        "note": ""
+      },
+      {
+        "point": "punta-banco-village",
+        "role": "Пунта-Банко · посёлок",
+        "note": ""
+      },
+      {
+        "point": "rancho-burica-punta-banco-base",
+        "role": "Ночёвка и уроки · Rancho Burica",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где ночевать и поесть",
+        "text": "Rancho Burica публикует кабины, парковку для гостей и услуги своего ресторана. О времени ужина и сезонном минимуме ночей спросите при записи. В отзывах выделяют расположение у берега. Наличные удобно снять до последнего участка дороги.",
+        "sources": [
+          "rancho-burica-cabinas-faq",
+          "rancho-burica-guest-notes"
+        ]
+      },
+      {
+        "title": "Сёрф и тропа на выбор",
+        "text": "На уроке у Rancho Burica уточните, где команда выбрала воду и входит ли поездка к Павонесу. Tiskita проводит прогулки по частному резервату. Запросите дневной визит с проводником и подходящую длину тропы.",
+        "sources": [
+          "rancho-burica-punta-banco-surf",
+          "tiskita-activities-punta-banco",
+          "tiskita-visit-day-contact"
+        ]
+      },
+      {
+        "title": "Как ехать без машины",
+        "text": "Pavones Hub публикует местных перевозчиков и связку Golfito — Pavones — Punta Banco. Напишите перевозчику о дате, багаже или доске и получите подтверждение места высадки. Для поездки на автомобиле спросите о последнем грунтовом участке.",
+        "sources": [
+          "pavones-hub-transport",
+          "rancho-burica-cabinas-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rancho Burica",
+        "source": "rancho-burica-punta-banco-surf",
+        "note": "Кабины, уроки, аренда и согласование ужина. Уточните машину и проезд к стоянке.",
+        "phone": "+506 8910 8999",
+        "url": "https://wa.me/50689108999",
+        "email": "info@ranchoburica.com"
+      },
+      {
+        "name": "Tiskita Jungle Lodge",
+        "source": "tiskita-visit-day-contact",
+        "note": "Уточните визит без ночёвки, время гида и подъезд к частному резерву.",
+        "phone": "+506 8935 2834",
+        "url": "https://tiskita.com/contact-2/",
+        "email": "reservaciones@tiskita.com"
+      },
+      {
+        "name": "Pavones Hub · местный транспорт",
+        "source": "pavones-hub-transport",
+        "note": "Контакты автобусного оператора и водителей опубликованы в справочнике.",
+        "url": "https://pavoneshub.com/transporte-transportation/"
+      }
+    ],
+    "nearby": [
+      "pavones",
+      "puerto-jimenez-inshore-boat",
+      "golfito-jimenez-passenger-boat"
+    ],
+    "line": "pavones-punta-banco-road"
+  },
+  "cabo-matapalo-surf-3": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Дни 1 и 3 · район причала Puerto Jiménez",
+        "note": ""
+      },
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Дни 1–3 · выезд из посёлка",
+        "note": ""
+      },
+      {
+        "point": "aventuras-cafe-osa-estate",
+        "role": "День 1 · Aventuras Café в Pueblo Viejo",
+        "note": ""
+      },
+      {
+        "point": "pan-dulce-osa-shore",
+        "role": "День 2 · урок Pan Dulce",
+        "note": ""
+      },
+      {
+        "point": "backwash-matapalo-road-bend",
+        "role": "День 2 · район Backwash",
+        "note": ""
+      },
+      {
+        "point": "encanta-la-vida-matapalo-base",
+        "role": "День 2 · питание и ночёвка у берега",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что бронировать первым",
+        "text": "Согласуйте время урока и транспорт, затем ночь. Если удобнее спать в Пуэрто-Хименесе, начните третий день сразу у залива. В ночёвке у берега держите время на обратную дорогу до лодки.",
+        "sources": [
+          "osa-wild-pan-dulce-lesson",
+          "matapalo-surf-experience-direct",
+          "encanta-la-vida-matapalo-lodge",
+          "cabo-matapalo-aguaepipa"
+        ]
+      },
+      {
+        "title": "Если у компании разные планы",
+        "text": "На Pan Dulce можно взять вводное занятие по условиям. Для опытных смотрите отдельную карточку Backwash. Родителям с детьми подойдут кафе, береговая остановка и выезд по заливу после согласования возраста и жилетов.",
+        "sources": [
+          "ict-osa-cabo-beaches",
+          "osa-wild-pan-dulce-lesson",
+          "aventuras-cafe-osa-direct",
+          "osa-green-fishing"
+        ]
+      },
+      {
+        "title": "Вариант с рыбалкой",
+        "text": "Спросите у команды про короткий рейс внутри залива вместо выхода в открытый океан, снасти, вопросы лицензии и место посадки. При необходимости оставьте день свободным для переноса после дождя или сильного ветра.",
+        "sources": [
+          "fish-puerto-jimenez-boat",
+          "osa-green-fishing",
+          "incopesca-sport-fishing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aventuras Café · Pueblo Viejo",
+        "source": "aventuras-cafe-osa-contact",
+        "note": "Семейное кафе у залива. Уточните часы и встречу, если совмещаете с выездом на лодке.",
+        "phone": "+506 8936 8113",
+        "url": "https://wa.me/50689368113",
+        "email": "aventurascafe@gmail.com"
+      },
+      {
+        "name": "Osa Wild · урок на Pan Dulce",
+        "source": "osa-wild-pan-dulce-lesson",
+        "note": "Попросите раздельно подтвердить перенос, аренду доски, возраст и включение трансфера.",
+        "phone": "+506 8716 5775",
+        "url": "https://www.osawild.travel/product/surfing-lessons",
+        "email": "info@osawild.travel"
+      },
+      {
+        "name": "Matapalo Surf Experience · Аарон",
+        "source": "matapalo-surf-experience-direct",
+        "note": "Урок или тренировка по уровню и состоянию воды. Согласуйте встречу и спот с командой.",
+        "phone": "+506 8946 0041",
+        "url": "https://wa.me/50689460041",
+        "email": "matapalosurfexperience@gmail.com"
+      },
+      {
+        "name": "Encanta La Vida · лодж и ресторан",
+        "source": "encanta-la-vida-matapalo-dining",
+        "note": "Попросите подтвердить визит на обед, если живёте в другом месте, и проезд в дождь.",
+        "phone": "+506 8376 3209",
+        "url": "https://encantalavida.com/dining/",
+        "email": "reservations@encantalavida.com"
+      },
+      {
+        "name": "Fish Puerto Jiménez",
+        "source": "fish-puerto-jimenez-boat",
+        "note": "Связь для прибрежного рейса, лицензий и актуального сбора.",
+        "url": "https://www.fishpuertojimenez.com/"
+      }
+    ],
+    "nearby": [
+      "aventuras-cafe-puerto-jimenez",
+      "osa-pan-dulce-lesson",
+      "cabo-matapalo-backwash",
+      "golfo-dulce-mangrove-kayak",
+      "puerto-jimenez-inshore-boat"
+    ],
+    "line": "cabo-matapalo-surf-3"
+  }
+}

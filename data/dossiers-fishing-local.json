@@ -478,7 +478,9 @@
     "nearby": [
       "golfito-jimenez-passenger-boat",
       "golfo-dulce-kayak-camp-3",
-      "golfo-dulce-weekend-no-car"
+      "golfo-dulce-weekend-no-car",
+      "aventuras-cafe-puerto-jimenez",
+      "cabo-matapalo-surf-3"
     ]
   },
   "puerto-jimenez-inshore-boat": {
@@ -547,7 +549,9 @@
     "nearby": [
       "golfito-jimenez-passenger-boat",
       "golfo-dulce-weekend-no-car",
-      "golfo-dulce-mangrove-kayak"
+      "golfo-dulce-mangrove-kayak",
+      "aventuras-cafe-puerto-jimenez",
+      "cabo-matapalo-surf-3"
     ]
   },
   "golfo-dulce-kayak-camp-3": {

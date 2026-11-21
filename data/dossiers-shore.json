@@ -497,6 +497,11 @@
         "point": "dominicalito-surf-area",
         "role": "Отдельный вариант · Dominicalito",
         "note": "Выбор пляжа зависит от условий и уровня ученика."
+      },
+      {
+        "point": "dominical-eco-feria-stop",
+        "role": "По дороге · Eco Feria Dominical",
+        "note": "Проверьте место продажи и часы организатора."
       }
     ],
     "sections": [
@@ -517,6 +522,16 @@
           "red-cross",
           "nauyaca-don-lulo-hike"
         ]
+      },
+      {
+        "title": "Флаги и местные остановки",
+        "text": "Guardavidas Costa Ballena указывает Доминикаль и Эрмосу в зоне работы своих постов. Сверьте условия с дежурными. Для первого урока по погоде инструкторы предлагают соседний Доминикалито или Colonia. За продуктами, если совпадает расписание, заезжайте к Eco Feria.",
+        "sources": [
+          "guardavidas-ballena-coast",
+          "dominicalito-surf-family-direct",
+          "uvita360-chaman-lesson",
+          "eco-feria-dominical-direct"
+        ]
       }
     ],
     "contacts": [
@@ -529,12 +544,24 @@
         "name": "Dominicalito Tico Surf School",
         "source": "dominicalito-school-local",
         "note": "Организация урока и условия в бухте Доминикалито."
+      },
+      {
+        "name": "Eco Feria Dominical",
+        "source": "eco-feria-dominical-direct",
+        "note": "Уточните место и часы очной ярмарки или день выдачи предзаказов.",
+        "phone": "+506 8943 3355",
+        "url": "https://ecoferiadominical.com/",
+        "email": "ecoferiaorders@gmail.com"
       }
     ],
     "nearby": [
       "nauyaca-don-lulo",
       "nauyaca-nature",
-      "marino-ballena"
+      "marino-ballena",
+      "dominicalito-surf-family",
+      "hermosa-uvita-beach",
+      "uvita-colonia-surf",
+      "costa-ballena-rooftop-surf-3"
     ],
     "track": "dominical-local-directory"
   },
@@ -544,6 +571,16 @@
         "point": "rio-claro-pavones",
         "role": "Río Claro de Pavones · береговой ориентир",
         "note": "Точку запуска, аренды или урока подтверждает выбранная школа."
+      },
+      {
+        "point": "punta-banco-village",
+        "role": "Дополнительный выезд · Punta Banco",
+        "note": ""
+      },
+      {
+        "point": "rancho-burica-punta-banco-base",
+        "role": "Кабины и уроки · Rancho Burica",
+        "note": ""
       }
     ],
     "sections": [
@@ -564,6 +601,15 @@
           "ict-sur",
           "red-cross"
         ]
+      },
+      {
+        "title": "Поездка за Павонес",
+        "text": "У Punta Banco есть кабины у берега и лесной резерват Tiskita с посещением по записи. Рассмотрите ночёвку, если хочется совместить сёрф и прогулку по тропе. Состояние последнего подъезда уточняйте после дождей.",
+        "sources": [
+          "rancho-burica-cabinas-faq",
+          "tiskita-activities-punta-banco",
+          "pavones-hub-transport"
+        ]
       }
     ],
     "contacts": [
@@ -571,11 +617,28 @@
         "name": "Mystical Surf School",
         "source": "pavones-mystical-surf",
         "note": "Уроки в районе Pavones, стартовый уровень и встреча."
+      },
+      {
+        "name": "Rancho Burica",
+        "source": "rancho-burica-punta-banco-surf",
+        "note": "Кабины, уроки, аренда и согласование ужина. Уточните машину и проезд к стоянке.",
+        "phone": "+506 8910 8999",
+        "url": "https://wa.me/50689108999",
+        "email": "info@ranchoburica.com"
+      },
+      {
+        "name": "Tiskita Jungle Lodge",
+        "source": "tiskita-visit-day-contact",
+        "note": "Уточните визит без ночёвки, время гида и подъезд к частному резерву.",
+        "phone": "+506 8935 2834",
+        "url": "https://tiskita.com/contact-2/",
+        "email": "reservaciones@tiskita.com"
       }
     ],
     "nearby": [
       "lapa-rios",
-      "piedras-blancas"
+      "piedras-blancas",
+      "punta-banco-rancho-tiskita"
     ],
     "track": "pavones-surf-directory"
   },
@@ -617,7 +680,10 @@
     "nearby": [
       "corcovado-leona",
       "pavones",
-      "piedras-blancas"
+      "piedras-blancas",
+      "osa-pan-dulce-lesson",
+      "cabo-matapalo-backwash",
+      "cabo-matapalo-surf-3"
     ],
     "track": "lapa-nature-routes"
   },
@@ -676,6 +742,21 @@
         "point": "punta-ballena-tide",
         "role": "Ориентир песчаной косы Punta Uvita",
         "note": "Посещайте только в разрешённое парком приливное окно."
+      },
+      {
+        "point": "colonia-chaman-approach",
+        "role": "На урок · сектор Colonia",
+        "note": "Время и фактический сбор уточните у школы."
+      },
+      {
+        "point": "pinuela-road-end",
+        "role": "Южный вход · сектор Piñuela",
+        "note": "Работу сектора подтверждает администрация."
+      },
+      {
+        "point": "cola-ballena-camping-site",
+        "role": "Кемпинг у Colonia · Camping Cola Ballena",
+        "note": "Место для машины уточняйте заранее."
       }
     ],
     "sections": [
@@ -696,6 +777,16 @@
           "marino-ballena-sector-map",
           "red-cross"
         ]
+      },
+      {
+        "title": "Как распределить сектора по времени",
+        "text": "Для прогулки к песчаной косе сначала уточните окно низкой воды у администрации. У Colonia есть отдельный вход к школе на Chamán. Piñuela удобна для отдельной береговой остановки с подъездом через Ruta 34.",
+        "sources": [
+          "marino-ballena-sector-map",
+          "marino",
+          "uvita360-chaman-lesson",
+          "imn-tides-table"
+        ]
       }
     ],
     "contacts": [
@@ -711,12 +802,32 @@
         "note": "Сезонные лодочные экскурсии и точка встречи в Увите.",
         "phone": "+506 8854 3022",
         "url": "https://wa.me/50688543022"
+      },
+      {
+        "name": "Camping Cola Ballena",
+        "source": "cola-ballena-camp-listing",
+        "note": "Заранее подтвердите место для автомобиля с открытой крышей, ночной заезд и актуальную цену.",
+        "phone": "+506 8615 8789",
+        "url": "https://wa.me/50686158789"
+      },
+      {
+        "name": "Uvita 360",
+        "source": "uvita360-chaman-lesson",
+        "note": "Урок на Chamán. Согласуйте возраст, индивидуальный формат, вход в парк и точку сбора.",
+        "phone": "+506 8586 8745",
+        "url": "https://uvita360.com/tour/surf-lessons/",
+        "email": "info@uvita360.com"
       }
     ],
     "nearby": [
       "cusinga",
       "osa-expedition-6",
-      "cano-island"
+      "cano-island",
+      "uvita-colonia-surf",
+      "cola-ballena-rooftop",
+      "pinuela-beach",
+      "ventanas-shore",
+      "costa-ballena-rooftop-surf-3"
     ],
     "track": "marino-ballena-sector-map"
   },
@@ -902,7 +1013,9 @@
     "nearby": [
       "gandoca",
       "faith-glamp",
-      "cocles"
+      "cocles",
+      "talamanca-reef-surf-3",
+      "caribeans-cacao"
     ],
     "track": "uva-caribe-kayak"
   },

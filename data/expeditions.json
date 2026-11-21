@@ -3070,5 +3070,294 @@
         ]
       }
     ]
+  },
+  {
+    "id": "costa-ballena-rooftop-surf-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Коста-Бальена за 3 дня · машина с крышной палаткой и сёрф",
+    "native": "Dominical · Dominicalito · Playa Hermosa · Colonia · Piñuela · Ventanas",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "multi",
+      "car",
+      "camping",
+      "rooftent",
+      "surf",
+      "school",
+      "beach",
+      "dark-sand",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof"
+    ],
+    "sources": [
+      "dominicalito-surf-family-direct",
+      "cola-ballena-camp-listing",
+      "cola-ballena-roof-types",
+      "uvita360-chaman-lesson",
+      "marino-ballena-sector-map",
+      "ventanas-osa-access-faq",
+      "imn-tides-table"
+    ],
+    "distance": null,
+    "summary": "Две ночи у Chamán. Доминикалито для первого знакомства с сёрфом, парковые сектора Увиты и два отдельных берега к северу от Очочаля.",
+    "plan": "Приезжайте в пятницу, если нужен заезд на местную ферийную точку. Два дня можно поменять местами по приливу, а ночёвки оставить на одном месте.",
+    "conditions": "Площадку под машину, часы секторов и каждый урок подтвердите до выезда. При сильной волне сохраните береговые остановки.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Доминикаль, бухта Доминикалито и заселение",
+        "note": "Закупка в Доминикале, разовый урок по записи или прогулка по Эрмосе. До темноты разместитесь в Cola Ballena.",
+        "stops": [
+          "dominical-surf",
+          "dominicalito-surf-family",
+          "hermosa-uvita-beach",
+          "cola-ballena-rooftop"
+        ],
+        "sources": [
+          "eco-feria-dominical-direct",
+          "dominicalito-surf-family-direct",
+          "guardavidas-ballena-coast",
+          "cola-ballena-camp-listing"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Урок на Chamán и отдельный вход к косе Uvita",
+        "note": "Утром или после обеда урок по воде, вторую часть дня оставьте на официальный сектор Uvita. При доступной низкой воде и согласовании с парком можно пройти к косе.",
+        "stops": [
+          "uvita-colonia-surf",
+          "marino-ballena",
+          "cola-ballena-rooftop"
+        ],
+        "sources": [
+          "uvita360-chaman-lesson",
+          "marino-ballena-sector-map",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Ранний выезд к Piñuela и бухта Ventanas",
+        "note": "Сверните с трассы к сектору Piñuela. Второй берег — Ventanas, где можно осмотреть скалы с песка. Оттуда удобно продолжить в сторону Очочаля.",
+        "stops": [
+          "pinuela-beach",
+          "ventanas-shore"
+        ],
+        "sources": [
+          "marino",
+          "ventanas-osa-access-faq",
+          "ict-sur"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "talamanca-reef-surf-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Таламанка за 3 дня · риф Кауиты, какао и сёрф",
+    "native": "Cahuita · Puerto Viejo · Salsa Brava · Cocles · Punta Uva",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "multi",
+      "snorkel",
+      "boat",
+      "surf",
+      "school",
+      "coffee",
+      "cafe",
+      "kayak",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "cahuita-experience-reef",
+      "cahuita-cr-snorkel-local",
+      "cahuita-guides",
+      "salsa-brava-reef-guide",
+      "cocles-nativos",
+      "caribeans-cacao-cocles-direct",
+      "ict-caribe"
+    ],
+    "distance": null,
+    "summary": "Одна база у Пуэрто-Вьехо или Коклеса. Лодка с гидом, местная шоколадная мастерская, урок и отдельная бухта для гребли.",
+    "plan": "Бронируйте риф и урок в разные дни. Третий день оставьте гибким, чтобы перенести водную часть при смене волны или видимости.",
+    "conditions": "Карту используйте для подъездов. Водную часть согласуйте с местным оператором. При выезде без машины проверяйте последний автобус и варианты такси с доской.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Кауита · риф или береговая тропа",
+        "note": "Сбор у оператора, лодка по состоянию моря. При береговом плане войдите через Kelly Creek. Оставьте время пройти часть тропы.",
+        "stops": [
+          "cahuita-reef-snorkel",
+          "cahuita-trail"
+        ],
+        "sources": [
+          "cahuita-experience-reef",
+          "cahuita-map",
+          "cahuita-sinac-coral-plan"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Берег Сальса-Бравы, кафе и урок в Коклесе",
+        "note": "В рифовом секторе смотрите с берега. Для занятия свяжитесь со школой у Cocles. У Caribeans есть отдельное время для экскурсии по какао.",
+        "stops": [
+          "salsa-brava-reef",
+          "caribeans-cacao",
+          "cocles"
+        ],
+        "sources": [
+          "salsa-brava-reef-guide",
+          "caribeans-cacao-cocles-direct",
+          "cocles-nativos"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Пунта-Ува · вода по погоде и береговая остановка",
+        "note": "Уточните прокат и подходящие условия для каяка. При открытом море оставьте берег или проедьте часть побережья по отдельной велосипедной карте.",
+        "stops": [
+          "punta-uva",
+          "puerto-viejo-bike-manzanillo"
+        ],
+        "sources": [
+          "ict-caribe",
+          "ict-beach"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cabo-matapalo-surf-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Оса за 3 дня · Пан-Дульсе, Кабо-Матапало и Гольфо-Дульсе",
+    "native": "Puerto Jiménez · Playa Pan Dulce · Backwash · Cabo Matapalo · Golfo Dulce",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "multi",
+      "car",
+      "surf",
+      "school",
+      "beach",
+      "coffee",
+      "cafe",
+      "kayak",
+      "fishing",
+      "boat",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "4x4",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ict-osa-cabo-beaches",
+      "cabo-matapalo-aguaepipa",
+      "osa-wild-pan-dulce-lesson",
+      "matapalo-surf-experience-direct",
+      "encanta-la-vida-matapalo-lodge",
+      "aventuras-cafe-osa-direct",
+      "osa-green-fishing",
+      "fish-puerto-jimenez-boat"
+    ],
+    "distance": null,
+    "summary": "Выходные с одной береговой поездкой и временем у залива. Семейное кафе, первый урок на Pan Dulce, опытная волна Backwash и опциональная рыбалка или каяк.",
+    "plan": "Начните в Пуэрто-Хименесе. Второй день проведите на побережье по выбранному уроку. Рыбалку или каяк запланируйте с возвращением в посёлок и отдельным сбором.",
+    "conditions": "Проверяйте последний участок дороги, расписание транспорта и состояние воды. На берегу уточните возраст и нужный уровень каждого занятия.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пуэрто-Хименес · закупка, кафе и залив",
+        "note": "Если едете через Golfito, высадка у муниципального причала. Оставьте время на закупку, семейное кафе и можно взять отдельный каяк по манграм.",
+        "stops": [
+          "golfito-jimenez-passenger-boat",
+          "aventuras-cafe-puerto-jimenez",
+          "golfo-dulce-mangrove-kayak"
+        ],
+        "sources": [
+          "aventuras-cafe-osa-contact",
+          "osa-green-fishing"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пан-Дульсе и Бэквош · уроки по уровню",
+        "note": "Согласуйте сбор на Pan Dulce. Опытным участникам можно отдельно договориться о Backwash. У лоджа запасной береговой план и питание по записи.",
+        "stops": [
+          "osa-pan-dulce-lesson",
+          "cabo-matapalo-backwash",
+          "lapa-rios"
+        ],
+        "sources": [
+          "ict-osa-cabo-beaches",
+          "matapalo-surf-experience-direct",
+          "osa-wild-pan-dulce-lesson",
+          "encanta-la-vida-matapalo-dining"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Возвращение к заливу · рыбалка или мангры",
+        "note": "Оставьте запас на возврат из Матапало. В посёлке есть местные лодки для рыбалки и маршруты по манграм. Уточните мини-группу, лицензию, снасти и текущую точку сбора.",
+        "stops": [
+          "puerto-jimenez-inshore-boat",
+          "golfo-dulce-mangrove-kayak"
+        ],
+        "sources": [
+          "osa-green-fishing",
+          "fish-puerto-jimenez-boat",
+          "incopesca-sport-fishing"
+        ]
+      }
+    ]
   }
 ]

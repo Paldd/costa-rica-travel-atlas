@@ -27,5 +27,8 @@
   {"name":"Rafiki · глэмпинг и водные маршруты","url":"https://rafikisafari.com/wp/","paths":["/wp/experiences/","/wp/packages/","/wp/stay/"]},
   {"name":"GoRafting · Pejibaye и местные речные участки","url":"https://gorafting.com/costa-rica/pejibaye-river/","paths":["/costa-rica/"]},
   {"name":"RCR · реки Гуанакасте","url":"https://www.raftingguanacaste.com/es/safari-corobici-rio-floating/","paths":["/es/rio-","/es/safari-","/es/como-"]},
-  {"name":"Trivium Academy · занятия на Сарапики","url":"https://costaricaraft.com/workshops","paths":["/academy/","/workshops/","/rafting/","/kayaking/"]}
+  {"name":"Trivium Academy · занятия на Сарапики","url":"https://costaricaraft.com/workshops","paths":["/academy/","/workshops/","/rafting/","/kayaking/"]},
+  {"name":"Guardavidas Costa Ballena · пляжи и сводки","url":"https://www.lifeguardscostaballena.com/","paths":["/beaches","/about","/program","/blog","/updates"]},
+  {"name":"Todo Uvita · местный сёрф и пляжи","url":"https://todouvita.com/c/surf","paths":["/c/","/p/","/es/"]},
+  {"name":"Pavones Hub · местные поездки и транспорт","url":"https://pavoneshub.com/transporte-transportation/","paths":["/transporte-","/category/","/surf","/guide","/event"]}
 ]
