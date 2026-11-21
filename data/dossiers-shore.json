@@ -1051,6 +1051,9 @@
     "track": "negra-puerto-local"
   },
   "punta-uva": {
+    "photos": [
+      "caribe-punta-uva"
+    ],
     "stops": [
       {
         "point": "punta-uva-shore-area",

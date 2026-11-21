@@ -62,5 +62,8 @@
   {"name":"Vista Los Sueños · материалы о поездках из Хако","url":"https://vistalossuenosadventurepark.com/blog/","paths":["/blog/","/tours/"]},
   {"name":"Arenal Manoa · термы и поездки из Ла-Фортуны","url":"https://arenalmanoa.com/blog/","paths":["/blog/","/tours/"]},
   {"name":"Hotel Belmar · журнал Монтеверде","url":"https://www.hotelbelmar.net/happenings/blog","paths":["/blog/","/es/blog/"]},
-  {"name":"Diamante · журнал парка","url":"https://diamanteecoadventurepark.com/blog/","paths":["/blog/","/es/blog/"]}
+  {"name":"Diamante · журнал парка","url":"https://diamanteecoadventurepark.com/blog/","paths":["/blog/","/es/blog/"]},
+  {"name":"Visita Coto Brus · сельские места и тропы","url":"https://www.visitacotobrus.com/turismo","paths":["/turismo/atractivos/"],"language":"es","focus":"Местный каталог южной Таламанки с указаниями подъезда, маршрутами, ночёвками и контактами."},
+  {"name":"AsoProLA · Альтамира и Биоллей","url":"https://asoprola.com/","paths":["/tours","/posada","/cafe"],"language":"es","focus":"Программы сельской ассоциации у входа в Ла-Амистад, ночёвки и местный кофе."},
+  {"name":"ATEC · местные программы Таламанки","url":"https://ateccr.org/ecotours/","paths":["/producto/"],"language":"en","focus":"Поездки общественной ассоциации на южной Карибике и в Таламанке. Многодневные походы, лодки, местные гиды и снаряжение."}
 ]

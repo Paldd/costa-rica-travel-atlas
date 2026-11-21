@@ -125,6 +125,9 @@
     "track": "tort-acto"
   },
   "cahuita-trail": {
+    "photos": [
+      "caribe-cahuita"
+    ],
     "stops": [
       {
         "point": "cahuita-kelly",

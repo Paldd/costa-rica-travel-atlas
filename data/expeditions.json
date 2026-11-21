@@ -5279,5 +5279,328 @@
         ]
       }
     ]
+  },
+  {
+    "id": "pila-valle-silencio-3",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Долина Тишины · три дня от Альтамиры",
+    "native": "Altamira · Valle del Silencio · Turberas El Jardín",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "multi",
+      "hiking",
+      "forest",
+      "camping",
+      "views",
+      "wildlife"
+    ],
+    "audience": [
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "pila-sinac-sectors",
+      "pila-ict-guide",
+      "pila-asomobi-teletica",
+      "pila-valle-local-hiking",
+      "pila-altamira-2026-track"
+    ],
+    "summary": "Поход с ночёвкой в облачном лесу, около 36 км по основному подходу туда и обратно в ориентире SINAC. Прогулка к болотам добавляет расстояние, когда участок открыт.",
+    "plan": "Согласуйте с ASOMOBI сопровождение и ночёвку, а с SINAC — доступ к сектору. На первый и третий дни выделите полноценные ходовые дни.",
+    "conditions": "На тропе много подъёмов и мокрых участков. Службы у входа и в глубине парка различаются. Планируйте еду, обработку воды, спальное место и аварийную связь вместе с гидом.",
+    "distance": 36,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Альтамира — приют в долине",
+        "note": "Регистрация у станции и длительный подъём по программе проводника. Ночёвка по подтверждённому плану.",
+        "stops": [],
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-valle-local-hiking"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Облачный лес и район El Jardín",
+        "note": "Вылазка от приюта по открытому участку. Посещение болот определяется режимом парка и планом гида.",
+        "stops": [],
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-management-sinalevi"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Спуск в Альтамиру",
+        "note": "Полный день обратно. Согласуйте место встречи машины и резерв на мокрую тропу.",
+        "stops": [
+          "pila-biolley-coffee-posada"
+        ],
+        "sources": [
+          "pila-ict-guide",
+          "pila-altamira-2026-track"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pila-kamuk-55-5",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Камук · 55 км и пять дней с лагерями",
+    "native": "Cerro Kamuk · Tres Colinas de Potrero Grande · PILA",
+    "level": "expedition",
+    "days": 5,
+    "activities": [
+      "multi",
+      "hiking",
+      "summit",
+      "camping",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "pila-sinac-sectors",
+      "pila-ict-guide",
+      "pila-kamuk-canton-plan",
+      "pila-kamuk-asotur",
+      "pila-kamuk-field-august"
+    ],
+    "summary": "Восхождение из Трес-Колинас на 3 549 м через тропический склон, облачный лес и высокогорье. SINAC указывает 27,5 км в каждую сторону.",
+    "plan": "Оформляйте вход через ассоциацию ASOTUR и сопровождающего гида. Пятидневный план соответствует одной из опубликованных схем. Согласуйте последовательность лагерей и порядок пополнения воды.",
+    "conditions": "Участки мокрые и удалённые, телефонная сеть в высокогорье ограничена. Условия лагерей, число допущенных людей, сроки записи и обувь подтверждаются на дату.",
+    "distance": 55,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Трес-Колинас и первый лагерь",
+        "note": "Регистрация, уточнение погоды и старт с гидом. Первую ночёвку подтверждайте на инструктаже.",
+        "stops": [
+          "pila-tres-colinas-bonnysu"
+        ],
+        "sources": [
+          "pila-kamuk-canton-plan",
+          "pila-kamuk-asotur"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лесные хребты и второй лагерь",
+        "note": "Переход с подъёмами и спусками. Дневные километры, воду и лагерь определяет план сопровождающего.",
+        "stops": [],
+        "sources": [
+          "pila-kamuk-canton-plan",
+          "pila-sinac-sectors"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Подход к высокогорью",
+        "note": "Переход в направлении верхнего лагеря. Уточните набор, температуру ночи и перенос части груза.",
+        "stops": [],
+        "sources": [
+          "pila-kamuk-canton-plan",
+          "pila-kamuk-local-tours"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Камук и начало спуска",
+        "note": "Выход на вершину в разрешённое погодное окно и переход к согласованной ночёвке ниже.",
+        "stops": [],
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-kamuk-canton-plan"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Возврат в Трес-Колинас",
+        "note": "Спуск из последнего лагеря, обед по договорённости и встреча с транспортом.",
+        "stops": [
+          "pila-tres-colinas-bonnysu"
+        ],
+        "sources": [
+          "pila-kamuk-canton-plan",
+          "pila-bonnysu-faq"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "yorkin-bribri-canoe-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Йоркин без машины · три дня в общине брибри",
+    "native": "Bambú · Río Yorkín · Stibrawpa · Talamanca",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "multi",
+      "boat",
+      "hiking",
+      "forest",
+      "river",
+      "history",
+      "coffee",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "yorkin-stibrawpa-services",
+      "yorkin-stibrawpa-access",
+      "yorkin-atec-lodge",
+      "yorkin-tec-lodging",
+      "yorkin-mepe-official"
+    ],
+    "summary": "Три дня с двумя ночёвками, каноэ на реке Йоркин, короткая прогулка по территории и занятия с принимающей общиной. Дорога из Пуэрто-Вьехо возможна на автобусе с пересадкой или трансфере.",
+    "plan": "Свяжитесь с общиной до выезда. Попросите расписание и место посадки в Бамбу, уровень реки, место для багажа, питание и встречу на обратном берегу.",
+    "conditions": "Гостям нужно согласовать время, правила фото и посещения с хозяйкой или проводником. График лодки зависит от реки. При наличии детей заранее запросите жилеты по размеру.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Побережье — Брибри — Бамбу — Йоркин",
+        "note": "Пересадка на автобус или такси в Брибри, встреча с гидом в Бамбу и каноэ в Йоркин. Вечер в местной посаде.",
+        "stops": [],
+        "sources": [
+          "yorkin-stibrawpa-access",
+          "yorkin-atec-lodge"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Йоркин · лес, какао и занятия с общиной",
+        "note": "Договоритесь о прогулке, приготовлении еды и фотографиях. Выберите темп под состав группы.",
+        "stops": [],
+        "sources": [
+          "yorkin-stibrawpa-services",
+          "yorkin-atec-lodge"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Каноэ обратно и выезд на побережье",
+        "note": "Вернитесь из Йоркина днём. Уточните обратную посадку, стыковку и резерв при задержке воды.",
+        "stops": [],
+        "sources": [
+          "yorkin-stibrawpa-access",
+          "yorkin-mepe-official"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amubri-katsi-yorkin-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Амубри — Каци — Йоркин · трёхдневный переход по Таламанке",
+    "native": "Koswak Usure Lodge · Amubri · Katsi · Yorkín",
+    "level": "hard",
+    "days": 3,
+    "activities": [
+      "multi",
+      "hiking",
+      "boat",
+      "river",
+      "forest",
+      "history",
+      "wildlife"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "amubri-yorkin-atec",
+      "amubri-ign-una",
+      "yorkin-atec-lodge",
+      "yorkin-ign-localities"
+    ],
+    "summary": "Две ночи у местных хозяев, один полноценный день ходьбы по лесным и сельским тропам через Каци, затем возврат водой по плану проводника.",
+    "plan": "Первый день — прибытие в Амубри и ночёвка в Koswak Usure Lodge. Второй — поход с гидом к Йоркину с переправой. Третий — речной выезд и стыковка с береговым транспортом.",
+    "conditions": "Проверяйте уровень рек, допуск общин, условия для подростков и организацию багажа. Длину дневного перехода и точку возвращения подтверждает ATEC.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Первая ночь в Амубри",
+        "note": "Доберитесь до встречи и Koswak Usure Lodge. Подтвердите уровень воды и пеший план следующего дня.",
+        "stops": [],
+        "sources": [
+          "amubri-yorkin-atec"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Через Урэн и Каци в Йоркин",
+        "note": "Лесная тропа, согласованная лодочная переправа и ночь в Finca Integral Yismai.",
+        "stops": [],
+        "sources": [
+          "amubri-yorkin-atec",
+          "yorkin-ign-localities"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Речной выезд из общины",
+        "note": "Проверьте точку высадки, обратный наземный трансфер и разрешённые времена.",
+        "stops": [
+          "yorkin-bribri-canoe-3"
+        ],
+        "sources": [
+          "amubri-yorkin-atec",
+          "yorkin-mepe-official"
+        ]
+      }
+    ]
   }
 ]

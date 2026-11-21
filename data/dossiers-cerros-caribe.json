@@ -1,0 +1,1064 @@
+{
+  "pila-altamira-gigantes-24": {
+    "stops": [
+      {
+        "point": "amistad-altamira-station",
+        "role": "Altamira · биологическая станция PILA",
+        "note": "У ворот регистрируют посещение. До приезда подтвердите сектор, часы и вход."
+      },
+      {
+        "point": "amistad-asoprola-altamira",
+        "role": "Альтамира · сельская посада",
+        "note": "Точка центра AsoProLA, запросите размещение, еду и указания к станции."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лёгкий поход в La Amistad",
+        "text": "Тропа начинается у станции Altamira. Архивный репортаж AsoProLA описывает разные стадии леса и подробные остановки. Уточните режим регистрации и возможности для своей группы у рейнджеров.",
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-asoprola-trail-archive"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Возьмите питьё, дождевик, обувь для корней и небольшой запас времени на птиц и фото. Для маленьких детей запросите длину доступной части и удобства у входа.",
+        "sources": [
+          "pila-ict-guide",
+          "pila-visitcr-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Estación Altamira",
+        "source": "pila-ict-guide",
+        "note": "Подтвердите, какой вход работает, разрешённый участок, действующие часы, места ночёвки и бронирование.",
+        "phone": "+506 2200 5355",
+        "url": "https://sinac.go.cr/ES/ac/aclap/pila/Paginas/default.aspx"
+      },
+      {
+        "name": "AsoProLA · Альтамира и Posada Rural",
+        "source": "pila-asoprola-rural-stay",
+        "note": "Уточните домики, еду, селение, ближайшую парковку, условия дороги и связь с парком.",
+        "phone": "+506 8621 5559",
+        "url": "https://asoprola.com/posada-rural-la-amistad/",
+        "email": "info@asoprola.com"
+      }
+    ],
+    "nearby": [
+      "pila-altamira-camp-weekend",
+      "pila-valle-silencio-3",
+      "pila-biolley-coffee-posada"
+    ],
+    "track": null,
+    "galleries": [
+      "pila-asoprola-trail-archive",
+      "pila-visitcr-field"
+    ],
+    "videos": [],
+    "line": "amistad-altamira-public-approach"
+  },
+  "pila-altamira-camp-weekend": {
+    "stops": [
+      {
+        "point": "amistad-altamira-station",
+        "role": "Altamira · биологическая станция PILA",
+        "note": "У ворот регистрируют посещение. До приезда подтвердите сектор, часы и вход."
+      },
+      {
+        "point": "amistad-asoprola-altamira",
+        "role": "Альтамира · сельская посада",
+        "note": "Точка центра AsoProLA, запросите размещение, еду и указания к станции."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночь у входа",
+        "text": "ICT указывает Altamira среди секторов с кемпингом. Проверьте текущие душ, воду, туалет, использование горелки и место парковки. Для отдыха без палатки свяжитесь с сельской посадой.",
+        "sources": [
+          "pila-ict-guide",
+          "pila-asoprola-rural-stay"
+        ]
+      },
+      {
+        "title": "Погода и короткий план",
+        "text": "В тумане и дожде гора быстро остывает. Возьмите утепление, сухое хранение спальника и защиту от дождя. На второй день можно выйти на Gigantes del Bosque, согласовав открытые тропы с рейнджером.",
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-visitcr-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Estación Altamira",
+        "source": "pila-ict-guide",
+        "note": "Подтвердите, какой вход работает, разрешённый участок, действующие часы, места ночёвки и бронирование.",
+        "phone": "+506 2200 5355",
+        "url": "https://sinac.go.cr/ES/ac/aclap/pila/Paginas/default.aspx"
+      },
+      {
+        "name": "AsoProLA · Альтамира и Posada Rural",
+        "source": "pila-asoprola-rural-stay",
+        "note": "Уточните домики, еду, селение, ближайшую парковку, условия дороги и связь с парком.",
+        "phone": "+506 8621 5559",
+        "url": "https://asoprola.com/posada-rural-la-amistad/",
+        "email": "info@asoprola.com"
+      }
+    ],
+    "nearby": [
+      "pila-altamira-gigantes-24",
+      "pila-valle-silencio-3",
+      "pila-pittier-camp-and-falls"
+    ],
+    "track": null,
+    "galleries": [
+      "pila-visitcr-field",
+      "pila-asoprola-trail-archive"
+    ],
+    "videos": [],
+    "line": "amistad-altamira-public-approach"
+  },
+  "pila-biolley-coffee-posada": {
+    "stops": [
+      {
+        "point": "amistad-biolley-asomobi",
+        "role": "Биольей · центр ASOMOBI",
+        "note": "Место для связи с кофейным хозяйством, посадой и местными проводниками."
+      },
+      {
+        "point": "amistad-asoprola-altamira",
+        "role": "Альтамира · сельская посада",
+        "note": "Точка центра AsoProLA, запросите размещение, еду и указания к станции."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Местное производство",
+        "text": "IWCA описывает кофейный цех, пекарню и сельскую посаду. Teletica приводит репортаж об истории проекта и работе с туризмом. Для самостоятельного визита спросите длительность экскурсии и доступ в сезон обработки кофе.",
+        "sources": [
+          "pila-asomobi-iwca",
+          "pila-asomobi-teletica"
+        ]
+      },
+      {
+        "title": "Поездка с ночёвкой",
+        "text": "Уточните комнаты и питание на дату. Семейная поездка может сочетать кофе, раннюю прогулку у станции Альтамира и возвращение засветло. Более длинные выходы проверяйте с проводником.",
+        "sources": [
+          "pila-asomobi-contacts",
+          "pila-ict-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASOMOBI · местные гиды, кофе и домики",
+        "source": "pila-asomobi-contacts",
+        "note": "Запросите выход на Сабанас-Эсперанса, ночлег, разрешение PILA и точку встречи.",
+        "phone": "+506 8916 4638",
+        "url": "https://si.cultura.cr/es/agrupaciones-y-organizaciones/asomobi-asociacion-de-mujeres-organizadas-de-biolley"
+      },
+      {
+        "name": "AsoProLA · Альтамира и Posada Rural",
+        "source": "pila-asoprola-rural-stay",
+        "note": "Уточните домики, еду, селение, ближайшую парковку, условия дороги и связь с парком.",
+        "phone": "+506 8621 5559",
+        "url": "https://asoprola.com/posada-rural-la-amistad/",
+        "email": "info@asoprola.com"
+      }
+    ],
+    "nearby": [
+      "pila-sabana-esperanza-72",
+      "pila-altamira-gigantes-24",
+      "pila-valle-silencio-3"
+    ],
+    "track": null,
+    "galleries": [
+      "pila-asomobi-iwca",
+      "pila-asomobi-teletica"
+    ],
+    "videos": []
+  },
+  "pila-sabana-esperanza-72": {
+    "stops": [
+      {
+        "point": "amistad-biolley-asomobi",
+        "role": "Биольей · центр ASOMOBI",
+        "note": "Место для связи с кофейным хозяйством, посадой и местными проводниками."
+      },
+      {
+        "point": "amistad-altamira-station",
+        "role": "Altamira · биологическая станция PILA",
+        "note": "У ворот регистрируют посещение. До приезда подтвердите сектор, часы и вход."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Откуда считают километры",
+        "text": "По данным SINAC стандартный подход составляет 3,6 км в одну сторону. В старых материалах встречается 20 км для маршрута с другим началом. Проверьте, входит ли в выбранную прогулку дополнительный подход от посёлка.",
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-sabana-historical"
+        ]
+      },
+      {
+        "title": "Открытые участки",
+        "text": "Гид подтверждает проход, возвращение до вечера и ограничения группы. На саванне нет гарантированной воды. Возьмите воду, защиту от солнца и дождя, лёгкую тёплую одежду.",
+        "sources": [
+          "pila-asomobi-contacts",
+          "pila-ict-guide",
+          "pila-sabana-historical"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASOMOBI · местные гиды, кофе и домики",
+        "source": "pila-asomobi-contacts",
+        "note": "Запросите выход на Сабанас-Эсперанса, ночлег, разрешение PILA и точку встречи.",
+        "phone": "+506 8916 4638",
+        "url": "https://si.cultura.cr/es/agrupaciones-y-organizaciones/asomobi-asociacion-de-mujeres-organizadas-de-biolley"
+      },
+      {
+        "name": "SINAC · Estación Altamira",
+        "source": "pila-ict-guide",
+        "note": "Подтвердите, какой вход работает, разрешённый участок, действующие часы, места ночёвки и бронирование.",
+        "phone": "+506 2200 5355",
+        "url": "https://sinac.go.cr/ES/ac/aclap/pila/Paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "pila-biolley-coffee-posada",
+      "pila-altamira-gigantes-24",
+      "pila-valle-silencio-3"
+    ],
+    "track": null,
+    "galleries": [
+      "pila-asoprola-trail-archive",
+      "pila-asomobi-teletica"
+    ],
+    "videos": []
+  },
+  "pila-valle-silencio-3": {
+    "stops": [
+      {
+        "point": "amistad-asoprola-altamira",
+        "role": "Альтамира · сельская посада",
+        "note": "Точка центра AsoProLA, запросите размещение, еду и указания к станции."
+      },
+      {
+        "point": "amistad-biolley-asomobi",
+        "role": "Биольей · центр ASOMOBI",
+        "note": "Место для связи с кофейным хозяйством, посадой и местными проводниками."
+      },
+      {
+        "point": "amistad-altamira-station",
+        "role": "Altamira · биологическая станция PILA",
+        "note": "У ворот регистрируют посещение. До приезда подтвердите сектор, часы и вход."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Почему измерения различаются",
+        "text": "SINAC пишет приблизительно 18 км в каждую сторону. AsoProLA в архиве даёт примерно 14 км, а запись августа 2026 года от центра Альтамиры до приюта показывает 16,16 км. Согласуйте точку высадки, расстояние подхода и маршрут туда и обратно с гидом.",
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-asoprola-trail-archive",
+          "pila-altamira-2026-track"
+        ]
+      },
+      {
+        "title": "Вещи и связи",
+        "text": "Рассчитывайте на холодную влажную ночь. Нужны налобный фонарь, сухое утепление, непромокаемая обувь и гермоупаковка. ICT предупреждает об отсутствии электричества и сети в глубине маршрута. Места воды и её подготовку уточняйте у гида.",
+        "sources": [
+          "pila-ict-guide",
+          "pila-valle-local-hiking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASOMOBI · местные гиды, кофе и домики",
+        "source": "pila-asomobi-contacts",
+        "note": "Запросите выход на Сабанас-Эсперанса, ночлег, разрешение PILA и точку встречи.",
+        "phone": "+506 8916 4638",
+        "url": "https://si.cultura.cr/es/agrupaciones-y-organizaciones/asomobi-asociacion-de-mujeres-organizadas-de-biolley"
+      },
+      {
+        "name": "SINAC · Estación Altamira",
+        "source": "pila-ict-guide",
+        "note": "Подтвердите, какой вход работает, разрешённый участок, действующие часы, места ночёвки и бронирование.",
+        "phone": "+506 2200 5355",
+        "url": "https://sinac.go.cr/ES/ac/aclap/pila/Paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "pila-biolley-coffee-posada",
+      "pila-altamira-camp-weekend",
+      "pila-sabana-esperanza-72",
+      "pila-kamuk-55-5"
+    ],
+    "track": "pila-altamira-2026-track",
+    "galleries": [
+      "pila-altamira-2026-track",
+      "pila-valle-local-hiking"
+    ],
+    "videos": []
+  },
+  "pila-kamuk-55-5": {
+    "stops": [
+      {
+        "point": "amistad-tres-colinas-bonnysu",
+        "role": "Трес-Колинас · горное жильё Bonnysu",
+        "note": "Ориентир частной базы. Реальную точку начала похода подтвердит ASOTUR."
+      },
+      {
+        "point": "amistad-kamuk-summit",
+        "role": "Cerro Kamuk · вершина",
+        "note": "Координата открытой карты. Точная линия подъёма и места лагерей берутся у сопровождающего."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расстояние и разрешение",
+        "text": "SINAC даёт 27,5 км в каждую сторону. В старой брошюре озвучены 46 км туда и обратно, а план управления указывает другой ориентир подхода. Для своей даты запросите у ASOTUR точный план и электронный трек организатора.",
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-kamuk-brochure",
+          "pila-management-sinalevi",
+          "pila-kamuk-field-august"
+        ]
+      },
+      {
+        "title": "Снаряжение и доступ к лагерям",
+        "text": "Возьмите влагозащищённую аптечку и сухое утепление, налобный фонарь, утеплённый спальник и продукты. Согласуйте допустимый вес рюкзака, питьевую воду, топливо, временные укрытия и аварийную связь с проводником.",
+        "sources": [
+          "pila-ict-guide",
+          "pila-kamuk-local-tours",
+          "pila-kamuk-canton-plan"
+        ]
+      },
+      {
+        "title": "Подъезд к началу",
+        "text": "От долины к горному селению идёт грунтовый участок. Bonnysu указывает 4×4 или парковку внизу и заранее согласованную машину. Ночлег до выезда поможет не тратить утро первого дня на подъезд.",
+        "sources": [
+          "pila-bonnysu-faq",
+          "pila-kamuk-asotur"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASOTUR · местная ассоциация Трес-Колинас",
+        "source": "pila-ict-guide",
+        "note": "Телефон опубликован в путеводителе ICT. Проверьте наличие проводника и место в группе на конкретную дату.",
+        "phone": "+506 8482 9931",
+        "url": "https://destinosviajeros.com/empresas/asotur-tres-colinas/"
+      },
+      {
+        "name": "SINAC · Estación Altamira",
+        "source": "pila-ict-guide",
+        "note": "Подтвердите, какой вход работает, разрешённый участок, действующие часы, места ночёвки и бронирование.",
+        "phone": "+506 2200 5355",
+        "url": "https://sinac.go.cr/ES/ac/aclap/pila/Paginas/default.aspx"
+      },
+      {
+        "name": "Bonnysu · домики и координация поездки",
+        "source": "pila-bonnysu-book",
+        "note": "Место в домике, состояние горного подъезда, парковка внизу и трансфер на 4×4.",
+        "phone": "+506 8829 2693",
+        "url": "https://www.bonnysu.com/es/reservar/",
+        "email": "info@bonnysu.com"
+      }
+    ],
+    "nearby": [
+      "pila-tres-colinas-bonnysu",
+      "pila-valle-silencio-3",
+      "pila-mountains-road-82",
+      "pila-pittier-camp-and-falls"
+    ],
+    "track": "pila-kamuk-field-wikiloc",
+    "galleries": [
+      "pila-kamuk-local-tours",
+      "pila-kamuk-field-august"
+    ],
+    "videos": []
+  },
+  "pila-tres-colinas-bonnysu": {
+    "stops": [
+      {
+        "point": "amistad-tres-colinas-bonnysu",
+        "role": "Трес-Колинас · горное жильё Bonnysu",
+        "note": "Ориентир частной базы. Реальную точку начала похода подтвердит ASOTUR."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Заезд без внедорожника",
+        "text": "На сайте Bonnysu указаны трансфер или такси из нижнего посёлка. Попросите точную парковку, цену в обе стороны, порядок багажа и время обратного выезда.",
+        "sources": [
+          "pila-bonnysu-stay",
+          "pila-bonnysu-faq"
+        ]
+      },
+      {
+        "title": "Ночь и окрестности",
+        "text": "Для вечера возьмите тёплую одежду и фонарь. Условия наблюдения за звёздами и наличие телескопа уточняйте при записи. Прогулка по парку или подъём на Камук организуются отдельно.",
+        "sources": [
+          "pila-bonnysu-book",
+          "pila-kamuk-asotur",
+          "pila-kamuk-canton-plan"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bonnysu · домики и координация поездки",
+        "source": "pila-bonnysu-book",
+        "note": "Место в домике, состояние горного подъезда, парковка внизу и трансфер на 4×4.",
+        "phone": "+506 8829 2693",
+        "url": "https://www.bonnysu.com/es/reservar/",
+        "email": "info@bonnysu.com"
+      },
+      {
+        "name": "ASOTUR · местная ассоциация Трес-Колинас",
+        "source": "pila-ict-guide",
+        "note": "Телефон опубликован в путеводителе ICT. Проверьте наличие проводника и место в группе на конкретную дату.",
+        "phone": "+506 8482 9931",
+        "url": "https://destinosviajeros.com/empresas/asotur-tres-colinas/"
+      }
+    ],
+    "nearby": [
+      "pila-kamuk-55-5",
+      "pila-mountains-road-82",
+      "pila-altamira-camp-weekend"
+    ],
+    "track": null,
+    "galleries": [
+      "pila-bonnysu-stay",
+      "pila-bonnysu-map"
+    ],
+    "videos": []
+  },
+  "pila-pittier-camp-and-falls": {
+    "stops": [
+      {
+        "point": "amistad-pittier-village",
+        "role": "Santa María de Pittier · местный посёлок",
+        "note": "Перед подъездом к парку сверяйте дорогу, оставшееся время и возможность пообедать."
+      },
+      {
+        "point": "amistad-pittier-station",
+        "role": "Сектор Pittier · станция SINAC",
+        "note": "Отсюда выбирают тропу. Уточняйте работы, открытые участки и регистрацию."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейный вариант",
+        "text": "Региональный туристический портал отмечает короткие прогулки, башню и тропу для посетителей с ограниченной мобильностью. Уточните на станции фактическое состояние настила, доступ до водопада и время закрытия.",
+        "sources": [
+          "pila-pittier-current",
+          "pila-sinac-sectors"
+        ]
+      },
+      {
+        "title": "Кемпинг и ужин",
+        "text": "В описании кемпинга значатся туалеты, душ, электричество и питьевая вода. Подтвердите наличие места и текущее снабжение у парка. В репортаже о районе описана остановка на обед у местных жителей.",
+        "sources": [
+          "pila-pittier-current",
+          "pila-pittier-local-story"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Visita Coto Brus · местная туристическая служба",
+        "source": "pila-pittier-current",
+        "note": "Уточните условия в секторе Pittier, текущую запись, ответственного рейнджера и координату лагеря.",
+        "phone": "+506 6057 8430",
+        "url": "https://www.visitacotobrus.com/turismo/atractivos/parque-la-amistad-pittier"
+      },
+      {
+        "name": "SINAC · Estación Altamira",
+        "source": "pila-ict-guide",
+        "note": "Подтвердите, какой вход работает, разрешённый участок, действующие часы, места ночёвки и бронирование.",
+        "phone": "+506 2200 5355",
+        "url": "https://sinac.go.cr/ES/ac/aclap/pila/Paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "pila-cerro-pittier-15",
+      "pila-mountains-road-82",
+      "pila-altamira-camp-weekend"
+    ],
+    "track": null,
+    "galleries": [
+      "pila-pittier-current",
+      "pila-visitcr-field"
+    ],
+    "videos": [],
+    "line": "amistad-pittier-public-approach"
+  },
+  "pila-cerro-pittier-15": {
+    "stops": [
+      {
+        "point": "amistad-pittier-village",
+        "role": "Santa María de Pittier · местный посёлок",
+        "note": "Перед подъездом к парку сверяйте дорогу, оставшееся время и возможность пообедать."
+      },
+      {
+        "point": "amistad-pittier-station",
+        "role": "Сектор Pittier · станция SINAC",
+        "note": "Отсюда выбирают тропу. Уточняйте работы, открытые участки и регистрацию."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и высота",
+        "text": "SINAC описывает 7,5 км от станции до вершины. Visita Coto Brus даёт оценку около 20 км на весь выход и высоту 2 869 м. Для группы важны точка старта, запас воды и возможность спуститься засветло.",
+        "sources": [
+          "pila-sinac-sectors",
+          "pila-pittier-current"
+        ]
+      },
+      {
+        "title": "Вариант короче",
+        "text": "Если парк ограничивает проход или погода портится, у станции есть более короткие прогулки и кемпинг. Для длинного выхода берите подходящую обувь, слой от ветра, налобный фонарь и связь с ответственным контактом.",
+        "sources": [
+          "pila-pittier-current",
+          "pila-ict-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Visita Coto Brus · местная туристическая служба",
+        "source": "pila-pittier-current",
+        "note": "Уточните условия в секторе Pittier, текущую запись, ответственного рейнджера и координату лагеря.",
+        "phone": "+506 6057 8430",
+        "url": "https://www.visitacotobrus.com/turismo/atractivos/parque-la-amistad-pittier"
+      },
+      {
+        "name": "SINAC · Estación Altamira",
+        "source": "pila-ict-guide",
+        "note": "Подтвердите, какой вход работает, разрешённый участок, действующие часы, места ночёвки и бронирование.",
+        "phone": "+506 2200 5355",
+        "url": "https://sinac.go.cr/ES/ac/aclap/pila/Paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "pila-pittier-camp-and-falls",
+      "pila-kamuk-55-5",
+      "pila-altamira-gigantes-24"
+    ],
+    "track": null,
+    "galleries": [
+      "pila-pittier-current",
+      "pila-pittier-local-story"
+    ],
+    "videos": []
+  },
+  "pila-mountains-road-82": {
+    "stops": [
+      {
+        "point": "amistad-tres-colinas-bonnysu",
+        "role": "Трес-Колинас · горное жильё Bonnysu",
+        "note": "Ориентир частной базы. Реальную точку начала похода подтвердит ASOTUR."
+      },
+      {
+        "point": "amistad-biolley-asomobi",
+        "role": "Биольей · центр ASOMOBI",
+        "note": "Место для связи с кофейным хозяйством, посадой и местными проводниками."
+      },
+      {
+        "point": "amistad-asoprola-altamira",
+        "role": "Альтамира · сельская посада",
+        "note": "Точка центра AsoProLA, запросите размещение, еду и указания к станции."
+      },
+      {
+        "point": "amistad-sabanilla-coto-brus",
+        "role": "Сабанилья · район финиша",
+        "note": "Обзорная точка посёлка. Не выдаёт разрешения на последний съезд старого трека."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что известно по старому заезду",
+        "text": "MotoRumbo даёт 82,2 км и около 3 002 м суммарного подъёма. Название трека упоминает Cerro Pittier, но запись заканчивается в Сабанилье. Старт и финиш ориентировочные, потому проверяйте каждый проезд и законный доступ перед выбором навигатора.",
+        "sources": [
+          "pila-road-adventure-track",
+          "pila-ict-guide"
+        ]
+      },
+      {
+        "title": "Отдельный подъезд в парк",
+        "text": "Если хотите в Pittier, сверяйте отдельный съезд к официальной станции и пеший допуск. В плохую погоду закладывайте альтернативный выход на основное шоссе и запас топлива. Для ночёвки запрашивайте место и условия парковки у базы.",
+        "sources": [
+          "pila-road-adventure-track",
+          "pila-pittier-current",
+          "pila-bonnysu-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bonnysu · домики и координация поездки",
+        "source": "pila-bonnysu-book",
+        "note": "Место в домике, состояние горного подъезда, парковка внизу и трансфер на 4×4.",
+        "phone": "+506 8829 2693",
+        "url": "https://www.bonnysu.com/es/reservar/",
+        "email": "info@bonnysu.com"
+      },
+      {
+        "name": "AsoProLA · Альтамира и Posada Rural",
+        "source": "pila-asoprola-rural-stay",
+        "note": "Уточните домики, еду, селение, ближайшую парковку, условия дороги и связь с парком.",
+        "phone": "+506 8621 5559",
+        "url": "https://asoprola.com/posada-rural-la-amistad/",
+        "email": "info@asoprola.com"
+      },
+      {
+        "name": "Visita Coto Brus · местная туристическая служба",
+        "source": "pila-pittier-current",
+        "note": "Уточните условия в секторе Pittier, текущую запись, ответственного рейнджера и координату лагеря.",
+        "phone": "+506 6057 8430",
+        "url": "https://www.visitacotobrus.com/turismo/atractivos/parque-la-amistad-pittier"
+      }
+    ],
+    "nearby": [
+      "pila-tres-colinas-bonnysu",
+      "pila-pittier-camp-and-falls",
+      "pila-altamira-camp-weekend"
+    ],
+    "track": "pila-road-adventure-track",
+    "galleries": [
+      "pila-road-adventure-track",
+      "pila-visitcr-field"
+    ],
+    "videos": []
+  },
+  "yorkin-bribri-canoe-3": {
+    "photos": [
+      "caribe-rio-yorkin"
+    ],
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо · старт наземного переезда",
+        "note": "Проверьте автобус MEPE до Брибри либо согласованный трансфер."
+      },
+      {
+        "point": "caribe-bambu-village",
+        "role": "Бамбу · сбор перед каноэ",
+        "note": "В памятке Stibrawpa встреча у сельского магазина. Запросите точный адрес, причал и время на свою дату."
+      },
+      {
+        "point": "caribe-yorkin-village",
+        "role": "Йоркин · община и ночёвка",
+        "note": "Обзорная метка IGN. Условия посещения, реальную высадку и тропы подтверждает местная команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Автобус до Бамбу",
+        "text": "С побережья ездят автобусы до Брибри. Дальше согласуйте местный автобус или такси до Бамбу с общиной. В архивной памятке есть примеры расписаний, поэтому перед выездом сверяйте день недели и время лодки. Приезжайте с запасом.",
+        "sources": [
+          "yorkin-mepe-official",
+          "yorkin-stibrawpa-access"
+        ]
+      },
+      {
+        "title": "Река, ночёвка и ремёсла",
+        "text": "Трёхдневная программа ATEC предполагает две ночи, каноэ и занятия в общине, в том числе приготовление шоколада и традиционной еды. Условия комнат, языка, наличных и допустимого багажа уточняются напрямую.",
+        "sources": [
+          "yorkin-atec-lodge",
+          "yorkin-tec-lodging",
+          "yorkin-community-2026"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Гермоупаковка, лёгкая сухая смена, обувь для мокрого берега, репеллент, налобный фонарь и запас питья. Обсудите, когда можно фотографировать занятия и людей.",
+        "sources": [
+          "yorkin-stibrawpa-access",
+          "yorkin-2026-visit-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Stibrawpa · общинная организация Йоркина",
+        "source": "yorkin-stibrawpa-contact",
+        "note": "Уточните лодку, проводника, остаются ли места у хозяев, питание и время встречи у магазина Бамбу.",
+        "phone": "+506 8706 6784",
+        "url": "https://stibrawpayorkin.wordpress.com/contactar/"
+      },
+      {
+        "name": "ATEC · местная команда общественного туризма",
+        "source": "yorkin-atec-lodge",
+        "note": "Проверьте программу на две ночи, ночёвки и язык гида.",
+        "phone": "+506 2750 0398",
+        "url": "https://ateccr.org/producto/yorkin-overnight-stay/"
+      }
+    ],
+    "nearby": [
+      "yorkin-bambu-walk",
+      "punta-uva-local-kayak",
+      "caribe-bus-3"
+    ],
+    "track": null,
+    "galleries": [
+      "yorkin-stibrawpa-services",
+      "yorkin-2026-visit-field"
+    ],
+    "videos": [
+      "yorkin-community-film"
+    ],
+    "line": "caribe-public-drive-to-bambu"
+  },
+  "yorkin-bambu-walk": {
+    "photos": [
+      "caribe-rio-yorkin"
+    ],
+    "stops": [
+      {
+        "point": "caribe-bambu-village",
+        "role": "Бамбу · сбор перед каноэ",
+        "note": "В памятке Stibrawpa встреча у сельского магазина. Запросите точный адрес, причал и время на свою дату."
+      },
+      {
+        "point": "caribe-yorkin-village",
+        "role": "Йоркин · община и ночёвка",
+        "note": "Обзорная метка IGN. Условия посещения, реальную высадку и тропы подтверждает местная команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Утренний подход",
+        "text": "Stibrawpa рекомендует начинать до 09:00, чтобы пройти открытые участки до сильной жары. Переправа на каноэ входит в общую схему подхода и её отдельно подтверждает проводник.",
+        "sources": [
+          "yorkin-stibrawpa-access",
+          "yorkin-stibrawpa-services"
+        ]
+      },
+      {
+        "title": "Снаряжение и обратный план",
+        "text": "Подойдёт обувь для воды и глины, запас питья, дождевик и гермоупаковка. Планируйте обратную лодку или ночёвку. На карте показаны населённые пункты, а тропу выбирает гид.",
+        "sources": [
+          "yorkin-stibrawpa-access",
+          "yorkin-tec-lodging"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Stibrawpa · общинная организация Йоркина",
+        "source": "yorkin-stibrawpa-contact",
+        "note": "Уточните лодку, проводника, остаются ли места у хозяев, питание и время встречи у магазина Бамбу.",
+        "phone": "+506 8706 6784",
+        "url": "https://stibrawpayorkin.wordpress.com/contactar/"
+      },
+      {
+        "name": "ATEC · местная команда общественного туризма",
+        "source": "yorkin-atec-lodge",
+        "note": "Проверьте программу на две ночи, ночёвки и язык гида.",
+        "phone": "+506 2750 0398",
+        "url": "https://ateccr.org/producto/yorkin-overnight-stay/"
+      }
+    ],
+    "nearby": [
+      "yorkin-bribri-canoe-3",
+      "caribe-bus-3"
+    ],
+    "track": null,
+    "galleries": [
+      "yorkin-stibrawpa-access",
+      "yorkin-stibrawpa-services"
+    ],
+    "videos": [
+      "yorkin-community-film"
+    ]
+  },
+  "punta-uva-local-kayak": {
+    "photos": [
+      "caribe-punta-uva"
+    ],
+    "stops": [
+      {
+        "point": "punta-uva-shore-area",
+        "role": "Район Punta Uva · береговой ориентир",
+        "note": "Проверьте, где собирается ваша группа, поскольку операторы назначают разные точки."
+      },
+      {
+        "point": "punta-uva-view-point",
+        "role": "Мыс Пунта-Ува · смотровой ориентир",
+        "note": "Сам выход к берегу или на тропу определяется гидом по погоде и режиму участка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит и сколько времени",
+        "text": "Caribe Sur заявляет около трёх часов с каяком, гидом и экипировкой. Для одноместных каяков оператор указывает ограничение 113 кг на человека. При групповом визите уточните подходящие двухместные лодки и детские жилеты.",
+        "sources": [
+          "punta-uva-caribesur-kayak",
+          "punta-uva-sloth-point"
+        ]
+      },
+      {
+        "title": "Устье и впечатления",
+        "text": "В отзывах ноября 2026 года о поездках в Пунта-Ува встречаются наблюдения за речными черепахами и лесом. После ливней уточняйте вход с берега и возможность пройти реку без открытого моря. Не планируйте купание в реке самостоятельно.",
+        "sources": [
+          "punta-uva-field-reviews",
+          "punta-uva-kayak-video",
+          "gandoca-plan-sinac-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caribe Sur · речная прогулка в Пунта-Ува",
+        "source": "punta-uva-caribesur-kayak",
+        "note": "Точная точка встречи, погодная замена, размеры жилетов и длительность.",
+        "phone": "+506 8583 7749",
+        "url": "https://caribesurcr.com/tour-item/sloth-and-kayak-tour/"
+      }
+    ],
+    "nearby": [
+      "punta-uva",
+      "cocles",
+      "gandoca-punta-mona-hike-boat"
+    ],
+    "track": null,
+    "galleries": [
+      "punta-uva-caribesur-kayak",
+      "punta-uva-field-reviews"
+    ],
+    "videos": [
+      "punta-uva-kayak-video"
+    ]
+  },
+  "gandoca-punta-mona-hike-boat": {
+    "photos": [
+      "caribe-punta-mona"
+    ],
+    "stops": [
+      {
+        "point": "manzanillo-refugio-entry",
+        "role": "Вход из Мансанильо",
+        "note": "Сверьте фактический вход и инструктаж у местной команды."
+      },
+      {
+        "point": "caribe-punta-mona-sector",
+        "role": "Пунта-Мона · район согласованной высадки",
+        "note": "Координата берега. Точку посадки в лодку подсказывает оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лесной участок и возврат",
+        "text": "Gandoca Tours указывает пять часов и лодку на обратный путь. Попросите запасной план для плохого моря и итоговое время окончания у Мансанильо.",
+        "sources": [
+          "punta-mona-tour-boat",
+          "punta-mona-community-logistics"
+        ]
+      },
+      {
+        "title": "Парк и экипировка",
+        "text": "Режим определяет администрация рефугиума. Возьмите закрытую обувь, средства от дождя и насекомых, запас воды и гермомешок. Подтвердите жилет в лодке, ограничения и условия для семьи.",
+        "sources": [
+          "gandoca-plan-sinac-2026",
+          "punta-mona-local-hotel-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Gandoca Tours · береговой проводник и лодка",
+        "source": "punta-mona-tour-boat",
+        "note": "Согласуйте вход, время, точку отправления лодки и сухопутный вариант при волнении.",
+        "phone": "+506 8762 8848",
+        "url": "https://www.gandocatours.com/tour/caminata-de-manzanillo-a-punta-mona-regreso-en-bote/"
+      }
+    ],
+    "nearby": [
+      "gandoca",
+      "punta-uva-local-kayak",
+      "gandoca-lagoon-local-paddle",
+      "talamanca-reef-surf-3"
+    ],
+    "track": null,
+    "galleries": [
+      "punta-mona-tour-boat",
+      "punta-mona-local-hotel-guide"
+    ],
+    "videos": []
+  },
+  "punta-islita-art-walk": {
+    "stops": [
+      {
+        "point": "gravel-punta-islita-area",
+        "role": "Пунта-Ислита · район деревни",
+        "note": "Попросите музей уточнить начало прогулки и предложение на дату визита."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Чем заняться",
+        "text": "ICT описывает связанный с площадью, домами и лесом музей. Можно начать с работ в деревне. Галерею и мастерскую согласуйте по опубликованному телефону. Для прогулки в жару возьмите воду и средство от солнца. О выставке ремесленного коллектива в январе 2026 года сообщала местная Mírame Fine Art.",
+        "sources": [
+          "islita-museum-ict",
+          "islita-museum-cultura",
+          "islita-photos-marriott",
+          "islita-exhibition-2026"
+        ]
+      },
+      {
+        "title": "Материал о районе",
+        "text": "Открытая вставка InMexico сохраняет авторство прогулочного фото гостиницы Пунта-Ислита. Этот архив иллюстрирует окрестности, а работы местных художников показаны в репортаже и видео о музее.",
+        "sources": [
+          "islita-visitor-instagram",
+          "islita-visitor-embed",
+          "islita-video-experience"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Museo Islita · контакт из реестра культуры",
+        "source": "islita-museum-cultura",
+        "note": "Уточните часы галереи, мастерскую, доступ для детей и точку встречи.",
+        "phone": "+506 2661 4044",
+        "url": "https://adminsi.cultura.cr/infraestructura/museo-islita-de-arte-contemporaneo-al-aire-libre"
+      }
+    ],
+    "nearby": [
+      "santa-teresa-nosara-gravel-101",
+      "carrillo",
+      "samara"
+    ],
+    "track": null,
+    "galleries": [
+      "islita-museum-cultura",
+      "islita-photos-marriott"
+    ],
+    "videos": [
+      "islita-video-experience"
+    ]
+  },
+  "amubri-katsi-yorkin-3": {
+    "photos": [
+      "caribe-rio-yorkin"
+    ],
+    "stops": [
+      {
+        "point": "caribe-amubri-village",
+        "role": "Амубри · район встречи",
+        "note": "По программе первая ночь в Koswak Usure Lodge. Запросите его координату и встречу у перевозчика."
+      },
+      {
+        "point": "caribe-yorkin-village",
+        "role": "Йоркин · вторая ночь",
+        "note": "По программе размещение Finca Integral Yismai. Координата обозначает общину."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что подтверждено программой",
+        "text": "ATEC описывает переход от Амубри через реку Урэн и Каци, вторую ночёвку в Йоркине и выход на лодке. Оператор отмечает высокий уровень сложности и языки сопровождения. Уточните, сколько из опубликованных услуг и приёмов пищи входит в итоговый расчёт.",
+        "sources": [
+          "amubri-yorkin-atec",
+          "yorkin-atec-lodge"
+        ]
+      },
+      {
+        "title": "Вещи, лодки и согласие",
+        "text": "Возьмите обувь для влажной тропы, гермоупаковку, тёплый сухой комплект и лёгкий дневной запас. Согласуйте допустимые остановки и правила фото с проводником. Переправы и размещение определяют принимающие стороны.",
+        "sources": [
+          "amubri-yorkin-atec",
+          "yorkin-stibrawpa-access"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ATEC · экскурсии с местными проводниками",
+        "source": "amubri-yorkin-atec",
+        "note": "Подтвердите дату, домики, длину пешего участка, виды питания и условия речной высадки.",
+        "phone": "+506 2750 0398",
+        "url": "https://ateccr.org/producto/deep-talamanca-hinking-amubri-yorkin/"
+      }
+    ],
+    "nearby": [
+      "yorkin-bribri-canoe-3",
+      "yorkin-bambu-walk",
+      "caribe-bus-3"
+    ],
+    "track": null,
+    "galleries": [
+      "amubri-yorkin-atec",
+      "yorkin-stibrawpa-services"
+    ],
+    "videos": []
+  },
+  "cahuita-sunrise-kayak-atec": {
+    "photos": [
+      "caribe-cahuita"
+    ],
+    "stops": [
+      {
+        "point": "cahuita-kelly",
+        "role": "Кауита · район Playa Blanca",
+        "note": "Картографический ориентир северного сектора. Фактическое место выхода в море и тип разрешения уточняйте заранее."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Гид и условия",
+        "text": "ATEC указывает 2,5 часа, экипировку и фрукты. На дату сверки цена на странице составляла 96 USD. Запросите режим допуска в ранний час и состав тарифа, возраст и посадку.",
+        "sources": [
+          "cahuita-atec-sunrise",
+          "cahuita-current-entry"
+        ]
+      },
+      {
+        "title": "Своя лодка",
+        "text": "В плане SINAC указано использование каяков или SUP в секторах Blanca, Puerto Vargas, río Suárez и río Carbón с правилами управления берегом. Уточните, какие разрешены сейчас, кто принимает запрос и откуда допускается безопасный старт.",
+        "sources": [
+          "cahuita-sinac-water-plan",
+          "cahuita-current-entry",
+          "cahuita-nov-2026-access"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ATEC · тур на рассвете",
+        "source": "cahuita-atec-sunrise",
+        "note": "Подтвердите допуск группы, сбор, жилеты и прогноз волнения.",
+        "phone": "+506 2750 0398",
+        "url": "https://ateccr.org/producto/cahuita-sunrise-kayaking-tour/"
+      },
+      {
+        "name": "SINAC · Parque Nacional Cahuita",
+        "source": "cahuita-current-entry",
+        "note": "Запросите действующие правила для личного каяка и точку спуска.",
+        "phone": null,
+        "url": "https://www.sinac.go.cr/EN-US/ac/aclac/pnc/Pages/default.aspx",
+        "email": "aclac.pncahuita@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "cahuita-trail",
+      "cahuita-reef-snorkel",
+      "punta-uva-local-kayak"
+    ],
+    "track": null,
+    "galleries": [
+      "cahuita-atec-sunrise"
+    ],
+    "videos": []
+  }
+}

@@ -113,6 +113,9 @@ assert(find({ region: "south", activity: "camping", transport: "noCar", duration
 assert(find({ region: "north", activity: "own-craft" }).some(row => row.id === "cote-own-kayak-packraft"));
 assert(find({ region: "centralpac", activity: "rooftent", duration: "two" }).some(row => row.id === "bijagual-rooftent-visit"));
 assert(find({ region: "mountains", activity: "summit", km: "thirty", duration: "three" }, "expeditions").some(row => row.id === "uran-herradura-camp-3"));
+assert(find({ region: "mountains", activity: "summit", km: "fifty", duration: "five" }, "expeditions").some(row => row.id === "pila-kamuk-55-5"));
+assert(find({ region: "caribbean", activity: "boat", transport: "noCar", duration: "three" }, "expeditions").some(row => row.id === "yorkin-bribri-canoe-3"));
+assert(find({ region: "caribbean", activity: "own-craft" }).some(row => row.id === "cahuita-sunrise-kayak-atec"));
 const farm = records.find(row => row.id === "monteverde-finca-madre-tierra");
 assert(farm.posts?.some(post => post.url === "https://www.instagram.com/p/DfmxPxDFybR/"));
 console.log(`Validated ${records.length} entries, ${Object.keys(atlas.sources).length} indexed sources and 200 profiles.`);

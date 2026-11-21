@@ -313,5 +313,41 @@
     "license": "CC BY-SA 2.5",
     "original": "https://commons.wikimedia.org/wiki/File:Guiones.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/"
+  },
+  "caribe-rio-yorkin": {
+    "file": "caribe-rio-yorkin.jpg",
+    "alt": "Рио-Йоркин между лесистыми берегами",
+    "caption": "Рио-Йоркин · район Сиксаолы, 2011",
+    "author": "Ariel Amoroso / UICN Mesoamérica",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_York%C3%ADn_in_Sixaola.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "caribe-punta-uva": {
+    "file": "caribe-punta-uva.jpg",
+    "alt": "Пляж Пунта-Ува с пальмами",
+    "caption": "Плайя Пунта-Ува, 2011 · уменьшенная копия",
+    "author": "Jaimedelamata",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_de_Punta_Uva,_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "caribe-cahuita": {
+    "file": "caribe-cahuita.jpg",
+    "alt": "Волны и пляж национального парка Кауита",
+    "caption": "Побережье национального парка Кауита, 2009 · уменьшенная копия",
+    "author": "Haakon S. Krohn",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Cahuita_national_park,_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "caribe-punta-mona": {
+    "file": "caribe-punta-mona.jpg",
+    "alt": "Вид с воздуха на мыс Пунта-Мона и лес вдоль моря",
+    "caption": "Пунта-Мона, Гандока-Мансанильо, 2018 · уменьшенная копия",
+    "author": "Bernal Saborio",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Monkey_Point_(30983700228).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
   }
 }
