@@ -4,7 +4,7 @@ import "leaflet/dist/leaflet.css";
 
 const mapUrl = ([lat, lon]) => `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
 
-export default function RouteMap({ stops, track }) {
+export default function RouteMap({ stops, track, line, lineSource }) {
   const container = useRef(null);
   const markers = useRef([]);
   const [selected, setSelected] = useState(null);
@@ -17,7 +17,10 @@ export default function RouteMap({ stops, track }) {
     }).addTo(map);
 
     const positions = stops.map(stop => stop.coords);
-    if (positions.length > 1) {
+    if (line) {
+      const path = L.polyline(line.coords, { color: "#216e57", weight: 4, interactive: false }).addTo(map);
+      map.fitBounds(path.getBounds().extend(L.latLngBounds(positions)), { padding: [30, 30], maxZoom: 15 });
+    } else if (positions.length > 1) {
       L.polyline(positions, { color: "#874916", weight: 3, dashArray: "6 8", interactive: false }).addTo(map);
       map.fitBounds(positions, { padding: [30, 30], maxZoom: 14 });
     } else {
@@ -50,7 +53,7 @@ export default function RouteMap({ stops, track }) {
       markers.current = [];
       map.remove();
     };
-  }, [stops]);
+  }, [stops, line]);
 
   return <section className="route-map" aria-label="Карта маршрута">
     <h2>{stops.length > 1 ? "Карта маршрута" : "Точка на карте"}</h2>
@@ -71,7 +74,8 @@ export default function RouteMap({ stops, track }) {
       </ol>
     </div>
     <div className="route-map-links">
-      {stops.length > 1 && <span>Пунктир показывает порядок остановок. Для навигации используйте карту организатора или опубликованный трек.</span>}
+      {line ? <span>{line.note} <a href={lineSource.url} target="_blank" rel="noopener noreferrer">Данные тропы © OpenStreetMap ↗</a></span>
+        : stops.length > 1 && <span>Пунктир показывает порядок остановок.{track && " Для навигации откройте карту или трек по ссылке."}</span>}
       {track && <a href={track.url} target="_blank" rel="noopener noreferrer">{track.title} ↗</a>}
     </div>
   </section>;

@@ -42,6 +42,7 @@ def main():
             raise ValueError(f"Invalid map point {key}")
         points[key] = {**point, "coords": coords}
 
+    lines = json.loads((DATA / "route-lines.json").read_text())
     dossiers = {}
     for path in sorted(DATA.glob("dossiers*.json")):
         for key, dossier in json.loads(path.read_text()).items():
@@ -108,7 +109,7 @@ def main():
     out = ROOT / "public" / "atlas.json"
     out.write_text(json.dumps({
         "checked": metadata["checked"], "records": records,
-        "sources": sources_by_id, "social": social,
+        "sources": sources_by_id, "social": social, "lines": lines,
     }, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     print(f"{len(records)} records, {len(sources)} sources, {len(social.get('profiles', []))} social profiles")
 

@@ -13,6 +13,10 @@ for (const source of Object.values(atlas.sources)) {
   assert.equal(new URL(source.url).protocol, "https:", source.id);
   assert(source.scope && source.title);
 }
+for (const [id, line] of Object.entries(atlas.lines)) {
+  assert(line.note && line.source in atlas.sources && line.coords.length > 1, id);
+  assert(line.coords.every(([lat, lon]) => lat >= 5 && lat <= 11.3 && lon >= -88 && lon <= -82.3), id);
+}
 for (const row of records) {
   assert.match(row.id, /^[a-z0-9]+(?:-[a-z0-9]+)*$/);
   assert(row.title && row.summary && row.plan && row.conditions && row.native, row.id);
@@ -27,9 +31,10 @@ for (const row of records) {
   assert((row.stages || []).every((s, i) => s.day === i + 1 && s.title && s.note && s.stops.every(id => known.has(id))), row.id);
   assert((row.stages || []).every(s => (s.sources || []).every(id => id in atlas.sources)), row.id);
   if (row.dossier) {
-    const { stops, track, sections, contacts, nearby = [] } = row.dossier;
+    const { stops, track, line, sections, contacts, nearby = [] } = row.dossier;
     assert(stops.every(stop => stop.name && stop.role && stop.source in atlas.sources && stop.coords.every(Number.isFinite)), row.id);
     assert(!track || track in atlas.sources, row.id);
+    assert(!line || line in atlas.lines && stops.length > 1, row.id);
     assert(sections.length > 0 && sections.every(section => section.title && section.text && section.sources.length && section.sources.every(id => id in atlas.sources)), row.id);
     assert(contacts.every(contact => contact.name && contact.note && contact.source in atlas.sources), row.id);
     assert(contacts.every(contact => !contact.url || new URL(contact.url).protocol === "https:"), row.id);

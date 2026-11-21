@@ -204,6 +204,7 @@ function Detail({ row, atlas, route, saved, toggle }) {
   const photo = photoFor(row);
   const byId = new Map(atlas.records.map(r => [r.id, r]));
   const dossier = row.dossier;
+  const line = atlas.lines?.[dossier?.line];
   const stats = [
     [Clock3, "Длительность", durationLabel(row.days) + (row.distance ? ` · ${String(row.distance).replace(".", ",")} км` : "")],
     [Mountain, "Сложность", difficulty[row.level]],
@@ -232,7 +233,7 @@ function Detail({ row, atlas, route, saved, toggle }) {
       </div>)}
     </dl>
     {Boolean(dossier?.stops.length) && <Suspense fallback={<p role="status">Загружаем карту…</p>}>
-      <RouteMap key={row.id} stops={dossier.stops} track={atlas.sources[dossier.track]} />
+      <RouteMap key={row.id} stops={dossier.stops} track={atlas.sources[dossier.track]} line={line} lineSource={atlas.sources[line?.source]} />
     </Suspense>}
     <div className="detail-body">
       <section>

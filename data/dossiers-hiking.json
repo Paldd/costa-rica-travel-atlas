@@ -82,7 +82,8 @@
       "chirripo-3",
       "chirripo-jeronimo",
       "sabana-leones"
-    ]
+    ],
+    "line": "chirripo"
   },
   "chirripo-3": {
     "stops": [
@@ -167,7 +168,8 @@
       "chirripo",
       "chirripo-jeronimo",
       "sabana-leones"
-    ]
+    ],
+    "line": "chirripo"
   },
   "sabana-oka": {
     "stops": [
@@ -373,7 +375,7 @@
         "note": "Финиш горного подъёма. Отдельный вход в парк требует своего допуска."
       }
     ],
-    "track": "camino-steps",
+    "track": "camino-gpx",
     "sections": [
       {
         "title": "Два дня разной нагрузки",
@@ -448,7 +450,7 @@
         "note": "Старт горного 10-километрового участка."
       }
     ],
-    "track": "camino-steps",
+    "track": "camino-gpx",
     "sections": [
       {
         "title": "Около 48,3 км",
@@ -541,7 +543,7 @@
         "note": "Район ночёвки и место выхода для блока в 102 км."
       }
     ],
-    "track": "camino-steps",
+    "track": "camino-gpx",
     "sections": [
       {
         "title": "102,09 км за семь этапов",
@@ -695,7 +697,7 @@
         "note": "Кепос, Тихий океан и транспорт обратно."
       }
     ],
-    "track": "camino-steps",
+    "track": "camino-gpx",
     "sections": [
       {
         "title": "Карта всего перехода",

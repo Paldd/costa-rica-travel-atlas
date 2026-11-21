@@ -163,7 +163,8 @@
       "caribe-bus-3",
       "cocles"
     ],
-    "track": "cahuita-trail-km"
+    "track": "cahuita-trail-km",
+    "line": "cahuita-trail"
   },
   "cocles": {
     "stops": [
