@@ -1092,7 +1092,8 @@
     "nearby": [
       "rincon-cangreja-10",
       "rincon-escondidas",
-      "rincon-santa-maria"
+      "rincon-santa-maria",
+      "la-leona-curubande"
     ],
     "track": "rincon-ict-map"
   },
@@ -1419,7 +1420,8 @@
     "nearby": [
       "rincon-pailas",
       "rincon-cangreja-10",
-      "rincon-mtb"
+      "rincon-mtb",
+      "la-leona-curubande"
     ],
     "track": "guachipelin-faq"
   },

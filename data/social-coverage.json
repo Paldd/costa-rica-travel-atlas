@@ -7,7 +7,7 @@
     "instagramUniquePosts": 579,
     "instagramPosts": 582,
     "facebookAbout": 100,
-    "placesWithPostLinks": 27
+    "placesWithPostLinks": 30
   },
   "profiles": [
     {
@@ -1654,6 +1654,12 @@
         "url": "https://www.instagram.com/p/Df0paw2REYJ/"
       }
     ],
+    "cortinas-siquirres": [
+      {
+        "profile": "Ticos Mochileros",
+        "url": "https://www.instagram.com/p/DcBLhpJxf-m/"
+      }
+    ],
     "piedras-blancas": [
       {
         "profile": "Vamos a Turistear",
@@ -1672,6 +1678,12 @@
       {
         "profile": "Senderos del Toro",
         "url": "https://www.instagram.com/p/DflDCBpGfY3/"
+      }
+    ],
+    "la-leona-curubande": [
+      {
+        "profile": "Costa Rica Mochilera",
+        "url": "https://www.instagram.com/p/Df8v2Ejxg5w/"
       }
     ],
     "corcovado-sirena": [
@@ -1806,6 +1818,12 @@
       {
         "profile": "Las Catalinas",
         "url": "https://www.instagram.com/p/DfkmIh3q-AH/"
+      }
+    ],
+    "biesanz-beach": [
+      {
+        "profile": "Shana by the Beach",
+        "url": "https://www.instagram.com/p/DfW_ZvxlchV/"
       }
     ],
     "quepos-boat": [

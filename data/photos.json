@@ -295,5 +295,14 @@
     "license": "CC0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "original": "https://wordpress.org/photos/photo/2446ae3ad7/"
+  },
+  "biesanz-cove-photo": {
+    "file": "biesanz-vincent-branciforti.jpg",
+    "alt": "Человек на SUP у скал с тропическим лесом в бухте Бьесанс",
+    "caption": "Бухта Бьесанс · SUP у скал, 2021 год",
+    "author": "Vincent Branciforti",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "original": "https://unsplash.com/photos/green-trees-on-brown-rock-formation-beside-body-of-water-during-daytime-JX9Kc-0tNAg"
   }
 }

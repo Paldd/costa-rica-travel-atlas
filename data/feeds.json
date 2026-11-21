@@ -38,5 +38,10 @@
   {"name":"Marlin del Rey · посадка и рейсы Coco и Tamarindo","url":"https://marlindelrey.com/faq/","paths":["/sailing-tours/","/playa-del-coco-","/contact","/faq/"]},
   {"name":"Panache Sailing · рейсы от Marina Flamingo","url":"https://panachesailing.com/","paths":["/tours/","/faq/","/contact-us-2/"]},
   {"name":"Coco’s Tours · местные выезды из Пунтаренаса","url":"https://cocostours.cr/tour-category/tours/","paths":["/tour/","/contacto/"]},
-  {"name":"The Majestic · рейсы от Tambor Pier","url":"https://themajesticcostarica.com/","paths":["/tour-","/es/","/contact"]}
+  {"name":"The Majestic · рейсы от Tambor Pier","url":"https://themajesticcostarica.com/","paths":["/tour-","/es/","/contact"]},
+  {"name":"Ecotours Toro Amarillo · маршруты долины","url":"https://bajosdeltoroamarillo.com/es/","paths":["/es/","/senderismo-","/cataratas-","/best-hiking-"]},
+  {"name":"Senderos del Toro · походы и водопады","url":"https://senderosdeltoro.com/","paths":["/catarata-","/cataratas/","/blue-falls/"]},
+  {"name":"Монтес-де-Оро · сельские тропы","url":"https://montesdeoro.go.cr/tajo-alto/","paths":["/finca-","/senderismo/","/caminata-al-","/canon-del-"]},
+  {"name":"Valhalla · местные туры и треки","url":"https://valhallamodotapir.com/tours/","paths":["/tours/"]},
+  {"name":"Finca Curubanda · походы у Рио-Бланко","url":"https://www.leonawaterfallcurubanda.com/en","paths":["/en/","/post/"]}
 ]
