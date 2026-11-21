@@ -4776,5 +4776,225 @@
         ]
       }
     ]
+  },
+  {
+    "id": "nicoya-gravel-9-supported",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Никоя на гравийном велосипеде · шесть этапов за девять дней",
+    "native": "La Expedición Gravel · Estación Seca · My Adventure",
+    "level": "expedition",
+    "days": 9,
+    "activities": [
+      "multi",
+      "gravel",
+      "cycling",
+      "ebike",
+      "views",
+      "beach"
+    ],
+    "audience": [
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "nicoya-gravel-mya-dry",
+      "nicoya-gravel-mya-wet",
+      "nicoya-gravel-mya-contact",
+      "paquera-ferry-live"
+    ],
+    "summary": "Организованная январская экспедиция 2027 с шестью велоднями, паромом, двумя тяжёлыми этапами и финишем в Брасилито.",
+    "plan": "Сбор в Сан-Хосе, затем паром в Пакеру. План проходит через Санта-Тересу, Носару и Тамариндо, с проживанием и возвращением в столицу.",
+    "conditions": "По текущей программе 23–31 января в группе 6–8 райдеров. Уточните наличие мест, что покрывает пакет, возможность взять e-bike и транспортировку своего велосипеда. Организатор публикует другой сезонный маршрут.",
+    "distance": 356,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сбор в районе Сан-Хосе",
+        "note": "Прибытие, сборка велосипеда, инструктаж и первая ночь у аэропорта.",
+        "stops": [],
+        "sources": [
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пакера — Санта-Тереса",
+        "note": "46,5 км и +915 м через залив, Тамбор и Кобано. Ночь в Santa Teresa.",
+        "stops": [],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "paquera-ferry-live"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Лепанто — Санта-Тереса",
+        "note": "55,8 км и +1 644 м. Подъём к хребту и возврат к берегу.",
+        "stops": [],
+        "sources": [
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Санта-Тереса — Носара",
+        "note": "101,1 км и +1 530 м. Поддержка и контроль воды особенно важны.",
+        "stops": [
+          "santa-teresa-nosara-gravel-101"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Горный круг Носары",
+        "note": "69,3 км и +2 632 м от побережья к хребтам. Уточните вариант e-bike.",
+        "stops": [
+          "nosara-gravel-reina-69"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "ostional-sinac-adio"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Носара — Тамариндо",
+        "note": "59,2 км и +782 м через Остиональ, Сан-Хуанильо, участки у Плайя-Негра и Авельянас.",
+        "stops": [
+          "avellanas-camp",
+          "tamarindo-surf"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Тамариндо — Брасилито",
+        "note": "23,8 км и +318 м. После финиша при наличии времени можно дойти до Кончаля.",
+        "stops": [
+          "conchal"
+        ],
+        "sources": [
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Переезд в Сан-Хосе",
+        "note": "Возврат с велосипедом и багажом, свободная часть дня, ночёвка у аэропорта.",
+        "stops": [],
+        "sources": [
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Вылет",
+        "note": "Договоритесь о трансфере и упаковке велосипеда под правила своей авиакомпании.",
+        "stops": [],
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-contact"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drake-rincon-3-no-car",
+    "kind": "trip",
+    "region": "south",
+    "title": "Дрейк и Ринкон без машины · лес, река и палатка за три дня",
+    "native": "Sierpe · Agujitas · Río Claro · San Josecito · Playa Rincón",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "multi",
+      "camping",
+      "hiking",
+      "kayak",
+      "boat",
+      "river",
+      "forest",
+      "beach",
+      "wildlife"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "sierpe-xplorer-logistics",
+      "osa-life-transport",
+      "osa-life-tents",
+      "osa-life-canoe-tour",
+      "osa-drake-sallysees"
+    ],
+    "summary": "Две ночи, одна в районе Agujitas и одна в готовой палатке в Ринконе. Подходит для сочетания лесной тропы, лодки и реки по согласованной схеме.",
+    "plan": "Соберите стыковки Палмар-Норте — Сьерпе — Дрейк, переноса багажа к ночёвке и обратной высадки. Выберите короткий каяк или длинный сплав отдельным слотом.",
+    "conditions": "До оплаты ночёвок зафиксируйте второй переход и утреннюю лодку на третий день. Если море или река закрыты, выберите две ночи в Agujitas и локальную сухую прогулку.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Лодка из Сьерпе и ночь в Дрейке",
+        "note": "Из Палмар-Норте до La Perla del Sur. После высадки в Agujitas проверьте у хозяев условия утреннего выезда и запасную прогулку.",
+        "stops": [
+          "sierpe-boat"
+        ],
+        "sources": [
+          "sierpe-xplorer-logistics",
+          "osa-life-transport"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Река либо береговая тропа, ночь в Ринконе",
+        "note": "Выберите каяк с гидом, длинный сплав или сухую часть тропы. С хозяевами согласуйте лодку и встречу в Сан-Хосесито для переноса багажа.",
+        "stops": [
+          "drake-rio-claro-kayak",
+          "drake-rio-claro-long-float",
+          "drake-san-josecito-coastal",
+          "rincon-life-for-life-camp"
+        ],
+        "sources": [
+          "osa-life-canoe-tour",
+          "osa-drake-experts-float",
+          "osa-life-transport"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Возврат в Сьерпе",
+        "note": "Переезд к заранее согласованной посадке и лодка в Сьерпе. Оставьте запас на наземный участок и море.",
+        "stops": [
+          "sierpe-boat"
+        ],
+        "sources": [
+          "osa-life-transport",
+          "sierpe-xplorer-logistics"
+        ]
+      }
+    ]
   }
 ]

@@ -304,5 +304,14 @@
     "license": "Unsplash License",
     "licenseUrl": "https://unsplash.com/license",
     "original": "https://unsplash.com/photos/green-trees-on-brown-rock-formation-beside-body-of-water-during-daytime-JX9Kc-0tNAg"
+  },
+  "guiones-shore": {
+    "file": "guiones-shore.jpg",
+    "alt": "Закат у берега Плайя-Гионес",
+    "caption": "Плайя-Гионес · архивный снимок",
+    "author": "VanTucky",
+    "license": "CC BY-SA 2.5",
+    "original": "https://commons.wikimedia.org/wiki/File:Guiones.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/"
   }
 }

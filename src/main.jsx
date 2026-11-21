@@ -326,7 +326,7 @@ function SourcesPage({ atlas }) {
   const followerFormat = new Intl.NumberFormat("ru-RU");
   const profiles = atlas.social.profiles.filter(row =>
     (!platform || row.platform === platform) &&
-    fold([row.name, row.url, row.category, row.zone, row.platform].join(" ")).includes(needle)
+    fold([row.name, row.url, row.category, row.zone, row.platform, atlas.sources[row.publisher?.site]?.url].join(" ")).includes(needle)
   );
   const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length).length;
   const withVideos = atlas.records.filter(row => row.dossier?.videos?.length).length;
@@ -346,9 +346,10 @@ function SourcesPage({ atlas }) {
     <details className="evidence-list">
       <summary>Рейтинг Instagram и Facebook <ChevronDown size={18} /></summary>
       <p>По {overview.instagramProfiles} профилей на каждой платформе с аудиторией свыше 1 000 подписчиков. Замер от <time dateTime={measurementDate}>{measurementDate?.split("-").reverse().join(".")}</time>.</p>
+      {overview.publisherLinks > 0 && <p>У {overview.publisherLinks} профилей есть подтверждённый сайт. Для {overview.publisherArchiveLinks} профилей доступны ссылки на разделы статей, маршрутов или программ этого проекта.</p>}
       <div className="profile-filters">
         <label className="search-box"><Search size={19} aria-hidden="true" /><span className="visually-hidden">Поиск соцпрофиля</span>
-          <input type="search" value={query} placeholder="Профиль, регион или категория" onChange={event => setQuery(event.target.value)} />
+          <input type="search" value={query} placeholder="Профиль, сайт, регион или категория" onChange={event => setQuery(event.target.value)} />
         </label>
         <label className="profile-platform"><span className="visually-hidden">Платформа</span>
           <select value={platform} onChange={event => setPlatform(event.target.value)}>
@@ -375,6 +376,8 @@ function SourcesPage({ atlas }) {
               : row.about ? "Прочитано описание" : "Подтверждена карточка"}</span>
             {row.postLinks?.map(({ source, checked }) =>
               <External key={source} href={atlas.sources[source].url}>{atlas.sources[source].title} · {checked.split("-").reverse().join(".")}</External>)}
+            {row.publisher && <External href={atlas.sources[row.publisher.site].url}>Сайт проекта</External>}
+            {row.publisher?.archive && <External href={atlas.sources[row.publisher.archive].url}>Статьи и маршруты проекта</External>}
           </div>
         </div>)}
       </div>

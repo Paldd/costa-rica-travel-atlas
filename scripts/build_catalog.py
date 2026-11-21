@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 SOURCE_FIELDS = ("id", "kind", "title", "url", "scope")
 POST_FIELDS = ("profile", "source", "checked")
+PUBLISHER_FIELDS = ("profile", "site", "archive", "checked")
 RANK_FIELDS = ("platform", "profile", "rank", "followers", "precision", "checked", "countSource", "category", "zone")
 SOCIAL_DOMAINS = {
     "Instagram": {"www.instagram.com"},
@@ -58,6 +59,14 @@ def build_social(sources_by_id):
     if any(values != set(range(1, 101)) for values in ranks.values()) or any("rank" not in row for row in profiles.values()):
         raise ValueError("Incomplete scope of the social rankings")
     social["profiles"].sort(key=lambda row: (row["platform"] != "Instagram", row["rank"]))
+    for publisher in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS):
+        profile = profiles.get(publisher.pop("profile"))
+        site = publisher["site"]
+        archive = publisher["archive"]
+        if not profile or "publisher" in profile or site not in sources_by_id or (archive and archive not in sources_by_id):
+            raise ValueError(f"Invalid publisher link for {site}")
+        publisher["checked"] = date.fromisoformat(publisher["checked"]).isoformat()
+        profile["publisher"] = publisher
     seen_posts = set()
     for post in read_table(DATA / "public-posts.tsv", POST_FIELDS):
         profile = profiles.get(post["profile"])
@@ -76,6 +85,8 @@ def build_social(sources_by_id):
         seen_posts.add(source["url"])
     social["overview"]["facebookPosts"] = len(seen_posts)
     social["overview"]["facebookWithPosts"] = sum(bool(row.get("postLinks")) for row in profiles.values())
+    social["overview"]["publisherLinks"] = sum("publisher" in row for row in profiles.values())
+    social["overview"]["publisherArchiveLinks"] = sum(bool(row.get("publisher", {}).get("archive")) for row in profiles.values())
     return social
 
 

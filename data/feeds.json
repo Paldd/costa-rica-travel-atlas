@@ -50,5 +50,15 @@
   {"name":"Paradise Catchers · Коста-Рика","url":"https://www.paradisecatchers.com/category/central-america/costa-rica/","paths":["/how-to-get-","/waterfalls-","/la-fortuna-","/costa-ballena-","/drake-bay-","/floating-in-","/2-days-in-","/5-days-in-","/10-days-in-"],"language":"en","focus":"Опыт авторов из Коста-Рики. Маршруты на несколько дней, дороги, общественный транспорт, водопады и труднодоступные районы."},
   {"name":"Costa Rica Travel Blog · малолюдные места","url":"https://costaricatravelblog.com/costa-rica-off-the-beaten-path/","paths":["/category/where-to-go-in-costa-rica/","/category/what-to-do-in-costa-rica/","/costa-rica-waterfalls","/free-hot-springs-","/driving-to-"],"language":"en","focus":"Поездки авторов в малолюдные места. Пляжи, водопады, горячие источники и остановки в небольших сообществах."},
   {"name":"Pérez Zeledón · карта водопадов","url":"https://perezzeledon.com/waterfalls","paths":["/sendero-","/itinerar","/bus-routes-"],"language":"es-en","focus":"Региональный путеводитель по долине Эль-Хенераль. Карта водопадов, районные маршруты и местный транспорт."},
-  {"name":"Mytanfeet · подготовка и транспорт","url":"https://mytanfeet.com/costa-rica-travel-planning-tips/","language":"en","focus":"Проверка подъездов и пересадок, поездки без машины, экипировка на сезон дождей и выбор жилья."}
+  {"name":"Mytanfeet · подготовка и транспорт","url":"https://mytanfeet.com/costa-rica-travel-planning-tips/","language":"en","focus":"Проверка подъездов и пересадок, поездки без машины, экипировка на сезон дождей и выбор жилья."},
+  {"name":"Visit Costa Rica · статьи портала","url":"https://www.visitcostarica.com/blog","paths":["/blog/","/planning-your-trip/itineraries/"]},
+  {"name":"Costa Rica Cool · местные репортажи","url":"https://cool-cr.com/editorial/categoria/lugares-visitados","paths":["/editorial/"],"language":"es","focus":"Редакционные репортажи из небольших пляжных посёлков, отелей и кафе."},
+  {"name":"Costa Rica Experts · статьи о регионах","url":"https://costaricaexperts.com/destinations/","paths":["/destinations/"],"language":"en","focus":"Региональные путеводители местного туроператора от Дрейка и Пуэрто-Хименеса до Ареналя и Тортугеро."},
+  {"name":"Costa Rican Vacations · логистика и активности","url":"https://www.vacationscostarica.com/travel/","paths":["/travel/","/things-to-do/"]},
+  {"name":"Surf Simply · журнал школы","url":"https://surfsimply.com/magazine","paths":["/magazine/"],"language":"en","focus":"Пособия школы из Носары о подготовке, выборе доски и тренировках в воде."},
+  {"name":"Místico · прогулки у подвесных мостов","url":"https://misticopark.com/blog/","paths":["/blog/","/tours/"]},
+  {"name":"Hacienda Guachipelín · поездки у вулкана","url":"https://www.guachipelin.com/blog/en/","paths":["/blog/","/tours/"]},
+  {"name":"Selvatura · тропы и канопи Монтеверде","url":"https://www.selvatura.com/blog/","paths":["/blog/","/tours/"]},
+  {"name":"Vista Los Sueños · материалы о поездках из Хако","url":"https://vistalossuenosadventurepark.com/blog/","paths":["/blog/","/tours/"]},
+  {"name":"Arenal Manoa · термы и поездки из Ла-Фортуны","url":"https://arenalmanoa.com/blog/","paths":["/blog/","/tours/"]}
 ]

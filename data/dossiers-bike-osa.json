@@ -1,0 +1,1076 @@
+{
+  "giro-pio-50-2027": {
+    "stops": [
+      {
+        "point": "tambor-giro-venue",
+        "role": "Старт, финиш и регистрация",
+        "note": "Организатор указывает Hotel Barceló Tambor. Подтвердите парковку и ворота для участников."
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "Автомобильный паром",
+        "note": "22 км до района гостиницы. На машине заранее проверьте места на пароме и время регистрации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Календарь и допуск",
+        "text": "В программе указаны 5–6 марта 2027. Регистрация, зона Expo и технические мероприятия начинаются в пятницу. В форме и регламенте сверяйте дисциплину, категорию и правила разовой либо годовой лицензии.",
+        "sources": [
+          "tambor-giro-program",
+          "tambor-giro-rules",
+          "tambor-giro-entry",
+          "tambor-giro-technical"
+        ]
+      },
+      {
+        "title": "Опубликованный трек",
+        "text": "Сегменты GPX по ссылке организатора суммарно дают около 51,16 км. Название файла или трека содержит прежнюю маркировку «GP26 · 50K». Запросите финальную версию трассы 2027 перед тренировкой по маршруту.",
+        "sources": [
+          "tambor-giro-program",
+          "tambor-giro-50-garmin",
+          "tambor-giro-50-gpx-preview"
+        ]
+      },
+      {
+        "title": "Экипировка и размещение",
+        "text": "Короткая из трёх дистанций. Потренируйте езду по рыхлому грунту и питание в жару, прежде чем выходить на старт. Шлем и исправный велосипед нужны уже на контроле. Ночевать можно в Тамборе или поблизости, предварительно уточнив, где разрешено хранить велосипед.",
+        "sources": [
+          "tambor-giro-technical",
+          "tambor-barcelo-venue"
+        ]
+      },
+      {
+        "title": "Как проехать",
+        "text": "Из Пунтаренаса машину и велосипед можно перевезти паромом в Пакеру по условиям перевозчика. На карте показан подъезд к гостинице. Проверьте доступность рейса, ограничения по работам и порядок въезда на парковку.",
+        "sources": [
+          "paquera-ferry-live",
+          "guanacaste-mopt-highways-2026",
+          "tambor-venue-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Giro Pio · организация MTB и Gravel",
+        "source": "tambor-giro-program",
+        "note": "Запросите финальные треки, категорию, справку об условиях участия и время технического контроля.",
+        "phone": "+506 8877 6554",
+        "url": "https://giropio.com/",
+        "email": "giropiomtb@gmail.com"
+      }
+    ],
+    "nearby": [
+      "giro-pio-100-2027",
+      "giro-pio-160-2027",
+      "paquera-inshore-fishing",
+      "paquera-bioluminescence-kayak"
+    ],
+    "track": "tambor-giro-50-garmin",
+    "galleries": [
+      "tambor-giro-gallery",
+      "tambor-barcelo-venue"
+    ],
+    "videos": [],
+    "line": "paquera-giro-approach",
+    "photos": [
+      "tambor"
+    ]
+  },
+  "giro-pio-100-2027": {
+    "stops": [
+      {
+        "point": "tambor-giro-venue",
+        "role": "Старт, финиш и регистрация",
+        "note": "Организатор указывает Hotel Barceló Tambor. Подтвердите парковку и ворота для участников."
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "Автомобильный паром",
+        "note": "22 км до района гостиницы. На машине заранее проверьте места на пароме и время регистрации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Календарь и допуск",
+        "text": "В программе указаны 5–6 марта 2027. Регистрация, зона Expo и технические мероприятия начинаются в пятницу. В форме и регламенте сверяйте дисциплину, категорию и правила разовой либо годовой лицензии.",
+        "sources": [
+          "tambor-giro-program",
+          "tambor-giro-rules",
+          "tambor-giro-entry",
+          "tambor-giro-technical"
+        ]
+      },
+      {
+        "title": "Опубликованный трек",
+        "text": "Сегменты GPX по ссылке организатора суммарно дают около 102,23 км. Название файла или трека содержит прежнюю маркировку «Tambor Ciclismo 102,42 km». Запросите финальную версию трассы 2027 перед тренировкой по маршруту.",
+        "sources": [
+          "tambor-giro-program",
+          "tambor-giro-100-garmin",
+          "tambor-giro-100-gpx-preview"
+        ]
+      },
+      {
+        "title": "Экипировка и размещение",
+        "text": "Проверьте расход воды и еды на длинной тренировке. Возьмите ремонтный комплект, защиту от солнца, офлайн-карту и резерв питания. Шлем и исправный велосипед нужны уже на контроле. Ночевать можно в Тамборе или поблизости, предварительно уточнив, где разрешено хранить велосипед.",
+        "sources": [
+          "tambor-giro-technical",
+          "tambor-barcelo-venue"
+        ]
+      },
+      {
+        "title": "Как проехать",
+        "text": "Из Пунтаренаса машину и велосипед можно перевезти паромом в Пакеру по условиям перевозчика. На карте показан подъезд к гостинице. Проверьте доступность рейса, ограничения по работам и порядок въезда на парковку.",
+        "sources": [
+          "paquera-ferry-live",
+          "guanacaste-mopt-highways-2026",
+          "tambor-venue-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Giro Pio · организация MTB и Gravel",
+        "source": "tambor-giro-program",
+        "note": "Запросите финальные треки, категорию, справку об условиях участия и время технического контроля.",
+        "phone": "+506 8877 6554",
+        "url": "https://giropio.com/",
+        "email": "giropiomtb@gmail.com"
+      }
+    ],
+    "nearby": [
+      "giro-pio-50-2027",
+      "giro-pio-160-2027",
+      "paquera-inshore-fishing",
+      "paquera-bioluminescence-kayak"
+    ],
+    "track": "tambor-giro-100-garmin",
+    "galleries": [
+      "tambor-giro-gallery",
+      "tambor-barcelo-venue"
+    ],
+    "videos": [],
+    "line": "paquera-giro-approach",
+    "photos": [
+      "tambor"
+    ]
+  },
+  "giro-pio-160-2027": {
+    "stops": [
+      {
+        "point": "tambor-giro-venue",
+        "role": "Старт, финиш и регистрация",
+        "note": "Организатор указывает Hotel Barceló Tambor. Подтвердите парковку и ворота для участников."
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "Автомобильный паром",
+        "note": "22 км до района гостиницы. На машине заранее проверьте места на пароме и время регистрации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Календарь и допуск",
+        "text": "В программе указаны 5–6 марта 2027. Регистрация, зона Expo и технические мероприятия начинаются в пятницу. В форме и регламенте сверяйте дисциплину, категорию и правила разовой либо годовой лицензии.",
+        "sources": [
+          "tambor-giro-program",
+          "tambor-giro-rules",
+          "tambor-giro-entry",
+          "tambor-giro-technical"
+        ]
+      },
+      {
+        "title": "Опубликованный трек",
+        "text": "Сегменты GPX по ссылке организатора суммарно дают около 151,33 км. Название файла или трека содержит прежнюю маркировку «Tambor Ciclismo 151,42 km». Запросите финальную версию трассы 2027 перед тренировкой по маршруту.",
+        "sources": [
+          "tambor-giro-program",
+          "tambor-giro-160-garmin",
+          "tambor-giro-160-gpx-preview"
+        ]
+      },
+      {
+        "title": "Экипировка и размещение",
+        "text": "Заранее уточните лимиты времени и фактические пункты воды. Для e-bike подтвердите категорию, поддержку и правила обращения с запасной батареей. Шлем и исправный велосипед нужны уже на контроле. Ночевать можно в Тамборе или поблизости, предварительно уточнив, где разрешено хранить велосипед.",
+        "sources": [
+          "tambor-giro-technical",
+          "tambor-barcelo-venue"
+        ]
+      },
+      {
+        "title": "Как проехать",
+        "text": "Из Пунтаренаса машину и велосипед можно перевезти паромом в Пакеру по условиям перевозчика. На карте показан подъезд к гостинице. Проверьте доступность рейса, ограничения по работам и порядок въезда на парковку.",
+        "sources": [
+          "paquera-ferry-live",
+          "guanacaste-mopt-highways-2026",
+          "tambor-venue-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Giro Pio · организация MTB и Gravel",
+        "source": "tambor-giro-program",
+        "note": "Запросите финальные треки, категорию, справку об условиях участия и время технического контроля.",
+        "phone": "+506 8877 6554",
+        "url": "https://giropio.com/",
+        "email": "giropiomtb@gmail.com"
+      }
+    ],
+    "nearby": [
+      "giro-pio-50-2027",
+      "giro-pio-100-2027",
+      "paquera-inshore-fishing",
+      "paquera-bioluminescence-kayak"
+    ],
+    "track": "tambor-giro-160-garmin",
+    "galleries": [
+      "tambor-giro-gallery",
+      "tambor-barcelo-venue"
+    ],
+    "videos": [],
+    "line": "paquera-giro-approach",
+    "photos": [
+      "tambor"
+    ]
+  },
+  "guiones-samara-carrillo-27": {
+    "stops": [
+      {
+        "point": "nosara-mtb-guiones-assembly",
+        "role": "Старт у Гионес",
+        "note": "Выезд на Ruta 160 после проверки велосипеда и запаса воды."
+      },
+      {
+        "point": "samara-coffee",
+        "role": "Перерыв в Самаре",
+        "note": "Кафе в посёлке перед оставшимися примерно четырьмя километрами."
+      },
+      {
+        "point": "carrillo-shore-area",
+        "role": "Финиш у пляжа",
+        "note": "Ориентир для встречи с водителем. Берег и дорожное плечо меняются после ливней."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорожная версия и трек",
+        "text": "На карте дорожный маршрут атласа по Ruta 160 длиной 27,2 км. Nosara MTB продаёт собственный GPX под названием Guiones–Carrillo. Запросите у команды сведения о поверхности и уклонах, если выбираете её вариант.",
+        "sources": [
+          "osm-cr-points",
+          "guiones-carrillo-operator-track",
+          "garza-nosara-surface-mopt"
+        ]
+      },
+      {
+        "title": "Кофе, вода и возвращение",
+        "text": "Утренний выезд сокращает время под солнцем. В Самаре есть остановки на кофе и возможность пополнить воду. Для e-bike подтвердите запас хода на свой темп. Если возвращаться по той же дороге, дистанция составит около 54 км.",
+        "sources": [
+          "nosara-mtb-local-trail-guide",
+          "guanacaste-mopt-highways-2026"
+        ]
+      },
+      {
+        "title": "Остановка у моря",
+        "text": "Для урока или SUP удобнее согласовать встречу в Самаре. На финише можно запланировать береговую прогулку в Каррильо. Условия для воды уточняйте на месте.",
+        "sources": [
+          "pato-surf",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nosara MTB · местный прокат и велогиды",
+        "source": "nosara-mtb-shop-contact",
+        "note": "Уточните размер велосипеда, фактическое состояние дорог, доступ к треку и транспорт для обратной дороги.",
+        "phone": "+506 2573 3948",
+        "url": "https://nosaramtb.com/tours/",
+        "email": "reservations@nosaramtb.com"
+      },
+      {
+        "name": "Pato’s Surf School · Sámara",
+        "source": "pato-surf",
+        "note": "Спросите про урок сёрфинга, каяк или SUP на отдельный день.",
+        "phone": "+506 8373 2281",
+        "email": "kate@patossurfingsamara.com"
+      }
+    ],
+    "nearby": [
+      "carrillo",
+      "samara",
+      "nosara-emtb-hills-halfday",
+      "guiones-ostional-30"
+    ],
+    "track": "guiones-carrillo-operator-track",
+    "galleries": [
+      "nosara-mtb-local-trail-guide"
+    ],
+    "videos": [],
+    "line": "guiones-samara-carrillo-road",
+    "photos": [
+      "carrillo",
+      "guiones-shore"
+    ]
+  },
+  "guiones-ostional-30": {
+    "stops": [
+      {
+        "point": "nosara-mtb-guiones-assembly",
+        "role": "Район старта",
+        "note": "Ориентир для встречи с местной командой. Точный старт авторского трека смотрите в MTB Project."
+      },
+      {
+        "point": "ostional-village-road",
+        "role": "Разворот в районе Остионаля",
+        "note": "Дорожный ориентир. Въезд на охраняемый пляж регулирует SINAC."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Характер маршрута",
+        "text": "Автор записал 30,6 км и +135 м. Большинство участков идут по колее или грунтовым дорогам. Небольшой набор высоты не отражает сложность переправ в сезон дождей.",
+        "sources": [
+          "guiones-ostional-mtb-report",
+          "nosara-mtb-local-trail-guide"
+        ]
+      },
+      {
+        "title": "Тропа, доступ и черепахи",
+        "text": "Попросите объезд в случае закрытия береговых подходов. Для наблюдения за черепахами договоритесь с ADIO о прогулке с гидом. На велозаезд возьмите запас воды, насос, камеру и офлайн-карту дорог.",
+        "sources": [
+          "ostional-sinac-adio",
+          "nosara-mtb-local-trail-guide",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "title": "Полевой отчёт и фотографии",
+        "text": "В карточке первопроходца есть фотографии, карта, авторский GPX и два рейтинга. Открывайте их вместе с актуальными правилами доступа.",
+        "sources": [
+          "guiones-ostional-mtb-report",
+          "ostional-sinac-adio"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nosara MTB · местный прокат и велогиды",
+        "source": "nosara-mtb-shop-contact",
+        "note": "Уточните размер велосипеда, фактическое состояние дорог, доступ к треку и транспорт для обратной дороги.",
+        "phone": "+506 2573 3948",
+        "url": "https://nosaramtb.com/tours/",
+        "email": "reservations@nosaramtb.com"
+      },
+      {
+        "name": "ADIO · местная ассоциация гидов Остионаля",
+        "source": "ostional-sinac-adio",
+        "note": "Подтвердите режим входа и время пешего посещения зоны наблюдения за черепахами.",
+        "phone": "+506 2682 1229"
+      }
+    ],
+    "nearby": [
+      "guiones-samara-carrillo-27",
+      "nosara-mtb-family-trails-6",
+      "nosara-emtb-hills-halfday"
+    ],
+    "track": "guiones-ostional-mtb-report",
+    "galleries": [
+      "guiones-ostional-mtb-report"
+    ],
+    "videos": [],
+    "photos": [
+      "guiones-shore"
+    ]
+  },
+  "turrialba-peralta-34": {
+    "stops": [
+      {
+        "point": "turrialba-city-anchor",
+        "role": "Старт из центра",
+        "note": "Район запаса воды, кафе и дорожного выезда к La Margot."
+      },
+      {
+        "point": "peralta-station",
+        "role": "Разворот у исторической станции",
+        "note": "Снимки с публичного подхода. Доступ внутрь уточняйте на месте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и точка старта",
+        "text": "Wikiloc указывает 34,15 км, +598 м и 2 ч 19 мин движения. Автор второго выезда указывает около 35 км. Нарисованный в атласе проезд от центра до станции идёт 15,8 км в одну сторону. Длина меняется в зависимости от старта и выбранных улиц.",
+        "sources": [
+          "peralta-local-wikiloc",
+          "peralta-local-video",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Организация",
+        "text": "В выходной заложите 3–4 часа с остановками. Для группы, гостей без велосипеда или поездки после дождя можно обратиться к местному велогиду. Условия проката и возможность провести именно по Перальте обсуждаются заранее.",
+        "sources": [
+          "irika-mtb-field",
+          "irika-contact-form"
+        ]
+      },
+      {
+        "title": "История и кофе",
+        "text": "Перальта даёт повод посмотреть бывший железнодорожный посёлок. В путеводителе ICT есть фон по региону. Кофейный тур в Aquiares работает по собственному расписанию.",
+        "sources": [
+          "peralta-tourism-ict",
+          "aquiares-coffee-tour-operator"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Iriká Lodge · местный велогид",
+        "source": "irika-contact-form",
+        "note": "Попросите короткий или полный вариант через Перальту, прокат и точку сбора.",
+        "phone": "+506 8762 6000",
+        "url": "https://irikacr.com/contacto/"
+      }
+    ],
+    "nearby": [
+      "turri-irika-mtb",
+      "ira-tur-ebike-aquiares"
+    ],
+    "track": "peralta-local-wikiloc",
+    "galleries": [
+      "peralta-local-wikiloc"
+    ],
+    "videos": [
+      "peralta-local-video"
+    ],
+    "line": "turrialba-peralta-road"
+  },
+  "santa-teresa-nosara-gravel-101": {
+    "stops": [
+      {
+        "point": "santateresa-shore-reference",
+        "role": "Район старта",
+        "note": "Сбор с группой у жилья или у официальной точки, которую сообщит оператор."
+      },
+      {
+        "point": "gravel-coyote-village",
+        "role": "Внутренний ориентир Койоте",
+        "note": "Заранее согласуйте места пополнения воды и возможный объезд устьев."
+      },
+      {
+        "point": "gravel-punta-islita-area",
+        "role": "Пунта-Ислита",
+        "note": "Прибрежный ориентир рядом с заказником Камарональ. Схема проезда и правила доступа сверяются отдельно."
+      },
+      {
+        "point": "nosara-cycling-anchor",
+        "role": "Район финиша в Носаре",
+        "note": "Уточните, до какого объекта размещения довозят багаж и где можно зарядить технику."
+      }
+    ],
+    "sections": [
+      {
+        "title": "План дня",
+        "text": "Старты и финиши точнее всего видны в официальной карте этапа. Оператор ведёт через район Мансанильо, Сан-Франсиско-де-Койоте, Плайя-Койоте, Бехуко, Камарональ, Пунта-Ислита и Гарсу.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "camaronal-conservation-plan"
+        ]
+      },
+      {
+        "title": "Вода, ремонт и ночёвка",
+        "text": "Запросите у гида подтверждённые места воды и выхода на дорогу. Для самостоятельного планирования нужны навигация офлайн, ремонт бескамерной шины или запасная камера, пайки и защита от солнца. Организованный финиш — в районе Носары.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-contact"
+        ]
+      },
+      {
+        "title": "Сезонный вариант",
+        "text": "Гид публикует отдельную схему сезона дождей. Карта ниже содержит опорные пункты. Геометрию полного этапа открывайте на странице оператора.",
+        "sources": [
+          "nicoya-gravel-mya-wet",
+          "nicoya-gravel-mya-dry"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "My Adventure · Эстебан Уманья",
+        "source": "nicoya-gravel-mya-contact",
+        "note": "Получите текущую схему, варианты сопровождения, состав цены, требования к физической форме и условия проката.",
+        "phone": "+506 8505 0909",
+        "url": "https://www.myadventurecostarica.com/es/contact",
+        "email": "info@myadventurecostarica.com"
+      },
+      {
+        "name": "Nosara MTB · местный прокат и велогиды",
+        "source": "nosara-mtb-shop-contact",
+        "note": "Уточните размер велосипеда, фактическое состояние дорог, доступ к треку и транспорт для обратной дороги.",
+        "phone": "+506 2573 3948",
+        "url": "https://nosaramtb.com/tours/",
+        "email": "reservations@nosaramtb.com"
+      }
+    ],
+    "nearby": [
+      "nicoya-gravel-9-supported",
+      "guiones-samara-carrillo-27",
+      "avellanas-camp",
+      "nicoya-bikepack-6"
+    ],
+    "track": "nicoya-gravel-mya-dry",
+    "galleries": [
+      "nicoya-gravel-mya-overview",
+      "nicoya-gravel-mya-dry"
+    ],
+    "videos": [],
+    "photos": [
+      "guiones-shore"
+    ]
+  },
+  "nosara-gravel-reina-69": {
+    "stops": [
+      {
+        "point": "nosara-cycling-anchor",
+        "role": "Круг из Носары",
+        "note": "Уточните точку сбора и организованный выход за пределы посёлка."
+      },
+      {
+        "point": "ostional-village-road",
+        "role": "Остиональ · дорожный ориентир",
+        "note": "Сверьте возможность проезда с местным гидом до подъёма в горы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Профиль и нагрузка",
+        "text": "По данным оператора 69,3 км и +2 632 м. Высшая точка этапа находится примерно на 950 м. Заложите полный день и обсудите запасной выезд на поддержке до старта.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-contact"
+        ]
+      },
+      {
+        "title": "Режим заказника",
+        "text": "Положение дороги из Остионаля не даёт разрешения въезжать на охраняемый пляж. Посещение для наблюдения за черепахами согласовывают отдельно через местную ассоциацию.",
+        "sources": [
+          "ostional-sinac-adio"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "My Adventure · Эстебан Уманья",
+        "source": "nicoya-gravel-mya-contact",
+        "note": "Получите текущую схему, варианты сопровождения, состав цены, требования к физической форме и условия проката.",
+        "phone": "+506 8505 0909",
+        "url": "https://www.myadventurecostarica.com/es/contact",
+        "email": "info@myadventurecostarica.com"
+      }
+    ],
+    "nearby": [
+      "nicoya-gravel-9-supported",
+      "guiones-ostional-30",
+      "nosara-emtb-hills-halfday"
+    ],
+    "track": "nicoya-gravel-mya-dry",
+    "galleries": [
+      "nicoya-gravel-mya-dry"
+    ],
+    "videos": [],
+    "photos": [
+      "guiones-shore"
+    ]
+  },
+  "nicoya-gravel-9-supported": {
+    "stops": [
+      {
+        "point": "paquera-port-point",
+        "role": "Пакера · прибытие паромом",
+        "note": "Переход на первый день педалирования."
+      },
+      {
+        "point": "gravel-lepanto-village",
+        "role": "Лепанто · старт третьего дня",
+        "note": "Начало продолжительного подъёма к внутреннему хребту."
+      },
+      {
+        "point": "santateresa-shore-reference",
+        "role": "Район старта",
+        "note": "Сбор с группой у жилья или у официальной точки, которую сообщит оператор."
+      },
+      {
+        "point": "gravel-coyote-village",
+        "role": "Внутренний ориентир Койоте",
+        "note": "Заранее согласуйте места пополнения воды и возможный объезд устьев."
+      },
+      {
+        "point": "gravel-punta-islita-area",
+        "role": "Пунта-Ислита",
+        "note": "Прибрежный ориентир рядом с заказником Камарональ. Схема проезда и правила доступа сверяются отдельно."
+      },
+      {
+        "point": "nosara-cycling-anchor",
+        "role": "Район финиша в Носаре",
+        "note": "Уточните, до какого объекта размещения довозят багаж и где можно зарядить технику."
+      },
+      {
+        "point": "tamarindo-beach",
+        "role": "Тамариндо · берег и две ночёвки",
+        "note": "Район спортбазы последних дней."
+      },
+      {
+        "point": "brasilito-village",
+        "role": "Брасилито · завершение велочасти",
+        "note": "Пешая прогулка к Кончалю по времени и обстоятельствам."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и этапы",
+        "text": "Организатор указывает около 356 км педалирования. Сумма шести опубликованных отрезков составляет 355,7 км, набор около 7 821 м. Девять дней включают сбор, автомобильный возврат и вылет.",
+        "sources": [
+          "nicoya-gravel-mya-dry"
+        ]
+      },
+      {
+        "title": "Формат и цена",
+        "text": "Опубликованная цена на сухой заезд при одноместном размещении — 15 350 USD на дату проверки. Запросите детализацию пакета, условия отмены, доступность более короткого выезда и правило перевозки своего велосипеда.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-contact"
+        ]
+      },
+      {
+        "title": "Жильё и поддержка",
+        "text": "В программе указаны Fermata в Санта-Тересе, Sendero в Носаре, Tamarindo Diriá в Тамариндо и две ночи в аэропортовом отеле. Подтвердите машину сопровождения, багаж, питание вне отелей и страхование спортивного участия.",
+        "sources": [
+          "nicoya-gravel-mya-dry",
+          "nicoya-gravel-mya-wet"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "My Adventure · Эстебан Уманья",
+        "source": "nicoya-gravel-mya-contact",
+        "note": "Получите текущую схему, варианты сопровождения, состав цены, требования к физической форме и условия проката.",
+        "phone": "+506 8505 0909",
+        "url": "https://www.myadventurecostarica.com/es/contact",
+        "email": "info@myadventurecostarica.com"
+      }
+    ],
+    "nearby": [
+      "santa-teresa-nosara-gravel-101",
+      "nosara-gravel-reina-69",
+      "nicoya-bikepack-6",
+      "tamarindo-surf",
+      "conchal"
+    ],
+    "track": "nicoya-gravel-mya-dry",
+    "galleries": [
+      "nicoya-gravel-mya-dry",
+      "nicoya-gravel-mya-overview"
+    ],
+    "videos": [],
+    "photos": [
+      "avellanas",
+      "tambor"
+    ]
+  },
+  "drake-san-josecito-coastal": {
+    "stops": [
+      {
+        "point": "drake-town",
+        "role": "Agujitas · запас воды и жилья",
+        "note": "Из центра потребуется дополнительный подход к началу линии атласа."
+      },
+      {
+        "point": "drake-sendero-start",
+        "role": "Начало линии атласа",
+        "note": "Указатели на Sendero Drake и подход вдоль берега."
+      },
+      {
+        "point": "drake-caletas-area",
+        "role": "Las Caletas · район нескольких бухт",
+        "note": "Ориентир побережья, а не проход через территорию лоджа."
+      },
+      {
+        "point": "drake-rio-claro-north",
+        "role": "Поворот у Río Claro",
+        "note": "Пешеходная линия заканчивается у северного берега."
+      },
+      {
+        "point": "drake-san-josecito-beach",
+        "role": "Сан-Хосесито · возможная конечная точка",
+        "note": "Подтвердите лодку, возможность высадки и берег встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанции для двух вариантов",
+        "text": "От отмеченного начала Sendero Drake примерно 6,3 км до северного берега и около 12,5 км туда и обратно. До Playa Rincón из центра Agujitas полевой отчёт приводит 20,8–22 км туда и обратно. Для прохода в Сан-Хосесито важно заранее решить логистику у реки.",
+        "sources": [
+          "osa-drake-sendero-osm",
+          "osa-drake-sallysees",
+          "osa-drake-twoweeks"
+        ]
+      },
+      {
+        "title": "Обувь, вода и связь",
+        "text": "Возьмите закрытую обувь с цепкой подошвой, питьевую воду, гермопакет, репеллент и сохранённую карту. Начните рано и оставьте светлое время на обратный путь. Оператору сообщите число людей, багаж и точку, где сможете ждать.",
+        "sources": [
+          "osa-drake-coast-pc",
+          "osa-drake-sallysees",
+          "osa-life-transport"
+        ]
+      },
+      {
+        "title": "Полевые отчёты",
+        "text": "Paradise Catchers описывает пляжи и порядок переходов. Sally Sees даёт отдельный замер для Ринкона. Архивное видео помогает опознать подход, а актуальный проход проверяйте в день поездки.",
+        "sources": [
+          "osa-drake-coast-pc",
+          "osa-drake-sallysees",
+          "osa-drake-walk-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Life for Life · хозяева и местные проводники",
+        "source": "osa-life-contact",
+        "note": "Уточните программу, подходит ли возраст ребёнка, точку встречи, лодку и условия в день поездки.",
+        "phone": "+506 8717 5393",
+        "url": "https://www.lifeforlifehosteldrakebay.com/ContactUs",
+        "email": "info@lifeforlifehosteldrakebay.com"
+      },
+      {
+        "name": "SierpeXplorer · катер и место посадки",
+        "source": "sierpe-xplorer-contacts",
+        "note": "Уточните часы, место на лодке, цену за багаж и возможность остановки в San Josecito.",
+        "phone": "+506 6232 5199",
+        "url": "https://sierpexplorer.com/es/contact-us",
+        "email": "info@sierpexplorer.com"
+      }
+    ],
+    "nearby": [
+      "drake-rio-claro-kayak",
+      "drake-rio-claro-long-float",
+      "rincon-life-for-life-camp",
+      "drake-rincon-3-no-car"
+    ],
+    "track": "osa-drake-sallysees",
+    "galleries": [
+      "osa-drake-coast-pc",
+      "osa-drake-san-josecito-360"
+    ],
+    "videos": [
+      "osa-drake-walk-video"
+    ],
+    "line": "drake-coast-north",
+    "photos": [
+      "drake"
+    ]
+  },
+  "drake-rio-claro-kayak": {
+    "stops": [
+      {
+        "point": "drake-rio-claro-north",
+        "role": "Район устья Río Claro",
+        "note": "Картографический ориентир перед рекой. Отправление и берег встречи указывает оператор."
+      },
+      {
+        "point": "drake-life-for-life",
+        "role": "Связь с организатором",
+        "note": "Координата площадки проживания. Сверьте фактический старт водной программы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Время и снаряжение",
+        "text": "Короткая программа на сайте длится 2 ч 30 мин. На дату проверки цена указана 25 USD на человека плюс 13% налога. Включены жилет, водная обувь, гермомешок, шкафчик, гид и кофе или чай.",
+        "sources": [
+          "osa-life-canoe-tour"
+        ]
+      },
+      {
+        "title": "Как устроен день с детьми",
+        "text": "Оператор предлагает программу детям и взрослым. Уточните минимальный возраст, число взрослых в лодке, жилет под вес ребёнка и сухой запасной вариант. Обсудите прохождение без прыжков.",
+        "sources": [
+          "osa-life-canoe-tour",
+          "osa-life-contact"
+        ]
+      },
+      {
+        "title": "Чья это практика",
+        "text": "Paradise Catchers описывает более раннюю короткую программу у устья. Время и состав актуального предложения сверяются у Life for Life.",
+        "sources": [
+          "osa-rio-claro-float-pc",
+          "osa-life-canoe-tour"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Life for Life · хозяева и местные проводники",
+        "source": "osa-life-contact",
+        "note": "Уточните программу, подходит ли возраст ребёнка, точку встречи, лодку и условия в день поездки.",
+        "phone": "+506 8717 5393",
+        "url": "https://www.lifeforlifehosteldrakebay.com/ContactUs",
+        "email": "info@lifeforlifehosteldrakebay.com"
+      }
+    ],
+    "nearby": [
+      "drake-san-josecito-coastal",
+      "drake-rio-claro-long-float",
+      "rincon-life-for-life-camp"
+    ],
+    "track": null,
+    "galleries": [
+      "osa-life-canoe-tour",
+      "osa-rio-claro-float-pc"
+    ],
+    "videos": []
+  },
+  "drake-rio-claro-long-float": {
+    "stops": [
+      {
+        "point": "drake-town",
+        "role": "Район утренней встречи",
+        "note": "Уточните ближайший к жилью пункт посадки."
+      },
+      {
+        "point": "drake-rio-claro-north",
+        "role": "Район окончания у побережья",
+        "note": "Ориентир у реки. Фактическое место выхода и трансфер задаёт гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Заявленная программа",
+        "text": "Около получаса на машине к началу тропы, два часа в лесу, примерно полчаса у водопада и 1,5 часа на воде. Плюс береговой участок и трансфер. На странице тура при проверке видно 85 USD с человека, уточните состав цены.",
+        "sources": [
+          "osa-drake-experts-float"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Подойдут закрытая обувь для скользкой тропы, лёгкая одежда, гермочехол, питьё и сухая смена. Уточните у гида жилет по размеру и безопасные условия для каждого участника.",
+        "sources": [
+          "osa-drake-experts-float",
+          "osa-drake-copa-river"
+        ]
+      },
+      {
+        "title": "Ещё один опыт на реке",
+        "text": "Paradise Catchers описывает короткий сплав от района устья. Его фотографии помогают представить обстановку, а план длинной экскурсии проверяйте по странице выбранного оператора.",
+        "sources": [
+          "osa-rio-claro-float-pc",
+          "osa-drake-experts-float"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Drake Bay Experts · организатор сплава",
+        "source": "osa-drake-experts-float",
+        "note": "Попросите условия для детей, состав гидов, жилеты, место посадки и вариант отмены при высокой воде.",
+        "phone": null,
+        "url": "https://drakebayexperts.com/trip/rio-claro-floating-tour/"
+      },
+      {
+        "name": "Whales Costa Rica · связь с местной командой",
+        "source": "osa-whale-partner-contact",
+        "note": "Партнёр по лодочным программам. Для длинного сплава используйте форму на странице Drake Bay Experts.",
+        "phone": "+506 8818 9784",
+        "url": "https://whalescostarica.com/"
+      }
+    ],
+    "nearby": [
+      "drake-rio-claro-kayak",
+      "drake-san-josecito-coastal",
+      "drake-rincon-3-no-car"
+    ],
+    "track": null,
+    "galleries": [
+      "osa-drake-experts-float",
+      "osa-rio-claro-float-pc"
+    ],
+    "videos": []
+  },
+  "rincon-life-for-life-camp": {
+    "stops": [
+      {
+        "point": "sierpe-perla",
+        "role": "Сьерпе · пассажирская посадка",
+        "note": "Сообщите команде лодки конечную высадку при бронировании."
+      },
+      {
+        "point": "drake-san-josecito-beach",
+        "role": "Сан-Хосесито · район высадки",
+        "note": "Попросите хозяев подтвердить точку и прислать человека встретить багаж."
+      },
+      {
+        "point": "drake-life-for-life",
+        "role": "Ринкон · площадка жилья",
+        "note": "Ориентир готовых палаток и укрытий."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какие палатки и питание",
+        "text": "Green Tent до трёх человек имеет общий санузел; цена без питания опубликована от 30 USD с человека. Transparent Tent до трёх человек со своим санузлом и опубликованным пакетом с завтраком от 45 USD. Есть варианты с тремя приёмами пищи. Тарифы проверены на сайте и могут меняться.",
+        "sources": [
+          "osa-life-tents"
+        ]
+      },
+      {
+        "title": "Мокрая высадка и подъезд",
+        "text": "Уточните у хозяев, какая лодка продолжает путь дальше Agujitas и кто встречает в Сан-Хосесито. При наземной поездке нужен отдельный разговор о состоянии дороги и последних 15–20 минутах пешком от стоянки, которые указывает оператор.",
+        "sources": [
+          "osa-life-transport",
+          "sierpe-xplorer-logistics"
+        ]
+      },
+      {
+        "title": "Снаряжение и окрестности",
+        "text": "Возьмите гермомешок для вещей, закрытую обувь для тропы, фонарь и репеллент. У оператора есть фотографии палаток и варианты водной экскурсии. Смотровые и подходы к пляжу зависят от погоды.",
+        "sources": [
+          "osa-life-tents",
+          "osa-life-canoe-tour",
+          "osa-drake-san-josecito-360"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Life for Life · хозяева и местные проводники",
+        "source": "osa-life-contact",
+        "note": "Уточните программу, подходит ли возраст ребёнка, точку встречи, лодку и условия в день поездки.",
+        "phone": "+506 8717 5393",
+        "url": "https://www.lifeforlifehosteldrakebay.com/ContactUs",
+        "email": "info@lifeforlifehosteldrakebay.com"
+      },
+      {
+        "name": "SierpeXplorer · катер и место посадки",
+        "source": "sierpe-xplorer-contacts",
+        "note": "Уточните часы, место на лодке, цену за багаж и возможность остановки в San Josecito.",
+        "phone": "+506 6232 5199",
+        "url": "https://sierpexplorer.com/es/contact-us",
+        "email": "info@sierpexplorer.com"
+      }
+    ],
+    "nearby": [
+      "drake-rio-claro-kayak",
+      "drake-san-josecito-coastal",
+      "ganadito-roof",
+      "drake-rincon-3-no-car"
+    ],
+    "track": null,
+    "galleries": [
+      "osa-life-tents",
+      "osa-drake-san-josecito-360"
+    ],
+    "videos": [
+      "osa-life-rincon-video"
+    ]
+  },
+  "drake-rincon-3-no-car": {
+    "stops": [
+      {
+        "point": "tcc-palmar-norte-locality",
+        "role": "Палмар-Норте · автобус и такси",
+        "note": "Подтвердите подвоз к пассажирскому причалу."
+      },
+      {
+        "point": "sierpe-perla",
+        "role": "Сьерпе · место сбора лодки",
+        "note": "Проверка обратного рейса и допустимого багажа."
+      },
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Агухитас · высадка первого дня",
+        "note": "Подготовьте водную обувь и гермоупаковку."
+      },
+      {
+        "point": "drake-rio-claro-north",
+        "role": "Район Río Claro",
+        "note": "Ориентир лесной части. Лодку, берег и точку встречи назначает оператор."
+      },
+      {
+        "point": "drake-san-josecito-beach",
+        "role": "Сан-Хосесито · берег подхода",
+        "note": "Уточните встречу с хозяевами и фактический причал возврата."
+      },
+      {
+        "point": "drake-life-for-life",
+        "role": "Ринкон · готовая палатка",
+        "note": "Вторая ночь после подтверждения условий ночёвки и трансфера."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Вариант с лёгким багажом",
+        "text": "Выберите готовую палатку и питание на месте. Договоритесь, куда увезут вещи во второй день. На тропу берите только гермоупаковку, дневной запас питья, фонарь и сухой комплект.",
+        "sources": [
+          "osa-life-tents",
+          "osa-life-transport",
+          "osa-drake-coast-pc"
+        ]
+      },
+      {
+        "title": "Бережный вариант для группы",
+        "text": "При желании совместите короткую прогулку по северной части тропы и отдельную согласованную лодку до Сан-Хосесито. Для водной экскурсии уточните требования к участникам и перенос на наземный день при высокой воде.",
+        "sources": [
+          "osa-life-canoe-tour",
+          "osa-drake-sallysees",
+          "osa-life-transport"
+        ]
+      },
+      {
+        "title": "Возврат и резерв",
+        "text": "Возможность посадки за пределами Agujitas подтвердите с обеими командами. Заложите резерв на мокрую высадку в Сьерпе и стыковку с автобусом. При плохой погоде проще выходить с обычного берега Agujitas по сообщению перевозчика.",
+        "sources": [
+          "sierpe-xplorer-logistics",
+          "osa-life-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Life for Life · хозяева и местные проводники",
+        "source": "osa-life-contact",
+        "note": "Уточните программу, подходит ли возраст ребёнка, точку встречи, лодку и условия в день поездки.",
+        "phone": "+506 8717 5393",
+        "url": "https://www.lifeforlifehosteldrakebay.com/ContactUs",
+        "email": "info@lifeforlifehosteldrakebay.com"
+      },
+      {
+        "name": "SierpeXplorer · катер и место посадки",
+        "source": "sierpe-xplorer-contacts",
+        "note": "Уточните часы, место на лодке, цену за багаж и возможность остановки в San Josecito.",
+        "phone": "+506 6232 5199",
+        "url": "https://sierpexplorer.com/es/contact-us",
+        "email": "info@sierpexplorer.com"
+      }
+    ],
+    "nearby": [
+      "drake-without-car-3",
+      "drake-san-josecito-coastal",
+      "drake-rio-claro-kayak",
+      "drake-rio-claro-long-float",
+      "rincon-life-for-life-camp"
+    ],
+    "track": "osa-life-transport",
+    "galleries": [
+      "osa-drake-coast-pc",
+      "osa-life-tents"
+    ],
+    "videos": [
+      "osa-drake-walk-video",
+      "osa-life-rincon-video"
+    ],
+    "photos": [
+      "drake"
+    ]
+  }
+}

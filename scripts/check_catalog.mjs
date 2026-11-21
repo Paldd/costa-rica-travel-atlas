@@ -91,11 +91,23 @@ for (const platform of ["Instagram", "Facebook"]) {
     assert(index === 0 || profiles[index - 1].followers >= row.followers, row.name);
     assert.match(row.countChecked, /^\d{4}-\d{2}-\d{2}$/);
     assert.match(new URL(row.countSource).hostname, expectedHost);
+    if (row.publisher) {
+      assert(row.publisher.site in atlas.sources, row.name);
+      assert(!row.publisher.archive || row.publisher.archive in atlas.sources, row.name);
+      assert.match(row.publisher.checked, /^\d{4}-\d{2}-\d{2}$/);
+    }
   });
 }
+const profilesWithSites = atlas.social.profiles.filter(row => row.publisher);
+assert.equal(atlas.social.overview.publisherLinks, profilesWithSites.length);
+assert.equal(atlas.social.overview.publisherArchiveLinks, profilesWithSites.filter(row => row.publisher.archive).length);
+assert(profilesWithSites.some(row => row.platform === "Instagram" && row.publisher.archive));
+assert(profilesWithSites.some(row => row.platform === "Facebook" && row.publisher.archive));
 const facebookLinks = atlas.social.profiles.flatMap(row => row.postLinks || []);
 assert.equal(facebookLinks.length, atlas.social.overview.facebookPosts);
 assert.equal(new Set(facebookLinks.map(link => atlas.sources[link.source].url)).size, facebookLinks.length);
 assert(atlas.social.overview.instagramUniquePosts <= atlas.social.overview.instagramPosts);
 assert(find({ q: "Bajos del Toro", duration: "two", detail: "map" }, "expeditions").some(row => row.id === "bajos-toro-weekend"));
+assert(find({ region: "nicoya", activity: "gravel", km: "hundred" }).some(row => row.id === "santa-teresa-nosara-gravel-101"));
+assert(find({ region: "south", activity: "camping", transport: "noCar", duration: "three" }, "expeditions").some(row => row.id === "drake-rincon-3-no-car"));
 console.log(`Validated ${records.length} entries, ${Object.keys(atlas.sources).length} indexed sources and 200 profiles.`);
