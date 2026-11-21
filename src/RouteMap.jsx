@@ -74,7 +74,7 @@ export default function RouteMap({ stops, track, line, lineSource }) {
       </ol>
     </div>
     <div className="route-map-links">
-      {line ? <span>{line.note} <a href={lineSource.url} target="_blank" rel="noopener noreferrer">Данные тропы © OpenStreetMap ↗</a></span>
+      {line ? <span>{line.note} <a href={lineSource.url} target="_blank" rel="noopener noreferrer">Данные маршрута © OpenStreetMap ↗</a></span>
         : stops.length > 1 && <span>Пунктир показывает порядок остановок.{track && " Для навигации откройте карту или трек по ссылке."}</span>}
       {track && <a href={track.url} target="_blank" rel="noopener noreferrer">{track.title} ↗</a>}
     </div>

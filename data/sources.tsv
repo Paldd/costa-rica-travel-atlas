@@ -437,3 +437,74 @@ chira-uned-inventory	official	UNED · координаты Chira Glamping	https:
 savegre-tec-point	official	Tecnológico de Costa Rica · координаты Savegre	https://repositoriotec.tec.ac.cr/server/api/core/bitstreams/07c1785a-3490-4400-9594-6b18c7e4004c/content	Полевой перечень геопривязок долины, объект H17
 savegre-local-trails	operator	Savegre Mountain Hotel · пять троп долины	https://www.savegre.com/en/blog/hiking-san-gerardo-de-dota/	Пять троп длиной от 400 м до 6,2 км, режим доступа
 herradura-marina-coordinates	directory	Asociación de Marinas · Los Sueños	https://www.costaricamarinas.org/members/marina-los-suenos/	Район порта и контакт службы марины
+chirripo-ict-south	official	ICT · путеводитель по южной части Тихоокеанского региона	https://es.visitcostarica.com/sites/default/files/2024-10/PACIFICO%20SUR%20INGLES.pdf	Таблица легальных горных подходов и их расстояния
+aturena-community	operator	ATURENA · местная ассоциация в Сан-Херонимо	https://aturena.com/	Горные программы через Сан-Херонимо, Серро-Эна, ночлег и кемпинг
+aturena-porter	operator	ATURENA · перенос багажа	https://aturena.com/index.php/porteo-de-maletas/	WhatsApp местной ассоциации и организация переноса багажа
+uran-field-report	experience	Explore Costa Rica · переход через Уран	https://explorecostarica.org/es/ruta-uran/	Описание ночёвки и полного перехода до Base Crestones с другими точками замера
+uran-office-local	experience	TV Sur Pérez Zeledón · Mujeres del Urán	https://www.tvsur.co.cr/noticias/mujeres-del-uran-trabajan-en-guiado-al-chirripo-y-buscan-promover-el-turismo-local-en-herradura-de-rivas/	Сентябрь 2026. Репортаж о работе местного туристического офиса и сопровождении
+durika-muni	official	Муниципалитет Буэнос-Айреса · Cerro Dúrika	https://munibuenosaires.go.cr/ova_por/cerro-durika/	Доступ через местную ассоциацию Shüwik и длительность экспедиции
+poas-sinac	official	SINAC · посещение вулкана Поас	https://sinac.go.cr/ES/ac/accvc/pnvp/Paginas/default.aspx	Правила доступа, билеты и открытые зоны
+poas-local-fog	experience	Qué Buen Lugar · поездка на Поас	https://quebuenlugar.com/es/lugares/parque-nacional-volcan-poas/	Местный отчёт о визите по записи и тумане на смотровой
+ovsicori-volcanoes	official	OVSICORI-UNA · еженедельные вулканические бюллетени	https://www.ovsicori.una.ac.cr/index.php/vulcanologia/informes-y-boletines/boletin-semanal-vigilancia-volcanica/85-boletines-semanales-vulcanologia-2026	Наблюдения за активностью. Допуск подтверждает SINAC
+turrialba-site-contact	official	SINAC · контакты Parque Nacional Volcán Turrialba	https://sinac.go.cr/ES/ac/accvc/pnvt/Paginas/Contacto.aspx	Связь с руководством сектора
+turrialba-access-resolution	official	SINAC · регламент посещения Турриальбы	https://www.sinac.go.cr/ES/ac/accvc/pnvt/Documents/Resolucion_D-1742-2020_reapertura_PN_Volcan_Turrialba.pdf	Условия сопровождаемого посещения. Свободные места и режим проверяются отдельно
+trail-vulc-2026	event	TrailVulcania · программа 6 декабря 2026	https://trailvulcania.com/trailvulcania-2026/	Новые наименования и дистанции Cariblanco и Manigordo
+trail-vulc-tracks	event	TrailVulcania · треки и материалы	https://trailvulcania.com/tracks/	Организатор публикует GPX. На странице есть данные прошлых выпусков
+trail-vulc-entry	event	TrailVulcania · регистрация и общий маршрут	https://trailvulcania.com/inscripcion/	Сбор, время старта и запись на отдельные дистанции
+dantica-organizer-events	event	The Trail Running CR · календарь	https://thetrailrunningcr.com/eventos/	Объявления новых выпусков и других горных стартов
+orosi-day-pass	operator	Hacienda Orosi · дневной вход	https://haciendaorosi.com/producto/pase-de-dia/	Посещение днём, пакеты и запись, температурные условия у оператора
+orosi-terms	operator	Hacienda Orosi · условия посещения	https://haciendaorosi.com/booking/terminos-y-condiciones/	Условия по услугам, детям, индивидуальным и семейным пакетам
+lapaz-trails	operator	La Paz Waterfall Gardens · тропы и водопады	https://waterfallgardens.com/waterfalls/	Имена водопадов, вход, ступени и правила визита
+lapaz-park-overview	operator	La Paz Waterfall Gardens · карта программы	https://waterfallgardens.com/la_paz_waterfall_gardens/	Длина всей сети троп, визит в парк и дополнительные объекты
+lapaz-operator-contact	operator	La Paz Waterfall Gardens · контакт и подъезд	https://waterfallgardens.com/contact_us/	Отдельные контакты парка и Peace Lodge
+doka-operator-contact	operator	Hacienda Doka · туры и контакты	https://www.haciendadoka.com/pages/contact	Бронирование экскурсии, языки и контакты фермы
+britt-classic	operator	Britt Coffee Tour · классическая экскурсия	https://www.coffeetour.com/pages/classic-britt-coffee-tour	90 минут, дегустация и варианты питания
+britt-faq	operator	Britt Coffee Tour · ответы для посетителей	https://www.coffeetour.com/pages/frequently-asked-questions	Бронирование, расстояние, доступность, кафе
+britt-reservations	operator	Britt Coffee Tour · бронь и трансфер	https://www.coffeetour.com/pages/contact-us	Телефон и email организатора
+mistico-loop-guide	operator	Místico Park · маршрут и вопросы о доступности	https://misticopark.com/es/preguntas-frecuentes/	Протяжённость полного круга, мосты, услуги и связь
+mistico-self-guided	operator	Místico Park · вход на самостоятельную прогулку	https://misticopark.com/es/tours/self-guided-hanging-bridges/	Условия входа, короткая прогулка, правила тропы
+mistico-family-report	experience	Two Weeks in Costa Rica · поездка в Мистико с детьми	https://www.twoweeksincostarica.com/things-to-do-la-fortuna-young-kids/	Опыт семьи, покрытие троп и подвесные мосты
+sky-arenal-ziplines	operator	Sky Adventures Arenal · линии, оборудование и возраст	https://skyadventures.travel/ziplines/	Смотровая Hand of Arenal и ограничения на зиплайн
+sky-arenal-tickets	operator	Sky Adventures · пакеты Arenal Park	https://skyadventures.travel/tickets/	Выбор прогулки, канатной дороги и зиплайнов
+sky-field-report	experience	Two Weeks in Costa Rica · обзор Sky Adventures Arenal	https://www.twoweeksincostarica.com/sky-adventures-arenal/	Рассказ о сочетании подвесных мостов, троп и канопи
+adifort-falls-faq	operator	ADIFORT · касса и тропа к водопаду	https://www.cataratalafortuna.com/es/faq	Около 500 ступеней, режим и правила на воде
+adifort-falls-tel	operator	ADIFORT · контакты Catarata Río Fortuna	https://www.cataratalafortuna.com/es/contact	Касса, адрес и местная ассоциация
+tabacon-visit-policy	operator	Tabacón · условия и категории посетителей	https://www.tabacon.com/es/reservations-policies	Доступ по подтверждению, условия для проживающих и зона 18+
+tabacon-visit-map	operator	Tabacón · схема комплекса и входов	https://www.tabacon.com/wp-content/uploads/2021/02/Mapas-Tabacon.pdf	Вход с дневным пропуском и вход для гостей отеля
+tabacon-visit-book	operator	Tabacón · термальные воды	https://www.tabacon.com/es/aguas-termales	Термальные каскады, бронирование, горячие зоны и связь
+ecotermales-pass	operator	Ecotermales Fortuna · дневной и вечерний слоты	https://ecotermalesfortuna.cr/reservar/	Время посещения, размещение группы и пакеты питания
+ecotermales-contact	operator	Ecotermales Fortuna · телефон и адрес	https://ecotermalesfortuna.cr/contacto/	Связь с администрацией и отметка проезда
+kalambu-water-park	operator	Kalambú · схемы бассейнов и ограничения	https://kalambu.com/	Билеты, горки, семейная зона и контакты
+baldi-day-pass	operator	Baldi · термальный день	https://www.baldihotsprings.cr/es/day-pass/	Дневные пакеты, бассейны, тарифы и правила
+baldi-family-area	operator	Baldi · зона для детей	https://www.baldihotsprings.cr/baldi-kids/	Детская зона и горки
+baldi-tel	operator	Baldi · контакты посещения	https://www.baldihotsprings.cr/es/contact-us/	Телефон и адрес термального комплекса
+balsa-operator-program	operator	Arenal Rafting · Бальса, класс II–III	https://arenalrafting.com/es/arenal-rafting-tours-la-fortuna/rafting-en-el-rio-balsa-clase-ii-y-iii/	Сбор в Ла-Фортуне, сопровождение и транспорт до реки
+balsa-operator-faq	operator	Arenal Rafting · возраст и подготовка	https://arenalrafting.com/es/preguntas-frecuentes/	Различия в возрасте, уровне сложности и нужном снаряжении
+balsa-meeting-office	operator	Arenal Rafting Company · адрес встречи и связь	https://arenalrafting.com/contact-us/	Адрес офиса, бронь и телефон для вопросов о посадке
+sarapiqui-safari-float	operator	Sarapiquí Outdoor Center · Wildlife Safari Float	https://costaricaraft.com/rafting/safari-float-in-family	Сплав с гидом класса I–II, 12 км и около 3 часов с программой
+monteverde-road-visit	experience	Two Weeks in Costa Rica · дороги к Монте-Верде	https://www.twoweeksincostarica.com/driving-monteverde/	Участки покрытия на дорожном объезде озера через Tilarán
+arenal-monteverde-drive-report	experience	Paradise Catchers · отчёт о переезде через Тиларан	https://www.paradisecatchers.com/driving-from-la-fortuna-to-monteverde/	Фактический опыт проезда, узкие грунтовые участки и остановки
+palo-verde-guide-map	official	SINAC / ICT · карта и связь Parque Nacional Palo Verde	https://www.sinac.go.cr/ES/turismo/Brochure%20ICT/Parque%20Nacional%20Palo%20Verde.pdf	Схема троп, правила на реке, въезд и телефоны
+palo-verde-ots-stay	operator	OTS · визиты на биологическую станцию Palo Verde	https://tropicalstudies.org/portfolio/natural-history-visitors-reservations/	Бронирование природных визитов и ночёвки при станции
+palo-verde-ortega-boat	operator	Palo Verde Boat Tours · лодка из Ортеги	https://paloverdeboattours.com/tour/palo-verde-boat-tours/	Офис в Ortega, трансфер к реке и лодочный маршрут по Tempisque
+ponderosa-visit-faq	operator	Ponderosa · сафари, водопад и детский визит	https://ponderosacostarica.com/preguntas-mas-frecuentes/	Состав парков и программ, парковка, условия семейного входа
+ponderosa-office	operator	Ponderosa Adventure Park · местоположение и связь	https://ponderosacostarica.com/contacto/	Подъезд из Liberia, парковка и бронь
+diamante-passes	operator	Diamante · Adventure Pass	https://diamanteecoadventurepark.com/adventures/adventure-pass/	Сочетание канопи, животных и береговой зоны
+diamante-superman-rules	operator	Diamante · Superman Zipline	https://diamanteecoadventurepark.com/adventures/superman-ziplining-pass/	Ограничения по весу, возрасту и длина программы
+diamante-office	operator	Diamante · часы, заезд и шаттлы	https://diamanteecoadventurepark.com/hours-directions/	Дорога, контакты парка и время регистрации
+ict-flamingo-conchal	official	ICT · план туристического района Flamingo–Conchal	https://www.ict.go.cr/es/documentos-institucionales/gidt/3189-programa-gesti%C3%B3n-integral-de-destinos-flamingo-conchal/file.html	Общественные подходы и услуги прибрежных поселений
+brasilito-coast-field	experience	Proyecto Aguaepipa · Брасилито и путь к Кончалю	https://proyectoaguaepipa.com/es/costa-rica/guides/playa-brasilito	Местная логистика, пеший подход, кафе и парковка. Обновлено 29 сентября 2026
+flamingo-marina-contact	operator	Marina Flamingo · причалы и контакты	https://www.visitmarinaflamingo.com/contact/	Телефон марины, подъезд и служба причалов
+flamingo-fishing-contact	operator	Flamingo Sport Fishing · чартеры	https://flamingosportfishing.com/contact/	Оператор рыбалки, адрес и публичные контакты
+flamingo-lazy-lizard	operator	Lazy Lizard Sailing · катамараны из Потrero	https://lazylizardsailing.com/	Катамаранные поездки и варианты трансфера из района Flamingo
+guanacaste-tides	official	UCR Miocimar · прогнозы по морским районам	https://www.miocimar.ucr.ac.cr/	Условия ветра и волнения на тихоокеанском побережье
+ocotal-field-guide	experience	Mytanfeet · Playa Ocotal	https://mytanfeet.com/costa-rica-beach-information/playa-ocotal-costa-rica/comment-page-1/	Отчёт об общественном подъезде, тёмном песке и отдыхе у воды
+ocotal-water-report	experience	Mar a Selva · местный гид по бухте Ocotal	https://maraselvacr.com/playa-ocotal-costa-rica-guide/	Локальные наблюдения о разных участках бухты и видимости после дождя
+ocotal-father-rooster	operator	Father Rooster · кафе у берега	https://fatherrooster.com/	Меню, адрес и связь с местом на пляже
+las-baulas-sinac	official	SINAC · Parque Nacional Marino Las Baulas	https://www.sinac.go.cr/ES/ac/act/pnmlb/Paginas/default.aspx	Публичные входы, часы, ограничения охраняемого пляжа
+las-baulas-office	official	SINAC · контакты Las Baulas	https://www.sinac.go.cr/ES/ac/act/pnmlb/Paginas/contacto.aspx	Запись на разрешённое наблюдение и уточнение доступа
+grande-local-school	operator	Playa Grande Surf Camp · занятия и прокат	https://playagrandesurfcamp.com/playa-grande-surf-school-camp-rental-packages/	Программы инструкторов в Palm Beach Estates, отдельный подъезд
+grande-break-local	experience	Grande Vacation Rentals · местный обзор сёрфа	https://grandevacationrentals.com/surfing-playa-grande-costa-rica/	Различия между основным брейком и секторами пляжа
+cipanci-park-plan	official	SINAC · схема и правила Refugio Cipancí	https://www.sinac.go.cr/ES/planmanejo/Plan%20Manejo%20ACT/RN%20Vida%20Silvestre%20Cipanc%C3%AD%20%282014%29/Plan%20General%20de%20Manejo%20RNVS%20Cipac%C3%AD%20%282014%29%20Volumen%20II.pdf	Охраняемая акватория Темписке и правила режима пользования
+ortega-boat-guests	experience	Tripadvisor · впечатления участников тура в Ортеге	https://www.tripadvisor.com/AttractionProductReview-g12880197-d19750547-Palo_Verde_Boat_Tours_Ortega-Ortega_Province_of_Guanacaste.html	Отзывы о лодке, семейном визите и домашнем обеде после поездки
+palo-verde-sinac-arrival	official	SINAC · водные подходы к Parque Nacional Palo Verde	https://www.sinac.go.cr/ES/Paginas/map.aspx	Альтернативная посадка в Puerto Humo, доступ через Puerto Chamorro
