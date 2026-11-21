@@ -1,13 +1,21 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 
 const mapUrl = ([lat, lon]) => `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
 
-export default function RouteMap({ stops, track, line, lineSource }) {
+export default function RouteMap({ stops, track, line, lines, sources }) {
   const container = useRef(null);
   const markers = useRef([]);
+  const mapView = useRef(null);
   const [selected, setSelected] = useState(null);
+  const [stageId, setStageId] = useState("");
+  const stages = useMemo(() => (line?.stages || []).map(id => ({ id, ...lines[id] })), [line, lines]);
+  const activeStage = stages.find(stage => stage.id === stageId);
+  const visibleStops = stops.map((stop, index) => ({ stop, index }))
+    .filter(({ stop }) => !activeStage || activeStage.points.includes(stop.point));
+  const lineSource = sources[line?.source];
+  const stageSource = sources[activeStage?.stageSource];
 
   useEffect(() => {
     const map = L.map(container.current, { scrollWheelZoom: false, maxZoom: 19 });
@@ -18,8 +26,17 @@ export default function RouteMap({ stops, track, line, lineSource }) {
 
     const positions = stops.map(stop => stop.coords);
     if (line) {
-      const path = L.polyline(line.coords, { color: "#216e57", weight: 4, interactive: false }).addTo(map);
-      map.fitBounds(path.getBounds().extend(L.latLngBounds(positions)), { padding: [30, 30], maxZoom: 15 });
+      const bounds = L.latLngBounds(positions);
+      const paths = (stages.length ? stages : [line]).map(stage => {
+        const layer = L.polyline(stage.coords, {
+          color: stage.water ? "#26648e" : "#216e57", weight: 4,
+          dashArray: stage.water ? "6 7" : null, interactive: false,
+        }).addTo(map);
+        bounds.extend(layer.getBounds());
+        return { id: stage.id, layer };
+      });
+      mapView.current = { map, paths, bounds };
+      map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });
     } else if (positions.length > 1) {
       L.polyline(positions, { color: "#874916", weight: 3, dashArray: "6 8", interactive: false }).addTo(map);
       map.fitBounds(positions, { padding: [30, 30], maxZoom: 14 });
@@ -51,16 +68,47 @@ export default function RouteMap({ stops, track, line, lineSource }) {
 
     return () => {
       markers.current = [];
+      mapView.current = null;
       map.remove();
     };
-  }, [stops, line]);
+  }, [stops, line, stages]);
+
+  function focusStage(id) {
+    setStageId(id);
+    setSelected(null);
+    const view = mapView.current;
+    if (!view) return;
+    const stage = stages.find(item => item.id === id);
+    view.map.closePopup();
+    let bounds = view.bounds;
+    for (const path of view.paths) {
+      path.layer.setStyle({ opacity: !id || path.id === id ? 1 : 0.28 });
+      if (id && path.id === id) {
+        path.layer.bringToFront();
+        bounds = L.latLngBounds(path.layer.getBounds());
+        for (const stop of stops) {
+          if (stage.points.includes(stop.point)) bounds.extend(stop.coords);
+        }
+      }
+    }
+    view.map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });
+  }
 
   return <section className="route-map" aria-label="Карта маршрута">
     <h2>{stops.length > 1 ? "Карта маршрута" : "Точка на карте"}</h2>
+    {stages.length > 0 && <div className="route-map-stage">
+      <label>Участок на карте
+        <select value={stageId} onChange={event => focusStage(event.target.value)}>
+          <option value="">Весь маршрут</option>
+          {stages.map(stage => <option key={stage.id} value={stage.id}>{stage.title}</option>)}
+        </select>
+      </label>
+      {stageSource && <a href={stageSource.url} target="_blank" rel="noopener noreferrer">Описание этапа ↗</a>}
+    </div>}
     <div className="route-map-layout">
       <div ref={container} className="route-map-canvas" aria-label="Интерактивная карта" />
       <ol className="route-map-stops">
-        {stops.map((stop, index) => <li key={`${stop.point}-${index}`}>
+        {visibleStops.map(({ stop, index }) => <li key={`${stop.point}-${index}`}>
           <button type="button" aria-pressed={selected === index} onClick={() => {
             markers.current[index]?.openPopup();
             setSelected(index);
@@ -74,9 +122,11 @@ export default function RouteMap({ stops, track, line, lineSource }) {
       </ol>
     </div>
     <div className="route-map-links">
-      {line ? <span>{line.note} <a href={lineSource.url} target="_blank" rel="noopener noreferrer">Данные маршрута © OpenStreetMap ↗</a></span>
+      {line ? <span>{activeStage?.note || line.note} <a href={lineSource.url} target="_blank" rel="noopener noreferrer">
+        {line.source === "osm-cr-points" ? "Данные маршрута © OpenStreetMap" : lineSource.title} ↗
+      </a></span>
         : stops.length > 1 && <span>Пунктир показывает порядок остановок.{track && " Для навигации откройте карту или трек по ссылке."}</span>}
-      {track && <a href={track.url} target="_blank" rel="noopener noreferrer">{track.title} ↗</a>}
+      {track && track.url !== lineSource?.url && <a href={track.url} target="_blank" rel="noopener noreferrer">{track.title} ↗</a>}
     </div>
   </section>;
 }

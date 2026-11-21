@@ -14,5 +14,6 @@
   {"name":"Go Bike CR · велопрограммы и поездки на e-bike","url":"https://www.gobikecr.com/e-bike-tours-costa-rica.html","paths":["/tour-","/tours-","/mountain-"]},
   {"name":"Gran Fondo Guanacaste · карты и выпуск","url":"https://www.granfondoguanacaste.com/","paths":["/storage/gpx/","/storage/documentos/"]},
   {"name":"Carrera Chirripó · запись и регламент","url":"https://www.carrerachirripo.com/","paths":["/inscripcion/","/reglamento-","/wp-content/uploads/"]},
-  {"name":"Ríos Lodge · участие со своей лодкой","url":"https://rioslodge.com/pacuare-costa-rica-faq/","paths":["/pacuare-costa-rica-","/rafting-","/contact-"]}
+  {"name":"Ríos Lodge · участие со своей лодкой","url":"https://rioslodge.com/pacuare-costa-rica-faq/","paths":["/pacuare-costa-rica-","/rafting-","/contact-"]},
+  {"name":"Mar a Mar · действующий комплект GPX","url":"https://caminodecostarica.org/es/planifica-tu-excursion/autoguiado/","paths":["/scl/fo/","/es/descubre/etapa/","/es/planifica-tu-excursion/"]}
 ]

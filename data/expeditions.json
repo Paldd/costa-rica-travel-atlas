@@ -884,7 +884,8 @@
       "camino-steps",
       "camino-guide",
       "elcamino-report",
-      "camino-prepare"
+      "camino-prepare",
+      "camino-maram-gpx-library"
     ],
     "summary": "Около 280 км через страну по официальным этапам Ассоциации Mar a Mar.",
     "plan": "Ассоциация публикует 16 этапов, включая две части карибского старта. Подбирайте ночёвки и транспорт по картам этапов. Ориентир организатора для всего маршрута — около 280 км. Длины отдельных участков приведены по карточкам, а фактический пробег зависит от подъездов и выбранной логистики.",
@@ -900,7 +901,10 @@
         "day": 1,
         "title": "Parismina, лодка до Goshen и Cimarrones",
         "note": "Участок 1A включает 5,5 км пешком и примерно 20 км по воде. Затем 1B ведёт ещё 23,5 км через сельхоззоны. Лодку и размещение согласуйте заранее. Участки можно разнести по дням.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-1a",
+          "el-camino-etapa-1b"
+        ],
         "sources": [
           "camino-stage-1a",
           "camino-stage-1b"
@@ -910,7 +914,9 @@
         "day": 2,
         "title": "Cimarrones — Las Brisas de Pacuarito",
         "note": "14,6 км и около 725 м набора. После перехода дороги Ruta 32 начинается подъём по гравию к району Барбилья.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-2"
+        ],
         "sources": [
           "camino-stage-2"
         ]
@@ -919,7 +925,9 @@
         "day": 3,
         "title": "Las Brisas — Tsiobata",
         "note": "12,5 км по территории народа кабекар. Заранее договоритесь с местным проводником. Ассоциация рекомендует обсудить совместное прохождение с этапом 4.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-3"
+        ],
         "sources": [
           "camino-stage-3"
         ]
@@ -928,7 +936,9 @@
         "day": 4,
         "title": "Tsiobata — Tres Equis",
         "note": "6,2 км с переправой через Пакуаре. Способ перехода и проход через частное хозяйство согласуйте с проводником.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-4"
+        ],
         "sources": [
           "camino-stage-4"
         ]
@@ -937,7 +947,9 @@
         "day": 5,
         "title": "Tres Equis — Pacayitas",
         "note": "13,1 км. В начале участок вдоль оживлённой Ruta 10, дальше — сельские дороги и открытые виды на долину Пакуаре.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-5"
+        ],
         "sources": [
           "camino-stage-5"
         ]
@@ -946,7 +958,9 @@
         "day": 6,
         "title": "Pacayitas — La Suiza",
         "note": "12,4 км. Сначала подъём среди сельхозугодий, затем длинный спуск к городу Ла-Суиса.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-6"
+        ],
         "sources": [
           "camino-stage-6"
         ]
@@ -955,7 +969,9 @@
         "day": 7,
         "title": "La Suiza — Humo de Pejibaye",
         "note": "18,3 км через Atirro и Pejibaye. На маршруте открываются виды на водохранилище Ангостура.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-7"
+        ],
         "sources": [
           "camino-stage-7"
         ]
@@ -965,6 +981,7 @@
         "title": "Humo de Pejibaye — Tapantí",
         "note": "16 км по горному коридору в сторону Тапанти с длительным подъёмом. Сверьте ночёвку и развоз у финиша.",
         "stops": [
+          "el-camino-etapa-8",
           "tapanti"
         ],
         "sources": [
@@ -975,7 +992,9 @@
         "day": 9,
         "title": "Tapantí, Río Macho и Navarro del Muñeco",
         "note": "23,2 км. Маршрут идёт через долину Ороси, затем набирает высоту после Río Macho. В Пурисиле удобно пополнить запасы.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-9"
+        ],
         "sources": [
           "camino-stage-9"
         ]
@@ -984,7 +1003,9 @@
         "day": 10,
         "title": "Navarro del Muñeco — Palo Verde",
         "note": "Около 9,1 км с подъёмом по грунтовой дороге после моста. На коротком участке рядом с шоссе будьте внимательны к движению.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-10"
+        ],
         "sources": [
           "camino-stage-10"
         ]
@@ -993,7 +1014,9 @@
         "day": 11,
         "title": "Palo Verde — Cerro Alto",
         "note": "10 км и около 928 м набора через Ла-Лучиту. На коротком этапе нагрузку создают крутизна и высота.",
-        "stops": [],
+        "stops": [
+          "palo-verde-cerro-alto"
+        ],
         "sources": [
           "camino-stage-11"
         ]
@@ -1002,7 +1025,9 @@
         "day": 12,
         "title": "Cerro Alto — San Pablo de León Cortés",
         "note": "18,8 км через Эмпальме и район Доты. После высоких участков маршрут спускается в кофейные посёлки.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-12"
+        ],
         "sources": [
           "camino-stage-12"
         ]
@@ -1011,7 +1036,9 @@
         "day": 13,
         "title": "San Pablo — Nápoles de Tarrazú",
         "note": "18,5 км по кофейному району, через долину Río Pirris и Сан-Габриэль. Ночёвку ищите по списку ассоциации.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-13"
+        ],
         "sources": [
           "camino-stage-13"
         ]
@@ -1020,7 +1047,9 @@
         "day": 14,
         "title": "Nápoles de Tarrazú и спуск к развилке Naranjillo",
         "note": "13,4 км с заметным сбросом высоты. Деревня Наранхильо расположена в стороне от основной линии маршрута.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-14"
+        ],
         "sources": [
           "camino-stage-14"
         ]
@@ -1029,7 +1058,9 @@
         "day": 15,
         "title": "От развилки Naranjillo к Esquipulas",
         "note": "11,4 км. После подъёма у Серро-Дьяманте начинается спуск к тихоокеанской низменности.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-15"
+        ],
         "sources": [
           "camino-stage-15"
         ]
@@ -1038,7 +1069,9 @@
         "day": 16,
         "title": "Esquipulas — Quepos",
         "note": "22,4 км до Тихого океана через Villa Nueva и Naranjito. На финише предусмотрите время на жару, дорожные участки и обратный транспорт.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-16"
+        ],
         "sources": [
           "camino-stage-16"
         ]
@@ -1078,9 +1111,10 @@
       "camino-steps",
       "camino-guide",
       "tapanti",
-      "elcamino-report"
+      "elcamino-report",
+      "camino-maram-gpx-library"
     ],
-    "summary": "Три последовательных этапа в Центральной долине с продолжительными подъёмами.",
+    "summary": "Три дня через Тапанти и Ороси. Около 48,3 км по описаниям этапов или 52,9 км по трём GPX.",
     "plan": "Сверьте разбивку по этапам у ассоциации. Точки завершения и ночёвки могут быть вне тропы, поэтому заранее согласуйте развоз.",
     "conditions": "Не объединяйте маршрут El Camino с отдельным посещением национального парка без отдельного билета и сверки входа.",
     "distance": 48.3,
@@ -1091,6 +1125,7 @@
         "title": "Humo de Pejibaye и высокие участки этапа 8",
         "note": "День с длинным подъёмом в сторону Тапанти. Ночёвку или развоз подтвердите с проводником.",
         "stops": [
+          "el-camino-etapa-8",
           "tapanti"
         ],
         "sources": [
@@ -1102,6 +1137,7 @@
         "title": "Долина Ороси и этап 9",
         "note": "Заложите время на подъём после района Río Macho, выход и пополнение запасов.",
         "stops": [
+          "el-camino-etapa-9",
           "orosi-hot"
         ],
         "sources": [
@@ -1112,7 +1148,9 @@
         "day": 3,
         "title": "Наварро и этап 10",
         "note": "Переход от Navarro de Muñeco по официальной схеме. Обратный транспорт согласуйте заранее.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-10"
+        ],
         "sources": [
           "camino-stage-10"
         ]
@@ -1198,7 +1236,7 @@
     "id": "el-camino-34",
     "kind": "trip",
     "region": "central",
-    "title": "El Camino · 34 км из Ла-Суисы к Тапанти",
+    "title": "El Camino · 34–35 км из Ла-Суисы к Тапанти",
     "native": "El Camino de Costa Rica · Etapas 7 y 8",
     "days": 2,
     "distance": 34.3,
@@ -1227,7 +1265,8 @@
       "camino-stage-7",
       "camino-stage-8",
       "camino-guide",
-      "camino-prepare"
+      "camino-prepare",
+      "camino-maram-gpx-library"
     ],
     "summary": "Два смежных этапа: плантации и река Пехибайе в первый день, длинный подъём к облачному лесу во второй.",
     "plan": "В Ла-Суису организуйте подъезд. Между этапами выберите ночёвку около Humo de Pejibaye или согласуйте короткий трансфер с поселковой базы.",
@@ -1237,7 +1276,9 @@
         "day": 1,
         "title": "La Suiza — Humo de Pejibaye",
         "note": "18,3 км через Atirro и Pejibaye. На маршруте открываются виды на водохранилище Ангостура.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-7"
+        ],
         "sources": [
           "camino-stage-7"
         ]
@@ -1247,6 +1288,7 @@
         "title": "Humo de Pejibaye — Tapantí",
         "note": "16 км по горному коридору в сторону Тапанти с длительным подъёмом. Сверьте ночёвку и развоз у финиша.",
         "stops": [
+          "el-camino-etapa-8",
           "tapanti"
         ],
         "sources": [
@@ -1259,7 +1301,7 @@
     "id": "el-camino-102",
     "kind": "trip",
     "region": "central",
-    "title": "El Camino · 102 км от Трес-Экис к Серро-Альто",
+    "title": "El Camino · 102–106 км от Трес-Экис к Серро-Альто",
     "native": "El Camino de Costa Rica · Etapas 5–11",
     "days": 7,
     "distance": 102.09,
@@ -1291,7 +1333,8 @@
       "camino-guide",
       "camino-stage-5",
       "camino-stage-11",
-      "elcamino-report"
+      "elcamino-report",
+      "camino-maram-gpx-library"
     ],
     "summary": "Семь этапов с переходом из долины Пакуаре в горную часть Cartago. Ориентир складывается из опубликованных длин этапов.",
     "plan": "Начните в районе Finca Tres Equis. Заранее назначьте места ночёвки и трансферы между базами для каждого дня. В районе Ороси пополните запасы.",
@@ -1301,7 +1344,9 @@
         "day": 1,
         "title": "Tres Equis — Pacayitas",
         "note": "13,1 км. В начале участок вдоль оживлённой Ruta 10, дальше — сельские дороги и открытые виды на долину Пакуаре.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-5"
+        ],
         "sources": [
           "camino-stage-5"
         ]
@@ -1310,7 +1355,9 @@
         "day": 2,
         "title": "Pacayitas — La Suiza",
         "note": "12,4 км. Сначала подъём среди сельхозугодий, затем длинный спуск к городу Ла-Суиса.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-6"
+        ],
         "sources": [
           "camino-stage-6"
         ]
@@ -1319,7 +1366,9 @@
         "day": 3,
         "title": "La Suiza — Humo de Pejibaye",
         "note": "18,3 км через Atirro и Pejibaye. На маршруте открываются виды на водохранилище Ангостура.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-7"
+        ],
         "sources": [
           "camino-stage-7"
         ]
@@ -1329,6 +1378,7 @@
         "title": "Humo de Pejibaye — Tapantí",
         "note": "16 км по горному коридору в сторону Тапанти с длительным подъёмом. Сверьте ночёвку и развоз у финиша.",
         "stops": [
+          "el-camino-etapa-8",
           "tapanti"
         ],
         "sources": [
@@ -1339,7 +1389,9 @@
         "day": 5,
         "title": "Tapantí, Río Macho и Navarro del Muñeco",
         "note": "23,2 км. Маршрут идёт через долину Ороси, затем набирает высоту после Río Macho. В Пурисиле удобно пополнить запасы.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-9"
+        ],
         "sources": [
           "camino-stage-9"
         ]
@@ -1348,7 +1400,9 @@
         "day": 6,
         "title": "Navarro del Muñeco — Palo Verde",
         "note": "Около 9,1 км с подъёмом по грунтовой дороге после моста. На коротком участке рядом с шоссе будьте внимательны к движению.",
-        "stops": [],
+        "stops": [
+          "el-camino-etapa-10"
+        ],
         "sources": [
           "camino-stage-10"
         ]
@@ -1357,7 +1411,9 @@
         "day": 7,
         "title": "Palo Verde — Cerro Alto",
         "note": "10 км и около 928 м набора через Ла-Лучиту. На коротком этапе нагрузку создают крутизна и высота.",
-        "stops": [],
+        "stops": [
+          "palo-verde-cerro-alto"
+        ],
         "sources": [
           "camino-stage-11"
         ]

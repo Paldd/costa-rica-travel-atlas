@@ -14,7 +14,16 @@ for (const source of Object.values(atlas.sources)) {
   assert(source.scope && source.title);
 }
 for (const [id, line] of Object.entries(atlas.lines)) {
-  assert(line.note && line.source in atlas.sources && line.coords.length > 1, id);
+  assert(line.note && line.source in atlas.sources, id);
+  if (line.stages) {
+    assert(!line.coords && line.stages.length > 1 && new Set(line.stages).size === line.stages.length, id);
+    for (const key of line.stages) {
+      const stage = atlas.lines[key];
+      assert(stage?.coords && stage.title && stage.points?.length >= 2 && stage.stageSource in atlas.sources, `${id}: ${key}`);
+    }
+    continue;
+  }
+  assert(line.coords.length > 1, id);
   assert(line.coords.every(([lat, lon]) => lat >= 5 && lat <= 11.3 && lon >= -88 && lon <= -82.3), id);
 }
 for (const row of records) {
@@ -35,6 +44,9 @@ for (const row of records) {
     assert(stops.every(stop => stop.name && stop.role && stop.source in atlas.sources && stop.coords.every(Number.isFinite)), row.id);
     assert(!track || track in atlas.sources, row.id);
     assert(!line || line in atlas.lines && stops.length > 1, row.id);
+    for (const stage of atlas.lines[line]?.stages || []) {
+      assert(atlas.lines[stage].points.every(point => stops.some(stop => stop.point === point)), `${row.id}: ${stage}`);
+    }
     assert(sections.length > 0 && sections.every(section => section.title && section.text && section.sources.length && section.sources.every(id => id in atlas.sources)), row.id);
     assert(contacts.every(contact => contact.name && contact.note && contact.source in atlas.sources), row.id);
     assert(contacts.every(contact => !contact.url || new URL(contact.url).protocol === "https:"), row.id);

@@ -173,6 +173,10 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .stages li p { margin-top: 3px; }
 .stage-links a { display: inline-flex; align-items: center; gap: 4px; font-size: .84rem; color: var(--forest); }
 .route-map { margin: 24px 0 28px; }
+.route-map-stage { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: end; margin-bottom: 10px; }
+.route-map-stage label { display: grid; gap: 5px; flex: 1 1 280px; max-width: 460px; min-width: 0; font-size: .9rem; }
+.route-map-stage select { width: 100%; padding: 9px 10px; font: inherit; color: inherit; background: var(--white); border: 1px solid var(--border); border-radius: 8px; }
+.route-map-stage a { color: var(--forest); font-size: .85rem; padding-bottom: 9px; }
 .route-map h2 { font-size: clamp(1.85rem, 3vw, 2.75rem); margin-bottom: 13px; }
 .route-map-layout { display: grid; grid-template-columns: minmax(0, 2fr) minmax(235px, 1fr); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
 .route-map-canvas { width: 100%; height: 360px; isolation: isolate; background: #e4ece0; }

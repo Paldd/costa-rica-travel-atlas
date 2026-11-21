@@ -233,7 +233,7 @@ function Detail({ row, atlas, route, saved, toggle }) {
       </div>)}
     </dl>
     {Boolean(dossier?.stops.length) && <Suspense fallback={<p role="status">Загружаем карту…</p>}>
-      <RouteMap key={row.id} stops={dossier.stops} track={atlas.sources[dossier.track]} line={line} lineSource={atlas.sources[line?.source]} />
+      <RouteMap key={row.id} stops={dossier.stops} track={atlas.sources[dossier.track]} line={line} lines={atlas.lines} sources={atlas.sources} />
     </Suspense>}
     <div className="detail-body">
       <section>
