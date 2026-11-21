@@ -2643,5 +2643,163 @@
       }
     ],
     "distance": null
+  },
+  {
+    "id": "cross-costa-rica-mtb-archive-3",
+    "kind": "trip",
+    "region": "central",
+    "title": "Cross Costa Rica MTB · три гоночных этапа с картами",
+    "native": "Cross Costa Rica 2026 · Turrubares · Ochomogo",
+    "level": "expedition",
+    "days": 3,
+    "distance": 151.8,
+    "activities": [
+      "mtb",
+      "cycling",
+      "multi",
+      "views",
+      "forest"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "cross-mtb-official-stages",
+      "cross-mtb-rider-guide",
+      "cross-mtb-2026-local-report",
+      "cross-mtb-gpx-1",
+      "cross-mtb-gpx-2",
+      "cross-mtb-gpx-3"
+    ],
+    "summary": "Архив трёх горных этапов. Две площадки, три GPX и сравнение заявленных дистанций с реально опубликованной геометрией.",
+    "plan": "День 1 в Turrubares. Дни 2 и 3 стартуют у Oikoumene в Очомого. Переезд между площадками организуйте отдельно.",
+    "conditions": "Согласуйте допуск и условия будущей гонки. Частные участки и режим парковки требуют подтверждения. Дистанции веб-страницы и GPX расходятся.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Turrubares и El Sur · GPX 76,7 км",
+        "note": "Смена климата и покрытия по мере длинного подъёма. Переезд в район Очомого после финиша согласуется отдельно.",
+        "stops": [
+          "cross-turrubares-mtb-76"
+        ],
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-gpx-1"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ochomogo и San Juan de Chicuá · GPX 47,4 км",
+        "note": "У организатора описано 64 км. Перед стартом запросите действующую трассу и её пункты поддержки.",
+        "stops": [
+          "cross-ochomogo-chicua-mtb-47"
+        ],
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-gpx-2"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Финальный горный круг · GPX 27,6 км",
+        "note": "Стартовый сектор снова рядом с Oikoumene. Затем возврат к исходной логистике или отдельный заезд к Турриальбе.",
+        "stops": [
+          "cross-ochomogo-finale-28"
+        ],
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-gpx-3"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "la-central-overland-weekend-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Выходные под Турриальбой · крыша, вулканический лес и кофе",
+    "native": "La Pastora · Hacienda La Central · Bosque Quemado · Aquiares",
+    "level": "moderate",
+    "days": 2,
+    "distance": null,
+    "activities": [
+      "rooftent",
+      "offroad",
+      "camping",
+      "hiking",
+      "volcano",
+      "coffee",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "central-turrialba-overland",
+      "central-turrialba-approaches",
+      "central-bosque-quemado-operator-5",
+      "central-la-tiendilla-operator-7",
+      "central-ruta-pilas-operator-10",
+      "aquiares-coffee-tour-operator",
+      "ovsicori-live-volcano-state"
+    ],
+    "summary": "Одна ночь в семейном автокемпинге и выбор прогулки на 5, 7 или 10 км. По желанию — визит к кофейной общине после спуска.",
+    "plan": "Заезд через La Pastora и ночёвка на территории асьенды. На второе утро прогулка с гидом и возвращение в долину.",
+    "conditions": "Согласуйте крышную палатку и состояние дороги. Местный гид подтверждает проход. После длинной прогулки проверьте, успеваете ли в Акиарес.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Дорога и ночь у асьенды",
+        "note": "Заезд через La Pastora засветло. Сверьте размер площадки и необходимость тёплого спальника. По погоде оставьте время на пикник.",
+        "stops": [
+          "la-central-rooftop-camp"
+        ],
+        "sources": [
+          "central-turrialba-overland",
+          "central-turrialba-approaches",
+          "central-camp-guest-field-notes"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лес на 5, 7 или 10 км и опциональный кофе",
+        "note": "Семейный вариант около двух часов, техническая Tiendilla около трёх, Pilas около четырёх с половиной часов. После раннего старта можно успеть в Акиарес при заранее уточнённом слоте.",
+        "stops": [
+          "central-bosque-quemado-5",
+          "central-la-tiendilla-7",
+          "central-ruta-pilas-10"
+        ],
+        "sources": [
+          "central-bosque-quemado-operator-5",
+          "central-la-tiendilla-operator-7",
+          "central-ruta-pilas-operator-10",
+          "aquiares-coffee-tour-operator"
+        ]
+      }
+    ]
   }
 ]

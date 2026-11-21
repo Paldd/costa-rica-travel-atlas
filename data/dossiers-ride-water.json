@@ -431,6 +431,14 @@
           "gfg-2026-video",
           "rincon-trails-route"
         ]
+      },
+      {
+        "title": "Длина файла 90K",
+        "text": "У организатора дистанция называется 90K. По линии исходного файла получается около 88,6 км. Слой карты показывает архивный GPX 2026 года.",
+        "sources": [
+          "gfg-90-gpx",
+          "gfg-2026-home"
+        ]
       }
     ],
     "contacts": [
@@ -443,9 +451,11 @@
     "nearby": [
       "rincon-mtb-30",
       "palo-verde",
-      "ponderosa"
+      "ponderosa",
+      "guanacaste-fondo-140"
     ],
-    "track": "gfg-90-gpx"
+    "track": "gfg-90-gpx",
+    "line": "guanacaste-fondo-90"
   },
   "gfaa-99-2027": {
     "stops": [

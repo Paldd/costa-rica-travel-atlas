@@ -1,0 +1,1121 @@
+{
+  "cross-turrubares-mtb-76": {
+    "stops": [
+      {
+        "point": "cross-el-romeral",
+        "role": "Стартовая площадка · El Romeral",
+        "note": "Точка организатора около San Pablo de Turrubares."
+      },
+      {
+        "point": "cross-lagunas-km20",
+        "role": "Около 20 км · точка на опубликованном треке",
+        "note": "Координата отсчитана от начала файла. Контрольный пункт Lagunas отдельно указан в программе."
+      },
+      {
+        "point": "cross-carara-km30",
+        "role": "Около 30 км · точка на опубликованном треке",
+        "note": "Примерное положение в горной части. Смотрите отдельную метку контрольной точки у организатора."
+      },
+      {
+        "point": "cross-el-sur-return",
+        "role": "Район разворота · El Sur de Turrubares",
+        "note": ""
+      },
+      {
+        "point": "cross-turrubares-gpx-finish",
+        "role": "Финишный сектор · Turrubares",
+        "note": "Конец файла выпуска 2026."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут и контрольные точки",
+        "text": "Материалы организатора начинают первый день у El Romeral. Участки Lagunas и Carara описаны в программе, а разворот указан у El Sur. Пункты питания, места помощи и перекрытия проверяйте для следующего выпуска.",
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-rider-guide",
+          "cross-mtb-gpx-1"
+        ]
+      },
+      {
+        "title": "Две опубликованные дистанции",
+        "text": "Официальная страница описывает 73 км. По полному скачанному файлу получается около 76,7 км. Карта показывает файл, отметки на ней рассчитаны по координатам. Перед выездом уточните у организаторов версию, набор высоты и действующие пункты помощи.",
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-gpx-1"
+        ]
+      },
+      {
+        "title": "Как выбрать формат",
+        "text": "Архив полезен для оценки рельефа. Для нового выпуска уточните участие в одном этапе и передачу велосипеда. Для самостоятельной тренировки заранее согласуйте доступ на фермы, частные участки и лесные дороги.",
+        "sources": [
+          "cross-mtb-rider-guide",
+          "cross-mtb-one-day-option",
+          "cross-mtb-2026-local-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cross Costa Rica MTB",
+        "source": "cross-mtb-rider-guide",
+        "note": "Через сайт уточните выпуск, версию GPX, OneDay и транспорт между площадками.",
+        "url": "https://crosscostaricamtb.com/"
+      },
+      {
+        "name": "Cross Costa Rica MTB · день Turrubares",
+        "source": "cross-mtb-official-stages",
+        "note": "Уточните старт и проезд к El Romeral перед следующим выпуском.",
+        "url": "https://crosscostaricamtb.com/Home/Etapas"
+      }
+    ],
+    "nearby": [
+      "cross-costa-rica-mtb-archive-3",
+      "orotina-gravel-46",
+      "sj-orotina-gravel"
+    ],
+    "track": "cross-mtb-gpx-1",
+    "line": "cross-turrubares-mtb-76"
+  },
+  "cross-ochomogo-chicua-mtb-47": {
+    "stops": [
+      {
+        "point": "cross-ochomogo-start",
+        "role": "Очомого · начало файла",
+        "note": "В руководстве указан центр Oikoumene. Точный вход в центр смотрите по ссылке."
+      },
+      {
+        "point": "cross-ochomogo-km10",
+        "role": "Около 10 км · по GPX",
+        "note": "Маркер измерен от начала скачанного файла."
+      },
+      {
+        "point": "cross-san-juan-chicua",
+        "role": "Район Chicuá · середина круга",
+        "note": "Отметка лежит на треке рядом с селением."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут и контрольные точки",
+        "text": "Ориентир сбора — Oikoumene в Очомого. В опубликованной программе есть Cabeza de Vaca, Sanatorio Durán и San Juan de Chicuá. Пункты питания, места помощи и перекрытия проверяйте для следующего выпуска.",
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-rider-guide",
+          "cross-mtb-gpx-2"
+        ]
+      },
+      {
+        "title": "Две опубликованные дистанции",
+        "text": "Официальная страница описывает 64 км. По полному скачанному файлу получается около 47,4 км. Карта показывает файл, отметки на ней рассчитаны по координатам. Перед выездом уточните у организаторов версию, набор высоты и действующие пункты помощи.",
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-gpx-2"
+        ]
+      },
+      {
+        "title": "Как выбрать формат",
+        "text": "Архив полезен для оценки рельефа. Для нового выпуска уточните участие в одном этапе и передачу велосипеда. Для самостоятельной тренировки заранее согласуйте доступ на фермы, частные участки и лесные дороги.",
+        "sources": [
+          "cross-mtb-rider-guide",
+          "cross-mtb-one-day-option",
+          "cross-mtb-2026-local-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cross Costa Rica MTB",
+        "source": "cross-mtb-rider-guide",
+        "note": "Через сайт уточните выпуск, версию GPX, OneDay и транспорт между площадками.",
+        "url": "https://crosscostaricamtb.com/"
+      },
+      {
+        "name": "Centro de Formación Oikoumene",
+        "source": "oik-contact",
+        "note": "Вход на территорию и организация заезда вне даты соревнования согласуются с центром.",
+        "url": "https://www.oikoumene.cr/contacto/"
+      }
+    ],
+    "nearby": [
+      "cross-costa-rica-mtb-archive-3",
+      "oikoumene",
+      "cross-ochomogo-finale-28",
+      "la-central-rooftop-camp"
+    ],
+    "track": "cross-mtb-gpx-2",
+    "line": "cross-ochomogo-chicua-mtb-47"
+  },
+  "cross-ochomogo-finale-28": {
+    "stops": [
+      {
+        "point": "cross-ochomogo-start",
+        "role": "Старт и финишный сектор · Ochomogo",
+        "note": ""
+      },
+      {
+        "point": "cross-ochomogo-day3-km10",
+        "role": "Около 10 км · положение по GPX",
+        "note": "План организатора называет Cruce a Llano Grande, его отдельная точка есть в источнике."
+      },
+      {
+        "point": "cross-ochomogo-day3-km14",
+        "role": "Около 14 км · положение по GPX",
+        "note": "Опорная точка для просмотра линии, покрытие и проход уточняют у организатора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут и контрольные точки",
+        "text": "На карте отмечены старт в Очомого и две километровые отметки. Официальная страница этапа отдельно указывает перекрёсток к Llano Grande и подъём Cabeza de Vaca. Пункты питания, места помощи и перекрытия проверяйте для следующего выпуска.",
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-rider-guide",
+          "cross-mtb-gpx-3"
+        ]
+      },
+      {
+        "title": "Две опубликованные дистанции",
+        "text": "Официальная страница описывает 25 км. По полному скачанному файлу получается около 27,6 км. Карта показывает файл, отметки на ней рассчитаны по координатам. Перед выездом уточните у организаторов версию, набор высоты и действующие пункты помощи.",
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-gpx-3"
+        ]
+      },
+      {
+        "title": "Как выбрать формат",
+        "text": "Архив полезен для оценки рельефа. Для нового выпуска уточните участие в одном этапе и передачу велосипеда. Для самостоятельной тренировки заранее согласуйте доступ на фермы, частные участки и лесные дороги.",
+        "sources": [
+          "cross-mtb-rider-guide",
+          "cross-mtb-one-day-option",
+          "cross-mtb-2026-local-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cross Costa Rica MTB",
+        "source": "cross-mtb-rider-guide",
+        "note": "Через сайт уточните выпуск, версию GPX, OneDay и транспорт между площадками.",
+        "url": "https://crosscostaricamtb.com/"
+      },
+      {
+        "name": "Centro de Formación Oikoumene",
+        "source": "oik-contact",
+        "note": "Вход на территорию и организация заезда вне даты соревнования согласуются с центром.",
+        "url": "https://www.oikoumene.cr/contacto/"
+      }
+    ],
+    "nearby": [
+      "cross-costa-rica-mtb-archive-3",
+      "oikoumene",
+      "cross-ochomogo-chicua-mtb-47",
+      "la-central-calle-pastora"
+    ],
+    "track": "cross-mtb-gpx-3",
+    "line": "cross-ochomogo-finale-28"
+  },
+  "cross-costa-rica-mtb-archive-3": {
+    "stops": [
+      {
+        "point": "cross-el-romeral",
+        "role": "Стартовая площадка · El Romeral",
+        "note": "Точка организатора около San Pablo de Turrubares."
+      },
+      {
+        "point": "cross-lagunas-km20",
+        "role": "Около 20 км · точка на опубликованном треке",
+        "note": "Координата отсчитана от начала файла. Контрольный пункт Lagunas отдельно указан в программе."
+      },
+      {
+        "point": "cross-carara-km30",
+        "role": "Около 30 км · точка на опубликованном треке",
+        "note": "Примерное положение в горной части. Смотрите отдельную метку контрольной точки у организатора."
+      },
+      {
+        "point": "cross-el-sur-return",
+        "role": "Район разворота · El Sur de Turrubares",
+        "note": ""
+      },
+      {
+        "point": "cross-turrubares-gpx-finish",
+        "role": "Финишный сектор · Turrubares",
+        "note": "Конец файла выпуска 2026."
+      },
+      {
+        "point": "cross-ochomogo-start",
+        "role": "Очомого · начало файла",
+        "note": "В руководстве указан центр Oikoumene. Точный вход в центр смотрите по ссылке."
+      },
+      {
+        "point": "cross-ochomogo-km10",
+        "role": "Около 10 км · по GPX",
+        "note": "Маркер измерен от начала скачанного файла."
+      },
+      {
+        "point": "cross-san-juan-chicua",
+        "role": "Район Chicuá · середина круга",
+        "note": "Отметка лежит на треке рядом с селением."
+      },
+      {
+        "point": "cross-ochomogo-day3-km10",
+        "role": "Около 10 км · положение по GPX",
+        "note": "План организатора называет Cruce a Llano Grande, его отдельная точка есть в источнике."
+      },
+      {
+        "point": "cross-ochomogo-day3-km14",
+        "role": "Около 14 км · положение по GPX",
+        "note": "Опорная точка для просмотра линии, покрытие и проход уточняют у организатора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что есть на карте",
+        "text": "Весь выпуск можно открыть сразу или переключиться на один из трёх GPX. Официальные описания дают суммарно 162 км. Файлы дают около 151,8 км. Между Turrubares и Ochomogo предусмотрите наземный трансфер.",
+        "sources": [
+          "cross-mtb-official-stages",
+          "cross-mtb-gpx-1",
+          "cross-mtb-gpx-2",
+          "cross-mtb-gpx-3"
+        ]
+      },
+      {
+        "title": "Поддержка и экипировка",
+        "text": "Для повторения в рамках нового выпуска уточняйте, как работает трансфер, где получают пакет, когда начинается брифинг и как меняются контрольные отсечки. У короткого OneDay отдельный набор условий.",
+        "sources": [
+          "cross-mtb-rider-guide",
+          "cross-mtb-one-day-option"
+        ]
+      },
+      {
+        "title": "Что доступно в обычный день",
+        "text": "На обычные выходные заранее согласуйте вход в Oikoumene или поездку с местным проводником. Архивные файлы помогают оценить уклоны и длину перед выбором поездки.",
+        "sources": [
+          "oik-contact",
+          "cross-mtb-2026-local-report",
+          "cross-mtb-official-stages"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cross Costa Rica MTB",
+        "source": "cross-mtb-rider-guide",
+        "note": "Через сайт уточните выпуск, версию GPX, OneDay и транспорт между площадками.",
+        "url": "https://crosscostaricamtb.com/"
+      },
+      {
+        "name": "Centro de Formación Oikoumene",
+        "source": "oik-contact",
+        "note": "Вход на территорию и организация заезда вне даты соревнования согласуются с центром.",
+        "url": "https://www.oikoumene.cr/contacto/"
+      }
+    ],
+    "nearby": [
+      "cross-turrubares-mtb-76",
+      "cross-ochomogo-chicua-mtb-47",
+      "cross-ochomogo-finale-28"
+    ],
+    "line": "cross-mtb-2026-overview"
+  },
+  "quepos-fondo-105-2027": {
+    "stops": [
+      {
+        "point": "gfzs-nahomi-start",
+        "role": "Старт · Parque Nahomí",
+        "note": "Сверьте подъезд, выдачу пакета, время и доступ к парковке."
+      },
+      {
+        "point": "gfzs-matapalo-road",
+        "role": "Береговая прямая · район Matapalo",
+        "note": ""
+      },
+      {
+        "point": "gfzs-dominical-turn",
+        "role": "Разворот · район Доминикаль",
+        "note": "Крайняя береговая точка по GPS. Фактическое место разворота сверяйте с судьями."
+      },
+      {
+        "point": "gfzs-naranjito-pass",
+        "role": "Внутренняя петля · Naranjito",
+        "note": ""
+      },
+      {
+        "point": "gfzs-londres-pass",
+        "role": "Внутренняя петля · Londres",
+        "note": ""
+      },
+      {
+        "point": "gfzs-villa-nueva-pass",
+        "role": "Возвратный сектор · Villa Nueva",
+        "note": "По описанию часть до Кепоса проходит вне зачёта."
+      },
+      {
+        "point": "gfzs-nahomi-start",
+        "role": "Финишный район · Кепос",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где меняется характер дороги",
+        "text": "На пути к развороту долго идёт прибрежный участок Ruta 34. После повторного пересечения района Managua гонка заворачивает вглубь к Naranjito и Londres. Оставьте запас на последние километры с возвращением к берегу.",
+        "sources": [
+          "gran-fondo-zona-sur-2027",
+          "gran-fondo-zona-sur-quepos-report",
+          "gran-fondo-zona-sur-105-gpx"
+        ]
+      },
+      {
+        "title": "Старт, финиш и GPS",
+        "text": "Дистанция названа по регистрации, 105 км. По скачанному файлу получается 106,0 км. На карте видны начало, разворот и точки на обратной петле. Уточните стартовое окно и положение зоны поддержки.",
+        "sources": [
+          "gran-fondo-zona-sur-2027",
+          "gran-fondo-zona-sur-105-gpx",
+          "gran-fondo-zona-sur-quepos-report"
+        ]
+      },
+      {
+        "title": "Движение вне мероприятия",
+        "text": "План организатора включает гоночный режим и отдельную часть вне зачёта. На обычной тренировке действуют правила движения, местами идёт плотный поток. Планируйте воду и безопасные места остановки заранее.",
+        "sources": [
+          "cr-road-cycle-law",
+          "gran-fondo-zona-sur-quepos-report",
+          "gran-fondo-zona-sur-2027"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Gran Fondo Zona Sur · BSR Eventos",
+        "source": "gran-fondo-zona-sur-2027",
+        "note": "Дата старта, зона перекрытий, выдача пакетов и связь с организатором.",
+        "phone": "+506 6087 5735",
+        "url": "https://www.fondozonasur.com/"
+      }
+    ],
+    "nearby": [
+      "quepos-fondo-148-2027",
+      "quepos-boat"
+    ],
+    "track": "gran-fondo-zona-sur-105-gpx",
+    "line": "quepos-fondo-105-2027"
+  },
+  "quepos-fondo-148-2027": {
+    "stops": [
+      {
+        "point": "gfzs-nahomi-start",
+        "role": "Старт · Parque Nahomí",
+        "note": "Сверьте подъезд, выдачу пакета, время и доступ к парковке."
+      },
+      {
+        "point": "gfzs-matapalo-road",
+        "role": "Береговая прямая · район Matapalo",
+        "note": ""
+      },
+      {
+        "point": "gfzs-uvita-turn",
+        "role": "Разворот · район Увита",
+        "note": "Крайняя береговая точка по GPS. Фактическое место разворота сверяйте с судьями."
+      },
+      {
+        "point": "gfzs-naranjito-pass",
+        "role": "Внутренняя петля · Naranjito",
+        "note": ""
+      },
+      {
+        "point": "gfzs-londres-pass",
+        "role": "Внутренняя петля · Londres",
+        "note": ""
+      },
+      {
+        "point": "gfzs-villa-nueva-pass",
+        "role": "Возвратный сектор · Villa Nueva",
+        "note": "По описанию часть до Кепоса проходит вне зачёта."
+      },
+      {
+        "point": "gfzs-nahomi-start",
+        "role": "Финишный район · Кепос",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где меняется характер дороги",
+        "text": "На пути к развороту долго идёт прибрежный участок Ruta 34. После повторного пересечения района Managua гонка заворачивает вглубь к Naranjito и Londres. Оставьте запас на последние километры с возвращением к берегу.",
+        "sources": [
+          "gran-fondo-zona-sur-2027",
+          "gran-fondo-zona-sur-quepos-report",
+          "gran-fondo-zona-sur-148-gpx"
+        ]
+      },
+      {
+        "title": "Старт, финиш и GPS",
+        "text": "Дистанция названа по регистрации, 148 км. По скачанному файлу получается 148,0 км. На карте видны начало, разворот и точки на обратной петле. Уточните стартовое окно и положение зоны поддержки.",
+        "sources": [
+          "gran-fondo-zona-sur-2027",
+          "gran-fondo-zona-sur-148-gpx",
+          "gran-fondo-zona-sur-quepos-report"
+        ]
+      },
+      {
+        "title": "Движение вне мероприятия",
+        "text": "План организатора включает гоночный режим и отдельную часть вне зачёта. На обычной тренировке действуют правила движения, местами идёт плотный поток. Планируйте воду и безопасные места остановки заранее.",
+        "sources": [
+          "cr-road-cycle-law",
+          "gran-fondo-zona-sur-quepos-report",
+          "gran-fondo-zona-sur-2027"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Gran Fondo Zona Sur · BSR Eventos",
+        "source": "gran-fondo-zona-sur-2027",
+        "note": "Дата старта, зона перекрытий, выдача пакетов и связь с организатором.",
+        "phone": "+506 6087 5735",
+        "url": "https://www.fondozonasur.com/"
+      }
+    ],
+    "nearby": [
+      "quepos-fondo-105-2027",
+      "quepos-boat"
+    ],
+    "track": "gran-fondo-zona-sur-148-gpx",
+    "line": "quepos-fondo-148-2027"
+  },
+  "guanacaste-fondo-140": {
+    "stops": [
+      {
+        "point": "gfg-140-start",
+        "role": "Либерия · старт архивного файла",
+        "note": ""
+      },
+      {
+        "point": "bagaces-centre",
+        "role": "Bagaces · ориентир длинного плеча",
+        "note": "Поселковая точка рядом с основным проездом."
+      },
+      {
+        "point": "gfg-140-near70",
+        "role": "Около 70 км · отметка по GPX",
+        "note": ""
+      },
+      {
+        "point": "gfg-140-turn",
+        "role": "Дальняя часть маршрута · по GPS",
+        "note": ""
+      },
+      {
+        "point": "gfg-140-finish",
+        "role": "Либерия · окончание файла",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Разница между 90 и 140 км",
+        "text": "Два файла стартуют у Либерии и идут по общему восточному направлению. Длинная ветка ощутимо увеличивает время под солнцем и потребность в воде. Запланируйте поддержку и возможность сойти, если едете по согласованной программе.",
+        "sources": [
+          "gfg-2026-home",
+          "gfg-90-gpx",
+          "gfg-140-gpx"
+        ]
+      },
+      {
+        "title": "Архив и текущий выпуск",
+        "text": "Линия построена по файлу гонки 2026. В исходном GPX около 140,8 км, официальное название 140K. Даты, разрешённые виды велосипеда и перекрытия нового выпуска сверяйте на сайте.",
+        "sources": [
+          "gfg-140-gpx",
+          "gfg-2026-home"
+        ]
+      },
+      {
+        "title": "Поддержка вне гонки",
+        "text": "Организатор публикует правила и условия по дню мероприятия. Для самостоятельного дорожного выезда уточняйте разрешённость движения на выбранных отрезках и заранее намечайте безопасные точки остановки.",
+        "sources": [
+          "cr-road-cycle-law",
+          "gfg-2026-home"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Gran Fondo Guanacaste",
+        "source": "gfg-2026-home",
+        "note": "Архив выпуска в Либерии и публикация следующего комплекта дистанций.",
+        "url": "https://www.granfondoguanacaste.com/"
+      }
+    ],
+    "nearby": [
+      "guanacaste-fondo-90",
+      "rincon-mtb"
+    ],
+    "track": "gfg-140-gpx",
+    "line": "guanacaste-fondo-140"
+  },
+  "la-central-rooftop-camp": {
+    "stops": [
+      {
+        "point": "la-pastora-turn-230",
+        "role": "Поворот · Ruta 230",
+        "note": "Дальше по Calle La Central в гору. Приезжайте засветло и уточните проезд после дождя."
+      },
+      {
+        "point": "hacienda-la-central-official-pin",
+        "role": "Финиш подъезда · Hacienda La Central",
+        "note": "Точка, которую дают хозяева для навигатора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Парковка рядом с собственным лагерем",
+        "text": "Оператор указывает, что в зону overlanding можно заехать на автомобиле и раскрыть маркизу. Для крышной палатки сообщите отдельно габариты, вес машины, сторону лестницы и попросите подтверждённое ровное место. В лагере есть санузлы, питьевая вода, электричество и частная парковка по описанию хозяев.",
+        "sources": [
+          "central-turrialba-overland",
+          "central-camp-guest-field-notes"
+        ]
+      },
+      {
+        "title": "Обычная и высокая машина",
+        "text": "У хозяев описан въезд через La Pastora от Route 230 и подход с Ирасу по 417. В OpenStreetMap на части 417 отмечены ограничения и грунт. Для семьи или поездки в дождь согласуйте проезд через La Pastora и держите под рукой точный пин хозяйства.",
+        "sources": [
+          "central-turrialba-approaches",
+          "central-turrialba-overland",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Детский темп и погода",
+        "text": "Для одной ночи сначала выберите короткую прогулку или пикник. Для прохладной погоды держите в запасе Posada и заранее уточните условия изменения брони. Кратерные зоны SINAC планируются отдельно.",
+        "sources": [
+          "central-turrialba-overland",
+          "central-posada-official",
+          "sinac-turrialba-official",
+          "ovsicori-live-volcano-state"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda La Central · хозяйская команда",
+        "source": "central-turrialba-overland",
+        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
+        "phone": "+506 8414 4682",
+        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
+      },
+      {
+        "name": "Posada La Central",
+        "source": "central-posada-official",
+        "note": "Спросите размещение в прохладную ночь и доступ на территорию.",
+        "url": "https://www.haciendalacentral.com/posada-la-central.html"
+      }
+    ],
+    "nearby": [
+      "la-central-calle-pastora",
+      "central-bosque-quemado-5",
+      "central-la-tiendilla-7",
+      "central-ruta-pilas-10",
+      "la-central-overland-weekend-2"
+    ],
+    "line": "la-pastora-central-calle"
+  },
+  "la-central-calle-pastora": {
+    "stops": [
+      {
+        "point": "la-pastora-turn-230",
+        "role": "Поворот · Ruta 230",
+        "note": "Дальше по Calle La Central в гору. Приезжайте засветло и уточните проезд после дождя."
+      },
+      {
+        "point": "hacienda-la-central-official-pin",
+        "role": "Финиш подъезда · Hacienda La Central",
+        "note": "Точка, которую дают хозяева для навигатора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Привязка к карте",
+        "text": "Линия начинается у поворота с Ruta 230 и тянется около 11.3 км по OpenStreetMap. Описание хозяев даёт около 11 км от ориентира Restaurante Torre Alba. Уточняйте ориентир, который нужен вашему водителю.",
+        "sources": [
+          "central-turrialba-approaches",
+          "central-turrialba-overland",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Где сверять условия",
+        "text": "На август 2026 асьенда указывала заезд через La Pastora для разных типов машин. Учитывайте дату, дождь и клиренс. На стороне Ирасу у 417 картографическая отметка ограничения, поэтому к выбору этой дороги нужен прямой ответ о проезде на выбранный день.",
+        "sources": [
+          "central-turrialba-overland",
+          "central-turrialba-approaches",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Если едете без машины",
+        "text": "Хозяева указывают автобус направления Pacayas от Картаго до остановки в La Pastora и такси далее. Согласуйте актуальное расписание, багаж и обратную машину из горной зоны.",
+        "sources": [
+          "central-turrialba-approaches",
+          "central-turrialba-overland"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda La Central · хозяйская команда",
+        "source": "central-turrialba-overland",
+        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
+        "phone": "+506 8414 4682",
+        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
+      }
+    ],
+    "nearby": [
+      "la-central-rooftop-camp",
+      "ira-tur-ebike-aquiares",
+      "la-central-overland-weekend-2"
+    ],
+    "line": "la-pastora-central-calle"
+  },
+  "central-bosque-quemado-5": {
+    "stops": [
+      {
+        "point": "hacienda-la-central-official-pin",
+        "role": "Сбор · Hacienda La Central",
+        "note": "Старт рядом с приёмной. Подтвердите сектор с гидом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "План и длительность",
+        "text": "Около двух часов среди вулканического леса у La Central. Короткий маршрут начинается в асьенде. Попросите гида подобрать темп и показать последствия выпадения пепла в лесу.",
+        "sources": [
+          "central-bosque-quemado-operator-5",
+          "central-turrialba-approaches"
+        ]
+      },
+      {
+        "title": "Границы прохода",
+        "text": "Пеший маршрут проводит гид асьенды. Уточняйте, какие участки открыты при ветре и пепле, а также возраст участников. Карточка показывает подтверждённую точку сбора. Схему пешеходного хода уточняйте у гида.",
+        "sources": [
+          "central-bosque-quemado-operator-5",
+          "sinac-turrialba-official",
+          "ovsicori-live-volcano-state"
+        ]
+      },
+      {
+        "title": "Местный опыт и ночёвка",
+        "text": "Путевой отчёт Modo Viajero описывает смену зелёных и обожжённых участков леса. В базовом лагере можно остаться на ночь и по ходу дня заменить прогулку более короткой.",
+        "sources": [
+          "central-bosque-quemado-field-visit",
+          "central-turrialba-overland",
+          "central-posada-official"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda La Central · хозяйская команда",
+        "source": "central-turrialba-overland",
+        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
+        "phone": "+506 8414 4682",
+        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
+      },
+      {
+        "name": "Posada La Central",
+        "source": "central-posada-official",
+        "note": "Спросите размещение в прохладную ночь и доступ на территорию.",
+        "url": "https://www.haciendalacentral.com/posada-la-central.html"
+      }
+    ],
+    "nearby": [
+      "la-central-rooftop-camp",
+      "central-la-tiendilla-7",
+      "central-ruta-pilas-10"
+    ]
+  },
+  "central-la-tiendilla-7": {
+    "stops": [
+      {
+        "point": "hacienda-la-central-official-pin",
+        "role": "Сбор · Hacienda La Central",
+        "note": "Старт рядом с приёмной. Подтвердите сектор с гидом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "План и длительность",
+        "text": "Техническая прогулка около трёх часов со старым кратером и видами на вулканический хребет. Из асьенды с гидом поднимайтесь в сектор старого кратера, затем проходите в сторону Bosque Quemado по разрешённому пути.",
+        "sources": [
+          "central-la-tiendilla-operator-7",
+          "central-turrialba-approaches"
+        ]
+      },
+      {
+        "title": "Границы прохода",
+        "text": "Пеший маршрут проводит гид асьенды. Уточняйте, какие участки открыты при ветре и пепле, а также возраст участников. Карточка показывает подтверждённую точку сбора. Схему пешеходного хода уточняйте у гида.",
+        "sources": [
+          "central-la-tiendilla-operator-7",
+          "sinac-turrialba-official",
+          "ovsicori-live-volcano-state"
+        ]
+      },
+      {
+        "title": "Местный опыт и ночёвка",
+        "text": "Путевой отчёт Modo Viajero описывает смену зелёных и обожжённых участков леса. В базовом лагере можно остаться на ночь и по ходу дня заменить прогулку более короткой.",
+        "sources": [
+          "central-bosque-quemado-field-visit",
+          "central-turrialba-overland",
+          "central-posada-official"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda La Central · хозяйская команда",
+        "source": "central-turrialba-overland",
+        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
+        "phone": "+506 8414 4682",
+        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
+      },
+      {
+        "name": "Posada La Central",
+        "source": "central-posada-official",
+        "note": "Спросите размещение в прохладную ночь и доступ на территорию.",
+        "url": "https://www.haciendalacentral.com/posada-la-central.html"
+      }
+    ],
+    "nearby": [
+      "la-central-rooftop-camp",
+      "central-bosque-quemado-5",
+      "central-ruta-pilas-10"
+    ]
+  },
+  "central-ruta-pilas-10": {
+    "stops": [
+      {
+        "point": "hacienda-la-central-official-pin",
+        "role": "Сбор · Hacienda La Central",
+        "note": "Старт рядом с приёмной. Подтвердите сектор с гидом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "План и длительность",
+        "text": "Самая длинная из трёх дневных прогулок асьенды, с подъёмом примерно до отметки 2900 м. Сначала нижняя часть фермы, затем длинный подъём к разным секторам Bosque Quemado. На маршрут дают около четырёх с половиной часов.",
+        "sources": [
+          "central-ruta-pilas-operator-10",
+          "central-turrialba-approaches"
+        ]
+      },
+      {
+        "title": "Границы прохода",
+        "text": "Пеший маршрут проводит гид асьенды. Уточняйте, какие участки открыты при ветре и пепле, а также возраст участников. Карточка показывает подтверждённую точку сбора. Схему пешеходного хода уточняйте у гида.",
+        "sources": [
+          "central-ruta-pilas-operator-10",
+          "sinac-turrialba-official",
+          "ovsicori-live-volcano-state"
+        ]
+      },
+      {
+        "title": "Местный опыт и ночёвка",
+        "text": "Путевой отчёт Modo Viajero описывает смену зелёных и обожжённых участков леса. В базовом лагере можно остаться на ночь и по ходу дня заменить прогулку более короткой.",
+        "sources": [
+          "central-bosque-quemado-field-visit",
+          "central-turrialba-overland",
+          "central-posada-official"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda La Central · хозяйская команда",
+        "source": "central-turrialba-overland",
+        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
+        "phone": "+506 8414 4682",
+        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
+      },
+      {
+        "name": "Posada La Central",
+        "source": "central-posada-official",
+        "note": "Спросите размещение в прохладную ночь и доступ на территорию.",
+        "url": "https://www.haciendalacentral.com/posada-la-central.html"
+      }
+    ],
+    "nearby": [
+      "la-central-rooftop-camp",
+      "central-bosque-quemado-5",
+      "central-la-tiendilla-7"
+    ]
+  },
+  "ira-tur-ebike-aquiares": {
+    "stops": [
+      {
+        "point": "irazu-craters-parking",
+        "role": "Посещение Ирасу · сектор Cráteres",
+        "note": "Уточните точную точку выдачи велосипеда и допуск на смотровую."
+      },
+      {
+        "point": "hacienda-la-central-official-pin",
+        "role": "Пауза на склонах · район La Central",
+        "note": "Координата асьенды; место остановки в туре сообщает оператор."
+      },
+      {
+        "point": "aquiares-cafetal-village",
+        "role": "Финишный район · кофейное селение Aquiares",
+        "note": "Подтвердите точку обеда и порядок возврата."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ход организованного тура",
+        "text": "У ARA опубликована поездка на весь день. Сначала посещают Ирасу, затем едут к склонам Турриальбы, делают остановку в La Central и спускаются к кофейной общине. Программу могут менять по погоде и дорожному доступу.",
+        "sources": [
+          "ara-irazu-turrialba-aquiares-ebike",
+          "ovsicori-live-volcano-state",
+          "central-turrialba-approaches"
+        ]
+      },
+      {
+        "title": "Выбор e-bike и экипировка",
+        "text": "При согласовании сообщите рост, опыт на спусках и желаемый темп. Уточните минимальный рост или возраст, двигатель, запас аккумулятора, воду, шлем, транспорт обратно и условия остановки тура при закрытии дороги.",
+        "sources": [
+          "ara-irazu-turrialba-aquiares-ebike",
+          "irazu",
+          "sinac-turrialba-official"
+        ]
+      },
+      {
+        "title": "Кофе после катания",
+        "text": "Кофейная община Aquiares проводит собственные экскурсии. В e-bike программе уточняйте, входит ли отдельная экскурсия с дегустацией; по желанию можно запланировать визит на другой день.",
+        "sources": [
+          "ara-irazu-turrialba-aquiares-ebike",
+          "aquiares-coffee-tour-operator"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ARA Tours · дневная программа на e-bike",
+        "source": "ara-irazu-turrialba-aquiares-ebike",
+        "note": "Уточните место сбора, группу, размер велосипеда, актуальный путь, входы в парк и возврат.",
+        "url": "https://www.aratours.com/es/excursiones/bike-e-bike/2104-tour-de-dia-completo-en-e-bike-a-turrialba"
+      },
+      {
+        "name": "Aquiares Coffee · местный кофе",
+        "source": "aquiares-coffee-tour-operator",
+        "note": "Кофейный тур и посещение общины согласуются по форме оператора.",
+        "url": "https://www.aquiares.com/es/coffeetours"
+      },
+      {
+        "name": "Hacienda La Central · хозяйская команда",
+        "source": "central-turrialba-overland",
+        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
+        "phone": "+506 8414 4682",
+        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
+      }
+    ],
+    "nearby": [
+      "irazu-craters",
+      "la-central-rooftop-camp",
+      "central-ruta-pilas-10"
+    ]
+  },
+  "la-central-overland-weekend-2": {
+    "stops": [
+      {
+        "point": "la-pastora-turn-230",
+        "role": "Поворот · Ruta 230",
+        "note": "Дальше по Calle La Central в гору. Приезжайте засветло и уточните проезд после дождя."
+      },
+      {
+        "point": "hacienda-la-central-official-pin",
+        "role": "Финиш подъезда · Hacienda La Central",
+        "note": "Точка, которую дают хозяева для навигатора."
+      },
+      {
+        "point": "aquiares-cafetal-village",
+        "role": "День 2 · опциональный кофе",
+        "note": "Визит по подтверждённому времени после возвращения с тропы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъезд и ночлег",
+        "text": "На карте прорисован доезд от La Pastora. В кемпинге уточните автомобильную площадку и доступ к воде. При ветре или поездке с маленькими детьми можно вместо палатки выбрать написанную хозяевами Posada.",
+        "sources": [
+          "central-turrialba-approaches",
+          "central-turrialba-overland",
+          "central-posada-official"
+        ]
+      },
+      {
+        "title": "Как выбрать километраж",
+        "text": "Для спокойного утра берите Bosque Quemado 5K. Tiendilla 7K подходит при уверенном спуске. Ruta Pilas 10K требует больше сил, воды и времени на высоком склоне. Все три прогулки проводит местная команда.",
+        "sources": [
+          "central-bosque-quemado-operator-5",
+          "central-la-tiendilla-operator-7",
+          "central-ruta-pilas-operator-10",
+          "ovsicori-live-volcano-state"
+        ]
+      },
+      {
+        "title": "Велосипедный вариант",
+        "text": "Если вместо похода хочется e-bike, планируйте самостоятельный день с ARA Tours. У программы свой старт и маршрут между Ирасу и Акиаресом. Возможность подобрать группу и подъехать от лагеря сверяйте заранее.",
+        "sources": [
+          "ara-irazu-turrialba-aquiares-ebike",
+          "central-turrialba-overland",
+          "aquiares-coffee-tour-operator"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda La Central · хозяйская команда",
+        "source": "central-turrialba-overland",
+        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
+        "phone": "+506 8414 4682",
+        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
+      },
+      {
+        "name": "Posada La Central",
+        "source": "central-posada-official",
+        "note": "Спросите размещение в прохладную ночь и доступ на территорию.",
+        "url": "https://www.haciendalacentral.com/posada-la-central.html"
+      },
+      {
+        "name": "Aquiares Coffee · местный кофе",
+        "source": "aquiares-coffee-tour-operator",
+        "note": "Кофейный тур и посещение общины согласуются по форме оператора.",
+        "url": "https://www.aquiares.com/es/coffeetours"
+      },
+      {
+        "name": "ARA Tours · дневная программа на e-bike",
+        "source": "ara-irazu-turrialba-aquiares-ebike",
+        "note": "Уточните место сбора, группу, размер велосипеда, актуальный путь, входы в парк и возврат.",
+        "url": "https://www.aratours.com/es/excursiones/bike-e-bike/2104-tour-de-dia-completo-en-e-bike-a-turrialba"
+      }
+    ],
+    "nearby": [
+      "la-central-calle-pastora",
+      "ira-tur-ebike-aquiares",
+      "la-central-rooftop-camp"
+    ],
+    "line": "la-pastora-central-calle"
+  },
+  "nosara-mtb-family-trails-6": {
+    "stops": [
+      {
+        "point": "nosara-mtb-guiones-assembly",
+        "role": "Сбор · район Athletic Center",
+        "note": "Точка рядом с Gilded Iguana. Координаты стойки и выезд сообщит магазин."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Чем отличаются участки",
+        "text": "У Nosara MTB начальный частный сектор составляет около 6 км. Более продвинутые участки требуют уверенного спуска и работы с грунтом. Согласуйте формат и тропу с гидом, попросите точный старт и объяснение без сложных препятствий для первого раза.",
+        "sources": [
+          "nosara-mtb-local-trail-guide",
+          "nosara-mtb-custom-tours"
+        ]
+      },
+      {
+        "title": "Вход на территорию",
+        "text": "Разные сети обслуживаются отдельно. Для частной тропы оформляйте доступ через команду. Для общинной сети проверьте правила и разрешённый вид движения на конкретном отрезке. На карте отмечена подтверждённая зона встречи. Линию частной сети смотрите у оператора.",
+        "sources": [
+          "nosara-mtb-local-trail-guide",
+          "nosara-civic-trail-regulations"
+        ]
+      },
+      {
+        "title": "Отзывы и рост детей",
+        "text": "В отзывах гости описывают технические элементы и разные варианты темпа. Свяжите запрос с реальным навыком в группе и уточните наличие небольших рам и шлемов, а также точку, где можно сократить круг.",
+        "sources": [
+          "nosara-mtb-tripadvisor",
+          "nosara-mtb-custom-tours",
+          "nosara-mtb-shop-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nosara MTB · местный прокат и велогиды",
+        "source": "nosara-mtb-shop-contact",
+        "note": "Запросите короткую трассу, рост участников, сезонный доступ и точку входа в Athletic Center.",
+        "phone": "+506 2573 3948",
+        "url": "https://nosaramtb.com/tours/",
+        "email": "reservations@nosaramtb.com"
+      }
+    ],
+    "nearby": [
+      "nosara-emtb-hills-halfday",
+      "guiones",
+      "nicoya-bikepack-6"
+    ]
+  },
+  "nosara-emtb-hills-halfday": {
+    "stops": [
+      {
+        "point": "nosara-mtb-guiones-assembly",
+        "role": "Старт и финиш · Guiones Norte",
+        "note": "Сбор на выдачу велосипеда в зоне Athletic Center."
+      },
+      {
+        "point": "nosara-cycling-anchor",
+        "role": "Район долины · посёлок Носара",
+        "note": "Ориентир для поездки. Фактический выезд выбирает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Варианты местности",
+        "text": "Семейная команда планирует маршрут под опыт. Просите связку обычных грунтовых дорог и холмов, если интересуют виды и свободный темп. Продвинутая группа может договориться о синглтреке, когда он открыт.",
+        "sources": [
+          "nosara-mtb-electric-guided",
+          "nosara-mtb-custom-tours",
+          "nosara-mtb-local-trail-guide"
+        ]
+      },
+      {
+        "title": "Что входит и что проверять",
+        "text": "У e-bike программы указаны велосипед, велогид, шлем, перчатки и вода. Спросите про отдельную цену проката, размер, запас заряда и возможные переправы. Перед выходом со своим велосипедом согласуйте доступ на выбранные тропы.",
+        "sources": [
+          "nosara-mtb-electric-guided",
+          "nosara-mtb-custom-tours",
+          "nosara-mtb-local-trail-guide"
+        ]
+      },
+      {
+        "title": "Сочетание с пляжем",
+        "text": "Гости отмечают, что гиды подбирают уровни и могут сочетать грунтовые дороги и техничные части. Для разного темпа в компании удобно развести утреннюю велогруппу и отдых на Гионес.",
+        "sources": [
+          "nosara-mtb-tripadvisor",
+          "nosara-mtb-custom-tours",
+          "ict-surf"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nosara MTB · местный прокат и велогиды",
+        "source": "nosara-mtb-shop-contact",
+        "note": "Запросите короткую трассу, рост участников, сезонный доступ и точку входа в Athletic Center.",
+        "phone": "+506 2573 3948",
+        "url": "https://nosaramtb.com/tours/",
+        "email": "reservations@nosaramtb.com"
+      },
+      {
+        "name": "Nosara MTB · e-bike",
+        "source": "nosara-mtb-electric-guided",
+        "note": "Формат 16+, размер электровелосипеда и порядок встречи.",
+        "url": "https://nosaramtb.com/product/e-bike-tour/"
+      }
+    ],
+    "nearby": [
+      "nosara-mtb-family-trails-6",
+      "guiones",
+      "nicoya-bikepack-6"
+    ]
+  }
+}

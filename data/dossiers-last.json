@@ -676,6 +676,17 @@
           "irazu",
           "turrialba"
         ]
+      },
+      {
+        "title": "Пешие маршруты от базы и архив треков",
+        "text": "Программа 2026 указывает Cariblanco 10 км и Manigordo 21 км. В проверенном открытом разделе загрузок опубликованы GPX 2024 года. За актуальным гоночным файлом обратитесь к организатору. Походы 5, 7 и 10 км у асьенды бронируются отдельно.",
+        "sources": [
+          "trail-vulc-2026",
+          "trail-vulc-tracks",
+          "central-bosque-quemado-operator-5",
+          "central-la-tiendilla-operator-7",
+          "central-ruta-pilas-operator-10"
+        ]
       }
     ],
     "contacts": [
@@ -688,7 +699,8 @@
     "nearby": [
       "irazu-craters",
       "turrialba",
-      "trail-lucha"
+      "trail-lucha",
+      "la-central-rooftop-camp"
     ],
     "track": "trail-vulc-tracks"
   },

@@ -19,5 +19,9 @@
   {"name":"Visit Paquera · местные активности и сообщества","url":"https://www.visitpaquera.com/es/","paths":["/es/"]},
   {"name":"Caño Negro Experience · местные наблюдения и маршруты","url":"https://www.canonegroexperience.com/","paths":["/tours","/packages","/package","/lacotinga","/blog/"]},
   {"name":"Bahía Rica · каяк, SUP и рыбалка","url":"https://www.bahiarica.com/tours","paths":["/tour/","/news/"]},
-  {"name":"Isla de Chira · лодки и сельский туризм","url":"https://islachira.com/","paths":["/como-","/tour","/hosp","/contact","/actividad"]}
+  {"name":"Isla de Chira · лодки и сельский туризм","url":"https://islachira.com/","paths":["/como-","/tour","/hosp","/contact","/actividad"]},
+  {"name":"Hacienda La Central · тропы и overlanding","url":"https://www.haciendalacentral.com/","paths":["/tour_","/act_","/posada-","/nuestra-"]},
+  {"name":"Cross Costa Rica MTB · этапы и официальные GPX","url":"https://crosscostaricamtb.com/Home/Etapas","paths":["/descargar/gpx/","/home/"]},
+  {"name":"Gran Fondo Zona Sur · Кепос и GPX","url":"https://www.fondozonasur.com/","paths":["/storage/gpx/","/storage/guia_tecnica/"]},
+  {"name":"Nosara MTB · местные тропы и велопрокат","url":"https://nosaramtb.com/the-guide/","paths":["/product/","/tours/","/product-category/"]}
 ]

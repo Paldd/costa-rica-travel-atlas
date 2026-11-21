@@ -325,3 +325,28 @@ curu-route-entrance	Curú · поворот на Calle Playa Curú	9.7839236	-84
 paquera-town-center	Paquera · центр посёлка	9.8203322	-84.9331162	osm-cr-points
 playa-organos-road-end	Playa Órganos · конец берегового подъезда	9.8120119	-84.8999083	osm-cr-points
 playa-organos-road-turn	Calle Playa Órganos · поворот с основной дороги	9.8231263	-84.9133308	osm-cr-points
+cross-el-romeral	El Romeral · старт в Turrubares	9.8948094	-84.4412805	cross-mtb-official-stages
+cross-lagunas-km20	Этап 1 · отметка 20 км по GPX	9.841409999992427	-84.51990500043847	cross-mtb-gpx-1
+cross-carara-km30	Этап 1 · отметка 30 км по GPX	9.784550000000001	-84.5172	cross-mtb-gpx-1
+cross-el-sur-return	Этап 1 · район разворота El Sur	9.74041	-84.52346	cross-mtb-gpx-1
+cross-turrubares-gpx-finish	Turrubares · конец файла этапа 1	9.89415	-84.44244	cross-mtb-gpx-1
+cross-ochomogo-start	Ochomogo · начало GPX у Oikoumene	9.91454	-83.95247	cross-mtb-gpx-2
+cross-san-juan-chicua	San Juan de Chicuá · ближайший к селению участок GPX	9.94797	-83.86536	cross-mtb-gpx-2
+cross-ochomogo-km10	Этап 2 · отметка 10 км по GPX	9.94631	-83.90402	cross-mtb-gpx-2
+cross-ochomogo-day3-km10	Этап 3 · отметка 10 км по GPX	9.92483	-83.90446	cross-mtb-gpx-3
+cross-ochomogo-day3-km14	Этап 3 · отметка 14 км по GPX	9.95368	-83.90461	cross-mtb-gpx-3
+gfzs-nahomi-start	Parque Nahomí · старт в Кепосе	9.42278	-84.16903	gran-fondo-zona-sur-105-gpx
+gfzs-matapalo-road	Побережье у Matapalo · участок Ruta 34	9.33162	-83.95653	gran-fondo-zona-sur-105-gpx
+gfzs-dominical-turn	Район Dominical · дальняя точка короткого файла	9.25957	-83.86412	gran-fondo-zona-sur-105-gpx
+gfzs-uvita-turn	Район Uvita · дальняя точка длинного файла	9.161950000000001	-83.73505	gran-fondo-zona-sur-148-gpx
+gfzs-naranjito-pass	Naranjito · возвратная петля	9.471918	-84.105213	gran-fondo-zona-sur-105-gpx
+gfzs-londres-pass	Дорога у Londres · возвратная петля	9.46321	-84.07009	gran-fondo-zona-sur-105-gpx
+gfzs-villa-nueva-pass	Дорога у Villa Nueva · возвращение в Кепос	9.47089	-84.07477	gran-fondo-zona-sur-105-gpx
+gfg-140-start	Liberia · начало GPX 140K	10.629465	-85.437703	gfg-140-gpx
+gfg-140-turn	Гуанакасте · дальняя точка GPX 140K	10.26547908782959	-85.02079010009766	gfg-140-gpx
+gfg-140-finish	Liberia · финишная часть GPX 140K	10.61707	-85.437428	gfg-140-gpx
+gfg-140-near70	Гуанакасте · около 70 км по GPX	10.285327434539795	-85.03581047058105	gfg-140-gpx
+hacienda-la-central-official-pin	Hacienda La Central · точка хозяев	10.0049423	-83.7803603	central-turrialba-approaches
+la-pastora-turn-230	La Pastora · поворот с Ruta 230 на Calle La Central	9.9605306	-83.7498457	osm-cr-points
+aquiares-cafetal-village	Aquiares · кофейный посёлок	9.9404742	-83.7213372	osm-cr-points
+nosara-mtb-guiones-assembly	Guiones Norte · ориентир Gilded Iguana Athletic Center	9.9481309	-85.6693982	osm-cr-points
