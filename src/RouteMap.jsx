@@ -12,13 +12,16 @@ export default function RouteMap({ stops, track, line, lines, sources }) {
   const [stageId, setStageId] = useState("");
   const stages = useMemo(() => (line?.stages || []).map(id => ({ id, ...lines[id] })), [line, lines]);
   const activeStage = stages.find(stage => stage.id === stageId);
-  const visibleStops = stops.map((stop, index) => ({ stop, index }))
-    .filter(({ stop }) => !activeStage || activeStage.points.includes(stop.point));
+  const numberedStops = stops.map((stop, index) => ({ stop, index }));
+  const visibleStops = activeStage
+    ? activeStage.points.flatMap(point => numberedStops.filter(({ stop }) => stop.point === point))
+    : numberedStops;
   const lineSource = sources[line?.source];
   const stageSource = sources[activeStage?.stageSource];
 
   useEffect(() => {
-    const map = L.map(container.current, { scrollWheelZoom: false, maxZoom: 19 });
+    // Leaflet 1.9 can finish an animated zoom after the detail card unmounts.
+    const map = L.map(container.current, { scrollWheelZoom: false, maxZoom: 19, zoomAnimation: false });
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://www.openstreetmap.org/fixthemap">Исправить карту</a>',
       maxZoom: 19,

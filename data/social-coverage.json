@@ -4,9 +4,10 @@
     "instagramProfiles": 100,
     "facebookProfiles": 100,
     "instagramWithPosts": 98,
+    "instagramUniquePosts": 579,
     "instagramPosts": 582,
     "facebookAbout": 100,
-    "placesWithPostLinks": 19
+    "placesWithPostLinks": 27
   },
   "profiles": [
     {
@@ -1611,6 +1612,18 @@
     }
   ],
   "matches": {
+    "finca-koki": [
+      {
+        "profile": "A Dónde Ir Costa Rica",
+        "url": "https://www.instagram.com/p/DfzltH9RgYQ/"
+      }
+    ],
+    "cinchona-soda": [
+      {
+        "profile": "Conocedores Costa Rica",
+        "url": "https://www.instagram.com/p/DfxF1wTS1Zd/"
+      }
+    ],
     "tenorio-celeste": [
       {
         "profile": "Costa Rica Cool",
@@ -1631,6 +1644,36 @@
         "url": "https://www.instagram.com/p/DeReKw6xBKK/"
       }
     ],
+    "bajos-toro-weekend": [
+      {
+        "profile": "Qué Buen Lugar",
+        "url": "https://www.instagram.com/p/DeQFDt8Dg4Z/"
+      },
+      {
+        "profile": "Senderos del Toro",
+        "url": "https://www.instagram.com/p/Df0paw2REYJ/"
+      }
+    ],
+    "piedras-blancas": [
+      {
+        "profile": "Vamos a Turistear",
+        "url": "https://www.instagram.com/p/Df2oj72l6Ha/"
+      }
+    ],
+    "toro-vuelta-canyon": [
+      {
+        "profile": "Costa Rica Mochilera",
+        "url": "https://www.instagram.com/p/Df84KcHRCL8/"
+      },
+      {
+        "profile": "Senderos del Toro",
+        "url": "https://www.instagram.com/p/Df0paw2REYJ/"
+      },
+      {
+        "profile": "Senderos del Toro",
+        "url": "https://www.instagram.com/p/DflDCBpGfY3/"
+      }
+    ],
     "corcovado-sirena": [
       {
         "profile": "Costa Rica Mochilera",
@@ -1649,6 +1692,36 @@
       {
         "profile": "Exploring Costa Rica",
         "url": "https://www.instagram.com/p/DM__fx4sXMC/"
+      }
+    ],
+    "encanto-summit-short": [
+      {
+        "profile": "Costa Rica Mochilera",
+        "url": "https://www.instagram.com/p/Df8kfKZx6Ox/"
+      },
+      {
+        "profile": "Costa Rica Mochilera",
+        "url": "https://www.instagram.com/p/Df8LtZHGTFm/"
+      }
+    ],
+    "aranjuez-encanto": [
+      {
+        "profile": "Costa Rica Mochilera",
+        "url": "https://www.instagram.com/p/Df8kfKZx6Ox/"
+      },
+      {
+        "profile": "Costa Rica Mochilera",
+        "url": "https://www.instagram.com/p/Df8LtZHGTFm/"
+      }
+    ],
+    "domos-tajo-alto": [
+      {
+        "profile": "Domos Mirador Glamping",
+        "url": "https://www.instagram.com/p/DckBmt_JdHO/"
+      },
+      {
+        "profile": "Domos Mirador Glamping",
+        "url": "https://www.instagram.com/p/DXxgM-QkjM3/"
       }
     ],
     "arenal-coladas": [
@@ -1714,6 +1787,10 @@
     "guachipelin": [
       {
         "profile": "Hacienda Guachipelín",
+        "url": "https://www.instagram.com/p/DfxROKPCATX/"
+      },
+      {
+        "profile": "Hacienda Guachipelín",
         "url": "https://www.instagram.com/p/DfsAphIgd6a/"
       },
       {
@@ -1725,30 +1802,10 @@
         "url": "https://www.instagram.com/p/DfYYGQwgWF-/"
       }
     ],
-    "catalinas-bike": [
+    "catalinas-sup": [
       {
         "profile": "Las Catalinas",
-        "url": "https://www.instagram.com/p/Df5iSGHnajk/"
-      },
-      {
-        "profile": "Las Catalinas",
-        "url": "https://www.instagram.com/p/DfnWj2Wqh8l/"
-      },
-      {
-        "profile": "Las Catalinas",
-        "url": "https://www.instagram.com/p/Dfc_n8LHasw/"
-      },
-      {
-        "profile": "Las Catalinas",
-        "url": "https://www.instagram.com/p/Dfa2OQCthcF/"
-      },
-      {
-        "profile": "Casa Chameleon Hotels",
-        "url": "https://www.instagram.com/p/Dfk8xndmDBJ/"
-      },
-      {
-        "profile": "Casa Chameleon Hotels",
-        "url": "https://www.instagram.com/p/DfifMCKRr_S/"
+        "url": "https://www.instagram.com/p/DfkmIh3q-AH/"
       }
     ],
     "quepos-boat": [
@@ -1789,12 +1846,6 @@
         "url": "https://www.instagram.com/p/DfTQLxnoLFn/"
       }
     ],
-    "orosi-hot": [
-      {
-        "profile": "Hacienda Orosi",
-        "url": "https://www.instagram.com/p/Dfkgh7XFa9b/"
-      }
-    ],
     "conchal": [
       {
         "profile": "The Westin Reserva Conchal",
@@ -1805,6 +1856,12 @@
       {
         "profile": "Costa Rican Vacations",
         "url": "https://www.instagram.com/p/DfxjzG-vvRl/"
+      }
+    ],
+    "panama-culebra-beach": [
+      {
+        "profile": "El Mangroove Hotel",
+        "url": "https://www.instagram.com/p/DfvN32_yycd/"
       }
     ],
     "chirripo": [

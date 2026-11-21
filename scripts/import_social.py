@@ -30,6 +30,24 @@ ALIASES = {
     "tenorio-celeste": ("rio celeste", "volcan tenorio"),
     "fortuna-falls": ("catarata rio fortuna", "la fortuna waterfall", "catarata la fortuna"),
     "corcovado-sirena": ("sector sirena", "estacion sirena", "sirena corcovado"),
+    "finca-koki": ("finca koki",),
+    "cinchona-soda": ("soda mirador cinchona", "soda y mirador cinchona"),
+    "higueron-toro": ("higueron lodge",),
+    "catarata-del-toro": ("catarata del toro",),
+    "blue-falls-toro": ("blue falls de costa rica", "blue falls of costa rica", "blue falls costa rica"),
+    "bajos-toro-weekend": ("bajos del toro con hijas", "vuelta al canon, bajos del toro"),
+    "toro-vuelta-canyon": ("catarata vuelta al canon", "catarata vuelta del canon", "vuelta al canon, bajos del toro"),
+    "domos-tajo-alto": ("domos mirador glamping", "domos finca el mirador", "domos mirador", "finca el mirador, montes de oro", "@fincaelmirador"),
+    "aranjuez-encanto": ("canon rio aranjuez", "canon del rio aranjuez", "canon de aranjuez", "rio aranjuez y cerro"),
+    "piedras-blancas": ("parque nacional piedras blancas", "piedras blancas, golfito"),
+    "las-catalinas-la-cresta-23": ("la cresta norte",),
+    "las-catalinas-secreto-13": ("secreto trail",),
+    "catalinas-bike": ("las catalinas mtb", "mountain biking in las catalinas", "pura vida ride"),
+    "catalinas-mtb-25": ("pura vida ride 25 km",),
+    "catalinas-emtb-12": ("short pura vida ride",),
+    "guachipelin": ("hacienda guachipelin", "rio negro hot springs", "aguas termales de rio negro"),
+    "catalinas-sup": ("playa danta",),
+    "la-paz-waterfalls": ("la paz waterfall gardens",),
 }
 
 
@@ -40,11 +58,11 @@ def normalized(value):
 
 def recurring_names(record):
     native = normalized(record["native"].split("·")[0].strip())
-    broad = {"playa", "camping", "costa rica", "arenal", "monteverde"}
+    broad = {"playa", "camping", "costa rica", "arenal", "monteverde", "las catalinas", "hacienda orosi"}
     terms = ALIASES.get(record["id"], ())
     if len(native) >= 12 and native not in broad:
         terms = (*terms, native)
-    return set(terms)
+    return terms
 
 
 def main():
@@ -54,11 +72,13 @@ def main():
     with open(config.file, encoding="utf-8") as file:
         sample = json.load(file)
     records = [row for path in DATA.glob("catalog*.tsv") for row in read_table(path, RECORD_FIELDS)]
+    records.extend(json.loads((DATA / "expeditions.json").read_text()))
     tag_patterns = {
-        record["id"]: [re.compile(r"\b" + re.escape(term) + r"\b") for term in recurring_names(record)]
+        record["id"]: [re.compile(r"(?<!\w)" + re.escape(term) + r"(?!\w)") for term in recurring_names(record)]
         for record in records
     }
     audit = []
+    instagram_codes = set()
     matches = defaultdict(list)
     for row in sample:
         profile = row["profile"]
@@ -71,6 +91,7 @@ def main():
             for post in row.get("posts", [])
             if platform == "Instagram" and re.fullmatch(r"[a-zA-Z0-9_-]{7,16}", post.get("code",""))
         }
+        instagram_codes.update(unique_posts)
         audit.append({
             "name": row["name"], "platform": platform, "url": profile,
             "posts": len(unique_posts), "about": bool(row["about"]), "checked": row["checked"],
@@ -79,7 +100,7 @@ def main():
             for record_id, needles in tag_patterns.items():
                 if any(needle.search(caption) for needle in needles):
                     ref = {"profile": row["name"], "url": f"https://www.instagram.com/p/{code}/"}
-                    if ref not in matches[record_id]:
+                    if all(match["url"] != ref["url"] for match in matches[record_id]):
                         matches[record_id].append(ref)
     if len({item["url"] for item in audit}) != len(audit):
         raise ValueError("Duplicate social profile URL")
@@ -89,6 +110,7 @@ def main():
             "instagramProfiles": sum(row["platform"] == "Instagram" for row in audit),
             "facebookProfiles": sum(row["platform"] == "Facebook" for row in audit),
             "instagramWithPosts": sum(row["posts"] > 0 for row in audit),
+            "instagramUniquePosts": len(instagram_codes),
             "instagramPosts": sum(row["posts"] for row in audit),
             "facebookAbout": sum(row["platform"] == "Facebook" and row["about"] for row in audit),
             "placesWithPostLinks": len(matches),

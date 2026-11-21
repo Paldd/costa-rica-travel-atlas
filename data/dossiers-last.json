@@ -430,6 +430,15 @@
           "orosi-day-pass",
           "orosi-terms"
         ]
+      },
+      {
+        "title": "Температура, экипировка и правила входа",
+        "text": "Оператор указывает семь бассейнов с температурой 34–39 °C и отдельную кофейную прогулку около 5 км. Возьмите купальные вещи и обувь для мокрых дорожек. Правила запрещают вход с домашними животными. Допускаются собаки-проводники. Под видео есть публичное разъяснение асьенды.",
+        "sources": [
+          "orosi-attractions",
+          "orosi-terms",
+          "fb-orosi-baths"
+        ]
       }
     ],
     "contacts": [
@@ -438,13 +447,17 @@
         "source": "orosi",
         "note": "Дневной вход, кухня, условия с детьми и ночёвка.",
         "phone": "+506 8562 8165",
-        "url": "https://haciendaorosi.com/"
+        "url": "https://haciendaorosi.com/",
+        "email": "info@haciendaorosi.com"
       }
     ],
     "nearby": [
       "orosi-road-loop"
     ],
-    "track": "orosi-day-pass"
+    "track": "orosi-day-pass",
+    "videos": [
+      "fb-orosi-baths"
+    ]
   },
   "la-paz-waterfalls": {
     "stops": [

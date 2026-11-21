@@ -277,5 +277,23 @@
     "license": "CC0",
     "original": "https://commons.wikimedia.org/wiki/File:Sierpe_River,_Costa_Rica.jpg",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "toro-fall-photo": {
+    "file": "catarata-toro-jurvetson.jpg",
+    "alt": "Высокий водопад Catarata Del Toro на отвесной зелёной стене",
+    "caption": "Catarata Del Toro · архивный снимок 2011 года, уменьшенная копия",
+    "author": "Steve Jurvetson",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Catarata_del_Toro._Waterfall._Costa_Rica.jpg"
+  },
+  "blue-falls-toro-photo": {
+    "file": "blue-falls-bajos-del-toro.jpg",
+    "alt": "Каскад среди тропических растений впадает в голубую чашу",
+    "caption": "Blue Falls, Бахос-дель-Торо · фото из WordPress Photo Directory",
+    "author": "dangrijal",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original": "https://wordpress.org/photos/photo/2446ae3ad7/"
   }
 }

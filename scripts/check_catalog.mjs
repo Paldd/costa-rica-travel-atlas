@@ -77,4 +77,20 @@ assert.equal(atlas.social.overview.instagramPosts,
   atlas.social.profiles.filter(row => row.platform === "Instagram").reduce((count, row) => count + row.posts, 0));
 assert.equal(atlas.social.overview.facebookPosts,
   atlas.social.profiles.filter(row => row.platform === "Facebook").reduce((count, row) => count + row.posts, 0));
+for (const platform of ["Instagram", "Facebook"]) {
+  const profiles = atlas.social.profiles.filter(row => row.platform === platform);
+  const expectedHost = platform === "Instagram" ? /instagram\.com$/ : /facebook\.com$/;
+  profiles.forEach((row, index) => {
+    assert.equal(row.rank, index + 1, row.name);
+    assert(Number.isInteger(row.followers) && row.followers > 1000, row.name);
+    assert(index === 0 || profiles[index - 1].followers >= row.followers, row.name);
+    assert.match(row.countChecked, /^\d{4}-\d{2}-\d{2}$/);
+    assert.match(new URL(row.countSource).hostname, expectedHost);
+  });
+}
+const facebookLinks = atlas.social.profiles.flatMap(row => row.postLinks || []);
+assert.equal(facebookLinks.length, atlas.social.overview.facebookPosts);
+assert.equal(new Set(facebookLinks.map(link => atlas.sources[link.source].url)).size, facebookLinks.length);
+assert(atlas.social.overview.instagramUniquePosts <= atlas.social.overview.instagramPosts);
+assert(find({ q: "Bajos del Toro", duration: "two", detail: "map" }, "expeditions").some(row => row.id === "bajos-toro-weekend"));
 console.log(`Validated ${records.length} entries, ${Object.keys(atlas.sources).length} indexed sources and 200 profiles.`);

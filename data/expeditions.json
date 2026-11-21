@@ -4422,5 +4422,75 @@
         ]
       }
     ]
+  },
+  {
+    "id": "bajos-toro-weekend",
+    "kind": "trip",
+    "region": "central",
+    "title": "Два дня в Бахос-дель-Торо · домики и водопады",
+    "native": "Sarchí · Bajos del Toro · Catarata Del Toro · Blue Falls · Zarcero",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "car",
+      "hiking",
+      "waterfall",
+      "forest",
+      "views",
+      "relax"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "toro-operator-map",
+      "higueron-toro-drive",
+      "toro-garden-trails",
+      "toro-ticket-blue",
+      "fb-qbl-bajos-family",
+      "toro-canyon-walk-report"
+    ],
+    "summary": "Горный мини-маршрут с ночёвкой в домике, смотровыми у большого водопада и отдельной прогулкой к голубым каскадам.",
+    "plan": "Сарчи → долина Бахос-дель-Торо → верхние смотровые Catarata Del Toro → ночёвка → Blue Falls → Сарсеро. Отдельно выберите пешие варианты с учётом погоды и возраста участников.",
+    "conditions": "Оператор обычно закрывает парки в воскресенье. Для выходных суббота–воскресенье поменяйте расписание визитов. Отдельно уточните доступ к ветке Las Gemelas и дорожные закрытия.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сарчи, большой водопад и домик",
+        "note": "Проедьте горный участок днём. Если приехали до заезда, сначала посетите верхние смотровые или спуститесь по лестнице. Вечером заселитесь в Higuerón Lodge.",
+        "stops": [
+          "catarata-del-toro",
+          "higueron-toro"
+        ],
+        "sources": [
+          "higueron-toro-drive",
+          "toro-garden-trails",
+          "higueron-toro-faq"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Blue Falls и обратная дорога через Сарсеро",
+        "note": "Запланируйте каскады на утро. Освободите домик до поездки к кассе, чтобы уложиться в выезд до 11:00. В дождь сократите прогулку до открытых участков и оставьте время на выезд из долины.",
+        "stops": [
+          "blue-falls-toro"
+        ],
+        "sources": [
+          "toro-ticket-blue",
+          "toro-operator-map"
+        ]
+      }
+    ]
   }
 ]

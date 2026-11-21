@@ -316,8 +316,15 @@ function Detail({ row, atlas, route, saved, toggle }) {
 
 function SourcesPage({ atlas }) {
   const [query, setQuery] = useState("");
-  const overview = atlas.social.overview || {};
-  const profiles = (atlas.social.profiles || []).filter(row => fold(row.name + " " + row.platform).includes(fold(query)));
+  const [platform, setPlatform] = useState("");
+  const overview = atlas.social.overview;
+  const measurementDate = atlas.social.profiles[0]?.countChecked;
+  const needle = fold(query.trim());
+  const followerFormat = new Intl.NumberFormat("ru-RU");
+  const profiles = atlas.social.profiles.filter(row =>
+    (!platform || row.platform === platform) &&
+    fold([row.name, row.url, row.category, row.zone, row.platform].join(" ")).includes(needle)
+  );
   const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length).length;
   const withVideos = atlas.records.filter(row => row.dossier?.videos?.length).length;
   return <section className="sources-page">
@@ -325,22 +332,46 @@ function SourcesPage({ atlas }) {
     <p className="page-lede">Проверки доступа, правила площадок и опыт путешественников.</p>
     <div className="source-summary">
       <article><strong>{overview.profiles || 0}</strong><span>профилей в реестре</span></article>
-      <article><strong>{overview.instagramPosts || 0}</strong><span>постов Instagram в выборке</span></article>
-      <article><strong>{overview.facebookPosts || 0}</strong><span>постов Facebook просмотрено</span></article>
+      <article><strong>{overview.instagramUniquePosts}</strong><span>уникальных постов Instagram в выборке</span></article>
+      <article><strong>{overview.facebookPosts}</strong><span>постов Facebook открыто</span></article>
       <article><strong>{Object.keys(atlas.sources).length}</strong><span>источников каталога</span></article>
     </div>
     <p>Подключённый коннектор Meta читает управляемые аккаунты. Публикации сторонних профилей сверяются по доступным образцам и ссылкам. Статус в строке показывает, какие данные просмотрены.</p>
     <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/API.md">Проверка доступов и методика</External></p>
     <details className="evidence-list">
-      <summary>Профили Instagram и Facebook <ChevronDown size={18} /></summary>
-      <label className="search-box"><Search size={19} aria-hidden="true" /><span className="visually-hidden">Поиск соцпрофиля</span>
-        <input type="search" value={query} placeholder="Найти профиль" onChange={event => setQuery(event.target.value)} /></label>
+      <summary>Рейтинг Instagram и Facebook <ChevronDown size={18} /></summary>
+      <p>По {overview.instagramProfiles} профилей на каждой платформе с аудиторией свыше 1 000 подписчиков. Замер от <time dateTime={measurementDate}>{measurementDate?.split("-").reverse().join(".")}</time>.</p>
+      <div className="profile-filters">
+        <label className="search-box"><Search size={19} aria-hidden="true" /><span className="visually-hidden">Поиск соцпрофиля</span>
+          <input type="search" value={query} placeholder="Профиль, регион или категория" onChange={event => setQuery(event.target.value)} />
+        </label>
+        <label className="profile-platform"><span className="visually-hidden">Платформа</span>
+          <select value={platform} onChange={event => setPlatform(event.target.value)}>
+            <option value="">Обе платформы</option>
+            <option>Instagram</option>
+            <option>Facebook</option>
+          </select>
+        </label>
+      </div>
+      <p className="profile-status" role="status">Профилей по запросу: {profiles.length}</p>
       <div className="profiles-list">
         {profiles.map(row => <div key={row.url}>
-          <External href={row.url}>{row.name}</External><span>{row.platform}</span>
-          <span>{row.posts > 0 ? `${row.posts} в выборке постов` : row.about ? "Прочитано описание" : "Подтверждена карточка"}</span>
+          <div className="profile-identity">
+            <External href={row.url}>{row.name}</External>
+            <span>{row.category} · {row.zone}</span>
+          </div>
+          <div className="profile-count">
+            <span>{row.platform} · № {row.rank}</span>
+            <External href={row.countSource}>{row.precision === "round" ? "≈ " : ""}{followerFormat.format(row.followers)} подписчиков</External>
+          </div>
+          <div className="profile-coverage">
+            <span>{row.posts > 0
+              ? row.platform === "Instagram" ? `Подписей в выборке: ${row.posts}` : `Публикаций открыто: ${row.posts}`
+              : row.about ? "Прочитано описание" : "Подтверждена карточка"}</span>
+            {row.postLinks?.map(({ source, checked }) =>
+              <External key={source} href={atlas.sources[source].url}>{atlas.sources[source].title} · {checked.split("-").reverse().join(".")}</External>)}
+          </div>
         </div>)}
-        {!profiles.length && <p>Совпадений по этому запросу нет.</p>}
       </div>
     </details>
     <details className="evidence-list"><summary>Парки, операторы и путеводители <ChevronDown size={18} /></summary>

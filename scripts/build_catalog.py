@@ -2,6 +2,7 @@
 
 import csv
 import json
+from datetime import date
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -9,7 +10,12 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 SOURCE_FIELDS = ("id", "kind", "title", "url", "scope")
-POST_FIELDS = ("profile", "source")
+POST_FIELDS = ("profile", "source", "checked")
+RANK_FIELDS = ("platform", "profile", "rank", "followers", "precision", "checked", "countSource", "category", "zone")
+SOCIAL_DOMAINS = {
+    "Instagram": {"www.instagram.com"},
+    "Facebook": {"www.facebook.com", "web.facebook.com"},
+}
 POINT_FIELDS = ("id", "name", "lat", "lon", "source")
 RECORD_FIELDS = (
     "id", "kind", "region", "title", "native", "level", "days", "activities",
@@ -28,6 +34,49 @@ def read_table(path, fields):
             if len(parts) != len(fields):
                 raise ValueError(f"{path.name}:{line} has {len(parts)} cells, expected {len(fields)}")
             yield dict(zip(fields, (x.strip() for x in parts)))
+
+
+def build_social(sources_by_id):
+    social = json.loads((DATA / "social-coverage.json").read_text())
+    profiles = {profile["url"]: profile for profile in social["profiles"]}
+    ranks = {platform: set() for platform in SOCIAL_DOMAINS}
+    for row in read_table(DATA / "profile-ranking.tsv", RANK_FIELDS):
+        profile = profiles[row.pop("profile")]
+        platform = row.pop("platform")
+        rank = int(row.pop("rank"))
+        followers = int(row.pop("followers"))
+        checked = row.pop("checked")
+        count_source = urlsplit(row["countSource"])
+        if (
+            platform != profile["platform"] or "rank" in profile or rank in ranks[platform]
+            or followers <= 1000 or row["precision"] not in {"exact", "round"}
+            or count_source.scheme != "https" or count_source.hostname not in SOCIAL_DOMAINS[platform]
+        ):
+            raise ValueError(f"Invalid ranking for {profile['url']}")
+        profile.update(row, rank=rank, followers=followers, countChecked=date.fromisoformat(checked).isoformat())
+        ranks[platform].add(rank)
+    if any(values != set(range(1, 101)) for values in ranks.values()) or any("rank" not in row for row in profiles.values()):
+        raise ValueError("Incomplete scope of the social rankings")
+    social["profiles"].sort(key=lambda row: (row["platform"] != "Instagram", row["rank"]))
+    seen_posts = set()
+    for post in read_table(DATA / "public-posts.tsv", POST_FIELDS):
+        profile = profiles.get(post["profile"])
+        source = sources_by_id.get(post["source"])
+        if not profile or profile["platform"] != "Facebook" or not source or source["url"] in seen_posts:
+            raise ValueError(f"Invalid public post entry for {post['source']}")
+        url = urlsplit(source["url"])
+        if url.scheme != "https" or url.hostname not in SOCIAL_DOMAINS["Facebook"] or not any(
+            segment in url.path for segment in ("/posts/", "/reel/", "/videos/")
+        ):
+            raise ValueError(f"Expected a direct Facebook publication for {post['source']}")
+        profile["posts"] += 1
+        profile.setdefault("postLinks", []).append({
+            "source": source["id"], "checked": date.fromisoformat(post["checked"]).isoformat(),
+        })
+        seen_posts.add(source["url"])
+    social["overview"]["facebookPosts"] = len(seen_posts)
+    social["overview"]["facebookWithPosts"] = sum(bool(row.get("postLinks")) for row in profiles.values())
+    return social
 
 
 def main():
@@ -82,20 +131,8 @@ def main():
     trips_path = DATA / "expeditions.json"
     if trips_path.exists():
         records.extend(json.loads(trips_path.read_text()))
-    social_path = DATA / "social-coverage.json"
-    social = json.loads(social_path.read_text()) if social_path.exists() else {}
-    social_matches = social.get("matches", {})
-    profiles_by_url = {profile["url"]: profile for profile in social.get("profiles", [])}
-    manual_posts = list(read_table(DATA / "public-posts.tsv", POST_FIELDS))
-    seen_post_sources = set()
-    for post in manual_posts:
-        profile = profiles_by_url.get(post["profile"])
-        source = post["source"]
-        if not profile or profile["platform"] != "Facebook" or source not in sources_by_id or source in seen_post_sources:
-            raise ValueError(f"Invalid public post entry for {source}")
-        profile["posts"] += 1
-        seen_post_sources.add(source)
-    social.setdefault("overview", {})["facebookPosts"] = len(seen_post_sources)
+    social = build_social(sources_by_id)
+    social_matches = social.pop("matches")
     metadata = json.loads((DATA / "snapshot.json").read_text())
     check_path = DATA / "checks.tsv"
     checked_by_record = {
@@ -123,7 +160,6 @@ def main():
             for stop in stage.get("stops", []):
                 if stop not in known_records or stop == record["id"]:
                     raise ValueError(f"Unknown or circular stop {stop} in {record['id']}")
-    social.pop("matches", None)
     out = ROOT / "public" / "atlas.json"
     out.write_text(json.dumps({
         "checked": metadata["checked"], "records": records,
