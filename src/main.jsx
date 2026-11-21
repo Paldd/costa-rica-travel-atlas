@@ -1,4 +1,4 @@
-import React, { lazy, Suspense, useEffect, useMemo, useRef, useState } from "react";
+import React, { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
 import {
   ArrowLeft, ArrowRight, ArrowUpRight, Bookmark, Clock3, Compass, List,
@@ -8,9 +8,9 @@ import {
   accessModes, activities, audiences, difficulty, durationLabel, filters, fold, kinds,
   lodging, mapsLink, regions, secondaryFilters, sourceKinds, visibleRecords,
 } from "./catalog.js";
-import AtlasMap from "./AtlasMap.jsx";
 import "./styles.css";
 
+const AtlasMap = lazy(() => import("./AtlasMap.jsx"));
 const RouteMap = lazy(() => import("./RouteMap.jsx"));
 const asset = name => import.meta.env.BASE_URL + name;
 const nav = { catalog: "Каталог", expeditions: "Экспедиции", sources: "Источники", saved: "Сохранённое" };
@@ -446,6 +446,8 @@ function CatalogPage({ atlas, route, setQuery, saved, toggle }) {
   const active = displayQuery.size > 0;
   const context = new URLSearchParams(query);
   if (page !== "catalog") context.set("from", page);
+  const detailContext = context.toString();
+  const linkTo = useCallback(id => urlFor("place", new URLSearchParams(detailContext), id), [detailContext]);
   const records = useMemo(() => {
     const sorted = [...atlas.records].sort((a, b) => {
       const aRank = prominent.includes(a.id) ? prominent.indexOf(a.id) : prominent.length;
@@ -481,12 +483,15 @@ function CatalogPage({ atlas, route, setQuery, saved, toggle }) {
         ? <button type="button" className="button primary" onClick={() => setQuery(new URLSearchParams())}>Сбросить фильтры</button>
         : <a href="#catalog" className="button primary">Открыть каталог</a>}
     </div> : <>
-      {map && <AtlasMap records={records} current={query.get("region")} onSelect={region => {
-        const next = new URLSearchParams(query);
-        if (region && region !== query.get("region")) next.set("region", region);
-        else next.delete("region");
-        setQuery(next);
-      }} />}
+      {map && <Suspense fallback={<p className="loading" role="status">Загружаем карту…</p>}>
+        <AtlasMap records={records} lines={atlas.lines} sources={atlas.sources} linkTo={linkTo}
+          current={query.get("region")} onSelect={region => {
+            const next = new URLSearchParams(query);
+            if (region && region !== query.get("region")) next.set("region", region);
+            else next.delete("region");
+            setQuery(next);
+          }} />
+      </Suspense>}
       <div className="cards">
         {records.slice(0, limit).map(row => <RouteCard key={row.id} row={row} context={context} saved={saved} toggle={toggle} />)}
       </div>

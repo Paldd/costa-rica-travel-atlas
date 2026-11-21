@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import L from "leaflet";
-import "leaflet/dist/leaflet.css";
+import { createOsmMap, routePathStyle } from "./osmMap.js";
 
 const mapUrl = ([lat, lon]) => `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
 
@@ -20,21 +20,13 @@ export default function RouteMap({ stops, track, line, lines, sources, connectSt
   const stageSource = sources[activeStage?.stageSource];
 
   useEffect(() => {
-    // Leaflet 1.9 can finish an animated zoom after the detail card unmounts.
-    const map = L.map(container.current, { scrollWheelZoom: false, maxZoom: 19, zoomAnimation: false });
-    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · <a href="https://www.openstreetmap.org/fixthemap">Исправить карту</a>',
-      maxZoom: 19,
-    }).addTo(map);
+    const map = createOsmMap(container.current);
 
     const positions = stops.map(stop => stop.coords);
     if (line) {
       const bounds = L.latLngBounds(positions);
       const paths = (stages.length ? stages : [line]).map(stage => {
-        const layer = L.polyline(stage.coords, {
-          color: stage.water ? "#26648e" : "#216e57", weight: 4,
-          dashArray: stage.water ? "6 7" : null, interactive: false,
-        }).addTo(map);
+        const layer = L.polyline(stage.coords, routePathStyle(stage.water)).addTo(map);
         bounds.extend(layer.getBounds());
         return { id: stage.id, layer };
       });

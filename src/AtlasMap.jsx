@@ -1,68 +1,171 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
+import L from "leaflet";
 import { regions } from "./catalog.js";
+import { createOsmMap, routePathStyle } from "./osmMap.js";
 
-const anchors = {
-  guanacaste: [-85.38, 10.73], nicoya: [-85.22, 9.94], north: [-84.56, 10.59],
-  centralpac: [-84.61, 9.62], central: [-84.05, 10.02], mountains: [-83.67, 9.48],
-  south: [-83.22, 8.63], caribbean: [-83.13, 10.30],
-};
-const bounds = { west: -86.03, east: -82.32, south: 7.98, north: 11.30 };
-const size = { x: 780, y: 620 };
+const mapCenter = [9.94, -84.12];
+const cellSize = 45;
+const groupUntilZoom = 15;
+const outlineUrl = import.meta.env.BASE_URL + "maps/costa-rica.json";
 
-function project([lon, lat]) {
-  return [
-    ((lon - bounds.west) / (bounds.east - bounds.west)) * size.x,
-    ((bounds.north - lat) / (bounds.north - bounds.south)) * size.y,
-  ];
+function pointGroups(records) {
+  const byCoordinates = new Map();
+  for (const record of records) {
+    const stop = record.dossier?.stops[0];
+    if (!stop) continue;
+    const key = stop.coords.join(",");
+    const group = byCoordinates.get(key) ?? { coords: stop.coords, entries: [] };
+    group.entries.push({ record, stop });
+    byCoordinates.set(key, group);
+  }
+  return [...byCoordinates.values()];
 }
 
-function outline(geometry) {
-  const polygons = geometry.type === "MultiPolygon" ? geometry.coordinates : [geometry.coordinates];
-  return polygons.flatMap(poly => poly.map(ring =>
-    ring.map((coordinate, index) => {
-      const point = project(coordinate).map(value => value.toFixed(2)).join(" ");
-      return (index ? "L" : "M") + point;
-    }).join(" ") + " Z"
-  )).join(" ");
+function groupNearbyPoints(map, points) {
+  if (map.getZoom() > groupUntilZoom) return points.map(point => [point]);
+  const cells = new Map();
+  for (const point of points) {
+    const { x, y } = map.project(point.coords);
+    const key = `${Math.floor(x / cellSize)},${Math.floor(y / cellSize)}`;
+    const cell = cells.get(key) ?? [];
+    cell.push(point);
+    cells.set(key, cell);
+  }
+  return [...cells.values()];
 }
 
-export default function AtlasMap({ records, current, onSelect }) {
-  const [geometry, setGeometry] = useState(null);
-  const [failed, setFailed] = useState(false);
+function markerIcon(count, clustered) {
+  return L.divIcon({
+    className: `atlas-map-marker${clustered ? " atlas-map-cluster" : ""}`,
+    html: count > 1 ? String(count) : '<span aria-hidden="true"></span>',
+    iconSize: count > 1 ? [32, 32] : [25, 25],
+  });
+}
+
+function markerPopup(entries, linkTo, selectRoute) {
+  const popup = document.createElement("ul");
+  popup.className = "atlas-map-popup";
+  for (const { record, stop } of entries) {
+    const item = document.createElement("li");
+    const title = document.createElement("a");
+    title.href = linkTo(record.id);
+    title.textContent = record.title;
+    const location = document.createElement("small");
+    location.textContent = stop.name;
+    item.append(title, location);
+    if (record.dossier.line || record.dossier.stops.length > 1) {
+      const showRoute = document.createElement("button");
+      showRoute.type = "button";
+      showRoute.textContent = "Показать на карте";
+      showRoute.addEventListener("click", () => selectRoute(record));
+      item.append(showRoute);
+    }
+    popup.append(item);
+  }
+  return popup;
+}
+
+export default function AtlasMap({ records, lines, sources, current, onSelect, linkTo }) {
+  const container = useRef(null);
+  const view = useRef(null);
+  const previewLink = useRef(null);
+  const [selection, setSelection] = useState(null);
+  const selected = selection?.records === records ? selection.record : null;
+  const points = useMemo(() => pointGroups(records), [records]);
+  const route = lines[selected?.dossier.line];
+
   useEffect(() => {
-    fetch(import.meta.env.BASE_URL + "maps/costa-rica.json")
-      .then(response => {
-        if (!response.ok) throw new Error("map");
-        return response.json();
+    const map = createOsmMap(container.current);
+    map.setView(mapCenter, 7);
+    view.current = { map, pins: L.layerGroup().addTo(map), preview: L.layerGroup().addTo(map) };
+    const pane = map.createPane("countryOutline");
+    pane.style.zIndex = "190";
+    const controller = new AbortController();
+    fetch(outlineUrl, { signal: controller.signal })
+      .then(response => response.ok ? response.json() : null)
+      .then(geometry => {
+        if (!geometry || controller.signal.aborted) return;
+        L.geoJSON(geometry, { pane: "countryOutline", interactive: false,
+          style: { color: "#7eaa90", weight: 1, fillColor: "#cbdcc5", fillOpacity: 0.85 } }).addTo(map);
       })
-      .then(setGeometry).catch(() => setFailed(true));
+      .catch(() => {});
+    return () => {
+      controller.abort();
+      view.current = null;
+      map.remove();
+    };
   }, []);
+
+  useEffect(() => {
+    const { map, pins } = view.current;
+    function drawPins() {
+      pins.clearLayers();
+      for (const cell of groupNearbyPoints(map, points)) {
+        if (cell.length > 1) {
+          const bounds = L.latLngBounds(cell.map(point => point.coords));
+          const count = cell.reduce((total, point) => total + point.entries.length, 0);
+          L.marker(bounds.getCenter(), { icon: markerIcon(count, true), title: `Увеличить область, карточек: ${count}` })
+            .on("click", () => map.fitBounds(bounds, { padding: [44, 44], maxZoom: groupUntilZoom + 1 }))
+            .addTo(pins);
+          continue;
+        }
+        const { coords, entries } = cell[0];
+        const title = entries.length === 1 ? entries[0].record.title : `Карточек у этой точки: ${entries.length}`;
+        L.marker(coords, { title, icon: markerIcon(entries.length, false) })
+          .bindPopup(() => markerPopup(entries, linkTo, record => setSelection({ record, records })), { maxHeight: 225 })
+          .addTo(pins);
+      }
+    }
+
+    if (points.length) map.fitBounds(points.map(point => point.coords), { padding: [40, 38], maxZoom: 13 });
+    drawPins();
+    map.on("zoomend", drawPins);
+    return () => {
+      map.off("zoomend", drawPins);
+      map.closePopup();
+      pins.clearLayers();
+    };
+  }, [points, records, linkTo]);
+
+  useEffect(() => {
+    const { map, preview } = view.current;
+    preview.clearLayers();
+    if (!selected) return;
+    map.closePopup();
+    const stops = selected.dossier.stops;
+    const bounds = L.latLngBounds(stops.map(stop => stop.coords));
+    for (const path of route?.stages?.map(id => lines[id]) ?? (route ? [route] : [])) {
+      const layer = L.polyline(path.coords, routePathStyle(path.water)).addTo(preview);
+      bounds.extend(layer.getBounds());
+    }
+    for (const stop of stops) {
+      L.circleMarker(stop.coords, { radius: 6, weight: 2, color: "#fff", fillColor: "#874916", fillOpacity: 1 })
+        .bindTooltip(() => {
+          const label = document.createElement("span");
+          label.textContent = stop.name;
+          return label;
+        })
+        .addTo(preview);
+    }
+    map.fitBounds(bounds, { padding: [34, 34], maxZoom: 15 });
+    previewLink.current?.focus({ preventScroll: true });
+  }, [selected, route, lines]);
+
   const counts = Object.fromEntries(Object.keys(regions).map(key =>
     [key, records.filter(row => row.region === key || row.regions?.includes(key)).length]));
-  return <section className="map-panel" aria-label="Карта регионов Коста-Рики">
-    <div className="map-art">
-      {geometry ? <svg viewBox={`0 0 ${size.x} ${size.y}`} aria-hidden="true">
-        <defs>
-          <pattern id="sea-grid" width="60" height="60" patternUnits="userSpaceOnUse">
-            <path d="M60 0H0V60" stroke="#b8d8d9" strokeWidth="1" fill="none" />
-          </pattern>
-        </defs>
-        <rect width="100%" height="100%" fill="url(#sea-grid)" />
-        <path d={outline(geometry)} fill="#cee3c4" stroke="#326b56" strokeWidth="2" strokeLinejoin="round" />
-        <text x="80" y="360" className="map-water">Тихий океан</text>
-        <text x="520" y="120" className="map-water">Карибское море</text>
-      </svg> : <div className="map-status" role="status">{failed ? "Контур не загрузился. Выберите регион справа." : "Загружаем карту…"}</div>}
-      {geometry && Object.entries(anchors).map(([key, coords]) => {
-        const [left, top] = project(coords);
-        return <button key={key} type="button" className="map-dot"
-          style={{ left: `${100 * left / size.x}%`, top: `${100 * top / size.y}%` }}
-          aria-pressed={current === key} onClick={() => onSelect(key)}
-          title={regions[key]} aria-label={regions[key] + ", " + counts[key]}>{counts[key]}</button>;
-      })}
-    </div>
+  return <section className="map-panel" aria-label="Карта маршрутов и мест">
+    <div ref={container} className="atlas-map-canvas" aria-label="Интерактивная карта каталога" />
     <div className="map-legend">
+      {selected && <div className="atlas-map-preview">
+        <strong>{selected.title}</strong>
+        {route?.note && <p>{route.note}</p>}
+        {!route && <p>На карте отмечены остановки этой карточки.</p>}
+        {route && <a href={sources[route.source].url} target="_blank" rel="noopener noreferrer">Источник линии ↗</a>}
+        <a ref={previewLink} href={linkTo(selected.id)}>Открыть карточку</a>
+        <button type="button" onClick={() => setSelection(null)}>Убрать с карты</button>
+      </div>}
       <h3>Районы</h3>
-      <p>Точки показывают районы. Карты подъезда и детали — в карточках.</p>
+      <p>{points.length ? "Приблизьте карту или выберите точку, чтобы открыть карточку." : "В этой подборке пока нет точек на карте."}</p>
       {Object.entries(regions).map(([key, label]) => <button key={key} type="button"
         onClick={() => onSelect(key)} aria-pressed={current === key}><span>{label}</span><strong>{counts[key]}</strong></button>)}
     </div>

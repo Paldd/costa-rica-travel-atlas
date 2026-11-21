@@ -7587,5 +7587,137 @@
         ]
       }
     ]
+  },
+  {
+    "id": "olan-clouds-waterfall-4x4-2",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Олан на два дня · 4×4, часовня, водопады и ночлег",
+    "native": "Buenos Aires · Olán · Capilla de las Nubes · Cataratas El Sitio",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "offroad",
+      "hiking",
+      "waterfall",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "olan-ticos-two-days",
+      "olan-buenos-aires-plan",
+      "olan-qbl-report",
+      "olan-hosts-2026"
+    ],
+    "summary": "Два дня в горной деревне с местной командой. От Буэнос-Айреса — пересадка на 4×4, в программе часовня, каскады и ночь в сельском приюте.",
+    "plan": "В опубликованном выезде 26–27 декабря первая прогулка ведёт к часовне. На второй день идут к El Sitio. Для другой даты попросите местную команду составить программу с теми же остановками.",
+    "conditions": "Около 28 км по горным дорогам в каждую сторону. Хозяева подтверждают подъезд, визит к часовне, размещение и условия огня. Верёвочный спуск зависит от воды и погоды.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "4×4 из Буэнос-Айреса, часовня и ночёвка",
+        "note": "Пересядьте на местный транспорт и оставьте вещи в приюте. После прогулки возможен огонь в месте, которое согласует команда.",
+        "stops": [
+          "olan-capilla-cloud-walk"
+        ],
+        "sources": [
+          "olan-ticos-two-days",
+          "olan-hosts-2026"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Каскады El Sitio и обратный выезд",
+        "note": "Поход с местным гидом. Спуск на верёвке или Tarzan Swing нужно согласовать. После обеда — обратный 4×4 и пересадка в Буэнос-Айресе.",
+        "stops": [
+          "olan-el-sitio-local-waterfalls"
+        ],
+        "sources": [
+          "olan-ticos-two-days",
+          "olan-tours-contact"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijagua-forest-bridges-night-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Бихагуа на два дня · мосты, ночной лес и Теньорио",
+    "native": "Bijagua · Heliconias Rainforest Lodge · Tapir Valley · Tenorio",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "hiking",
+      "forest",
+      "wildlife",
+      "waterfall",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "bijagua-heliconias-owner",
+      "bijagua-heliconias-nature",
+      "bijagua-tapir-night-official",
+      "bijagua-katira-ict"
+    ],
+    "summary": "Спокойная ночёвка у леса и три разных прогулки. Днём — подвесные мосты, вечером — натуралистическая экскурсия, утром — вулканический парк.",
+    "plan": "Заезжайте в Бихагуа с запасом до конца светового дня. После мостов переезд на ночной выход. Утром следующего дня выберите старт у El Pilón или короткую прогулку для наблюдения птиц.",
+    "conditions": "Три операции бронируются отдельно. Уточните подъезд к рецепциям, возраст ребёнка, наличие вечернего трансфера и режим входа в парк. При сильном дожде сократите один из выходов.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Мосты Heliconias, вечер в Tapir Valley и ночлег",
+        "note": "Утро или середина дня — подвесные мосты. Вечером начинается отдельная экскурсия с проводником Tapir Valley. Согласуйте время возвращения к жилью.",
+        "stops": [
+          "bijagua-heliconias-bridges",
+          "bijagua-tapir-valley-night"
+        ],
+        "sources": [
+          "bijagua-heliconias-nature",
+          "bijagua-tapir-night-official"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Утренние тропы Теньорио",
+        "note": "Начните в гостевом секторе El Pilón. Уточните состояние спуска к водопаду и открытую длину тропы до Teñideros. При ограничении времени посетите короткий участок.",
+        "stops": [
+          "tenorio-celeste"
+        ],
+        "sources": [
+          "bijagua-katira-ict"
+        ]
+      }
+    ]
   }
 ]

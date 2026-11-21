@@ -1,0 +1,927 @@
+{
+  "olan-capilla-cloud-walk": {
+    "stops": [
+      {
+        "point": "olan-tours-village",
+        "role": "Олан · район встречи с местной командой",
+        "note": ""
+      },
+      {
+        "point": "olan-capilla-building",
+        "role": "Часовня и сад",
+        "note": "Принимать посетителей могут по согласованному времени."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пеший вариант",
+        "text": "Ticos A Pata указывает короткий подход в рамках двухдневной поездки. Участники Qué Buen Lugar описали прогулку с местным жителем и вид на долину. Ориентир на карте отмечает постройку. Фактический вход показывает проводник.",
+        "sources": [
+          "olan-ticos-two-days",
+          "olan-qbl-report",
+          "olan-chapel-osm"
+        ]
+      },
+      {
+        "title": "Дорога и доступ",
+        "text": "В маршрутном предложении указан подъезд около 28 км на машине 4×4 из Буэнос-Айреса. Дорожные условия и возможность отдельной экскурсии проверяют с хозяевами. Возьмите обувь с хорошим сцеплением, воду, дождевик и офлайн-карту.",
+        "sources": [
+          "olan-buenos-aires-plan",
+          "olan-ticos-two-days",
+          "olan-hosts-2026"
+        ]
+      },
+      {
+        "title": "Местный опыт",
+        "text": "Видеопутешественник показывает масштаб часовни, сад и окрестности. Исторические цены из репортажа Qué Buen Lugar сверяйте заново при записи.",
+        "sources": [
+          "olan-chapel-video",
+          "olan-qbl-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Capilla de las Nubes · запись к хозяевам",
+        "source": "olan-hosts-2026",
+        "note": "Свяжитесь до въезда. В дни ремонта доступ к часовне и саду может меняться.",
+        "url": "https://wa.me/50683515782",
+        "phone": "+506 8351 5782"
+      },
+      {
+        "name": "Olán Tours · местная команда",
+        "source": "olan-tours-contact",
+        "note": "Уточните местный 4×4, навигацию на день выезда, ночлег и открытые тропы.",
+        "url": "https://olantours.weebly.com/contacto-128222.html",
+        "phone": "+506 8432 7439"
+      },
+      {
+        "name": "Ticos A Pata · запись и трансфер",
+        "source": "ticosapata-public-contact",
+        "note": "Спросите дату, точку посадки, состав услуг, возраст и перенос при плохой погоде.",
+        "url": "https://wa.me/50688418076",
+        "phone": "+506 8841 8076",
+        "email": "info@ticosapata.com"
+      }
+    ],
+    "galleries": [
+      "olan-qbl-report",
+      "olan-chapel-brunca"
+    ],
+    "videos": [
+      "olan-chapel-video"
+    ],
+    "nearby": [
+      "olan-el-sitio-local-waterfalls",
+      "olan-clouds-waterfall-4x4-2",
+      "oka-olan"
+    ],
+    "connectStops": false
+  },
+  "olan-el-sitio-local-waterfalls": {
+    "stops": [
+      {
+        "point": "olan-tours-village",
+        "role": "Район встречи в Олане",
+        "note": "Проводник подтверждает вход именно на El Sitio и время подхода."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Поход и верёвочный спуск",
+        "text": "На опубликованной программе можно ограничиться прогулкой и видами. Верёвочный спуск и раскачивание над оврагом зависят от решения команды и погоды. Участников и экипировку допускает оператор на месте.",
+        "sources": [
+          "olan-ticos-two-days",
+          "olan-tours-field-profile"
+        ]
+      },
+      {
+        "title": "Подъезд и питание",
+        "text": "Из Буэнос-Айреса организаторы используют 4×4. Расстояние от машины до начала тропы уточняйте у проводника. Зарядите телефон, сохраните контакт и возьмите воду, перекус и сухие вещи.",
+        "sources": [
+          "olan-buenos-aires-plan",
+          "olan-tours-contact"
+        ]
+      },
+      {
+        "title": "Опыт из Олана",
+        "text": "Сельский фотоотчёт Qué Buen Lugar даёт представление о лесных подходах и о том, как работают местные проводники. В окрестностях несколько водопадов, поэтому при записи назовите El Sitio.",
+        "sources": [
+          "olan-qbl-report",
+          "olan-ticos-two-days"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Olán Tours · местная команда",
+        "source": "olan-tours-contact",
+        "note": "Уточните местный 4×4, навигацию на день выезда, ночлег и открытые тропы.",
+        "url": "https://olantours.weebly.com/contacto-128222.html",
+        "phone": "+506 8432 7439"
+      },
+      {
+        "name": "Ticos A Pata · запись и трансфер",
+        "source": "ticosapata-public-contact",
+        "note": "Спросите дату, точку посадки, состав услуг, возраст и перенос при плохой погоде.",
+        "url": "https://wa.me/50688418076",
+        "phone": "+506 8841 8076",
+        "email": "info@ticosapata.com"
+      }
+    ],
+    "galleries": [
+      "olan-ticos-two-days",
+      "olan-qbl-report"
+    ],
+    "nearby": [
+      "olan-capilla-cloud-walk",
+      "olan-tinuk-summit-waterfall-24",
+      "olan-clouds-waterfall-4x4-2"
+    ],
+    "connectStops": false
+  },
+  "olan-tinuk-summit-waterfall-24": {
+    "stops": [
+      {
+        "point": "olan-tours-village",
+        "role": "Олан · район сбора",
+        "note": ""
+      },
+      {
+        "point": "olan-tinuk-summit",
+        "role": "Cerro Tinuk · вершина",
+        "note": "Гид подтверждает допустимый подход и порядок отрезков."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Нагрузка и варианты",
+        "text": "Программа Valhalla указывает 24 км. Полевой дневник июля 2026 показывает 23,31 км, около +2 000 м и почти 12 часов с остановками. Это ориентир для длинного варианта по горной части, конкретный текущий круг может отличаться.",
+        "sources": [
+          "olan-tinuk-valhalla",
+          "olan-tinuk-jul-2026"
+        ]
+      },
+      {
+        "title": "Допуск и время",
+        "text": "На карте стоят район встречи и вершина. Часть тропы ограничена частными землями. Проводник уточняет разрешение, водопад, точку старта и выезд. Если склон мокрый или группа отстаёт, сократите маршрут по решению гида.",
+        "sources": [
+          "olan-east-tinuk-osm",
+          "olan-tours-contact",
+          "olan-tinuk-valhalla"
+        ]
+      },
+      {
+        "title": "Подготовка",
+        "text": "Возьмите фонарь, перчатки, палки, сцепляющуюся обувь, ветровку и водонепроницаемую упаковку. Для проезда 4×4 уточняйте встречу в Буэнос-Айресе или местной точке.",
+        "sources": [
+          "olan-tinuk-valhalla",
+          "olan-buenos-aires-plan"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Olán Tours · местная команда",
+        "source": "olan-tours-contact",
+        "note": "Уточните местный 4×4, навигацию на день выезда, ночлег и открытые тропы.",
+        "url": "https://olantours.weebly.com/contacto-128222.html",
+        "phone": "+506 8432 7439"
+      },
+      {
+        "name": "Valhalla Mountains Tours · длинный маршрут Tinuk",
+        "source": "olan-tinuk-valhalla",
+        "note": "Уточните актуальную дату и доступ на длинной ветке.",
+        "url": "https://valhallamodotapir.com/tours/tinuk-catarata-olan-capilla/"
+      }
+    ],
+    "galleries": [
+      "olan-tinuk-jul-2026",
+      "olan-tinuk-valhalla"
+    ],
+    "nearby": [
+      "olan-capilla-cloud-walk",
+      "olan-clouds-waterfall-4x4-2",
+      "oka-olan"
+    ],
+    "track": "olan-tinuk-jul-2026",
+    "connectStops": false
+  },
+  "olan-clouds-waterfall-4x4-2": {
+    "stops": [
+      {
+        "point": "olan-buenos-aires-town",
+        "role": "Буэнос-Айрес · район пересадки на 4×4",
+        "note": ""
+      },
+      {
+        "point": "olan-salitre-road",
+        "role": "Salitre · ориентир горной дороги",
+        "note": "Порядок подъезда согласуйте с местным водителем."
+      },
+      {
+        "point": "olan-tours-village",
+        "role": "Олан · район ночлега и сбора",
+        "note": ""
+      },
+      {
+        "point": "olan-capilla-building",
+        "role": "Часовня и сад",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два способа собрать поездку",
+        "text": "У Ticos A Pata объявлен выезд 26–27 декабря с автобусом из долины, местными 4×4 и приютом. Olán Tours может уточнить самостоятельный план, дорогу и проводников. Части дороги проходят рядом с поселениями, поэтому срочные изменения маршрута лучше обсудить с местной командой.",
+        "sources": [
+          "olan-ticos-two-days",
+          "olan-tours-contact",
+          "olan-buenos-aires-plan"
+        ]
+      },
+      {
+        "title": "Ночёвка и особые условия",
+        "text": "В программе указана общая комната, наличие двухместных комнат уточняйте. Состав питания подписан на странице неодинаково в разных частях, поэтому попросите полный перечень. Для костра уточните разрешённую зону и погоду.",
+        "sources": [
+          "olan-ticos-two-days",
+          "olan-qbl-report"
+        ]
+      },
+      {
+        "title": "Снаряжение и связь",
+        "text": "Лёгкая походная сумка, 1,5 л воды на человека для прогулки, сменные носки, обувь с протектором, фонарь и тёплый слой. Сохраните адрес, контакт и маршрут офлайн до подъезда в зону слабой связи.",
+        "sources": [
+          "olan-ticos-two-days",
+          "olan-hosts-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ticos A Pata · запись и трансфер",
+        "source": "ticosapata-public-contact",
+        "note": "Спросите дату, точку посадки, состав услуг, возраст и перенос при плохой погоде.",
+        "url": "https://wa.me/50688418076",
+        "phone": "+506 8841 8076",
+        "email": "info@ticosapata.com"
+      },
+      {
+        "name": "Olán Tours · местная команда",
+        "source": "olan-tours-contact",
+        "note": "Уточните местный 4×4, навигацию на день выезда, ночлег и открытые тропы.",
+        "url": "https://olantours.weebly.com/contacto-128222.html",
+        "phone": "+506 8432 7439"
+      },
+      {
+        "name": "Capilla de las Nubes · запись к хозяевам",
+        "source": "olan-hosts-2026",
+        "note": "Свяжитесь до въезда. В дни ремонта доступ к часовне и саду может меняться.",
+        "url": "https://wa.me/50683515782",
+        "phone": "+506 8351 5782"
+      }
+    ],
+    "galleries": [
+      "olan-ticos-two-days",
+      "olan-qbl-report"
+    ],
+    "videos": [
+      "olan-chapel-video"
+    ],
+    "nearby": [
+      "olan-capilla-cloud-walk",
+      "olan-el-sitio-local-waterfalls",
+      "olan-tinuk-summit-waterfall-24"
+    ],
+    "connectStops": false,
+    "line": "olan-town-4x4-road"
+  },
+  "montezuma-piedra-colorada-walk": {
+    "stops": [
+      {
+        "point": "montezuma-school-walk",
+        "role": "Выход к пляжной дороге",
+        "note": ""
+      },
+      {
+        "point": "montezuma-ylang-shore",
+        "role": "Берег у Ylang Ylang",
+        "note": ""
+      },
+      {
+        "point": "montezuma-piedra-beach",
+        "role": "Бухта Piedra Colorada",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейная прогулка",
+        "text": "Местный Vamos a Turistear описывает короткий подход от края посёлка. Приготовьте больше времени с детьми или при старте из центра. Если вода закрывает береговой проход, развернитесь до мокрых скал.",
+        "sources": [
+          "montezuma-piedra-vamos",
+          "montezuma-coast-ict-plan"
+        ]
+      },
+      {
+        "title": "У ручья",
+        "text": "Глубина и течение меняются после дождя и с приливом. В бухте нет дежурной службы, кафе и туалета. Наличие пресной воды в устье не делает её питьевой.",
+        "sources": [
+          "montezuma-piedra-vamos",
+          "montezuma-long-coast-vibes"
+        ]
+      },
+      {
+        "title": "Фото и дорога",
+        "text": "В видео виден отрезок от Ylang Ylang до Piedra Colorada. В письменном отчёте есть фотографии самой бухты и описан подъезд в Монтесуму через Кобано.",
+        "sources": [
+          "montezuma-piedra-video",
+          "montezuma-piedra-vamos"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ylang Ylang Beach Resort · береговой ориентир",
+        "source": "montezuma-ylang-contact",
+        "note": "Спросите условия визита в ресторан и последний участок открытой прибрежной дорожки.",
+        "url": "https://ylangylangbeachresort.com/"
+      }
+    ],
+    "galleries": [
+      "montezuma-piedra-vamos",
+      "montezuma-long-coast-vibes"
+    ],
+    "videos": [
+      "montezuma-piedra-video"
+    ],
+    "nearby": [
+      "montezuma-cocalito-tide-walk",
+      "montezuma",
+      "cabo-blanco-sueco"
+    ],
+    "photos": [
+      "montezuma-shore"
+    ],
+    "connectStops": false,
+    "line": "montezuma-piedra-osm-path"
+  },
+  "montezuma-cocalito-tide-walk": {
+    "stops": [
+      {
+        "point": "montezuma-school-walk",
+        "role": "Начало · выход к берегу",
+        "note": ""
+      },
+      {
+        "point": "montezuma-piedra-beach",
+        "role": "Короткий разворот у ручья",
+        "note": ""
+      },
+      {
+        "point": "montezuma-cocal-sector",
+        "role": "Район следующего пляжа, к Ромелии",
+        "note": ""
+      },
+      {
+        "point": "montezuma-cocalito-beach",
+        "role": "Район дальнего пляжа и Эль-Чорро",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "По времени прилива",
+        "text": "В отчёте Costa Rica Vibes прогулка с остановками занимает три–четыре часа. Линия на карте показывает один конец от школы до дальнего пляжа. Уточните низкую воду и возвращайтесь с запасом. Если берег перекрыт волной, не обходите мыс по мокрым скалам.",
+        "sources": [
+          "montezuma-long-coast-vibes",
+          "montezuma-cocalito-sally"
+        ]
+      },
+      {
+        "title": "Короткий вариант со стороны Tango Mar",
+        "text": "Путешественники Two Weeks in Costa Rica подъехали по грунтовке со стороны Tango Mar и спустились к обзорным скалам. До поездки проверьте место стоянки, разрешённый проход и текущий уровень моря.",
+        "sources": [
+          "montezuma-cocalito-short-field",
+          "montezuma-cocalito-sally"
+        ]
+      },
+      {
+        "title": "Охраняемая полоса",
+        "text": "В районе Ромелии проводят мониторинг морских черепах. Оставайтесь на открытых обозначенных проходах и не уходите на огороженные участки. Днём возьмите запас воды, солнцезащиту, обувь для влажной тропы и сумку для мусора.",
+        "sources": [
+          "montezuma-coast-ict-plan",
+          "montezuma-romelia-sinac",
+          "montezuma-long-coast-vibes"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ylang Ylang Beach Resort · береговой ориентир",
+        "source": "montezuma-ylang-contact",
+        "note": "Спросите условия визита в ресторан и последний участок открытой прибрежной дорожки.",
+        "url": "https://ylangylangbeachresort.com/"
+      }
+    ],
+    "galleries": [
+      "montezuma-cocalito-sally",
+      "montezuma-long-coast-vibes",
+      "montezuma-cocalito-short-field"
+    ],
+    "videos": [
+      "montezuma-cocalito-video",
+      "montezuma-piedra-video"
+    ],
+    "nearby": [
+      "montezuma-piedra-colorada-walk",
+      "cabo-blanco-sueco"
+    ],
+    "photos": [
+      "montezuma-playa-grande",
+      "montezuma-shore"
+    ],
+    "track": "montezuma-coastal-trail-map",
+    "connectStops": false,
+    "line": "montezuma-cocalito-osm-path"
+  },
+  "bijagua-heliconias-bridges": {
+    "stops": [
+      {
+        "point": "bijagua-heliconias-lodge",
+        "role": "Heliconias · район начала прогулки",
+        "note": ""
+      },
+      {
+        "point": "bijagua-heliconias-trail-point",
+        "role": "Ориентир на нанесённой лесной петле",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Петля по мостам",
+        "text": "Bijagua Nature Tours и Bijagua Rainforest Tours описывают вариант примерно на 2,5 км. Hideaway Río Celeste указывает экскурсию на 3,1 км. На карте нанесена лесная петля около 1,9 км. Уточните программу по билету и какие подходы входят в длину прогулки.",
+        "sources": [
+          "bijagua-heliconias-nature",
+          "bijagua-heliconias-hike",
+          "bijagua-heliconias-hideaway",
+          "bijagua-heliconias-osm-trail"
+        ]
+      },
+      {
+        "title": "Проводник и ночлег",
+        "text": "Гостевой комплекс публикует номера и прогулки с осмотром птиц. Для утреннего наблюдения можно остаться рядом, а ранний выход и размер группы согласовать отдельно.",
+        "sources": [
+          "bijagua-heliconias-owner",
+          "bijagua-heliconias-nature"
+        ]
+      },
+      {
+        "title": "Как выглядит тропа",
+        "text": "Видео мая 2024 года показывает конструкцию мостов и влажный лес. Длину, действующий вход и состояние настила проверяют на день визита.",
+        "sources": [
+          "bijagua-heliconias-field-video",
+          "bijagua-heliconias-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Heliconias Rainforest Lodge · мосты и жильё",
+        "source": "bijagua-heliconias-nature",
+        "note": "Уточните открытые мосты, возможность самостоятельного посещения, номер на ночь, часы и дорогу.",
+        "url": "https://heliconiascr.com/",
+        "phone": "+506 2466 8483"
+      },
+      {
+        "name": "Bijagua Nature Tours · местный проводник",
+        "source": "bijagua-heliconias-nature",
+        "note": "Подберёт вариант похода на мосты, ночную прогулку или выезд с детьми.",
+        "url": "https://wa.me/50683149784",
+        "phone": "+506 8314 9784"
+      }
+    ],
+    "galleries": [
+      "bijagua-heliconias-owner",
+      "bijagua-heliconias-nature"
+    ],
+    "videos": [
+      "bijagua-heliconias-field-video"
+    ],
+    "nearby": [
+      "bijagua-tapir-valley-night",
+      "bijagua-forest-bridges-night-2",
+      "tenorio-celeste"
+    ],
+    "connectStops": false,
+    "line": "bijagua-heliconias-osm-loop"
+  },
+  "bijagua-tapir-valley-night": {
+    "stops": [
+      {
+        "point": "bijagua-tapir-area",
+        "role": "Район резервата Tapir Valley",
+        "note": "При записи попросите точку встречи на рецепции, карта показывает окрестность."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Формат прогулки",
+        "text": "У оператора группа до восьми человек. Гид определяет тропу по условиям воды, грязи и активности животных. Для более раннего возвращения спросите про отдельную утреннюю прогулку.",
+        "sources": [
+          "bijagua-tapir-night-official",
+          "bijagua-tapir-local-guide"
+        ]
+      },
+      {
+        "title": "Что выдают",
+        "text": "В программе указаны фонари и резиновые сапоги. Возьмите носки, тонкую куртку, закрытую одежду, воду и репеллент. Попросите объяснить правила использования света и съёмки в лесу.",
+        "sources": [
+          "bijagua-tapir-night-official",
+          "bijagua-tapir-visit-contact"
+        ]
+      },
+      {
+        "title": "Полевой опыт",
+        "text": "В отзывах есть рассказы о встречах с тапирами, лягушками и о подходе проводников. Некоторые группы животных не увидели. Въезд и связь различаются, сохраните координаты и номер офлайн.",
+        "sources": [
+          "bijagua-tapir-traveller-reports",
+          "bijagua-tapir-platform-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tapir Valley Nature Reserve · запись и сбор",
+        "source": "bijagua-tapir-visit-contact",
+        "note": "Уточните GPS-пин рецепции, размер детской обуви, возраст, вечерний трансфер и погоду.",
+        "url": "https://wa.me/50686101608",
+        "phone": "+506 8610 1608",
+        "email": "info@tapirvalley.com"
+      },
+      {
+        "name": "Bijagua Nature Tours · местный проводник",
+        "source": "bijagua-heliconias-nature",
+        "note": "Подберёт вариант похода на мосты, ночную прогулку или выезд с детьми.",
+        "url": "https://wa.me/50683149784",
+        "phone": "+506 8314 9784"
+      }
+    ],
+    "galleries": [
+      "bijagua-tapir-night-official",
+      "bijagua-tapir-local-guide"
+    ],
+    "videos": [
+      "bijagua-tapir-platform-video"
+    ],
+    "nearby": [
+      "bijagua-heliconias-bridges",
+      "bijagua-forest-bridges-night-2",
+      "tenorio-celeste"
+    ],
+    "connectStops": false
+  },
+  "bijagua-forest-bridges-night-2": {
+    "stops": [
+      {
+        "point": "bijagua-centre-visitors",
+        "role": "Бихагуа · посёлок и пополнение запасов",
+        "note": ""
+      },
+      {
+        "point": "bijagua-heliconias-lodge",
+        "role": "День 1 · мосты и возможная ночёвка",
+        "note": ""
+      },
+      {
+        "point": "bijagua-tapir-area",
+        "role": "День 1 · район вечернего выхода",
+        "note": ""
+      },
+      {
+        "point": "tenorio-pilon-entry",
+        "role": "День 2 · район входа в Теньорио",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Темп семьи",
+        "text": "Мосты и ночной лес можно распределить на разные часы. Для младших детей оставьте один выход в день. В обед предусмотрите время обратно к машине и сухую обувь.",
+        "sources": [
+          "bijagua-heliconias-nature",
+          "bijagua-tapir-night-official"
+        ]
+      },
+      {
+        "title": "Разные входы",
+        "text": "У каждой прогулки свой оператор и своё время. На вечер просите точный пин встречи у Tapir Valley, на следующий день подтвердите билет и открытые тропы Теньорио.",
+        "sources": [
+          "bijagua-heliconias-owner",
+          "bijagua-tapir-visit-contact",
+          "bijagua-katira-ict"
+        ]
+      },
+      {
+        "title": "Экипировка и дождь",
+        "text": "Пригодятся запасные носки, непромокаемая сумка, вода, бинокль и лёгкая куртка. На ночном выходе выдают фонари и сапоги. Берите одежду и обувь по погоде, а не по календарному сезону.",
+        "sources": [
+          "bijagua-tapir-night-official",
+          "bijagua-heliconias-hike"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Heliconias Rainforest Lodge · мосты и жильё",
+        "source": "bijagua-heliconias-nature",
+        "note": "Уточните открытые мосты, возможность самостоятельного посещения, номер на ночь, часы и дорогу.",
+        "url": "https://heliconiascr.com/",
+        "phone": "+506 2466 8483"
+      },
+      {
+        "name": "Tapir Valley Nature Reserve · запись и сбор",
+        "source": "bijagua-tapir-visit-contact",
+        "note": "Уточните GPS-пин рецепции, размер детской обуви, возраст, вечерний трансфер и погоду.",
+        "url": "https://wa.me/50686101608",
+        "phone": "+506 8610 1608",
+        "email": "info@tapirvalley.com"
+      },
+      {
+        "name": "Bijagua Nature Tours · местный проводник",
+        "source": "bijagua-heliconias-nature",
+        "note": "Подберёт вариант похода на мосты, ночную прогулку или выезд с детьми.",
+        "url": "https://wa.me/50683149784",
+        "phone": "+506 8314 9784"
+      }
+    ],
+    "galleries": [
+      "bijagua-heliconias-nature",
+      "bijagua-tapir-night-official"
+    ],
+    "videos": [
+      "bijagua-heliconias-field-video",
+      "bijagua-tapir-platform-video"
+    ],
+    "nearby": [
+      "bijagua-heliconias-bridges",
+      "bijagua-tapir-valley-night",
+      "rio-celeste-tubing"
+    ],
+    "connectStops": false
+  },
+  "copey-cumbres-local-loop-10": {
+    "stops": [
+      {
+        "point": "copey-canon-village",
+        "role": "Канъон · район встречи",
+        "note": "Ферма находится за пределами посёлка. Уточните место парковки у местного контакта."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три варианта",
+        "text": "Свежая запись показывает 10,08 км и +528 м. В более раннем видео описан другой круг примерно на 12 км. Для данного круга автор указал три часа движения и около пяти с половиной часов целиком.",
+        "sources": [
+          "copey-cumbres-walk-aug-2026",
+          "copey-cumbres-field-video"
+        ]
+      },
+      {
+        "title": "Доступ к ферме",
+        "text": "Тропы принадлежат частному хозяйству. Согласуйте гид, плату и транспорт на день посещения. По репортажу ферма находится примерно в двух километрах от Канъона.",
+        "sources": [
+          "copey-cumbres-report",
+          "copey-canon-geo"
+        ]
+      },
+      {
+        "title": "Подготовка",
+        "text": "Для холмистой тропы возьмите обувь с протектором, тёплую куртку, дождевик, воду и перекус. Сохраните контакт и карту без сети. Состояние мокрых спусков подтвердите у проводника.",
+        "sources": [
+          "copey-cumbres-report",
+          "copey-cumbres-walk-aug-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cumbres de Copey · местный контакт",
+        "source": "copey-cumbres-field-video",
+        "note": "Сведения из полевых отчётов. Уточните, действуют ли номер, сопровождающий и место встречи.",
+        "url": "https://wa.me/50686680363",
+        "phone": "+506 8668 0363"
+      },
+      {
+        "name": "Ticos A Pata · запись и трансфер",
+        "source": "ticosapata-public-contact",
+        "note": "Спросите дату, точку посадки, состав услуг, возраст и перенос при плохой погоде.",
+        "url": "https://wa.me/50688418076",
+        "phone": "+506 8841 8076",
+        "email": "info@ticosapata.com"
+      }
+    ],
+    "galleries": [
+      "copey-cumbres-walk-aug-2026",
+      "copey-cumbres-report"
+    ],
+    "videos": [
+      "copey-cumbres-field-video"
+    ],
+    "nearby": [
+      "copey-geminids-2026-night",
+      "finca-san-antonio-copey",
+      "vueltas-lodge-camp-dota"
+    ],
+    "track": "copey-cumbres-walk-aug-2026",
+    "connectStops": false
+  },
+  "copey-geminids-2026-night": {
+    "stops": [
+      {
+        "point": "san-jose-morazan-bus-area",
+        "role": "Parque Morazán · один из районов посадки",
+        "note": ""
+      },
+      {
+        "point": "copey-canon-village",
+        "role": "Канъон · район наблюдения",
+        "note": "Конкретная площадка у Cumbres de Copey, трансфер формирует организатор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Вечер и транспорт",
+        "text": "Ночной рейс 12–13 декабря с окончанием после полуночи. При записи выберите опубликованную остановку. Попросите подтвердить, где можно оставить машину и как уезжать после возвращения.",
+        "sources": [
+          "copey-geminids-ticos"
+        ]
+      },
+      {
+        "title": "Ожидания от неба",
+        "text": "NASA указывает максимум 13–14 декабря. Программа 12 декабря попадает в период активности, а видимость зависит от облаков, тумана и горизонта.",
+        "sources": [
+          "copey-geminids-nasa",
+          "copey-geminids-ticos"
+        ]
+      },
+      {
+        "title": "Горная ночь",
+        "text": "Возьмите тёплую одежду, сухую обувь, коврик или складной стул, воду и запасной источник питания для фонаря. Уточните наличие еды и действующие правила площадки.",
+        "sources": [
+          "copey-geminids-ticos",
+          "copey-cumbres-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ticos A Pata · запись и трансфер",
+        "source": "ticosapata-public-contact",
+        "note": "Спросите дату, точку посадки, состав услуг, возраст и перенос при плохой погоде.",
+        "url": "https://wa.me/50688418076",
+        "phone": "+506 8841 8076",
+        "email": "info@ticosapata.com"
+      }
+    ],
+    "galleries": [
+      "copey-cumbres-report",
+      "copey-geminids-nasa"
+    ],
+    "nearby": [
+      "copey-cumbres-local-loop-10",
+      "finca-san-antonio-copey"
+    ],
+    "connectStops": false
+  },
+  "sukia-111-la-ruta-2027": {
+    "stops": [
+      {
+        "point": "gfzs-naranjito-pass",
+        "role": "Наранхито · район стартового поля",
+        "note": ""
+      },
+      {
+        "point": "camino-gpx-stop-naranjillo",
+        "role": "Наранхильо-де-Дота · ориентир района маршрута",
+        "note": ""
+      },
+      {
+        "point": "gfzs-londres-pass",
+        "role": "Лондрес · ориентир подхода после Серро-Нара",
+        "note": ""
+      },
+      {
+        "point": "quepos-center",
+        "role": "Кепос · район финиша у берега",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Районы трассы",
+        "text": "По описанию организатора маршрут проходит через Наранхито, Наранхильо-де-Дота, Reserva Forestal Los Santos, Серро-Нара и Лондрес. Точное прохождение и список контрольных пунктов уточняют по официальному GPX.",
+        "sources": [
+          "sukia-cr200-program"
+        ]
+      },
+      {
+        "title": "Экипировка и допуск",
+        "text": "Среди заявленных требований справка от врача, GPS с актуальным треком, фонарь с запасом питания, красный сигнальный огонь, дождевик, аварийное укрытие и гидратация на 3 л. Сверьте весь перечень и правила сопровождения по регламенту.",
+        "sources": [
+          "sukia-cr200-program"
+        ]
+      },
+      {
+        "title": "Организованный доступ",
+        "text": "Финиш до утра 24 апреля. Лимиты и порядок схода заданы в правилах. Тренировочные условия согласуют отдельно. Связь с общим коридором El Camino помогает ориентироваться в регионе.",
+        "sources": [
+          "sukia-cr200-program",
+          "sukia-camino-context"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Оргкомитет Costa Rica 200 и 111K",
+        "source": "sukia-cr200-program",
+        "note": "Подтвердите расписание, регламент, предгоночную выдачу GPX и трансфер отдельно от регистрации.",
+        "url": "https://www.sentircostarica.com/costa-rica-200",
+        "email": "info@costarica200.com"
+      }
+    ],
+    "galleries": [
+      "sukia-cr200-program"
+    ],
+    "nearby": [
+      "costa-rica-200-ocean-ultra-2027",
+      "el-camino-etapa-16"
+    ],
+    "track": "sukia-cr200-program",
+    "connectStops": false
+  },
+  "costa-rica-200-ocean-ultra-2027": {
+    "stops": [
+      {
+        "point": "parismina",
+        "role": "Парисмина · район морской логистики к старту",
+        "note": ""
+      },
+      {
+        "point": "transtica-san-pablo-tres-equis",
+        "role": "Трес-Экис · ориентир района одного из пунктов отдыха",
+        "note": ""
+      },
+      {
+        "point": "quepos-center",
+        "role": "Кепос · район финиша",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "География и длительность",
+        "text": "Маршрут во многом следует коридору El Camino de Costa Rica и содержит отдельные отрезки соревнования. В программе заявлены набор свыше 15 000 м, время 125 часов и место финиша в районе Кепоса. На карте указаны только подтверждённые районы.",
+        "sources": [
+          "sukia-cr200-program",
+          "camino-maram-gpx-library"
+        ]
+      },
+      {
+        "title": "Пункты отдыха и сход",
+        "text": "В правилах названы Finca Tres Equis, Río Macho, Mirador Buena Vista и Rancho Tinamus. На каждом предусмотрен ограниченный отдых. Детали подвоза сумок, собственную группу поддержки и порядок выхода с дистанции согласуйте с организатором.",
+        "sources": [
+          "sukia-cr200-program"
+        ]
+      },
+      {
+        "title": "Тип участия",
+        "text": "Есть требование к предыдущим результатам и медицинской справке. Навигацию и обязательные позиции снаряжения проверяют по актуальному регламенту. Прогулочные этапы Asociación Mar a Mar доступны отдельно по их правилам.",
+        "sources": [
+          "sukia-cr200-program",
+          "sukia-camino-context"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Оргкомитет Costa Rica 200 и 111K",
+        "source": "sukia-cr200-program",
+        "note": "Подтвердите расписание, регламент, предгоночную выдачу GPX и трансфер отдельно от регистрации.",
+        "url": "https://www.sentircostarica.com/costa-rica-200",
+        "email": "info@costarica200.com"
+      }
+    ],
+    "galleries": [
+      "sukia-cr200-program"
+    ],
+    "nearby": [
+      "sukia-111-la-ruta-2027",
+      "el-camino-crossing",
+      "el-camino-etapa-16"
+    ],
+    "track": "sukia-cr200-program",
+    "connectStops": false
+  }
+}
