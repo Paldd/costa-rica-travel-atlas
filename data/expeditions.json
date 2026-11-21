@@ -3688,5 +3688,355 @@
         ]
       }
     ]
+  },
+  {
+    "id": "papagayo-family-water-3",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Папагайо на 3 дня · катамаран, SUP и семейные пляжи",
+    "native": "Playas del Coco · Playa Hermosa · Playa Panamá · Nacascolo · Marina Papagayo",
+    "level": "easy",
+    "days": 3,
+    "activities": [
+      "multi",
+      "catamaran",
+      "boat",
+      "sup",
+      "kayak",
+      "snorkel",
+      "beach",
+      "cafe",
+      "relax",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "marlin-coco-catamaran-direct",
+      "marlin-coco-departure-faq",
+      "pura-paddle-hermosa-papagayo",
+      "playa-panama-culebra-gps",
+      "papagayo-marina-own-listing",
+      "nacascolo-parking-and-shuttle",
+      "papagayo-priv-charter-contact"
+    ],
+    "distance": null,
+    "summary": "Три разных формата воды с одной базой в Coco или Hermosa. Катамаран с пляжа, SUP и береговые остановки, отдельный день на полуострове.",
+    "plan": "Первый день оставьте Coco, второй — SUP у Hermosa и берег Panamá. На третий день проверьте шаттл в Накасколо либо посадку частного рейса в марине.",
+    "conditions": "С детьми заранее проверьте мокрую посадку, продумайте береговую альтернативу и согласуйте подходящие жилеты.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Coco · пляжная посадка и катамаран",
+        "note": "Подтвердите пин на пляже и пересадку через прибой. С детьми можно выбрать береговой день и сместить морскую программу на причал третьего дня.",
+        "stops": [
+          "coco-marlin-catamaran"
+        ],
+        "sources": [
+          "marlin-coco-catamaran-direct",
+          "marlin-coco-departure-faq",
+          "marlin-coco-local-guide-pickup"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Эрмоса · SUP и остановка в бухте Кулебра",
+        "note": "Договоритесь о гребле по ветру и уровню группы. Днём оставьте время на обед у берега и заезд в Playa Panamá.",
+        "stops": [
+          "hermosa-pura-paddle",
+          "hermosa-julio-local-boat",
+          "panama-culebra-beach"
+        ],
+        "sources": [
+          "pura-paddle-hermosa-papagayo",
+          "aquasport-hermosa-rest-stop",
+          "playa-panama-culebra-gps"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Накасколо или катамаран с согласованным причалом",
+        "note": "Для пляжа начните с общественной парковки и шаттла. Если день посвящён частному рейсу, уточните конкретный причал и доступ к марине.",
+        "stops": [
+          "nacascolo-public-beach",
+          "papagayo-private-catamaran"
+        ],
+        "sources": [
+          "nacascolo-parking-and-shuttle",
+          "nacascolo-public-entry-photo-notes",
+          "papagayo-priv-charter-contact",
+          "papagayo-marina-own-listing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "flamingo-catalinas-water-2",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Фламинго и Лас-Каталинас на выходные · посадка с причала, SUP и Дантита",
+    "native": "Brasilito · Marina Flamingo · Potrero · Playa Danta · Playa Dantita",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "multi",
+      "catamaran",
+      "boat",
+      "sup",
+      "kayak",
+      "snorkel",
+      "hiking",
+      "beach",
+      "white-sand",
+      "cafe",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "panache-flamingo-catamaran",
+      "panache-flamingo-boarding",
+      "lazy-lizard-flamingo-morning",
+      "marina-flamingo-official-entrance",
+      "las-catalinas-danta-visit-direct",
+      "puravidaride-danta-paddle-coffee",
+      "dantita-low-path-firsthand"
+    ],
+    "distance": null,
+    "summary": "Один день с катамараном из марины и один у Данта, с прокатом на воде, кофе и коротким пешим подходом к Дантите.",
+    "plan": "Начните в районе Brasilito или Flamingo, получите причал по ваучеру. Второй день посвятите Данта, либо проедьте в Las Catalinas через Potrero.",
+    "conditions": "Позвоните заранее насчёт посадки, детских жилетов и лодочной остановки. SUP и береговую тропу подберите по ветру, волне и покрытию.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Брасилито и катамаран из Marina Flamingo",
+        "note": "При совпадении времени начните с берега. Затем подъезжайте к указанному в ваучере причалу. Выбирайте один катамаран с учётом места посадки и времени.",
+        "stops": [
+          "flamingo-marina-catamarans",
+          "flamingo"
+        ],
+        "sources": [
+          "panache-flamingo-catamaran",
+          "lazy-lizard-flamingo-morning",
+          "marina-flamingo-official-entrance"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Потреро, Данта и Дантита",
+        "note": "От парковки пройдите к прокату. Выберите SUP или каяк, подберите время в тихой воде с местной командой и оставьте время на Дантиту.",
+        "stops": [
+          "catalinas-sup",
+          "dantita-shore-walk"
+        ],
+        "sources": [
+          "puravidaride-danta-paddle-coffee",
+          "las-catalinas-danta-visit-direct",
+          "dantita-low-path-firsthand",
+          "lascatalinas-danta-dantita-kayak"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "puntarenas-nicoya-islands-3",
+    "kind": "trip",
+    "region": "nicoya",
+    "regions": [
+      "centralpac"
+    ],
+    "title": "Залив Никоя за 3 дня · Сан-Лукас, паром и катамаран из Тамбора",
+    "native": "Puntarenas · Isla San Lucas · Paquera · Curú · Tambor · Isla Tortuga",
+    "level": "easy",
+    "days": 3,
+    "activities": [
+      "multi",
+      "boat",
+      "catamaran",
+      "history",
+      "snorkel",
+      "forest",
+      "hiking",
+      "beach",
+      "white-sand",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "public",
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "sinac-isla-san-lucas-access",
+      "sinac-san-lucas-bookings",
+      "cocos-tours-san-lucas-local",
+      "paquera-ferry-live",
+      "curu-refuge-official",
+      "majestic-tambor-isla-tortuga",
+      "ict-isla-tortuga-field"
+    ],
+    "summary": "Три разных выхода на воду с переездом через залив. Сан-Лукас с гидом, автомобильный паром и Исла-Тортуга из Тамбора.",
+    "plan": "Первая ночь в Пунтаренасе, вторая в Тамборе. Планируйте отдельно островный билет, регулярный паром и катамаран.",
+    "conditions": "Сверьте посадку, час прихода парома, перевозку машины, трансфер из Paquera и доступ в Куру. Для двух островных дней предусмотрите запас по состоянию моря.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сан-Лукас · историческая зона с местным гидом",
+        "note": "Уточните лодку, билет и сбор. После возвращения можно остаться на ужин в районе El Carmen.",
+        "stops": [
+          "isla-san-lucas-local-boat"
+        ],
+        "sources": [
+          "sinac-san-lucas-bookings",
+          "cocos-tours-san-lucas-local",
+          "cocos-tours-puntarenas-embarkation",
+          "cocos-isla-bar-grill-puntarenas"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Паром в Пакеру, Куру по времени и ночь в Тамборе",
+        "note": "Проверьте актуальный рейс и категорию билета. Проедьте в Тамбор, по пути в Куру при наличии времени, транспорта и согласованного доступа.",
+        "stops": [
+          "curu-forest-coves",
+          "paquera-paddle-sup"
+        ],
+        "sources": [
+          "paquera-ferry-live",
+          "curu-refuge-official"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Тамбор → Исла-Тортуга · островной день",
+        "note": "Приезжайте к рыбацкому причалу по ваучеру The Majestic. Для возврата на материк сверяйте паром только после подтверждения времени обратной высадки.",
+        "stops": [
+          "tambor-tortuga-majestic"
+        ],
+        "sources": [
+          "majestic-tambor-isla-tortuga",
+          "ict-isla-tortuga-field",
+          "paquera-ferry-live"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arenal-local-roof-paddle-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Озеро Ареналь на выходные · крыша в Тронадоре и своя лодка",
+    "native": "Tronadora · costa oeste del Lago Arenal · Nuevo Arenal · Parque del Lago",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "multi",
+      "camping",
+      "rooftent",
+      "own-craft",
+      "kayak",
+      "sup",
+      "lake",
+      "views",
+      "relax"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "camp-tronadora",
+      "tilaran-tronadora-peninsula",
+      "bahia-peninsula-tronadora-lake-alt",
+      "tilaran-lago-arenal-visitor-conditions",
+      "nuevo-arenal-ramp-locals-day",
+      "nuevo-arenal-ramp-town-field"
+    ],
+    "distance": null,
+    "summary": "Одна ночь в Тронадоре и отдельный подъезд к рампе Nuevo Arenal, с местом разгрузки и вариантом проката на востоке озера.",
+    "plan": "В первый день разместитесь в Тронадоре и уточните береговой спуск у хозяев. Во второй день приезжайте к Parque del Lago. Если погода не подходит, оставьте парк и смотровые.",
+    "conditions": "На озере бывает сильный ветер. Проверьте возврат к рампе, режим спуска и уровень воды. Для моторного судна и прицепа подтвердите условия отдельно.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Тронадора · ночёвка на берегу",
+        "note": "Заселитесь на согласованную площадку для крышной палатки. Для короткой прогулки по воде спросите доступ у кемпинга.",
+        "stops": [
+          "tronadora-roof"
+        ],
+        "sources": [
+          "camp-tronadora",
+          "tilaran-tronadora-peninsula",
+          "bahia-peninsula-tronadora-lake-alt"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Нуэво-Ареналь · местная рампа и выход по погоде",
+        "note": "Приезжайте к Parque del Lago и до разгрузки оцените ветер, рампу и обратный берег. Восточный прокат можно выбрать отдельным заездом, если там лучше условия.",
+        "stops": [
+          "nuevo-arenal-parque-lago-own",
+          "arenal-east-association-sup"
+        ],
+        "sources": [
+          "tilaran-lago-arenal-visitor-conditions",
+          "nuevo-arenal-ramp-town-field",
+          "nuevo-arenal-ramp-locals-day",
+          "arenal-boat-rental-association-pin"
+        ]
+      }
+    ]
   }
 ]

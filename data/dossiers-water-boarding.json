@@ -1,0 +1,1192 @@
+{
+  "coco-marlin-catamaran": {
+    "stops": [
+      {
+        "point": "playas-coco-harbor-beach",
+        "role": "Береговой ориентир · Playas del Coco",
+        "note": "Попросите координаты реального сбора. В описании одного рейса указан El Ancla."
+      },
+      {
+        "point": "hermosa-guanacaste-beach-approach",
+        "role": "Отдельный день · пляж Hermosa, Guanacaste",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как подойти к лодке",
+        "text": "Оператор указывает пляж Playas del Coco и посадку с панги. Придите в обуви, которую можно намочить, и попросите найти вашу группу по ваучеру. Дорогу до пляжа и часы сбора уточняйте под выбранный рейс.",
+        "sources": [
+          "marlin-coco-catamaran-direct",
+          "marlin-coco-departure-faq",
+          "marlin-coco-bay-meet-el-ancla"
+        ]
+      },
+      {
+        "title": "С детьми и без снорклинга",
+        "text": "Спросите о детском жилете, защите от солнца и возможности остаться на борту во время остановки. Наличие снорклинга и купания зависит от места якоря и условий. Точный участок выбирает капитан в день выезда.",
+        "sources": [
+          "marlin-coco-catamaran-direct",
+          "marlin-coco-local-guide-pickup",
+          "marlin-coco-departure-faq"
+        ]
+      },
+      {
+        "title": "Если нужен причал",
+        "text": "Для семьи с маленьким ребёнком, коляской или ограниченной подвижностью заранее запросите другой способ посадки. У частных операторов Папагайо можно отдельно согласовать посадку в марине.",
+        "sources": [
+          "papagayo-priv-charter-direct",
+          "papagayo-priv-charter-contact",
+          "marlin-coco-departure-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Marlin del Rey · Playas del Coco",
+        "source": "marlin-coco-catamaran-direct",
+        "note": "Попросите карту сбора, время и подходящий жилет. Уточните пересадку через прибой.",
+        "phone": "+506 2653 1212",
+        "url": "https://marlindelrey.com/sailing-tours/catamaran-tours-playas-del-coco/",
+        "email": "info@marlindelrey.com"
+      },
+      {
+        "name": "Sailing Papagayo",
+        "source": "papagayo-priv-charter-contact",
+        "note": "Подтвердите нужный катамаран, конкретный причал либо береговой сбор и нужные жилеты.",
+        "phone": "+506 8529 0732",
+        "url": "https://wa.me/50685290732",
+        "email": "info@sailingguanacaste.com"
+      }
+    ],
+    "nearby": [
+      "papagayo-private-catamaran",
+      "hermosa-pura-paddle",
+      "papagayo-family-water-3",
+      "tamarindo-catamaran"
+    ]
+  },
+  "hermosa-pura-paddle": {
+    "stops": [
+      {
+        "point": "hermosa-guanacaste-beach-approach",
+        "role": "Район встречи · Playa Hermosa de Guanacaste",
+        "note": "Точный сбор и прокат уточните у Pura Paddle."
+      },
+      {
+        "point": "panama-culebra-beach-access",
+        "role": "Соседний берег · Playa Panamá",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Программа по уровню",
+        "text": "Pura Paddle публикует занятия и выезды с гидом по бухтам Папагайо. Укажите, кто плавает, кто впервые гребёт и нужна ли постановка техники. Для группы разного уровня запросите короткий маршрут у берега.",
+        "sources": [
+          "pura-paddle-hermosa-papagayo",
+          "ict-papagayo-beaches-guide"
+        ]
+      },
+      {
+        "title": "Как встроить остановку с детьми",
+        "text": "На берегу Эрмосы есть Aquasport и другие точки питания. Для маленьких детей выделите время на песок и обед во время занятия. Согласуйте встречу группы после занятия у выбранного захода.",
+        "sources": [
+          "aquasport-hermosa-rest-stop",
+          "pura-paddle-hermosa-papagayo",
+          "ict-papagayo-beaches-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pura Paddle",
+        "source": "pura-paddle-hermosa-papagayo",
+        "note": "Согласуйте пляж, экипировку, возраст и место встречи. Если доска своя, сообщите инструктору.",
+        "url": "https://wa.me/message/WSMSHVZLMF74M1",
+        "email": "hello@purapaddle.com"
+      },
+      {
+        "name": "Hermosa Boat Trips · Хулио",
+        "source": "hermosa-julio-boats-contact",
+        "note": "Выберите снорклинг, рыбалку или рейс к сёрф-споту. Уточните спуск, лицензию и возраст.",
+        "phone": "+506 8658 0178",
+        "url": "https://wa.me/50686580178",
+        "email": "info@hermosaboattrips.com"
+      }
+    ],
+    "nearby": [
+      "hermosa-julio-local-boat",
+      "panama-culebra-beach",
+      "papagayo-family-water-3"
+    ]
+  },
+  "hermosa-julio-local-boat": {
+    "stops": [
+      {
+        "point": "hermosa-guanacaste-beach-approach",
+        "role": "Район сбора · Playa Hermosa",
+        "note": "Адрес посадки сообщит Хулио."
+      },
+      {
+        "point": "panama-culebra-beach-access",
+        "role": "Соседний пляж · Panamá",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать рейс",
+        "text": "У команды есть снорклинг, рыбалка и выезды для сёрферов. Для семейного дня начните с короткого маршрута и проверьте, где можно остановиться без выхода в открытую воду. Спросите, кто ведёт экскурсию и какие размеры есть у жилетов.",
+        "sources": [
+          "hermosa-boattrips-local-julio",
+          "hermosa-julio-boats-contact"
+        ]
+      },
+      {
+        "title": "Рыбалка и доступ",
+        "text": "Уточните район ловли, снасти, стоимость и порядок лицензии. При сильном ветре экипаж может изменить участок. Подтвердите действующее разрешение на выбранный выезд до оплаты.",
+        "sources": [
+          "hermosa-boattrips-local-julio",
+          "incopesca-sport-fishing",
+          "ict-papagayo-beaches-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hermosa Boat Trips · Хулио",
+        "source": "hermosa-julio-boats-contact",
+        "note": "Выберите снорклинг, рыбалку или рейс к сёрф-споту. Уточните спуск, лицензию и возраст.",
+        "phone": "+506 8658 0178",
+        "url": "https://wa.me/50686580178",
+        "email": "info@hermosaboattrips.com"
+      },
+      {
+        "name": "Pura Paddle",
+        "source": "pura-paddle-hermosa-papagayo",
+        "note": "Согласуйте пляж, экипировку, возраст и место встречи. Если доска своя, сообщите инструктору.",
+        "url": "https://wa.me/message/WSMSHVZLMF74M1",
+        "email": "hello@purapaddle.com"
+      }
+    ],
+    "nearby": [
+      "hermosa-pura-paddle",
+      "papagayo-private-catamaran",
+      "papagayo-family-water-3"
+    ]
+  },
+  "panama-culebra-beach": {
+    "stops": [
+      {
+        "point": "panama-culebra-beach-access",
+        "role": "Ориентир подъезда · Playa Panamá",
+        "note": ""
+      },
+      {
+        "point": "el-mangroove-panama-area",
+        "role": "Отдельный сбор · район El Mangroove",
+        "note": "Выходы с отельного берега по согласованному ваучеру."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как провести полдня",
+        "text": "Берег огибает южную часть Bahía Culebra. Первичный план для семей — прогулка, тень и время на берегу. В личном отчёте описаны более тихая обстановка и подъезд с трассы. На месте проверьте состояние берега и парковки.",
+        "sources": [
+          "ict-papagayo-beaches-guide",
+          "playa-panama-culebra-gps",
+          "playa-panama-firsthand-shore"
+        ]
+      },
+      {
+        "title": "Посадка по записи",
+        "text": "Sailing Guanacaste публикует опцию встречи у El Mangroove для некоторых частных туров. Попросите подтвердить пин, фактический пляж и способ пересадки. Для гарантированного причала согласуйте вариант в марине.",
+        "sources": [
+          "el-mangroove-panama-charter",
+          "papagayo-marina-own-listing",
+          "papagayo-priv-charter-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sailing Papagayo",
+        "source": "papagayo-priv-charter-contact",
+        "note": "Подтвердите нужный катамаран, конкретный причал либо береговой сбор и нужные жилеты.",
+        "phone": "+506 8529 0732",
+        "url": "https://wa.me/50685290732",
+        "email": "info@sailingguanacaste.com"
+      },
+      {
+        "name": "Pura Paddle",
+        "source": "pura-paddle-hermosa-papagayo",
+        "note": "Согласуйте пляж, экипировку, возраст и место встречи. Если доска своя, сообщите инструктору.",
+        "url": "https://wa.me/message/WSMSHVZLMF74M1",
+        "email": "hello@purapaddle.com"
+      }
+    ],
+    "nearby": [
+      "papagayo-private-catamaran",
+      "hermosa-pura-paddle",
+      "nacascolo-public-beach",
+      "papagayo-family-water-3"
+    ]
+  },
+  "papagayo-private-catamaran": {
+    "stops": [
+      {
+        "point": "papagayo-marina-parking",
+        "role": "Подъезд · Marina Papagayo",
+        "note": "Номер причала и пропуск для машины уточняет чартер."
+      },
+      {
+        "point": "el-mangroove-panama-area",
+        "role": "Другой вариант посадки · Playa Panamá, El Mangroove",
+        "note": "Сбор с пляжа согласуется отдельно."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Условия на борту",
+        "text": "Sailing Papagayo публикует частные рейсы и оборудование для снорклинга и SUP. Для ребёнка уточните размер жилета, высоту ступенек, тень и туалет на конкретном судне. Заодно заранее обсудите пищевые ограничения группы.",
+        "sources": [
+          "papagayo-priv-charter-direct",
+          "papagayo-priv-charter-contact"
+        ]
+      },
+      {
+        "title": "Причал и пляжная пересадка",
+        "text": "Марина находится на полуострове, а Playa Panamá лежит на другом берегу бухты. По берегу между ними отдельный автомобильный переезд. Вариант у отеля уточняйте как отдельное место посадки, чтобы не перепутать маршруты.",
+        "sources": [
+          "papagayo-marina-own-listing",
+          "ict-papagayo-beaches-guide",
+          "el-mangroove-panama-charter"
+        ]
+      },
+      {
+        "title": "Ветер и изменения курса",
+        "text": "Спросите о запасном маршруте и порядке переноса. Капитан решает, к каким бухтам можно подойти и где безопаснее спустить доску. Общее направление на карте помогает планировать трансфер и сбор.",
+        "sources": [
+          "papagayo-priv-charter-direct",
+          "papagayo-priv-charter-contact",
+          "papagayo-marina-own-listing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sailing Papagayo",
+        "source": "papagayo-priv-charter-contact",
+        "note": "Подтвердите нужный катамаран, конкретный причал либо береговой сбор и нужные жилеты.",
+        "phone": "+506 8529 0732",
+        "url": "https://wa.me/50685290732",
+        "email": "info@sailingguanacaste.com"
+      }
+    ],
+    "nearby": [
+      "panama-culebra-beach",
+      "nacascolo-public-beach",
+      "coco-marlin-catamaran",
+      "papagayo-family-water-3"
+    ]
+  },
+  "nacascolo-public-beach": {
+    "stops": [
+      {
+        "point": "nacascolo-public-parking",
+        "role": "Парковка и посадка · Acceso Público Playas",
+        "note": "Общественный подъезд у развилки полуострова."
+      },
+      {
+        "point": "nacascolo-papagayo-beach",
+        "role": "Пляж · Nacascolo",
+        "note": "Дальнейший подход уточните у водителя шаттла."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Порядок въезда",
+        "text": "Фотоотчёты описывают общую парковку и посадку на шаттл к нескольким пляжам. Назовите водителю Nacascolo. Уточните последний обратный рейс, режим парковки и время ожидания в выходные.",
+        "sources": [
+          "nacascolo-parking-and-shuttle",
+          "nacascolo-public-entry-photo-notes"
+        ]
+      },
+      {
+        "title": "Что взять на берег",
+        "text": "Оставьте воду, перекус и лёгкую обувь на короткий подход. Условия у берега меняются с ветром и приливом. Свою доску планируйте только после согласования габаритов с перевозчиком.",
+        "sources": [
+          "nacascolo-parking-and-shuttle",
+          "nacascolo-public-entry-photo-notes",
+          "ict-papagayo-beaches-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Путеводитель подъезда в Накасколо",
+        "source": "nacascolo-parking-and-shuttle",
+        "note": "Карта парковки, остановка шаттла и фотографии подхода.",
+        "url": "https://www.twoweeksincostarica.com/playa-nacascolo/"
+      }
+    ],
+    "nearby": [
+      "papagayo-private-catamaran",
+      "panama-culebra-beach",
+      "papagayo-family-water-3"
+    ]
+  },
+  "papagayo-family-water-3": {
+    "stops": [
+      {
+        "point": "playas-coco-harbor-beach",
+        "role": "День 1 · район посадки Coco",
+        "note": ""
+      },
+      {
+        "point": "hermosa-guanacaste-beach-approach",
+        "role": "Дни 1 и 2 · Эрмоса и встреча с Pura Paddle",
+        "note": ""
+      },
+      {
+        "point": "panama-culebra-159-approach",
+        "role": "Дни 2 и 3 · подъезд по Vía 159",
+        "note": ""
+      },
+      {
+        "point": "panama-culebra-beach-access",
+        "role": "День 2 · берег Playa Panamá",
+        "note": ""
+      },
+      {
+        "point": "nacascolo-public-parking",
+        "role": "День 3 · парковка шаттла",
+        "note": ""
+      },
+      {
+        "point": "nacascolo-papagayo-beach",
+        "role": "День 3 · пляж Накасколо",
+        "note": ""
+      },
+      {
+        "point": "papagayo-marina-parking",
+        "role": "День 3 · вариант с частным катамараном",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор для маленьких детей",
+        "text": "На Coco катамаран принимает гостей после пляжной пересадки. Если группа с коляской или ребёнку неудобно заходить в прибой, уточните посадку с причала либо запланируйте берег. У SUP отдельные условия доступа и экипировки.",
+        "sources": [
+          "marlin-coco-departure-faq",
+          "papagayo-priv-charter-contact",
+          "pura-paddle-hermosa-papagayo"
+        ]
+      },
+      {
+        "title": "Логистика на полуострове",
+        "text": "От Panama до общественной парковки и марины едут вокруг бухты. Выберите одну основную программу на третий день и проверьте время доступа. В карту внесены сухопутный маршрут и точка выхода шаттла.",
+        "sources": [
+          "ict-papagayo-beaches-guide",
+          "nacascolo-parking-and-shuttle",
+          "papagayo-marina-own-listing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Marlin del Rey · Playas del Coco",
+        "source": "marlin-coco-catamaran-direct",
+        "note": "Попросите карту сбора, время и подходящий жилет. Уточните пересадку через прибой.",
+        "phone": "+506 2653 1212",
+        "url": "https://marlindelrey.com/sailing-tours/catamaran-tours-playas-del-coco/",
+        "email": "info@marlindelrey.com"
+      },
+      {
+        "name": "Pura Paddle",
+        "source": "pura-paddle-hermosa-papagayo",
+        "note": "Согласуйте пляж, экипировку, возраст и место встречи. Если доска своя, сообщите инструктору.",
+        "url": "https://wa.me/message/WSMSHVZLMF74M1",
+        "email": "hello@purapaddle.com"
+      },
+      {
+        "name": "Hermosa Boat Trips · Хулио",
+        "source": "hermosa-julio-boats-contact",
+        "note": "Выберите снорклинг, рыбалку или рейс к сёрф-споту. Уточните спуск, лицензию и возраст.",
+        "phone": "+506 8658 0178",
+        "url": "https://wa.me/50686580178",
+        "email": "info@hermosaboattrips.com"
+      },
+      {
+        "name": "Sailing Papagayo",
+        "source": "papagayo-priv-charter-contact",
+        "note": "Подтвердите нужный катамаран, конкретный причал либо береговой сбор и нужные жилеты.",
+        "phone": "+506 8529 0732",
+        "url": "https://wa.me/50685290732",
+        "email": "info@sailingguanacaste.com"
+      }
+    ],
+    "nearby": [
+      "coco-marlin-catamaran",
+      "hermosa-pura-paddle",
+      "panama-culebra-beach",
+      "nacascolo-public-beach",
+      "papagayo-private-catamaran"
+    ],
+    "line": "papagayo-family-water-3"
+  },
+  "flamingo-marina-catamarans": {
+    "stops": [
+      {
+        "point": "flamingo-marina-shore-checkin",
+        "role": "Сбор перед выходом · вход Marina Flamingo",
+        "note": "Пришедший в ваучере номер причала имеет приоритет."
+      },
+      {
+        "point": "flamingo-marina-area",
+        "role": "Порт · зона причалов Marina Flamingo",
+        "note": ""
+      },
+      {
+        "point": "flamingo-playa-blanca",
+        "role": "Самостоятельная остановка · пляж Flamingo",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два местных оператора",
+        "text": "Panache публикует групповые и частные выезды из марины. Lazy Lizard предлагает утренний тур и закатный формат. Сравните место сбора, длительность остановки на воде и наличие закрытого пространства на судне.",
+        "sources": [
+          "panache-flamingo-catamaran",
+          "lazy-lizard-flamingo-morning",
+          "lazy-lizard-flamingo-contact"
+        ]
+      },
+      {
+        "title": "Приезд на машине",
+        "text": "У Panache есть информация о парковке для своего рейса. В марине просите схему пешего подхода от машины до причала, особенно с коляской. Если в подтверждении другой сбор, уточните, будет ли короткая пересадка на обычную лодку.",
+        "sources": [
+          "panache-flamingo-boarding",
+          "marina-flamingo-official-entrance",
+          "lazy-lizard-flamingo-contact"
+        ]
+      },
+      {
+        "title": "Условия для семьи",
+        "text": "В Panache публикуют меню для детей в частном формате. У обоих операторов спросите про жилеты, туалет, коляску и тень. Купание, SUP и остановку для снорклинга согласовывают по ветру.",
+        "sources": [
+          "panache-flamingo-boarding",
+          "lazy-lizard-flamingo-morning"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Panache Sailing",
+        "source": "panache-flamingo-catamaran",
+        "note": "Попросите номер причала, время, условия посадки для ребёнка и нужный размер жилета.",
+        "url": "https://panachesailing.com/contact-us-2/",
+        "email": "info@panachesailing.com"
+      },
+      {
+        "name": "Lazy Lizard Sailing",
+        "source": "lazy-lizard-flamingo-contact",
+        "note": "Укажите состав группы. Подтвердите утро или закат, парковку, пин сбора и тип причала.",
+        "phone": "+506 2654 5900",
+        "url": "https://lazylizardsailing.com/contact.html",
+        "email": "reservations@lazylizardsailing.com"
+      }
+    ],
+    "nearby": [
+      "flamingo",
+      "catalinas-sup",
+      "dantita-shore-walk",
+      "flamingo-catalinas-water-2"
+    ]
+  },
+  "dantita-shore-walk": {
+    "stops": [
+      {
+        "point": "pura-vida-ride",
+        "role": "Начало · Las Catalinas, Pura Vida Ride",
+        "note": ""
+      },
+      {
+        "point": "playa-danta",
+        "role": "Первая остановка · Playa Danta",
+        "note": ""
+      },
+      {
+        "point": "dantita-beach-low-trail",
+        "role": "Финиш · Playa Dantita",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать тропу",
+        "text": "В полевом отчёте отмечены две развилки. Береговой вариант короче, верхний вариант добавляет лесной подъём и виды. У поселения уточняйте, какой вход открыт и действует ли отдельный пропуск для сети троп.",
+        "sources": [
+          "dantita-low-path-firsthand",
+          "danta-dantita-ambling-report",
+          "las-catalinas-danta-visit-direct"
+        ]
+      },
+      {
+        "title": "Светлый берег и пауза",
+        "text": "Дантита меньше соседней Данта. В отдельный день можно подойти со стороны бухты с каяком при подходящих условиях и снаряжении. После прогулки у Pura Vida Ride есть кофейня и прокат на Данта.",
+        "sources": [
+          "dantita-low-path-firsthand",
+          "lascatalinas-danta-dantita-kayak",
+          "puravidaride-danta-paddle-coffee"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pura Vida Ride · Playa Danta",
+        "source": "puravidaride-danta-paddle-coffee",
+        "note": "Прокат, выдача жилетов, время на воду, состояние береговой тропы и часы кафе.",
+        "url": "https://www.puravidaride.com/"
+      }
+    ],
+    "nearby": [
+      "catalinas-sup",
+      "catalinas-emtb-12",
+      "flamingo-marina-catamarans",
+      "flamingo-catalinas-water-2"
+    ],
+    "line": "dantita-shore-approach"
+  },
+  "flamingo-catalinas-water-2": {
+    "stops": [
+      {
+        "point": "brasilito-village",
+        "role": "День 1 · Brasilito, посёлок",
+        "note": ""
+      },
+      {
+        "point": "flamingo-marina-shore-checkin",
+        "role": "День 1 · подъезд к причалу",
+        "note": ""
+      },
+      {
+        "point": "flamingo-marina-area",
+        "role": "День 1 · зона посадки Marina Flamingo",
+        "note": ""
+      },
+      {
+        "point": "potrero-village-water-loop",
+        "role": "День 2 · Potrero",
+        "note": ""
+      },
+      {
+        "point": "pura-vida-ride",
+        "role": "День 2 · прокат, кафе, берег Данта",
+        "note": ""
+      },
+      {
+        "point": "dantita-beach-low-trail",
+        "role": "День 2 · пляж Дантита",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как развести занятия по времени",
+        "text": "Если бронируете утренний катамаран, береговая прогулка подойдёт на вечер. Утро второго дня оставьте для проката, когда команда подтверждает условия. Дантита даёт пешую альтернативу части группы.",
+        "sources": [
+          "panache-flamingo-catamaran",
+          "lazy-lizard-flamingo-morning",
+          "puravidaride-danta-paddle-coffee",
+          "dantita-low-path-firsthand"
+        ]
+      },
+      {
+        "title": "Семья и короткие подходы",
+        "text": "Попросите расписать путь от парковки до судна. На Данта можно остановиться у кафе, а к Дантите идти в зависимости от погоды и уверенности детей на тропе.",
+        "sources": [
+          "panache-flamingo-boarding",
+          "marina-flamingo-official-entrance",
+          "las-catalinas-danta-visit-direct",
+          "dantita-low-path-firsthand"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Panache Sailing",
+        "source": "panache-flamingo-catamaran",
+        "note": "Попросите номер причала, время, условия посадки для ребёнка и нужный размер жилета.",
+        "url": "https://panachesailing.com/contact-us-2/",
+        "email": "info@panachesailing.com"
+      },
+      {
+        "name": "Lazy Lizard Sailing",
+        "source": "lazy-lizard-flamingo-contact",
+        "note": "Укажите состав группы. Подтвердите утро или закат, парковку, пин сбора и тип причала.",
+        "phone": "+506 2654 5900",
+        "url": "https://lazylizardsailing.com/contact.html",
+        "email": "reservations@lazylizardsailing.com"
+      },
+      {
+        "name": "Pura Vida Ride · Playa Danta",
+        "source": "puravidaride-danta-paddle-coffee",
+        "note": "Прокат, выдача жилетов, время на воду, состояние береговой тропы и часы кафе.",
+        "url": "https://www.puravidaride.com/"
+      }
+    ],
+    "nearby": [
+      "flamingo-marina-catamarans",
+      "dantita-shore-walk",
+      "catalinas-sup",
+      "catalinas-emtb-12"
+    ],
+    "line": "flamingo-catalinas-water-2"
+  },
+  "puntarenas-tortuga-bay-island": {
+    "stops": [
+      {
+        "point": "puntarenas-muelle-turistico-area",
+        "role": "Район порта · Muelle Turístico Puntarenas",
+        "note": "Проверяйте адрес регистрации и фактический причал по ваучеру."
+      },
+      {
+        "point": "isla-tortuga-tolinga-landing-area",
+        "role": "Берег острова · Толинга / Isla Tortuga",
+        "note": "Капитан назначит место высадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Откуда выходит судно",
+        "text": "В каталоге Bay Island отдельный рейс From Puntarenas Port и несколько вариантов со сбором в гостиницах или из других городов. Укажите вариант при записи, чтобы получить верный пункт регистрации.",
+        "sources": [
+          "bay-island-tortuga-puntarenas-boat",
+          "bay-island-puntarenas-program",
+          "ict-bay-island-puntarenas-operator"
+        ]
+      },
+      {
+        "title": "Что получится на острове",
+        "text": "Программа включает время на берегу. Команда описывает варианты снорклинга и других занятий в зависимости от выбранного тарифа. Заранее выясните время пересадки к берегу, питание и детские жилеты.",
+        "sources": [
+          "bay-island-puntarenas-program",
+          "ict-isla-tortuga-field"
+        ]
+      },
+      {
+        "title": "Как совместить с паромом",
+        "text": "Рейс на остров и транспортный паром на Paquera бронируют раздельно. Оставьте запас до следующей поездки или оставайтесь в Пунтаренасе на вечер.",
+        "sources": [
+          "bay-island-tortuga-puntarenas-boat",
+          "paquera-ferry-live"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bay Island Cruises",
+        "source": "bay-island-tortuga-puntarenas-boat",
+        "note": "Попросите прислать пин порта Пунтаренаса, подтвердить регистрацию, возраст ребёнка, трансфер и сбор в день выезда.",
+        "phone": "+506 8378 3590",
+        "url": "https://wa.me/50683783590",
+        "email": "reservas@bayislandcruises.com"
+      }
+    ],
+    "nearby": [
+      "herradura-tortuga-costa-cat",
+      "tambor-tortuga-majestic",
+      "isla-san-lucas-local-boat",
+      "puntarenas-nicoya-islands-3"
+    ]
+  },
+  "herradura-tortuga-costa-cat": {
+    "stops": [
+      {
+        "point": "los-suenos-marina-point",
+        "role": "Регистрация · Muelle Comercial рядом с Maverick",
+        "note": "Вход к рейсу сверяйте по карте Costa Cat."
+      },
+      {
+        "point": "isla-tortuga-tolinga-landing-area",
+        "role": "Береговая остановка · Исла-Тортуга",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Причал в Эррадуре",
+        "text": "Costa Cat указывает Muelle Comercial в Marina Los Sueños рядом с Maverick. Подтвердите возможность парковки и время подхода от въезда. Сухопутный ориентир нанесён в самой марине.",
+        "sources": [
+          "costa-cat-herradura-contact-maverick",
+          "safe-harbor-los-suenos-location"
+        ]
+      },
+      {
+        "title": "Дневной или более короткий рейс",
+        "text": "На сайте есть разные программы для острова. Сверьте список занятий, сколько времени на берегу и вариант детского билета. Если ребёнок младше опубликованной тарифной группы, отдельно запросите правила перевозки.",
+        "sources": [
+          "costa-cat-herradura-tortuga",
+          "costa-cat-herradura-contact-maverick"
+        ]
+      },
+      {
+        "title": "Что учесть у берега",
+        "text": "Снорклинг и высадку выбирает экипаж. Возьмите сухую сумку и выясните, где можно оставить коляску или сухие вещи.",
+        "sources": [
+          "costa-cat-herradura-tortuga",
+          "ict-isla-tortuga-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Cat Cruises",
+        "source": "costa-cat-herradura-contact-maverick",
+        "note": "Сверьте пин коммерческого причала рядом с Maverick, причальный доступ, детские места и продолжительность рейса.",
+        "phone": "+506 8390 7070",
+        "url": "https://costacatcruises.com/es/contacto/",
+        "email": "reservations@costacatcruises.com"
+      }
+    ],
+    "nearby": [
+      "puntarenas-tortuga-bay-island",
+      "tambor-tortuga-majestic",
+      "vista-suenos",
+      "jaco-surf"
+    ]
+  },
+  "tambor-tortuga-majestic": {
+    "stops": [
+      {
+        "point": "tambor-centre-road",
+        "role": "Тамбор · дорожный ориентир посёлка",
+        "note": ""
+      },
+      {
+        "point": "tambor-local-pesquero-pier",
+        "role": "Сбор · Muelle Pesquero de Tambor",
+        "note": ""
+      },
+      {
+        "point": "isla-tortuga-tolinga-landing-area",
+        "role": "Пляжный район · Isla Tortuga",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подходит для южной Никойи",
+        "text": "The Majestic публикует выход с причала Тамбора. Это удобный островной день, если уже остановились в Тамборе или приехали по земле из Пакеры и Кобано. Уточните адрес машины, стоянку и время прибытия по ваучеру.",
+        "sources": [
+          "majestic-tambor-isla-tortuga",
+          "majestic-tambor-cabo-charters"
+        ]
+      },
+      {
+        "title": "Как провести день на острове",
+        "text": "У оператора есть береговая остановка и водные занятия по погоде. Родители могут заранее согласовать короткую программу, взять головные уборы и запросить жилеты нужного размера.",
+        "sources": [
+          "majestic-tambor-isla-tortuga",
+          "ict-isla-tortuga-field"
+        ]
+      },
+      {
+        "title": "Соединение с Пакерой",
+        "text": "В отдельный день можно добавить посещение Куру или вернуться на материк через Puerto Paquera. Билет на паром сверяйте по официальным часам и доступности места для машины.",
+        "sources": [
+          "paquera-ferry-live",
+          "curu-refuge-official",
+          "majestic-tambor-cabo-charters"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "The Majestic · Тамбор",
+        "source": "majestic-tambor-isla-tortuga",
+        "note": "Уточните часы сбора у рыбацкого причала, посадку, программу для семьи и место возврата.",
+        "phone": "+506 8696 4429",
+        "url": "https://themajesticcostarica.com/tour-isla-tortuga.html",
+        "email": "info@themajesticcostarica.com"
+      }
+    ],
+    "nearby": [
+      "curu-forest-coves",
+      "paquera-ferry-weekend-3",
+      "puntarenas-nicoya-islands-3"
+    ]
+  },
+  "isla-san-lucas-local-boat": {
+    "stops": [
+      {
+        "point": "cocos-tours-el-carmen-meet",
+        "role": "Офис и район сбора · Coco’s Tours",
+        "note": "Адрес посадки уточните у команды, офис рядом с паромным терминалом."
+      },
+      {
+        "point": "isla-san-lucas-historic-area",
+        "role": "Остров · район Antiguo Presidio",
+        "note": "Географический ориентир. Высадку определяет разрешённая программа."
+      },
+      {
+        "point": "puntarenas-terminal-point",
+        "role": "Отдельный транспорт · терминал парома Paquera",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Две части записи",
+        "text": "SINAC публикует доступ по морю и систему входных билетов. Узнайте у оператора, включён ли билет, требуется ли отдельная бронь и где предъявить подтверждение. Лодку выбирайте на ту же дату.",
+        "sources": [
+          "sinac-isla-san-lucas-access",
+          "sinac-san-lucas-bookings",
+          "cocos-tours-san-lucas-local"
+        ]
+      },
+      {
+        "title": "Прогулка по исторической зоне",
+        "text": "Бывшие тюремные здания относятся к охраняемому культурному наследию. Для подростков подойдёт программа с объяснением местной истории, семьям младше спросите про длительность и доступные обходы. Ходите по разрешённым тропам.",
+        "sources": [
+          "san-lucas-antiguo-presidio-cultura",
+          "cocos-tours-san-lucas-local",
+          "sinac-isla-san-lucas-access"
+        ]
+      },
+      {
+        "title": "Еда и встреча в El Carmen",
+        "text": "Местные Coco’s Tours и одноимённое кафе указывают адрес рядом с паромом. Это удобно для обеда до другого рейса, если совпали часы. Попросите отдельно геометку именно лодки.",
+        "sources": [
+          "cocos-tours-puntarenas-embarkation",
+          "cocos-isla-bar-grill-puntarenas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Coco’s Tours · Barrio El Carmen",
+        "source": "cocos-tours-puntarenas-embarkation",
+        "note": "Подтвердите посадку, имя гида, оформление входа и включённые сборы.",
+        "phone": "+506 8876 9354",
+        "url": "https://cocostours.cr/contacto/"
+      },
+      {
+        "name": "SINAC · Isla San Lucas",
+        "source": "sinac-san-lucas-bookings",
+        "note": "Проверьте дату, официальный вход и порядок подтверждения билета.",
+        "url": "https://sinac.go.cr/ES/resvlinea/Paginas/default.aspx"
+      }
+    ],
+    "nearby": [
+      "puntarenas-tortuga-bay-island",
+      "puntarenas-nicoya-islands-3",
+      "paquera-ferry-weekend-3"
+    ]
+  },
+  "puntarenas-nicoya-islands-3": {
+    "stops": [
+      {
+        "point": "puntarenas-muelle-turistico-area",
+        "role": "День 1 · Пунтаренас, набережная",
+        "note": ""
+      },
+      {
+        "point": "cocos-tours-el-carmen-meet",
+        "role": "День 1 · связь с Coco’s Tours",
+        "note": ""
+      },
+      {
+        "point": "isla-san-lucas-historic-area",
+        "role": "День 1 · район Antiguo Presidio",
+        "note": ""
+      },
+      {
+        "point": "puntarenas-terminal-point",
+        "role": "День 2 · терминал Puntarenas",
+        "note": ""
+      },
+      {
+        "point": "paquera-port-point",
+        "role": "День 2 · терминал Puerto Paquera",
+        "note": ""
+      },
+      {
+        "point": "curu-route-entrance",
+        "role": "День 2 · съезд к Куру",
+        "note": ""
+      },
+      {
+        "point": "tambor-centre-road",
+        "role": "Ночь 2 · Тамбор",
+        "note": ""
+      },
+      {
+        "point": "tambor-local-pesquero-pier",
+        "role": "День 3 · причал Тамбор",
+        "note": ""
+      },
+      {
+        "point": "isla-tortuga-tolinga-landing-area",
+        "role": "День 3 · район высадки на Толинге",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Разные билеты и расписания",
+        "text": "На Сан-Лукас проверьте оформление входа. Навьера Тамбор отдельно продаёт варианты для пассажиров и машин, а Majestic указывает свой причал. Проверьте каждый ваучер и время встречи.",
+        "sources": [
+          "sinac-san-lucas-bookings",
+          "cocos-tours-san-lucas-local",
+          "paquera-ferry-live",
+          "majestic-tambor-isla-tortuga"
+        ]
+      },
+      {
+        "title": "С машиной и без неё",
+        "text": "С машиной оформляйте нужный тип паромного билета. Без машины заранее узнайте, кто встречает в Puerto Paquera и доступен ли отдельный заезд в Куру. Для острова на третий день можно остановиться в Тамборе рядом с берегом.",
+        "sources": [
+          "paquera-ferry-live",
+          "curu-refuge-official",
+          "majestic-tambor-cabo-charters"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Coco’s Tours · Barrio El Carmen",
+        "source": "cocos-tours-puntarenas-embarkation",
+        "note": "Подтвердите посадку, имя гида, оформление входа и включённые сборы.",
+        "phone": "+506 8876 9354",
+        "url": "https://cocostours.cr/contacto/"
+      },
+      {
+        "name": "The Majestic · Тамбор",
+        "source": "majestic-tambor-isla-tortuga",
+        "note": "Уточните часы сбора у рыбацкого причала, посадку, программу для семьи и место возврата.",
+        "phone": "+506 8696 4429",
+        "url": "https://themajesticcostarica.com/tour-isla-tortuga.html",
+        "email": "info@themajesticcostarica.com"
+      },
+      {
+        "name": "Bay Island Cruises",
+        "source": "bay-island-tortuga-puntarenas-boat",
+        "note": "Попросите прислать пин порта Пунтаренаса, подтвердить регистрацию, возраст ребёнка, трансфер и сбор в день выезда.",
+        "phone": "+506 8378 3590",
+        "url": "https://wa.me/50683783590",
+        "email": "reservas@bayislandcruises.com"
+      },
+      {
+        "name": "Naviera Tambor",
+        "source": "paquera-ferry-live",
+        "note": "Терминал, время парома, пассажирские места и правила перевозки автомобиля.",
+        "url": "https://navieratambor.com/horarios-y-tarifas"
+      }
+    ],
+    "nearby": [
+      "isla-san-lucas-local-boat",
+      "tambor-tortuga-majestic",
+      "puntarenas-tortuga-bay-island",
+      "paquera-ferry-weekend-3",
+      "curu-forest-coves"
+    ],
+    "line": "puntarenas-nicoya-islands-3"
+  },
+  "nuevo-arenal-parque-lago-own": {
+    "stops": [
+      {
+        "point": "nuevo-arenal",
+        "role": "Закупка и ориентир · центр Nuevo Arenal",
+        "note": ""
+      },
+      {
+        "point": "nuevo-arenal-parque-lago-ramp",
+        "role": "Спуск · Parque del Lago",
+        "note": "Проверьте состояние края рампы, место разгрузки и возврат к машине."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Заезд со своим снаряжением",
+        "text": "Местный видеоотчёт показывает рампу, стоянку и площадку у воды. Авторы дорожного путеводителя также указывают общественный спуск рядом с посёлком. Для каяка запросите режим разгрузки и часы. Для моторной лодки спросите о действующих требованиях.",
+        "sources": [
+          "tilaran-nuevo-arenal-district",
+          "nuevo-arenal-ramp-locals-day",
+          "nuevo-arenal-ramp-town-field"
+        ]
+      },
+      {
+        "title": "Окно для SUP",
+        "text": "В местных описаниях есть программа с инструктором и выдачей жилета с началом у этого парка. При ветре оставайтесь на берегу или возьмите согласованный короткий выход. У детей заранее проверьте умение плавать и подходящий жилет.",
+        "sources": [
+          "nuevo-arenal-paddle-park-meeting",
+          "tilaran-lago-arenal-visitor-conditions",
+          "nuevo-arenal-ramp-town-field"
+        ]
+      },
+      {
+        "title": "До выезда",
+        "text": "Проверьте направление ветра, свободный возврат к спуску и связь. Уточняйте местные правила рыбалки и места для лагеря отдельно, если планируете ночевать или брать снасти.",
+        "sources": [
+          "tilaran-water-access-contact",
+          "tilaran-lago-arenal-visitor-conditions",
+          "fishing-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Тиларана",
+        "source": "tilaran-water-access-contact",
+        "note": "Спросите о действующем въезде в Parque del Lago и условиях использования рампы для своего судна.",
+        "phone": "+506 2695 2400",
+        "url": "https://mail.tilaran.go.cr/contacto/contactenos.php"
+      },
+      {
+        "name": "Arenal Water Sports",
+        "source": "arenal-water-sports-east-branch",
+        "note": "Попросите актуальную точку сбора на озере, тип SUP/каяка и подходящее окно ветра.",
+        "url": "https://arenalwatersports.com/"
+      }
+    ],
+    "nearby": [
+      "arenal-east-association-sup",
+      "arenal-local-roof-paddle-2",
+      "tronadora-roof",
+      "arenal-paddle"
+    ]
+  },
+  "arenal-east-association-sup": {
+    "stops": [
+      {
+        "point": "arenal-dam",
+        "role": "Дорожный ориентир · Presa Sangregado",
+        "note": ""
+      },
+      {
+        "point": "arenal-east-boat-rental-assoc",
+        "role": "Подъезд · Arenal Boat Rental Association",
+        "note": "Просите подтвердить адрес выдачи и регламент спуска."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Куда приезжать из Ла-Фортуны",
+        "text": "Полевой путеводитель описывает доступ у Ruta 142. Геометка ассоциации находится западнее дамбы у берега. Arenal Water Sports работает на озере со своим сбором, попросите прислать его координаты отдельно.",
+        "sources": [
+          "arenal-lake-local",
+          "arenal-boat-rental-association-pin",
+          "arenal-water-sports-east-branch"
+        ]
+      },
+      {
+        "title": "Что проверить до аренды",
+        "text": "Уточните, хватает ли в этот день каяков и жилетов. Для начинающих запросите инструктора и короткий вариант вдоль берега. При порывах и волне можно остаться у смотровых.",
+        "sources": [
+          "arenal-water-sports-east-branch",
+          "tilaran-lago-arenal-visitor-conditions",
+          "arenal-lake-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Water Sports",
+        "source": "arenal-water-sports-east-branch",
+        "note": "Попросите актуальную точку сбора на озере, тип SUP/каяка и подходящее окно ветра.",
+        "url": "https://arenalwatersports.com/"
+      }
+    ],
+    "nearby": [
+      "nuevo-arenal-parque-lago-own",
+      "arenal-paddle",
+      "arenal-autocamp-3",
+      "arenal-local-roof-paddle-2"
+    ]
+  },
+  "arenal-local-roof-paddle-2": {
+    "stops": [
+      {
+        "point": "tronadora-town",
+        "role": "Дни 1 и 2 · посёлок Тронадора",
+        "note": ""
+      },
+      {
+        "point": "tronadora-camp",
+        "role": "Ночь · Campamento La Tronadora",
+        "note": ""
+      },
+      {
+        "point": "nuevo-arenal",
+        "role": "День 2 · центр Нуэво-Ареналя",
+        "note": ""
+      },
+      {
+        "point": "nuevo-arenal-parque-lago-ramp",
+        "role": "День 2 · Parque del Lago, спуск",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что уточнить для машины",
+        "text": "Подтвердите место у лагеря для открытой крыши, зону разгрузки и в каком месте можно спустить каяк. Парковка и выход у рампы Nuevo Arenal относятся к отдельной береговой зоне.",
+        "sources": [
+          "camp-tronadora",
+          "tilaran-tronadora-peninsula",
+          "bahia-peninsula-tronadora-lake-alt",
+          "nuevo-arenal-ramp-town-field"
+        ]
+      },
+      {
+        "title": "Разное направление ветра",
+        "text": "Условия проверяйте у каждого берега перед выходом. Уточните порывы и проход по воде на месте. С ребёнком согласуйте короткий маршрут с возможностью вернуться к старту.",
+        "sources": [
+          "tilaran-lago-arenal-visitor-conditions",
+          "nuevo-arenal-paddle-park-meeting",
+          "nuevo-arenal-ramp-locals-day"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping La Tronadora",
+        "source": "camp-tronadora",
+        "note": "Подтвердите место под крышную палатку и доступ к воде со своим каяком.",
+        "phone": "+506 8859 8990",
+        "url": "https://wa.me/50688598990"
+      },
+      {
+        "name": "Муниципалитет Тиларана",
+        "source": "tilaran-water-access-contact",
+        "note": "Спросите о действующем въезде в Parque del Lago и условиях использования рампы для своего судна.",
+        "phone": "+506 2695 2400",
+        "url": "https://mail.tilaran.go.cr/contacto/contactenos.php"
+      },
+      {
+        "name": "Bahía de la Península · соседний кемпинг",
+        "source": "bahia-peninsula-tronadora-lake-alt",
+        "note": "Согласуйте площадку и спуск для своего SUP или каяка. Парковку для прицепа подтверждайте отдельно.",
+        "url": "https://camping.cr/listing/bahia-de-la-peninsula/"
+      },
+      {
+        "name": "Arenal Water Sports",
+        "source": "arenal-water-sports-east-branch",
+        "note": "Попросите актуальную точку сбора на озере, тип SUP/каяка и подходящее окно ветра.",
+        "url": "https://arenalwatersports.com/"
+      }
+    ],
+    "nearby": [
+      "tronadora-roof",
+      "nuevo-arenal-parque-lago-own",
+      "arenal-east-association-sup",
+      "tronadora-weekend-roof"
+    ],
+    "line": "arenal-local-roof-paddle-2"
+  }
+}

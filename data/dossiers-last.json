@@ -1537,6 +1537,15 @@
           "flamingo-marina-contact",
           "guanacaste-tides"
         ]
+      },
+      {
+        "title": "Катамараны от причала",
+        "text": "Из Marina Flamingo есть несколько выездов. У Panache и Lazy Lizard уточняйте фактический причал, парковку, детские жилеты и время возврата. В отдельной карточке нанесён сухопутный сбор.",
+        "sources": [
+          "panache-flamingo-catamaran",
+          "lazy-lizard-flamingo-morning",
+          "marina-flamingo-official-entrance"
+        ]
       }
     ],
     "contacts": [
@@ -1559,12 +1568,22 @@
         "note": "Катамаранная программа и посадка из Potrero. Трансфер подтверждает оператор.",
         "phone": "+506 2654 5900",
         "email": "reservations@lazylizardsailing.com"
+      },
+      {
+        "name": "Panache Sailing",
+        "source": "panache-flamingo-catamaran",
+        "note": "Попросите номер причала, время, условия посадки для ребёнка и нужный размер жилета.",
+        "url": "https://panachesailing.com/contact-us-2/",
+        "email": "info@panachesailing.com"
       }
     ],
     "nearby": [
       "conchal",
       "ocotal",
-      "playa-grande"
+      "playa-grande",
+      "flamingo-marina-catamarans",
+      "dantita-shore-walk",
+      "flamingo-catalinas-water-2"
     ],
     "track": "ict-flamingo-conchal"
   },
@@ -1675,7 +1694,10 @@
     "nearby": [
       "flamingo",
       "diamante",
-      "conchal"
+      "conchal",
+      "coco-marlin-catamaran",
+      "hermosa-julio-local-boat",
+      "papagayo-family-water-3"
     ],
     "track": "ocotal-field-guide"
   },

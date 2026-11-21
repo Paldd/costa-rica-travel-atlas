@@ -604,7 +604,9 @@
     "nearby": [
       "tronadora-weekend-roof",
       "arenal-fishing",
-      "arenal-paddle"
+      "arenal-paddle",
+      "nuevo-arenal-parque-lago-own",
+      "arenal-local-roof-paddle-2"
     ]
   },
   "tronadora-weekend-roof": {
@@ -664,7 +666,9 @@
     "nearby": [
       "tronadora-roof",
       "cerro-pelado",
-      "arenal-fishing"
+      "arenal-fishing",
+      "nuevo-arenal-parque-lago-own",
+      "arenal-local-roof-paddle-2"
     ]
   },
   "cerro-pelado": {

@@ -37,7 +37,7 @@ oka-grassland	Sabanas Oka · центр саванны	9.30324	-83.27532	oka-osm
 arenal-dam	Presa Sangregado · дамба Ареналя	10.47516	-84.76089	osm-cr-points
 tilaran	Tilarán · центр города	10.471203	-84.96764	osm-cr-points
 rio-chiquito	Río Chiquito · Tilarán	10.43495	-84.873932	osm-cr-points
-nuevo-arenal	Nuevo Arenal	10.547001	-84.863737	osm-cr-points
+nuevo-arenal	Nuevo Arenal · центр у Ruta 142	10.5454106	-84.8966294	osm-cr-points
 tronadora-town	Tronadora · посёлок	10.500385	-84.923049	osm-cr-points
 tronadora-camp	Campamento La Tronadora	10.511016	-84.923405	tronadora-osm
 tinajas	Tinajas · точка встречи по программе	10.534234	-84.904537	osm-cr-points
@@ -207,7 +207,7 @@ faith-glamp-gate	Ruta Hotel Almendros y Corales · ориентир подъез
 santateresa-shore-reference	Santa Teresa · район берегового подъезда севернее Carmen	9.6446511	-85.1678952	osm-cr-points
 montezuma-river-start	Мост Río Montezuma · начало речного подхода	9.650815	-85.069419	osm-cr-points
 cabo-blanco-shore	Playa Cabo Blanco · береговой разворот	9.5655763	-85.1093041	osm-cr-points
-los-suenos-marina-point	Los Sueños Marina · район порта в Herradura	9.651643	-84.652962	herradura-marina-coordinates
+los-suenos-marina-point	Los Sueños Marina · район коммерческого причала	9.6518721	-84.664592	osm-cr-points
 jeronimo-chirripo-area	San Jerónimo de San Pedro · посёлок	9.3409953	-83.5056608	osm-cr-points
 herradura-rivas-area	Herradura de Rivas · посёлок	9.4821915	-83.6120911	osm-cr-points
 sabana-leones-area	Sabana de Los Leones · горная саванна	9.421535	-83.5093466	osm-cr-points
@@ -414,3 +414,22 @@ parrita-market-centre	Parrita · район рынка и автостанции
 palo-seco-isla-shore-road	Isla Palo Seco · береговой район у школы	9.4878134	-84.3004955	osm-cr-points
 palo-seco-estuary-water-area	Estero Palo Seco · ориентир мангров	9.4812	-84.269	palo-seco-estuary-orient-map
 palo-seco-coastal-road-turn	Calle Playa Palo Seco · начало берегового участка	9.4909093	-84.3253413	osm-cr-points
+playas-coco-harbor-beach	Playas del Coco · берег у Capitanía de Puerto	10.5515581	-85.6977713	osm-cr-points
+hermosa-guanacaste-beach-approach	Playa Hermosa de Guanacaste · подход к берегу	10.5751241	-85.6780143	osm-cr-points
+panama-culebra-beach-access	Playa Panamá · подъезд к берегу	10.59021	-85.650358	playa-panama-culebra-gps
+panama-culebra-159-approach	Vía 159 · дорожный ориентир Playa Panamá	10.5882368	-85.6477663	osm-cr-points
+el-mangroove-panama-area	El Mangroove · береговой район Playa Panamá	10.5885471	-85.6479335	osm-cr-points
+papagayo-marina-parking	Marina Papagayo · подъезд к причалам	10.6419618	-85.6525794	osm-cr-points
+nacascolo-public-parking	Acceso Público Playas · парковка и шаттл	10.6491873	-85.6506118	nacascolo-parking-and-shuttle
+nacascolo-papagayo-beach	Playa Nacascolo · береговой ориентир	10.6283721	-85.6748503	osm-cr-points
+flamingo-marina-shore-checkin	Marina Flamingo · сухопутный ориентир у входа	10.4392706	-85.7892936	osm-cr-points
+potrero-village-water-loop	Potrero · береговой посёлок	10.4597586	-85.7708177	osm-cr-points
+dantita-beach-low-trail	Playa Dantita · выход к светлому пляжу	10.4835359	-85.7922459	osm-cr-points
+puntarenas-muelle-turistico-area	Пунтаренас · район Muelle Turístico	9.9776506	-84.8442925	osm-cr-points
+cocos-tours-el-carmen-meet	Coco’s Tours · точка офиса в Barrio El Carmen	9.977434	-84.849785	uned-cocos-tours-embarkation-map
+isla-san-lucas-historic-area	Isla San Lucas · район Antiguo Presidio	9.94	-84.91	san-lucas-presidio-area-map
+isla-tortuga-tolinga-landing-area	Isla Tortuga · восточный берег Толинги	9.773099	-84.8953665	osm-cr-points
+tambor-centre-road	Tambor · посёлок Bahia Ballena	9.7197511	-85.0191333	osm-cr-points
+tambor-local-pesquero-pier	Muelle Pesquero · причал Тамбора	9.7139083	-85.0104516	osm-cr-points
+nuevo-arenal-parque-lago-ramp	Parque del Lago · рампа Nuevo Arenal	10.5364384	-84.8927115	osm-cr-points
+arenal-east-boat-rental-assoc	Arenal Boat Rental Association · подъезд у Ruta 142	10.4718038	-84.7697253	arenal-boat-rental-association-pin

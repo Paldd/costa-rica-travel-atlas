@@ -398,6 +398,16 @@
         "point": "arenal-dam",
         "role": "Район дамбы · другой береговой ориентир",
         "note": "Отдельные прокаты и причалы. Выбирать по указаниям оператора."
+      },
+      {
+        "point": "arenal-east-boat-rental-assoc",
+        "role": "Выдача по согласованию · Arenal Boat Rental Association",
+        "note": ""
+      },
+      {
+        "point": "nuevo-arenal-parque-lago-ramp",
+        "role": "Отдельный спуск · Parque del Lago de Nuevo Arenal",
+        "note": ""
       }
     ],
     "track": null,
@@ -419,6 +429,15 @@
           "arenal-elcastillo-sup",
           "tilaran-tronadora"
         ]
+      },
+      {
+        "title": "Разные точки у озера",
+        "text": "На восточной стороне есть доступ у Arenal Boat Rental Association. Для приезда со своим каяком в западной части озера посмотрите общественный Parque del Lago. На обеих точках уточняйте ветер и местный режим до выезда.",
+        "sources": [
+          "arenal-boat-rental-association-pin",
+          "nuevo-arenal-ramp-town-field",
+          "tilaran-lago-arenal-visitor-conditions"
+        ]
       }
     ],
     "contacts": [
@@ -431,12 +450,28 @@
         "name": "Costa Rica Tropical Vacations",
         "source": "arenal-fosforo-boat",
         "note": "Лодка с SUP и выход от El Fósforo."
+      },
+      {
+        "name": "Муниципалитет Тиларана",
+        "source": "tilaran-water-access-contact",
+        "note": "Спросите о действующем въезде в Parque del Lago и условиях использования рампы для своего судна.",
+        "phone": "+506 2695 2400",
+        "url": "https://mail.tilaran.go.cr/contacto/contactenos.php"
+      },
+      {
+        "name": "Arenal Water Sports",
+        "source": "arenal-water-sports-east-branch",
+        "note": "Попросите актуальную точку сбора на озере, тип SUP/каяка и подходящее окно ветра.",
+        "url": "https://arenalwatersports.com/"
       }
     ],
     "nearby": [
       "arenal-fishing",
       "tronadora-roof",
-      "laguna-hule-trail"
+      "laguna-hule-trail",
+      "arenal-east-association-sup",
+      "nuevo-arenal-parque-lago-own",
+      "arenal-local-roof-paddle-2"
     ]
   },
   "arenal-pack": {
@@ -611,6 +646,15 @@
           "catalinas-ride",
           "catalinas-water"
         ]
+      },
+      {
+        "title": "Кофе и короткий путь к Дантите",
+        "text": "Прокат Pura Vida Ride совмещён с кофейней. Если вода неспокойна, узнайте про пеший переход на Дантиту и открытый участок тропы. В карточке тропы есть отдельная карта.",
+        "sources": [
+          "puravidaride-danta-paddle-coffee",
+          "dantita-low-path-firsthand",
+          "las-catalinas-danta-visit-direct"
+        ]
       }
     ],
     "contacts": [
@@ -622,7 +666,10 @@
     ],
     "nearby": [
       "catalinas-bike",
-      "catalinas-mtb-25"
+      "catalinas-mtb-25",
+      "dantita-shore-walk",
+      "flamingo-marina-catamarans",
+      "flamingo-catalinas-water-2"
     ]
   },
   "pato-samara-school": {
@@ -922,7 +969,9 @@
     ],
     "nearby": [
       "quepos-boat",
-      "tamarindo-catamaran"
+      "tamarindo-catamaran",
+      "herradura-tortuga-costa-cat",
+      "puntarenas-tortuga-bay-island"
     ]
   },
   "tamarindo-catamaran": {
@@ -963,7 +1012,9 @@
     ],
     "nearby": [
       "tamarindo-surf",
-      "quepos-catamaran"
+      "quepos-catamaran",
+      "coco-marlin-catamaran",
+      "flamingo-marina-catamarans"
     ]
   },
   "tamarindo-surf": {

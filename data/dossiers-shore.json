@@ -2189,7 +2189,8 @@
     "nearby": [
       "carara",
       "jaco-surf",
-      "maverick"
+      "maverick",
+      "herradura-tortuga-costa-cat"
     ],
     "track": "herradura-adventure-faq"
   },
@@ -2231,7 +2232,8 @@
     "nearby": [
       "hermosa-jaco",
       "vista-suenos",
-      "maverick"
+      "maverick",
+      "herradura-tortuga-costa-cat"
     ],
     "track": "jaco-local-surf-list"
   },
@@ -2318,7 +2320,8 @@
     "nearby": [
       "jaco-surf",
       "quepos-catamaran",
-      "vista-suenos"
+      "vista-suenos",
+      "herradura-tortuga-costa-cat"
     ],
     "track": "maverick-herradura-departure"
   },

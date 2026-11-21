@@ -34,5 +34,9 @@
   {"name":"Camping Babsita · проживание и вода на Río Estrella","url":"https://campingbabsita.com/tours","paths":["/tours","/accommodation","/getting-to-us-directions","/about-us","/faqs"]},
   {"name":"Alouatta · кемперы и канопи в Кауите","url":"https://alouattalodgeandcanopy.com/cabanas/","paths":["/cabanas/","/canopy-aventura/","/parking","/contacto/"]},
   {"name":"Gandoca Tours · местные программы на лагуне","url":"https://www.gandocatours.com/tour/kayaking-en-laguna-gandoca/","paths":["/tour/","/nosotros/","/contact"]},
-  {"name":"Tortugas Costa Rica · вода и мангры у Парриты","url":"https://tortugascostarica.org/es/tours/manglar","paths":["/es/tours/","/es/proyectos/","/es/conservacion/"]}
+  {"name":"Tortugas Costa Rica · вода и мангры у Парриты","url":"https://tortugascostarica.org/es/tours/manglar","paths":["/es/tours/","/es/proyectos/","/es/conservacion/"]},
+  {"name":"Marlin del Rey · посадка и рейсы Coco и Tamarindo","url":"https://marlindelrey.com/faq/","paths":["/sailing-tours/","/playa-del-coco-","/contact","/faq/"]},
+  {"name":"Panache Sailing · рейсы от Marina Flamingo","url":"https://panachesailing.com/","paths":["/tours/","/faq/","/contact-us-2/"]},
+  {"name":"Coco’s Tours · местные выезды из Пунтаренаса","url":"https://cocostours.cr/tour-category/tours/","paths":["/tour/","/contacto/"]},
+  {"name":"The Majestic · рейсы от Tambor Pier","url":"https://themajesticcostarica.com/","paths":["/tour-","/es/","/contact"]}
 ]
