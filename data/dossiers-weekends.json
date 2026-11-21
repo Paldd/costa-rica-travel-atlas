@@ -645,103 +645,153 @@
   "tronadora-roof": {
     "stops": [
       {
+        "point": "tilaran",
+        "role": "Запасы · Тиларан",
+        "note": ""
+      },
+      {
         "point": "tronadora-town",
-        "role": "Запасы",
-        "note": "Посёлок перед полуостровом, по справочнику около 3 км до кемпинга."
+        "role": "Посёлок · последний ориентир",
+        "note": ""
       },
       {
         "point": "tronadora-camp",
-        "role": "Въезд и стоянка",
-        "note": "Попросите место по уровню ветра и доступу к воде."
+        "role": "Кемпинг · площадка для машины",
+        "note": ""
       }
     ],
-    "track": null,
+    "track": "tronadora-osm",
     "sections": [
       {
-        "title": "Крышная палатка и удобства",
-        "text": "Каталог перечисляет наземные палатки, палатки на крыше и караваны. У воды больше открытого пространства, в глубине есть тень. Опубликованы сведения о душах, туалетах и электроснабжении. Спросите про воду и поздний въезд.",
+        "title": "Площадка для автопалатки",
+        "text": "В региональном репортаже указана отдельная зона для кемперов. Есть туалеты, душ, столы, решётки для приготовления еды и электричество. Уточните, включено ли питание электроприборов в цену. Публичные источники приводят разные тарифы, актуальный ночной запрос — по телефону.",
         "sources": [
-          "camp-tronadora",
-          "tronadora-osm"
+          "tronadora-voz-guanacaste-camping",
+          "tronadora-bahia-peninsula-listing",
+          "camp-tronadora"
         ]
       },
       {
-        "title": "Своя доска, лодка и рыбалка",
-        "text": "В каталоге у кемпинга описано катание на каяке. Спросите о спуске собственной лодки или SUP и текущем ветре. Муниципалитет отдельно описывает береговую зону отдыха и рыбалки на полуострове. Подтвердите порядок доступа и лицензию до выезда.",
+        "title": "Грунт, бережный спуск и экипировка",
+        "text": "От центра Тронадоры около 1,6 км до зоны кемпинга. Грунт и ветровые условия меняются. Попросите ровное место с запасом для лестницы. На воду возьмите жилеты своего размера и гермоупаковку. Спуск со своей лодкой и формат рыбалки согласуйте на месте.",
         "sources": [
-          "camp-tronadora",
-          "tilaran-tronadora",
-          "fishing-sinac"
+          "tronadora-voz-guanacaste-camping",
+          "tronadora-osm",
+          "tilaran-tronadora"
+        ]
+      },
+      {
+        "title": "Фото района и отчёт о ночёвке",
+        "text": "Снимок в атласе показывает район Тронадоры. Фотографии самой площадки опубликованы в материале La Voz de Guanacaste и в каталоге Camping.cr.",
+        "sources": [
+          "tronadora-voz-guanacaste-camping",
+          "tronadora-bahia-peninsula-listing"
         ]
       }
     ],
     "contacts": [
       {
-        "name": "Camping La Tronadora",
+        "name": "Camping Bahía de la Península · La Tronadora",
         "source": "camp-tronadora",
-        "note": "Площадка под крышную палатку, поздний заезд, возможность спустить своё судно. Публичный контакт из каталога.",
+        "note": "Площадка для крыши, ворота, ночная цена, электричество и спуск к озеру.",
         "phone": "+506 8859 8990",
         "url": "https://wa.me/50688598990"
+      },
+      {
+        "name": "Camping La Tronadora · телефон площадки",
+        "source": "tronadora-voz-guanacaste-camping",
+        "note": "Второй опубликованный номер. Уточняйте дневное посещение и условия ночёвки.",
+        "phone": "+506 2693 1370"
       }
     ],
     "nearby": [
+      "arenal-local-roof-paddle-2",
       "tronadora-weekend-roof",
       "arenal-fishing",
-      "arenal-paddle",
-      "nuevo-arenal-parque-lago-own",
-      "arenal-local-roof-paddle-2"
+      "arenal-paddle"
+    ],
+    "line": "tronadora-roof",
+    "photos": [
+      "tronadora",
+      "arenal-dam"
     ]
   },
   "tronadora-weekend-roof": {
     "stops": [
       {
+        "point": "tilaran",
+        "role": "Тиларан · запасы и возврат к Ruta 142",
+        "note": ""
+      },
+      {
         "point": "tronadora-town",
-        "role": "Суббота · закупка",
-        "note": "Вода и продукты перед заездом."
+        "role": "Тронадора · магазин и ориентир",
+        "note": ""
       },
       {
         "point": "tronadora-camp",
-        "role": "Суббота · ночёвка",
-        "note": "Крышная палатка на согласованной площадке."
+        "role": "Ночной лагерь у озера",
+        "note": ""
+      },
+      {
+        "point": "canas-guanacaste-town",
+        "role": "Каньяс · точку дальнейшей встречи подтверждает гид",
+        "note": ""
       },
       {
         "point": "pelado-summit",
-        "role": "Воскресенье · вариант похода",
-        "note": "Показана вершина. Старт и доступ через finca подтвердите у гида."
+        "role": "Серро-Пеладо · ориентир пешей части",
+        "note": ""
       }
     ],
-    "track": null,
+    "track": "pelado-guide",
     "sections": [
       {
-        "title": "Ветер и время заезда",
-        "text": "Сначала сверьте открытие ворот. У берега удобнее спустить лодку после согласования, лесные площадки лучше прикрыты. Если озеро ветреное, оставьте береговой вариант или пеший день.",
+        "title": "База у озера и понятный въезд",
+        "text": "На карте соединены Тиларан, посёлок и каменистый береговой съезд. Региональный репортаж описывает зону для кемперов, душ, туалеты и электричество. Запросите подтверждение ночного места и проверьте ветровые условия.",
         "sources": [
-          "camp-tronadora",
-          "tilaran-tronadora",
-          "arenal-lake-local"
+          "tronadora-voz-guanacaste-camping",
+          "tronadora-bahia-peninsula-listing",
+          "tronadora-osm"
         ]
       },
       {
-        "title": "Гребень у Каньяса",
-        "text": "Поход на Серро-Пеладо зависит от выбранного входа и доступа через частную землю. Не закладывайте точное время переезда до договорённости с проводником. Запасной вариант — день на полуострове Тронадора.",
+        "title": "Сколько оставлять на гребень",
+        "text": "Местный гид подтверждает правильную finca, время встречи, возраст, состояние подъезда и тип обуви. Высота, ширина гребня и ветер меняются по варианту. Возьмите воду, закрытые кроссовки и защиту от солнца. По видео можно оценить открытость склонов.",
         "sources": [
+          "pelado-report",
           "pelado-guide",
-          "pelado-report"
+          "pelado-local-field-video-roads"
+        ]
+      },
+      {
+        "title": "Что сделать при сильном ветре",
+        "text": "При сильных порывах можно остаться на береговой программе. Для рыбалки или выхода на воду свяжитесь с местным оператором. На фото в карточке — Тронадора и вид на озеро, съёмка гребня доступна в видео.",
+        "sources": [
+          "tronadora-voz-guanacaste-camping",
+          "arenal-lake-local",
+          "pelado-local-field-video-roads"
         ]
       }
     ],
     "contacts": [
       {
-        "name": "Camping La Tronadora",
+        "name": "Camping Bahía de la Península · La Tronadora",
         "source": "camp-tronadora",
-        "note": "Площадка под крышную палатку, поздний заезд, возможность спустить своё судно. Публичный контакт из каталога.",
+        "note": "Площадка для крыши, ворота, ночная цена, электричество и спуск к озеру.",
         "phone": "+506 8859 8990",
         "url": "https://wa.me/50688598990"
       },
       {
+        "name": "Camping La Tronadora · телефон площадки",
+        "source": "tronadora-voz-guanacaste-camping",
+        "note": "Второй опубликованный номер. Уточняйте дневное посещение и условия ночёвки.",
+        "phone": "+506 2693 1370"
+      },
+      {
         "name": "Tenorio Adventure Company",
         "source": "pelado-guide",
-        "note": "Гид, конкретная finca, место встречи и текущая доступность.",
+        "note": "Проводник, выбранный вход и парковка на Серро-Пеладо. Согласуйте требования к возрасту.",
         "phone": "+506 2668 8203",
         "email": "reservaciones@tenorioadventurecompany.com"
       }
@@ -749,9 +799,16 @@
     "nearby": [
       "tronadora-roof",
       "cerro-pelado",
-      "arenal-fishing",
-      "nuevo-arenal-parque-lago-own",
-      "arenal-local-roof-paddle-2"
+      "arenal-local-roof-paddle-2",
+      "arenal-fishing"
+    ],
+    "line": "tronadora-weekend-roof",
+    "photos": [
+      "tronadora",
+      "arenal-dam"
+    ],
+    "videos": [
+      "pelado-local-field-video-roads"
     ]
   },
   "cerro-pelado": {
@@ -785,45 +842,66 @@
       {
         "name": "Tenorio Adventure Company",
         "source": "pelado-guide",
-        "note": "Гид, конкретная finca, место встречи и текущая доступность.",
+        "note": "Свежая точка старта, проезд до конкретной finca и минимальный возраст. Уточняйте время выезда с учётом порывов и гроз.",
         "phone": "+506 2668 8203",
+        "url": "https://www.tenorioadventurecompany.com/service/cerro-pelado/",
         "email": "reservaciones@tenorioadventurecompany.com"
       }
     ],
     "nearby": [
       "tronadora-weekend-roof",
       "tronadora-roof"
+    ],
+    "videos": [
+      "pelado-local-field-video-roads"
     ]
   },
   "higueron-roof": {
     "stops": [
       {
         "point": "st-elena",
-        "role": "Ориентир региона",
-        "note": "Посёлок Санта-Элена. Для въезда используйте пин кемпинга, который присылает хозяин."
+        "role": "Перед заездом · запасы и связь",
+        "note": ""
+      },
+      {
+        "point": "camp-higueron-pin",
+        "role": "Пин кемпинга · место у ворот уточните",
+        "note": ""
       },
       {
         "point": "st-elena-reserva",
-        "role": "Пешая программа рядом",
-        "note": "Указана самостоятельная точка посещения лесного резервата."
+        "role": "Дневной выезд в общинный заповедник",
+        "note": ""
       }
     ],
-    "track": null,
+    "track": "higueron-finca-modelo-map",
     "sections": [
       {
-        "title": "Палатка на крыше и дорога",
-        "text": "Кемпинг принимает автомобили с крышной палаткой. В справочнике описан крутой неровный подъезд, где рекомендован 4×4. До выезда запрашивайте пин открытия ворот и фактические условия после дождя.",
+        "title": "Подъезд с машиной и время",
+        "text": "Последний отрезок идёт по местной крутой дороге. Сверьте высоту 4×4 с палаткой, где открыть ворота и куда заезжать после дождя. Справочник оценивает дорогу от посёлка примерно в 12 минут для обычных условий. С полотном палатки и детьми рассчитывайте на большее время.",
         "sources": [
+          "higueron-finca-modelo-map",
           "higueron-owner",
           "higueron"
         ]
       },
       {
-        "title": "Ветер, площадки и соседний лес",
-        "text": "В отчётах отмечены ветер на открытых местах и хороший обзор. Выбирайте прикрытую площадку, если ветрено. Обсудите горячий душ, костёр и доступ на водопад. На второй день можно выделить время на облачный лес Санта-Элены.",
+        "title": "Ветер, площадка и быт",
+        "text": "Справочник и отзывы отмечают открытый вид и сильный ветер. При брони спросите про укрытие за деревьями, душ, правила огня и возможность поставить машину ровно. Возьмите тёплый слой и запасную сухую одежду.",
         "sources": [
           "higueron",
-          "higueron-review"
+          "higueron-review",
+          "higueron-owner"
+        ]
+      },
+      {
+        "title": "Лесная прогулка на следующий день",
+        "text": "Для прогулки можно заехать в заповедник Санта-Элена на 500-метровый доступный круг или на более длинную тропу. Фото в карточке показывает лес у заповедника. Съёмка с кемпинга доступна в видео и галерее Camping Guide.",
+        "sources": [
+          "santa-elena-community-trails",
+          "santa-elena-community-tickets-2026",
+          "higueron-overland-photo-video",
+          "higueron"
         ]
       }
     ],
@@ -831,51 +909,113 @@
       {
         "name": "Camping Higuerón",
         "source": "higueron-owner",
-        "note": "Телефон хозяина. Запросите координаты въезда и доступную площадку.",
-        "phone": "+506 8373 5808",
-        "url": "https://wa.me/50683735808"
+        "note": "Бронь и геометка ворот. Сообщите высоту машины, размер палатки и ожидаемое время заезда.",
+        "url": "https://wa.me/50683735808",
+        "phone": "+506 8373 5808"
+      },
+      {
+        "name": "Reserva Bosque Nuboso Santa Elena",
+        "source": "santa-elena-community-tickets-2026",
+        "note": "Тропы для самостоятельного входа. Уточните доступ с коляской и закажите гида для выбранного маршрута.",
+        "phone": "+506 8532 9090",
+        "email": "reservaciones@reservasantaelena.org",
+        "url": "https://reservasantaelena.org/index.php/reservaciones/"
       }
     ],
     "nearby": [
+      "higueron-santa-elena-roof-2",
+      "santa-elena-reserve-local",
       "monteverde-reserve"
+    ],
+    "line": "higueron-roof",
+    "photos": [
+      "santa-elena-cloud-forest"
+    ],
+    "videos": [
+      "higueron-overland-photo-video"
     ]
   },
   "ganadito-roof": {
     "stops": [
       {
-        "point": "chacarita-osa",
-        "role": "Вариант сухопутного подъезда",
-        "note": "Развилка со стороны Chacarita."
+        "point": "osa-chacarita-fuel",
+        "role": "Чакарита · заправка и развилка Ruta 245",
+        "note": ""
       },
       {
-        "point": "progreso",
-        "role": "El Progreso",
-        "note": "Ориентир перед ответвлением на Punta Ganadito."
+        "point": "osa-rincon-turn",
+        "role": "Поворот к Ранчо-Кемадо",
+        "note": "Следуйте указателю на Rancho Quemado и Drake."
+      },
+      {
+        "point": "osa-rancho-quemado-town",
+        "role": "Ранчо-Кемадо · местная экскурсия и ориентир дороги",
+        "note": ""
+      },
+      {
+        "point": "osa-rio-drake-fork",
+        "role": "Развилка на Эль-Прогресо и Агуитас",
+        "note": "Путь к лагерю сверяйте с администрацией."
+      },
+      {
+        "point": "osa-rio-drake-bridge",
+        "role": "Мост через реку Дрейк · путь на Агуитас",
+        "note": ""
+      },
+      {
+        "point": "drake-town",
+        "role": "Агуитас · резервный посёлок у залива",
+        "note": ""
+      },
+      {
+        "point": "osa-escuela-progreso-area",
+        "role": "Школа Эль-Прогресо · начало последнего проверенного отрезка",
+        "note": ""
       },
       {
         "point": "ganadito-camp",
-        "role": "Кемпинг",
-        "note": "Координаты по опубликованному Plus Code. Подтвердите заезд у оператора."
+        "role": "Ganadito Camping · частный береговой кемпинг",
+        "note": ""
       }
     ],
-    "track": null,
+    "track": "ganadito-cr",
     "sections": [
       {
-        "title": "Два подъезда к берегу",
-        "text": "Сухопутный вариант через Chacarita, Los Mogos, Rincón, Rancho Quemado и El Progreso. Второй вариант через паром Sierpe и грунтовые участки. Для крыши и тяжёлой машины отдельно проверьте переправу, погоду и маршрут у кемпинга.",
+        "title": "Два отрезка подъезда",
+        "text": "На основном маршруте от Чакариты до Агуитас около 75,7 км через Ринкон и Ранчо-Кемадо. У подъезда к заливу есть мост через Río Drake. К Ганадито ехать нужно по согласованной дороге через Эль-Прогресо. Последний нанесённый участок от школы около 3,6 км. Перед выездом попросите владельца прислать текущий путь от развилки.",
         "sources": [
-          "ganadito-cr",
-          "ganadito-ict",
-          "ganadito-video"
+          "rancho-quemado-community-road",
+          "mytanfeet-drake-rincon-road-field",
+          "inder-drake-la-tortuga-bridge-2025",
+          "ganadito-cr"
         ]
       },
       {
-        "title": "Как устроена база и чем заняться",
-        "text": "У площадки публикуются душ, парковка и местная кухня. Через хозяев можно уточнить лодочные туры, Корковадо, мангры и рыбалку. По отчётам, место простое, с хорошим видом и спокойным вечерним режимом. Подтвердите конкретное место под крышную палатку.",
+        "title": "Броды, дожди и время",
+        "text": "INDER сообщил об открытии отдельного моста La Tortuga в 2025 году. На открытых картах рядом по-прежнему отмечены броды, а путевые источники по-разному описывают последние проезды. Планируйте дневной подъезд. От Чакариты оставьте около 2–3 часов и больше при осадках. При плохих условиях запасным вариантом остаются Сьерпе, пассажирская лодка и лодж в Дрейке.",
         "sources": [
-          "camp-ganadito",
+          "inder-drake-la-tortuga-bridge-2025",
+          "pura-osa-drake-road-season-2026",
+          "mytanfeet-drake-rincon-road-field",
+          "sierpe-xplorer-logistics"
+        ]
+      },
+      {
+        "title": "Ночёвка, еда и развлечения",
+        "text": "Кемпинг публикует кухонную зону, душ, ресторан и местные экскурсии. Можно спросить ночной тариф, прокат палатки, рыбалку и выход на воду с проводником. Для крыши запаситесь водой, фонарём, противомоскитной сеткой и гермоупаковкой. Уточните место стоянки вдали от мокрого берега и место для лестницы.",
+        "sources": [
           "ganadito-cr",
-          "ganadito-video"
+          "camp-ganadito",
+          "pura-osa-drake-road-season-2026"
+        ]
+      },
+      {
+        "title": "Местный опыт и фото",
+        "text": "Видео Go Pup Go показывает одну из поездок с автомобильным паромом. Уровень воды и доступ на таком маршруте проверяйте заново. Фото в карточке сделано у залива Дрейк. Снимки самой площадки и правила брони доступны в карточке Camping.cr.",
+        "sources": [
+          "ganadito-video",
+          "ganadito-cr",
+          "inder-drake-la-tortuga-bridge-2025"
         ]
       }
     ],
@@ -883,13 +1023,39 @@
       {
         "name": "Ganadito Camping Bahía Drake",
         "source": "ganadito-cr",
-        "note": "Публичный номер организации экскурсий и текущий подъезд.",
-        "phone": "+506 6201 2536"
+        "note": "Ночёвка, положение последнего съезда, проходимость, еда и экскурсии. Попросите актуальную геометку дороги к площадке.",
+        "phone": "+506 6201 2536",
+        "url": "https://camping.cr/listing/ganadito-camping-bahia-drake/"
+      },
+      {
+        "name": "Jessica Roldán · Asociación de Desarrollo Integral",
+        "source": "rancho-quemado-sendero-osa-local",
+        "note": "Запись на Sendero Osa, точка встречи, состояние тропы и варианты обеда.",
+        "phone": "+506 8667 2535",
+        "email": "adi.ranchoquemado@gmail.com",
+        "url": "https://visitranchoquemado.com/es/tours/sendero-osa"
+      },
+      {
+        "name": "SierpeXplorer · пассажирская лодка",
+        "source": "sierpe-xplorer-contacts",
+        "note": "Места отправления и высадки, перевозимый багаж и варианты стоянки в Сьерпе.",
+        "phone": "+506 6232 5199",
+        "url": "https://sierpexplorer.com/es/contact-us"
       }
     ],
     "nearby": [
-      "sierpe-boat",
-      "osa-expedition-6"
+      "osa-expedition-6",
+      "drake-without-car-3",
+      "rancho-quemado-sendero-osa-23",
+      "rancho-quemado-laguna-chocuaco",
+      "corcovado-sirena"
+    ],
+    "line": "ganadito-roof",
+    "photos": [
+      "drake"
+    ],
+    "videos": [
+      "ganadito-video"
     ]
   },
   "naranjo-4x4": {

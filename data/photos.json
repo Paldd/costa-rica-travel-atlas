@@ -196,5 +196,86 @@
     "license": "CC BY 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Platja_de_Bahia_Drake._-_panoramio.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "casona-santa-rosa": {
+    "file": "overland-casona-santa-rosa.jpg",
+    "alt": "Здание исторического музея Ла-Касона",
+    "caption": "Ла-Касона · исторический сектор Santa Rosa · уменьшенная версия",
+    "author": "Rodtico21",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Casonasantarosa2.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "santa-rosa-dry-forest": {
+    "file": "overland-santa-rosa-dry-forest.jpg",
+    "alt": "Листопадный лес в национальном парке Санта-Роса",
+    "caption": "Сухой лес национального парка Санта-Роса · уменьшенная версия",
+    "author": "Geoff Gallice from Gainesville, FL, USA",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Bosque_seco.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "santa-elena-cloud-forest": {
+    "file": "overland-santa-elena-cloud-forest.jpg",
+    "alt": "Густая растительность облачного леса Санта-Элена",
+    "caption": "Облачный лес заповедника Санта-Элена · уменьшенная версия",
+    "author": "Geoff Gallice from Gainesville, FL, USA",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Flickr_-_ggallice_-_Santa_Elena_Reserve.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "santa-elena-reception": {
+    "file": "overland-santa-elena-reception.jpg",
+    "alt": "Посетительский центр лесного заповедника Санта-Элена",
+    "caption": "Приёмный центр заповедника Санта-Элена · уменьшенная версия",
+    "author": "Cephas",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Santa_Elena_Reserve_reception_centre.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "avellanas": {
+    "file": "overland-avellanas.jpg",
+    "alt": "Тихоокеанский берег Плайя-Авельянас",
+    "caption": "Плайя-Авельянас · берег · уменьшенная версия",
+    "author": "DanielaAvila26",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Avellanas.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "carrillo": {
+    "file": "overland-carrillo.jpg",
+    "alt": "Залив и пляж Каррильо с воздуха",
+    "caption": "Плайя-Каррильо · берег залива · уменьшенная версия",
+    "author": "Jackiemora01",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Arial_photo_of_Carrillo.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "amistad-bridge": {
+    "file": "overland-amistad-bridge.jpg",
+    "alt": "Мост Ла-Амистад через Темписке",
+    "caption": "Пуэнте-де-ла-Амистад · Рио-Темписке · уменьшенная версия",
+    "author": "Peloy (Allan H.M.)",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Puente_de_la_Amistad,_R%C3%ADo_Tempisque,_Guanacaste,_Costa_Rica._-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "montezuma-shore": {
+    "file": "overland-montezuma-shore.jpg",
+    "alt": "Ручей у берега Монтесумы",
+    "caption": "Плайя-Монтесума · ручей у океана · уменьшенная версия",
+    "author": "latforum",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Riachuelo_llegando_al_mar,_Playa_Montezuma-Creek_reaching_sea_at_Montezuma_Beach_2_-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "sierpe-river": {
+    "file": "overland-sierpe-river.jpg",
+    "alt": "Сьерпе и растительность у берегов",
+    "caption": "Рио-Сьерпе · вид с воды · уменьшенная версия",
+    "author": "Bernard Gagnon",
+    "license": "CC0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sierpe_River,_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
   }
 }

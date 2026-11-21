@@ -927,7 +927,11 @@
       "naranjo-4x4",
       "junquillal"
     ],
-    "track": "santa-rosa-ict-map"
+    "track": "santa-rosa-ict-map",
+    "photos": [
+      "casona-santa-rosa",
+      "santa-rosa-dry-forest"
+    ]
   },
   "santa-rosa-camp": {
     "stops": [
@@ -982,7 +986,10 @@
       "junquillal",
       "naranjo-4x4"
     ],
-    "track": "santa-rosa-ict-map"
+    "track": "santa-rosa-ict-map",
+    "photos": [
+      "casona-santa-rosa"
+    ]
   },
   "naranjo-surf": {
     "stops": [
@@ -1419,52 +1426,69 @@
   "junquillal": {
     "stops": [
       {
+        "point": "junquillal-cuajiniquil",
+        "role": "Куахиникиль · ориентир перед подъездом",
+        "note": ""
+      },
+      {
         "point": "junquillal-gate",
-        "role": "Въезд в заказник и стойка Aso Junquillal",
-        "note": "Место самой палатки выделяет ассоциация."
+        "role": "Заказник · въезд и распределение площадок",
+        "note": ""
       },
       {
         "point": "rajada-area",
-        "role": "Возможный дневной выезд к Playa Rajada",
-        "note": "Отдельный район, точку выхода к пляжу уточните на месте."
+        "role": "Плайя-Рахада · возможный дневной выезд",
+        "note": ""
       }
     ],
     "sections": [
       {
-        "title": "Ночёвка с палаткой на крыше",
-        "text": "Местный отчёт описывает ночёвку в официальной зоне на кемпере с крышной палаткой. Ассоциация ведёт запись и распределяет стоянки. При бронировании назовите длину машины и уточните наличие навеса, текущую цену и время заезда.",
+        "title": "Куда ставят машину и как бронировать",
+        "text": "ACG указывает отдельную зону для кемперов с площадками, столами, решётками и раковиной. Предупредите ассоциацию о длине, высоте и типе палатки. Репортаж Costa Rica Cool за июль 2026 показывает ночёвку автомобиля с палаткой на крыше. Ночной тариф и время ворот подтверждает площадка.",
         "sources": [
-          "junquillal-roof-local",
-          "junquillal-booking",
-          "junquillal-association"
+          "junquillal-trails",
+          "junquillal-association",
+          "junquillal-roof-local"
         ]
       },
       {
-        "title": "Тропа и отдых у воды",
-        "text": "У заказника есть лесная тропа вдоль Estero Seco. Проверьте состояние маршрута, прилив и разрешённую зону у воды в день визита. Дневной выезд к северной Playa Rajada можно сделать отдельно, оставив ночёвку в официальном лагере.",
+        "title": "Три короткие тропы",
+        "text": "El Carao — лесной круг 600 м. Estero Seco — 800 м вдоль эстуария в одну сторону. La Laguna — 800 м у лагуны от конца кемпинга. Для детей выбирайте доступный участок по жаре и состоянию тропы. У каждой тропы своё начало, сохраните схему у стойки.",
         "sources": [
           "junquillal-trails",
-          "junquillal-roof-local",
           "junquillal"
+        ]
+      },
+      {
+        "title": "Каяк, еда и вечерний режим",
+        "text": "ACG публикует прокат одиночного и двойного каяков по 30 минут. Перед выходом спросите про условия и жилеты. Вечером правила требуют погасить свет в 21:00, беречь запас воды и отказаться от костров. Для приготовления разрешены газовые и угольные приборы по указаниям персонала.",
+        "sources": [
+          "junquillal-trails",
+          "junquillal-booking"
         ]
       }
     ],
     "contacts": [
       {
-        "name": "Aso Junquillal",
-        "source": "junquillal-booking",
-        "note": "Дневной визит, место для кемпера, въезд с крышей и резервирование ночёвки.",
-        "phone": "+506 6231 5191",
-        "url": "https://wa.me/50662315191",
-        "email": "info@junquillallacruz.com"
+        "name": "Aso Junquillal · площадки для кемперов",
+        "source": "junquillal-association",
+        "note": "Просите место именно в зоне vehículos camper, уточните въезд, ночной тариф и размер транспорта.",
+        "phone": "+506 6133 0349",
+        "email": "info@junquillallacruz.com",
+        "url": "https://wa.me/50661330349"
       },
       {
         "name": "Área de Conservación Guanacaste",
         "source": "acg-booking",
-        "note": "Резервации, часы работы, состояние доступа и правила конкретного сектора.",
-        "phone": "+506 2666 5051",
-        "url": "https://wa.me/50688869510",
-        "email": "ecoturismo@acguanacaste.ac.cr"
+        "note": "Общие вопросы о доступе в охраняемые сектора.",
+        "phone": "+506 2666 5051"
+      },
+      {
+        "name": "Aso Junquillal · второй номер",
+        "source": "junquillal-booking",
+        "note": "Резервный номер для связи с площадкой и уточнения въезда.",
+        "phone": "+506 6231 5191",
+        "url": "https://wa.me/50662315191"
       }
     ],
     "nearby": [
@@ -1479,23 +1503,28 @@
       {
         "point": "santa-rosa-casona-point",
         "role": "День 1 · La Casona",
-        "note": "Короткая прогулка сухого леса от исторического комплекса."
+        "note": ""
+      },
+      {
+        "point": "junquillal-cuajiniquil",
+        "role": "День 1 · Куахиникиль",
+        "note": ""
       },
       {
         "point": "junquillal-gate",
-        "role": "День 1 · кемпинг и ночёвка",
-        "note": "Место и режим въезда подтвердите у ассоциации."
+        "role": "День 1 · лагерь у бухты",
+        "note": ""
       },
       {
         "point": "rajada-area",
-        "role": "День 2 · дополнительная остановка Playa Rajada",
-        "note": "Береговой выезд после утренней тропы в заказнике."
+        "role": "День 2 · подход к берегу Рахада",
+        "note": ""
       }
     ],
     "sections": [
       {
-        "title": "Почему сочетание удобно на выходные",
-        "text": "Историческая зона Santa Rosa доступна по внутреннему асфальту. Затем маршрут возвращается на основную дорожную сеть по направлению к Cuajiniquil и лагерь Junquillal. Это даёт короткую семейную прогулку и отдельную ночёвку у моря.",
+        "title": "Два коротких дня без длинных переездов",
+        "text": "От Ла-Касоны до лагеря около 32,1 км. Выбирайте по одному короткому выходу до и после ночёвки. Дорогу к пляжу Наранхо проверяйте отдельно, если решили добавить его на третий день.",
         "sources": [
           "santa-rosa",
           "santa-rosa-ict-map",
@@ -1503,22 +1532,32 @@
         ]
       },
       {
-        "title": "Если едете с крышей",
-        "text": "Локальный отчёт подтверждает такой формат на площадке. Уточните ровный проезд, тень, питьевую воду и время, после которого закрывается въезд. Северный пляж на второй день остаётся дневной остановкой.",
+        "title": "Какую площадку просить",
+        "text": "На официальной странице указан сектор для машины с ночёвкой. Бронируйте через Aso Junquillal и сообщите размер крыши и машины. На момент сверки ACG публиковал обычный тариф для взрослых кемперов ₡4 520 для местных или $18,08 для иностранных посетителей. Попросите подтвердить тариф своего автомобиля. Для готовки берите газ либо уголь по правилам лагеря.",
+        "sources": [
+          "junquillal-booking",
+          "junquillal-association",
+          "junquillal-trails"
+        ]
+      },
+      {
+        "title": "Фото и полевой отчёт",
+        "text": "Фото в атласе показывает исторический сектор и сухой лес Санта-Росы. Место ночёвки с раскрытой крышей и пляж Рахада видны в отчёте Costa Rica Cool, берег также можно посмотреть в репортаже Teletica.",
         "sources": [
           "junquillal-roof-local",
-          "junquillal-booking"
+          "teletica-rajada-2026-on-location",
+          "santa-rosa"
         ]
       }
     ],
     "contacts": [
       {
-        "name": "Aso Junquillal",
-        "source": "junquillal-booking",
-        "note": "Дневной визит, место для кемпера, въезд с крышей и резервирование ночёвки.",
-        "phone": "+506 6231 5191",
-        "url": "https://wa.me/50662315191",
-        "email": "info@junquillallacruz.com"
+        "name": "Aso Junquillal · площадки для кемперов",
+        "source": "junquillal-association",
+        "note": "Просите место именно в зоне vehículos camper, уточните въезд, ночной тариф и размер транспорта.",
+        "phone": "+506 6133 0349",
+        "email": "info@junquillallacruz.com",
+        "url": "https://wa.me/50661330349"
       },
       {
         "name": "Área de Conservación Guanacaste",
@@ -1530,35 +1569,56 @@
       }
     ],
     "nearby": [
-      "santa-rosa-casona",
       "junquillal",
-      "naranjo-4x4"
+      "rajada-salinas-beach",
+      "santa-rosa-casona",
+      "santa-rosa-camp"
     ],
-    "track": "santa-rosa-ict-map"
+    "track": "junquillal-trails",
+    "line": "santa-rosa-junquillal",
+    "photos": [
+      "casona-santa-rosa",
+      "santa-rosa-dry-forest"
+    ]
   },
   "oasis-roof": {
     "stops": [
       {
-        "point": "amistad-bridge",
-        "role": "Дорожный ориентир перед кемпингом",
-        "note": "Точка на мосту отмечает направление по Ruta 18. Точный въезд на площадку пришлют владельцы."
+        "point": "nicoya-amistad-road",
+        "role": "Западный выезд с моста · дорожный ориентир",
+        "note": ""
+      },
+      {
+        "point": "oasis-camp-pin",
+        "role": "Остановка на ночь · частная площадка",
+        "note": ""
       }
     ],
     "sections": [
       {
-        "title": "Ровная площадка по пути на Никойю",
-        "text": "Каталог указывает места для наземной и крышной палатки и фургона, душевые и общую кухню. В авторском отчёте участники ждали открытия ворот, когда приехали без договорённости. Спросите цену, место и срок последнего заезда заранее.",
+        "title": "Условия площадки",
+        "text": "Справочник описывает ровную площадку с каменным покрытием, санузлами, душем, электричеством и общей кухней. Опубликован ориентир ₡12 000 либо $25 за автомобиль и ночь. Перед бронированием уточните действующую цену и что входит.",
         "sources": [
           "camp-oasis",
-          "oasis-bikepacking-report"
+          "oasis-camp-route18-map"
         ]
       },
       {
-        "title": "Если приезжаете на велосипеде",
-        "text": "Автор поездки отмечает движение машин на Ruta 18. Оформите заезд до темноты и обсудите последние километры с хозяевами. Кемпинг подходит как перевалочная база, из которой выбирают направление на Никойю.",
+        "title": "Где ждать открытия ворот",
+        "text": "Пин находится непосредственно около Ruta 18. Приезжавшие на велосипедах авторы ждали владельца, когда заехали без предупреждения. Согласуйте время или уточните, кто встречает. На вечер запаситесь питьевой водой и едой в Никое или на предыдущей остановке.",
         "sources": [
+          "oasis-bikepacking-report",
           "camp-oasis",
-          "oasis-bikepacking-report"
+          "mopt-puente-la-amistad-nicoya"
+        ]
+      },
+      {
+        "title": "Фото и ветка дальше на Никою",
+        "text": "На фото в атласе — мост по дороге к стоянке. Снимки площадки и отчёт о ночлеге открываются в справочнике и блоге. Отсюда можно продолжить на Авельянас через Санта-Крус.",
+        "sources": [
+          "oasis-camp-route18-map",
+          "oasis-bikepacking-report",
+          "camp-oasis"
         ]
       }
     ],
@@ -1566,23 +1626,28 @@
       {
         "name": "Oasis Place Campground",
         "source": "camp-oasis",
-        "note": "Запросите точный пин въезда, время открытия ворот и подтверждение места под крышную палатку.",
+        "note": "Пришлите время заезда заранее, чтобы принимающий открыл ворота. Номер для заказов начинается с +1.",
         "phone": "+1 973 517 0237",
         "url": "https://wa.me/19735170237"
       }
     ],
     "nearby": [
-      "week-4x4-mtb",
-      "junquillal"
+      "nicoya-5",
+      "avellanas-camp",
+      "week-4x4-mtb"
     ],
-    "track": "camp-oasis"
+    "track": "oasis-camp-route18-map",
+    "line": "oasis-roof",
+    "photos": [
+      "amistad-bridge"
+    ]
   },
   "week-4x4-mtb": {
     "stops": [
       {
-        "point": "amistad-bridge",
-        "role": "День 1 · Ruta 18, ориентир для Oasis Place",
-        "note": "Получите пин въезда у хозяев или выберите другую согласованную ночёвку."
+        "point": "oasis-camp-pin",
+        "role": "День 1 · ночёвка Oasis Place",
+        "note": ""
       },
       {
         "point": "rincon-trails-base",
@@ -1606,8 +1671,8 @@
       },
       {
         "point": "tronadora-camp",
-        "role": "День 6 · подтверждённая стоянка у озера",
-        "note": ""
+        "role": "День 6 · автокемпинг у озера",
+        "note": "Работу ворот и место для машины подтвердите при бронировании."
       },
       {
         "point": "arenal-peninsula-entry",
@@ -1644,6 +1709,16 @@
           "santa-rosa-ict-map",
           "rincon-trails-route"
         ]
+      },
+      {
+        "title": "Заезд на первую и озёрную ночёвки",
+        "text": "Oasis Place отмечен точкой у Ruta 18. Номер с +1 опубликован для договорённости о времени ворот. В Тронадоре отмечены основной кемпинг и местная дорога из Тиларана в отдельной карточке. Проверяйте наличие места в ночь своего заезда.",
+        "sources": [
+          "oasis-camp-route18-map",
+          "camp-oasis",
+          "tronadora-voz-guanacaste-camping",
+          "tronadora-osm"
+        ]
       }
     ],
     "contacts": [
@@ -1670,21 +1745,27 @@
         "email": "ecoturismo@acguanacaste.ac.cr"
       },
       {
-        "name": "Aso Junquillal",
-        "source": "junquillal-booking",
-        "note": "Дневной визит, место для кемпера, въезд с крышей и резервирование ночёвки.",
-        "phone": "+506 6231 5191",
-        "url": "https://wa.me/50662315191",
-        "email": "info@junquillallacruz.com"
+        "name": "Aso Junquillal · площадки для кемперов",
+        "source": "junquillal-association",
+        "note": "Просите место именно в зоне vehículos camper, уточните въезд, ночной тариф и размер транспорта.",
+        "phone": "+506 6133 0349",
+        "email": "info@junquillallacruz.com",
+        "url": "https://wa.me/50661330349"
       }
     ],
     "nearby": [
       "santa-rosa-junquillal",
       "naranjo-4x4",
       "rincon-mtb-30",
-      "tronadora-weekend-roof"
+      "tronadora-weekend-roof",
+      "nicoya-5"
     ],
-    "track": "rincon-trails-route"
+    "track": "rincon-trails-route",
+    "photos": [
+      "amistad-bridge",
+      "dantita",
+      "tronadora"
+    ]
   },
   "arenal-eco-camp": {
     "stops": [

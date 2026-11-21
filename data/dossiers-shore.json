@@ -230,58 +230,126 @@
     "stops": [
       {
         "point": "marino-uvita-gate",
-        "role": "День 1 · Увита и Marino Ballena",
-        "note": "Прогулку к песчаной косе планируйте по приливу."
+        "role": "День 1 · Увита",
+        "note": ""
       },
       {
         "point": "sierpe-perla",
-        "role": "День 2 · пассажирская развилка в Сьерпе",
-        "note": "Для варианта с лодкой машина остаётся на материке."
+        "role": "День 2 · посадка и водные прогулки",
+        "note": ""
+      },
+      {
+        "point": "osa-palmar-sur-town",
+        "role": "День 3 · Пальмар-Сур",
+        "note": ""
+      },
+      {
+        "point": "osa-chacarita-fuel",
+        "role": "Чакарита · заправка и развилка Ruta 245",
+        "note": ""
+      },
+      {
+        "point": "osa-rincon-turn",
+        "role": "Поворот к Ранчо-Кемадо",
+        "note": "Следуйте указателю на Rancho Quemado и Drake."
+      },
+      {
+        "point": "osa-rancho-quemado-town",
+        "role": "Ранчо-Кемадо · местная экскурсия и ориентир дороги",
+        "note": ""
+      },
+      {
+        "point": "osa-rio-drake-fork",
+        "role": "Развилка на Эль-Прогресо и Агуитас",
+        "note": "Путь к лагерю сверяйте с администрацией."
+      },
+      {
+        "point": "osa-rio-drake-bridge",
+        "role": "Мост через реку Дрейк · путь на Агуитас",
+        "note": ""
+      },
+      {
+        "point": "drake-town",
+        "role": "Агуитас · резервный посёлок у залива",
+        "note": ""
+      },
+      {
+        "point": "osa-escuela-progreso-area",
+        "role": "Школа Эль-Прогресо · начало последнего проверенного отрезка",
+        "note": ""
       },
       {
         "point": "ganadito-camp",
-        "role": "День 3 · Ganadito при поездке на машине",
-        "note": "Если приехали на лодке, выбирайте жильё у Agujitas или подтверждённый трансфер."
+        "role": "Ganadito Camping · частный береговой кемпинг",
+        "note": ""
       },
       {
         "point": "drake-agujitas-landing",
-        "role": "Дни 4–5 · лодки из Дрейка",
-        "note": "Отдельно согласуйте Corcovado Sirena и Каньо."
+        "role": "Агуитас · пассажирская высадка",
+        "note": ""
       },
       {
         "point": "osa-sirena-landing",
-        "role": "День 4 · высадка Sirena",
-        "note": "Утреннее время и фактическую высадку задаёт организатор."
-      },
-      {
-        "point": "sierpe-perla",
-        "role": "День 6 · возврат или погодный запас",
-        "note": "Для лодочного варианта уточните обратный рейс и буфер до автобуса."
+        "role": "Сирена · ориентир высадки с гидом",
+        "note": ""
       }
     ],
     "sections": [
       {
-        "title": "Решите, где останется машина",
-        "text": "Пассажирский катер идёт из La Perla del Sur до пляжной высадки в Agujitas. Для крыши на машине нужна подтверждённая по дождю дорога в Дрейк и бронь Ganadito. У этих вариантов разные ночёвки и перевозка снаряжения.",
+        "title": "Машина с крышей или пассажирская лодка",
+        "text": "Ночёвка в Ганадито зависит от допуска машины, последнего подъезда и погоды. Пассажирский план включает оставление машины у причала Сьерпе, мягкую сумку для мокрой высадки и лодж в Дрейке. Автомобильный путь на карте начинается со стороны Пальмар-Сур через основные дороги и проходит через заправку Чакарита.",
         "sources": [
-          "sierpe-xplorer-logistics",
-          "drake-road-utopia",
-          "camp-ganadito",
-          "tico-osa"
+          "ganadito-cr",
+          "pura-osa-drake-road-season-2026",
+          "sierpe-xplorer-logistics"
         ]
       },
       {
-        "title": "Причалы, пропуска и запас времени",
-        "text": "Запланируйте два отдельных ранних дня для Sirena и Каньо. Пропуска и гиды зависят от сектора, море может изменить расписание. У лодочного оператора уточните сухую сумку и помощь на высадке. Между последним выездом и обратным автобусом оставьте запас.",
+        "title": "Подъезд к Ганадито и погодный запас",
+        "text": "INDER сообщил об открытии отдельного моста La Tortuga в 2025 году. На открытых картах рядом по-прежнему отмечены броды, а путевые источники по-разному описывают последние проезды. Планируйте дневной подъезд. От Чакариты оставьте около 2–3 часов и больше при осадках. При плохих условиях запасным вариантом остаются Сьерпе, пассажирская лодка и лодж в Дрейке.",
         "sources": [
-          "osa-sirena-sinac",
-          "cano-sinac-visit",
-          "sierpe-xplorer-logistics",
-          "osa-ict-account"
+          "inder-drake-la-tortuga-bridge-2025",
+          "ganadito-cr",
+          "mytanfeet-drake-rincon-road-field",
+          "pura-osa-drake-road-season-2026"
+        ]
+      },
+      {
+        "title": "Брони и снаряжение для двух лодочных дней",
+        "text": "Заказывайте места на Сирену и Каньо на разные дни. Уточняйте билет, имя судна и гида, способ высадки, требования к документам, время возвращения и условия переноса. Берите гермочехол и обувь для мокрой высадки. Для лагеря добавьте налобный фонарь, воду, защиту от насекомых и сухой комплект.",
+        "sources": [
+          "corcovado",
+          "cano-jade-contacts",
+          "sierpe-xplorer-logistics"
+        ]
+      },
+      {
+        "title": "Что посетить между переездами",
+        "text": "Ранчо-Кемадо предлагает общинную тропу, знакомство с историей старателей, местную еду и прогулку у лагуны. Уточняйте встречи у местных хозяев. Фотографии показывают залив Дрейк и реку Сьерпе.",
+        "sources": [
+          "rancho-quemado-biocultural-list",
+          "rancho-quemado-sendero-osa-local",
+          "rancho-quemado-artesanal-gold-el-rancho",
+          "muni-osa-laguna-chocuaco-tour"
         ]
       }
     ],
     "contacts": [
+      {
+        "name": "Ganadito Camping Bahía Drake",
+        "source": "ganadito-cr",
+        "note": "Ночёвка, положение последнего съезда, проходимость, еда и экскурсии. Попросите актуальную геометку дороги к площадке.",
+        "phone": "+506 6201 2536",
+        "url": "https://camping.cr/listing/ganadito-camping-bahia-drake/"
+      },
+      {
+        "name": "Jessica Roldán · Asociación de Desarrollo Integral",
+        "source": "rancho-quemado-sendero-osa-local",
+        "note": "Запись на Sendero Osa, точка встречи, состояние тропы и варианты обеда.",
+        "phone": "+506 8667 2535",
+        "email": "adi.ranchoquemado@gmail.com",
+        "url": "https://visitranchoquemado.com/es/tours/sendero-osa"
+      },
       {
         "name": "SierpeXplorer",
         "source": "sierpe-xplorer-contacts",
@@ -306,11 +374,22 @@
     ],
     "nearby": [
       "ganadito-roof",
+      "drake-without-car-3",
+      "rancho-quemado-sendero-osa-23",
+      "rancho-quemado-laguna-chocuaco",
+      "rancho-quemado-el-rancho-gold",
       "corcovado-sirena",
-      "cano-island",
-      "drake-without-car-3"
+      "cano-island"
     ],
-    "track": "sierpe-xplorer-logistics"
+    "track": "rancho-quemado-community-road",
+    "line": "osa-expedition-6",
+    "photos": [
+      "drake",
+      "sierpe-river"
+    ],
+    "videos": [
+      "ganadito-video"
+    ]
   },
   "drake-without-car-3": {
     "stops": [
@@ -383,7 +462,11 @@
       "corcovado-sirena",
       "cano-island"
     ],
-    "track": "sierpe-xplorer-logistics"
+    "track": "sierpe-xplorer-logistics",
+    "photos": [
+      "drake",
+      "sierpe-river"
+    ]
   },
   "nauyaca-nature": {
     "stops": [
@@ -1310,30 +1393,32 @@
   "avellanas-camp": {
     "stops": [
       {
-        "point": "avellanas-camp-area",
-        "role": "Район въезда к Playa Avellanas",
-        "note": "Кемпинг отправит свой пин после подтверждения."
+        "point": "camp-nieves-pin",
+        "role": "Nieves · стоянка и школа сёрфинга",
+        "note": ""
       },
       {
-        "point": "pinilla-beach",
-        "role": "Район Hacienda Pinilla · дополнительный выезд",
-        "note": "Для подъезда к частной территории уточните отдельный пропуск."
+        "point": "avellanas-camp-area",
+        "role": "Ориентир района · другой участок Авельянас",
+        "note": "Вдоль этого подъезда есть и другие школы, проверьте адрес брони."
       }
     ],
     "sections": [
       {
-        "title": "Палатка на земле или на крыше",
-        "text": "В местном каталоге указаны обычные и крышные палатки, фургоны, общая кухня, душ и туалеты. Уточните время открытия ворот, покрытие после дождя и место, где можно поднять крышу своей машины.",
+        "title": "Ночёвка и снаряжение",
+        "text": "В публикации школы есть наземный кемпинг, кабинка, туалет и душ общего пользования. Спрашивайте, какой участок дадут машине с открытой крышей и как заехать после дождя. Для вечернего лагеря нужны фонарь, вода, защита от насекомых и место под лестницу.",
         "sources": [
-          "camp-avellanas",
-          "avellanas-learning"
+          "nieves-avellanas-camping-contact",
+          "nieves-surf-camp-map",
+          "nieves-avellanas-rooftent-field-trip"
         ]
       },
       {
-        "title": "Как совместить с уроком",
-        "text": "Урок и ночёвку согласуйте раздельно. В районе Avellanas есть местные школы, а для короткой тренировки прокат подбирает доску по условиям. Участки рядом с устьем требуют внимания при прибое и течениях.",
+        "title": "Местный урок и условия у берега",
+        "text": "Школа указывает индивидуальную договорённость об уроках и прокате. Уточните размер доски, время занятия, минимальный возраст и какой участок берега выберет инструктор. По отзывам двор тенистый, душ и туалет были на площадке. На главном фото — берег Авельянас. На видеозаписи 2025 года показан сам кемпинг.",
         "sources": [
-          "avellanas-learning",
+          "nieves-avellanas-camping-contact",
+          "nieves-avellanas-overlanding-video",
           "ict-surf",
           "red-cross"
         ]
@@ -1341,19 +1426,25 @@
     ],
     "contacts": [
       {
-        "name": "Nieves Surf Camping",
-        "source": "camp-avellanas",
-        "note": "Точный пин ворот, место под машину или наземную палатку и договорённость о заезде.",
-        "phone": "+506 8679 5278",
-        "url": "https://wa.me/50686795278"
+        "name": "Nieves Surf School / Camping",
+        "source": "nieves-surf-camp-map",
+        "note": "Ночь на автомобиле, место на площадке, тариф, урок и аренда доски. Номер опубликован в карточке школы и в отчёте 2025 года.",
+        "phone": "+506 7200 1117",
+        "url": "https://maps.google.com/?cid=15298970972843327875"
       }
     ],
     "nearby": [
-      "tamarindo-surf",
+      "pinilla-emtb",
       "nicoya-5",
-      "pinilla-emtb"
+      "tamarindo-surf"
     ],
-    "track": "camp-avellanas"
+    "track": "nieves-surf-camp-map",
+    "photos": [
+      "avellanas"
+    ],
+    "videos": [
+      "nieves-avellanas-overlanding-video"
+    ]
   },
   "barra-honda": {
     "stops": [
@@ -1609,7 +1700,10 @@
       "pato-samara-school",
       "nicoya-5"
     ],
-    "track": "ict-nicoya"
+    "track": "ict-nicoya",
+    "photos": [
+      "carrillo"
+    ]
   },
   "santateresa": {
     "stops": [
@@ -1699,7 +1793,10 @@
       "santateresa",
       "nicoya-5"
     ],
-    "track": "montezuma-local-trails"
+    "track": "montezuma-local-trails",
+    "photos": [
+      "montezuma-shore"
+    ]
   },
   "cabo-blanco-sueco": {
     "stops": [
@@ -1752,96 +1849,182 @@
   "nicoya-5": {
     "stops": [
       {
-        "point": "amistad-bridge",
-        "role": "День 1 · Ruta 18 и мост La Amistad",
-        "note": "Пин ночёвки в Oasis Place подтвердите у владельцев."
+        "point": "nicoya-limonal-area",
+        "role": "День 1 · Лимональ",
+        "note": ""
       },
       {
-        "point": "avellanas-camp-area",
-        "role": "День 2 · Авельянас",
-        "note": "На машине с крышей заранее согласуйте место."
+        "point": "nicoya-amistad-road",
+        "role": "День 1 · мост через Темписке",
+        "note": ""
+      },
+      {
+        "point": "oasis-camp-pin",
+        "role": "День 1 · ночёвка Oasis Place",
+        "note": ""
+      },
+      {
+        "point": "nicoya-santa-cruz-area",
+        "role": "Дни 2–3 · Санта-Крус",
+        "note": ""
+      },
+      {
+        "point": "camp-nieves-pin",
+        "role": "День 2 · ночёвка и школа Nieves",
+        "note": ""
+      },
+      {
+        "point": "nicoya-town-area",
+        "role": "Дни 3–4 · Никоя и запасы",
+        "note": ""
       },
       {
         "point": "guiones-north-area",
-        "role": "День 3 · Guiones",
+        "role": "День 3 · Гионес, район школ",
+        "note": ""
+      },
+      {
+        "point": "nicoya-barco-quebrado-area",
+        "role": "День 3 · развилка Barco Quebrado",
         "note": ""
       },
       {
         "point": "carrillo-shore-area",
-        "role": "День 3 · южный берег у Самары",
-        "note": "Остановка по времени и состоянию дороги."
+        "role": "День 3 · берег Каррильо",
+        "note": ""
+      },
+      {
+        "point": "nicoya-jicaral-area",
+        "role": "День 4 · Хикараль, запас топлива",
+        "note": ""
+      },
+      {
+        "point": "nicoya-paquera-town",
+        "role": "День 4 · посёлок Пакера",
+        "note": ""
+      },
+      {
+        "point": "nicoya-cobano-area",
+        "role": "Дни 4–5 · Кобано",
+        "note": ""
+      },
+      {
+        "point": "nicoya-carmen-road-junction",
+        "role": "Дни 4–5 · дорожная развилка на Плайя-Кармен",
+        "note": ""
       },
       {
         "point": "nalu-carmen-area",
-        "role": "День 4 · Santa Teresa и Carmen",
+        "role": "День 4 · берег Кармен",
         "note": ""
       },
       {
         "point": "montezuma-center",
-        "role": "День 5 · Montezuma",
-        "note": "Выберите один подход к каскадам."
+        "role": "День 5 · Монтесума",
+        "note": ""
       },
       {
         "point": "paquera-port-point",
-        "role": "День 5 · район парома Paquera",
-        "note": "Сверьте рейс на материк и очередь машин."
+        "role": "День 5 · автомобильный терминал Пакера",
+        "note": ""
       },
       {
         "point": "puntarenas-terminal-point",
-        "role": "Выход на материк · Puntarenas",
+        "role": "День 5 · материк, Пунтаренас",
         "note": ""
       }
     ],
     "sections": [
       {
-        "title": "Перегоны и сезонная грунтовка",
-        "text": "Раскладка связывает две северные школы сёрфа и южную часть Никойи. Условия прибрежных дорог меняются от дождей и уровня рек. Для переезда к Santa Teresa проверьте маршрут по внутренним общественным дорогам и подход к Cóbano. В заявленные кемпинги уточняйте допуск автопалатки отдельно.",
+        "title": "У каких ночёвок подтверждён формат",
+        "text": "На первые две ночи — Oasis Place и Nieves. В справочнике и полевых отчётах есть палатки на машине. Каррильо и Санта-Тересу планируйте с домиком либо местом, где оператор письменно подтвердит заезд и раскрытие крыши. Береговые фото показывают пляжи по дням маршрута.",
         "sources": [
-          "tico-nicoya",
-          "nomad-road",
-          "camp-avellanas",
-          "camp-oasis"
+          "camp-oasis",
+          "nieves-avellanas-rooftent-field-trip",
+          "nieves-avellanas-camping-contact",
+          "nieves-surf-camp-map"
         ]
       },
       {
-        "title": "Паром и день водопада",
-        "text": "Паром Naviera Tambor идёт между Paquera и Puntarenas. Для машины оформите нужный рейс и заложите время регистрации. Если хотите включить длинный Cabo Blanco, оставьте ему отдельный день вместо плотного совмещения с водопадом и паромом.",
+        "title": "Объезды и состояние дорог",
+        "text": "Длина карты примерно 517 км по суше. Схема через Никою, Barco Quebrado и Пакеру оставляет больше времени на дорогу, зато заменяет прибрежные сокращения через меняющиеся речные пересечения. MOPT сообщает о работах на 150, 160, 21 и 624. Перед стартом дня проверьте перекрытия и указатели.",
+        "sources": [
+          "mopt-roadworks-guanacaste-oct-2026",
+          "gypsy-cab-nosara-barco-quebrado",
+          "nicoya-coastal-crossing-field-2025"
+        ]
+      },
+      {
+        "title": "Перевозка машины через залив",
+        "text": "У Naviera Tambor есть отдельный тариф для легковой и для лёгкой грузовой. На сверке 21.11.2026 для легковой машины опубликовано ₡11 400 плюс IVA, для лёгкой грузовой ₡17 200 плюс IVA. За пассажиров платят отдельно. Сверьте категорию пикапа, слот, прибытие и размеры для машины с крышей.",
         "sources": [
           "paquera-ferry-live",
-          "nomad-ferry",
-          "montezuma-october-2026",
-          "cabo-blanco-qbl-10"
+          "naviera-tambor-paquera-phone",
+          "paquera-ferry-mytanfeet-video"
+        ]
+      },
+      {
+        "title": "Что положить в машину",
+        "text": "Везите сухое бельё и закрытые сумки, фонарь, питьевую воду, средство от насекомых и обувь с хорошим сцеплением. Для песка и солнца запасите защитную одежду. Перед гравийными участками проверьте запасное колесо, домкрат и режим аренды. Для парома держите документы отдельно от уложенной палатки.",
+        "sources": [
+          "nieves-avellanas-rooftent-field-trip",
+          "nicoya-coastal-crossing-field-2025",
+          "paquera-ferry-live"
         ]
       }
     ],
     "contacts": [
       {
-        "name": "Nieves Surf Camping",
-        "source": "camp-avellanas",
-        "note": "Точный пин ворот, место под машину или наземную палатку и договорённость о заезде.",
-        "phone": "+506 8679 5278",
-        "url": "https://wa.me/50686795278"
+        "name": "Oasis Place Campground",
+        "source": "camp-oasis",
+        "note": "Пришлите время заезда заранее, чтобы принимающий открыл ворота. Номер для заказов начинается с +1.",
+        "phone": "+1 973 517 0237",
+        "url": "https://wa.me/19735170237"
+      },
+      {
+        "name": "Nieves Surf School / Camping",
+        "source": "nieves-surf-camp-map",
+        "note": "Ночь на автомобиле, место на площадке, тариф, урок и аренда доски. Номер опубликован в карточке школы и в отчёте 2025 года.",
+        "phone": "+506 7200 1117",
+        "url": "https://maps.google.com/?cid=15298970972843327875"
       },
       {
         "name": "Nalu Surf School",
         "source": "nalu-surf",
-        "note": "Размер группы, формат урока, точка встречи и доска.",
-        "phone": "+506 8733 1661",
-        "url": "https://wa.me/50687331661"
+        "note": "Уроки у Плайя-Кармен и условия выбора берега.",
+        "phone": "+506 8733 1661"
       },
       {
-        "name": "Naviera Tambor",
-        "source": "paquera-ferry-live",
-        "note": "Рейс в Paquera, автомобильные места и правила посадки."
+        "name": "Naviera Tambor · паром Paquera",
+        "source": "naviera-tambor-paquera-phone",
+        "note": "Расписание, категория пикапа или фургона, прибытие к посадке. На сайте перевозчика есть ссылка на билеты.",
+        "phone": "+506 2661 2084",
+        "email": "info@navieratambor.com",
+        "url": "https://navieratambor.com/horarios-y-tarifas"
       }
     ],
     "nearby": [
+      "oasis-roof",
       "avellanas-camp",
-      "cabo-blanco-sueco",
+      "guiones",
+      "carrillo",
+      "santateresa",
       "montezuma",
-      "santateresa"
+      "paquera-bioluminescence-kayak"
     ],
-    "track": "paquera-ferry-live"
+    "track": "paquera-ferry-live",
+    "line": "nicoya-5",
+    "photos": [
+      "avellanas",
+      "amistad-bridge",
+      "carrillo",
+      "montezuma-shore",
+      "ferry"
+    ],
+    "videos": [
+      "nieves-avellanas-overlanding-video",
+      "paquera-ferry-mytanfeet-video"
+    ]
   },
   "monteverde-reserve": {
     "stops": [

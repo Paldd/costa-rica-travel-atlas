@@ -1,0 +1,339 @@
+{
+  "santa-elena-reserve-local": {
+    "stops": [
+      {
+        "point": "st-elena",
+        "role": "Посёлок · ориентир выезда к лесу",
+        "note": ""
+      },
+      {
+        "point": "st-elena-reserva",
+        "role": "Заповедник · въезд и центр посетителей",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Тропы и время",
+        "text": "В палате туризма указан доступный круг Mundo Joven около 500 м. Заповедник рекомендует Caño Negro для более длинной лесной прогулки, Encantado для наблюдения за птицами, Del Bajo для спокойного темпа и Youth Challenge для выхода к башне. Проводник на общей экскурсии идёт примерно 2,5 часа.",
+        "sources": [
+          "santa-elena-community-trails",
+          "explore-monteverde-santa-elena-paths",
+          "santa-elena-community-tickets-2026"
+        ]
+      },
+      {
+        "title": "Вход и актуальные билеты",
+        "text": "Самостоятельный вход с 07:00, комплекс закрывается в 16:00. Последний вход на Youth Challenge указан в 15:00. До 31.12.2026 заповедник публикует цены самостоятельного посещения ₡10 000 взрослому и ₡5 500 ребёнку 8–12 лет. Узнайте тариф для младших детей и возможность раннего входа по выбранной программе.",
+        "sources": [
+          "santa-elena-community-tickets-2026"
+        ]
+      },
+      {
+        "title": "Что взять и где поесть",
+        "text": "Захватите лёгкую непромокаемую одежду, сухую смену для детей, закрытую цепкую обувь и воду. Для наблюдения за животными пригодится бинокль. В главном здании есть место для отдыха и ресторан. Фото определённого участка и текущую схему можно открыть у заповедника.",
+        "sources": [
+          "ict-santa-elena-community-reserve",
+          "explore-monteverde-santa-elena-paths",
+          "santa-elena-community-trails"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Reserva Bosque Nuboso Santa Elena",
+        "source": "santa-elena-community-tickets-2026",
+        "note": "Тропы для самостоятельного входа. Уточните доступ с коляской и закажите гида для выбранного маршрута.",
+        "phone": "+506 8532 9090",
+        "email": "reservaciones@reservasantaelena.org",
+        "url": "https://reservasantaelena.org/index.php/reservaciones/"
+      }
+    ],
+    "nearby": [
+      "higueron-roof",
+      "monteverde-reserve",
+      "higueron-santa-elena-roof-2"
+    ],
+    "track": "santa-elena-community-trails",
+    "photos": [
+      "santa-elena-cloud-forest",
+      "santa-elena-reception"
+    ]
+  },
+  "rancho-quemado-sendero-osa-23": {
+    "stops": [
+      {
+        "point": "osa-rancho-quemado-town",
+        "role": "Община Rancho Quemado",
+        "note": "Указан посёлок. Вход на тропу сообщает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроен маршрут",
+        "text": "Община публикует 2,3 км лесного маршрута и фотографии. По пути рассказывают о тропических деревьях и работе местной ассоциации. Спросите, в каком направлении сейчас проходят тропу, сколько времени уйдёт на подход и можно ли вписать утренний визит в переезд к заливу.",
+        "sources": [
+          "rancho-quemado-sendero-osa-local",
+          "rancho-quemado-biocultural-list",
+          "sinac-community-rancho-quemado"
+        ]
+      },
+      {
+        "title": "Что взять и чем дополнить",
+        "text": "Для леса пригодятся закрытые треккинговые кроссовки, лёгкая куртка от ливня, средство от насекомых и вода. В списке общины указаны пекарня Osa Silvestre и Soda Edward. Часы работы и обед удобно согласовать с гидом. На странице тропы есть галерея, а в видео — местная группа наблюдения за природой.",
+        "sources": [
+          "rancho-quemado-biocultural-list",
+          "rancho-quemado-wildlife-monitoring-video",
+          "rancho-quemado-sendero-osa-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Jessica Roldán · Asociación de Desarrollo Integral",
+        "source": "rancho-quemado-sendero-osa-local",
+        "note": "Запись на Sendero Osa, точка встречи, состояние тропы и варианты обеда.",
+        "phone": "+506 8667 2535",
+        "email": "adi.ranchoquemado@gmail.com",
+        "url": "https://visitranchoquemado.com/es/tours/sendero-osa"
+      }
+    ],
+    "nearby": [
+      "rancho-quemado-laguna-chocuaco",
+      "rancho-quemado-el-rancho-gold",
+      "ganadito-roof",
+      "osa-expedition-6"
+    ],
+    "track": "rancho-quemado-sendero-osa-local",
+    "videos": [
+      "rancho-quemado-wildlife-monitoring-video"
+    ]
+  },
+  "rancho-quemado-laguna-chocuaco": {
+    "stops": [
+      {
+        "point": "osa-rancho-quemado-town",
+        "role": "Посёлок · дорожный ориентир",
+        "note": ""
+      },
+      {
+        "point": "osa-chocuaco-lagoon",
+        "role": "Лагуна · точку сбора сообщает оператор",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Местная лодка и пеший вариант",
+        "text": "Муниципальный справочник указывает лодку с веслом, наблюдение за водоплавающими птицами, тропу с подписанными растениями и домашнее питание. На лесной маршрут отводят около четырёх часов. Для своего судна и рыбалки нужны отдельные условия от владельца и применимые местные разрешения.",
+        "sources": [
+          "muni-osa-laguna-chocuaco-tour",
+          "sinac-community-rancho-quemado",
+          "rancho-quemado-biocultural-list"
+        ]
+      },
+      {
+        "title": "Снаряжение и сухой запас",
+        "text": "Уточните, какой жилет выдадут каждому участнику, особенно детям. Возьмите воду, закрытую обувь на береговую часть, средства от солнца и насекомых и гермочехол для телефона. Узнайте у семьи условия проживания, если хотите оставить больше времени на лагуну.",
+        "sources": [
+          "muni-osa-laguna-chocuaco-tour",
+          "rancho-quemado-community-road"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Laguna Chocuaco · Osa Rural Tours",
+        "source": "muni-osa-laguna-chocuaco-tour",
+        "note": "Уточните доступ к лагуне, лодку с оператором, жилет подходящего размера, место встречи и обед.",
+        "phone": "+506 8360 8465",
+        "email": "info@osaruraltours.com",
+        "url": "https://www.gobiernolocalosa.go.cr/turismo/info.php?item=65"
+      },
+      {
+        "name": "Osa Rural Tours · резервный номер",
+        "source": "muni-osa-laguna-chocuaco-tour",
+        "note": "Второй опубликованный муниципалитетом контакт.",
+        "phone": "+506 8363 2515"
+      }
+    ],
+    "nearby": [
+      "rancho-quemado-sendero-osa-23",
+      "sierpe-boat",
+      "ganadito-roof"
+    ],
+    "track": "muni-osa-laguna-chocuaco-tour"
+  },
+  "rancho-quemado-el-rancho-gold": {
+    "stops": [
+      {
+        "point": "osa-rancho-quemado-town",
+        "role": "Ранчо-Кемадо · уточните координаты встречи у семьи",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит в прогулку",
+        "text": "Проводник показывает исторические инструменты и знакомит с работой старателей. В программе есть тропа до ручья и традиционная закуска. На странице тура опубликованы фото фермы. Для скользких участков возьмите закрытую обувь, воду и сменные носки.",
+        "sources": [
+          "rancho-quemado-artesanal-gold-el-rancho",
+          "rancho-quemado-biocultural-list"
+        ]
+      },
+      {
+        "title": "Сочетание с поездкой к заливу",
+        "text": "Тур можно поставить в первую половину дня на переезде через Ранчо-Кемадо. Если времени больше, семья может оставить на другой день прогулку Sendero Osa или лодку по лагуне Чокуако.",
+        "sources": [
+          "rancho-quemado-community-road",
+          "rancho-quemado-sendero-osa-local",
+          "muni-osa-laguna-chocuaco-tour"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nuria и Carlos · El Rancho",
+        "source": "rancho-quemado-artesanal-gold-el-rancho",
+        "note": "Около двух часов. Уточните язык программы, рекомендованный возраст и состояние тропы после дождя.",
+        "phone": "+506 8731 2882",
+        "url": "https://www.visitranchoquemado.com/es/tours/tour-de-oro-el-rancho"
+      },
+      {
+        "name": "Jessica Roldán · Asociación de Desarrollo Integral",
+        "source": "rancho-quemado-sendero-osa-local",
+        "note": "Запись на Sendero Osa, точка встречи, состояние тропы и варианты обеда.",
+        "phone": "+506 8667 2535",
+        "email": "adi.ranchoquemado@gmail.com",
+        "url": "https://visitranchoquemado.com/es/tours/sendero-osa"
+      }
+    ],
+    "nearby": [
+      "rancho-quemado-sendero-osa-23",
+      "rancho-quemado-laguna-chocuaco",
+      "ganadito-roof"
+    ],
+    "track": "rancho-quemado-artesanal-gold-el-rancho"
+  },
+  "higueron-santa-elena-roof-2": {
+    "stops": [
+      {
+        "point": "st-elena",
+        "role": "Запасы и связь перед подъёмом",
+        "note": ""
+      },
+      {
+        "point": "camp-higueron-pin",
+        "role": "Ночёвка на 4×4",
+        "note": ""
+      },
+      {
+        "point": "st-elena-reserva",
+        "role": "Второй день · касса и дневная программа",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Когда выезжать и сколько оставить на дорогу",
+        "text": "Последние 4,6 км от посёлка на карте проходят по асфальту и местной дороге к Finca Modelo. Договоритесь о заезде при дневном свете. До лесного входа утром ориентируйтесь на 25–40 минут по состоянию дороги и запас на парковку.",
+        "sources": [
+          "higueron-finca-modelo-map",
+          "higueron",
+          "ict-santa-elena-community-reserve"
+        ]
+      },
+      {
+        "title": "Место для крыши и запас на дождь",
+        "text": "На открытой поляне особенно важны порывы ветра. У владельца попросите ровную площадку с укрытием и свободным местом для лестницы. Подготовьте тёплый слой на ночь, дождевик, фонарь и сухой комплект для прогулки. Если прогноз сильного ветра не подходит палатке, в посёлке есть варианты размещения.",
+        "sources": [
+          "higueron-owner",
+          "higueron",
+          "higueron-review"
+        ]
+      },
+      {
+        "title": "Что посмотреть до выезда",
+        "text": "У кемпинга фото площадки опубликованы в справочнике. Видео показывает фактическую поездку с крышной палаткой. В атласе на фото — дневной остановочный пункт в заповеднике, в том числе приёмный центр.",
+        "sources": [
+          "higueron-overland-photo-video",
+          "higueron",
+          "santa-elena-community-trails"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Higuerón",
+        "source": "higueron-owner",
+        "note": "Бронь и геометка ворот. Сообщите высоту машины, размер палатки и ожидаемое время заезда.",
+        "url": "https://wa.me/50683735808",
+        "phone": "+506 8373 5808"
+      },
+      {
+        "name": "Reserva Bosque Nuboso Santa Elena",
+        "source": "santa-elena-community-tickets-2026",
+        "note": "Тропы для самостоятельного входа. Уточните доступ с коляской и закажите гида для выбранного маршрута.",
+        "phone": "+506 8532 9090",
+        "email": "reservaciones@reservasantaelena.org",
+        "url": "https://reservasantaelena.org/index.php/reservaciones/"
+      }
+    ],
+    "nearby": [
+      "higueron-roof",
+      "santa-elena-reserve-local",
+      "monteverde-reserve"
+    ],
+    "line": "higueron-santa-elena-roof-2",
+    "photos": [
+      "santa-elena-cloud-forest",
+      "santa-elena-reception"
+    ],
+    "videos": [
+      "higueron-overland-photo-video"
+    ]
+  },
+  "rajada-salinas-beach": {
+    "stops": [
+      {
+        "point": "rajada-area",
+        "role": "Район дорожного подхода к Playa Rajada",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сколько занимает выезд",
+        "text": "От въезда в Bahía Junquillal до района подъезда к берегу нанесено около 15,9 км. На короткий пляжный выезд заложите минимум пару часов с учётом дороги. Для Rajadita не рассчитывайте на выход через скалы при прибое.",
+        "sources": [
+          "teletica-rajada-2026-on-location",
+          "junquillal-roof-local",
+          "red-cross"
+        ]
+      },
+      {
+        "title": "Что увидели путешественники",
+        "text": "Полевой репортаж показывает тень у берега, остров Чанклету и закат. Авторы поездки на машине с крышей ночевали в официальной зоне Хункильяль. Возьмите тент от солнца, воду и обувь для каменистых участков.",
+        "sources": [
+          "teletica-rajada-2026-on-location",
+          "junquillal-roof-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aso Junquillal · площадки для кемперов",
+        "source": "junquillal-association",
+        "note": "Просите место именно в зоне vehículos camper, уточните въезд, ночной тариф и размер транспорта.",
+        "phone": "+506 6133 0349",
+        "email": "info@junquillallacruz.com",
+        "url": "https://wa.me/50661330349"
+      }
+    ],
+    "nearby": [
+      "junquillal",
+      "santa-rosa-junquillal"
+    ],
+    "track": "teletica-rajada-2026-on-location"
+  }
+}
