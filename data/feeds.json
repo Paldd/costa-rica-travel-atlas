@@ -1,0 +1,11 @@
+[
+  {"name":"Visit Costa Rica · активный отдых","url":"https://www.visitcostarica.com/things-to-do/adventure","paths":["/where-to-go/protected-areas/","/things-to-do/adventure/","/planning-your-trip/itineraries/"]},
+  {"name":"SINAC · карта заповедников","url":"https://www.sinac.go.cr/ES/Paginas/map.aspx","paths":["/es/ac/","/es/turismo/"]},
+  {"name":"Área de Conservación Guanacaste · экотуризм","url":"https://www.acguanacaste.ac.cr/turismo/","paths":["/turismo/sector-","/noticias/noticias-programa-de-ecoturismo/"]},
+  {"name":"El Camino de Costa Rica · этапы","url":"https://caminodecostarica.org/es/descubre-el-camino/etapas-del-camino/","paths":["/es/descubre/etapa/","/es/planifica-tu-excursion/"]},
+  {"name":"Costa Rica Camping Guide · Тихий океан","url":"https://costaricacampsites.com/pacific-coast/","paths":["/camp-sites/"]},
+  {"name":"Costa Rica Camping Guide · горы и север","url":"https://costaricacampsites.com/northern-highlands-volcanoes/","paths":["/camp-sites/"]},
+  {"name":"Costa Rica 4x4 Adventure · опубликованные маршруты","url":"https://costarica4x4adventure.com/es/routes/","paths":["/es/routes/"]},
+  {"name":"Sarapiquí Outdoor Center · программы","url":"https://www.costaricaraft.com/rafting","paths":["/rafting/"]},
+  {"name":"Pacuare Outdoor Center · программы","url":"https://pacuareoutdoorcenter.com/es/experiencias/","paths":["/es/experiencias/","/es/actividades/"]}
+]

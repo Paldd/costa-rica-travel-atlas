@@ -1,0 +1,962 @@
+[
+  {
+    "id": "lucha-weekend",
+    "kind": "trip",
+    "region": "central",
+    "title": "Выходные в Ла-Луча с палаткой и MTB",
+    "native": "Camping y MTB · Hacienda La Lucha",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "mtb",
+      "hiking",
+      "cycling",
+      "lake"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "lucha",
+      "lucha-camp"
+    ],
+    "summary": "Двухдневное сочетание лесного кемпинга, озера и велокруга рядом с Центральной долиной.",
+    "plan": "Выберите в парке конкретную палатку и маршрут по уровню группы. Машину подбирайте под опубликованный доступ именно к выбранной площадке.",
+    "conditions": "После дождя проверьте возможность подъехать. Для удалённой зоны нужен 4×4. Правила проката и огня согласуются с оператором.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Озеро и короткий поход",
+        "note": "Пройдите короткую тропу, заселитесь на разрешённую площадку, сверьте погоду на утро.",
+        "stops": [
+          "lucha-walk",
+          "lucha-camping"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Подходящий MTB-круг",
+        "note": "Начните с подходящего маршрута по карте. Семья с младшими детьми может продолжить пешую прогулку.",
+        "stops": [
+          "lucha-bike"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pacuare-weekend",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Пакуаре с ночёвкой у реки",
+    "native": "Pacuare Outdoor Center · 2 días Pacuare",
+    "level": "hard",
+    "days": 2,
+    "activities": [
+      "rafting",
+      "river",
+      "forest",
+      "hiking"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "pacuare-2",
+      "ict-water",
+      "imn"
+    ],
+    "summary": "Два дня на Пакуаре с проводниками, сплавом и ночёвкой в речном лодже.",
+    "plan": "Подберите двухдневную программу у оператора. Он подтверждает маршрут по воде, размещение, экипировку и трансферы.",
+    "conditions": "Оператор определяет допуск по возрасту, навыкам, течению и воде. Река и точка посадки могут меняться.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Вход на реку",
+        "note": "Встреча у оператора, инструктаж и первый участок. Ночёвка по программе.",
+        "stops": [
+          "pacuare-day"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Нижняя часть программы",
+        "note": "Оставшийся речной участок и организованный трансфер с финиша.",
+        "stops": []
+      }
+    ]
+  },
+  {
+    "id": "tortuguero-no-car",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Тортугеро без машины",
+    "native": "Tortuguero · La Pavona, canales y Cerro",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "boat",
+      "kayak",
+      "hiking",
+      "forest",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "solo",
+      "friends",
+      "family-mid",
+      "family-teen"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "tortuguero",
+      "tort-ict",
+      "cerro-t",
+      "caribe-shuttle"
+    ],
+    "summary": "Три дня с заселением в посёлке, лодочными каналами и обзорным холмом.",
+    "plan": "Из Сан-Хосе можно выбрать трансфер с пересадкой на лодку в Ла-Павоне. Перед самостоятельной стыковкой проверьте смену автобусных рейсов и последнюю лодку.",
+    "conditions": "Билеты на парк, проживание и лодка оформляются по отдельным правилам. Проверьте условия воды, рейсы и детские жилеты.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сан-Хосе → Ла-Павона → посёлок",
+        "note": "Оставьте запас на лодку и заселяйтесь в посёлке, откуда запланированы экскурсии.",
+        "stops": []
+      },
+      {
+        "day": 2,
+        "title": "Каналы",
+        "note": "Организованный выход на воду и короткий пеший маршрут, если сектор открыт.",
+        "stops": [
+          "tortuguero-canals"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Серро и обратный путь",
+        "note": "Смотровая подходит при достаточно раннем старте и подтверждённой стыковке. Иначе используйте утро на прогулку по посёлку.",
+        "stops": [
+          "cerro-tortuguero"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "caribe-bus-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Кауита и Пуэрто-Вьехо на автобусе",
+    "native": "Cahuita · Puerto Viejo en autobús MEPE",
+    "level": "easy",
+    "days": 3,
+    "activities": [
+      "hiking",
+      "beach",
+      "forest",
+      "relax",
+      "dark-sand",
+      "wildlife",
+      "surf"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "solo",
+      "friends"
+    ],
+    "access": [
+      "public",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "mepe",
+      "cahuita",
+      "jaguar",
+      "ict-caribe"
+    ],
+    "summary": "Семейный или одиночный маршрут без машины по югу карибского побережья.",
+    "plan": "Вариант рассчитан на автобусы MEPE до базы и местные перемещения. Выберите одну базу ночёвки по доступности остановки и морских условий.",
+    "conditions": "Сверьте актуальное расписание, доступ к парку и условия купания. Для детей с коляской уточняйте выбранный отрезок тропы.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Кауита",
+        "note": "Приезд автобусом, короткая прогулка по разрешённому участку парка.",
+        "stops": [
+          "cahuita-trail"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пуэрто-Вьехо и Коклес",
+        "note": "Береговая прогулка, экскурсия в центр реабилитации или урок по подходящим условиям.",
+        "stops": [
+          "playa-negra-caribe",
+          "jaguar-rescue",
+          "cocles"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Запасной пляж и обратный автобус",
+        "note": "Подберите короткую программу рядом с базой. Оставьте запас к выезду.",
+        "stops": []
+      }
+    ]
+  },
+  {
+    "id": "arenal-autocamp-3",
+    "kind": "trip",
+    "region": "north",
+    "title": "Ареналь на 4×4 и с ночёвкой у озера",
+    "native": "Arenal · ruta de 3 días y camping",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "offroad",
+      "car",
+      "rooftent",
+      "camping",
+      "volcano",
+      "thermal",
+      "sup",
+      "hiking"
+    ],
+    "audience": [
+      "family-teen",
+      "family-mid",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "4x4",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "tico-arenal",
+      "camp-tronadora",
+      "arenal",
+      "ict-sup"
+    ],
+    "summary": "Три дня от вулкана до берега озера с палаточной площадкой и тёплой водой.",
+    "plan": "Маршрут составлен вокруг опубликованной программы 4×4. Для легковой машины уточняйте только выбранные дорожные варианты и подъезд к площадке.",
+    "conditions": "Сверьте заезд в кемпинг, ветер на озере и доступные парковки. Круг не требует пересечения закрытых дорог.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Ла-Фортуна и термальные воды",
+        "note": "Размещение в Ла-Фортуне или на согласованной площадке. Вечером термы по расписанию.",
+        "stops": [
+          "eco-termales"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Национальный парк и берег озера",
+        "note": "Выберите доступный сектор и продолжите к подтверждённой площадке у Тронадоры.",
+        "stops": [
+          "arenal-coladas",
+          "tronadora-roof"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "SUP или короткая тропа",
+        "note": "При подходящем ветре согласуйте SUP. При грозе лучше посетить разрешённый сухопутный маршрут.",
+        "stops": [
+          "arenal-paddle",
+          "arenal-peninsula"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chirripo-3",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Чиррипо на три дня с приютом",
+    "native": "Parque Nacional Chirripó · ascenso 3 días",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "hiking",
+      "summit",
+      "views",
+      "forest"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "chirripo",
+      "chirripo-map",
+      "reservas"
+    ],
+    "summary": "Подход, радиальный день к вершине и спуск с ночёвками в горном приюте.",
+    "plan": "План на три дня работает только при подтверждённом доступе и двух ночёвках. Оцените подготовку и выберите официальный сектор.",
+    "conditions": "Проверьте резерв на вход и приют, погодное окно и правила допуска. Меняйте план на месте по указаниям парка.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Подход к приюту",
+        "note": "Стартуйте по подтверждённому времени из выбранного сектора. Поднимайтесь в темпе группы.",
+        "stops": [
+          "chirripo"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Вершина или тропы около приюта",
+        "note": "Радиальный день при подходящих условиях. В непогоду оставайтесь на разрешённых отрезках.",
+        "stops": []
+      },
+      {
+        "day": 3,
+        "title": "Спуск",
+        "note": "Возвращайтесь в базовый район по согласованной логистике.",
+        "stops": []
+      }
+    ]
+  },
+  {
+    "id": "forest-highland-4",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Облачные леса Монте-Верде и Дота",
+    "native": "Circuito de Bosques Nubosos · Monteverde y San Gerardo",
+    "level": "moderate",
+    "days": 4,
+    "activities": [
+      "car",
+      "hiking",
+      "forest",
+      "glamping",
+      "coffee",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping",
+      "lodge"
+    ],
+    "sources": [
+      "tico-cloud",
+      "monteverde",
+      "chira",
+      "queta",
+      "dota"
+    ],
+    "summary": "Четыре дня с двумя базами в облачном лесу, дневными прогулками и разными вариантами жилья.",
+    "plan": "У оператора 4×4 есть четырёхдневная программа в этих районах. Уточняйте дорожные участки, остановки и формат аренды или трансфера отдельно.",
+    "conditions": "На день переезда не ставьте длинный пеший маршрут. При тумане проверяйте подъезд и вход.",
+    "distance": null,
+    "regions": [
+      "mountains",
+      "central"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Монте-Верде",
+        "note": "Приезд и глэмпинг по семейному составу или размещение в посёлке.",
+        "stops": [
+          "chira-glamp"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Облачный лес",
+        "note": "Выберите тропы резерва или Кури-Канча.",
+        "stops": [
+          "monteverde-reserve",
+          "curi-cancha"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Горный переезд в Дота",
+        "note": "Используйте подтверждённый проезд по открытым дорогам. Ночёвка в долине.",
+        "stops": [
+          "savegre"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Кетсалес и возвращение",
+        "note": "Выберите короткую тропу или кофе в долине до обратной дороги.",
+        "stops": [
+          "los-quetzales"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nicoya-5",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Пять дней вдоль Никои на пикапе",
+    "native": "Península de Nicoya · ruta de 5 días",
+    "level": "hard",
+    "days": 5,
+    "activities": [
+      "offroad",
+      "car",
+      "rooftent",
+      "camping",
+      "mtb",
+      "surf",
+      "beach",
+      "waterfall"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "tico-nicoya",
+      "camp-oasis",
+      "camp-avellanas",
+      "ict-nicoya",
+      "nomad-ferry"
+    ],
+    "summary": "Прибрежное путешествие через Гуанакасте, Носару, Самару и Санта-Тересу.",
+    "plan": "Выбирайте открытые дороги и заранее бронируйте площадки, где допускается выбранный вид палатки. В непогоду оставайтесь на основных связках.",
+    "conditions": "Проверьте проезд у владельцев площадок, паром и условия на берегу. Грунтовая дорога на карте не подтверждает проход по рекам или пляжам.",
+    "distance": null,
+    "regions": [
+      "guanacaste",
+      "centralpac"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Из Центральной долины к мосту Ла-Амистад",
+        "note": "Ночёвка на площадке у трассы 18 с опубликованным форматом rooftop.",
+        "stops": [
+          "oasis-roof"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Гуанакасте и Тамариндо",
+        "note": "Короткий урок сёрфинга или береговая прогулка. Уточните кемпинг у берега.",
+        "stops": [
+          "tamarindo-surf",
+          "avellanas-camp"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Носара и Самара",
+        "note": "Выберите одну водную программу и подтвердите ночёвку на автомобиле или в лодже.",
+        "stops": [
+          "guiones",
+          "samara"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Санта-Тереса",
+        "note": "Сёрф и остановка у побережья. Конкретный путь зависит от дорожных условий.",
+        "stops": [
+          "santateresa",
+          "nalu-school"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Монтесума и выход с полуострова",
+        "note": "Короткая прогулка при открытом доступе. Дорога через Пакеру зависит от расписания парома.",
+        "stops": [
+          "montezuma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "osa-expedition-6",
+    "kind": "trip",
+    "region": "south",
+    "title": "Полуостров Оса на шесть дней",
+    "native": "Península de Osa · ruta de 6 días",
+    "level": "expedition",
+    "days": 6,
+    "activities": [
+      "offroad",
+      "car",
+      "rooftent",
+      "camping",
+      "forest",
+      "boat",
+      "hiking",
+      "snorkel"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "family-teen"
+    ],
+    "access": [
+      "4x4",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "lodge"
+    ],
+    "sources": [
+      "tico-osa",
+      "camp-ganadito",
+      "corcovado",
+      "ict-osa",
+      "nomad-road"
+    ],
+    "summary": "Глубокий южный маршрут с тропами Корковадо, побережьем и лодочными днями.",
+    "plan": "План сочетает открытые подъезды и лодку. Оставьте отдельное окно на день моря, береговые дороги и резерв на плохую погоду.",
+    "conditions": "Не планируйте проезды вброд по старым отзывам. Статус дороги, доступ к резервации и программа проводника проверяются перед выездом.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Увита",
+        "note": "Береговая остановка и ночёвка на согласованной базе.",
+        "stops": [
+          "marino-ballena"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Сьерпе",
+        "note": "Речной выход и сверка пути на Оса. При проблемах с дорогой выбирайте лодку и лодж.",
+        "stops": [
+          "sierpe-boat"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Район Дрейк-Бей",
+        "note": "Подтверждённый заезд к частному лагерю или поселение у лодочной базы.",
+        "stops": [
+          "ganadito-roof"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Корковадо",
+        "note": "Дневной тур с подтверждённым входом в сектор Сирена.",
+        "stops": [
+          "corcovado-sirena"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Остров Каньо",
+        "note": "Отдельная морская экскурсия при подходящих условиях.",
+        "stops": [
+          "cano-island"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Запас на дорогу и возвращение",
+        "note": "Сверьте обратную логистику у владельца и проверьте открытый подъезд.",
+        "stops": []
+      }
+    ]
+  },
+  {
+    "id": "week-4x4-mtb",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Неделя на 4×4 с палаткой, MTB и сёрфом",
+    "native": "Ruta de 7 días · Guanacaste, Nicoya y Arenal",
+    "level": "expedition",
+    "days": 7,
+    "activities": [
+      "offroad",
+      "car",
+      "rooftent",
+      "camping",
+      "mtb",
+      "surf",
+      "hiking",
+      "thermal",
+      "savanna"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "naranjo",
+      "santa-rosa",
+      "rincon-bike",
+      "catalinas",
+      "camp-oasis",
+      "camp-tronadora",
+      "nomad-road"
+    ],
+    "summary": "Семидневный маршрут с сухим лесом, горами, велоднями и озёрной ночёвкой.",
+    "plan": "Схема объединяет площадки, опубликованные в туристических и местных источниках. Каждая ночёвка, машина и велопрограмма подтверждаются отдельно.",
+    "conditions": "Наранхо включайте только после резервации и подтверждения дороги. Лагерь с земной палаткой не подразумевает крышную. У каждой воды условия меняются по дню.",
+    "distance": null,
+    "regions": [
+      "nicoya",
+      "north"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Переезд к северному побережью",
+        "note": "Заезд к согласованной площадке у трассы 18 либо к ночёвке в регионе.",
+        "stops": [
+          "oasis-roof"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Велодень у Ринкона",
+        "note": "Велопарк, короткий подходящий круг и термальный отдых при наличии времени.",
+        "stops": [
+          "rincon-mtb",
+          "guachipelin"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Санта-Роса и Наранхо",
+        "note": "Проверьте резервацию, воду, связь и доступ. При закрытии выбирайте исторический сектор.",
+        "stops": [
+          "naranjo-4x4",
+          "santa-rosa-casona"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Лас-Каталинас",
+        "note": "Прибрежный MTB или прогулка по окрестностям. Ночёвка на подтверждённой площадке.",
+        "stops": [
+          "catalinas-bike"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Тамариндо",
+        "note": "Урок сёрфа или видовая остановка. Проверьте остаток светового дня перед переездом.",
+        "stops": [
+          "iguana-school"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Озеро Ареналь",
+        "note": "Поездка на согласованную автоплощадку, проверка ветра и прогулки.",
+        "stops": [
+          "tronadora-roof"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Ареналь и возвращение",
+        "note": "Один доступный пеший круг или термальный отдых по времени.",
+        "stops": [
+          "arenal-peninsula",
+          "tabacon"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "family-arenal-5",
+    "kind": "trip",
+    "region": "north",
+    "title": "Семья на легковой машине · Ареналь и Монте-Верде",
+    "native": "Arenal y Monteverde · viaje familiar de 5 días",
+    "level": "easy",
+    "days": 5,
+    "activities": [
+      "car",
+      "hiking",
+      "forest",
+      "thermal",
+      "canopy",
+      "relax"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "glamping"
+    ],
+    "sources": [
+      "mistico",
+      "kalambu",
+      "arenal",
+      "monteverde",
+      "curi",
+      "nomad-road"
+    ],
+    "summary": "Пятидневный маршрут с короткими остановками и двумя базами для семьи.",
+    "plan": "Выбирайте открытую дорогу между базами, а для неудобных грунтовых отрезков заранее уточняйте трансфер. Дети и взрослые могут выбрать разные активности в одном парке.",
+    "conditions": "Возраст и условия подъезда проверяются по объектам. При грозе и сильном дожде сократите тропу или используйте крытую остановку.",
+    "distance": null,
+    "regions": [
+      "centralpac"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Заезд в Ла-Фортуну",
+        "note": "Размещение в лодже и короткая прогулка рядом с базой.",
+        "stops": []
+      },
+      {
+        "day": 2,
+        "title": "Короткий выбор у вулкана",
+        "note": "Посещение открытого сектора или прогулка по мостам, если группа готова.",
+        "stops": [
+          "arenal-peninsula",
+          "mistico"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Термальный день",
+        "note": "Вариант с бассейнами по возрасту и свободным входом.",
+        "stops": [
+          "kalambu",
+          "baldi"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Подтверждённый переезд",
+        "note": "Заложите время на дорогу в Монте-Верде и отдых в новом жилье.",
+        "stops": [
+          "chira-glamp"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Облачный лес",
+        "note": "Выберите короткий круг или прогулку с гидом по условиям.",
+        "stops": [
+          "curi-cancha",
+          "monteverde-reserve"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "el-camino-crossing",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "El Camino de Costa Rica от моря до океана",
+    "native": "El Camino de Costa Rica · cruce de 16 etapas",
+    "level": "expedition",
+    "days": 16,
+    "activities": [
+      "hiking",
+      "forest",
+      "views",
+      "river",
+      "multi"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "camino",
+      "camino-steps",
+      "camino-guide",
+      "elcamino-report"
+    ],
+    "summary": "Около 280 км через страну по официальным этапам Ассоциации Mar a Mar.",
+    "plan": "Маршрут начинается в карибской зоне и завершается в районе Кепоса. Порядок этапов, время, распределение ночёвок и сопровождение сверяйте по схеме ассоциации.",
+    "conditions": "Самостоятельный доступ возможен только там, где допускается. По отдельным территориям и у лодочных переходов заранее подтвердите местного проводника и условия.",
+    "distance": 280,
+    "regions": [
+      "central",
+      "mountains",
+      "centralpac"
+    ],
+    "stages": []
+  },
+  {
+    "id": "el-camino-3",
+    "kind": "trip",
+    "region": "central",
+    "title": "Три дня El Camino через Тапанти и Ороси",
+    "native": "El Camino de Costa Rica · etapas 8 a 10",
+    "level": "hard",
+    "days": 3,
+    "activities": [
+      "hiking",
+      "forest",
+      "views",
+      "river",
+      "multi"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "camino-steps",
+      "camino-guide",
+      "tapanti",
+      "elcamino-report"
+    ],
+    "summary": "Три последовательных этапа в Центральной долине с продолжительными подъёмами.",
+    "plan": "Сверьте разбивку по этапам у ассоциации. Точки завершения и ночёвки могут быть вне тропы, поэтому заранее согласуйте развоз.",
+    "conditions": "Не объединяйте маршрут El Camino с отдельным посещением национального парка без отдельного билета и сверки входа.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Humo de Pejibaye и высокие участки этапа 8",
+        "note": "День с длинным подъёмом в сторону Тапанти. Ночёвку или развоз подтвердите с проводником.",
+        "stops": [
+          "tapanti"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Долина Ороси и этап 9",
+        "note": "Заложите время на подъём после района Río Macho, выход и пополнение запасов.",
+        "stops": [
+          "orosi-hot"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Наварро и этап 10",
+        "note": "Переход от Navarro de Muñeco по официальной схеме. Обратный транспорт согласуйте заранее.",
+        "stops": []
+      }
+    ]
+  }
+]

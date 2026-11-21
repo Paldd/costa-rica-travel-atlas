@@ -1,0 +1,1821 @@
+{
+  "overview": {
+    "profiles": 200,
+    "instagramProfiles": 100,
+    "facebookProfiles": 100,
+    "instagramWithPosts": 98,
+    "instagramPosts": 582,
+    "facebookAbout": 100,
+    "placesWithPostLinks": 19
+  },
+  "profiles": [
+    {
+      "name": "Visit Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/visit_costarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Descubre Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/descubrecostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "A Dónde Ir Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adondeircostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Surf Simply",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/surfsimply/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Chepetown",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/chepetown/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Conocedores Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/conocedorescr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Jaguar Rescue Center",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/jaguarrescuecentercr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "La Fiebre de Viajar Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/lafiebredeviajar_cr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Parque Diversiones Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/pdiversionescr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Experts",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/costaricaexperts/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Ponderosa Adventure Park",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/ponderosaadventurepark/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Four Seasons Resort Peninsula Papagayo",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/fscostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Toucan Rescue Ranch",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/toucanrescueranch/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Makanda by the Sea",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hotelmakanda/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Cool",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/costaricacool/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Qué Buen Lugar",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/qbuenlugar/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Tours",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/costa_tours/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Turismo y Comida CR",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/adondeircr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "ArtVillas Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/artvillascostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Ticos Mochileros",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/ticosmochileros/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Vamos a Turistear",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/vamosaturistear/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "The Springs Resort & Spa",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/thespringscostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Fiesta Resort & Club Vacacional",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/fiestaresortyclubvacacional/",
+      "posts": 5,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Tulemar Resort & Beach",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/tulemar/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "José Hernández · Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/jose_costarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Almonds & Corals Boutique Hotel",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/almondsandcorals/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Mochilera",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/costaricamochilera/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Tabacón Thermal Resort & Spa",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/tabaconresort/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hacienda AltaGracia",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/altagraciaauberge/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Domos Mirador Glamping",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/fincaelmirador/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hiking Tiquicia",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hikingtiquicia/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Andaz Peninsula Papagayo",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/andazpapagayo/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Rescate Wildlife Rescue Center",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/rescatewildlife/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Dino Land Río Agrio",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/dinoland_rioagrio/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Teatro Nacional de Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/teatronacionalcr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Nayara Tented Camp",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/nayaratentedcamp/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "De Viaje Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/deviajecostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hacienda Guachipelín",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/haciendaguachipelin/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Las Catalinas",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/las_catalinas_/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Top Travel Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/toptravelcostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Shana by the Beach",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/shanabythebeach/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Planet Hollywood Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/planethollywoodcostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Montaña de Fuego",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/montanadefuegohotel/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Cariblue Beach & Jungle Resort",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/caribluehotel/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "W Costa Rica – Reserva Conchal",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/wcostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Casa Chameleon Hotels",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/casachameleonhotels/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Le Caméléon Boutique Hotel",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/lecameleonhotel/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Special Places of Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/specialplacescostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "El Silencio Lodge & Spa",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/elsilenciolodge/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Kurà Boutique Hotel",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/kuracostarica/",
+      "posts": 4,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Stuart Rojas",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/stuartsrojas/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Dreamsea Surf Camp Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/dreamseasurfcampcostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Peace Lodge & La Paz Waterfall Gardens",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/peacelodgeandwaterfallgardens/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "The Gilded Iguana Surf Hotel",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/thegildediguana/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Mochileando en CR",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/mochileandoencr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Baldi Hot Springs Hotel Resort & Spa",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/baldi_hot_springs_costarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hacienda Orosi",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/haciendaorosi/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Museo de los Niños de Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/museodelosninoscr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Oxygen Jungle Villas & Spa",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/oxygenjunglevillas/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Rio Perdido",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/rioperdido/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Bodhi Tree Yoga Resort",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/bodhitreeyogaresort/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "The Westin Reserva Conchal",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/westinreservaconchal/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Thomas Solís · Trekking Tom",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/trekkingtom.cr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Selva Resort",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/selvaresort/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "umAmi Hotel",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/umamihotel/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Tamarindo DIRIA",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hotel_tamarindodiria/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Museo del Jade",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/museodeljadecr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hiking y Aventura Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hikingtourscr/",
+      "posts": 5,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Senderos del Toro",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/senderosdeltoro/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Amor Arenal",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/amorarenalhotel/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rican Vacations",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/costaricanvacations/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Outdoor Adventure Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/outdoorcostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Arenas del Mar",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/arenasdelmarcr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Arenal Manoa",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/arenalmanoa/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "El Mangroove Hotel",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/elmangroovehotel/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Instituto Costarricense de Turismo",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/oficial_ict/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Guanacaste Traveler Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/guanacaste_traveler/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Vista Los Sueños Adventure Park",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/vistalossuenos/",
+      "posts": 0,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Arenal Rafting Company",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/arenalrafting/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Kalambu Hot Springs",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/kalambuhotsprings/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Barceló Tambor",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/barcelotambor/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Peninsula Papagayo",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/peninsulapapagayo/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Undersea Hunter",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/underseahunter/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "JW Marriott Guanacaste Beach Resort",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/jwmarriottguanacaste/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Los Sueños Marriott Ocean & Golf Resort",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/los_suenos_marriott/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Sky Adventures Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/skyadventurescr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Arenal Springs Resort & Spa",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/arenalspringscostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Los Lagos Arenal",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hotelloslagosarenal/",
+      "posts": 5,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Belmar",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hotelbelmar/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "The Royal Corin",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/theroyalcorin/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hideaway Rio Celeste Hotel",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hideawayriocelestehotel/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Aguas Claras",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hotelaguasclaras/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Nantipa Beach Resort",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/nantipacr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Exploring Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/exploringcostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Sí Como No Resort",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/sicomonoresort/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Discover Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/discovercostarica/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Senderismo Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/senderismocostarica/",
+      "posts": 5,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Museo Nacional de Costa Rica",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/museonacionalcr/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Kids Saving the Rainforest",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/kidssavingtherainforest/",
+      "posts": 6,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Punta Islita",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/hotelpuntaislita/",
+      "posts": 0,
+      "about": false,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Visit Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/visitcostarica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Parque Diversiones Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ParqueDiversiones",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Ponderosa Adventure Park",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ponderosaadventurepark",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Fiesta Resort & Club Vacacional",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/frcvcr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Vamos a Turistear",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/VamosaTuristear",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Museo de los Niños de Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/museodelosninoscr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Barceló Tambor",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/BarceloTambor",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Kalambu Hot Springs",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/kalambuhotsprings",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Baldi Hot Springs Hotel Resort & Spa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/BaldiHotSpringsOfficial",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Teatro Nacional de Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/tn.mcj.cr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Rescate Wildlife Rescue Center",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/rescatewildlifecr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Qué Buen Lugar",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/quebuenlugar",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Punta Leona Beach Club & Nature Resort",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/hotelpuntaleona",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Peace Lodge & La Paz Waterfall Gardens",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/lapazwaterfallgardens",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Jaguar Rescue Center",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/JaguarRescueCenter",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Best Western Jacó Beach",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/BestWesternJacoBeach",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Descubre Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/descubrecostarica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hacienda Orosi",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/haciendaorosi",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Adventure Park and Hotel Vista Golfo",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/adventureparkcostarica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Diamante Eco Adventure Park",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/DiamanteEcoAdventurePark",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "The Westin Reserva Conchal",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/WestinReservaConchal",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Mochilera",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/people/Costa-Rica-Mochilera/100070543098281/",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rican Vacations",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/costaricanvacations",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Sloth Sanctuary Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/SlothSanctuaryCostaRica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Museos del Banco Central",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/museosbccr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Planet Hollywood Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/planethollywoodcostarica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Montaña de Fuego",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/HotelMontanadeFuego",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Casa Luna Hotel & Spa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/CasaLunaHotel",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Instituto Costarricense de Turismo",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/InstitutoCostarricensedeTurismoOficial",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Volcano Lodge, Hotel & Thermal Experience",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/volcanolodgecr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Marriott Hacienda Belén",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/CRMarriott",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hacienda Guachipelín",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/HotelHaciendaGuachipelinCostaRica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Almonds & Corals Boutique Hotel",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/almondsandcorals",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Marina Pez Vela",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/marina.pez.vela",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Andaz Peninsula Papagayo",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/andazcostarica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Le Caméléon Boutique Hotel",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/lecameleonhotel",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Parques Nacionales",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/costarica.parquesnacionales",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Condovac La Costa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/Condovac",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "A donde ir CR",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ADONDEIRCR",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Magic Mountain",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/hotelmagicmountain",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Vista Los Sueños Adventure Park",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/Vistalossuenoscr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Croc’s Resort & Casino",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/crocscasinoresort",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Las Catalinas",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/LasCatalinasCR",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Tamarindo DIRIA",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/TamarindoDiria",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Tabacón Thermal Resort & Spa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/tabacon",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Arenal Manoa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/HotelArenalManoa",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hacienda AltaGracia",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/AltaGraciaAuberge",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "El Mangroove Hotel",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/elmangroove",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Experts",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/CostaRicaExperts",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Museo Nacional de Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/museonacional.mcj.cr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Los Sueños Resort & Marina",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/lossuenosresort",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "The Springs Resort & Spa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/thespringscostarica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Toucan Rescue Ranch",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ToucanRescue",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Bosque del Mar",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/BosquedelMar",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Surf Simply",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/surfsimply",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Sky Adventures Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/SkyAdventuresCR",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Los Sueños Marriott Ocean & Golf Resort",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/lossuenosmarriott",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hacienda Pinilla",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/HaciendaPinillaCR",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "JW Marriott Guanacaste Beach Resort",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/JWMarriottGuanacaste",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Four Seasons Resort Peninsula Papagayo",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/FourSeasonsResortCostaRica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Ticos Mochileros",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/people/Ticos-Mochileros/100090025359123/",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Barceló San José",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/BarceloSanJose",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hideaway Rio Celeste Hotel",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/riocelestehideaway",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Secrets Papagayo Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/SecretsPapagayo",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Conocedores Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/conocedorescr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Playas de Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/playasdecostaricacr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Top Travel Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/toptravelcostarica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Guide",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/costaricaguides",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Ecotermales Fortuna",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ecotermalesfortuna",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Mistico Arenal Hanging Bridges Park",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/misticopark",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Costa Rica Turismo",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/people/Costa-Rica-Turismo/100083322281674/",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "El Silencio Lodge & Spa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ElSilencioLodgeCostaRica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Catarata Llanos de Cortés",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/CatarataLlanosdeCortes",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Shana by the Beach",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/shanabythebeach",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "InterContinental Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/RealInterContinentalCostaRica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Reserva Conchal",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ReservaConchalCostaRica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Dúo Viajero",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/duoviajerocr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Arenal Kioro Suites & Spa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ArenalKioro",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Banana Azul",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/BananaAzul",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Nayara Springs",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/nayaraspringscr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Rio Perdido",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/RioPerdido",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Parador Nature Resort & Spa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/HotelParador",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Special Places of Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/specialplacesofcostarica2",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Arenal Springs Resort & Spa",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/ArenalSpringsCostaRica",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Paradise Hot Springs",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/paradisehotsprings",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Casa Chameleon Hotels",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/casachameleon",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Buena Vista del Rincón",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/buenavistadelrincon",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Ticos A Pata",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/TicosApata",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Maverick Sportfishing Costa Rica",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/mavericksportfish",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Maquenque Lodge",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/Maquenque",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Villas y Glampings MyA",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/hotelvillasmya",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Pacuare Lodge",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/PacuareLodge",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Copa De Arbol Beach and Rainforest Resort",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/copadearbol",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Lomas del Volcán",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/lomasdelvolcan",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Faith Glamping Dome",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/faithglampingdomecr",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Hotel Belmar",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/hotelbelmarmonteverde",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Kids Saving the Rainforest",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/KidsSavingtheRainforest",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Selvatura Park",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/Selvatura",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Cuna del Angel",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/hotelcunadelangel",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    },
+    {
+      "name": "Nayara Gardens",
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/nayaragardens",
+      "posts": 0,
+      "about": true,
+      "checked": "2026-11-20"
+    }
+  ],
+  "matches": {
+    "tenorio-celeste": [
+      {
+        "profile": "Costa Rica Cool",
+        "url": "https://www.instagram.com/p/DeaJXFzpF9v/"
+      },
+      {
+        "profile": "Hideaway Rio Celeste Hotel",
+        "url": "https://www.instagram.com/p/DfaGzsEiK_7/"
+      },
+      {
+        "profile": "Hideaway Rio Celeste Hotel",
+        "url": "https://www.instagram.com/p/DfXXVKHG7l7/"
+      }
+    ],
+    "cahuita-trail": [
+      {
+        "profile": "Costa Rica Cool",
+        "url": "https://www.instagram.com/p/DeReKw6xBKK/"
+      }
+    ],
+    "corcovado-sirena": [
+      {
+        "profile": "Costa Rica Mochilera",
+        "url": "https://www.instagram.com/p/Df8oqP4xnhT/"
+      },
+      {
+        "profile": "Exploring Costa Rica",
+        "url": "https://www.instagram.com/p/DM__fx4sXMC/"
+      }
+    ],
+    "corcovado-leona": [
+      {
+        "profile": "Costa Rica Mochilera",
+        "url": "https://www.instagram.com/p/Df8oqP4xnhT/"
+      },
+      {
+        "profile": "Exploring Costa Rica",
+        "url": "https://www.instagram.com/p/DM__fx4sXMC/"
+      }
+    ],
+    "arenal-coladas": [
+      {
+        "profile": "Hiking Tiquicia",
+        "url": "https://www.instagram.com/p/Df2Ind1yNs3/"
+      },
+      {
+        "profile": "Arenal Manoa",
+        "url": "https://www.instagram.com/p/Dfnt_RrhDTV/"
+      },
+      {
+        "profile": "Kalambu Hot Springs",
+        "url": "https://www.instagram.com/p/DfmzHRutk77/"
+      },
+      {
+        "profile": "Senderismo Costa Rica",
+        "url": "https://www.instagram.com/p/Df3Ak91Bq-j/"
+      }
+    ],
+    "arenal-peninsula": [
+      {
+        "profile": "Hiking Tiquicia",
+        "url": "https://www.instagram.com/p/Df2Ind1yNs3/"
+      },
+      {
+        "profile": "Arenal Manoa",
+        "url": "https://www.instagram.com/p/Dfnt_RrhDTV/"
+      },
+      {
+        "profile": "Kalambu Hot Springs",
+        "url": "https://www.instagram.com/p/DfmzHRutk77/"
+      },
+      {
+        "profile": "Senderismo Costa Rica",
+        "url": "https://www.instagram.com/p/Df3Ak91Bq-j/"
+      }
+    ],
+    "sabana-oka": [
+      {
+        "profile": "Hiking Tiquicia",
+        "url": "https://www.instagram.com/p/Dfa2AVZu43I/"
+      },
+      {
+        "profile": "Thomas Solís · Trekking Tom",
+        "url": "https://www.instagram.com/p/DehvzPxlok1/"
+      },
+      {
+        "profile": "Hiking y Aventura Costa Rica",
+        "url": "https://www.instagram.com/p/Dfiq9jRjbt8/"
+      },
+      {
+        "profile": "Hiking y Aventura Costa Rica",
+        "url": "https://www.instagram.com/p/DfTS5npjRsn/"
+      }
+    ],
+    "savegre": [
+      {
+        "profile": "De Viaje Costa Rica",
+        "url": "https://www.instagram.com/p/DVbLaf1DfaA/"
+      }
+    ],
+    "guachipelin": [
+      {
+        "profile": "Hacienda Guachipelín",
+        "url": "https://www.instagram.com/p/DfsAphIgd6a/"
+      },
+      {
+        "profile": "Hacienda Guachipelín",
+        "url": "https://www.instagram.com/p/DfkgAAhDXuN/"
+      },
+      {
+        "profile": "Hacienda Guachipelín",
+        "url": "https://www.instagram.com/p/DfYYGQwgWF-/"
+      }
+    ],
+    "catalinas-bike": [
+      {
+        "profile": "Las Catalinas",
+        "url": "https://www.instagram.com/p/Df5iSGHnajk/"
+      },
+      {
+        "profile": "Las Catalinas",
+        "url": "https://www.instagram.com/p/DfnWj2Wqh8l/"
+      },
+      {
+        "profile": "Las Catalinas",
+        "url": "https://www.instagram.com/p/Dfc_n8LHasw/"
+      },
+      {
+        "profile": "Las Catalinas",
+        "url": "https://www.instagram.com/p/Dfa2OQCthcF/"
+      },
+      {
+        "profile": "Casa Chameleon Hotels",
+        "url": "https://www.instagram.com/p/Dfk8xndmDBJ/"
+      },
+      {
+        "profile": "Casa Chameleon Hotels",
+        "url": "https://www.instagram.com/p/DfifMCKRr_S/"
+      }
+    ],
+    "quepos-boat": [
+      {
+        "profile": "Shana by the Beach",
+        "url": "https://www.instagram.com/p/De1vFLFiPxj/"
+      }
+    ],
+    "flamingo": [
+      {
+        "profile": "Special Places of Costa Rica",
+        "url": "https://www.instagram.com/p/Df44--mRbEc/"
+      }
+    ],
+    "la-paz-waterfalls": [
+      {
+        "profile": "Peace Lodge & La Paz Waterfall Gardens",
+        "url": "https://www.instagram.com/p/DfqD1QqhbZZ/"
+      },
+      {
+        "profile": "Peace Lodge & La Paz Waterfall Gardens",
+        "url": "https://www.instagram.com/p/De7fC9lO-t3/"
+      },
+      {
+        "profile": "Peace Lodge & La Paz Waterfall Gardens",
+        "url": "https://www.instagram.com/p/DezMw4ugdIZ/"
+      }
+    ],
+    "guiones": [
+      {
+        "profile": "The Gilded Iguana Surf Hotel",
+        "url": "https://www.instagram.com/p/Df7AOMUMTyL/"
+      }
+    ],
+    "cerro-pelado": [
+      {
+        "profile": "Mochileando en CR",
+        "url": "https://www.instagram.com/p/DfTQLxnoLFn/"
+      }
+    ],
+    "orosi-hot": [
+      {
+        "profile": "Hacienda Orosi",
+        "url": "https://www.instagram.com/p/Dfkgh7XFa9b/"
+      }
+    ],
+    "conchal": [
+      {
+        "profile": "The Westin Reserva Conchal",
+        "url": "https://www.instagram.com/p/De1ZTq7DLGg/"
+      }
+    ],
+    "fortuna-falls": [
+      {
+        "profile": "Costa Rican Vacations",
+        "url": "https://www.instagram.com/p/DfxjzG-vvRl/"
+      }
+    ],
+    "chirripo": [
+      {
+        "profile": "Senderismo Costa Rica",
+        "url": "https://www.instagram.com/p/Df3NS_GiFgo/"
+      },
+      {
+        "profile": "Senderismo Costa Rica",
+        "url": "https://www.instagram.com/p/Df00XhexAbK/"
+      }
+    ]
+  }
+}

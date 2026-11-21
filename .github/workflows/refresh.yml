@@ -1,0 +1,30 @@
+name: Discover route sources
+
+on:
+  schedule:
+    - cron: "17 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: source-discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read public directories and collect candidates
+        run: python3 scripts/refresh.py
+      - name: Keep the source-read receipt and candidates
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: atlas-candidates
+          path: .cache/refresh.json
+          include-hidden-files: true
+          retention-days: 30

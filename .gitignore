@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/atlas.json
+public/release.json
+.tmp/
+.cache/
+.DS_Store
+__pycache__/
