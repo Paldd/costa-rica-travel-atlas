@@ -1015,7 +1015,9 @@
       "faith-glamp",
       "cocles",
       "talamanca-reef-surf-3",
-      "caribeans-cacao"
+      "caribeans-cacao",
+      "gandoca-lagoon-local-paddle",
+      "gandoca-rooftop-lagoon-2"
     ],
     "track": "uva-caribe-kayak"
   },
@@ -1049,6 +1051,15 @@
           "manzanillo-sinac-access",
           "red-cross"
         ]
+      },
+      {
+        "title": "Два подъезда к заказнику",
+        "text": "Береговая тропа этой карточки начинается в Мансанильо. Для лагуны и ночёвки у деревни Gandoca запланируйте отдельный подъезд по Ruta 36 и Calle Gandoca. Пин посадки пришлёт проводник.",
+        "sources": [
+          "gandoca",
+          "gandoca-tours-mangrove-boat",
+          "kaniki-gandoca-vehicle-camp"
+        ]
       }
     ],
     "contacts": [
@@ -1056,11 +1067,21 @@
         "name": "SINAC · Gandoca–Manzanillo",
         "source": "gandoca",
         "note": "Контакт охраняемой территории, входы, открытые участки и местные экскурсии."
+      },
+      {
+        "name": "Gandoca Tours · Нефтали Веласкес",
+        "source": "gandoca-tours-neftali-local",
+        "note": "Местная команда. Уточните площадку сбора именно в Гандоке, жилеты и условия на воде.",
+        "phone": "+506 8762 8848",
+        "url": "https://www.gandocatours.com/tour/kayaking-en-laguna-gandoca/"
       }
     ],
     "nearby": [
       "punta-uva",
-      "faith-glamp"
+      "faith-glamp",
+      "gandoca-lagoon-local-paddle",
+      "kaniki-gandoca-roof",
+      "gandoca-rooftop-lagoon-2"
     ],
     "track": "manzanillo-sinac-access"
   },
@@ -2251,7 +2272,10 @@
     "nearby": [
       "jaco-surf",
       "vista-suenos",
-      "manuel-antonio"
+      "manuel-antonio",
+      "esterillos-aloha-surf",
+      "esterillos-las-brisas-camping",
+      "esterillos-palo-seco-roof-2"
     ],
     "track": "jaco-local-surf-list"
   },
@@ -2477,7 +2501,9 @@
     ],
     "nearby": [
       "los-quetzales",
-      "forest-highland-4"
+      "forest-highland-4",
+      "coopedota-santa-maria-coffee",
+      "finca-san-antonio-copey"
     ],
     "track": "savegre-local-trails"
   }

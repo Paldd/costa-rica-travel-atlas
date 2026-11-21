@@ -174,6 +174,15 @@
           "cahuita-cr-snorkel-local",
           "cahuita-map"
         ]
+      },
+      {
+        "title": "Где ночевать рядом с тропой",
+        "text": "Для машины с палаткой можно заранее уточнить небольшую площадку Camping María возле Playa Negra или базу Alouatta у Calle Río Suárez. Утром начинайте прогулку от выбранного входа в парк.",
+        "sources": [
+          "maria-cahuita-roof-capacity",
+          "alouatta-cahuita-car-camper",
+          "cahuita-map"
+        ]
       }
     ],
     "contacts": [
@@ -196,13 +205,31 @@
         "phone": "+506 8378 4764",
         "url": "https://www.cahuitaexperience.com/snorkeling",
         "email": "cahuitaexperience@gmail.com"
+      },
+      {
+        "name": "Camping María · Cahuita",
+        "source": "maria-cahuita-camper-local",
+        "note": "Уточните отдельную площадку под открытый бокс, число людей и точный въезд.",
+        "phone": "+506 8942 5667",
+        "url": "https://wa.me/50689425667"
+      },
+      {
+        "name": "Alouatta Lodge & Canopy",
+        "source": "alouatta-cahuita-contact-map",
+        "note": "Площадка для camper, подвод электричества и запись на лесную программу.",
+        "phone": "+506 8721 2991",
+        "url": "https://alouattalodgeandcanopy.com/contacto/",
+        "email": "alouattalodge.canopy@gmail.com"
       }
     ],
     "nearby": [
       "caribe-bus-3",
       "cocles",
       "cahuita-reef-snorkel",
-      "talamanca-reef-surf-3"
+      "talamanca-reef-surf-3",
+      "maria-cahuita-roof",
+      "alouatta-cahuita-roof",
+      "estrella-cahuita-roof-3"
     ],
     "track": "cahuita-trail-km",
     "line": "cahuita-trail"
@@ -342,7 +369,9 @@
       "tortuguero-no-car",
       "cahuita-reef-snorkel",
       "caribeans-cacao",
-      "talamanca-reef-surf-3"
+      "talamanca-reef-surf-3",
+      "babsita-roof-estrella",
+      "alouatta-cahuita-roof"
     ],
     "track": "mepe"
   },

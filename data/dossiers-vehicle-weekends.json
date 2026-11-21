@@ -1,0 +1,1146 @@
+{
+  "babsita-roof-estrella": {
+    "stops": [
+      {
+        "point": "babsita-playa-estrella-camp",
+        "role": "Ночёвка · Camping Babsita",
+        "note": "Въезд с Calle Boca Río Estrella. Запросите подтверждение у хозяев."
+      },
+      {
+        "point": "cahuita-experience-meet",
+        "role": "Вариант на следующий день · офис Cahuita Experience",
+        "note": "Лодочный выезд к рифу при подходящей воде."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что есть у площадки",
+        "text": "Хозяева публикуют места для автодомов и варианты ночёвки в готовой палатке или кабине. Справочник отдельно указывает крышную палатку. В отзывах отмечают стоянку рядом с морем. Попросите подтвердить свою площадку и место для раскрытия лестницы.",
+        "sources": [
+          "babsita-camping-direct",
+          "babsita-roof-camp-review",
+          "babsita-park4night-visit"
+        ]
+      },
+      {
+        "title": "Съезд и поездка без машины",
+        "text": "На машине планируйте последние 800–1000 м по грунтовому съезду. В инструкции хозяйки для автобуса указан ориентир Villa Calina в районе Penshurt. Уточните у водителя место высадки и у лагеря возможность встречать с багажом.",
+        "sources": [
+          "babsita-directions-direct",
+          "babsita-roof-camp-review"
+        ]
+      },
+      {
+        "title": "Вода рядом с лагерем",
+        "text": "Кемпинг организует SUP и лодку по Río Estrella. С детьми попросите подходящие жилеты и короткую программу, зафиксируйте место посадки. Состояние течения, ветра и устья оценивают проводники в день выезда.",
+        "sources": [
+          "babsita-paddle-direct",
+          "babsita-roof-camp-review"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Babsita",
+        "source": "babsita-directions-direct",
+        "note": "Ночёвка, размер машины, состояние грунтового съезда и место встречи.",
+        "phone": "+506 8947 3079",
+        "url": "https://campingbabsita.com/book-now",
+        "email": "babs.oesch@gmail.com"
+      },
+      {
+        "name": "Местная команда Camping Babsita",
+        "source": "babsita-paddle-direct",
+        "note": "Уровень воды, детский размер жилета, SUP или лодку, самостоятельное снаряжение уточняйте заранее.",
+        "phone": "+506 8947 3079",
+        "url": "https://campingbabsita.com/tours"
+      }
+    ],
+    "nearby": [
+      "rio-estrella-babsita-paddle",
+      "maria-cahuita-roof",
+      "alouatta-cahuita-roof",
+      "estrella-cahuita-roof-3"
+    ]
+  },
+  "rio-estrella-babsita-paddle": {
+    "stops": [
+      {
+        "point": "babsita-playa-estrella-camp",
+        "role": "Встреча · Camping Babsita",
+        "note": "Фактическую пристань и направление сообщит команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "SUP для первого раза",
+        "text": "В заявке скажите, кто уже грёб и кто впервые встаёт на доску. Команда у лагеря организует выход с гидом. Запросите условия по возрасту, жилетам, глубине и встречному течению.",
+        "sources": [
+          "babsita-paddle-direct",
+          "babsita-roof-camp-review"
+        ]
+      },
+      {
+        "title": "Выбор лодки",
+        "text": "Оператор предлагает дневные и вечерние наблюдения с лодки. Семье удобнее заранее сверить освещение, время возврата и тихую дневную программу. Если река поднялась, оставьте прогулку по сухому берегу.",
+        "sources": [
+          "babsita-paddle-direct",
+          "babsita-directions-direct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Местная команда Camping Babsita",
+        "source": "babsita-paddle-direct",
+        "note": "Уровень воды, детский размер жилета, SUP или лодку, самостоятельное снаряжение уточняйте заранее.",
+        "phone": "+506 8947 3079",
+        "url": "https://campingbabsita.com/tours"
+      }
+    ],
+    "nearby": [
+      "babsita-roof-estrella",
+      "cahuita-reef-snorkel",
+      "estrella-cahuita-roof-3"
+    ]
+  },
+  "maria-cahuita-roof": {
+    "stops": [
+      {
+        "point": "camping-maria-cahuita-pitch",
+        "role": "Въезд · Camping María",
+        "note": "Места ограничены, запрашивайте точку в день приезда."
+      },
+      {
+        "point": "playa-negra-cahuita-area",
+        "role": "Берег · Playa Negra в Кауите",
+        "note": ""
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "Пеший вход в парк · Kelly Creek",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Габариты площадки",
+        "text": "В справочнике описаны несколько мест под машины с крышной палаткой и часть земли под обычные палатки. Попросите разместить автомобиль с лестницей и козырьком и сверить время тихого заезда. Стоянку крупного кемпера уточняйте отдельно.",
+        "sources": [
+          "maria-cahuita-roof-capacity",
+          "maria-cahuita-camper-local"
+        ]
+      },
+      {
+        "title": "Два берега Кауиты",
+        "text": "Для отдыха рядом с лагерем оставайтесь на местном берегу Playa Negra. Для наблюдения за лесом и тропы перейдите к входу Playa Blanca в посёлке. У моря сверяйте флаги, а снорклинг согласовывайте с местными лодочниками.",
+        "sources": [
+          "maria-cahuita-camp-listing",
+          "cahuita-map",
+          "cahuita-experience-reef"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping María · Cahuita",
+        "source": "maria-cahuita-camper-local",
+        "note": "Уточните отдельную площадку под открытый бокс, число людей и точный въезд.",
+        "phone": "+506 8942 5667",
+        "url": "https://wa.me/50689425667"
+      },
+      {
+        "name": "Alouatta Lodge & Canopy",
+        "source": "alouatta-cahuita-contact-map",
+        "note": "Площадка для camper, подвод электричества и запись на лесную программу.",
+        "phone": "+506 8721 2991",
+        "url": "https://alouattalodgeandcanopy.com/contacto/",
+        "email": "alouattalodge.canopy@gmail.com"
+      }
+    ],
+    "nearby": [
+      "cahuita-trail",
+      "cahuita-reef-snorkel",
+      "alouatta-cahuita-roof",
+      "estrella-cahuita-roof-3"
+    ]
+  },
+  "alouatta-cahuita-roof": {
+    "stops": [
+      {
+        "point": "alouatta-cahuita-lodge",
+        "role": "Лагерь и встреча с инструкторами · Alouatta",
+        "note": "Подъезд по Calle Río Suárez. Для крупной машины попросите схему разворота."
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "Прогулка вне лагеря · вход Playa Blanca",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Фото места и формат ночёвки",
+        "text": "В каталоге самого лоджа есть опция Parking Carros Camper, отдельные кабины и места для палаток. В справочнике подтверждён rooftop. Попросите сообщить, на какой площадке доступны душ и электричество и можно ли оставить крышу открытой на ночь.",
+        "sources": [
+          "alouatta-cahuita-car-camper",
+          "alouatta-cahuita-contact-map",
+          "alouatta-cahuita-roof-listed"
+        ]
+      },
+      {
+        "title": "Подвесные мосты и канопи",
+        "text": "На сайте разделены пакеты с мостами и зиплайном. Для ребёнка укажите возраст, рост и вес при записи. Альтернатива группе с младшими детьми — прогулка в парке по береговому участку от Kelly Creek.",
+        "sources": [
+          "alouatta-cahuita-canopy-direct",
+          "cahuita-map"
+        ]
+      },
+      {
+        "title": "Как расположен лодж",
+        "text": "В отзывах отмечают близость к Кауите и лесную обстановку. Отдельно спросите про связь, тень и мокрый грунт после дождя. На карту нанесён въезд по адресу оператора.",
+        "sources": [
+          "alouatta-cahuita-guest-notes",
+          "alouatta-cahuita-contact-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Alouatta Lodge & Canopy",
+        "source": "alouatta-cahuita-contact-map",
+        "note": "Площадка для camper, подвод электричества и запись на лесную программу.",
+        "phone": "+506 8721 2991",
+        "url": "https://alouattalodgeandcanopy.com/contacto/",
+        "email": "alouattalodge.canopy@gmail.com"
+      }
+    ],
+    "nearby": [
+      "maria-cahuita-roof",
+      "cahuita-trail",
+      "cahuita-reef-snorkel",
+      "estrella-cahuita-roof-3"
+    ]
+  },
+  "kaniki-gandoca-roof": {
+    "stops": [
+      {
+        "point": "gandoca-route36-turn",
+        "role": "Съезд · Ruta 36 на Calle Gandoca",
+        "note": ""
+      },
+      {
+        "point": "gandoca-village-liceo",
+        "role": "Ориентир в посёлке · Liceo Rural",
+        "note": ""
+      },
+      {
+        "point": "kaniki-soda-local-map",
+        "role": "Ночёвка · Soda y Cabinas Kaniki",
+        "note": "Попросите у хозяев схему заезда к месту под крышу."
+      },
+      {
+        "point": "gandoca-coast-road-end",
+        "role": "Дневной подъезд · Playa Gandoca",
+        "note": "Границы разрешённого прохода уточняйте в заказнике."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Крышная палатка и питание",
+        "text": "Справочник описывает площадку с душем и туалетом, наземными и крышными палатками. У семейной соды уточните, нужно ли заказать ужин и где поставить машину. У лагеря и кабины может быть разный въезд.",
+        "sources": [
+          "kaniki-gandoca-vehicle-camp",
+          "kaniki-gandoca-local-map"
+        ]
+      },
+      {
+        "title": "Подъезд с материка",
+        "text": "Официальный сектор Gandoca расположен у одноимённого посёлка. С Ruta 36 сверните к деревне и после дождя спросите про последнюю гравийную часть. Для приезда из Puerto Viejo огибайте заказник по дороге через Hone Creek.",
+        "sources": [
+          "osm-cr-points",
+          "gandoca",
+          "kaniki-gandoca-vehicle-camp"
+        ]
+      },
+      {
+        "title": "Ночная прогулка",
+        "text": "Правила заказника охраняют участки кладки черепах. В сезон обращайтесь к местной команде за разрешённым форматом тура. Дневная лагуна и береговая прогулка доступны по состоянию воды и правилам сектора.",
+        "sources": [
+          "gandoca-sinac-manejo-laguna",
+          "gandoca-cultural-exchange-rural",
+          "gandoca-tours-kayak-lagoon"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Soda y Cabinas Kaniki",
+        "source": "kaniki-gandoca-vehicle-camp",
+        "note": "Попросите пин актуального въезда, подтвердите место для крыши и возможность ужина по приезде.",
+        "phone": "+506 8658 6117",
+        "url": "https://wa.me/50686586117"
+      },
+      {
+        "name": "Gandoca Tours · Нефтали Веласкес",
+        "source": "gandoca-tours-neftali-local",
+        "note": "Местная команда. Уточните площадку сбора именно в Гандоке, жилеты и условия на воде.",
+        "phone": "+506 8762 8848",
+        "url": "https://www.gandocatours.com/tour/kayaking-en-laguna-gandoca/"
+      }
+    ],
+    "nearby": [
+      "gandoca-lagoon-local-paddle",
+      "gandoca-rooftop-lagoon-2",
+      "gandoca"
+    ]
+  },
+  "gandoca-lagoon-local-paddle": {
+    "stops": [
+      {
+        "point": "gandoca-village-liceo",
+        "role": "Ориентир в Gandoca · Liceo Rural",
+        "note": ""
+      },
+      {
+        "point": "gandoca-tours-beach-office",
+        "role": "Район сбора · Gandoca Tours",
+        "note": "Фактическую посадку пришлёт гид."
+      },
+      {
+        "point": "gandoca-lagoon-local-area",
+        "role": "Лагуна · водный ориентир",
+        "note": "Условия и участок прогулки уточните у гида."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать каяк или лодку",
+        "text": "Gandoca Tours публикует отдельные программы на каяке и по манграм. Уточните актуальную длительность, кто гребёт, какой жилет подойдёт ребёнку и что меняется при сильном ветре. Для спокойного выезда заранее запрашивайте лагуну без морского участка.",
+        "sources": [
+          "gandoca-tours-kayak-lagoon",
+          "gandoca-tours-mangrove-boat"
+        ]
+      },
+      {
+        "title": "Правила лагуны",
+        "text": "В плане управления SINAC перечислены разрешённые низкоинтенсивные активности по зонам. Попросите проводника согласовать зону и доступ. Любительскую рыбалку или запуск своей лодки оформляют отдельно по действующим условиям.",
+        "sources": [
+          "gandoca-sinac-manejo-laguna",
+          "gandoca"
+        ]
+      },
+      {
+        "title": "Местный проводник и быт",
+        "text": "Нефтали Веласкес вырос в этом секторе заказника. Его команда собирает гостей у Playa Gandoca. Если едете без машины, спросите про платный трансфер. Для еды и стоянки есть семейная сода в посёлке, а через Gandoca Cultural Exchange можно согласовать отдельную программу по деревне.",
+        "sources": [
+          "gandoca-tours-neftali-local",
+          "gandoca-tours-mangrove-boat",
+          "gandoca-cultural-exchange-rural",
+          "kaniki-gandoca-local-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Gandoca Tours · Нефтали Веласкес",
+        "source": "gandoca-tours-neftali-local",
+        "note": "Местная команда. Уточните площадку сбора именно в Гандоке, жилеты и условия на воде.",
+        "phone": "+506 8762 8848",
+        "url": "https://www.gandocatours.com/tour/kayaking-en-laguna-gandoca/"
+      },
+      {
+        "name": "Soda y Cabinas Kaniki",
+        "source": "kaniki-gandoca-vehicle-camp",
+        "note": "Попросите пин актуального въезда, подтвердите место для крыши и возможность ужина по приезде.",
+        "phone": "+506 8658 6117",
+        "url": "https://wa.me/50686586117"
+      }
+    ],
+    "nearby": [
+      "kaniki-gandoca-roof",
+      "gandoca-rooftop-lagoon-2",
+      "gandoca",
+      "punta-uva"
+    ]
+  },
+  "estrella-cahuita-roof-3": {
+    "stops": [
+      {
+        "point": "babsita-ruta36-turn",
+        "role": "День 1 · съезд с Ruta 36",
+        "note": ""
+      },
+      {
+        "point": "babsita-playa-estrella-camp",
+        "role": "Ночь 1 · Camping Babsita",
+        "note": ""
+      },
+      {
+        "point": "camping-maria-cahuita-pitch",
+        "role": "Ночь 2 · Camping María",
+        "note": ""
+      },
+      {
+        "point": "playa-negra-cahuita-area",
+        "role": "День 2 · Playa Negra",
+        "note": ""
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "День 2 · вход Playa Blanca",
+        "note": ""
+      },
+      {
+        "point": "cahuita-experience-meet",
+        "role": "День 3 · офис лодочной команды",
+        "note": ""
+      },
+      {
+        "point": "alouatta-cahuita-lodge",
+        "role": "День 3 · лесная база Alouatta",
+        "note": "Здесь также можно провести вторую ночь по согласованию."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что бронировать на выходные",
+        "text": "Первую ночь согласуйте с Babsita. У Camping María небольшая площадка, запросите место по габаритам. Alouatta подходит как альтернатива с кабинами или парковкой для camper. Переезд между лагерями оставляет время на прогулку.",
+        "sources": [
+          "babsita-camping-direct",
+          "babsita-roof-camp-review",
+          "maria-cahuita-roof-capacity",
+          "alouatta-cahuita-car-camper"
+        ]
+      },
+      {
+        "title": "Для компании с детьми",
+        "text": "На первый день выбирайте лодку или SUP с подходящим жилетом. На второй день можно пройти часть тропы от Playa Blanca. Третий день оставьте гибким по возрасту, видимости и условиям на высоте.",
+        "sources": [
+          "babsita-paddle-direct",
+          "cahuita-map",
+          "alouatta-cahuita-canopy-direct",
+          "cahuita-experience-reef"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Babsita",
+        "source": "babsita-directions-direct",
+        "note": "Ночёвка, размер машины, состояние грунтового съезда и место встречи.",
+        "phone": "+506 8947 3079",
+        "url": "https://campingbabsita.com/book-now",
+        "email": "babs.oesch@gmail.com"
+      },
+      {
+        "name": "Местная команда Camping Babsita",
+        "source": "babsita-paddle-direct",
+        "note": "Уровень воды, детский размер жилета, SUP или лодку, самостоятельное снаряжение уточняйте заранее.",
+        "phone": "+506 8947 3079",
+        "url": "https://campingbabsita.com/tours"
+      },
+      {
+        "name": "Camping María · Cahuita",
+        "source": "maria-cahuita-camper-local",
+        "note": "Уточните отдельную площадку под открытый бокс, число людей и точный въезд.",
+        "phone": "+506 8942 5667",
+        "url": "https://wa.me/50689425667"
+      },
+      {
+        "name": "Alouatta Lodge & Canopy",
+        "source": "alouatta-cahuita-contact-map",
+        "note": "Площадка для camper, подвод электричества и запись на лесную программу.",
+        "phone": "+506 8721 2991",
+        "url": "https://alouattalodgeandcanopy.com/contacto/",
+        "email": "alouattalodge.canopy@gmail.com"
+      },
+      {
+        "name": "Cahuita Experience",
+        "source": "cahuita-experience-reef",
+        "note": "Офис, состояние рифа и перенос лодки.",
+        "phone": "+506 8378 4764",
+        "url": "https://www.cahuitaexperience.com/snorkeling"
+      }
+    ],
+    "nearby": [
+      "babsita-roof-estrella",
+      "maria-cahuita-roof",
+      "alouatta-cahuita-roof",
+      "cahuita-reef-snorkel",
+      "talamanca-reef-surf-3"
+    ],
+    "line": "estrella-cahuita-roof-3"
+  },
+  "gandoca-rooftop-lagoon-2": {
+    "stops": [
+      {
+        "point": "hone-creek-town",
+        "role": "День 1 · развилка Hone Creek",
+        "note": ""
+      },
+      {
+        "point": "gandoca-route36-turn",
+        "role": "День 1 · съезд с Ruta 36",
+        "note": ""
+      },
+      {
+        "point": "gandoca-village-liceo",
+        "role": "День 1 · ориентир деревни",
+        "note": ""
+      },
+      {
+        "point": "kaniki-soda-local-map",
+        "role": "Ночёвка · Soda y Cabinas Kaniki",
+        "note": ""
+      },
+      {
+        "point": "gandoca-coast-road-end",
+        "role": "День 2 · Playa Gandoca",
+        "note": ""
+      },
+      {
+        "point": "gandoca-tours-beach-office",
+        "role": "День 2 · местный организатор",
+        "note": ""
+      },
+      {
+        "point": "gandoca-lagoon-local-area",
+        "role": "День 2 · водный ориентир у лагуны",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Еда и ночёвка",
+        "text": "Попросите хозяев Kaniki прислать точный пин и размеры площадки. В атласе показана метка семейной соды по местному справочнику. Заранее узнайте, можно ли поесть утром до выезда и вечером по приезде.",
+        "sources": [
+          "kaniki-gandoca-vehicle-camp",
+          "kaniki-gandoca-local-map"
+        ]
+      },
+      {
+        "title": "Порядок дня на воде",
+        "text": "Если едете с детьми или разным уровнем подготовки, спросите про лодку по лагуне и возможность остаться на берегу. Выход к устью, спуск со своим снаряжением и правила наблюдения за животными согласуйте с местной командой.",
+        "sources": [
+          "gandoca-tours-kayak-lagoon",
+          "gandoca-tours-mangrove-boat",
+          "gandoca-sinac-manejo-laguna"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Soda y Cabinas Kaniki",
+        "source": "kaniki-gandoca-vehicle-camp",
+        "note": "Попросите пин актуального въезда, подтвердите место для крыши и возможность ужина по приезде.",
+        "phone": "+506 8658 6117",
+        "url": "https://wa.me/50686586117"
+      },
+      {
+        "name": "Gandoca Tours · Нефтали Веласкес",
+        "source": "gandoca-tours-neftali-local",
+        "note": "Местная команда. Уточните площадку сбора именно в Гандоке, жилеты и условия на воде.",
+        "phone": "+506 8762 8848",
+        "url": "https://www.gandocatours.com/tour/kayaking-en-laguna-gandoca/"
+      }
+    ],
+    "nearby": [
+      "kaniki-gandoca-roof",
+      "gandoca-lagoon-local-paddle",
+      "gandoca",
+      "estrella-cahuita-roof-3"
+    ],
+    "line": "gandoca-rooftop-lagoon-2"
+  },
+  "selva-madre-rooftent-trout": {
+    "stops": [
+      {
+        "point": "el-empalme-dota-road",
+        "role": "Дорожный ориентир · El Empalme",
+        "note": ""
+      },
+      {
+        "point": "truchas-selva-madre-local",
+        "role": "Кемпинг, пруды и ресторан · Truchas Selva Madre",
+        "note": "Конкретный въезд и место для машины подтвердите при звонке."
+      },
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Отдельная остановка · кофе в Santa María",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как проходит ночёвка",
+        "text": "Справочник отмечает места под крышу и обычную палатку рядом с семейным комплексом. Уточните у хозяев ровную площадку, время въезда, воду и ночной доступ к туалету. Из-за высоты возьмите одежду и спальник для холодной ночи.",
+        "sources": [
+          "selva-madre-roof-camp",
+          "selva-madre-local-contact",
+          "selva-madre-point-and-reviews"
+        ]
+      },
+      {
+        "title": "Форель с детьми",
+        "text": "По описанию и наблюдениям посетителей, в комплексе можно ловить форель и договориться о приготовлении. Спросите, дают ли удочку, оплачивают ли пойманную рыбу по весу и до какого времени работает кухня. Детям требуется сопровождение у воды.",
+        "sources": [
+          "selva-madre-roof-camp",
+          "selva-madre-point-and-reviews"
+        ]
+      },
+      {
+        "title": "Лес после обеда",
+        "text": "Личный отчёт показывает Sendero Los Robles с влажным покрытием и береговыми участками. На месте спросите об открытой части и развороте, если маршрут после дождя размыло. Для короткой прогулки достаточно лесного участка рядом с комплексом.",
+        "sources": [
+          "selva-madre-los-robles-walk",
+          "selva-madre-point-and-reviews"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Truchas Selva Madre",
+        "source": "selva-madre-local-contact",
+        "note": "Согласуйте режим пруда, время кухни, последний съезд и въезд на площадку для машины.",
+        "phone": "+506 8593 5875",
+        "url": "https://www.todosbiz.com/CR/truchas-selva-madre-8593-5875"
+      },
+      {
+        "name": "CoopeDota · экскурсии",
+        "source": "coopedota-contact-direct",
+        "note": "Уточните язык, время и пин экскурсии. Для кофе на месте смотрите часы кофейни.",
+        "phone": "+506 2541 2828",
+        "url": "https://www.coopedota.com/contacto/",
+        "email": "info@coopedota.com"
+      }
+    ],
+    "nearby": [
+      "coopedota-santa-maria-coffee",
+      "dota-roof-trout-coffee-2",
+      "laguna-don-manuel-camp",
+      "los-quetzales"
+    ]
+  },
+  "finca-san-antonio-copey": {
+    "stops": [
+      {
+        "point": "copey-town-center",
+        "role": "Ориентир · Copey de Dota",
+        "note": "Запросите точный пин фермы у хозяев перед съездом."
+      },
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "По дороге · CoopeDota, Santa María",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Формат фермы",
+        "text": "Справочник описывает сельскую площадку для палаток среди горных полей. В личном отчёте TicoFAm отмечены тишина и холодная ночь. Спросите, доступна ли земля после дождей и возможен ли заезд машины непосредственно к палатке.",
+        "sources": [
+          "finca-san-antonio-copey-camping",
+          "finca-san-antonio-ticofam-field-notes",
+          "finca-san-antonio-copey-fb-public"
+        ]
+      },
+      {
+        "title": "Маршрут вокруг Copey",
+        "text": "Со стороны Santa María можно совместить кофейню с ночёвкой. Для лесной прогулки утром проверьте официальный вход Los Quetzales и оставьте время на отдельный переезд. Режим и желание заказать гида уточняйте до поездки.",
+        "sources": [
+          "ict-los-santos-rural-coffee",
+          "coopedota-coffee-experiences-direct",
+          "quetzales-directions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Finca San Antonio",
+        "source": "finca-san-antonio-copey-camping",
+        "note": "Карта места и ссылка на страницу владельцев. Попросите пин последнего подъезда и подтвердите ночёвку.",
+        "url": "https://costaricacampsites.com/camp-sites/camping-finca-san-antonio/"
+      },
+      {
+        "name": "CoopeDota · экскурсии",
+        "source": "coopedota-contact-direct",
+        "note": "Уточните язык, время и пин экскурсии. Для кофе на месте смотрите часы кофейни.",
+        "phone": "+506 2541 2828",
+        "url": "https://www.coopedota.com/contacto/",
+        "email": "info@coopedota.com"
+      }
+    ],
+    "nearby": [
+      "coopedota-santa-maria-coffee",
+      "los-quetzales",
+      "dota-roof-trout-coffee-2"
+    ]
+  },
+  "coopedota-santa-maria-coffee": {
+    "stops": [
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Кофейня и ориентир экскурсии · CoopeDota",
+        "note": "Для экскурсии подтвердите место сбора отдельно."
+      },
+      {
+        "point": "don-manuel",
+        "role": "Рядом · прогулка у Laguna Don Manuel",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кофе в поездке на полдня",
+        "text": "Если путь через Los Santos, можно сделать короткую остановку в кофейне и выбрать зерно по местному происхождению. Туристическая ассоциация региона указывает кофейню, визиты в кооператив и экскурсии по фермам.",
+        "sources": [
+          "coopedota-catursantos",
+          "ict-los-santos-rural-coffee"
+        ]
+      },
+      {
+        "title": "Экскурсия для семьи",
+        "text": "CoopeDota публикует несколько форматов, включая знакомство с обработкой и дегустацию. Нужное время, язык, доступ с коляской и актуальный состав маршрута подтвердите у отдела туризма.",
+        "sources": [
+          "coopedota-coffee-experiences-direct",
+          "coopedota-contact-direct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "CoopeDota · экскурсии",
+        "source": "coopedota-contact-direct",
+        "note": "Уточните язык, время и пин экскурсии. Для кофе на месте смотрите часы кофейни.",
+        "phone": "+506 2541 2828",
+        "url": "https://www.coopedota.com/contacto/",
+        "email": "info@coopedota.com"
+      }
+    ],
+    "nearby": [
+      "selva-madre-rooftent-trout",
+      "finca-san-antonio-copey",
+      "laguna-don-manuel-camp",
+      "dota-roof-trout-coffee-2"
+    ]
+  },
+  "dota-roof-trout-coffee-2": {
+    "stops": [
+      {
+        "point": "el-empalme-dota-road",
+        "role": "Дни 1 и 2 · дорожный ориентир El Empalme",
+        "note": ""
+      },
+      {
+        "point": "truchas-selva-madre-local",
+        "role": "Ночёвка и рыбалка · Selva Madre",
+        "note": "Подтвердите место для раскрытой крыши и время въезда."
+      },
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "День 2 · кофе CoopeDota",
+        "note": ""
+      },
+      {
+        "point": "don-manuel",
+        "role": "День 2 · Laguna Don Manuel",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Для выезда с детьми",
+        "text": "На первый день удобно выбрать время на пруды и обед у кемпинга. Для второй половины программы подберите короткую прогулку, если извилистый переезд утомил детей. У CoopeDota можно заехать только в кафе по фактическим часам.",
+        "sources": [
+          "selva-madre-roof-camp",
+          "selva-madre-point-and-reviews",
+          "coopedota-catursantos"
+        ]
+      },
+      {
+        "title": "Дорожные и погодные нюансы",
+        "text": "Перед выходными уточните, идёт ли дождь в горах, пригоден ли участок для машины и можно ли пользоваться лесной зоной. Ночью пригодится утеплённое спальное место. Для ещё одной ночи обычная палатка или кабины есть у Laguna Don Manuel и в районе Copey по записи.",
+        "sources": [
+          "selva-madre-roof-camp",
+          "ict-los-santos-rural-coffee",
+          "don-manuel-owner",
+          "finca-san-antonio-copey-camping"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Truchas Selva Madre",
+        "source": "selva-madre-local-contact",
+        "note": "Согласуйте режим пруда, время кухни, последний съезд и въезд на площадку для машины.",
+        "phone": "+506 8593 5875",
+        "url": "https://www.todosbiz.com/CR/truchas-selva-madre-8593-5875"
+      },
+      {
+        "name": "CoopeDota · экскурсии",
+        "source": "coopedota-contact-direct",
+        "note": "Уточните язык, время и пин экскурсии. Для кофе на месте смотрите часы кофейни.",
+        "phone": "+506 2541 2828",
+        "url": "https://www.coopedota.com/contacto/",
+        "email": "info@coopedota.com"
+      },
+      {
+        "name": "Laguna Don Manuel",
+        "source": "don-manuel-owner",
+        "note": "Гостевой вход, прогулка и размещение по записи.",
+        "url": "https://lagunadonmanuel.com/"
+      }
+    ],
+    "nearby": [
+      "selva-madre-rooftent-trout",
+      "coopedota-santa-maria-coffee",
+      "laguna-don-manuel-camp",
+      "finca-san-antonio-copey",
+      "los-quetzales"
+    ],
+    "line": "dota-roof-trout-coffee-2"
+  },
+  "esterillos-las-brisas-camping": {
+    "stops": [
+      {
+        "point": "las-brisas-esterillos-camp",
+        "role": "Ночёвка · Las Brisas",
+        "note": "Позвоните перед въездом на площадку."
+      },
+      {
+        "point": "aloha-esterillos-oeste-base",
+        "role": "Рядом · Aloha Surf",
+        "note": ""
+      },
+      {
+        "point": "esterillos-oeste-beach-area",
+        "role": "Дневная прогулка · берег Esterillos Oeste",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что есть в кемпинге",
+        "text": "В карточке Camping.cr указаны тень, туалеты, место для готовки и ночное освещение. Справочник автопутешественников также публикует площадку. Для крышной палатки первый вопрос хозяину — можно ли занять такое место с учётом вылета лестницы.",
+        "sources": [
+          "las-brisas-esterillos-camping-local",
+          "las-brisas-esterillos-camper-notes"
+        ]
+      },
+      {
+        "title": "Как провести утро без машины",
+        "text": "От кемпинга удобно пройти к берегу и школе рядом с футбольной площадкой. Для детей и начинающих время и место урока подбирает инструктор. За покупками перед переездом к Пало-Секо можно остановиться в Паррите.",
+        "sources": [
+          "aloha-esterillos-family-instructor",
+          "ict-esterillos-palo-seco-coast",
+          "las-brisas-esterillos-camping-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Turístico Las Brisas",
+        "source": "las-brisas-esterillos-camping-local",
+        "note": "Уточните место для машины, часы заезда, тишину ночью и использование кухни.",
+        "phone": "+506 8386 7084",
+        "url": "https://wa.me/50683867084"
+      },
+      {
+        "name": "Aloha Surf Esterillos Oeste · Хорхе",
+        "source": "aloha-esterillos-reviews-map",
+        "note": "Укажите уровень и возраст. Попросите точку урока, размер доски и окно прилива.",
+        "phone": "+506 8377 2928",
+        "url": "https://wa.me/50683772928"
+      }
+    ],
+    "nearby": [
+      "esterillos-aloha-surf",
+      "palo-seco-roof-camp",
+      "esterillos-palo-seco-roof-2"
+    ]
+  },
+  "esterillos-aloha-surf": {
+    "stops": [
+      {
+        "point": "aloha-esterillos-oeste-base",
+        "role": "Встреча · Aloha Surf у футбольной площадки",
+        "note": ""
+      },
+      {
+        "point": "esterillos-oeste-beach-area",
+        "role": "Берег · Esterillos Oeste",
+        "note": "Точное место занятия назначает школа."
+      },
+      {
+        "point": "las-brisas-esterillos-camp",
+        "role": "Ночёвка рядом · Las Brisas",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как начать с одного занятия",
+        "text": "Хорхе Боланди описывает семейную школу и работу на местном побережье. В отзывах упоминают первый урок и аренду на месте. Уточните экипировку, формат для ребёнка, перенос при волнении и возможность частного занятия.",
+        "sources": [
+          "aloha-esterillos-family-instructor",
+          "aloha-esterillos-reviews-map"
+        ]
+      },
+      {
+        "title": "Где провести время остальным",
+        "text": "Эстерильос состоит из нескольких береговых секторов между эстуариями. После урока можно остаться на суше или посмотреть берег при подходящем приливе. Режим входа в воду выбирайте со школой по конкретному участку.",
+        "sources": [
+          "ict-esterillos-palo-seco-coast",
+          "aloha-esterillos-family-instructor"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aloha Surf Esterillos Oeste · Хорхе",
+        "source": "aloha-esterillos-reviews-map",
+        "note": "Укажите уровень и возраст. Попросите точку урока, размер доски и окно прилива.",
+        "phone": "+506 8377 2928",
+        "url": "https://wa.me/50683772928"
+      },
+      {
+        "name": "Camping Turístico Las Brisas",
+        "source": "las-brisas-esterillos-camping-local",
+        "note": "Уточните место для машины, часы заезда, тишину ночью и использование кухни.",
+        "phone": "+506 8386 7084",
+        "url": "https://wa.me/50683867084"
+      }
+    ],
+    "nearby": [
+      "esterillos-las-brisas-camping",
+      "esterillos-palo-seco-roof-2",
+      "hermosa-jaco"
+    ]
+  },
+  "palo-seco-roof-camp": {
+    "stops": [
+      {
+        "point": "parrita-market-centre",
+        "role": "Закупка и связь · Parrita",
+        "note": ""
+      },
+      {
+        "point": "palo-seco-coastal-road-turn",
+        "role": "Автомобильный въезд на береговой участок",
+        "note": ""
+      },
+      {
+        "point": "palo-seco-isla-shore-road",
+        "role": "Береговой район · Isla Palo Seco",
+        "note": "У хозяев запросите пин частного въезда и номер площадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что спросить хозяев",
+        "text": "В справочнике описаны стоянка рядом с берегом, душ и туалет. Попросите пин въезда, размеры площадки, качество воды и свободное место. Если раскрывается боковой тент, предупредите об этом заранее.",
+        "sources": [
+          "palo-seco-private-roof-camp",
+          "palo-seco-road-and-beach-report"
+        ]
+      },
+      {
+        "title": "Зачем ехать в Пало-Секо",
+        "text": "Местные рыбаки и семьи используют район для рыбалки и отдыха на берегу. Репортаж Teletica показывает поездку с жителем Парриты. В открытом океане здесь заметный прибой, а на эстуарий договоритесь с оператором отдельно.",
+        "sources": [
+          "parrita-palo-seco-local-fisher",
+          "ict-esterillos-palo-seco-coast",
+          "tortugas-cr-palo-seco-manglar"
+        ]
+      },
+      {
+        "title": "Последний съезд",
+        "text": "Автомобильная дорога идёт из Парриты на береговую полосу между эстуарием и океаном. Уточните адрес кемпинга, пригодность подъезда и состояние низких мест после ливня.",
+        "sources": [
+          "palo-seco-private-roof-camp",
+          "palo-seco-road-and-beach-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Isla Palo Seco",
+        "source": "palo-seco-private-roof-camp",
+        "note": "Уточните точный пин частной площадки, крытую стоянку или место для раскрытой крыши.",
+        "phone": "+506 6353 0734",
+        "url": "https://wa.me/50663530734"
+      },
+      {
+        "name": "Tortugas Costa Rica",
+        "source": "tortugas-cr-palo-seco-manglar",
+        "note": "Попросите выбрать сектор Palo Seco, сообщить пин запуска, условия прилива и комплект жилетов.",
+        "phone": "+506 8423 1212",
+        "url": "https://tortugascostarica.org/es/tours/manglar",
+        "email": "info@tortugascostarica.org"
+      }
+    ],
+    "nearby": [
+      "palo-seco-estuary-kayak-fishing",
+      "esterillos-palo-seco-roof-2",
+      "esterillos-las-brisas-camping"
+    ]
+  },
+  "palo-seco-estuary-kayak-fishing": {
+    "stops": [
+      {
+        "point": "parrita-market-centre",
+        "role": "Автомобильный ориентир · Parrita",
+        "note": ""
+      },
+      {
+        "point": "palo-seco-isla-shore-road",
+        "role": "Береговой район эстуария · Isla Palo Seco",
+        "note": "Фактическую посадку уточните отдельно."
+      },
+      {
+        "point": "palo-seco-estuary-water-area",
+        "role": "Мангры · Estero Palo Seco",
+        "note": "Географический ориентир. Персональный пин спуска сообщит команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лодка или каяк по манграм",
+        "text": "Tortugas Costa Rica публикует маршруты по двум эстуариям. Запросите отдельно Пало-Секо, тип судна, время по приливу и точку встречи. Для семьи уточните детские жилеты и сколько места на лодке.",
+        "sources": [
+          "tortugas-cr-palo-seco-manglar",
+          "palo-seco-estuary-orient-map",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "title": "Как здесь рыбачат местные",
+        "text": "31 мая 2026 года местное сообщество анонсировало турнир на каяках в estero. Teletica отдельно описывает поездку с рыбаком из Парриты. Для самостоятельной рыбалки уточните у INCOPESCA режим места и лицензию. Спросите местных, где допускается спуск вашей лодки.",
+        "sources": [
+          "palo-seco-angler-kayak-meet",
+          "parrita-palo-seco-local-fisher",
+          "incopesca-sport-fishing"
+        ]
+      },
+      {
+        "title": "Зачем сверять воду",
+        "text": "Гид выбирает маршрут с учётом прилива. Планируйте возврат до изменения воды и заранее спросите, доступна ли сухопутная альтернатива. Самостоятельный переход к устью требует оценки местных условий.",
+        "sources": [
+          "tortugas-cr-palo-seco-manglar",
+          "imn-tides-table",
+          "ict-esterillos-palo-seco-coast"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tortugas Costa Rica",
+        "source": "tortugas-cr-palo-seco-manglar",
+        "note": "Попросите выбрать сектор Palo Seco, сообщить пин запуска, условия прилива и комплект жилетов.",
+        "phone": "+506 8423 1212",
+        "url": "https://tortugascostarica.org/es/tours/manglar",
+        "email": "info@tortugascostarica.org"
+      },
+      {
+        "name": "Señuelos Tona · организатор встречи рыболовов",
+        "source": "palo-seco-angler-kayak-meet",
+        "note": "Публичный контакт организатора прошедшего турнира. Через него уточняйте будущие встречи в эстуарии.",
+        "phone": "+506 8784 4620",
+        "url": "https://angler.cr/blogs/noticias/torneo-de-pesca-en-kayak-isla-palo-seco-parrita"
+      }
+    ],
+    "nearby": [
+      "palo-seco-roof-camp",
+      "esterillos-palo-seco-roof-2",
+      "rafiki-matapalo-glamping-kayak"
+    ]
+  },
+  "esterillos-palo-seco-roof-2": {
+    "stops": [
+      {
+        "point": "las-brisas-esterillos-camp",
+        "role": "День 1 · кемпинг у Esterillos Oeste",
+        "note": ""
+      },
+      {
+        "point": "aloha-esterillos-oeste-base",
+        "role": "День 1 · встреча с Aloha Surf",
+        "note": ""
+      },
+      {
+        "point": "parrita-market-centre",
+        "role": "Дни 1 и 2 · Паррита, еда и ориентир трассы",
+        "note": ""
+      },
+      {
+        "point": "palo-seco-coastal-road-turn",
+        "role": "Дни 1 и 2 · выход на береговую дорогу",
+        "note": ""
+      },
+      {
+        "point": "palo-seco-isla-shore-road",
+        "role": "День 2 · береговой район Palo Seco",
+        "note": "Запросите пины ночёвки и спуска отдельно."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сколько дел на одну ночь",
+        "text": "На Эстерильосе запланируйте один первый урок либо прогулку. Для ночёвки задайте Camping Isla Palo Seco вопрос о месте для открытой крыши. Если приедете поздно, заранее согласуйте доступ или рассмотрите стоянку у Esterillos Oeste.",
+        "sources": [
+          "aloha-esterillos-family-instructor",
+          "las-brisas-esterillos-camping-local",
+          "palo-seco-private-roof-camp"
+        ]
+      },
+      {
+        "title": "Местный выезд по воде",
+        "text": "Утренний формат можно выбрать под состав группы. Tortugas Costa Rica ведёт выезд по манграм. Рыбалку можно рассматривать отдельно с учётом лицензии, условий спуска и уровня воды.",
+        "sources": [
+          "tortugas-cr-palo-seco-manglar",
+          "palo-seco-angler-kayak-meet",
+          "incopesca-sport-fishing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Turístico Las Brisas",
+        "source": "las-brisas-esterillos-camping-local",
+        "note": "Уточните место для машины, часы заезда, тишину ночью и использование кухни.",
+        "phone": "+506 8386 7084",
+        "url": "https://wa.me/50683867084"
+      },
+      {
+        "name": "Aloha Surf Esterillos Oeste · Хорхе",
+        "source": "aloha-esterillos-reviews-map",
+        "note": "Укажите уровень и возраст. Попросите точку урока, размер доски и окно прилива.",
+        "phone": "+506 8377 2928",
+        "url": "https://wa.me/50683772928"
+      },
+      {
+        "name": "Camping Isla Palo Seco",
+        "source": "palo-seco-private-roof-camp",
+        "note": "Уточните точный пин частной площадки, крытую стоянку или место для раскрытой крыши.",
+        "phone": "+506 6353 0734",
+        "url": "https://wa.me/50663530734"
+      },
+      {
+        "name": "Tortugas Costa Rica",
+        "source": "tortugas-cr-palo-seco-manglar",
+        "note": "Попросите выбрать сектор Palo Seco, сообщить пин запуска, условия прилива и комплект жилетов.",
+        "phone": "+506 8423 1212",
+        "url": "https://tortugascostarica.org/es/tours/manglar",
+        "email": "info@tortugascostarica.org"
+      }
+    ],
+    "nearby": [
+      "esterillos-las-brisas-camping",
+      "esterillos-aloha-surf",
+      "palo-seco-roof-camp",
+      "palo-seco-estuary-kayak-fishing"
+    ],
+    "line": "esterillos-palo-seco-roof-2"
+  }
+}

@@ -30,5 +30,9 @@
   {"name":"Trivium Academy · занятия на Сарапики","url":"https://costaricaraft.com/workshops","paths":["/academy/","/workshops/","/rafting/","/kayaking/"]},
   {"name":"Guardavidas Costa Ballena · пляжи и сводки","url":"https://www.lifeguardscostaballena.com/","paths":["/beaches","/about","/program","/blog","/updates"]},
   {"name":"Todo Uvita · местный сёрф и пляжи","url":"https://todouvita.com/c/surf","paths":["/c/","/p/","/es/"]},
-  {"name":"Pavones Hub · местные поездки и транспорт","url":"https://pavoneshub.com/transporte-transportation/","paths":["/transporte-","/category/","/surf","/guide","/event"]}
+  {"name":"Pavones Hub · местные поездки и транспорт","url":"https://pavoneshub.com/transporte-transportation/","paths":["/transporte-","/category/","/surf","/guide","/event"]},
+  {"name":"Camping Babsita · проживание и вода на Río Estrella","url":"https://campingbabsita.com/tours","paths":["/tours","/accommodation","/getting-to-us-directions","/about-us","/faqs"]},
+  {"name":"Alouatta · кемперы и канопи в Кауите","url":"https://alouattalodgeandcanopy.com/cabanas/","paths":["/cabanas/","/canopy-aventura/","/parking","/contacto/"]},
+  {"name":"Gandoca Tours · местные программы на лагуне","url":"https://www.gandocatours.com/tour/kayaking-en-laguna-gandoca/","paths":["/tour/","/nosotros/","/contact"]},
+  {"name":"Tortugas Costa Rica · вода и мангры у Парриты","url":"https://tortugascostarica.org/es/tours/manglar","paths":["/es/tours/","/es/proyectos/","/es/conservacion/"]}
 ]

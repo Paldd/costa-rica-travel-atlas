@@ -1076,6 +1076,15 @@
           "don-manuel-owner",
           "don-manuel-report"
         ]
+      },
+      {
+        "title": "Как добавить кофе и рыбалку",
+        "text": "Рядом с Santa María есть кофейня и экскурсии CoopeDota. Как отдельную остановку с форелью и машиной с крышной палаткой посмотрите Truchas Selva Madre у Ruta 2. В маршруте на выходные нанесены линии переезда.",
+        "sources": [
+          "coopedota-coffee-experiences-direct",
+          "selva-madre-roof-camp",
+          "don-manuel-owner"
+        ]
       }
     ],
     "contacts": [
@@ -1085,11 +1094,22 @@
         "note": "Запись, палатки и режим площадок.",
         "phone": "+506 6080 0501",
         "url": "https://wa.me/50660800501"
+      },
+      {
+        "name": "CoopeDota · экскурсии",
+        "source": "coopedota-contact-direct",
+        "note": "Уточните язык, время и пин экскурсии. Для кофе на месте смотрите часы кофейни.",
+        "phone": "+506 2541 2828",
+        "url": "https://www.coopedota.com/contacto/",
+        "email": "info@coopedota.com"
       }
     ],
     "nearby": [
       "lucha-camping",
-      "cafe-1743-orosi"
+      "cafe-1743-orosi",
+      "coopedota-santa-maria-coffee",
+      "selva-madre-rooftent-trout",
+      "dota-roof-trout-coffee-2"
     ]
   },
   "finca-koki": {

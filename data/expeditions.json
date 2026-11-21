@@ -3359,5 +3359,334 @@
         ]
       }
     ]
+  },
+  {
+    "id": "estrella-cahuita-roof-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Карибы с крышной палаткой на 3 дня · Эстрелья и Кауита",
+    "native": "Penshurt · Playa Estrella · Cahuita · Calle Río Suárez",
+    "level": "easy",
+    "days": 3,
+    "activities": [
+      "multi",
+      "camping",
+      "rooftent",
+      "sup",
+      "snorkel",
+      "canopy",
+      "beach",
+      "wildlife",
+      "hiking"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "babsita-directions-direct",
+      "babsita-roof-camp-review",
+      "babsita-paddle-direct",
+      "maria-cahuita-roof-capacity",
+      "alouatta-cahuita-contact-map",
+      "cahuita-map"
+    ],
+    "summary": "Ночь у пляжа Эстрелья, ночь у Кауиты и выбор между речной прогулкой, рифом и подвесными мостами.",
+    "plan": "Согласуйте две стоянки и береговой запасной план. Для второй ночи выберите малую площадку María или лесную базу Alouatta.",
+    "conditions": "Подтвердите состояния съездов и мест для машины. Старт SUP, лодки или канопи уточняйте у команды после оценки погоды и воды.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Плайя-Эстрелья · заезд и вода по погоде",
+        "note": "Днём разместитесь в Babsita. Если есть подтверждённое окно реки, выбирайте SUP с гидом или лодку, остальное время оставьте на берег.",
+        "stops": [
+          "babsita-roof-estrella",
+          "rio-estrella-babsita-paddle"
+        ],
+        "sources": [
+          "babsita-directions-direct",
+          "babsita-paddle-direct",
+          "babsita-roof-camp-review"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Кауита · кемпинг и тропа у леса",
+        "note": "Переезжайте к Camping María и оставьте время на короткий маршрут в парк через Kelly Creek. Семье удобен обратный путь через тот же вход.",
+        "stops": [
+          "maria-cahuita-roof",
+          "cahuita-trail"
+        ],
+        "sources": [
+          "maria-cahuita-roof-capacity",
+          "cahuita-map"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Риф или канопи · один основной выезд",
+        "note": "Для рифа заранее согласуйте сбор в Кауите. Если видимости мало, оставьте прогулку и программу на мостах у Alouatta по возрасту и погоде.",
+        "stops": [
+          "cahuita-reef-snorkel",
+          "alouatta-cahuita-roof"
+        ],
+        "sources": [
+          "cahuita-experience-reef",
+          "alouatta-cahuita-canopy-direct",
+          "alouatta-cahuita-contact-map"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gandoca-rooftop-lagoon-2",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Гандока на выходные · крышная палатка, сода и лагуна",
+    "native": "Hone Creek · Ruta 36 · Gandoca · Soda y Cabinas Kaniki",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "multi",
+      "rooftent",
+      "camping",
+      "kayak",
+      "boat",
+      "lake",
+      "beach",
+      "forest",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "high",
+      "4x4",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "kaniki-gandoca-vehicle-camp",
+      "kaniki-gandoca-local-map",
+      "gandoca-tours-kayak-lagoon",
+      "gandoca-tours-mangrove-boat",
+      "gandoca-sinac-manejo-laguna"
+    ],
+    "summary": "Выезд на край южных Карибов с ночёвкой у семейной соды и водной прогулкой по манграм.",
+    "plan": "Выезжайте через Hone Creek и Ruta 36. Прибудьте днём, согласуйте въезд в лагерь. Утром оставьте время на каяк или более спокойную лодку.",
+    "conditions": "Последний съезд по грунту. Состояние дороги, доступность стоянки и путь по воде проверяйте накануне. У лагуны действует режим SINAC.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Hone Creek → Gandoca, ночёвка у Kaniki",
+        "note": "Закупите воду и продукты по пути. Подтвердите схему въезда с хозяевами, договоритесь об ужине и проверьте время утреннего сбора.",
+        "stops": [
+          "kaniki-gandoca-roof"
+        ],
+        "sources": [
+          "kaniki-gandoca-vehicle-camp",
+          "kaniki-gandoca-local-map",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лагуна с проводником и береговой сектор",
+        "note": "Встретьтесь с Gandoca Tours у назначенной точки. Каяк и лодочный тур планируйте в согласованной зоне. До отъезда оставьте время на берег.",
+        "stops": [
+          "gandoca-lagoon-local-paddle"
+        ],
+        "sources": [
+          "gandoca-tours-kayak-lagoon",
+          "gandoca-tours-mangrove-boat",
+          "gandoca-sinac-manejo-laguna"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dota-roof-trout-coffee-2",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Лос-Сантос на выходные · крышная палатка, форель и кофе Доты",
+    "native": "El Empalme · Truchas Selva Madre · Santa María de Dota · Laguna Don Manuel",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "multi",
+      "camping",
+      "rooftent",
+      "coffee",
+      "cafe",
+      "hiking",
+      "fishing",
+      "lake",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "selva-madre-roof-camp",
+      "selva-madre-local-contact",
+      "coopedota-coffee-experiences-direct",
+      "coopedota-contact-direct",
+      "don-manuel-owner",
+      "ict-los-santos-rural-coffee"
+    ],
+    "summary": "Ночёвка на горной площадке, семейная рыбалка, местный кофе и лесная остановка у Laguna Don Manuel.",
+    "plan": "В первый день приезжайте к Selva Madre в светлое время. Во второй день съездите к кооперативу Santa María и оставьте время на прогулку у лагуны.",
+    "conditions": "Подтвердите въезд машины с крышей и холодную погоду. После дождя перепроверьте горные съезды и открытие троп. Рыбалку согласуйте с комплексом.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Selva Madre · пруды, лес и ночёвка",
+        "note": "Разместитесь на подтверждённой площадке. Спросите про удочки и стоимость приготовления форели, до темноты пройдите доступный отрезок Sendero Los Robles.",
+        "stops": [
+          "selva-madre-rooftent-trout"
+        ],
+        "sources": [
+          "selva-madre-roof-camp",
+          "selva-madre-local-contact",
+          "selva-madre-los-robles-walk"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Кофе CoopeDota и прогулка у Laguna Don Manuel",
+        "note": "Выберите кофе с собой или экскурсию по записи. После кафе проверьте гостевой вход к лагуне и пройдите короткую тропу по погоде.",
+        "stops": [
+          "coopedota-santa-maria-coffee",
+          "laguna-don-manuel-camp"
+        ],
+        "sources": [
+          "coopedota-coffee-experiences-direct",
+          "coopedota-contact-direct",
+          "don-manuel-owner"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esterillos-palo-seco-roof-2",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Эстерильос и Пало-Секо на выходные · крыша, урок сёрфа и эстуарий",
+    "native": "Esterillos Oeste · Ruta 34 · Parrita · Isla Palo Seco",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "multi",
+      "camping",
+      "rooftent",
+      "surf",
+      "school",
+      "kayak",
+      "boat",
+      "fishing",
+      "beach"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "las-brisas-esterillos-camping-local",
+      "aloha-esterillos-family-instructor",
+      "aloha-esterillos-reviews-map",
+      "palo-seco-private-roof-camp",
+      "tortugas-cr-palo-seco-manglar",
+      "ict-esterillos-palo-seco-coast",
+      "palo-seco-angler-kayak-meet"
+    ],
+    "summary": "Местная школа у Эстерильос-Оэсте, береговая стоянка в Пало-Секо и второй день на мангровом эстуарии.",
+    "plan": "Утром возьмите урок или береговую прогулку, закупитесь в Паррите и заезжайте в Пало-Секо. Утреннюю воду на второй день согласуйте до ночёвки.",
+    "conditions": "Уточните место для крыши, состояние дороги после дождя и действующий режим спуска и рыбалки.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сёрф в Эстерильосе и переезд в Пало-Секо",
+        "note": "Соберите группу у Aloha. Заберите еду в Паррите. До темноты заезжайте на подтверждённую площадку в Palo Seco. Las Brisas можно использовать как альтернативу по согласованию.",
+        "stops": [
+          "esterillos-aloha-surf",
+          "esterillos-las-brisas-camping",
+          "palo-seco-roof-camp"
+        ],
+        "sources": [
+          "aloha-esterillos-family-instructor",
+          "las-brisas-esterillos-camping-local",
+          "palo-seco-private-roof-camp"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Мангры с гидом или рыбалка, возврат через Парриту",
+        "note": "Уточните время старта с местной командой по приливу. Если в группе есть рыболовы, согласуйте зону и разрешение. После воды выезжайте обратно через Парриту.",
+        "stops": [
+          "palo-seco-estuary-kayak-fishing"
+        ],
+        "sources": [
+          "tortugas-cr-palo-seco-manglar",
+          "palo-seco-angler-kayak-meet",
+          "imn-tides-table",
+          "incopesca-sport-fishing"
+        ]
+      }
+    ]
   }
 ]
