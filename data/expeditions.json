@@ -5602,5 +5602,424 @@
         ]
       }
     ]
+  },
+  {
+    "id": "atirro-pejibaye-paddle-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Атирро и Пехибайе · два дня с палаткой и выходом на воду",
+    "native": "Finca Quijote · Pejibaye · La Marta",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "packraft",
+      "kayak",
+      "rafting",
+      "hiking",
+      "river",
+      "forest"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "quijote-camping-cr",
+      "quijote-camping-guide",
+      "pejibaye-gorafting-school-map",
+      "lamarta-trails",
+      "poc-pejibaye-local"
+    ],
+    "summary": "Две дневные программы с ночёвкой на тихой финке. В первый день — тропы Атирро, во второй — подходящий группе участок Пехибайе либо тропы Ла-Марты.",
+    "plan": "Проведите вечер и ночь на Quijote. Утром вернитесь к реке. Самостоятельный спуск доступен подготовленным людям после согласования выхода и живой оценки воды. Для новичка можно выбрать рафтинг с гидом или сухопутную прогулку.",
+    "conditions": "Снаряжение и класс воды согласовывают отдельно от кемпинга. Ливни могут изменить программу в тот же день. Питьевая вода, налобный фонарь и мешок для сухой одежды пригодятся в любой версии.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Тропы Атирро и ночёвка",
+        "note": "Встретьтесь с хозяевами, выберите дневную прогулку и останьтесь на финке.",
+        "stops": [
+          "atirro-quijote-camp"
+        ],
+        "sources": [
+          "quijote-camping-cr"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пехибайе или Ла-Марта",
+        "note": "Согласуйте учебный отрезок с оператором. Сухопутный вариант ведёт в лесной заповедник Ла-Марта.",
+        "stops": [
+          "pejibaye-school-own-packraft"
+        ],
+        "sources": [
+          "poc-pejibaye-local",
+          "lamarta-trails"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turrialba-full-ebike-7",
+    "kind": "trip",
+    "region": "central",
+    "title": "Ирасу, Турриальба и Пакуаре · 7 дней и 124 км на e-MTB",
+    "native": "Ebiking Costa Rica · Full Adventure 2026",
+    "level": "hard",
+    "days": 7,
+    "activities": [
+      "multi",
+      "mtb",
+      "ebike",
+      "cycling",
+      "gravel",
+      "rafting",
+      "canopy",
+      "hiking",
+      "volcano",
+      "forest",
+      "river",
+      "coffee"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ebiking-turrialba-full",
+      "ebiking-turrialba-full-pdf",
+      "ebiking-turrialba-ict",
+      "pacuare-whitewater"
+    ],
+    "summary": "Недельная программа с тремя велоднями, какао у Турриальбы, лоджем на Пакуаре и рафтингом по каньону.",
+    "plan": "После встречи район Ирасу — Гуаябо, далее Перальта и какао, затем спуск к Пакуаре. Основные велоэтапы в PDF дают 55 + 41 + 28 км. Оставшиеся дни отданы лесу, воде и возвращению.",
+    "conditions": "Дистанция — сумма велосипедных этапов. На маршруте есть технические отрезки, а рафтинг на шестой день заявлен до класса IV. Минимальный заказ на двоих, размер группы до восьми. Возраст, уровень, страховку и запасной сценарий согласуйте с командой.",
+    "distance": 124,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Встреча и ночёвка у Ирасу",
+        "note": "Трансфер и настройка велосипеда у вулканических склонов.",
+        "stops": [],
+        "sources": [
+          "ebiking-turrialba-full-pdf"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Два вулкана и район Гуаябо",
+        "note": "Около 55 км по второстепенным дорогам. Ночёвка у Гуаябо по программе.",
+        "stops": [],
+        "sources": [
+          "ebiking-turrialba-full-pdf"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Перальта, Ревентасон и какао",
+        "note": "Около 41 км смешанного покрытия. Осмотр хозяйства Nortico и ночёвка в долине.",
+        "stops": [
+          "turrialba-peralta-34"
+        ],
+        "sources": [
+          "ebiking-turrialba-full-pdf"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Велоэтап к Пакуаре",
+        "note": "Около 28 км, речной заезд и ночёвка в Ríos Lodge.",
+        "stops": [],
+        "sources": [
+          "ebiking-turrialba-full-pdf"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Лес у Ríos Lodge",
+        "note": "Прогулка с проводником к водопадам и канопи по условиям дня.",
+        "stops": [],
+        "sources": [
+          "ebiking-turrialba-full-pdf"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Каньон Пакуаре",
+        "note": "Рафтинг по части каньона и трансфер к Сан-Хосе.",
+        "stops": [],
+        "sources": [
+          "pacuare-whitewater",
+          "ebiking-turrialba-full-pdf"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Выезд",
+        "note": "Завтрак и трансфер под время рейса.",
+        "stops": [],
+        "sources": [
+          "ebiking-turrialba-full-pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coast-to-coast-ebike-6",
+    "kind": "trip",
+    "region": "central",
+    "title": "От Карибики до Тихого океана · 6 дней, 188 км велоэтапов",
+    "native": "Crossing Costa Rica · Ebiking Costa Rica",
+    "level": "expedition",
+    "days": 6,
+    "activities": [
+      "multi",
+      "mtb",
+      "ebike",
+      "cycling",
+      "gravel",
+      "coffee",
+      "boat",
+      "views",
+      "forest"
+    ],
+    "audience": [
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ebiking-crossing-6-pdf",
+      "ebiking-turrialba-home",
+      "ebiking-turrialba-ict",
+      "esp-norte-bike-map"
+    ],
+    "summary": "Отдельный сценарий местной команды. Лодка по карибским каналам, затем велоэтапы через Турриальбу, Ороси и Доту к Тихому океану.",
+    "plan": "Четыре дневных этапа в шестидневном PDF — около 60, 30, 35 и 63 км. В высокогорье есть участок на машине сопровождения, чтобы обойти загруженный трафик.",
+    "conditions": "Цифры относятся к плану организатора. Начальную пристань, пригодность покрытия, отели и актуальную редакцию программы подтвердите перед поездкой. Для дня в горах нужны тёплый слой и привычка к спускам.",
+    "distance": 188,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Прилёт и встреча",
+        "note": "Организатор забирает группу, настраивает велосипеды и объясняет этапы.",
+        "stops": [],
+        "sources": [
+          "ebiking-crossing-6-pdf"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Карибские каналы и Турриальба",
+        "note": "Около 60 км на велосипеде с подъёмом и отдельным лодочным участком.",
+        "stops": [],
+        "sources": [
+          "ebiking-crossing-6-pdf"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Турриальба — район Ороси",
+        "note": "Около 30 км по горным дорогам, возможная короткая тренировка в местном велопарке.",
+        "stops": [
+          "orosi-road-loop"
+        ],
+        "sources": [
+          "ebiking-crossing-6-pdf"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Ороси — высокогорье Доты",
+        "note": "Около 35 км и пересадка в автомобиль сопровождения на оживлённом отрезке.",
+        "stops": [],
+        "sources": [
+          "ebiking-crossing-6-pdf"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Кофе и спуск к Тихому океану",
+        "note": "Около 63 км. Кофейное хозяйство, длинный спуск, влажная жара на финише.",
+        "stops": [],
+        "sources": [
+          "ebiking-crossing-6-pdf"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Побережье и обратный трансфер",
+        "note": "Утро у океана, затем по программе возвращение в Центральную долину.",
+        "stops": [],
+        "sources": [
+          "ebiking-crossing-6-pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "osa-two-camps-roof-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Оса за три дня · крышная палатка, Дос-Брасос и Карате",
+    "native": "Puerto Jiménez · Camping Río Verde · El Tigre · Luna Lodge · Carate",
+    "level": "hard",
+    "days": 3,
+    "activities": [
+      "multi",
+      "camping",
+      "rooftent",
+      "hiking",
+      "forest",
+      "wildlife",
+      "car",
+      "views"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "family-teen"
+    ],
+    "access": [
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "confirm"
+    ],
+    "sources": [
+      "osa-rio-verde-camping-field",
+      "osa-tigre-sector-sinac",
+      "osa-luna-rooftop-field",
+      "osa-luna-how-to-road",
+      "corcovado"
+    ],
+    "summary": "Три дня на южной Осе с двумя возможными стоянками у леса. В план входят Дос-Брасос, поход с местным гидом и дневной переезд в сторону Карате.",
+    "plan": "Первая ночь у Рио-Тигре. Второй день — El Tigre или сеть Bolita. Если после похода остаётся время и проезд открыт, продолжайте в Карате на вторую ночь. Утром — лес лоджа или заранее оформленный вход Ла-Леона.",
+    "conditions": "Заблаговременно подтвердите обе стоянки, вход в парк и безопасные переправы. При позднем возвращении с тропы или осадках оставайтесь ближе к Пуэрто-Хименесу и выезжайте в Карате только в светлое время.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пуэрто-Хименес и Рио-Тигре",
+        "note": "Запасы, сверка заезда и первая ночь у хозяев Río Verde.",
+        "stops": [
+          "osa-rio-verde-rooftent"
+        ],
+        "sources": [
+          "osa-rio-verde-camping-field"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Дос-Брасос и переезд по погоде",
+        "note": "Большой выход El Tigre или короткий лесной круг Bolita. Утверждайте вторую ночёвку под оставшийся свет и дорогу.",
+        "stops": [
+          "osa-el-tigre-72",
+          "osa-bolita-forest-trails",
+          "osa-luna-lodge-rooftent"
+        ],
+        "sources": [
+          "osa-tigre-sector-sinac",
+          "osa-luna-how-to-road"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Карате и Ла-Леона",
+        "note": "Утренний выход по лесу лоджа либо оформленное посещение сектора. Возвращайтесь до темноты.",
+        "stops": [
+          "corcovado-leona"
+        ],
+        "sources": [
+          "osa-luna-private-trails",
+          "corcovado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dururpe-bribri-overnight-2",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Дурурпе · два дня с общиной брибри и ночёвкой",
+    "native": "Dururpe Overnight · Talamanca Bribri · ATEC",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "multi",
+      "boat",
+      "history",
+      "coffee",
+      "river",
+      "forest"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "atec-dururpe-overnight",
+      "atec-dururpe-day",
+      "bribri-ign-localities-2026"
+    ],
+    "summary": "Выезд в общину брибри с ночёвкой в традиционном доме. Местные проводники предлагают ремёсла из калебасы, переработку какао и тростника и рассказ о языке.",
+    "plan": "Согласуйте с ATEC точку встречи, наземную часть и переправу. Выберите программу на один день или ночёвку. Поездку ведёт испаноязычный гид, перевод можно обсудить заранее.",
+    "conditions": "В программе указан традиционный дом, лодка, переезды и питание. Подтвердите кровати, питание детей, возврат, состояние реки и согласие хозяев на съёмку.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Переправа и занятия в общине",
+        "note": "Вместе с проводником доберитесь в общину и выберите ремесло или занятие с какао. Ночёвка в традиционном доме.",
+        "stops": [],
+        "sources": [
+          "atec-dururpe-overnight"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Утро и выезд",
+        "note": "Утро в общине и согласованная с оператором лодочная и наземная дорога обратно.",
+        "stops": [],
+        "sources": [
+          "atec-dururpe-overnight"
+        ]
+      }
+    ]
   }
 ]

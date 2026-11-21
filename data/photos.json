@@ -349,5 +349,23 @@
     "license": "CC BY-SA 2.0",
     "original": "https://commons.wikimedia.org/wiki/File:Monkey_Point_(30983700228).jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "cano-rio-frio-bernard": {
+    "file": "cano-negro-rio-frio.jpg",
+    "alt": "Рио-Фрио в водно-болотном заповеднике Каньо-Негро",
+    "caption": "Река Фрио в заповеднике Каньо-Негро, январь 2023 · уменьшенная копия",
+    "author": "Bernard Gagnon",
+    "license": "CC0 1.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Ca%C3%B1o_Negro_Wildlife_Refuge_02.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "osa-carate-historical-coast": {
+    "file": "osa-carate-corco-coast.jpg",
+    "alt": "Лесной берег Корковадо между Сиреной и Карате",
+    "caption": "Берег Корковадо между Сиреной и Карате · архивное фото 2004 года",
+    "author": "A. Graichen (AndreasG)",
+    "license": "CC BY-SA 2.0 DE",
+    "original": "https://commons.wikimedia.org/wiki/File:Corcovado_Strand_Nationalpark.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
   }
 }

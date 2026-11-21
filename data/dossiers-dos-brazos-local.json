@@ -1,0 +1,1063 @@
+{
+  "la-angelina-emtb-weekend": {
+    "stops": [
+      {
+        "point": "angelina-mtb-parking",
+        "role": "Парковка в Очомого",
+        "note": "Здесь начинается сеть троп. На входе подскажут открытые ветки и правила движения."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Angelina MTB Park",
+        "source": "angelina-nov-posts",
+        "url": "https://www.localgymsandfitness.com/CR/Cartago/473744889336313/La-Angelina---Mountain-Bike-Park",
+        "note": "Подтвердите выходные часы, детскую группу и разрешённые сегодня тропы.",
+        "phone": "+506 8645 7333"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что катают местные",
+        "text": "Местная велокоманда описывает синглтреки, открытые пастбища, pumptrack и быстрые ветки с перепадом. В октябре 2026 парк отдельно сообщал о работах на Tolomuco. Маршрут выбирайте по открытым на день веткам.",
+        "sources": [
+          "angelina-team-coreco",
+          "angelina-nov-posts",
+          "angelina-trailforks-network"
+        ]
+      },
+      {
+        "title": "Дети и оборудование",
+        "text": "Для ребёнка запрашивайте место в группе по возрасту и подходящий размер велосипеда. На любом MTB возьмите шлем, перчатки, исправные тормоза и воду. Для эндуро и downhill выбирайте степень защиты по правилам парка.",
+        "sources": [
+          "angelina-nov-posts",
+          "angelina-team-coreco"
+        ]
+      }
+    ],
+    "galleries": [
+      "angelina-fiebre-report",
+      "angelina-nov-posts"
+    ],
+    "nearby": [
+      "la-angelina-trail-11",
+      "oikoumene",
+      "cross-ochomogo-chicua-mtb-47"
+    ],
+    "track": "angelina-trailforks-network",
+    "videos": [
+      "angelina-video-xc",
+      "angelina-video-dh"
+    ]
+  },
+  "la-angelina-trail-11": {
+    "stops": [
+      {
+        "point": "angelina-mtb-parking",
+        "role": "Парковка в Очомого",
+        "note": "Здесь начинается сеть троп. На входе подскажут открытые ветки и правила движения."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Angelina MTB Park",
+        "source": "angelina-nov-posts",
+        "url": "https://www.localgymsandfitness.com/CR/Cartago/473744889336313/La-Angelina---Mountain-Bike-Park",
+        "note": "Подтвердите выходные часы, детскую группу и разрешённые сегодня тропы.",
+        "phone": "+506 8645 7333"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Две дистанции",
+        "text": "Около 11 км — оценка автора пешего отчёта. На беговом GPS-круге 2021 года 9,49 км и 535 м набора, у него были отдельные контрольные точки. Подберите тропу и развороты по действующей схеме.",
+        "sources": [
+          "angelina-11-field",
+          "angelina-du-run-gps",
+          "angelina-nov-posts"
+        ]
+      },
+      {
+        "title": "Время на выходных",
+        "text": "В осенних объявлениях обычные часы 06:00–14:00. Ранний старт оставляет запас на подъём и видимость, которая ухудшается в тумане. У входа можно уточнить короткую петлю для начинающих.",
+        "sources": [
+          "angelina-nov-posts",
+          "angelina-fiebre-report"
+        ]
+      }
+    ],
+    "galleries": [
+      "angelina-11-field",
+      "angelina-fiebre-report"
+    ],
+    "nearby": [
+      "la-angelina-emtb-weekend",
+      "oikoumene"
+    ],
+    "track": "angelina-du-run-gps"
+  },
+  "atirro-quijote-camp": {
+    "stops": [
+      {
+        "point": "pejibaye",
+        "role": "Пехибайе",
+        "note": "Посёлок у реки. Последняя удобная сверка подъезда и запасов."
+      },
+      {
+        "point": "quijote-lookout-camping",
+        "role": "Финка Quijote",
+        "note": "Семейный кемпинг в секторе La Esperanza de Atirro."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Quijote Experiencia Rural",
+        "source": "quijote-camping-cr",
+        "url": "https://camping.cr/listing/quijote-experiencia-rural/",
+        "note": "Бронирование не меньше чем за два дня. Сверьте состояние подъезда после дождя, воду и высоту навеса.",
+        "phone": "+506 8421 4403"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и семейные цены",
+        "text": "На дату сверки в двух каталогах 5 000 CRC за взрослого, 2 500 CRC за ребёнка 4–12 лет и бесплатный вход для младших. Электричество от генератора согласовывают, планируйте фонарь и запас питьевой воды.",
+        "sources": [
+          "quijote-camping-cr",
+          "quijote-camping-guide"
+        ]
+      },
+      {
+        "title": "Смотровая и река",
+        "text": "У Атирро есть естественные заводи. Хозяева подскажут, где можно подойти в день приезда. При мутной воде, сильном течении или после ливня оставайтесь наверху на сухих тропах.",
+        "sources": [
+          "quijote-camping-guide",
+          "quijote-camping-cr"
+        ]
+      }
+    ],
+    "galleries": [
+      "quijote-camping-guide",
+      "quijote-camping-cr"
+    ],
+    "nearby": [
+      "atirro-pejibaye-paddle-2",
+      "pejibaye-weekend-local"
+    ],
+    "line": "pejibaye-quijote-road"
+  },
+  "atirro-pejibaye-paddle-2": {
+    "stops": [
+      {
+        "point": "pejibaye",
+        "role": "Пехибайе",
+        "note": "Посёлок у реки. Последняя удобная сверка подъезда и запасов."
+      },
+      {
+        "point": "quijote-lookout-camping",
+        "role": "Финка Quijote",
+        "note": "Семейный кемпинг в секторе La Esperanza de Atirro."
+      },
+      {
+        "point": "la-marta-entry",
+        "role": "La Marta",
+        "note": "Сухопутная альтернатива на второй день."
+      },
+      {
+        "point": "pejibaye-escuela-taus-landmark",
+        "role": "Ориентир у школы Taus",
+        "note": "На карту нанесено место на суше. Посадку согласуют с местной командой."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Quijote Experiencia Rural",
+        "source": "quijote-camping-cr",
+        "url": "https://camping.cr/listing/quijote-experiencia-rural/",
+        "note": "Бронирование не меньше чем за два дня. Сверьте состояние подъезда после дождя, воду и высоту навеса.",
+        "phone": "+506 8421 4403"
+      },
+      {
+        "name": "Pacuare Outdoor Center · Пехибайе",
+        "source": "poc-pejibaye-local",
+        "url": "https://pacuareoutdoorcenter.com/es/2025/04/05/nuestro-patio-trasero-corre-el-rio-pejibaye/",
+        "note": "Уточните, работают ли школьный спуск и выход, нужна ли поддержка гида и принимают ли личный пакрафт.",
+        "phone": null
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор для второго дня",
+        "text": "GoRafting отмечает отдельный учебный отрезок и несколько выходов. Проверяйте уровень с гидом и выбирайте сухопутный вариант, если условия изменились или группа не готова к течению.",
+        "sources": [
+          "pejibaye-gorafting-school-map",
+          "poc-pejibaye-local",
+          "lamarta-trails"
+        ]
+      },
+      {
+        "title": "Разрешение на место и ночёвка",
+        "text": "После дождя у финки уточняйте проезд. Для выхода с личной лодкой заранее согласуйте доступ к участку берега, заброску и сопровождение. На ночь бронируйте наземную площадку.",
+        "sources": [
+          "quijote-camping-cr",
+          "pejibaye-gorafting-school-map"
+        ]
+      }
+    ],
+    "galleries": [
+      "quijote-camping-guide",
+      "lamarta-trails"
+    ],
+    "nearby": [
+      "atirro-quijote-camp",
+      "pejibaye-school-own-packraft",
+      "pejibaye-weekend-local"
+    ],
+    "track": "pejibaye-gorafting-school-map",
+    "line": "pejibaye-quijote-road"
+  },
+  "turrialba-ebike-halfday": {
+    "stops": [
+      {
+        "point": "turrialba-city-anchor",
+        "role": "Турриальба",
+        "note": "Ориентир в городе. Забор и выдача велосипедов согласуются с проводником."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ebiking Costa Rica · гиды Турриальбы",
+        "source": "ebiking-turrialba-ict",
+        "url": "https://ebikingcostarica.com/",
+        "note": "Сверьте размер велосипеда, запас батареи, уровень маршрута и место встречи.",
+        "phone": "+506 8311 2282",
+        "email": "info@ebikingcr.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Форматы и включённое",
+        "text": "В полудневное предложение входят Specialized Turbo Levo, гид, вода и закуска. Для полного дня проверьте место обеда, возможность замены сложной ветки и логистику возврата.",
+        "sources": [
+          "ebiking-turrialba-day-tour",
+          "ebiking-turrialba-ict"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Одежду под дождь, закрытую обувь, очки и запас воды. Проверьте включение шлема и выберите с гидом режим помощи на длинных подъёмах.",
+        "sources": [
+          "ebiking-turrialba-home",
+          "ebiking-turrialba-day-tour"
+        ]
+      }
+    ],
+    "galleries": [
+      "ebiking-turrialba-day-tour",
+      "ebiking-turrialba-home"
+    ],
+    "nearby": [
+      "turrialba-peralta-34",
+      "turrialba-full-ebike-7"
+    ]
+  },
+  "turrialba-full-ebike-7": {
+    "stops": [
+      {
+        "point": "irazu-craters-parking",
+        "role": "Ирасу",
+        "note": "Дорожный ориентир вулканического сектора второго дня."
+      },
+      {
+        "point": "guayabo-archaeological-area",
+        "role": "Гуаябо",
+        "note": "Археологический сектор у ночёвки второго дня. Вход подтверждает гид."
+      },
+      {
+        "point": "turrialba-city-anchor",
+        "role": "Турриальба",
+        "note": "Ориентир в городе. Забор и выдача велосипедов согласуются с проводником."
+      },
+      {
+        "point": "peralta-station",
+        "role": "Перальта",
+        "note": "Район старой железнодорожной станции на третьем этапе."
+      },
+      {
+        "point": "nortico-cacao-farm",
+        "role": "Хабильос · какао Nortico",
+        "note": "Хозяйство третьего дня. Оператор фермы также проводит самостоятельный визит по записи."
+      },
+      {
+        "point": "rios-lodge-pacuare",
+        "role": "Ríos Lodge",
+        "note": "Ориентир ночёвок в лесу на Пакуаре."
+      },
+      {
+        "point": "pacuare-siquirres-takeout-sector",
+        "role": "Пакуаре у Сикирреса",
+        "note": "Регион окончания речного участка. Точную высадку подтверждает гид."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ebiking Costa Rica · гиды Турриальбы",
+        "source": "ebiking-turrialba-ict",
+        "url": "https://ebikingcostarica.com/",
+        "note": "Сверьте размер велосипеда, запас батареи, уровень маршрута и место встречи.",
+        "phone": "+506 8311 2282",
+        "email": "info@ebikingcr.com"
+      },
+      {
+        "name": "Nortico Cacao Farm",
+        "source": "nortico-turrialba-directory",
+        "phone": "+506 8448 5090",
+        "email": "info@norticofarm.com",
+        "url": "https://norticofarm.com/es/pages/nortico-cacao-farm-tour-chocolate-workshop",
+        "note": "Уточните время мастерской. При отдельном посещении можно доехать на обычной машине или автобусом с пешим подходом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Велочасть и сопровождение",
+        "text": "По плану 2026 года на второй день примерно 55 км, на третий 41 км, на четвёртый 28 км. Встречаются асфальт, гравий и техничные тропы. Перед поездкой запросите актуальные высотные профили и подбор размера.",
+        "sources": [
+          "ebiking-turrialba-full-pdf",
+          "ebiking-turrialba-full"
+        ]
+      },
+      {
+        "title": "Речные дни и вещи",
+        "text": "Оператор предусматривает речной заезд к Ríos Lodge и отдельный спуск по каньону. Возьмите смену сухой одежды, обувь для воды, гермомешок и лёгкий слой тепла для первого вечера в горах.",
+        "sources": [
+          "ebiking-turrialba-full-pdf",
+          "pacuare-whitewater"
+        ]
+      },
+      {
+        "title": "Гуаябо и какао в Хабильосе",
+        "text": "Гуаябо — археологический сектор у второй ночёвки. На следующий день в программе ферма Nortico с дегустацией, прогулкой между деревьями и мастерской. Отдельный визит на ферму занимает около 2–2,5 часа. Мастерская и проезд обсуждаются при записи.",
+        "sources": [
+          "guayabo-visit-ict",
+          "nortico-farm-visit",
+          "nortico-turrialba-directory"
+        ]
+      }
+    ],
+    "galleries": [
+      "ebiking-turrialba-full",
+      "ebiking-turrialba-full-pdf",
+      "nortico-farm-visit"
+    ],
+    "nearby": [
+      "turrialba-ebike-halfday",
+      "turrialba-peralta-34",
+      "rios-lodge-own-kayak",
+      "coast-to-coast-ebike-6"
+    ]
+  },
+  "coast-to-coast-ebike-6": {
+    "stops": [
+      {
+        "point": "turrialba-city-anchor",
+        "role": "Турриальба",
+        "note": "Ориентир в городе. Забор и выдача велосипедов согласуются с проводником."
+      },
+      {
+        "point": "orosi",
+        "role": "Ороси",
+        "note": "Район второй ночёвки после начала велочасти."
+      },
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Дота",
+        "note": "Ориентир района кофе и высокогорной ночёвки."
+      },
+      {
+        "point": "ebiking-espadilla-beach-area",
+        "role": "Эспадилья-Норте",
+        "note": "Береговой ориентир окончания этапов по опубликованному плану."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ebiking Costa Rica · гиды Турриальбы",
+        "source": "ebiking-turrialba-ict",
+        "url": "https://ebikingcostarica.com/",
+        "note": "Сверьте размер велосипеда, запас батареи, уровень маршрута и место встречи.",
+        "phone": "+506 8311 2282",
+        "email": "info@ebikingcr.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где едут на велосипеде",
+        "text": "Первый велодень включает подъём от влажной низины, Ороси достигают по второстепенному асфальту, в районе Доты встречаются гравий, подъём и пересадка на машину. Финал длинный и в основном под уклон.",
+        "sources": [
+          "ebiking-crossing-6-pdf"
+        ]
+      },
+      {
+        "title": "Сборы и логистика",
+        "text": "По опубликованной программе включены гид, велосипед, шлем и автомобиль поддержки. Проверьте требования к обуви, слою от дождя, размещению багажа и вариантам при слабой выносливости.",
+        "sources": [
+          "ebiking-crossing-6-pdf",
+          "ebiking-turrialba-home"
+        ]
+      }
+    ],
+    "galleries": [
+      "ebiking-crossing-6-pdf",
+      "ebiking-turrialba-home"
+    ],
+    "nearby": [
+      "turrialba-full-ebike-7",
+      "orosi-road-loop",
+      "dota-roof-trout-coffee-2"
+    ]
+  },
+  "osa-rio-verde-rooftent": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес",
+        "note": "Город для заправки, воды, продуктов и проверки подъездов вглубь полуострова."
+      },
+      {
+        "point": "osa-dos-brazos-centro",
+        "role": "Дос-Брасос",
+        "note": "Центр деревни у Рио-Тигре. Хозяева и ассоциация подскажут фактическое место сбора."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Río Verde · хозяева финки",
+        "source": "osa-rio-verde-camping-field",
+        "url": "https://costaricacampsites.com/camp-sites/camping-rio-tigre-osa/",
+        "note": "Запросите актуальную точку стоянки, наличие высокого места и разрешение поставить крышную палатку.",
+        "phone": "+506 8447 1671"
+      },
+      {
+        "name": "ACODOBRARTI · вход El Tigre",
+        "source": "osa-tigre-sinac-contact",
+        "url": "https://www.corcovadoeltigre.com/",
+        "note": "Согласуйте гида, билет парка, точку встречи и актуальное время из Дос-Брасос.",
+        "phone": "+506 8323 8695",
+        "email": "info@dosbrazosderiotigre.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где стоять и что взять",
+        "text": "Полевой отчёт показывает береговую площадку и деревянный жилой дом. Попросите ровное место выше воды. Возьмите блоки для выравнивания, фонарь, питьевую воду и мешок для мокрых вещей.",
+        "sources": [
+          "osa-rio-verde-camping-field"
+        ]
+      },
+      {
+        "title": "Местные тропы",
+        "text": "У хозяев можно узнать про ночные наблюдения и прогулки с проводником. Для горного похода по национальному парку нужен отдельный вход El Tigre через ассоциацию.",
+        "sources": [
+          "osa-rio-verde-camping-field",
+          "osa-tigre-community-guide",
+          "osa-tigre-sector-sinac"
+        ]
+      }
+    ],
+    "galleries": [
+      "osa-rio-verde-camping-field",
+      "osa-tigre-community-guide"
+    ],
+    "nearby": [
+      "osa-el-tigre-72",
+      "osa-bolita-forest-trails",
+      "osa-two-camps-roof-3"
+    ],
+    "line": "osa-dos-brazos-road"
+  },
+  "osa-el-tigre-72": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес",
+        "note": "Город для заправки, воды, продуктов и проверки подъездов вглубь полуострова."
+      },
+      {
+        "point": "osa-dos-brazos-centro",
+        "role": "Дос-Брасос",
+        "note": "Центр деревни у Рио-Тигре. Хозяева и ассоциация подскажут фактическое место сбора."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ACODOBRARTI · вход El Tigre",
+        "source": "osa-tigre-sinac-contact",
+        "url": "https://www.corcovadoeltigre.com/",
+        "note": "Согласуйте гида, билет парка, точку встречи и актуальное время из Дос-Брасос.",
+        "phone": "+506 8323 8695",
+        "email": "info@dosbrazosderiotigre.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какую дистанцию считать",
+        "text": "SINAC указывает 7,2 км и значительный уклон в начале маршрута. Точную конечную точку и время возвращения сообщает местная ассоциация после проверки воды и покрытия.",
+        "sources": [
+          "osa-tigre-sector-sinac",
+          "osa-tigre-community-guide"
+        ]
+      },
+      {
+        "title": "Гиды и режим парка",
+        "text": "Вход оформляют через ACODOBRARTI. Попросите у ассоциации отдельно назвать стоимость билета, гида, время сбора и правила на дату.",
+        "sources": [
+          "osa-tigre-sinac-contact",
+          "osa-tigre-community-guide"
+        ]
+      }
+    ],
+    "galleries": [
+      "osa-tigre-community-guide",
+      "osa-tigre-sector-sinac"
+    ],
+    "nearby": [
+      "osa-rio-verde-rooftent",
+      "osa-bolita-forest-trails",
+      "corcovado-leona"
+    ],
+    "line": "osa-dos-brazos-road"
+  },
+  "osa-bolita-forest-trails": {
+    "stops": [
+      {
+        "point": "osa-dos-brazos-centro",
+        "role": "Дос-Брасос",
+        "note": "Центр деревни у Рио-Тигре. Хозяева и ассоциация подскажут фактическое место сбора."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bolita · дневной визит и ночёвка",
+        "source": "osa-bolita-forest-trails",
+        "url": "https://bolitatrails.com/portfolio/",
+        "note": "Получите текущую карту, состояние переправ у хостела и точку регистрации в деревне.",
+        "phone": null
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршруты и ночёвка",
+        "text": "Оператор допускает самостоятельные дневные прогулки. На сайте дневной визит указан за $10. Хостел и кабины дают доступ к сети. Мокрые тропы, броды и годность конкретной ветки уточняйте в офисе.",
+        "sources": [
+          "osa-bolita-forest-trails",
+          "osa-bolita-cabins"
+        ]
+      },
+      {
+        "title": "Нюансы из отзывов",
+        "text": "Гости отдельно отмечают самостоятельный формат на Осе и пеший подъём. Возьмите налобный фонарь, закрытую обувь, воду и гермочехол. Не планируйте возвращение через брод после темноты.",
+        "sources": [
+          "osa-bolita-forest-reviews",
+          "osa-bolita-forest-trails"
+        ]
+      }
+    ],
+    "galleries": [
+      "osa-bolita-forest-trails",
+      "osa-bolita-forest-reviews"
+    ],
+    "nearby": [
+      "osa-el-tigre-72",
+      "osa-rio-verde-rooftent"
+    ]
+  },
+  "osa-luna-lodge-rooftent": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес",
+        "note": "Город для заправки, воды, продуктов и проверки подъездов вглубь полуострова."
+      },
+      {
+        "point": "osa-carate",
+        "role": "Карате",
+        "note": "Ориентир у берега. Старт пешего подхода в сектор Ла-Леона."
+      },
+      {
+        "point": "osa-luna-lodge-landmark",
+        "role": "Luna Lodge",
+        "note": "Точка у лоджа. Хозяева сообщают место парковки под крышную палатку."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Luna Lodge · заезд и трансфер",
+        "source": "osa-luna-how-to-road",
+        "url": "https://lunalodge.com/how-to-get-here-luna-lodge/",
+        "note": "Уточните место для крышной палатки и состояние двух переправ перед выездом из Пуэрто-Хименеса.",
+        "phone": "+506 4070 0010"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Проезд и формат ночёвки",
+        "text": "В полевом каталоге есть категория rooftop. Владелец подтверждает удалённость подъезда и предлагает трансфер на 4×4. Размер машины, душ, доступ к услугам лоджа и тариф сверяйте на дату.",
+        "sources": [
+          "osa-luna-rooftop-field",
+          "osa-luna-how-to-road"
+        ]
+      },
+      {
+        "title": "Тропы рядом",
+        "text": "Оператор предлагает ночные прогулки, наблюдение за птицами и походы к водопадам на своей земле. Для встречи и дневного старта удобно запастись фонарём, водой и обувью для мокрых корней.",
+        "sources": [
+          "osa-luna-private-trails",
+          "osa-luna-chamber-listing"
+        ]
+      }
+    ],
+    "galleries": [
+      "osa-luna-rooftop-field",
+      "osa-luna-private-trails"
+    ],
+    "nearby": [
+      "corcovado-leona",
+      "osa-two-camps-roof-3"
+    ],
+    "line": "osa-carate-road",
+    "photos": [
+      "osa-carate-historical-coast"
+    ]
+  },
+  "osa-two-camps-roof-3": {
+    "stops": [
+      {
+        "point": "osa-dos-brazos-centro",
+        "role": "Дос-Брасос",
+        "note": "Центр деревни у Рио-Тигре. Хозяева и ассоциация подскажут фактическое место сбора."
+      },
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес",
+        "note": "Город для заправки, воды, продуктов и проверки подъездов вглубь полуострова."
+      },
+      {
+        "point": "osa-carate",
+        "role": "Карате",
+        "note": "Ориентир у берега. Старт пешего подхода в сектор Ла-Леона."
+      },
+      {
+        "point": "osa-luna-lodge-landmark",
+        "role": "Luna Lodge",
+        "note": "Точка у лоджа. Хозяева сообщают место парковки под крышную палатку."
+      },
+      {
+        "point": "osa-leona-post",
+        "role": "Пост Ла-Леона",
+        "note": "Ориентир входа в охраняемый сектор. День посещения согласуют отдельно."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Río Verde · хозяева финки",
+        "source": "osa-rio-verde-camping-field",
+        "url": "https://costaricacampsites.com/camp-sites/camping-rio-tigre-osa/",
+        "note": "Запросите актуальную точку стоянки, наличие высокого места и разрешение поставить крышную палатку.",
+        "phone": "+506 8447 1671"
+      },
+      {
+        "name": "ACODOBRARTI · вход El Tigre",
+        "source": "osa-tigre-sinac-contact",
+        "url": "https://www.corcovadoeltigre.com/",
+        "note": "Согласуйте гида, билет парка, точку встречи и актуальное время из Дос-Брасос.",
+        "phone": "+506 8323 8695",
+        "email": "info@dosbrazosderiotigre.com"
+      },
+      {
+        "name": "Luna Lodge · заезд и трансфер",
+        "source": "osa-luna-how-to-road",
+        "url": "https://lunalodge.com/how-to-get-here-luna-lodge/",
+        "note": "Уточните место для крышной палатки и состояние двух переправ перед выездом из Пуэрто-Хименеса.",
+        "phone": "+506 4070 0010"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что бронировать",
+        "text": "Договоритесь со стоянками отдельно от визита в парк. У ACODOBRARTI оформляется El Tigre. Правила Ла-Леоны проверьте на портале SINAC и у выбранного проводника.",
+        "sources": [
+          "osa-tigre-sinac-contact",
+          "osa-luna-rooftop-field",
+          "osa-rio-verde-camping-field",
+          "corcovado"
+        ]
+      },
+      {
+        "title": "Вещи и запас времени",
+        "text": "Возьмите воду, сухие мешки, налобный фонарь, средство от комаров, электронику с офлайн-картой и покрытие для мокрой палатки. Заложите запас светлого времени и гибкость по обеим ночёвкам.",
+        "sources": [
+          "osa-luna-how-to-road",
+          "osa-tigre-sector-sinac"
+        ]
+      }
+    ],
+    "galleries": [
+      "osa-rio-verde-camping-field",
+      "osa-luna-rooftop-field",
+      "osa-tigre-community-guide"
+    ],
+    "nearby": [
+      "osa-rio-verde-rooftent",
+      "osa-luna-lodge-rooftent",
+      "osa-el-tigre-72",
+      "osa-bolita-forest-trails",
+      "corcovado-leona"
+    ],
+    "line": "osa-two-road-stages",
+    "photos": [
+      "osa-carate-historical-coast"
+    ]
+  },
+  "cano-negro-poponjoche-rooftent": {
+    "stops": [
+      {
+        "point": "cano-negro-community",
+        "role": "Центр Каньо-Негро",
+        "note": "Указатель посёлка и района местных операторов. Восточный отъезд ведёт в сторону Poponjoche."
+      },
+      {
+        "point": "cano-negro-sinac-visitor",
+        "role": "Посетительская станция SINAC",
+        "note": "Уточняются режим, участок и правила пребывания на воде."
+      },
+      {
+        "point": "cano-negro-observation-tower",
+        "role": "Башня наблюдения",
+        "note": "Ориентир у лагун. Государственная территория с собственным режимом входа."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cabinas Poponjoche",
+        "source": "cano-poponjoche-sinac-directory",
+        "url": "https://www.sinac.go.cr/ES/atc/cn/Paginas/hospedaje.aspx",
+        "note": "Подтвердите палатку на крыше, состояние газона и время заезда.",
+        "phone": "+506 8720 4569"
+      },
+      {
+        "name": "ASEDECA · местная туристическая служба",
+        "source": "cano-sinac-water-activities",
+        "url": "https://sinac.go.cr/ES/atc/cn/Paginas/default.aspx",
+        "note": "Уточните лодки, какие участки открыты и с кем согласовать правила рыбной ловли на дату.",
+        "phone": "+506 5006 9415",
+        "email": "asedecanecn@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка, душ и стоянка",
+        "text": "Опишите хозяевам длину машины и размер раскрытой палатки. После дождей нужен осмотр грунта на выбранном месте. В каталоге есть душ, укрытие, кухня и фотографии площадок.",
+        "sources": [
+          "cano-poponjoche-roof-field",
+          "cano-poponjoche-sinac-directory"
+        ]
+      },
+      {
+        "title": "Прогулка по водно-болотным угодьям",
+        "text": "Утром местные лодки выходят по открытым каналам. Маршрут зависит от уровня Рио-Фрио и сезона. Возьмите репеллент, защиту от солнца и сухой чехол для камеры.",
+        "sources": [
+          "cano-sinac-water-activities",
+          "cano-poponjoche-roof-field"
+        ]
+      }
+    ],
+    "galleries": [
+      "cano-poponjoche-roof-field",
+      "cano-poponjoche-guest-field"
+    ],
+    "nearby": [
+      "cano-negro-island-camping",
+      "cano-negro-local-fishing-day",
+      "cano-negro-lagoon-weekend-2"
+    ],
+    "photos": [
+      "cano-rio-frio-bernard"
+    ],
+    "videos": [
+      "cano-frio-boat-video"
+    ]
+  },
+  "cano-negro-island-camping": {
+    "stops": [
+      {
+        "point": "cano-negro-community",
+        "role": "Центр Каньо-Негро",
+        "note": "Указатель посёлка и района местных операторов. Восточный отъезд ведёт в сторону Poponjoche."
+      },
+      {
+        "point": "cano-negro-sinac-visitor",
+        "role": "Посетительская станция SINAC",
+        "note": "Уточняются режим, участок и правила пребывания на воде."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Paraíso Tropical Caño Negro",
+        "source": "cano-tours-local-fishing",
+        "url": "https://es.canonegrotours.com/copia-de-sportfishing-tour",
+        "note": "Запросите встречу у Soda La Palmera, места ночёвки, лодку и разрешение на рыбную ловлю.",
+        "phone": "+506 6034 7387",
+        "email": "info@canonegrotours.com"
+      },
+      {
+        "name": "ASEDECA · местная туристическая служба",
+        "source": "cano-sinac-water-activities",
+        "url": "https://sinac.go.cr/ES/atc/cn/Paginas/default.aspx",
+        "note": "Уточните лодки, какие участки открыты и с кем согласовать правила рыбной ловли на дату.",
+        "phone": "+506 5006 9415",
+        "email": "asedecanecn@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка на низком берегу",
+        "text": "У семьи есть навес, газовая кухня, электричество, холодильник и душ. До заезда подтвердите место встречи, условия парковки и возможный перенос переправы.",
+        "sources": [
+          "cano-tours-island-camping",
+          "cano-tours-family-provider"
+        ]
+      },
+      {
+        "title": "Утренний выход на лодке",
+        "text": "Спросите гида, к каким участкам можно подойти на дату и где легче увидеть водных птиц. Вещи держите в закрытых мешках, с берега не подходите к дикой фауне.",
+        "sources": [
+          "cano-tours-family-provider",
+          "cano-sinac-water-activities"
+        ]
+      }
+    ],
+    "galleries": [
+      "cano-tours-island-camping",
+      "cano-tours-family-provider"
+    ],
+    "nearby": [
+      "cano-negro-poponjoche-rooftent",
+      "cano-negro-local-fishing-day",
+      "cano-negro-local-boat"
+    ],
+    "photos": [
+      "cano-rio-frio-bernard"
+    ],
+    "videos": [
+      "cano-frio-boat-video"
+    ]
+  },
+  "cano-negro-local-fishing-day": {
+    "stops": [
+      {
+        "point": "cano-negro-community",
+        "role": "Центр Каньо-Негро",
+        "note": "Указатель посёлка и района местных операторов. Восточный отъезд ведёт в сторону Poponjoche."
+      },
+      {
+        "point": "cano-negro-sinac-visitor",
+        "role": "Посетительская станция SINAC",
+        "note": "Уточняются режим, участок и правила пребывания на воде."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Paraíso Tropical Caño Negro",
+        "source": "cano-tours-local-fishing",
+        "url": "https://es.canonegrotours.com/copia-de-sportfishing-tour",
+        "note": "Запросите встречу у Soda La Palmera, места ночёвки, лодку и разрешение на рыбную ловлю.",
+        "phone": "+506 6034 7387",
+        "email": "info@canonegrotours.com"
+      },
+      {
+        "name": "ASEDECA · местная туристическая служба",
+        "source": "cano-sinac-water-activities",
+        "url": "https://sinac.go.cr/ES/atc/cn/Paginas/default.aspx",
+        "note": "Уточните лодки, какие участки открыты и с кем согласовать правила рыбной ловли на дату.",
+        "phone": "+506 5006 9415",
+        "email": "asedecanecn@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Правила участка",
+        "text": "План SINAC описывает спортивную рыбалку только в предусмотренных секторах с лицензией и в разрешённый сезон. Для конкретной даты запросите действующие правила и условия программы у гида и администрации.",
+        "sources": [
+          "cano-sinac-sector-plan",
+          "cano-sinac-water-activities"
+        ]
+      },
+      {
+        "title": "С кем и с чем ехать",
+        "text": "Семейная команда отвечает за оснащение и описывает вариант с местным обедом. Уточните размеры жилетов, рыболовную снасть, минимальный возраст и сценарий при неподходящем уровне воды.",
+        "sources": [
+          "cano-tours-local-fishing",
+          "cano-tours-family-provider"
+        ]
+      }
+    ],
+    "galleries": [
+      "cano-tours-local-fishing",
+      "cano-tours-family-provider"
+    ],
+    "nearby": [
+      "cano-negro-island-camping",
+      "cano-negro-poponjoche-rooftent",
+      "cano-negro-local-boat"
+    ],
+    "photos": [
+      "cano-rio-frio-bernard"
+    ]
+  },
+  "gandoca-cativera-coast-hike": {
+    "stops": [
+      {
+        "point": "gandoca-village-liceo",
+        "role": "Деревня Гандока",
+        "note": "Дорожный ориентир, место встречи подтверждает проводник."
+      },
+      {
+        "point": "gandoca-coast-road-end",
+        "role": "Берег Гандоки",
+        "note": "Подъезд к прибойной части маршрута, граница проезда зависит от погоды."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ATEC · местные проводники",
+        "source": "gandoca-cativera-atec",
+        "url": "https://ateccr.org/producto/bosque-cativera-in-gandoca/",
+        "note": "Проверьте старт, состояние троп, возраст и включение обеда.",
+        "phone": "+506 2750 0398",
+        "email": "ongatec@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Чем отличается лес",
+        "text": "План SINAC выделяет Кативеру как затопляемый лес кативо. Полевой маршрут привязан к проходу, который покажет проводник. Наблюдения за амфибиями и птицами зависят от сезона.",
+        "sources": [
+          "gandoca-cativera-wetland-plan",
+          "gandoca-lagoon-national-wetlands"
+        ]
+      },
+      {
+        "title": "Формат выезда",
+        "text": "В 2026 на сайте ATEC указан $86 за программу. Точка на берегу служит ориентиром. Подтвердите место сбора, наземный трансфер и условия для группы.",
+        "sources": [
+          "gandoca-cativera-atec",
+          "gandoca-cativera-wetland-plan"
+        ]
+      }
+    ],
+    "galleries": [
+      "gandoca-cativera-atec",
+      "gandoca-lagoon-national-wetlands"
+    ],
+    "nearby": [
+      "gandoca-lagoon-local-paddle",
+      "gandoca-punta-mona-hike-boat",
+      "gandoca-rooftop-lagoon-2"
+    ]
+  },
+  "dururpe-bribri-overnight-2": {
+    "stops": [
+      {
+        "point": "bribri-dururpe-locality",
+        "role": "Дурурпе",
+        "note": "Точка обозначает поселение по IGN. Посадку и адрес размещения сообщает проводник."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ATEC · местные проводники",
+        "source": "atec-dururpe-overnight",
+        "url": "https://ateccr.org/producto/dururpe-overnight/",
+        "note": "Уточните время встреч, питание, переправу и ночлег в традиционном доме.",
+        "phone": "+506 2750 0398",
+        "email": "ongatec@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Один день или ночёвка",
+        "text": "ATEC показывает ориентиры $145 за дневной вариант и $200 за ночёвку. В обеих программах указан транспорт на суше и по воде, питание и испаноязычный проводник.",
+        "sources": [
+          "atec-dururpe-day",
+          "atec-dururpe-overnight"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Лёгкую одежду, дождевик, репеллент и гермочехол. Спросите заранее, какие бытовые условия, как проходит выдача жилетов и можно ли фотографировать занятия.",
+        "sources": [
+          "atec-dururpe-overnight",
+          "atec-dururpe-day"
+        ]
+      }
+    ],
+    "galleries": [
+      "atec-dururpe-overnight",
+      "atec-dururpe-day"
+    ],
+    "nearby": [
+      "yorkin-bribri-canoe-3",
+      "alto-uren-bribri-hike",
+      "amubri-katsi-yorkin-3"
+    ]
+  },
+  "alto-uren-bribri-hike": {
+    "stops": [
+      {
+        "point": "caribe-amubri-village",
+        "role": "Амубри",
+        "note": "Район встречи, указанный организатором."
+      },
+      {
+        "point": "bribri-alto-uren-locality",
+        "role": "Альто-Урэн",
+        "note": "Ориентир общины из реестра IGN. Дом принимающей семьи и линия тропы не публикуются."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ATEC · местные проводники",
+        "source": "atec-alto-uren-route",
+        "url": "https://ateccr.org/producto/deep-talamanca-visit-to-alto-uren/",
+        "note": "Запросите число дней и ночей, реальные дистанции, состав питания и правила доступа к общине.",
+        "phone": "+506 2750 0398",
+        "email": "ongatec@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Продолжительность надо согласовать",
+        "text": "На одной странице стоят два несовместимых описания. В каталоге четыре дня указаны как ориентир по основному тексту. Стоимость на странице — $499, уточните актуальный вариант у команды.",
+        "sources": [
+          "atec-alto-uren-route"
+        ]
+      },
+      {
+        "title": "Подготовка для горного выхода",
+        "text": "С проводником обсудите размер рюкзака, переправы, воду и наличие дождевого укрытия. Возьмите прочную обувь, сухие мешки, налобный фонарь и запас питья.",
+        "sources": [
+          "atec-alto-uren-route",
+          "bribri-ign-localities-2026"
+        ]
+      }
+    ],
+    "galleries": [
+      "atec-alto-uren-route",
+      "atec-dururpe-day"
+    ],
+    "nearby": [
+      "amubri-katsi-yorkin-3",
+      "dururpe-bribri-overnight-2"
+    ]
+  }
+}
