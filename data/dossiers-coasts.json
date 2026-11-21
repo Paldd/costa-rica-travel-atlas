@@ -1,0 +1,578 @@
+{
+  "tortuguero-no-car": {
+    "stops": [
+      {
+        "point": "pavona-dock",
+        "role": "Посадка в La Pavona",
+        "note": "Проверяйте рейс и время покупки билета."
+      },
+      {
+        "point": "tortuguero-dock",
+        "role": "Причал в Тортугеро",
+        "note": "Попросите нужный причал, если ночуете в лодже на канале."
+      },
+      {
+        "point": "tortuguero-town",
+        "role": "Посёлок и база экскурсий",
+        "note": "Сверьте место начала каноэ, каяка или встречи с гидом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три отдельные стыковки",
+        "text": "Список рейсов одного перевозчика не определяет весь транспорт. Согласуйте автобус или шаттл до La Pavona, лодку в посёлок или лодж и обратную стыковку. Оставьте время между наземной частью и последним доступным рейсом.",
+        "sources": [
+          "tort-smith",
+          "tort-acto",
+          "tort-2026"
+        ]
+      },
+      {
+        "title": "Каналы, прогулки и местные гиды",
+        "text": "Свяжите ранний водный слот парка с расписанием местного гида. Для семьи можно выбрать каноэ и пеший день, для взрослых отдельно согласовать каяк. Автобус и лодка не включены автоматически в билет парка.",
+        "sources": [
+          "tort-acto",
+          "tort-local-guide",
+          "tort-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Transportes Smith",
+        "source": "tort-smith",
+        "note": "Расписание по датам и причал вашего отеля."
+      },
+      {
+        "name": "ASOPROTUR · местные гиды",
+        "source": "tort-guide-fenaguitur",
+        "note": "Каноэ, каяки, пешие выходы и ночные туры по правилам парка.",
+        "phone": "+506 2767 0836"
+      }
+    ],
+    "nearby": [
+      "tortuguero-canals",
+      "caribe-bus-3"
+    ],
+    "track": "tort-smith"
+  },
+  "tortuguero-canals": {
+    "stops": [
+      {
+        "point": "tortuguero-dock",
+        "role": "Причал в Тортугеро",
+        "note": "Попросите нужный причал, если ночуете в лодже на канале."
+      },
+      {
+        "point": "tortuguero-town",
+        "role": "Посёлок и база экскурсий",
+        "note": "Сверьте место начала каноэ, каяка или встречи с гидом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Каноэ, каяк или лодка",
+        "text": "Режим водных секторов, вход и часы сверяйте с ACTO. Местные гиды работают с несколькими форматами. Спросите размер группы, укрытие от дождя и назначенный канал.",
+        "sources": [
+          "tort-acto",
+          "tort-local-guide",
+          "tort-boat"
+        ]
+      },
+      {
+        "title": "Свои лодки и причалы",
+        "text": "Уточните порядок использования собственного судна, маршрут и правила национального парка. Для отеля на канале согласуйте, забирает ли гид с его причала. Дождь или уровень воды меняют программу.",
+        "sources": [
+          "tort-acto",
+          "tort-smith",
+          "tort-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASOPROTUR · местные гиды",
+        "source": "tort-guide-fenaguitur",
+        "note": "Каноэ, каяки, пешие выходы и ночные туры по правилам парка.",
+        "phone": "+506 2767 0836"
+      },
+      {
+        "name": "Transportes Smith",
+        "source": "tort-smith",
+        "note": "Расписание по датам и причал вашего отеля."
+      }
+    ],
+    "nearby": [
+      "tortuguero-no-car"
+    ],
+    "track": "tort-acto"
+  },
+  "cahuita-trail": {
+    "stops": [
+      {
+        "point": "cahuita-kelly",
+        "role": "Вход Playa Blanca",
+        "note": "Kelly Creek на стороне посёлка Кауита."
+      },
+      {
+        "point": "cahuita-punta",
+        "role": "Мыс Punta Cahuita",
+        "note": "Промежуточная точка. Проход зависит от воды и правил парка."
+      },
+      {
+        "point": "cahuita-vargas",
+        "role": "Сектор Puerto Vargas",
+        "note": "Планируйте выход и отдельный транспорт. Отмечен береговой ориентир."
+      }
+    ],
+    "sections": [
+      {
+        "title": "От 2 км до полного берега",
+        "text": "SINAC описывает береговую сеть около 8,3 км. С ребёнком удобно сделать короткий выход от Кауиты и вернуться. Полный переход зависит от открытых секций, уровня ручьёв и режима второго входа. Уточните посадку на обратную дорогу до начала.",
+        "sources": [
+          "cahuita-trail-km",
+          "cahuita-map",
+          "cahuita-2026"
+        ]
+      },
+      {
+        "title": "Вода и проводники",
+        "text": "Входы обслуживаются по разным условиям, уточните оплату нужного сектора. Для снорклинга и другой лодочной активности смотрите перечень допущенных операторов. Наблюдения об условиях из отчёта сверяйте со службой парка в день поездки.",
+        "sources": [
+          "cahuita-map",
+          "cahuita-guides",
+          "cahuita-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · Parque Nacional Cahuita",
+        "source": "cahuita-map",
+        "note": "Секторы Playa Blanca и Puerto Vargas, проход, вода и доступ к тропе.",
+        "phone": "+506 2755 0302",
+        "email": "aclac.pncahuita@sinac.go.cr"
+      },
+      {
+        "name": "Местные лодочные операторы",
+        "source": "cahuita-guides",
+        "note": "Перечень SINAC для воды и экскурсий."
+      }
+    ],
+    "nearby": [
+      "caribe-bus-3",
+      "cocles"
+    ],
+    "track": "cahuita-trail-km"
+  },
+  "cocles": {
+    "stops": [
+      {
+        "point": "cocles-beach",
+        "role": "Пляж Cocles",
+        "note": "Это ориентир бухты. Точную зону урока сообщает инструктор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где взять урок",
+        "text": "Nativos ведёт занятия в районе Cariblue и публикует прямой контакт. Уточняйте навыки, возраст ребёнка, размер группы и участок, подходящий по волне в конкретный день.",
+        "sources": [
+          "cocles-nativos",
+          "cocles-ict",
+          "cr-ict-tips"
+        ]
+      },
+      {
+        "title": "Когда выбирать береговую прогулку",
+        "text": "У Cocles открытая волна. Оцените флаги и рекомендации инструктора. Если условия сложные, можно оставить прогулку и перенести урок либо выбрать спокойный наземный выход в Кауите.",
+        "sources": [
+          "cocles-ict",
+          "cr-ict-tips",
+          "cahuita-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nativos Surf School",
+        "source": "cocles-nativos",
+        "note": "Школа в районе Cariblue, уроки, точка встречи и размер группы.",
+        "phone": "+506 8781 6476",
+        "email": "surfschoolnativos@gmail.com"
+      }
+    ],
+    "nearby": [
+      "cahuita-trail",
+      "caribe-bus-3",
+      "pato-samara-school"
+    ],
+    "track": null
+  },
+  "caribe-bus-3": {
+    "stops": [
+      {
+        "point": "cahuita-kelly",
+        "role": "День 1 · Кауита",
+        "note": "Вход к прибрежной тропе и выбор короткого маршрута."
+      },
+      {
+        "point": "cocles-beach",
+        "role": "День 2 · Коклес",
+        "note": "К уроку сверяйте точку и время с местной школой."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога и обед",
+        "text": "Проверьте актуальные автобусные рейсы и обратный билет. Ночёвка рядом с остановкой позволяет ходить к еде и пляжу. В Кауите выбирайте вход в зависимости от времени прибытия и цели пешей прогулки.",
+        "sources": [
+          "mepe",
+          "cahuita-map",
+          "cahuita-2026"
+        ]
+      },
+      {
+        "title": "Сёрфинг и запасной день",
+        "text": "В Коклесе можно согласовать занятие с местной школой и сверить наличие доски. При плохой волне сделайте короткую береговую прогулку или пеший выход с гидом в Кауите.",
+        "sources": [
+          "cocles-nativos",
+          "cocles-ict",
+          "cahuita-guides"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nativos Surf School",
+        "source": "cocles-nativos",
+        "note": "Школа в районе Cariblue, уроки, точка встречи и размер группы.",
+        "phone": "+506 8781 6476",
+        "email": "surfschoolnativos@gmail.com"
+      },
+      {
+        "name": "SINAC · Parque Nacional Cahuita",
+        "source": "cahuita-map",
+        "note": "Секторы Playa Blanca и Puerto Vargas, проход, вода и доступ к тропе.",
+        "phone": "+506 2755 0302",
+        "email": "aclac.pncahuita@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "cocles",
+      "cahuita-trail",
+      "tortuguero-no-car"
+    ],
+    "track": "mepe"
+  },
+  "baru-waterfalls-3": {
+    "stops": [
+      {
+        "point": "eco-chontales",
+        "role": "День 1 · водопад",
+        "note": "Отмечен водопад. Оператор публикует подъезд и точку для Waze на сайте."
+      },
+      {
+        "point": "platanillo",
+        "role": "База в районе Platanillo",
+        "note": "Разные дороги ведут к Elysiana и La Ceiba. Используйте данные владельцев."
+      },
+      {
+        "point": "rana-roja",
+        "role": "День 2 · Rancho Rana Roja",
+        "note": "Въезд и тропы подтверждает ферма."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Две базы на выбор",
+        "text": "Единая база в районе Platanillo сокращает переезды между водопадами. Для домика спросите Rancho Rana Roja или Cascada Elysiana. Для стоянки с крышной палаткой запрашивайте точку и разрешение La Ceiba.",
+        "sources": [
+          "rana-roja",
+          "elysiana-drive",
+          "camp-ceiba"
+        ]
+      },
+      {
+        "title": "Когда стоит сокращать маршрут",
+        "text": "Местные авторы объединили много водопадов за два дня. Для группы с детьми оставьте одну основную тропу на день. Если подъезды мокрые, проверяйте гравийные дороги и оставляйте время на возвращение до темноты.",
+        "sources": [
+          "qbl-ruta-agua",
+          "perez-travel",
+          "eco-chontales"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rancho Rana Roja",
+        "source": "rana-roja",
+        "note": "Ночёвка, вход к реке, меню и подъезд.",
+        "phone": "+506 8617 0449",
+        "email": "ranchoranaroja@gmail.com"
+      },
+      {
+        "name": "La Ceiba Ecoadventures",
+        "source": "ceiba-local",
+        "note": "Площадка, состояние грунтового подъезда и допуск на тропу к La Raíz.",
+        "phone": "+506 8980 5257"
+      }
+    ],
+    "nearby": [
+      "ceiba-roof",
+      "rancho-rana-roja",
+      "eco-chontales-falls"
+    ],
+    "track": "qbl-ruta-agua"
+  },
+  "ceiba-roof": {
+    "stops": [
+      {
+        "point": "platanillo",
+        "role": "Ориентир перед кемпингом",
+        "note": "Из Платанильо запросите точку заезда непосредственно у La Ceiba."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка в Бару",
+        "text": "Локальный справочник подтверждает кемпинг и маршруты к водопаду. Каталог кемпингов различает форматы стоянки. Уточните, какая площадка пригодна под крышную палатку и доходит ли автомобиль до неё после дождя.",
+        "sources": [
+          "ceiba-local",
+          "camp-ceiba"
+        ]
+      },
+      {
+        "title": "Тропа к La Raíz",
+        "text": "В отчёте Qué Buen Lugar описан спуск к водопаду с более техническим участком. Возвращение в гору занимает больше времени. Для семьи спросите короткий вариант около базы, а к воде подходите по текущим правилам.",
+        "sources": [
+          "qbl-ruta-agua",
+          "ceiba-local",
+          "perez-travel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Ceiba Ecoadventures",
+        "source": "ceiba-local",
+        "note": "Площадка, состояние грунтового подъезда и допуск на тропу к La Raíz.",
+        "phone": "+506 8980 5257"
+      }
+    ],
+    "nearby": [
+      "baru-waterfalls-3",
+      "elysiana-forest",
+      "rancho-rana-roja"
+    ],
+    "track": null
+  },
+  "rancho-rana-roja": {
+    "stops": [
+      {
+        "point": "rana-roja",
+        "role": "Ранчо · подъезд",
+        "note": "Ориентир по ссылке Waze из местного маршрута. Въезд подтвердите у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пеший день или ночёвка",
+        "text": "У фермы отдельно опубликованы вход к воде, ресторан и ночь в домике. Уточните, куда можно с детьми после дождей и где остаётся безопасная пешая программа.",
+        "sources": [
+          "rana-roja",
+          "qbl-ruta-agua"
+        ]
+      },
+      {
+        "title": "Как место выглядит вживую",
+        "text": "Видео Qué Buen Lugar и отчёт о Ruta del Agua показывают рельеф и подходы. Поездку удобно соединить с коротким выходом к Eco Chontales или ночёвкой у Платанильо.",
+        "sources": [
+          "fb-qbl-rana",
+          "qbl-ruta-agua",
+          "eco-chontales"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rancho Rana Roja",
+        "source": "rana-roja",
+        "note": "Ночёвка, вход к реке, меню и подъезд.",
+        "phone": "+506 8617 0449",
+        "email": "ranchoranaroja@gmail.com"
+      }
+    ],
+    "nearby": [
+      "baru-waterfalls-3",
+      "eco-chontales-falls",
+      "elysiana-forest"
+    ],
+    "track": null
+  },
+  "elysiana-forest": {
+    "stops": [
+      {
+        "point": "platanillo",
+        "role": "Ориентир перед гравийным участком",
+        "note": "От Платанильо примерно 5 км до Elysiana. Инструкция и пин у оператора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Приезд и размещение",
+        "text": "В часах и порядке заезда ориентируйтесь на сайт Elysiana, особенно после дождя. Можно согласовать лодж и вариант трансфера из Доминикаля. Утром пройти к водопаду на территории.",
+        "sources": [
+          "elysiana-drive",
+          "elysiana"
+        ]
+      },
+      {
+        "title": "Что изменится в сухую погоду",
+        "text": "Авторы Ruta del Agua застали уменьшившийся поток. Планируйте прогулку по лесу и смотровые даже при слабой воде. Для отдельного короткого похода подойдёт Eco Chontales при открытых дорожках.",
+        "sources": [
+          "qbl-ruta-agua",
+          "eco-chontales"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cascada Elysiana",
+        "source": "elysiana-drive",
+        "note": "Гравийный подъезд, транспорт и порядок встречи."
+      }
+    ],
+    "nearby": [
+      "baru-waterfalls-3",
+      "ceiba-roof",
+      "eco-chontales-falls"
+    ],
+    "track": "elysiana-drive"
+  },
+  "eco-chontales-falls": {
+    "stops": [
+      {
+        "point": "eco-chontales",
+        "role": "Eco Chontales · водопад",
+        "note": "Въезд и парковку ищите по прямому пину оператора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий путь к воде",
+        "text": "Оператор указывает около 700 метров на тропе. Общая длина прогулки зависит от парковки и того, идёте ли к дополнительным разрешённым точкам. Проверьте дорогу от Ruta 243.",
+        "sources": [
+          "eco-chontales",
+          "perez-travel"
+        ]
+      },
+      {
+        "title": "Разный уровень воды",
+        "text": "У местных авторов день начался с дождя и изменившихся условий подхода. Проверьте путь назад и берег у персонала, особенно с детьми. Для обеда или ночёвки можно поехать в Rancho Rana Roja.",
+        "sources": [
+          "qbl-ruta-agua",
+          "rana-roja"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Eco Chontales Waterfall",
+        "source": "eco-chontales",
+        "note": "Посещение, парковка и доступ к тропе."
+      }
+    ],
+    "nearby": [
+      "baru-waterfalls-3",
+      "rancho-rana-roja"
+    ],
+    "track": null
+  },
+  "escapadita": {
+    "stops": [
+      {
+        "point": "higuito",
+        "role": "Посёлок перед горным подъездом",
+        "note": "Точку заезда через Higuito или место встречи для трансфера сообщает хозяин."
+      }
+    ],
+    "sections": [
+      {
+        "title": "База для лесных выходных",
+        "text": "Здесь есть разные места для обычной палатки, оборудованное размещение и домик. В списке услуг упомянуты тропы, видовая площадка и сопровождаемый поход к Catarata Las Nubes. Спросите, какие варианты подходят возрасту детей.",
+        "sources": [
+          "escapadita",
+          "escapadita-services"
+        ]
+      },
+      {
+        "title": "Дорога и ночёвка",
+        "text": "Сайт и Camping.cr описывают подъём с 4×4 или местный трансфер. Запросите фактический пин парковки, правила заезда при дожде и место остановки у палатки. Крышную палатку согласуйте отдельно.",
+        "sources": [
+          "escapadita-drive",
+          "escapadita-campcr"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Escapadita al Bosque",
+        "source": "escapadita-services",
+        "note": "Бронь, трансфер, гид на водопад, палаточные и крытые места.",
+        "phone": "+506 8609 0338",
+        "email": "info@escapaditaalbosque.com"
+      }
+    ],
+    "nearby": [
+      "oikoumene",
+      "lucha-weekend",
+      "lucha-camping"
+    ],
+    "track": "escapadita-drive"
+  },
+  "oikoumene": {
+    "stops": [
+      {
+        "point": "oikoumene-camp",
+        "role": "Въезд в Campamento Oikoumene",
+        "note": "Координаты по Waze на официальной странице."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лагерь и выходной с детьми",
+        "text": "Оператор предлагает домики, кемпинг, ресторан и дневное посещение в Очомого. Уточните, какие короткие тропы открыты и можно ли арендовать велосипед. Разделите велопрограмму и тихий пеший день по возрасту.",
+        "sources": [
+          "oikoumene",
+          "oikoumene-sleep",
+          "oik-contact"
+        ]
+      },
+      {
+        "title": "Сеть MTB",
+        "text": "Техническая карта национального старта подтверждает велосеть на территории. Трассы соревнований и доступные на обычный день петли различаются. Спросите актуальную схему и разрешение для своего MTB на входе.",
+        "sources": [
+          "oik-mtb",
+          "oik-contact",
+          "oikoumene"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Oikoumene",
+        "source": "oik-contact",
+        "note": "Дневной вход, кемпинг, велосипеды и маршрут к площадке.",
+        "phone": "+506 8668 2723",
+        "email": "info@oikoumene.cr"
+      }
+    ],
+    "nearby": [
+      "escapadita",
+      "lucha-bike",
+      "lucha-weekend"
+    ],
+    "track": null
+  }
+}

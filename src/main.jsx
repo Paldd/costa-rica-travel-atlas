@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import React, { lazy, Suspense, useEffect, useMemo, useRef, useState } from "react";
 import { createRoot } from "react-dom/client";
 import {
   ArrowLeft, ArrowRight, ArrowUpRight, Bookmark, Clock3, Compass, List,
@@ -11,6 +11,7 @@ import {
 import AtlasMap from "./AtlasMap.jsx";
 import "./styles.css";
 
+const RouteMap = lazy(() => import("./RouteMap.jsx"));
 const asset = name => import.meta.env.BASE_URL + name;
 const nav = { catalog: "Каталог", expeditions: "Экспедиции", sources: "Источники", saved: "Сохранённое" };
 const heroImage = { file: "arenal.jpg", alt: "Иллюстрация вулкана Ареналь над тропическим лесом" };
@@ -135,8 +136,8 @@ function SearchFilters({ query, setQuery, active }) {
       {filters.map(filter => <SelectFilter key={filter.key} filter={filter} query={query} change={change} />)}
     </div>
     <div className="filter-subrow">
-      <details className="extra-filters" open={query.has("sleep") || query.has("kind") ? true : undefined}>
-        <summary>Ночёвка и вид записи <ChevronDown size={14} aria-hidden="true" /></summary>
+      <details className="extra-filters" open={secondaryFilters.some(filter => query.has(filter.key)) ? true : undefined}>
+        <summary>Расстояние, ночёвка и карта <ChevronDown size={14} aria-hidden="true" /></summary>
         <div>
           {secondaryFilters.map(filter => <SelectFilter key={filter.key} filter={filter} query={query} change={change} />)}
         </div>
@@ -178,6 +179,23 @@ function RouteCard({ row, context, saved, toggle }) {
   </article>;
 }
 
+function DossierContacts({ contacts, sources }) {
+  return <section className="dossier-contacts">
+    <h2>Гиды, прокат и контакты</h2>
+    <ul>
+      {contacts.map(contact => <li key={contact.name}>
+        <strong>{contact.name}</strong>
+        <p>{contact.note}</p>
+        <div className="dossier-links">
+          <External href={contact.url || sources[contact.source].url}>{contact.url?.startsWith("https://wa.me/") ? "WhatsApp" : "Сайт / условия"}</External>
+          {contact.phone && <a href={`tel:${contact.phone.replace(/[^\d+]/g, "")}`}>{contact.phone}</a>}
+          {contact.email && <a href={`mailto:${contact.email}`}>{contact.email}</a>}
+        </div>
+      </li>)}
+    </ul>
+  </section>;
+}
+
 function Detail({ row, atlas, route, saved, toggle }) {
   const query = new URLSearchParams(route.filters);
   const from = query.get("from");
@@ -185,6 +203,7 @@ function Detail({ row, atlas, route, saved, toggle }) {
   const back = urlFor(from in nav && from !== "sources" ? from : "catalog", query);
   const photo = photoFor(row);
   const byId = new Map(atlas.records.map(r => [r.id, r]));
+  const dossier = row.dossier;
   const stats = [
     [Clock3, "Длительность", durationLabel(row.days) + (row.distance ? ` · ${String(row.distance).replace(".", ",")} км` : "")],
     [Mountain, "Сложность", difficulty[row.level]],
@@ -212,6 +231,9 @@ function Detail({ row, atlas, route, saved, toggle }) {
         <div><dt>{label}</dt><dd>{value}</dd></div>
       </div>)}
     </dl>
+    {Boolean(dossier?.stops.length) && <Suspense fallback={<p role="status">Загружаем карту…</p>}>
+      <RouteMap key={row.id} stops={dossier.stops} track={atlas.sources[dossier.track]} />
+    </Suspense>}
     <div className="detail-body">
       <section>
         <h2>Как спланировать</h2>
@@ -229,21 +251,33 @@ function Detail({ row, atlas, route, saved, toggle }) {
         <p>{row.sleep.map(id => lodging[id]).join(" · ")}</p>
         <h3>Активности</h3>
         <div className="activity-links">{row.activities.map(id => <a key={id} href={urlFor("catalog", new URLSearchParams({ activity: id }))}>{activities[id]}</a>)}</div>
+        {dossier?.sections.map(section => <section className="dossier-section" key={section.title}>
+          <h3>{section.title}</h3>
+          <p>{section.text}</p>
+          <div className="dossier-links">{section.sources.map(id => <External href={atlas.sources[id].url} key={id}>{atlas.sources[id].title}</External>)}</div>
+        </section>)}
+        {Boolean(dossier?.nearby?.length) && <section className="dossier-section">
+          <h3>Что добавить к поездке</h3>
+          <ul>{dossier.nearby.map(id => <li key={id}><a href={urlFor("place", route.filters, id)}>{byId.get(id).title}</a></li>)}</ul>
+        </section>}
       </section>
-      <aside className="sources-box">
-        <h2>Источники и карта</h2>
-        <p className="check-date">Сверено {new Intl.DateTimeFormat("ru-RU", { timeZone: "UTC" }).format(new Date(row.checked))}</p>
-        <ul>
-          {row.sources.map(id => atlas.sources[id]).map(source => <li key={source.id}>
-            <External href={source.url}>{source.title}</External>
-            <p>{sourceKinds[source.kind]} · {source.scope}</p>
-          </li>)}
-          {row.posts?.map(post => <li key={post.url}>
-            <External href={post.url}>{post.profile} · Instagram</External>
-            <p>Публикация с упоминанием места</p>
-          </li>)}
-        </ul>
-        <External className="map-link" href={mapsLink(row)}><MapPin size={19} aria-hidden="true" /> Открыть карту и отзывы</External>
+      <aside>
+        {Boolean(dossier?.contacts.length) && <DossierContacts contacts={dossier.contacts} sources={atlas.sources} />}
+        <div className="sources-box">
+          <h2>Источники и карта</h2>
+          <p className="check-date">Сверено {new Intl.DateTimeFormat("ru-RU", { timeZone: "UTC" }).format(new Date(row.checked))}</p>
+          <ul>
+            {row.sources.map(id => atlas.sources[id]).map(source => <li key={source.id}>
+              <External href={source.url}>{source.title}</External>
+              <p>{sourceKinds[source.kind]} · {source.scope}</p>
+            </li>)}
+            {row.posts?.map(post => <li key={post.url}>
+              <External href={post.url}>{post.profile} · Instagram</External>
+              <p>Публикация с упоминанием места</p>
+            </li>)}
+          </ul>
+          <External className="map-link" href={mapsLink(row)}><MapPin size={19} aria-hidden="true" /> Открыть карту и отзывы</External>
+        </div>
       </aside>
     </div>
     <section className="departure"><h2>Перед выездом</h2><p>{row.conditions}</p></section>

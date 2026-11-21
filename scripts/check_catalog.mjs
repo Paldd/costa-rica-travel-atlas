@@ -26,6 +26,16 @@ for (const row of records) {
   }
   assert((row.stages || []).every((s, i) => s.day === i + 1 && s.title && s.note && s.stops.every(id => known.has(id))), row.id);
   assert((row.stages || []).every(s => (s.sources || []).every(id => id in atlas.sources)), row.id);
+  if (row.dossier) {
+    const { stops, track, sections, contacts, nearby = [] } = row.dossier;
+    assert(stops.every(stop => stop.name && stop.role && stop.source in atlas.sources && stop.coords.every(Number.isFinite)), row.id);
+    assert(!track || track in atlas.sources, row.id);
+    assert(sections.length > 0 && sections.every(section => section.title && section.text && section.sources.length && section.sources.every(id => id in atlas.sources)), row.id);
+    assert(contacts.every(contact => contact.name && contact.note && contact.source in atlas.sources), row.id);
+    assert(contacts.every(contact => !contact.url || new URL(contact.url).protocol === "https:"), row.id);
+    assert(nearby.every(id => id !== row.id && known.has(id)), row.id);
+    assert(new Set([...row.sources, ...sections.flatMap(section => section.sources)]).size >= 2, row.id);
+  }
   if (row.stages?.length > 0) assert.equal(row.stages.length, row.days, row.id);
 }
 
@@ -35,6 +45,10 @@ assert(find({ activity: "rooftent", transport: "4x4" }).some(row => row.id === "
 assert(find({ transport: "noCar", region: "caribbean", duration: "three" }, "expeditions").some(row => row.id === "tortuguero-no-car"));
 assert(find({ duration: "seven", activity: "mtb" }, "expeditions").some(row => row.id === "week-4x4-mtb"));
 assert(find({ activity: "packraft", region: "central" }).some(row => row.id === "pejibaye-pack"));
+assert(find({ km: "ten", activity: "hiking" }).some(row => row.id === "palo-verde-cerro-alto"));
+assert(find({ km: "hundred", activity: "hiking", detail: "map" }, "expeditions").some(row => row.id === "el-camino-102"));
+assert(find({ activity: "ebike", detail: "map" }).some(row => row.id === "pinilla-emtb"));
+assert(find({ activity: "own-craft", detail: "map" }).some(row => row.id === "pacuare-own-craft"));
 assert.equal(find({ region: "caribbean" }, "saved", new Set(["sabana-oka"])).length, 0);
 assert.equal(find({}, "saved", new Set(["sabana-oka"])).length, 1);
 assert.equal(find({ q: "очень-специфичное-отсутствующее-место" }).length, 0);

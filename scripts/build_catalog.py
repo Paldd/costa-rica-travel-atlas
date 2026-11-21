@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 SOURCE_FIELDS = ("id", "kind", "title", "url", "scope")
 POST_FIELDS = ("profile", "source")
+POINT_FIELDS = ("id", "name", "lat", "lon", "source")
 RECORD_FIELDS = (
     "id", "kind", "region", "title", "native", "level", "days", "activities",
     "audience", "access", "sleep", "sources", "summary", "plan", "conditions", "distance",
@@ -33,6 +34,24 @@ def main():
     sources_by_id = {source["id"]: source for source in sources}
     if len(sources_by_id) != len(sources):
         raise ValueError("Duplicate source ID")
+    points = {}
+    for point in read_table(DATA / "map-points.tsv", POINT_FIELDS):
+        key = point.pop("id")
+        coords = [float(point.pop(field)) for field in ("lat", "lon")]
+        if key in points or point["source"] not in sources_by_id or not (5 <= coords[0] <= 11.3 and -88 <= coords[1] <= -82.3):
+            raise ValueError(f"Invalid map point {key}")
+        points[key] = {**point, "coords": coords}
+
+    dossiers = {}
+    for path in sorted(DATA.glob("dossiers*.json")):
+        for key, dossier in json.loads(path.read_text()).items():
+            if key in dossiers:
+                raise ValueError(f"Duplicate dossier for {key}")
+            dossier["stops"] = [
+                {**stop, **points[stop["point"]]} for stop in dossier.get("stops", [])
+            ]
+            dossiers[key] = dossier
+
     records = []
     for path in sorted(DATA.glob("catalog*.tsv")):
         for record in read_table(path, RECORD_FIELDS):
@@ -74,8 +93,12 @@ def main():
             raise ValueError(f"Unknown or missing source for {key}")
         record["checked"] = checked_by_record.get(key, metadata["checked"])
         record["posts"] = social_matches.get(key, [])[:5]
+        if dossier := dossiers.get(key):
+            record["dossier"] = dossier
     if unknown_checks := checked_by_record.keys() - known_records:
         raise ValueError(f"Unknown records with check dates: {', '.join(sorted(unknown_checks))}")
+    if unknown_dossiers := dossiers.keys() - known_records:
+        raise ValueError(f"Unknown records with dossiers: {', '.join(sorted(unknown_dossiers))}")
     for record in records:
         for stage in record.get("stages", []):
             for stop in stage.get("stops", []):

@@ -353,7 +353,7 @@
     "summary": "Подход, радиальный день к вершине и спуск с ночёвками в горном приюте.",
     "plan": "План на три дня работает только при подтверждённом доступе и двух ночёвках. Оцените подготовку и выберите официальный сектор.",
     "conditions": "Проверьте резерв на вход и приют, погодное окно и правила допуска. Меняйте план на месте по указаниям парка.",
-    "distance": null,
+    "distance": 39.2,
     "regions": [],
     "stages": [
       {
@@ -1192,6 +1192,313 @@
           "ceiba-roof"
         ]
       }
+    ]
+  },
+  {
+    "id": "el-camino-34",
+    "kind": "trip",
+    "region": "central",
+    "title": "El Camino · 34 км из Ла-Суисы к Тапанти",
+    "native": "El Camino de Costa Rica · Etapas 7 y 8",
+    "days": 2,
+    "distance": 34.3,
+    "level": "hard",
+    "activities": [
+      "hiking",
+      "forest",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "solo",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "camino-stage-7",
+      "camino-stage-8",
+      "camino-guide",
+      "camino-prepare"
+    ],
+    "summary": "Два смежных этапа: плантации и река Пехибайе в первый день, длинный подъём к облачному лесу во второй.",
+    "plan": "В Ла-Суису организуйте подъезд. Между этапами выберите ночёвку около Humo de Pejibaye или согласуйте короткий трансфер с поселковой базы.",
+    "conditions": "Во второй день заложите большую часть времени на набор высоты. Ночёвку и транспорт от Тапанти нужно подготовить до старта.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "La Suiza — Humo de Pejibaye",
+        "note": "18,3 км через Atirro и Pejibaye. На маршруте открываются виды на водохранилище Ангостура.",
+        "stops": [],
+        "sources": [
+          "camino-stage-7"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Humo de Pejibaye — Tapantí",
+        "note": "16 км по горному коридору в сторону Тапанти с длительным подъёмом. Сверьте ночёвку и развоз у финиша.",
+        "stops": [
+          "tapanti"
+        ],
+        "sources": [
+          "camino-stage-8"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "el-camino-102",
+    "kind": "trip",
+    "region": "central",
+    "title": "El Camino · 102 км от Трес-Экис к Серро-Альто",
+    "native": "El Camino de Costa Rica · Etapas 5–11",
+    "days": 7,
+    "distance": 102.09,
+    "level": "expedition",
+    "activities": [
+      "hiking",
+      "forest",
+      "views",
+      "multi",
+      "river"
+    ],
+    "audience": [
+      "solo",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "camino-steps",
+      "camino-prepare",
+      "camino-guide",
+      "camino-stage-5",
+      "camino-stage-11",
+      "elcamino-report"
+    ],
+    "summary": "Семь этапов с переходом из долины Пакуаре в горную часть Cartago. Ориентир складывается из опубликованных длин этапов.",
+    "plan": "Начните в районе Finca Tres Equis. Заранее назначьте места ночёвки и трансферы между базами для каждого дня. В районе Ороси пополните запасы.",
+    "conditions": "Набор на длинных днях выше, чем кажется по километражу. Сверьте съезды, доступ к воде на остановках и развоз у Серро-Альто.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Tres Equis — Pacayitas",
+        "note": "13,1 км. В начале участок вдоль оживлённой Ruta 10, дальше — сельские дороги и открытые виды на долину Пакуаре.",
+        "stops": [],
+        "sources": [
+          "camino-stage-5"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Pacayitas — La Suiza",
+        "note": "12,4 км. Сначала подъём среди сельхозугодий, затем длинный спуск к городу Ла-Суиса.",
+        "stops": [],
+        "sources": [
+          "camino-stage-6"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "La Suiza — Humo de Pejibaye",
+        "note": "18,3 км через Atirro и Pejibaye. На маршруте открываются виды на водохранилище Ангостура.",
+        "stops": [],
+        "sources": [
+          "camino-stage-7"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Humo de Pejibaye — Tapantí",
+        "note": "16 км по горному коридору в сторону Тапанти с длительным подъёмом. Сверьте ночёвку и развоз у финиша.",
+        "stops": [
+          "tapanti"
+        ],
+        "sources": [
+          "camino-stage-8"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Tapantí, Río Macho и Navarro del Muñeco",
+        "note": "23,2 км. Маршрут идёт через долину Ороси, затем набирает высоту после Río Macho. В Пурисиле удобно пополнить запасы.",
+        "stops": [],
+        "sources": [
+          "camino-stage-9"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Navarro del Muñeco — Palo Verde",
+        "note": "Около 9,1 км с подъёмом по грунтовой дороге после моста. На коротком участке рядом с шоссе будьте внимательны к движению.",
+        "stops": [],
+        "sources": [
+          "camino-stage-10"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Palo Verde — Cerro Alto",
+        "note": "10 км и около 928 м набора через Ла-Лучиту. На коротком этапе нагрузку создают крутизна и высота.",
+        "stops": [],
+        "sources": [
+          "camino-stage-11"
+        ]
+      }
+    ],
+    "regions": [
+      "caribbean",
+      "mountains"
+    ]
+  },
+  {
+    "id": "pejibaye-weekend-local",
+    "kind": "trip",
+    "region": "central",
+    "title": "Пехибайе на выходные · лес, река и ночёвка",
+    "native": "Pejibaye de Jiménez · La Marta y Río del Valle",
+    "days": 2,
+    "distance": null,
+    "level": "moderate",
+    "activities": [
+      "hiking",
+      "forest",
+      "river",
+      "camping",
+      "rafting",
+      "packraft",
+      "cafe"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "lamarta-trails",
+      "rividal-desc",
+      "coopejitur",
+      "pejibaye-pack-story",
+      "la-roca-main"
+    ],
+    "summary": "Выезд к Картаго с одной базой, короткой или длинной тропой и сплавом с проводником по погоде.",
+    "plan": "Сначала забронируйте кемпинг или домик. Для семейного темпа оставьте короткий маршрут, обед и спокойную береговую часть. Второй день можно отдать сплаву.",
+    "conditions": "При высокой воде проведите второй день на пешем маршруте или в кафе. Для выхода на реку подтвердите секцию, возраст, экипировку и развоз.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пехибайе, Ла-Марта и ночёвка",
+        "note": "Выберите тропу по времени входа. Заезд в посаду сверяйте заранее.",
+        "stops": [
+          "la-marta",
+          "la-marta-mina",
+          "rio-del-valle-camp"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Река с гидом или кафе и прогулка",
+        "note": "Перед выездом подтвердите условия у местного кооператива или у организатора пакрафта.",
+        "stops": [
+          "pejibaye-pack",
+          "la-roca-pejibaye"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tronadora-weekend-roof",
+    "kind": "trip",
+    "region": "north",
+    "title": "Тронадора и Серро-Пеладо · два дня с крышной палаткой",
+    "native": "Tronadora – Lago Arenal – Cerro Pelado",
+    "days": 2,
+    "distance": null,
+    "level": "moderate",
+    "activities": [
+      "camping",
+      "rooftent",
+      "lake",
+      "sup",
+      "kayak",
+      "fishing",
+      "hiking",
+      "savanna"
+    ],
+    "audience": [
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "camp-tronadora",
+      "tilaran-tronadora",
+      "pelado-guide",
+      "pelado-report",
+      "arenal-lake-local"
+    ],
+    "summary": "Стоянка у озера и второй день на открытом гребне. Вариант с греблей или рыбалкой вместо вершины.",
+    "plan": "Поздний въезд на полуостров согласуйте с кемпингом. Отдельно проверьте ветер, разрешение для своего снаряжения, форматы рыбалки и доступ к Серро-Пеладо.",
+    "conditions": "На открытом склоне и на озере быстро меняется ветер. Для склона нужен подтверждённый вход через конкретную finca.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Тронадора и берег озера",
+        "note": "Купите воду и продукты в посёлке. Разверните палатку на согласованном месте.",
+        "stops": [
+          "tronadora-roof",
+          "arenal-fishing"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Серро-Пеладо или тихий берег",
+        "note": "При подходящих условиях выезжайте к проводнику на утренний поход. Для водной альтернативы сверяйте доступ на берегу.",
+        "stops": [
+          "cerro-pelado",
+          "arenal-paddle"
+        ]
+      }
+    ],
+    "regions": [
+      "guanacaste"
     ]
   }
 ]

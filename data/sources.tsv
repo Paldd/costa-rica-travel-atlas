@@ -185,3 +185,113 @@ elysiana-drive	operator	Cascada Elysiana · подъезд	https://www.cascadael
 tcr-dantica	event	The Trail Running CR · Dantica Trail 2026	https://thetrailrunningcr.com/dantica-trail-2026/	Дистанции и маршрут прошедшего выпуска в Эредии
 tcr-corcovado	event	A Buen Paso · Corcovado Stage Race 2026	https://abuenpaso.cr/event/corcovado-stage-race-2026	Регистрация закрыта. Описание двух этапов прошедшего выпуска
 perez-travel	official	Муниципалитет Перес-Селедона · путеводитель	https://www.perezzeledon.go.cr/component/phocadownload/category/1119-archivos-generales/1109-turismo.html?Itemid=112&download=18034%3Aguia-del-viajero-travel-guide	Региональные тропы, водопады и точки для маршрутов
+osm-cr-points	directory	OpenStreetMap · точки Коста-Рики	https://www.openstreetmap.org/copyright	Картографические ориентиры. Данные © участники OpenStreetMap, лицензия ODbL
+cr-ict-tips	official	Visit Costa Rica · условия и безопасность активного отдыха	https://www.visitcostarica.com/planning-your-trip/tips	Условия выхода на море, сплавов и возраста участников
+higueron-owner	operator	Higuerón · сайт кемпинга	https://www.higueroncr.com/	Крышные палатки и телефон владельца
+tilaran-tronadora	official	Муниципалитет Тиларана · Тронадора	https://tilaran.go.cr/articulo/194/tronadora	Публичная зона полуострова, местный отдых и рыбалка
+tronadora-osm	directory	OpenStreetMap · въезд в Campamento La Tronadora	https://www.openstreetmap.org/node/10784736086	Координаты кемпинга © участники OpenStreetMap, ODbL
+ganadito-cr	directory	Camping.cr · Ganadito Camping Bahía Drake	https://camping.cr/listing/ganadito-camping-bahia-drake/	Два наземных подъезда, услуги, парковка и контакт
+ganadito-ict	official	ICT · план развития Баия-Дрейк	https://www.ict.go.cr/en/root-documentos-no-apagar/gidt/3151-programa-gesti%C3%B3n-integral-de-destinos-cdt-bah%C3%ADa-drake-final/file.html	Местные поставщики туристических услуг и география
+ganadito-video	experience	Go Pup Go · дорога в Дрейк и кемпинг	https://www.youtube.com/watch?v=Hw2rKtnPfbA	Путевой отчёт об автомобильном подъезде и пароме
+ceiba-local	directory	Descubramos Costa Rica · La Ceiba Ecoadventures	https://www.descubramoscostarica.com/es/destino/la-ceiba-ecoadventures	Зона Бару, тропы к водопадам и локальные контакты
+lamarta-trails	operator	La Marta · Senderos naturales	https://lamarta.org/senderos-naturales/	Размеченная сеть свыше 17 км и тропа к Mirador La Mina
+lamarta-manual	operator	La Marta · схема посещения и троп	https://lamarta.org/wp-content/uploads/2024/05/manual-de-ventas-espanol-2024-2025-la-marta_vf-1.pdf	План пешей сети, кемпинг, варианты подхода и контакты
+lamarta-qbl	experience	Qué Buen Lugar · Ла-Марта	https://quebuenlugar.com/en/lugares/la-marta-cartago/	Отчёт о дороге из долины Ороси и маршрутах заповедника
+rividal-desc	directory	Descubramos Costa Rica · Río del Valle	https://www.descubramoscostarica.com/es/destino/rio-del-valle-posada-turistica	От посады опубликованы часы, площадки, парковка, питание и водные партнёры
+rividal-camp	directory	Camping.cr · Río del Valle	https://camping.cr/listing/rio-del-valle-posada-turistica/	Кемпинг, домики и региональный контакт
+pejibaye-pack-story	experience	Camino de Costa Rica Lodging · Packrafting the Río Pejibaye	https://www.caminodecostaricalodging.com/blog/packrafting-pejibaye	Апрель 2026. Вариант на малой воде и логистика рядом с мостом и посадами
+poc-contact	operator	Pacuare Outdoor Center · контакты	https://pacuareoutdoorcenter.com/contact/	Публичные телефон и почта для гида и условий программы
+poc-rent	operator	Pacuare Outdoor Center · прокат лодок	https://pacuareoutdoorcenter.com/rentals/	Пакрафты, каяки, комплекты и условия для опытных участников
+poc-drive	operator	Pacuare Outdoor Center · точки встреч	https://pacuareoutdoorcenter.com/about-us/directions/	Место сбора в Линда-Висте и заводские схемы подъезда
+coopejitur	operator	Tu Riqueza · Coopejitur	https://tu-riqueza.com/miembros-del-consorcio/coopejitur/	Местный кооператив, сплавы и велопрогулки Пехибайе
+ina-rafting	official	INA · учебное пособие речных гидов	https://www.ina-pidte.ac.cr/pluginfile.php/67096/mod_resource/content/1/MD%20ATENCION%20Y%20GUIADO%20RAFTING.pdf	Профессиональные рекомендации и классы воды на коммерческих участках
+rios-pura-jungle	operator	Ríos Pura Vida · The Jungle Experience	https://riospuravida.com/tour/the-jungle-experience	Коммерческий участок II–III, ориентир 11 км, начало у моста Ла-Вирхен
+soc-about	operator	Sarapiquí Outdoor Center · школа каяка	https://www.costaricaraft.com/about	База местного центра, обучение и гиды
+pacuare-whitewater	experience	GoRafting · карта Нижнего Пакуаре	https://gorafting.com/costa-rica/pacuare-river/	Речной путеводитель, точки посадки, выхода и варианты по участкам
+rioslodge-map	operator	Rios Lodge · карта порогов Пакуаре	https://rioslodge.com/wp-content/uploads/Pacuare-River-Map.pdf	Точки пересечения, ночёвки и выход около Сикирреса
+pacuare-guide-report	experience	Costa Rica Travel Blog · Пакуаре глазами бывшего гида	https://costaricatravelblog.com/pacuare-river-rafting-tour/	Сравнение логистики перевозчиков и ограничения нижнего участка
+dantas-owner	operator	Refugio Cerro Dantas · подъезд	https://cerrodantas.co.cr/espanol/directions-es	Три точки парковки, доступ на автобусе и телефон
+dantas-ict	official	Visit Costa Rica · Cerro Dantas	https://es.visitcostarica.com/blog/inside-cerro-dantas-wildlife-reserve	Лесные петли 3,5 и 6,5 км, ночёвки, питание и подъезд
+dantas-2026	experience	Wikiloc · Cerro Dantas, январь 2026	https://es.wikiloc.com/rutas-senderismo/cerro-dantas-248175290	Отчёт о 15,57 км от Монте-де-ла-Крус, грязи, связи и переходах
+dantas-pin	directory	Costa Rica InfoLink · координаты Cerro Dantas	https://costaricainfolink.com/es/refugio-de-vida-silvestre-cerro-dantas-costa-rica/	Опубликованные координаты входной зоны
+monte-muni	official	Муниципалитет Сан-Рафаэля · Monte de la Cruz	https://somossanrafael.munisrh.go.cr/monte-de-la-cruz/	Традиционное место отдыха на выходных, инфраструктура и история
+hoja-muni	official	Муниципалитет Эредии · Bosque de la Hoja	https://www.heredia.go.cr/en/node/2048	Муниципальный парк, площадки, лес и парковка
+hoja-2026	experience	Costa Rica on Foot · Bosque de la Hoja, апрель 2026	https://costaricaonfoot.blog/es/2026/04/03/bosque-de-la-hoja/	Современный пеший отчёт и детали семейного посещения
+hoja-local	experience	Edwin Bravo · Bosque de la Hoja	https://www.edwinbravo.com/locaciones/bosque-de-la-hoja-heredia/	Визуальный локальный обзор троп и мест для пикника
+vuelta-arenal-event	event	Vuelta al Lago Arenal · организатор	https://www.vueltaallagoarenal.com/	Дата заезда 2027 и категории велосипедов
+vuelta-arenal-map	event	Vuelta al Lago Arenal · карта 107,07 км	https://www.vueltaallagoarenal.com/en/route	Длина, подъём, доля грунта, контрольные точки и частная секция
+vuelta-arenal-faq	event	Vuelta al Lago Arenal · вопросы об участии	https://www.vueltaallagoarenal.com/faq	Старт, финиш, питание на трассе и категории
+orosi-road-track	experience	Wikiloc · шоссейный круг Orosí–Paraíso–Cachí	https://www.wikiloc.com/cycling-trails/orosi-45202862	Геометрия и параметры авторского кольца
+gravel-puro	experience	PuroMTB · гравийный маршрут Сан-Хосе — Оротина	https://puromtb.com/blogs/news/%F0%9F%8C%84-la-ruta-de-gravel-san-jose-orotina-%F0%9F%9A%B4-%EF%B8%8F%F0%9F%94%A5	Клубный трек, маршрут 113 км и профиль
+puromtb-hire	operator	PuroMTB · прокат велосипедов	https://puromtb.com/products/rent-a-bicycle	Городской прокат, подбор типа велосипеда и условия
+ict-cycling	official	ICT · велосипедные виды спорта	https://www.visitcostarica.com/sites/default/files/2024-10/2.2.4.5.11%20Tierra.pdf	Шоссе и MTB, примеры маршрутов и клубная логистика
+catalinas-ride	operator	Pura Vida Ride · велокруги 12 и 25 км	https://www.puravidaride.com/world-class-mountain-biking	Прокат, сопровождение и два опубликованных формата
+catalinas-water	operator	Las Catalinas · Playa Danta и водные занятия	https://news.lascatalinascr.com/water-experiences	Местный прокат SUP и каяков у Плайя-Данта
+bikecraft-pinilla	operator	Bike Craft Costa Rica · e-MTB в Hacienda Pinilla	https://www.bikecraftcr.com/espanol	Синглтрек, прокат MTB и e-MTB, гиды и выбор маршрута
+bikecraft-shop	operator	Bike Craft Costa Rica · местоположение и прокат	https://www.bikecraftcr.com/the-shop	Магазин в районе теннисных кортов и комплект оборудования
+cafe1743	operator	Cafetería 1743 · Ороси	https://cafeteria1743.com/	Кофе из долины, меню и контакт кофейни
+cachi-casona	operator	La Casona del Cafetal · Качи	https://www.lacasonadelcafetal.com/	Ресторан на берегу водохранилища, меню и контакты
+cachi-visit	experience	La Casona del Cafetal · репортаж о ресторане	https://www.youtube.com/watch?v=XN3DW9coh6U	Опыт посещения и вид на долину Качи
+la-roca-main	operator	La Roca Restaurante & Bar · Пехибайе	https://larocarestybar.com/restaurante/	Меню, семейная территория и связь с рестораном
+la-roca-reviews	experience	Отзывы посетителей La Roca	https://www.tripadvisor.es/Restaurant_Review-g4558936-d24179294-Reviews-La_Roca_Restaurante_Bar-Pejibaye_Province_of_Cartago.html	Посетительские фотографии и наблюдения о ресторане
+fishing-sinac	official	SINAC · Закон о сохранении дикой природы	https://www.sinac.go.cr/ES/normativa/Leyes2/2023/Ley%20de%20Conservaci%C3%B3n%20de%20la%20Vida%20Silvestre%20N%C2%BA%207317.pdf	Статья 63 о лицензии для континентальных вод
+fishing-incopesca	official	INCOPESCA · спортивная рыбалка и лицензии	https://www.incopesca.go.cr/tramites_servicios/	Процедуры, документы для морской рыбалки и рыболовного судна
+fishing-arenal-tour	operator	Lake Arenal Fishing · туры	https://arenalfishing.com/tours/	Экипаж, вместимость, снаряжение и места встречи
+arenal-young-fish	experience	Lake Arenal · отчёт о рыбалке под вулканом	https://www.youtube.com/watch?v=3ZNNxl12usk	Полевое наблюдение о пресноводной рыбалке
+arenal-elcastillo-sup	operator	Volcano Travel · прокат в Эль-Кастильо	https://volcano.travel/es/tours/alquila-un-kayak-o-una-tabla-de-paddleboard-en-el-lago-arenal-en-el-castillo/	База, время аренды и порядок выхода
+arenal-lake-local	experience	MyTanFeet · Ла-Фортуна и озеро Ареналь	https://mytanfeet.com/activities/lake-arenal-tours/	Опыт у береговых баз, подъезды, ветер и прокат
+arenal-fosforo-boat	operator	Costa Rica Tropical Vacations · Эль-Фосфоро	https://crtropicalvacations.com/activity/boat-paddleboard-tour/	Лодка с SUP и подтверждённая точка встречи
+hule-ict	official	Visit Costa Rica · Laguna Hule	https://www.visitcostarica.com/blog/welcome-bosque-alegre-wildlife-refuge-0	Координаты официального входа, подъезд и пешие подходы
+hule-plan	official	SINAC · план управления Bosque Alegre	https://www.sinac.go.cr/ES/planmanejo/Plan%20Manejo%20ACAHN/Plan%20General%20de%20Manejo%20RNMVS%20Bosque%20Alegre%20%282014%29.pdf	Условия допуска гребных лодок и каяков по зональному плану
+hule-fishing-reg	official	Регламент рыбалки во внутренних водах · MAG	https://www.mag.go.cr/legislacion/2007/de-33775.pdf	Ограничения спортивной рыбалки на Laguna Hule
+pato-surf	operator	Pato’s Surf School · Самара	https://www.patossurfingsamara.com/	Уроки, прокат и прямой контакт школы
+pato-local	directory	Sámara Info Center · Pato’s Surf School	https://www.samarainfocenter.com/shops-services/tour-operators/patos-surf-school/	Расположение школы, варианты занятий и экипировка
+samara-cafes	directory	Sámara Info Center · кофейни Самары	https://www.samarainfocenter.com/restaurants-bars/cafes/	Ориентиры для завтрака и кофе в Самаре
+samara-cafe-report	experience	Costa Rica Brief · кофейни Самары, 2026	https://costaricabrief.com/best-cafes-samara-costa-rica/	Свежий локальный обзор кофеен и завтраков
+ocean-king	operator	Catamaran Adventures CR · Ocean King	https://catamaranadventurescr.com/	Катамаран из Кепоса, варианты тура и контакты
+ocean-king-contact	operator	Catamaran Adventures CR · контакты	https://catamaranadventurescr.com/contact/	Телефоны, почта и порт посадки
+ocean-king-report	experience	Relátalo Tú · катамаран из Кепоса	https://www.relatalotu.com/catamaran-tour/	Путевой отчёт о посадке в Марина-Пес-Вела
+quepos-ict	official	ICT · справочник операторов Центрального Тихого океана	https://www.ict.go.cr/flipbook/guias/PDF/GUIA_PACIFICO_CENTRAL.pdf	Марина, сертифицированные услуги и катамараны
+chirripo-ict	official	SINAC и ICT · карта главного маршрута Чиррипо	https://www.visitcostarica.com/sites/default/files/legacy/pdf/5_PN%20Chirripo.pdf	Отрезки San Gerardo — Crestones — вершина
+chirripo-directions	official	SINAC · подъезд к Чиррипо	https://www.sinac.go.cr/ES/ac/aclap/pnch/Paginas/comollegar.aspx	Дорога из Сан-Исидро, офис и связь
+chirripo-painani	experience	Painani · Cerro Chirripó	https://painani.co/runs/cerro-chirripo/	Рельеф, высота, покрытие и фактические участки подъёма
+chirripo-hike-report	experience	TripTins · поход на Чиррипо	https://triptins.com/cerro-chirripo/	Отчёт о ночёвке, темпе и дороге к входу
+pelado-guide	operator	Tenorio Adventure Company · Cerro Pelado	https://www.tenorioadventurecompany.com/service/cerro-pelado/	Местный гид, точка встречи по запросу и возраст тура
+pelado-report	experience	Costa Rica Hub · Cerro Pelado	https://thecostaricahub.com/destinos/montanas-senderismo/cerro-pelado/	Актуальный разбор возможных подходов и условий землевладельцев
+lucha-qbl	experience	Qué Buen Lugar · La Lucha	https://www.quebuenlugar.com/es/lugares/la-lucha-san-jos/	Как проезжали к парку, где остановились по дороге и как устроены площадки
+lucha-home	operator	Hacienda La Lucha · официальный сайт	https://haciendalalucha.com/	Режим парка, варианты активностей и географическая привязка
+ganadito-map	directory	Trip.com · карта Ganadito Camping Bahía Drake	https://in.trip.com/travel-guide/attraction/osa/ganadito-camping-baha-drake-152513661?poiType=3	Опубликованный Plus Code P9J2+7QP в Баия-Дрейк
+oka-osm	directory	OpenStreetMap · ландшафт Sabanas Oka	https://www.openstreetmap.org/way/851063965	Центр опубликованной зоны, не точка входа. Данные © участники OpenStreetMap, ODbL
+higueron-review	experience	Tripadvisor · отзывы о кемпинге Higuerón	https://www.tripadvisor.co/Hotel_Review-g951347-d26164326-Reviews-Higueron_Rooftop_Tent_Campground-Monteverde_Province_of_Puntarenas.html	Отзывы о рельефе подъезда, виде и площадках
+pacuare-san-martin	experience	GoRafting · посадка San Martín	https://gorafting.com/costa-rica/pacuare-river/san-martin-put-in/	Один из вариантов старта Нижнего Пакуаре. Порядок въезда, разделение программ
+orosi-roads	official	Муниципалитет Параисо · дороги Ороси и Качи	https://www.muniparaiso.go.cr/files/news/95_r3reglamentomapaoficial_27042023_v2.0.pdf	Общедоступная дорожная схема и ориентиры для круга
+crestones-operator	operator	Consorcio Chirripó · Base Crestones	https://chirripo.org/servicios/	Услуги горного приюта, питание, багаж и почта концессионера
+catalinas-contact	operator	Pura Vida Ride · контакт Las Catalinas	https://www.puravidaride.com/contact	Связь с прокатом, гидом и кафе у Плайя-Данта
+don-manuel-owner	operator	Laguna Don Manuel · сайт кемпинга	https://lagunadonmanuel.com/	Кемпинг, маршруты и контакты площадки в Дота
+don-manuel-report	experience	ModoViajeroCR · Laguna Don Manuel	https://www.modoviajerocr.com/contents/19/laguna-don-manuel	Местный отчёт о прогулке, площадках и погоде
+marlin-contact	operator	Marlin del Rey · связь в Тамариндо	https://marlindelrey.com/contact/	Контакты оператора и адрес офиса
+marlin-board	operator	Marlin del Rey · как проходит посадка	https://marlindelrey.com/faq/	Открытая посадка с пляжа через пангу, параметры важных условий
+marlin-local	directory	Tamarindo Guide · Marlin del Rey	https://tamarindoguide.com/businesses/sailing-tours/marlin-rey-catamaran/	Местный справочник и адрес оператора
+sierpe-charter	operator	Sierpe Fishing · рыбалка с местным экипажем	https://sierpe-fishing.com/	Программы в реке, у берега и в открытом море, связь и точка встречи
+sierpe-mangroves	operator	Sierpe Outfitters · мангровый маршрут	https://www.sierpeoutfitters.com/mangrove-tours	Схема каналов и условия лодочного тура с гидом
+sierpe-ict	official	ICT · местные туры на полуострове Оса	https://www.visitcostarica.com/sites/default/files/2024-10/OSA.pdf	Региональные места, рыбалка, мангры и морские выходы
+chirripo-casa	operator	Casa Mariposa · подъезд к главной тропе	https://www.casamariposachirripo.net/contact-us-reservations	Пеший доступ от базы, подъезд из долины и ночёвка у старта
+iguana-contact	operator	Iguana Surf · связь и точка встречи	https://iguanasurf.net/contact-us/	Публичные контакты школы, карта магазина и уроки
+iguana-local	directory	Todo Tamarindo · школы и местные прокаты	https://todotamarindo.com/c/surf.html	Местный список школ и прокатов, где заказать прямой урок
+iguana-reviews	experience	Tripadvisor · уроки Iguana Surf	https://www.tripadvisor.com/AttractionProductReview-g309253-d11477537-Surf_Lessons_in_Tamarindo_Costa_Rica-Tamarindo_Province_of_Guanacaste.html	Отзывы о первом уроке, инструкторах и месте встречи
+koki-asedp	directory	ASEDP · посещение Finca Koki	https://asedp.cr/turismo-y-recreacion/www-fincakoki-com	Локальные условия семейного посещения, озеро и оплачиваемые активности
+cahuita-map	official	ICT и SINAC · карта Кауиты и офисы парка	https://ict.go.cr/es/documentos-institucionales/brochures-1/brochures-para-el-turista/parques-nacionales/2375-pn-cahuita.html	Два входа, контакт парка и схема береговых троп
+cahuita-trail-km	official	SINAC · береговой маршрут Кауиты	https://www.sinac.go.cr/EN-US/ac/Documents/cahuita_ing.pdf	Схема береговой тропы, ориентир 8,3 км
+cahuita-guides	official	SINAC · список туроператоров Кауиты	https://www.sinac.go.cr/EN-US/atc/cahuita/Pages/TourOperators.aspx	Местные проводники и лодочные операторы
+cahuita-2026	experience	Aguaepipa · практический разбор Кауиты, ноябрь 2026	https://proyectoaguaepipa.com/es/costa-rica/parks/cahuita	Наблюдения о входах, записи, покрытии и правилах на берегу
+tort-acto	official	ACTO · правила Тортугеро	https://www.acto.go.cr/informacion-turistica-parque-nacional-tortuguero/	Время входа, правила каналов и туры с проводниками
+tort-smith	operator	Transportes Smith · рейсы La Pavona ↔ Tortuguero	https://www.smithtortugueroboats.com/horarios-precios-bote	Расписание конкретного перевозчика, коллективный и отдельный трансфер к лоджу
+tort-local-guide	operator	ASOPROTUR · ассоциация гидов Тортугеро	https://asoprotur.com/	Местная ассоциация, экскурсии и связь
+tort-guide-fenaguitur	directory	FENAGUITUR · связь с ASOPROTUR	https://fenaguitur.com/asoprotur	Публичный телефон местной ассоциации гидов
+tort-2026	experience	Toorizta · логистика Тортугеро	https://toorizta.com/es/como-llegar-a-tortuguero-no-hay-carretera-y-el-ultimo-bote-de-salida-parte-tempr	Нюансы пересадки, последний рейс и причалы отдельных лоджей
+cocles-nativos	operator	Nativos Surf School · Playa Cocles	https://www.nativos-surf-school.com/	Прямой контакт местной школы, детские и индивидуальные уроки
+cocles-ict	official	ICT · Пуэрто-Вьехо, Коклес и побережье	https://www.ict.go.cr/en/root-documentos-no-apagar/gidt/2314-programa-gesti%C3%B3n-integral-de-destinos-puerto-viejo/file.html	Местные сектора, характер берега и логистика
+oik-contact	operator	Oikoumene · карта и контакты	https://www.oikoumene.cr/contacto/	Официальный заезд, телефон, почта и карта
+oik-mtb	event	Asociación Nacional de Ciclismo de Montaña · Ochomogo	https://mtbcostarica.org/wp-content/uploads/2025/02/guia-tecnica-copa-nacional-mtb-2025-i-fecha-ochomogo-1.pdf	Схема MTB-события 2025 в Oikoumene и трассы соревнования
+escapadita-services	operator	Escapadita · домики, тропы и экскурсии	https://www.escapaditaalbosque.com/servicios/	Варианты ночёвки, семейные программы и поход к Las Nubes
+escapadita-campcr	directory	Camping.cr · Escapadita al Bosque	https://camping.cr/listing/escapadita-al-bosque/	Практические условия 4×4, кемпинг и трансфер из Higuito

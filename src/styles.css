@@ -172,6 +172,32 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .stages li { padding: 4px 0 9px; }
 .stages li p { margin-top: 3px; }
 .stage-links a { display: inline-flex; align-items: center; gap: 4px; font-size: .84rem; color: var(--forest); }
+.route-map { margin: 24px 0 28px; }
+.route-map h2 { font-size: clamp(1.85rem, 3vw, 2.75rem); margin-bottom: 13px; }
+.route-map-layout { display: grid; grid-template-columns: minmax(0, 2fr) minmax(235px, 1fr); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
+.route-map-canvas { width: 100%; height: 360px; isolation: isolate; background: #e4ece0; }
+.route-map-marker, .stop-number { display: grid; place-items: center; border-radius: 50%; background: var(--forest); color: white; font: 600 .79rem var(--body); }
+.route-map-marker { border: 2px solid white; box-shadow: 0 1px 4px #203a36a0; }
+.stop-number { width: 24px; height: 24px; flex-shrink: 0; }
+.route-map-stops { list-style: none; padding: 0 14px; margin: 0; max-height: 360px; overflow-y: auto; background: var(--white); }
+.route-map-stops li { padding: 11px 0; border-bottom: 1px solid var(--border); }
+.route-map-stops li:last-child { border-bottom: 0; }
+.route-map-stops button { display: flex; align-items: center; gap: 9px; text-align: left; padding: 4px; border: 0; background: transparent; border-radius: 5px; width: 100%; }
+.route-map-stops button[aria-pressed=true] { background: #e1ebde; }
+.route-map-stops button small { display: block; color: var(--muted); }
+.route-map-stops p, .route-map-stops a { margin-left: 37px; font-size: .83rem; }
+.route-map-stops a { color: var(--forest); }
+.route-map-links { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 8px; color: var(--muted); font-size: .83rem; }
+.route-map-links a { color: var(--forest); }
+.dossier-section { margin-top: 19px; padding-top: 12px; border-top: 1px solid var(--border); }
+.dossier-contacts { margin-bottom: 15px; padding: 16px; border: 1px solid var(--border); background: var(--white); border-radius: 12px; }
+.dossier-contacts h2 { font-size: clamp(1.33rem, 2.1vw, 1.85rem); }
+.dossier-contacts ul { margin: 8px 0 0; padding: 0; list-style: none; }
+.dossier-contacts li { padding: 8px 0; border-bottom: 1px solid var(--border); }
+.dossier-contacts li:last-child { border-bottom: 0; padding-bottom: 0; }
+.dossier-links { margin-top: 4px; display: flex; flex-wrap: wrap; gap: 3px 12px; font-size: .82rem; color: var(--forest); overflow-wrap: anywhere; }
+.dossier-links a { display: inline-flex; align-items: center; gap: 3px; }
+.dossier-links svg { flex-shrink: 0; }
 .departure { border-top: 2px solid #bf793e; margin: 28px 0 0; display: grid; grid-template-columns: 220px 1fr; gap: 20px; padding-top: 15px; }
 .departure h2 { color: var(--warm); font-size: 1.85rem; }
 
@@ -236,6 +262,9 @@ footer > div { display: flex; flex-wrap: wrap; gap: 14px; color: var(--muted); f
   .details-stats > div:nth-child(odd) { border-left: 0; padding-left: 0; }
   .details-stats > div { padding-right: 6px; }
   .detail-body { grid-template-columns: 1fr; gap: 19px; }
+  .route-map-layout { grid-template-columns: minmax(0, 1fr); }
+  .route-map-canvas { height: 285px; }
+  .route-map-stops { max-height: 290px; }
   .departure { grid-template-columns: 1fr; gap: 7px; }
   .map-panel { grid-template-columns: 1fr; }
   .map-legend { padding-top: 9px; }

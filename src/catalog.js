@@ -11,16 +11,18 @@ export const regions = {
 
 export const activities = {
   hiking: "Пешие тропы", summit: "Восхождения", trailrun: "Трейлраннинг",
-  mtb: "MTB", cycling: "Велопрогулки", camping: "Палаточный кемпинг",
+  mtb: "MTB", cycling: "Велопрогулки", "road-bike": "Шоссейный велосипед",
+  gravel: "Гравийный велосипед", ebike: "Электровелосипед", camping: "Палаточный кемпинг",
   rooftent: "Палатка на крыше", glamping: "Глэмпинг", offroad: "Оффроуд на 4×4",
   car: "Автомобильные поездки", canopy: "Канопи", surf: "Сёрфинг",
   school: "Школы сёрфинга", rafting: "Рафтинг", packraft: "Пакрафт", sup: "SUP",
-  kayak: "Каяк", boat: "Лодки", fishing: "Рыбалка", snorkel: "Снорклинг",
+  kayak: "Каяк", boat: "Лодки", "own-craft": "Со своей лодкой или SUP", catamaran: "Катамаран",
+  fishing: "Рыбалка", snorkel: "Снорклинг",
   swim: "Купание и бассейны", thermal: "Термальные воды", tubing: "Тюбинг",
   beach: "Пляжи", "white-sand": "Светлый песок", "dark-sand": "Тёмный песок",
   savanna: "Открытые склоны и сухолесье", volcano: "Вулканы", forest: "Леса",
   lake: "Озёра", river: "Реки", waterfall: "Водопады", views: "Смотровые точки",
-  coffee: "Кофе и фермы", relax: "Спокойный отдых", wildlife: "Дикая природа",
+  coffee: "Кофе и фермы", cafe: "Кафе", relax: "Спокойный отдых", wildlife: "Дикая природа",
   cave: "Пещеры", history: "Исторические места", multi: "Многодневные походы",
 };
 
@@ -61,6 +63,9 @@ export const durations = {
   five: "4–5 дней", seven: "6–7 дней", long: "8+ дней",
 };
 
+const distanceLimits = { short: [0, 10], ten: [10, 20], thirty: [20, 40], fifty: [40, 70], hundred: [70, 110], long: [110, Infinity] };
+const distances = { short: "До 10 км", ten: "10–19 км", thirty: "20–39 км", fifty: "40–69 км", hundred: "70–109 км", long: "110+ км" };
+
 export const sourceKinds = {
   official: "Официальный источник", operator: "Оператор или организатор",
   directory: "Туристический справочник", experience: "Опыт путешественника",
@@ -77,8 +82,10 @@ export const filters = [
 ];
 
 export const secondaryFilters = [
+  { key: "km", label: "Расстояние", options: distances },
   { key: "sleep", label: "Ночёвка", options: lodging },
   { key: "kind", label: "Вид записи", options: kinds },
+  { key: "detail", label: "Карта и детали", options: { map: "С точками на карте" } },
 ];
 
 export function durationBucket(days) {
@@ -104,6 +111,7 @@ export function searchText(record) {
     record.title, record.native, record.summary, regions[record.region],
     ...record.activities.map(activity => activities[activity]),
     ...record.sleep.map(value => lodging[value]),
+    ...(record.dossier?.stops || []).map(stop => stop.name),
   ].join(" "));
 }
 
@@ -117,6 +125,8 @@ export function visibleRecords(records, filters, scope, saves) {
   const level = filters.get("level");
   const sleep = filters.get("sleep");
   const kind = filters.get("kind");
+  const detailed = filters.get("detail") === "map";
+  const km = distanceLimits[filters.get("km")];
   return records.filter(record => {
     if (scope === "expeditions" && record.kind !== "trip") return false;
     if (scope === "saved" && !saves.has(record.id)) return false;
@@ -129,6 +139,8 @@ export function visibleRecords(records, filters, scope, saves) {
     if (level && record.level !== level) return false;
     if (sleep && !record.sleep.includes(sleep)) return false;
     if (kind && record.kind !== kind) return false;
+    if (detailed && !record.dossier?.stops.length) return false;
+    if (km && (record.distance === null || record.distance < km[0] || record.distance >= km[1])) return false;
     if (!tokens.length) return true;
     const searchable = searchText(record);
     return tokens.every(token => searchable.includes(token));

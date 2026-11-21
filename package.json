@@ -12,6 +12,7 @@
     "check": "python3 scripts/build_catalog.py && node scripts/check_catalog.mjs"
   },
   "dependencies": {
+    "leaflet": "1.9.4",
     "lucide-react": "^0.468.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
