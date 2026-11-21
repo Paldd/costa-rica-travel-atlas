@@ -248,6 +248,9 @@
       "tronadora-roof",
       "sj-orotina-gravel",
       "pinilla-emtb"
+    ],
+    "photos": [
+      "arenal-open-aerial"
     ]
   },
   "pinilla-emtb": {
@@ -489,6 +492,9 @@
     "photos": [
       "cachi-dam",
       "orosi-valley"
+    ],
+    "videos": [
+      "cachi-visit"
     ]
   }
 }

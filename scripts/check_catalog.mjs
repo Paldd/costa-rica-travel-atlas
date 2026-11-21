@@ -121,4 +121,9 @@ assert(find({ region: "central", activity: "ebike", duration: "seven", km: "long
 assert(find({ region: "south", activity: "rooftent", transport: "4x4", duration: "three" }, "expeditions").some(row => row.id === "osa-two-camps-roof-3"));
 const farm = records.find(row => row.id === "monteverde-finca-madre-tierra");
 assert(farm.posts?.some(post => post.url === "https://www.instagram.com/p/DfmxPxDFybR/"));
+assert(find({ activity: "utv", material: "gallery", detail: "map" }).some(row => row.id === "herradura-bijagual-buggy-4"));
+assert(find({ activity: "scenic-flight", material: "video" }).some(row => row.id === "cobano-autogyro-nicoya"));
+assert(find({ activity: "campfire", sleep: "roof" }).some(row => row.id === "la-central-rooftop-camp"));
+assert(find({ q: "Avellanas Soul", material: "report" }).some(row => row.reportSources.includes("avellanas-surf-community-recs")));
+assert(find({ q: "Ruta del Quetzal", activity: "offroad" }).some(row => row.dossier.connectStops === false));
 console.log(`Validated ${records.length} entries, ${Object.keys(atlas.sources).length} indexed sources and 200 profiles.`);

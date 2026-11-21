@@ -445,6 +445,14 @@
           "rualdo-family-camp",
           "rualdo-camping-cr"
         ]
+      },
+      {
+        "title": "Костровая зона",
+        "text": "Хозяева Alto del Rualdo публикуют места для костра. Запросите площадку для вашей машины с крышей, дрова и разрешение в день выезда после сверки ветра.",
+        "sources": [
+          "rualdo-family-camp",
+          "rualdo-camping-cr"
+        ]
       }
     ],
     "contacts": [
@@ -462,7 +470,11 @@
       "chayote-cloud-forest-hike",
       "quelites-chayote-cafe"
     ],
-    "track": "rualdo-family-camp"
+    "track": "rualdo-family-camp",
+    "galleries": [
+      "rualdo-family-camp",
+      "rualdo-camping-cr"
+    ]
   },
   "guanacaste-fondo-90": {
     "stops": [
@@ -536,7 +548,10 @@
       "guanacaste-fondo-140"
     ],
     "track": "gfg-90-gpx",
-    "line": "guanacaste-fondo-90"
+    "line": "guanacaste-fondo-90",
+    "videos": [
+      "gfg-2026-video"
+    ]
   },
   "gfaa-99-2027": {
     "stops": [
@@ -741,7 +756,10 @@
       "tamarindo-surf",
       "samara"
     ],
-    "track": "gobike-playa-sol"
+    "track": "gobike-playa-sol",
+    "photos": [
+      "santa-teresa-shore-archive"
+    ]
   },
   "nicoya-bikepack-6": {
     "stops": [

@@ -2584,7 +2584,8 @@
       "coffee",
       "rooftent",
       "camping",
-      "views"
+      "views",
+      "campfire"
     ],
     "audience": [
       "family-mid",
@@ -2823,7 +2824,8 @@
       "hiking",
       "volcano",
       "coffee",
-      "views"
+      "views",
+      "campfire"
     ],
     "audience": [
       "family-mid",
@@ -6200,6 +6202,144 @@
         "sources": [
           "mora-ermita-5-ticos",
           "mora-ermitas-organizer-interview"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adventure-park-campfire-weekend",
+    "kind": "trip",
+    "region": "central",
+    "title": "Барва · два дня с лесными тропами, MTB и лагерным костром",
+    "native": "Adventure Park Costa Rica · San José de la Montaña · camping de montaña",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "campfire",
+      "mtb",
+      "hiking",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "adventure-park-camping-fogatas",
+      "adventure-bike",
+      "coreco-barva-mtb-private",
+      "ict-barva-sector-rules"
+    ],
+    "summary": "Ночь в горном лагере и две дневные тропы. В частном Adventure Park организатор выделяет места под костёр и выдаёт дрова. Есть сеть MTB и пешеходные ветки.",
+    "plan": "Приезжайте днём к офису и уточняйте свободную поляну. Дальняя зона примерно в двух километрах. После ночи подберите тропу по уровню группы, часть сети подходит для MTB.",
+    "conditions": "Костры только в отмеченных местах частного парка. В охраняемом секторе вулкана Барва костры запрещены. Для въезда машины в лагерь оператор указывает 4×4, высокий 2WD иногда допускают к первой зоне в сухой сезон.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Подъём к лагерю",
+        "note": "Дневная прогулка по выбранной ветке, ночёвка и очаг по разрешению хозяев.",
+        "stops": [
+          "adventure-camp"
+        ],
+        "sources": [
+          "adventure-park-camping-fogatas"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лес, MTB или сектор Barva",
+        "note": "Один велосипедный круг или пеший день с учётом доступности троп.",
+        "stops": [
+          "adventure-mtb"
+        ],
+        "sources": [
+          "adventure-bike",
+          "ict-barva-sector-rules"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dota-providencia-doc-2",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Провиденсия · два дня на 4×4 с глэмпингом и лесным походом",
+    "native": "Ojo de Agua · Providencia de Dota · Tamí Lodge / Los Santos",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "offroad",
+      "car",
+      "glamping",
+      "hiking",
+      "forest",
+      "wildlife",
+      "coffee",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping"
+    ],
+    "sources": [
+      "ict-dota-providencia-4x4",
+      "tami-santos-tour-ict",
+      "tami-lodge-local-conditions",
+      "tami-lodge-qbl-field-report",
+      "osm-providencia-mountain-road"
+    ],
+    "summary": "Два дня в небольших деревнях верхнего Савегре. Первый день — спуск и ночёвка, второй — лес, кофе или водопад.",
+    "plan": "Днём спуститесь по дороге из Охо-де-Агуа. После заселения согласуйте пешую прогулку, утренний выход за птицами и обратный подъём.",
+    "conditions": "Дорогу, ночёвку и проводника подтверждают раздельно. Встретьте утро на тропе и выезжайте обратно засветло.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Подъезд к Савегре и ночёвка",
+        "note": "Горный спуск по согласованному пути, приём у хозяев и короткая прогулка.",
+        "stops": [
+          "dota-providencia-road-4x4",
+          "dota-tami-forest-glamping"
+        ],
+        "sources": [
+          "tami-lodge-local-conditions",
+          "osm-providencia-mountain-road"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лес, птицы или кофе",
+        "note": "Ранний выход по местной тропе, кофе и обратная дорога по утреннему прогнозу.",
+        "stops": [
+          "dota-tami-forest-glamping"
+        ],
+        "sources": [
+          "tami-santos-tour-ict",
+          "tami-lodge-qbl-field-report"
         ]
       }
     ]

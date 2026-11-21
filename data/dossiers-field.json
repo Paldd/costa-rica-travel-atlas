@@ -485,9 +485,14 @@
     ],
     "nearby": [
       "adventure-camp",
-      "braulio-barva"
+      "braulio-barva",
+      "adventure-park-campfire-weekend"
     ],
-    "track": "adventure-directions"
+    "track": "adventure-directions",
+    "galleries": [
+      "adventure-bike",
+      "coreco-barva-mtb-private"
+    ]
   },
   "adventure-camp": {
     "stops": [
@@ -514,6 +519,13 @@
           "adventure-directions",
           "adventure-local-trip"
         ]
+      },
+      {
+        "title": "Костёр и дрова",
+        "text": "Хозяева дают дрова для отмеченных очагов. Уточните открытие площадки и сухой подход. Поставьте машину и палатку на согласованной площадке.",
+        "sources": [
+          "adventure-park-camping-fogatas"
+        ]
       }
     ],
     "contacts": [
@@ -528,9 +540,15 @@
     "nearby": [
       "adventure-mtb",
       "braulio-barva",
-      "cerro-dantas-10"
+      "cerro-dantas-10",
+      "adventure-park-campfire-weekend",
+      "finca-colasa-view-campfire"
     ],
-    "track": "adventure-directions"
+    "track": "adventure-directions",
+    "galleries": [
+      "adventure-park-camping-fogatas",
+      "adventure-local-trip"
+    ]
   },
   "prusia": {
     "stops": [
@@ -637,7 +655,10 @@
       "retos-irazu",
       "ira-tur-ebike-aquiares"
     ],
-    "track": "irazu-map"
+    "track": "irazu-map",
+    "photos": [
+      "irazu-crater-bianco"
+    ]
   },
   "tapanti": {
     "stops": [
@@ -1816,7 +1837,10 @@
       "arenal-peninsula",
       "arenal-autocamp-3"
     ],
-    "track": "arenal-eco-trails-map"
+    "track": "arenal-eco-trails-map",
+    "photos": [
+      "arenal-open-aerial"
+    ]
   },
   "arenal-coladas": {
     "stops": [
@@ -1869,7 +1893,10 @@
       "arenal-eco-camp"
     ],
     "track": "arenal-sinac-map",
-    "line": "arenal-coladas"
+    "line": "arenal-coladas",
+    "photos": [
+      "arenal-open-aerial"
+    ]
   },
   "arenal-peninsula": {
     "stops": [
@@ -1916,7 +1943,10 @@
       "arenal-paddle",
       "tronadora-weekend-roof"
     ],
-    "track": "arenal-sinac-map"
+    "track": "arenal-sinac-map",
+    "photos": [
+      "arenal-open-aerial"
+    ]
   },
   "arenal-observatory": {
     "stops": [
@@ -1969,7 +1999,10 @@
       "arenal-peninsula",
       "arenal-eco-camp"
     ],
-    "track": "arenal-observatory-map"
+    "track": "arenal-observatory-map",
+    "photos": [
+      "arenal-open-aerial"
+    ]
   },
   "tenorio-celeste": {
     "stops": [
@@ -2162,8 +2195,13 @@
       "arenal-eco-camp",
       "arenal-east-association-sup",
       "nuevo-arenal-parque-lago-own",
-      "arenal-local-roof-paddle-2"
+      "arenal-local-roof-paddle-2",
+      "el-castillo-fogata-camp",
+      "arenal-outback-utv-monterrey"
     ],
-    "track": "tico-arenal"
+    "track": "tico-arenal",
+    "photos": [
+      "arenal-open-aerial"
+    ]
   }
 }

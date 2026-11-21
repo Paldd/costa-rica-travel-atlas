@@ -176,9 +176,13 @@
     "nearby": [
       "corcovado-sirena",
       "osa-expedition-6",
-      "sierpe-boat"
+      "sierpe-boat",
+      "drake-cano-guided-scuba"
     ],
-    "track": "cano-sinac-visit"
+    "track": "cano-sinac-visit",
+    "galleries": [
+      "drake-divers-certified-cano"
+    ]
   },
   "piedras-blancas": {
     "stops": [
@@ -1041,14 +1045,34 @@
           "red-cross",
           "ict-caribe"
         ]
+      },
+      {
+        "title": "Что пишут о прогулке",
+        "text": "В обсуждении r/CostaRicaTravel выделяют берег возле Banana Azul и отмечают более узкий участок песка дальше. Пройдите короткий отрезок с выходом обратно на улицу. Дрон-видео Джареда Диллингема показывает цвет песка и открытый берег в декабре 2022 года.",
+        "sources": [
+          "negra-puerto-viejo-shore-discussion",
+          "negra-puerto-viejo-dillingham-video"
+        ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "ATEC · офис в Пуэрто-Вьехо",
+        "source": "atec-puerto-viejo-contact",
+        "phone": "+506 2750 0398",
+        "email": "ongatec@gmail.com",
+        "url": "https://wa.me/50687064758",
+        "note": "Местное бюро подскажет варианты прогулок и контакты проводников."
+      }
+    ],
     "nearby": [
       "cocles",
       "punta-uva"
     ],
-    "track": "negra-puerto-local"
+    "track": "negra-puerto-local",
+    "videos": [
+      "negra-puerto-viejo-dillingham-video"
+    ]
   },
   "punta-uva": {
     "photos": [
@@ -1441,11 +1465,14 @@
     "nearby": [
       "pinilla-emtb",
       "nicoya-5",
-      "tamarindo-surf"
+      "tamarindo-surf",
+      "avellanas-soul-julio-lessons",
+      "avellanas-mauricio-lolas-surf"
     ],
     "track": "nieves-surf-camp-map",
     "photos": [
-      "avellanas"
+      "avellanas",
+      "avellanas-shore-archive"
     ],
     "videos": [
       "nieves-avellanas-overlanding-video"
@@ -1682,11 +1709,12 @@
     "sections": [
       {
         "title": "Семейный день в бухте",
-        "text": "Каррильо удобно рассматривать как береговую прогулку и остановку на пикник. До воды и обратно планируйте короткий участок, особенно с малышами. Состояние моря и обратные течения меняются, поэтому место купания уточняйте на берегу.",
+        "text": "Каррильо удобно рассматривать как береговую прогулку и остановку на пикник. До воды и обратно планируйте короткий участок, особенно с малышами. Состояние моря и обратные течения меняются, поэтому место купания уточняйте на берегу. Муниципалитет указывает дорогу вдоль пляжа, парковку и столы для пикника.",
         "sources": [
           "ict-nicoya",
           "ict-beach",
-          "red-cross"
+          "red-cross",
+          "carrillo-hojancha-beach"
         ]
       },
       {
@@ -1699,7 +1727,16 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Муниципалитет Оханчи",
+        "source": "carrillo-hojancha-beach",
+        "phone": "+506 2659 9116",
+        "email": "info@munihojancha.go.cr",
+        "url": "https://munihojancha.go.cr/seccion/contactenos",
+        "note": "Муниципальная справочная для вопросов о береговой инфраструктуре и парковке."
+      }
+    ],
     "nearby": [
       "samara",
       "pato-samara-school",
@@ -1708,6 +1745,12 @@
     "track": "ict-nicoya",
     "photos": [
       "carrillo"
+    ],
+    "videos": [
+      "carrillo-hojancha-video"
+    ],
+    "galleries": [
+      "carrillo-hojancha-beach"
     ]
   },
   "santateresa": {
@@ -1757,7 +1800,10 @@
       "montezuma",
       "nicoya-5"
     ],
-    "track": "paquera-ferry-live"
+    "track": "paquera-ferry-live",
+    "photos": [
+      "santa-teresa-shore-archive"
+    ]
   },
   "montezuma": {
     "stops": [
@@ -1775,11 +1821,12 @@
     "sections": [
       {
         "title": "Нижняя тропа и верхние мостики",
-        "text": "К нижнему каскаду обычно идут от моста вдоль реки. Грунт и камни скользкие, особенно после дождя. Верхние смотровые имеют отдельный подход через Sun Trails; актуальный режим, билет и пин выясняйте у оператора. Выбирайте один вариант по силам группы.",
+        "text": "К нижнему каскаду обычно идут от моста вдоль реки. Грунт и камни скользкие, особенно после дождя. Верхние смотровые имеют отдельный подход через Sun Trails; актуальный режим, билет и пин выясняйте у оператора. Выбирайте один вариант по силам группы. На сайте Sun Trails для оборудованного сектора указан режим 8:30–17:30 и два формата, вход с самостоятельной прогулкой и выезд с транспортом и проводником.",
         "sources": [
           "montezuma-local-trails",
           "montezuma-october-2026",
-          "ict-puntarenas"
+          "ict-puntarenas",
+          "montezuma-suntrails-bridges"
         ]
       },
       {
@@ -1792,7 +1839,24 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Sun Trails · мостики и каскады",
+        "source": "montezuma-suntrails-contact",
+        "phone": "+506 2224 7070",
+        "email": "customer.service@suntrails.com",
+        "url": "https://wa.me/50684678989",
+        "note": "Часы и режим входа, состояние оборудованной тропы, транспорт и опция с проводником."
+      },
+      {
+        "name": "Zuma Tours · лодки из Монтесумы",
+        "source": "zuma-tours-ict-contact",
+        "phone": "+506 2642 0050",
+        "email": "info@zumatours.com",
+        "url": "https://www.zumatours.net/",
+        "note": "Отдельный день на воде, например поездка к острову Тортуга. Уточните место посадки и условия моря."
+      }
+    ],
     "nearby": [
       "cabo-blanco-sueco",
       "santateresa",
@@ -2024,7 +2088,8 @@
       "amistad-bridge",
       "carrillo",
       "montezuma-shore",
-      "ferry"
+      "ferry",
+      "avellanas-shore-archive"
     ],
     "videos": [
       "nieves-avellanas-overlanding-video",
@@ -2335,9 +2400,13 @@
     "nearby": [
       "jaco-surf",
       "vista-suenos",
-      "manuel-antonio"
+      "manuel-antonio",
+      "tarcoles-mangrove-local-boats"
     ],
-    "track": "carara-map"
+    "track": "carara-map",
+    "galleries": [
+      "tarcoles-boat-directory-report"
+    ]
   },
   "vista-suenos": {
     "stops": [
@@ -2378,7 +2447,10 @@
       "carara",
       "jaco-surf",
       "maverick",
-      "herradura-tortuga-costa-cat"
+      "herradura-tortuga-costa-cat",
+      "herradura-vista-buggy-waterfalls",
+      "herradura-bijagual-buggy-4",
+      "herradura-vista-canyoning"
     ],
     "track": "herradura-adventure-faq"
   },

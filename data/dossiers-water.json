@@ -472,6 +472,9 @@
       "arenal-east-association-sup",
       "nuevo-arenal-parque-lago-own",
       "arenal-local-roof-paddle-2"
+    ],
+    "photos": [
+      "arenal-open-aerial"
     ]
   },
   "arenal-pack": {
@@ -568,6 +571,12 @@
       "tronadora-roof",
       "arenal-paddle",
       "sierpe-fishing"
+    ],
+    "photos": [
+      "arenal-open-aerial"
+    ],
+    "videos": [
+      "arenal-young-fish"
     ]
   },
   "laguna-hule-trail": {
@@ -976,7 +985,11 @@
       "herradura-tortuga-costa-cat",
       "puntarenas-tortuga-bay-island",
       "biesanz-kayak",
-      "biesanz-beach"
+      "biesanz-beach",
+      "quepos-magic-king-private-catamaran"
+    ],
+    "galleries": [
+      "magic-king-quepos-private-45"
     ]
   },
   "tamarindo-catamaran": {
@@ -1020,6 +1033,9 @@
       "quepos-catamaran",
       "coco-marlin-catamaran",
       "flamingo-marina-catamarans"
+    ],
+    "photos": [
+      "tamarindo-aerial-archive"
     ]
   },
   "tamarindo-surf": {
@@ -1063,6 +1079,9 @@
     "nearby": [
       "tamarindo-catamaran",
       "pato-samara-school"
+    ],
+    "photos": [
+      "tamarindo-aerial-archive"
     ]
   },
   "la-roca-pejibaye": {

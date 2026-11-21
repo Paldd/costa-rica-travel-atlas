@@ -13,11 +13,14 @@ export const activities = {
   hiking: "Пешие тропы", summit: "Восхождения", trailrun: "Трейлраннинг",
   mtb: "MTB", cycling: "Велопрогулки", "road-bike": "Шоссейный велосипед",
   gravel: "Гравийный велосипед", ebike: "Электровелосипед", camping: "Палаточный кемпинг",
-  rooftent: "Палатка на крыше", glamping: "Глэмпинг", offroad: "Оффроуд на 4×4",
-  car: "Автомобильные поездки", canopy: "Канопи", surf: "Сёрфинг",
+  rooftent: "Палатка на крыше", campfire: "Кемпинг с костровой зоной",
+  glamping: "Глэмпинг", offroad: "Оффроуд на 4×4",
+  utv: "Багги и UTV", atv: "Квадроциклы ATV", "scenic-flight": "Обзорные полёты",
+  car: "Автомобильные поездки", canopy: "Канопи", canyoning: "Каньонинг",
+  horseback: "Конные прогулки", surf: "Сёрфинг",
   school: "Школы сёрфинга", rafting: "Рафтинг", packraft: "Пакрафт", sup: "SUP",
   kayak: "Каяк", boat: "Лодки", "own-craft": "Со своей лодкой или SUP", catamaran: "Катамаран",
-  fishing: "Рыбалка", snorkel: "Снорклинг",
+  fishing: "Рыбалка", snorkel: "Снорклинг", scuba: "Дайвинг",
   swim: "Купание и бассейны", thermal: "Термальные воды", tubing: "Тюбинг",
   beach: "Пляжи", "white-sand": "Светлый песок", "dark-sand": "Тёмный песок",
   savanna: "Открытые склоны и сухолесье", volcano: "Вулканы", forest: "Леса",
@@ -69,7 +72,7 @@ const distances = { short: "До 10 км", ten: "10–19 км", thirty: "20–39
 export const sourceKinds = {
   official: "Официальный источник", operator: "Оператор или организатор",
   directory: "Туристический справочник", experience: "Опыт путешественника",
-  event: "Организатор события",
+  event: "Организатор события", map: "Карта", video: "Видео",
 };
 
 export const filters = [
@@ -86,6 +89,7 @@ export const secondaryFilters = [
   { key: "sleep", label: "Ночёвка", options: lodging },
   { key: "kind", label: "Вид записи", options: kinds },
   { key: "detail", label: "Карта и детали", options: { map: "С точками на карте" } },
+  { key: "material", label: "Материалы", options: { photo: "Фото в карточке", gallery: "Фотогалереи", video: "Видео", report: "Отзывы и отчёты" } },
 ];
 
 export function durationBucket(days) {
@@ -115,6 +119,17 @@ export function searchText(record) {
   ].join(" "));
 }
 
+function hasMaterial(record, material) {
+  const dossier = record.dossier;
+  switch (material) {
+    case "photo": return Boolean(dossier?.photos?.length);
+    case "gallery": return Boolean(dossier?.galleries?.length);
+    case "video": return Boolean(dossier?.videos?.length);
+    case "report": return Boolean(record.reportSources?.length || record.posts?.length);
+    default: return true;
+  }
+}
+
 export function visibleRecords(records, filters, scope, saves) {
   const tokens = fold(filters.get("q") || "").trim().split(/\s+/).filter(Boolean);
   const region = filters.get("region");
@@ -126,6 +141,7 @@ export function visibleRecords(records, filters, scope, saves) {
   const sleep = filters.get("sleep");
   const kind = filters.get("kind");
   const detailed = filters.get("detail") === "map";
+  const material = filters.get("material");
   const km = distanceLimits[filters.get("km")];
   return records.filter(record => {
     if (scope === "expeditions" && record.kind !== "trip") return false;
@@ -140,6 +156,7 @@ export function visibleRecords(records, filters, scope, saves) {
     if (sleep && !record.sleep.includes(sleep)) return false;
     if (kind && record.kind !== kind) return false;
     if (detailed && !record.dossier?.stops.length) return false;
+    if (!hasMaterial(record, material)) return false;
     if (km && (record.distance === null || record.distance < km[0] || record.distance >= km[1])) return false;
     if (!tokens.length) return true;
     const searchable = searchText(record);

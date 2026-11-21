@@ -4,7 +4,7 @@ import "leaflet/dist/leaflet.css";
 
 const mapUrl = ([lat, lon]) => `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
 
-export default function RouteMap({ stops, track, line, lines, sources }) {
+export default function RouteMap({ stops, track, line, lines, sources, connectStops = true }) {
   const container = useRef(null);
   const markers = useRef([]);
   const mapView = useRef(null);
@@ -41,7 +41,7 @@ export default function RouteMap({ stops, track, line, lines, sources }) {
       mapView.current = { map, paths, bounds };
       map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });
     } else if (positions.length > 1) {
-      L.polyline(positions, { color: "#874916", weight: 3, dashArray: "6 8", interactive: false }).addTo(map);
+      if (connectStops) L.polyline(positions, { color: "#874916", weight: 3, dashArray: "6 8", interactive: false }).addTo(map);
       map.fitBounds(positions, { padding: [30, 30], maxZoom: 14 });
     } else {
       map.setView(positions[0], 15);
@@ -74,7 +74,7 @@ export default function RouteMap({ stops, track, line, lines, sources }) {
       mapView.current = null;
       map.remove();
     };
-  }, [stops, line, stages]);
+  }, [stops, line, stages, connectStops]);
 
   function focusStage(id) {
     setStageId(id);
@@ -98,7 +98,7 @@ export default function RouteMap({ stops, track, line, lines, sources }) {
   }
 
   return <section className="route-map" aria-label="Карта маршрута">
-    <h2>{stops.length > 1 ? "Карта маршрута" : "Точка на карте"}</h2>
+    <h2>{stops.length === 1 ? "Точка на карте" : line || connectStops ? "Карта маршрута" : "Ориентиры на карте"}</h2>
     {stages.length > 0 && <div className="route-map-stage">
       <label>Участок на карте
         <select value={stageId} onChange={event => focusStage(event.target.value)}>
@@ -128,7 +128,7 @@ export default function RouteMap({ stops, track, line, lines, sources }) {
       {line ? <span>{activeStage?.note || line.note} <a href={lineSource.url} target="_blank" rel="noopener noreferrer">
         {line.source === "osm-cr-points" ? "Данные маршрута © OpenStreetMap" : lineSource.title} ↗
       </a></span>
-        : stops.length > 1 && <span>Пунктир показывает порядок остановок.{track && " Для навигации откройте карту или трек по ссылке."}</span>}
+        : stops.length > 1 && connectStops && <span>Пунктир показывает порядок остановок.{track && " Для навигации откройте карту или трек по ссылке."}</span>}
       {track && track.url !== lineSource?.url && <a href={track.url} target="_blank" rel="noopener noreferrer">{track.title} ↗</a>}
     </div>
   </section>;

@@ -881,7 +881,10 @@
       "arenal-peninsula",
       "family-arenal-5"
     ],
-    "track": "sky-arenal-tickets"
+    "track": "sky-arenal-tickets",
+    "photos": [
+      "arenal-open-aerial"
+    ]
   },
   "fortuna-falls": {
     "stops": [
@@ -1516,7 +1519,8 @@
     "nearby": [
       "ponderosa",
       "ocotal",
-      "flamingo"
+      "flamingo",
+      "diamante-guanacaste-atv"
     ],
     "track": "diamante-office"
   },
@@ -1784,7 +1788,10 @@
       "conchal",
       "flamingo"
     ],
-    "track": "las-baulas-sinac"
+    "track": "las-baulas-sinac",
+    "photos": [
+      "tamarindo-aerial-archive"
+    ]
   },
   "tempisque-ortega-boat": {
     "stops": [

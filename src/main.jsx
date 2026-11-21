@@ -138,7 +138,7 @@ function SearchFilters({ query, setQuery, active }) {
     </div>
     <div className="filter-subrow">
       <details className="extra-filters" open={secondaryFilters.some(filter => query.has(filter.key)) ? true : undefined}>
-        <summary>Расстояние, ночёвка и карта <ChevronDown size={14} aria-hidden="true" /></summary>
+        <summary>Расстояние, ночёвка, карта и материалы <ChevronDown size={14} aria-hidden="true" /></summary>
         <div>
           {secondaryFilters.map(filter => <SelectFilter key={filter.key} filter={filter} query={query} change={change} />)}
         </div>
@@ -230,6 +230,24 @@ function DossierMedia({ dossier, sources }) {
   </section>;
 }
 
+function RouteReports({ row, sources }) {
+  const reports = (row.reportSources || []).map(id => sources[id]);
+  const posts = row.posts || [];
+  if (!reports.length && !posts.length) return null;
+  return <section className="dossier-section">
+    <h3>Отзывы, отчёты и упоминания</h3>
+    <ul className="dossier-videos">
+      {reports.map(source => <li key={source.id}>
+        <External href={source.url}>{source.title}</External><p>{source.scope}</p>
+      </li>)}
+      {posts.map(post => <li key={post.url}>
+        <External href={post.url}>{post.profile} · Instagram</External>
+        <p>Публикация с упоминанием места</p>
+      </li>)}
+    </ul>
+  </section>;
+}
+
 function Detail({ row, atlas, route, saved, toggle }) {
   const query = new URLSearchParams(route.filters);
   const from = query.get("from");
@@ -264,7 +282,8 @@ function Detail({ row, atlas, route, saved, toggle }) {
       </div>)}
     </dl>
     {Boolean(dossier?.stops.length) && <Suspense fallback={<p role="status">Загружаем карту…</p>}>
-      <RouteMap key={row.id} stops={dossier.stops} track={atlas.sources[dossier.track]} line={line} lines={atlas.lines} sources={atlas.sources} />
+      <RouteMap key={row.id} stops={dossier.stops} track={atlas.sources[dossier.track]} line={line}
+        lines={atlas.lines} sources={atlas.sources} connectStops={dossier.connectStops} />
     </Suspense>}
     <div className="detail-body">
       <section>
@@ -289,6 +308,7 @@ function Detail({ row, atlas, route, saved, toggle }) {
           <div className="dossier-links">{section.sources.map(id => <External href={atlas.sources[id].url} key={id}>{atlas.sources[id].title}</External>)}</div>
         </section>)}
         <DossierMedia dossier={dossier} sources={atlas.sources} />
+        <RouteReports row={row} sources={atlas.sources} />
         {Boolean(dossier?.nearby?.length) && <section className="dossier-section">
           <h3>Что добавить к поездке</h3>
           <ul>{dossier.nearby.map(id => <li key={id}><a href={urlFor("place", route.filters, id)}>{byId.get(id).title}</a></li>)}</ul>
@@ -303,10 +323,6 @@ function Detail({ row, atlas, route, saved, toggle }) {
             {row.sources.map(id => atlas.sources[id]).map(source => <li key={source.id}>
               <External href={source.url}>{source.title}</External>
               <p>{sourceKinds[source.kind]} · {source.scope}</p>
-            </li>)}
-            {row.posts?.map(post => <li key={post.url}>
-              <External href={post.url}>{post.profile} · Instagram</External>
-              <p>Публикация с упоминанием места</p>
             </li>)}
           </ul>
           <External className="map-link" href={mapsLink(row)}><MapPin size={19} aria-hidden="true" /> Открыть карту и отзывы</External>
@@ -331,6 +347,7 @@ function SourcesPage({ atlas }) {
   const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length).length;
   const withVideos = atlas.records.filter(row => row.dossier?.videos?.length).length;
   const withGalleries = atlas.records.filter(row => row.dossier?.galleries?.length).length;
+  const withReports = atlas.records.filter(row => row.reportSources?.length || row.posts?.length).length;
   const guideLanguages = { es: "На испанском", en: "На английском", "es-en": "На испанском и английском" };
   return <section className="sources-page">
     <h1>Источники</h1>
@@ -397,9 +414,10 @@ function SourcesPage({ atlas }) {
         <External href={source.url}>{source.title}</External><p>{source.scope}</p>
       </div>)}</div>
     </details>
-    <details className="evidence-list"><summary>Фотографии и карта <ChevronDown size={18} /></summary>
+    <details className="evidence-list"><summary>Фото, видео и отзывы <ChevronDown size={18} /></summary>
       <p>Фотографии с указанием автора есть в {withPhotos} из {atlas.records.length} карточек, ссылки на видео — в {withVideos}.</p>
       {withGalleries > 0 && <p>Ссылки на фотографии авторов и операторов есть в {withGalleries} карточках.</p>}
+      {withReports > 0 && <p>Отзывы, отчёты или прямые упоминания собраны в {withReports} карточках.</p>}
       <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/MEDIA.md">Авторы, лицензии и иллюстрации</External></p>
     </details>
   </section>;

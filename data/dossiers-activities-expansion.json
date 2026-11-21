@@ -1,0 +1,1568 @@
+{
+  "herradura-vista-buggy-waterfalls": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Herradura · офис Vista Los Sueños",
+        "note": "Осмотр, проверка документов, инструктаж и пробный круг на частной площадке."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vista Los Sueños · багги в Herradura",
+        "source": "vls-herradura-buggy-2h",
+        "url": "https://vistalossuenosadventurepark.com/adventure-tours/2-hour-jungle-waterfall-buggy-tour-near-jaco/",
+        "note": "Уточните возраст ребёнка, точные условия карты и последовательность остановок. У парка есть варианты на 2–6 часов.",
+        "phone": "+506 2637 6020",
+        "email": "reservas@vlscr.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Техника и время",
+        "text": "Два часа включают учебный круг, лесную дорогу и остановку в частном секторе. Прайс указывается за машину с оговорённым числом пассажиров. Попросите расчёт на всю семью и условия удержания по карте.",
+        "sources": [
+          "vls-herradura-buggy-2h",
+          "vls-bookings-buggy-options"
+        ]
+      },
+      {
+        "title": "Подготовка",
+        "text": "Удобная закрытая обувь, лёгкая смена одежды, защитные очки, вода и документы водителя. До выезда спросите про страховку, депозит и оговорки после сильного дождя. Уточните, входят ли каска и защита глаз. Поездка идёт по согласованным дорогам, посадка на пляже для прогулок — пешком.",
+        "sources": [
+          "vls-herradura-buggy-2h",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      }
+    ],
+    "galleries": [
+      "vls-herradura-buggy-2h",
+      "vls-bookings-buggy-options"
+    ],
+    "nearby": [
+      "vista-suenos",
+      "herradura-bijagual-buggy-4",
+      "jaco-utv-rey-100"
+    ]
+  },
+  "herradura-bijagual-buggy-4": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Herradura · офис Vista Los Sueños",
+        "note": "Осмотр, проверка документов, инструктаж и пробный круг на частной площадке."
+      },
+      {
+        "point": "wave3-bijagual-entry",
+        "role": "Район Catarata Bijagual",
+        "note": "Ориентир въезда к водопаду. Какая точка высадки входит в тур, определяет проводник."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vista Los Sueños · багги в Herradura",
+        "source": "vls-herradura-buggy-2h",
+        "url": "https://vistalossuenosadventurepark.com/adventure-tours/2-hour-jungle-waterfall-buggy-tour-near-jaco/",
+        "note": "Уточните возраст ребёнка, точные условия карты и последовательность остановок. У парка есть варианты на 2–6 часов.",
+        "phone": "+506 2637 6020",
+        "email": "reservas@vlscr.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Соедините водопад и склон",
+        "text": "В карточке есть точка базы и ориентир водопада, который называет оператор. Пеший подход по мокрому грунту уточняйте на инструктаже после дождя.",
+        "sources": [
+          "vls-bookings-buggy-options",
+          "bijagual-park-owner"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Удобная закрытая обувь, лёгкая смена одежды, защитные очки, вода и документы водителя. До выезда спросите про страховку, депозит и оговорки после сильного дождя. Для прогулки к водопаду добавьте полотенце и гермочехол.",
+        "sources": [
+          "vls-herradura-buggy-2h",
+          "vls-bookings-buggy-options"
+        ]
+      }
+    ],
+    "galleries": [
+      "vls-bijagual-jungle-buggy-4h",
+      "bijagual-park-owner"
+    ],
+    "nearby": [
+      "bijagual-rooftent-visit",
+      "herradura-vista-buggy-waterfalls",
+      "jaco-utv-rey-100"
+    ]
+  },
+  "jaco-utv-rey-100": {
+    "stops": [
+      {
+        "point": "jaco-beach-center",
+        "role": "Плайя-Хако · ориентир города",
+        "note": "Организатор El Rey указывает офис на Calle Samudio в Barrio Copey. Подвоз согласуется отдельно."
+      },
+      {
+        "point": "jaco-utv-mata-de-platano",
+        "role": "Мата-де-Платано · деревня по программе",
+        "note": "Район обеда и выхода из долины. Подтвердите фактические остановки у проводника."
+      },
+      {
+        "point": "jaco-utv-bijagual-village",
+        "role": "Бихагуаль · район возврата",
+        "note": "Географический ориентир, если этот отрезок открыт для группы."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Tours Costa Rica · El Tour del Rey",
+        "source": "jaco-utv-rey-100-operator",
+        "url": "https://www.adventuretourscostarica.com/es/tours/utv-full-day-tour",
+        "note": "Просите актуальную нитку маршрута, время выезда и письменные условия залога.",
+        "phone": "+506 2643 5720"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбирают петлю",
+        "text": "Сильный дождь, подготовка водителя и состояние дорог меняют набор остановок. Утром запрашивайте карту у гида, особенно для дальнего сельского участка и возвращения после обеда.",
+        "sources": [
+          "jaco-utv-rey-100-operator",
+          "jaco-buggy-comparison-2026"
+        ]
+      },
+      {
+        "title": "Отклики и вещи",
+        "text": "В отзывах, опубликованных оператором, гости чаще всего отмечают работу гида на рельефе, водопад и домашний обед. Удобная закрытая обувь, лёгкая смена одежды, защитные очки, вода и документы водителя. До выезда спросите про страховку, депозит и оговорки после сильного дождя.",
+        "sources": [
+          "jaco-utv-rey-100-operator",
+          "jaco-buggy-adventure-localview"
+        ]
+      }
+    ],
+    "galleries": [
+      "jaco-utv-rey-100-operator",
+      "jaco-buggy-adventure-localview"
+    ],
+    "nearby": [
+      "herradura-bijagual-buggy-4",
+      "herradura-vista-buggy-waterfalls",
+      "jaco-surf"
+    ],
+    "videos": [
+      "axr-jaco-utv-video"
+    ]
+  },
+  "arenal-outback-utv-monterrey": {
+    "stops": [
+      {
+        "point": "outback-arenal-atv-base",
+        "role": "База Outback · старт колёсного тура",
+        "note": "У Outback отдельный пин для запуска гидроциклов. Сверьте вход именно для UTV."
+      },
+      {
+        "point": "arenal-monterrey-locality",
+        "role": "Монтеррей · район холмов",
+        "note": "Ориентир района, подход к частной смотровой показывает команда."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Outback Quads · La Fortuna",
+        "source": "outback-fortuna-base",
+        "url": "https://wa.me/50670370130",
+        "note": "Место встречи ATV и UTV, условия детского удерживания, конкретная модель и маршрут по погоде.",
+        "phone": "+506 7037 0130",
+        "email": "reservations@outbackquads.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут и возраст",
+        "text": "Конкретный маршрут и число остановок определяет гид. Для ребёнка заранее подтвердите модель, место посадки и фиксирование ремня на теле. Вариант частной группы на сайте идёт как отдельная доплата.",
+        "sources": [
+          "outback-utv-fortuna",
+          "outback-fortuna-base"
+        ]
+      },
+      {
+        "title": "Трансфер и экипировка",
+        "text": "Удобная закрытая обувь, лёгкая смена одежды, защитные очки, вода и документы водителя. До выезда спросите про страховку, депозит и оговорки после сильного дождя. Компания публикует забор из ближней гостиничной зоны Ла-Фортуны и возможную доплату за удалённые адреса.",
+        "sources": [
+          "outback-utv-fortuna",
+          "vivo-outback-side-by-side"
+        ]
+      }
+    ],
+    "galleries": [
+      "outback-utv-fortuna",
+      "outback-fortuna-base",
+      "vivo-outback-side-by-side"
+    ],
+    "nearby": [
+      "arenal-la-pradera-atv",
+      "el-castillo-fogata-camp",
+      "arenal-autocamp-3"
+    ],
+    "photos": [
+      "arenal-open-aerial"
+    ]
+  },
+  "arenal-la-pradera-atv": {
+    "stops": [
+      {
+        "point": "fortuna-park",
+        "role": "Ла-Фортуна · городской ориентир",
+        "note": "Точный пин регистрации и трансфер подтвердите у ATV La Pradera."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ATV La Pradera",
+        "source": "la-pradera-atv-arenal",
+        "url": "https://www.atvlapradera.com/es/tours/",
+        "note": "Время старта, минимальный возраст, водительское удостоверение и покрытие страховки.",
+        "phone": "+506 2479 9844",
+        "email": "info@atvlapradera.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кому какую машину",
+        "text": "На двойном квадроцикле пассажир сидит за водителем. В Mula сиденья рядом. Запросите действующие условия по возрасту, весу, проверке прав и возврату залога.",
+        "sources": [
+          "la-pradera-atv-arenal"
+        ]
+      },
+      {
+        "title": "Перед выездом",
+        "text": "Удобная закрытая обувь, лёгкая смена одежды, защитные очки, вода и документы водителя. До выезда спросите про страховку, депозит и оговорки после сильного дождя. В заявке спрашивайте, какой отрезок проходит по финке и какие условия отмены при грозе.",
+        "sources": [
+          "la-pradera-atv-arenal"
+        ]
+      }
+    ],
+    "galleries": [
+      "la-pradera-atv-arenal"
+    ],
+    "nearby": [
+      "arenal-outback-utv-monterrey"
+    ],
+    "photos": [
+      "arenal-open-aerial"
+    ],
+    "videos": [
+      "atv-la-pradera-video"
+    ]
+  },
+  "diamante-guanacaste-atv": {
+    "stops": [
+      {
+        "point": "diamante-park-area",
+        "role": "Diamante · частный парк",
+        "note": "Проверьте, где регистрация ATV и может ли пассажир присоединиться в вашей возрастной категории."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Diamante Eco Adventure Park",
+        "source": "diamante-atv-private-trails",
+        "url": "https://diamanteecoadventurepark.com/es/aventuras/atv-tour/",
+        "note": "Бронь тура и размер экипировки. Уточните вариант с ребёнком и трансфер.",
+        "phone": "+506 2105 5200"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где проходит",
+        "text": "Подъёмы и обзор океана находятся внутри частной территории. Отдельно можно запланировать пешеходный осмотр парка или канопи.",
+        "sources": [
+          "diamante-atv-private-trails",
+          "diamante"
+        ]
+      },
+      {
+        "title": "Маршрут с ребёнком",
+        "text": "Удобная закрытая обувь, лёгкая смена одежды, защитные очки, вода и документы водителя. До выезда спросите про страховку, депозит и оговорки после сильного дождя. Для двойного квадроцикла уточните возраст и возможность уверенно держаться пассажиру.",
+        "sources": [
+          "diamante-atv-private-trails",
+          "diamante-atv-jade-route"
+        ]
+      }
+    ],
+    "galleries": [
+      "diamante-atv-private-trails",
+      "diamante-atv-jade-route"
+    ],
+    "nearby": [
+      "diamante"
+    ]
+  },
+  "pavas-cessna-volcano-panoramic": {
+    "stops": [
+      {
+        "point": "pavas-mrpv-reference",
+        "role": "Аэродром Павас",
+        "note": "Маркер обозначает аэропорт. Точный вход, улицу и номер ангара сообщает организатор."
+      },
+      {
+        "point": "poas-main-view",
+        "role": "Поас · ориентир кратера",
+        "note": "Сухопутная точка показывает район кратера, который можно увидеть при открытом небе."
+      },
+      {
+        "point": "irazu-craters-parking",
+        "role": "Ирасу · район кратеров",
+        "note": "Географический ориентир. Окончательную нитку определяет пилот."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Greenway Nature Tours · организатор",
+        "source": "ict-greenway-operator",
+        "url": "https://greenwaytours.com/tour-item/flight-over-volcanoes/",
+        "note": "Запросите название фактического перевозчика, цену на всю группу, борт, детский допуск и порядок переноса.",
+        "phone": "+506 2297 0889",
+        "email": "info@greenwaytours.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Варианты у кратеров",
+        "text": "По опубликованному сценарию возможен один из двух вулканов. Спросите, какая видимость ожидается и что происходит, если часть вида закрыта. Карта показывает географические ориентиры.",
+        "sources": [
+          "greenway-cessna-volcano-tour",
+          "aip-pavas-mrpv-2026"
+        ]
+      },
+      {
+        "title": "Перед полётом",
+        "text": "Уточните документ, вес багажа, рассадку и ограничения по возрасту. Камеру подготовьте до посадки. Подберите одежду по рекомендациям экипажа.",
+        "sources": [
+          "greenway-cessna-volcano-tour",
+          "dgac-operators-sept-2026"
+        ]
+      }
+    ],
+    "galleries": [
+      "greenway-cessna-volcano-tour"
+    ],
+    "nearby": [
+      "pavas-volar-cartago-heli",
+      "poas",
+      "irazu-craters"
+    ],
+    "photos": [
+      "irazu-crater-bianco"
+    ],
+    "videos": [
+      "poas-aerial-travel-food"
+    ],
+    "connectStops": false
+  },
+  "cobano-autogyro-nicoya": {
+    "stops": [
+      {
+        "point": "cobano-mraf-reference",
+        "role": "Аэропорт Кобано · вылет",
+        "note": "Точка аэродрома. Уточните, где встречают у терминала Adventure Flights."
+      },
+      {
+        "point": "cabo-cabuya-entry",
+        "role": "Район Кабуя и Кабо-Бланко",
+        "note": "Береговой ориентир, который может быть виден с воздуха."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Flights · аэропорт Кобано",
+        "source": "adventure-flights-cobano-contact",
+        "url": "https://adventureflightscostarica.com/?lang=es",
+        "note": "Возраст и рост, длительность, время и условия при ветре. Возможность записи двух вылетов подряд.",
+        "phone": "+506 8966 4302",
+        "email": "info@adventureflightscostarica.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что видно",
+        "text": "Короткий вариант можно совместить с уроком на берегу. Для длинного просите уточнить направления относительно Кабуи и северных пляжей. Видимость моря и животных меняется с погодой.",
+        "sources": [
+          "adventure-flights-cobano-tour",
+          "cobano-airport-local-guide"
+        ]
+      },
+      {
+        "title": "Кабина и вещи",
+        "text": "Лёгкая кофта и защита глаз пригодятся в открытом борту. Телефон и камеру крепят страховочным ремешком по правилам пилота. Бронирование и актуальную цену подтвердите у оператора.",
+        "sources": [
+          "adventure-flights-cobano-contact",
+          "adventure-flights-cobano-tour"
+        ]
+      }
+    ],
+    "galleries": [
+      "adventure-flights-cobano-contact",
+      "adventure-flights-cobano-tour"
+    ],
+    "nearby": [
+      "santateresa",
+      "cabo-blanco-sueco",
+      "pavas-cessna-volcano-panoramic"
+    ],
+    "photos": [
+      "santa-teresa-shore-archive"
+    ],
+    "videos": [
+      "cobano-airport-aerial-video"
+    ],
+    "connectStops": false
+  },
+  "pavas-volar-cartago-heli": {
+    "stops": [
+      {
+        "point": "pavas-mrpv-reference",
+        "role": "Аэродром Павас",
+        "note": "Маркер обозначает аэропорт. Точный вход, улицу и номер ангара сообщает организатор."
+      },
+      {
+        "point": "angelina-mtb-parking",
+        "role": "Район Очомого",
+        "note": "Наземный ориентир перехода к Картаго, заявленного в описании исторического полёта."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Volar Helicopter · Павас",
+        "source": "volar-helicopter-historical-route",
+        "url": "https://volarhelicopterscr.com/en/tours.html",
+        "note": "Рейсовая программа, ангар и время регистрации, условия переноса и посадки.",
+        "phone": "+506 2290 9742",
+        "email": "reservations@volarcr.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут и варианты",
+        "text": "В описании Volar опубликованы исторический круг и отдельные обзорные вылеты к вулканам. Уточните нужный вариант и доступность в день поездки.",
+        "sources": [
+          "volar-helicopter-historical-route",
+          "volar-helicopter-company"
+        ]
+      },
+      {
+        "title": "На земле",
+        "text": "Подъезжайте к аэропорту Павас по указаниям оператора. По реестру DGAC за сентябрь 2026 у Volar есть категория специальных полётов. Перед оплатой уточните борт, маршрут и возврат в ангар при смене видимости.",
+        "sources": [
+          "dgac-operators-sept-2026",
+          "aip-pavas-mrpv-2026"
+        ]
+      }
+    ],
+    "galleries": [
+      "volar-helicopter-historical-route",
+      "volar-helicopter-company"
+    ],
+    "nearby": [
+      "pavas-cessna-volcano-panoramic",
+      "cobano-autogyro-nicoya"
+    ],
+    "connectStops": false
+  },
+  "eolicos-santa-ana-campfire": {
+    "stops": [
+      {
+        "point": "eolicos-camp-santa-ana-entry",
+        "role": "Высотная стоянка в Санта-Ане",
+        "note": "Въезд, регистрация и выбор площадки на склоне у хозяев."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Eólicos Camping",
+        "source": "eolicos-camp-host-listing",
+        "url": "https://camping.cr/listing/eolicos-camping/",
+        "note": "Площадка для машины, доступ на ночь, время приезда, ветер и режим костровой.",
+        "phone": "+506 7012 9106"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроена стоянка",
+        "text": "В анкете указаны стоянка для машин, душ, вода, электричество и дневная тропа. Место для огня показывают хозяева. Уточните, входят ли дрова.",
+        "sources": [
+          "eolicos-camp-host-listing",
+          "eolicos-camp-yoko-guide"
+        ]
+      },
+      {
+        "title": "Ветер и вещи",
+        "text": "На открытом гребне ветер ощутим. Возьмите тёплый слой, дождевую защиту, налобный фонарь, коврик, запас питья и тент. Перед заездом уточните наличие дров, воды и условий готовки. При сильном ветре сохраняйте вечер без открытого огня, следуя указаниям хозяев.",
+        "sources": [
+          "eolicos-camp-host-listing",
+          "eolicos-camp-yoko-guide"
+        ]
+      }
+    ],
+    "galleries": [
+      "eolicos-camp-yoko-guide",
+      "eolicos-camp-native-photos"
+    ],
+    "nearby": [
+      "finca-colasa-view-campfire",
+      "adventure-park-campfire-weekend"
+    ]
+  },
+  "el-castillo-fogata-camp": {
+    "stops": [
+      {
+        "point": "el-castillo",
+        "role": "Деревня Эль-Кастильо",
+        "note": "Ориентир перед последним подъёмом."
+      },
+      {
+        "point": "el-castillo-mirador-camp-entry",
+        "role": "El Castillo · холм над озером",
+        "note": "Точный подъезд с холма назначает хозяйство, дождевой доступ проверяют до передачи денег."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping y Mirador El Castillo",
+        "source": "el-castillo-camp-host-listing",
+        "url": "https://camping.cr/listing/camping-y-mirador-el-castillo/",
+        "note": "Место под навесом, последние подъёмы, очаг и габариты палатки.",
+        "phone": "+506 8310 0223"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Вид и ночёвка",
+        "text": "В заявке уточните, будет ли вид на вулкан с вашего места. Есть обозначенная костровая зона, а из стоянок под крышей вид открывается по-разному.",
+        "sources": [
+          "el-castillo-camp-host-listing",
+          "el-castillo-camp-photo-host"
+        ]
+      },
+      {
+        "title": "Отклик о хозяевах и вещи",
+        "text": "Гость на Camping.cr отмечает доброжелательность команды. Для ветра и прохлады пригодится защита палатки. Возьмите тёплый слой, дождевую защиту, налобный фонарь, коврик, запас питья и тент. Перед заездом уточните наличие дров, воды и условий готовки.",
+        "sources": [
+          "el-castillo-camp-host-listing",
+          "campistas-el-castillo-entry"
+        ]
+      }
+    ],
+    "galleries": [
+      "el-castillo-camp-host-listing",
+      "el-castillo-camp-photo-host"
+    ],
+    "nearby": [
+      "arenal-outback-utv-monterrey",
+      "arenal-autocamp-3",
+      "tronadora-roof"
+    ]
+  },
+  "finca-colasa-view-campfire": {
+    "stops": [
+      {
+        "point": "finca-colasa-camp-entry",
+        "role": "Хозяйский пин на склоне Барвы",
+        "note": "Спросите о въезде на нужную площадку и подъезде из Сан-Хосе-де-ла-Монтанья."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca La Colasa",
+        "source": "finca-la-colasa-camp-listing",
+        "url": "https://camping.cr/listing/finca-la-colasa/",
+        "note": "Ночёвка, условия пользования огнём, дрова, доступ к парковке.",
+        "phone": "+506 8862 0197"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что отмечают гости",
+        "text": "Даниэль описал вид и холод ночью, когда приезжал с семьёй. Эдисон Вальверде Кирос отметил вид и удобство для пикника. Оба отзыва опубликованы в 2021 году. Уточните у хозяев, какая часть участка сегодня отведена под палатки и сколько людей заезжает в ваши даты.",
+        "sources": [
+          "finca-la-colasa-visit-report",
+          "finca-la-colasa-camp-listing"
+        ]
+      },
+      {
+        "title": "Подготовка к ночёвке",
+        "text": "Возьмите тёплый слой, дождевую защиту, налобный фонарь, коврик, запас питья и тент. Перед заездом уточните наличие дров, воды и условий готовки. Площадку под автомобиль с палаткой на крыше спрашивайте отдельно.",
+        "sources": [
+          "finca-la-colasa-camp-listing",
+          "finca-la-colasa-facebook"
+        ]
+      }
+    ],
+    "galleries": [
+      "finca-la-colasa-camp-listing",
+      "finca-la-colasa-facebook"
+    ],
+    "nearby": [
+      "adventure-camp",
+      "adventure-park-campfire-weekend"
+    ]
+  },
+  "adventure-park-campfire-weekend": {
+    "stops": [
+      {
+        "point": "adventure-park-entry",
+        "role": "Adventure Park · вход и распределение площадок",
+        "note": "Проверка проезда к стоянкам, открытых троп и очага."
+      },
+      {
+        "point": "barva-lagoon-view",
+        "role": "Barva · отдельный пеший сектор",
+        "note": "Смотровая у кратера. У входа SINAC оформляется отдельный визит."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park Costa Rica · офис",
+        "source": "adventure-park-camping-fogatas",
+        "url": "https://www.adventureparkcr.com/es/nuestros-servicios/camping",
+        "note": "Подъезд под прогноз, место для машины, дрова, тропы и расписание кафе.",
+        "phone": "+506 2266 0782"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночь и очаг",
+        "text": "Организатор публикует цену ₡8 000 с человека за лагерь, дрова, санузел и сеть троп. На площадках есть питьевая вода, электричества нет. Уточните доступ выбранной площадки на дату.",
+        "sources": [
+          "adventure-park-camping-fogatas"
+        ]
+      },
+      {
+        "title": "Тропа или велосипед",
+        "text": "Возьмите тёплый слой, дождевую защиту, налобный фонарь, коврик, запас питья и тент. Перед заездом уточните наличие дров, воды и условий готовки. Для MTB возьмите шлем и запас на влажный грунт. На эндуро-линиях соблюдайте направление движения и выбирайте защиту по условиям парка.",
+        "sources": [
+          "adventure-bike",
+          "coreco-barva-mtb-private",
+          "adventure-park-camping-fogatas"
+        ]
+      }
+    ],
+    "galleries": [
+      "adventure-park-camping-fogatas",
+      "adventure-bike",
+      "coreco-barva-mtb-private"
+    ],
+    "nearby": [
+      "adventure-camp",
+      "adventure-mtb",
+      "finca-colasa-view-campfire"
+    ]
+  },
+  "quetzal-miramar-san-ramon-4x4": {
+    "stops": [
+      {
+        "point": "miramar-town",
+        "role": "Мирамар · западный въезд",
+        "note": "Старт западного подъезда. Запросите текущий грунтовый участок до Тахо-Альто."
+      },
+      {
+        "point": "tajo-alto-quetzal-west",
+        "role": "Тахо-Альто · западный сектор",
+        "note": "Смотровые окрестности и варианты остановки у частных хозяев."
+      },
+      {
+        "point": "san-antonio-zapotal-quetzal",
+        "role": "Сан-Антонио · сектор Сапоталя",
+        "note": "Ориентир исторического коридора с отдельными подъездами."
+      },
+      {
+        "point": "piedades-norte-quetzal-village",
+        "role": "Пьедадес-Норте · восточный сектор",
+        "note": "Контрольная точка со стороны Сан-Рамона, состоянию дороги нужна сверка."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MOPT / CONAVI · объявления работ",
+        "source": "mopt-barranquilla-742-works",
+        "url": "https://www.mopt.go.cr/noticias/2026/armado-de-bastiones-de-nuevo-puente-sobre-rio-barranquilla-comienza-tomar-forma",
+        "note": "Сверьте последнее официальное сообщение, схему временного объезда и открытие моста.",
+        "phone": null
+      }
+    ],
+    "sections": [
+      {
+        "title": "Отдельные подъезды",
+        "text": "Официальный туристический план называет исторический коридор с грубыми грунтовками. Проверьте доступ между населёнными пунктами в конкретный день. На маршруте не планируйте проезд по руслу или закрытому мосту.",
+        "sources": [
+          "ict-ruta-quetzal-montes-oro",
+          "mopt-barranquilla-742-works",
+          "mopt-san-ramon-approved-detours"
+        ]
+      },
+      {
+        "title": "Что рассказывают местные",
+        "text": "MotoRumbo публикует несколько разных GPS-записей, а видео поездки 4×4 показывает рельеф и деревни. Выбирайте текущую официальную схему. Возьмите запаску, офлайн-карту и план возврата в светлое время.",
+        "sources": [
+          "motorumbo-quetzal-field",
+          "quetzal-four-wheel-trip-video",
+          "mopt-san-ramon-approved-detours"
+        ]
+      }
+    ],
+    "galleries": [
+      "motorumbo-quetzal-field",
+      "ict-ruta-quetzal-montes-oro"
+    ],
+    "nearby": [
+      "pelon-zapotal",
+      "miramar-mtb-domos-weekend-2",
+      "miramar-palmar-rio-seco-36"
+    ],
+    "track": "mopt-san-ramon-approved-detours",
+    "videos": [
+      "quetzal-four-wheel-trip-video"
+    ],
+    "connectStops": false
+  },
+  "dota-providencia-road-4x4": {
+    "stops": [
+      {
+        "point": "quetzales-entry",
+        "role": "Ruta 2 · развилка Los Quetzales / Ojo de Agua",
+        "note": "Подход из Сан-Хосе по Interamericana Sur. Уточните указатели на Провиденсию."
+      },
+      {
+        "point": "providencia-dota-locality",
+        "role": "Провиденсия-де-Дота",
+        "note": "Поселение у Савегре. У хозяев запросите последнюю часть подъезда к ночёвке."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Santos Tour · Tamí Lodge / проводники Los Santos",
+        "source": "tami-santos-tour-ict",
+        "url": "https://www.visitcostarica.com/planning-your-trip/local-agency/santos-tour-cr",
+        "note": "Состояние подъезда, забор на 4×4 из Санта-Марии, ночёвка, лесной маршрут и питание.",
+        "phone": "+506 2541 2020",
+        "email": "sales@santostour.net"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кому нужен трансфер",
+        "text": "Для этого подхода хозяева указывают двойную тягу. Можно заранее запросить водителя из Санта-Марии-де-Дота. Отдельная экскурсия 4×4 в глубину заповедника оформляется через местного оператора.",
+        "sources": [
+          "tami-lodge-local-conditions",
+          "ict-dota-providencia-4x4",
+          "tami-santos-tour-ict"
+        ]
+      },
+      {
+        "title": "Что взять с собой",
+        "text": "Проверьте запаску, давление и прогноз, загрузите офлайн-карту, возьмите фонарь и тёплый слой. Дурная погода, туман и размыв могут сделать выезд непригодным.",
+        "sources": [
+          "tami-lodge-qbl-field-report",
+          "osm-providencia-mountain-road"
+        ]
+      }
+    ],
+    "galleries": [
+      "tami-lodge-qbl-field-report",
+      "ict-dota-providencia-4x4"
+    ],
+    "nearby": [
+      "dota-tami-forest-glamping",
+      "dota-providencia-doc-2",
+      "dota-roof-trout-coffee-2"
+    ],
+    "track": "osm-providencia-mountain-road",
+    "line": "providencia-4x4-osm-road"
+  },
+  "dota-tami-forest-glamping": {
+    "stops": [
+      {
+        "point": "providencia-dota-locality",
+        "role": "Провиденсия-де-Дота",
+        "note": "Поселение у Савегре. У хозяев запросите последнюю часть подъезда к ночёвке."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Santos Tour · Tamí Lodge / проводники Los Santos",
+        "source": "tami-santos-tour-ict",
+        "url": "https://www.visitcostarica.com/planning-your-trip/local-agency/santos-tour-cr",
+        "note": "Состояние подъезда, забор на 4×4 из Санта-Марии, ночёвка, лесной маршрут и питание.",
+        "phone": "+506 2541 2020",
+        "email": "sales@santostour.net"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и еда",
+        "text": "Как рассказывают Qué Buen Lugar и Perfil, можно соединить ночёвку со скромным домашним завтраком в ресторане Cascadas del Savegre и поездкой в Extreme Forest Park. Питание и активность согласуйте отдельно.",
+        "sources": [
+          "tami-lodge-qbl-field-report",
+          "tami-lodge-lanacion-report"
+        ]
+      },
+      {
+        "title": "Экипировка",
+        "text": "В горах возьмите флис, куртку от дождя, сухую обувь, фонарь, аккумулятор и офлайн-карту. Для наблюдения за птицами пригодятся бинокль и ранний старт.",
+        "sources": [
+          "tami-lodge-local-conditions",
+          "tami-santos-tour-ict"
+        ]
+      }
+    ],
+    "galleries": [
+      "tami-lodge-local-conditions",
+      "tami-lodge-qbl-field-report"
+    ],
+    "nearby": [
+      "dota-providencia-road-4x4",
+      "dota-providencia-doc-2"
+    ]
+  },
+  "dota-providencia-doc-2": {
+    "stops": [
+      {
+        "point": "quetzales-entry",
+        "role": "Ruta 2 · развилка Los Quetzales / Ojo de Agua",
+        "note": "Подход из Сан-Хосе по Interamericana Sur. Уточните указатели на Провиденсию."
+      },
+      {
+        "point": "providencia-dota-locality",
+        "role": "Провиденсия-де-Дота",
+        "note": "Поселение у Савегре. У хозяев запросите последнюю часть подъезда к ночёвке."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Santos Tour · Tamí Lodge / проводники Los Santos",
+        "source": "tami-santos-tour-ict",
+        "url": "https://www.visitcostarica.com/planning-your-trip/local-agency/santos-tour-cr",
+        "note": "Состояние подъезда, забор на 4×4 из Санта-Марии, ночёвка, лесной маршрут и питание.",
+        "phone": "+506 2541 2020",
+        "email": "sales@santostour.net"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъём и спуск",
+        "text": "Официальный путеводитель называет длинные туры в 4×4 от Провиденсии, а местный глэмпинг просит подъезд с двойной тягой. Для семейной поездки держитесь согласованной дороги к деревне.",
+        "sources": [
+          "ict-dota-providencia-4x4",
+          "tami-lodge-local-conditions"
+        ]
+      },
+      {
+        "title": "Пеший день",
+        "text": "Спросите местную команду про уровень троп, подход к водопаду или семейный кофейный визит. Для влажного леса нужны закрытая обувь, дождезащита и дополнительный сухой комплект.",
+        "sources": [
+          "tami-lodge-qbl-field-report",
+          "tami-santos-tour-ict"
+        ]
+      }
+    ],
+    "galleries": [
+      "tami-lodge-local-conditions",
+      "tami-lodge-qbl-field-report"
+    ],
+    "nearby": [
+      "dota-providencia-road-4x4",
+      "dota-tami-forest-glamping",
+      "dota-roof-trout-coffee-2"
+    ],
+    "track": "osm-providencia-mountain-road",
+    "line": "providencia-4x4-osm-road"
+  },
+  "piedra-fuego-esparza-local-trails": {
+    "stops": [
+      {
+        "point": "piedra-fuego-esparza-entrance",
+        "role": "Финка Piedra de Fuego · регистрация",
+        "note": "Ориентир от Bichos Bar, карта троп у принимающей команды."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Piedra de Fuego · финка в Эспарсе",
+        "source": "piedra-fuego-rural-directory",
+        "url": "https://www.descubramoscostarica.com/es/destino/piedra-de-fuego",
+        "note": "Открытые длины, старт trailrun и MTB, цена, ранний вход и время закрытия.",
+        "phone": "+506 8433 3166"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Круги по силам",
+        "text": "Выберите 2,5 или 5 км с темпом прогулки либо 10 км и подъём к видовому сектору. Для 19 км созвонитесь заранее. Один из опубликованных походов описывает закрытую на день визита длинную ветку.",
+        "sources": [
+          "piedra-fuego-rural-directory",
+          "piedra-fuego-19-walk-conditions"
+        ]
+      },
+      {
+        "title": "Условия местных выходных",
+        "text": "Справочник указывает завтрак в банановом листе в некоторые выходные. В репортаже CR Hoy показаны варианты бега и MTB. На общей тропе учитывайте других посетителей и держите запас воды.",
+        "sources": [
+          "piedra-fuego-rural-directory",
+          "piedra-fuego-crhoy-visit"
+        ]
+      }
+    ],
+    "galleries": [
+      "piedra-fuego-rural-directory",
+      "piedra-fuego-crhoy-visit"
+    ],
+    "nearby": [
+      "piedra-fuego-tecolote-10",
+      "miramar-palmar-rio-seco-36"
+    ],
+    "videos": [
+      "piedra-fuego-local-mtb-video"
+    ]
+  },
+  "piedra-fuego-tecolote-10": {
+    "stops": [
+      {
+        "point": "piedra-fuego-esparza-entrance",
+        "role": "Финка Piedra de Fuego · регистрация",
+        "note": "Ориентир от Bichos Bar, карта троп у принимающей команды."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Piedra de Fuego · финка в Эспарсе",
+        "source": "piedra-fuego-rural-directory",
+        "url": "https://www.descubramoscostarica.com/es/destino/piedra-de-fuego",
+        "note": "Открытые длины, старт trailrun и MTB, цена, ранний вход и время закрытия.",
+        "phone": "+506 8433 3166"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Карта и авторский выход",
+        "text": "Доступен опубликованный GPS с ответвлением к холму. Свежую карту спрашивайте на входе. Видео Te Recomiendo AQUÍ показывает собственное прохождение участка.",
+        "sources": [
+          "piedra-fuego-10-wikiloc",
+          "piedra-fuego-10-te-recomiendo"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Вода, защита от солнца, лёгкий перекус, обувь с протектором, сменная одежда на случай осадков. На беговой круг уточните, где трасса примыкает к велосипедным веткам.",
+        "sources": [
+          "piedra-fuego-rural-directory",
+          "piedra-fuego-10-wikiloc"
+        ]
+      }
+    ],
+    "galleries": [
+      "piedra-fuego-10-wikiloc",
+      "piedra-fuego-crhoy-visit"
+    ],
+    "nearby": [
+      "piedra-fuego-esparza-local-trails",
+      "miramar-palmar-rio-seco-36"
+    ],
+    "track": "piedra-fuego-10-wikiloc",
+    "videos": [
+      "piedra-fuego-10-te-recomiendo"
+    ]
+  },
+  "avellanas-soul-julio-lessons": {
+    "stops": [
+      {
+        "point": "avellanas-las-olas-reference",
+        "role": "Cabinas Las Olas · район сбора",
+        "note": "Настил проходит через мангры. Инструктор подтверждает место старта на песке по воде и ветру."
+      },
+      {
+        "point": "avellanas-camp-area",
+        "role": "Авельянас · район берегового входа",
+        "note": "Время и пин сбора у Lola’s уточняют перед уроком."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Avellanas Soul · Хулио",
+        "source": "avellanas-soul-surf-julio",
+        "url": "https://www.avellanassoul.com/",
+        "note": "Попросите инструктора с детским опытом, размеры мягкой доски и новый слот при ветре.",
+        "phone": "+506 8784 6269",
+        "email": "paniaguajulio9@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кому подойдёт",
+        "text": "Школа включает доску и лайкру. В местном обсуждении пользователи советуют Хулио и отмечают удобный выход к разным волнам от Cabinas Las Olas. Для ребёнка уточните число учеников на инструктора.",
+        "sources": [
+          "avellanas-soul-surf-julio",
+          "avellanas-surf-community-recs"
+        ]
+      },
+      {
+        "title": "Вещи и место",
+        "text": "Одежда для воды, защита от солнца, полотенце и сухая сумка. Через мангры идите по настилу, открытый берег и ребристое дно других брейков требуют инструктажа.",
+        "sources": [
+          "cabinas-las-olas-walkway",
+          "avellanas-soul-surf-julio"
+        ]
+      }
+    ],
+    "galleries": [
+      "avellanas-soul-surf-julio",
+      "cabinas-las-olas-walkway"
+    ],
+    "nearby": [
+      "avellanas-mauricio-lolas-surf",
+      "avellanas-camp"
+    ],
+    "photos": [
+      "avellanas-shore-archive"
+    ]
+  },
+  "avellanas-mauricio-lolas-surf": {
+    "stops": [
+      {
+        "point": "avellanas-camp-area",
+        "role": "Авельянас · район берегового входа",
+        "note": "Время и пин сбора у Lola’s уточняют перед уроком."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Avellanas Surf School · Маурисио Ортега",
+        "source": "avellanas-surf-school-mauricio",
+        "url": "https://avellanassurfschool.com/surf-packages/",
+        "note": "Запросите наставника, прогноз волны для урока, загрузку группы и прокат.",
+        "phone": null,
+        "email": "info@avellanassurfschool.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор урока",
+        "text": "У школы есть индивидуальные, парные и взрослые групповые форматы. В парном варианте указан один инструктор на двоих, во взрослом типовом — на троих. Спросите, применяются ли эти условия на вашу дату.",
+        "sources": [
+          "avellanas-surf-school-mauricio",
+          "avellanas-surf-school-lesson-site"
+        ]
+      },
+      {
+        "title": "После воды",
+        "text": "У Lola’s можно остаться у берега и наблюдать другие брейки. В прокате есть несколько типов досок. Если нет уверенности с течением, сначала запросите сопровождаемую тренировку.",
+        "sources": [
+          "lolas-avellanas-surf-partner",
+          "avellanas-surf-school-mauricio"
+        ]
+      }
+    ],
+    "galleries": [
+      "avellanas-surf-school-lesson-site",
+      "lolas-avellanas-surf-partner"
+    ],
+    "nearby": [
+      "avellanas-soul-julio-lessons",
+      "avellanas-camp"
+    ],
+    "photos": [
+      "avellanas-shore-archive"
+    ]
+  },
+  "tarcoles-mangrove-local-boats": {
+    "stops": [
+      {
+        "point": "tarcoles-jose-private-dock",
+        "role": "Причал Jose’s · один из вариантов",
+        "note": "Crocodile Man находится по отдельному адресу возле церкви Тарколеса."
+      },
+      {
+        "point": "carara-reception",
+        "role": "Каррара · отдельная прогулка",
+        "note": "Вход в национальный парк отдельно от лодки. Билет и время уточняйте через SINAC."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Crocodile Man Tours · Тарколес",
+        "source": "ict-tarcoles-crocodile-man",
+        "url": "https://crocodilemantour.com/inicio/",
+        "note": "Причал в 150 м южнее церкви по справочнику ICT. Маршрут, сроки и жилеты по размерам.",
+        "phone": "+506 2637 0771",
+        "email": "info@crocodilemantour.com"
+      },
+      {
+        "name": "Jose’s Crocodile River Tour",
+        "source": "tarcoles-jose-boat-dock",
+        "url": "https://crocodilerivertour.com/reservations/",
+        "note": "Вторая точка посадки с опубликованным пином. Спросите о продолжительности и размере группы.",
+        "phone": "+506 8874 7641",
+        "email": "info@crocodiletour.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прилив и причал",
+        "text": "Оператор описывает три речных ландшафта. Перед посадкой спросите, пройдёт ли лодка к манграм на вашем слоте, и подтвердите место встречи с ребёнком.",
+        "sources": [
+          "tarcoles-crocodile-man-boat",
+          "tarcoles-jose-boat-dock"
+        ]
+      },
+      {
+        "title": "Для наблюдений",
+        "text": "Берите бинокль, захватите головной убор, воду, репеллент и гермомешок. На рассвете и в низком свете удобно снимать птиц, не приближаясь к кромке воды.",
+        "sources": [
+          "tarcoles-boat-directory-report",
+          "ict-tarcoles-crocodile-man"
+        ]
+      }
+    ],
+    "galleries": [
+      "tarcoles-crocodile-man-boat",
+      "tarcoles-boat-directory-report"
+    ],
+    "nearby": [
+      "carara",
+      "jaco-utv-rey-100",
+      "herradura-bijagual-buggy-4"
+    ],
+    "photos": [
+      "tarcoles-mangrove-archive"
+    ],
+    "videos": [
+      "tarcoles-jason-boat-gallery"
+    ],
+    "connectStops": false
+  },
+  "cuajiniquil-local-mangrove-boat": {
+    "stops": [
+      {
+        "point": "junquillal-cuajiniquil",
+        "role": "Куахиникиль-де-Ла-Крус · район лодочной посадки",
+        "note": "Точный причал и выезд с берега сообщает команда."
+      },
+      {
+        "point": "junquillal-gate",
+        "role": "Bahía Junquillal · береговой ориентир",
+        "note": "Это отдельный вход в заказник. Посещение на лодке уточняется по правилам защищённого сектора."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cuajiniquil Tours · Ла-Крус",
+        "source": "cuajiniquil-tours-ict",
+        "url": "https://www.visitcostarica.com/planning-your-trip/other-activities/cuajiniquil-tours",
+        "note": "Нужную посадку, тип борта, продолжительность, жилеты, улов и текущие ограничения.",
+        "phone": "+506 8539 2164",
+        "email": "cuajiniquiltours@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать формат",
+        "text": "Для неспешной семейной поездки запросите короткий маршрут внутри защищённой бухты. Для сноркелинга уточните толщину волны, видимость, жилеты и место, где капитан разрешает входить в воду.",
+        "sources": [
+          "cuajiniquil-lacruz-marine-corridor",
+          "sinac-bahia-junquillal-official"
+        ]
+      },
+      {
+        "title": "Где встречаются",
+        "text": "Пляжный вход и причал лодки могут находиться в разных местах. До выезда проверьте навигатор, обувь для высадки и обратную дорогу от Юнкильяла.",
+        "sources": [
+          "ict-cuajiniquil-boat-mangrove",
+          "cuajiniquil-tours-ict"
+        ]
+      }
+    ],
+    "galleries": [
+      "cuajiniquil-lacruz-marine-corridor",
+      "ict-cuajiniquil-boat-mangrove",
+      "sinac-bahia-junquillal-official"
+    ],
+    "nearby": [
+      "cuajiniquil-la-cruz-inshore-fishing",
+      "junquillal"
+    ]
+  },
+  "cuajiniquil-la-cruz-inshore-fishing": {
+    "stops": [
+      {
+        "point": "junquillal-cuajiniquil",
+        "role": "Куахиникиль-де-Ла-Крус · район лодочной посадки",
+        "note": "Точный причал и выезд с берега сообщает команда."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cuajiniquil Tours · Ла-Крус",
+        "source": "cuajiniquil-tours-ict",
+        "url": "https://www.visitcostarica.com/planning-your-trip/other-activities/cuajiniquil-tours",
+        "note": "Нужную посадку, тип борта, продолжительность, жилеты, улов и текущие ограничения.",
+        "phone": "+506 8539 2164",
+        "email": "cuajiniquiltours@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где разрешают ловить",
+        "text": "Спросите у капитана о текущем зонировании и разрешении для лодки. INCOPESCA публикует отдельную лицензию для спортивной ловли с судна. В правилах заказника нельзя ориентироваться по устаревшим рыбацким точкам.",
+        "sources": [
+          "incopesca-tourist-boat-licence",
+          "sinac-bahia-junquillal-official",
+          "sinac-santa-elena-marine-area"
+        ]
+      },
+      {
+        "title": "Вопросы на берегу",
+        "text": "Попросите перечень снастей, крепление удилищ, размеры жилетов, воду и ожидаемое время возвращения. В открытом море условия у короткого прибрежного и дальнего маршрута отличаются.",
+        "sources": [
+          "cuajiniquil-tours-ict",
+          "cuajiniquil-lacruz-marine-corridor"
+        ]
+      }
+    ],
+    "galleries": [
+      "cuajiniquil-lacruz-marine-corridor",
+      "ict-cuajiniquil-boat-mangrove"
+    ],
+    "nearby": [
+      "cuajiniquil-local-mangrove-boat",
+      "junquillal"
+    ]
+  },
+  "savegre-safari-7-family-raft": {
+    "stops": [
+      {
+        "point": "quepos-center",
+        "role": "Кепос · район забора",
+        "note": "Время встречи в гостинице или у оператора."
+      },
+      {
+        "point": "savegre-el-silencio-community",
+        "role": "El Silencio · ориентир долины",
+        "note": "Точную посадку и дневной уровень воды подтверждает H2O."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "H2O Adventures · Savegre Safari",
+        "source": "h2o-quepos-meeting-points",
+        "url": "https://www.h2ocr.com/rafting/savegre-river-floating-tour-class-1",
+        "note": "Уточните детский спасжилет, транспорт, размер группы и слот по состоянию реки.",
+        "phone": "+506 8959 8989"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пассажирская программа",
+        "text": "Участники сидят на рафте под управлением речного проводника. В цену на опубликованной странице входят жилет, перекус и трансфер из ближних зон. Проводник выбирает место для остановки.",
+        "sources": [
+          "h2o-savegre-safari-7"
+        ]
+      },
+      {
+        "title": "Семьей и с камерой",
+        "text": "Пригодятся бинокль, запас сухой одежды, обувь с застёжкой, крем от солнца и гермомешок. Если дети старше и хотят грести, у того же оператора есть отдельный класс II–III.",
+        "sources": [
+          "h2o-savegre-safari-7",
+          "h2o-quepos-meeting-points"
+        ]
+      }
+    ],
+    "galleries": [
+      "h2o-savegre-safari-7"
+    ],
+    "nearby": [
+      "savegre-abajo-family-14",
+      "naranjo-tubing-family-57",
+      "chorro-river-weekend-2"
+    ]
+  },
+  "rio-negro-guachipelin-tubing": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Hacienda Guachipelín · точка сбора",
+        "note": "Отсюда местная команда организует подход к Río Negro."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Guachipelín · Río Negro",
+        "source": "guachipelin-rio-negro-tubing",
+        "url": "https://www.guachipelin.com/adventure-tours/rio-negro-tubing-adventure/",
+        "note": "Размеры каски и жилета, состояние реки, способ подъезда, цены и возраст.",
+        "phone": "+506 2690 2900",
+        "email": "info@guachipelin.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит в спуск",
+        "text": "Круг у каждого, проводники на извилистом речном участке, жилет и инструктаж. Точную длительность на воде сверяйте после прогноза.",
+        "sources": [
+          "guachipelin-rio-negro-tubing"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Закрытую обувь или обувь для воды по правилам финки, сухой комплект, полотенце, мягкий гермомешок для телефона и питьё.",
+        "sources": [
+          "guachipelin-rio-negro-tubing",
+          "guachipelin-programmes-and-contact"
+        ]
+      }
+    ],
+    "galleries": [
+      "guachipelin-rio-negro-tubing",
+      "guachipelin-programmes-and-contact"
+    ],
+    "nearby": [
+      "rincon-mtb",
+      "diamante-guanacaste-atv"
+    ]
+  },
+  "quepos-magic-king-private-catamaran": {
+    "stops": [
+      {
+        "point": "quepos-marina",
+        "role": "Marina Pez Vela · отправление",
+        "note": "У стоянок марина подскажет место регистрации конкретного катамарана."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Catamaran Adventures CR · Magic King",
+        "source": "magic-king-quepos-private-45",
+        "url": "https://catamaranadventurescr.com/",
+        "note": "Сообщите число гостей, возраст детей, размер жилетов, меню и желаемые остановки.",
+        "phone": "+506 2777 7429",
+        "email": "info@catamaranadventurescr.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать борт",
+        "text": "Компания публикует частный Magic King на 45 футов и отдельный большой Ocean King. Для своей группы запросите план и реальные размеры борта, на котором состоится рейс.",
+        "sources": [
+          "magic-king-quepos-private-45",
+          "ict-pacific-nautical-operators"
+        ]
+      },
+      {
+        "title": "Вода и прогноз",
+        "text": "На странице оператора гости описывают дни с мутной водой у берега. В такой день можно согласовать обзор побережья с борта. Возьмите полотенце, смену и защиту от солнца.",
+        "sources": [
+          "magic-king-quepos-private-45"
+        ]
+      }
+    ],
+    "galleries": [
+      "magic-king-quepos-private-45"
+    ],
+    "nearby": [
+      "quepos-catamaran",
+      "biesanz-kayak",
+      "savegre-safari-7-family-raft"
+    ]
+  },
+  "crc506-jaco-quepos-road-141": {
+    "stops": [
+      {
+        "point": "jaco-beach-center",
+        "role": "Плайя-Хако · ориентир города",
+        "note": "Организатор El Rey указывает офис на Calle Samudio в Barrio Copey. Подвоз согласуется отдельно."
+      },
+      {
+        "point": "quepos-center",
+        "role": "Кепос · район разворотной петли",
+        "note": "Регламент включает самостоятельную петлю в окрестностях Кепоса."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "CRC 506 · организатор",
+        "source": "uci-crc506-jaco-141",
+        "url": "https://ucigranfondoworldseries.com/en/crc506-gran-fondo-of-costa-rica/",
+        "note": "Следующий выпуск, рабочий трек, условия помощи на дистанции.",
+        "phone": null,
+        "email": "manrique@familyfun.cr"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Две дистанции на одном побережье",
+        "text": "Длинный вариант возвращается в Хако. Mediofondo стартует со стороны Кепоса и проходит вторую половину пути. Ссылки UCI открывают обе карты, а километраж среднего формата менялся между публикациями.",
+        "sources": [
+          "uci-crc506-jaco-141",
+          "crc506-141-official-technical"
+        ]
+      },
+      {
+        "title": "На шоссейном велосипеде",
+        "text": "Для открытой дороги нужны совместимый шлем, фары, запас питья, насос, ремкомплект и план схода. Спортивные слоты с перекрытиями проверяйте по текущему календарю организаторов.",
+        "sources": [
+          "uci-crc506-jaco-141",
+          "crc506-141-official-technical"
+        ]
+      }
+    ],
+    "galleries": [
+      "uci-crc506-jaco-141"
+    ],
+    "nearby": [
+      "quepos-fondo-148-2027",
+      "esterillos-aloha-surf",
+      "savegre-safari-7-family-raft"
+    ],
+    "track": "uci-crc506-jaco-141"
+  },
+  "herradura-vista-canyoning": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Herradura · офис Vista Los Sueños",
+        "note": "Осмотр, проверка документов, инструктаж и пробный круг на частной площадке."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vista Los Sueños · багги в Herradura",
+        "source": "vls-herradura-buggy-2h",
+        "url": "https://vistalossuenosadventurepark.com/adventure-tours/2-hour-jungle-waterfall-buggy-tour-near-jaco/",
+        "note": "Уточните возраст ребёнка, точные условия карты и последовательность остановок. У парка есть варианты на 2–6 часов.",
+        "phone": "+506 2637 6020",
+        "email": "reservas@vlscr.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Снаряжение и подготовка",
+        "text": "Парк включает каску, обвязку и инструктаж. Нужна закрытая обувь для воды в подходящем варианте по правилам парка. Возьмите сухую смену и полотенце.",
+        "sources": [
+          "vls-herradura-canyoning-waterfalls"
+        ]
+      },
+      {
+        "title": "Решение в день выезда",
+        "text": "При высоком уровне воды уточните запасной участок или замену активности. Пешеходный вариант парка есть в общем каталоге.",
+        "sources": [
+          "vls-herradura-canyoning-waterfalls",
+          "vls-bookings-buggy-options"
+        ]
+      }
+    ],
+    "galleries": [
+      "vls-herradura-canyoning-waterfalls"
+    ],
+    "nearby": [
+      "herradura-vista-buggy-waterfalls",
+      "vista-suenos"
+    ]
+  },
+  "guachipelin-oropendola-horseback": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Hacienda Guachipelín · сбор в Adventure Center",
+        "note": "Здесь инструктор проверяет инвентарь и распределяет лошадей."
+      },
+      {
+        "point": "pailas-visitor-point",
+        "role": "Las Pailas · район водопада",
+        "note": "Регистрацию к водопаду и вход в парк размечают отдельно. Гид выбирает сегодняшний подход."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Guachipelín · водопад Оропендола",
+        "source": "guachipelin-contact-directions",
+        "url": "https://www.guachipelin.com/horseback-riding/horseback-riding-to-la-oropendola-waterfall/",
+        "note": "Возраст, вес и сопровождение, время сбора и доступ к воде.",
+        "phone": "+506 2690 2900",
+        "email": "info@guachipelin.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит",
+        "text": "Короткий подход к ущелью идёт пешком. Каску подбирает команда, а для прогулки рекомендует закрытые ботинки и длинные брюки. После дождя уточняйте поведение группы у воды.",
+        "sources": [
+          "guachi-oropendola-horseback",
+          "guachi-activities-faq-age"
+        ]
+      },
+      {
+        "title": "Комбинация на день",
+        "text": "Программу можно поставить рядом с прогулкой у кратеров или Río Negro. Покупайте отдельный вход SINAC только после сверки расписания и условий, если он потребуется.",
+        "sources": [
+          "guachi-oropendola-horseback",
+          "guachipelin-contact-directions"
+        ]
+      }
+    ],
+    "galleries": [
+      "guachi-oropendola-horseback"
+    ],
+    "nearby": [
+      "rio-negro-guachipelin-tubing",
+      "rincon-mtb"
+    ]
+  },
+  "drake-cano-guided-scuba": {
+    "stops": [
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Дрейк · район береговой посадки",
+        "note": "Drake Divers подтверждает пин и время отдельно. Посадка с пляжа зависит от моря."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Drake Divers · PADI Dive Center",
+        "source": "drake-divers-certified-cano",
+        "url": "https://drakedivers.com/diving/",
+        "note": "Сертификат, объём группы, медформа, размер снаряжения, пропуск SINAC и выход лодки.",
+        "phone": "+506 8310 3600",
+        "email": "info@drakedivers.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит",
+        "text": "На странице $155 за два и $210 за три погружения. Оператор описывает лодку, вход, снаряжение и обед. Размер группы для конкретного варианта уточните до подтверждения места.",
+        "sources": [
+          "drake-divers-certified-cano",
+          "padi-drake-dive-center"
+        ]
+      },
+      {
+        "title": "Допуск в охраняемую зону",
+        "text": "Возьмите сертификат и журнал, заполните медформу центра и проверьте покрытие страховки. Правила SINAC разрешают погружения в отведённых секторах.",
+        "sources": [
+          "cano-sinac-visit",
+          "drake-divers-certified-cano"
+        ]
+      }
+    ],
+    "galleries": [
+      "drake-divers-certified-cano",
+      "padi-drake-dive-center"
+    ],
+    "nearby": [
+      "cano-island",
+      "drake-without-car-3",
+      "drake-san-josecito-coastal"
+    ],
+    "videos": [
+      "drake-divers-cano-underwater-video"
+    ]
+  }
+}

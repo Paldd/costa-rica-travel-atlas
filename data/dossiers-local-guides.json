@@ -169,7 +169,9 @@
         "phone": "+506 8352 7227"
       }
     ],
-    "nearby": [],
+    "nearby": [
+      "quetzal-miramar-san-ramon-4x4"
+    ],
     "track": "pelon-zapotal-map",
     "galleries": [
       "pelon-zapotal-qbl"

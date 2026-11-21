@@ -163,6 +163,9 @@
       "cahuita-reef-snorkel",
       "alouatta-cahuita-roof",
       "estrella-cahuita-roof-3"
+    ],
+    "photos": [
+      "cahuita-shore-archive"
     ]
   },
   "alouatta-cahuita-roof": {
@@ -220,6 +223,9 @@
       "cahuita-trail",
       "cahuita-reef-snorkel",
       "estrella-cahuita-roof-3"
+    ],
+    "photos": [
+      "cahuita-shore-archive"
     ]
   },
   "kaniki-gandoca-roof": {
@@ -470,7 +476,10 @@
       "cahuita-reef-snorkel",
       "talamanca-reef-surf-3"
     ],
-    "line": "estrella-cahuita-roof-3"
+    "line": "estrella-cahuita-roof-3",
+    "photos": [
+      "cahuita-shore-archive"
+    ]
   },
   "gandoca-rooftop-lagoon-2": {
     "stops": [
@@ -620,6 +629,9 @@
       "dota-roof-trout-coffee-2",
       "laguna-don-manuel-camp",
       "los-quetzales"
+    ],
+    "videos": [
+      "selva-madre-los-robles-walk"
     ]
   },
   "finca-san-antonio-copey": {
@@ -675,6 +687,9 @@
       "coopedota-santa-maria-coffee",
       "los-quetzales",
       "dota-roof-trout-coffee-2"
+    ],
+    "videos": [
+      "finca-san-antonio-ticofam-field-notes"
     ]
   },
   "coopedota-santa-maria-coffee": {
@@ -797,7 +812,9 @@
       "coopedota-santa-maria-coffee",
       "laguna-don-manuel-camp",
       "finca-san-antonio-copey",
-      "los-quetzales"
+      "los-quetzales",
+      "dota-providencia-road-4x4",
+      "dota-providencia-doc-2"
     ],
     "line": "dota-roof-trout-coffee-2"
   },

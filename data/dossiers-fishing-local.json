@@ -812,6 +812,14 @@
           "rualdo-family-camp",
           "naranjo-municipal-turismo"
         ]
+      },
+      {
+        "title": "Костровая на ночёвке",
+        "text": "Alto del Rualdo публикует места для костра. В день выезда спросите, открыта ли зона и что выдают хозяева.",
+        "sources": [
+          "rualdo-family-camp",
+          "rualdo-camping-cr"
+        ]
       }
     ],
     "contacts": [
@@ -840,6 +848,9 @@
     "nearby": [
       "los-arroyos-family-fishing",
       "rualdo-overlanding"
+    ],
+    "galleries": [
+      "rualdo-family-camp"
     ]
   },
   "paquera-inshore-fishing": {

@@ -594,6 +594,13 @@
           "sinac-turrialba-official",
           "ovsicori-live-volcano-state"
         ]
+      },
+      {
+        "title": "Костровая при стоянке",
+        "text": "В опубликованной программе Hacienda La Central есть оборудованная территория и возможность костра. На регистрации спросите, какой очаг открыт по ветру и распоряжению хозяев.",
+        "sources": [
+          "central-turrialba-overland"
+        ]
       }
     ],
     "contacts": [
@@ -618,7 +625,10 @@
       "central-ruta-pilas-10",
       "la-central-overland-weekend-2"
     ],
-    "line": "la-pastora-central-calle"
+    "line": "la-pastora-central-calle",
+    "galleries": [
+      "central-turrialba-overland"
+    ]
   },
   "la-central-calle-pastora": {
     "stops": [
@@ -967,6 +977,13 @@
           "central-turrialba-overland",
           "aquiares-coffee-tour-operator"
         ]
+      },
+      {
+        "title": "Вечер на Hacienda La Central",
+        "text": "У хозяев есть места для стоянки с палаткой на крыше и вечернего костра. Согласуйте участок и правила огня до заезда, особенно при ветре.",
+        "sources": [
+          "central-turrialba-overland"
+        ]
       }
     ],
     "contacts": [
@@ -1001,7 +1018,10 @@
       "ira-tur-ebike-aquiares",
       "la-central-rooftop-camp"
     ],
-    "line": "la-pastora-central-calle"
+    "line": "la-pastora-central-calle",
+    "galleries": [
+      "central-turrialba-overland"
+    ]
   },
   "nosara-mtb-family-trails-6": {
     "stops": [

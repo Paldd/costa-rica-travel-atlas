@@ -90,6 +90,22 @@ def build_social(sources_by_id):
     return social
 
 
+def report_sources(record, sources_by_id):
+    dossier = record.get("dossier", {})
+    references = [
+        *record["sources"],
+        *dossier.get("galleries", []),
+        *(ref for section in dossier.get("sections", []) for ref in section["sources"]),
+        *(ref for stage in record.get("stages", []) for ref in stage.get("sources", [])),
+    ]
+    reports = {}
+    for ref in references:
+        source = sources_by_id[ref]
+        if source["kind"] == "experience":
+            reports.setdefault(source["url"].rstrip("/"), ref)
+    return list(reports.values())
+
+
 def main():
     sources = list(read_table(DATA / "sources.tsv", SOURCE_FIELDS))
     sources_by_id = {source["id"]: source for source in sources}
@@ -165,9 +181,11 @@ def main():
         if not record["sources"] or any(src not in sources_by_id for src in record["sources"]):
             raise ValueError(f"Unknown or missing source for {key}")
         record["checked"] = checked_by_record.get(key, metadata["checked"])
-        record["posts"] = social_matches.get(key, [])[:5]
+        record["posts"] = social_matches.get(key, [])
         if dossier := dossiers.get(key):
             record["dossier"] = dossier
+        if reports := report_sources(record, sources_by_id):
+            record["reportSources"] = reports
     if unknown_checks := checked_by_record.keys() - known_records:
         raise ValueError(f"Unknown records with check dates: {', '.join(sorted(unknown_checks))}")
     if unknown_dossiers := dossiers.keys() - known_records:
