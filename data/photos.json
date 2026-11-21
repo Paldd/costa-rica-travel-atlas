@@ -1,0 +1,110 @@
+{
+  "coco": {
+    "file": "water-coco.jpg",
+    "alt": "Бухта Плайяс-дель-Коко в сумерках",
+    "caption": "Плайяс-дель-Коко · берег бухты",
+    "author": "Kailash U",
+    "license": "CC0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playas_Del_Coco_(260449785).jpeg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "hermosa": {
+    "file": "water-hermosa.jpg",
+    "alt": "Парусная лодка у берега Плайя-Эрмоса",
+    "caption": "Плайя-Эрмоса в Гуанакасте · съёмка 2010 года",
+    "author": "Chepetoño",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Hermosa_Beach_Guanacaste.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "panama": {
+    "file": "water-panama.jpg",
+    "alt": "Вид с воздуха на берег у Плайя-Панама",
+    "caption": "Район Плайя-Панама · бухта Кулебра",
+    "author": "Kailash U",
+    "license": "CC0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Panama_Aerial_Shot_(259750835).jpeg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "flamingo-main": {
+    "file": "water-flamingo-main.jpg",
+    "alt": "Песчаный пляж Фламинго под облаками",
+    "caption": "Плайя-Фламинго · съёмка 2013 года",
+    "author": "Haakon S. Krohn",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Flamingo.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "dantita": {
+    "file": "water-dantita.jpg",
+    "alt": "Плайя-Дантита и деревья у светлого песка",
+    "caption": "Плайя-Дантита · съёмка 2025 года",
+    "author": "Dquesada17",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa-Dantita.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "san-lucas": {
+    "file": "water-san-lucas.jpg",
+    "alt": "Причал с ограждением у входа на остров Сан-Лукас",
+    "caption": "Главный причал Исла-Сан-Лукас · съёмка 2014 года",
+    "author": "Rodtico21",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Muelle_Isla_San_Lucas_Puntarenas_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "tortuga": {
+    "file": "water-tortuga.jpg",
+    "alt": "Пляж острова Тортуга и лесистый берег за бухтой",
+    "caption": "Исла-Тортуга · съёмка 2007 года",
+    "author": "Arturo Sotillo",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Isla_Tortuga._Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "tambor": {
+    "file": "water-tambor.jpg",
+    "alt": "Пляж Тамбора в заливе Бальена",
+    "caption": "Плайя-Тамбор · съёмка 2015 года",
+    "author": "Rodtico21",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Tambor._Costa_Rica_(6).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "ferry": {
+    "file": "water-ferry.jpg",
+    "alt": "Паром в заливе Никоя на закате",
+    "caption": "Переправа через залив Никоя · съёмка 2012 года",
+    "author": "Peloy (Allan H.M.)",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Ferry_del_atardecer._Puntarenas,_Costa_Rica._-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "arenal": {
+    "file": "water-arenal.jpg",
+    "alt": "Озеро Ареналь с берега у Эль-Фосфоро",
+    "caption": "Юго-восточный берег озера у Эль-Фосфоро · съёмка 2017 года",
+    "author": "ErickWikiLoco",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Arenal_Lake_2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "arenal-dam": {
+    "file": "water-arenal-dam.jpg",
+    "alt": "Водохранилище Ареналь в районе дамбы",
+    "caption": "Озеро Ареналь у дамбы · съёмка 2022 года",
+    "author": "BNP-CR506",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Arenal_Lake_dam.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "tronadora": {
+    "file": "water-tronadora.jpg",
+    "alt": "Ландшафт у берега озера в районе Тронадоры",
+    "caption": "Район Тронадоры · съёмка 2005 года",
+    "author": "Alex S",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Tronadora.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  }
+}

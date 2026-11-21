@@ -21,7 +21,8 @@ const pictures = {
   "marino-ballena": { file: "uvita.jpg", alt: "Иллюстрация берега Марино-Бальена в районе Увиты", caption: "Иллюстрация ландшафта" },
 };
 const prominent = ["sabana-oka", "chirripo", "marino-ballena"];
-const photoFor = row => pictures[row.id] || (row.native.includes("Arenal") ? { ...heroImage, caption: "Иллюстрация Ареналя" } : undefined);
+const photoFor = row => row.dossier?.photos?.[0] ?? pictures[row.id]
+  ?? (row.native.includes("Arenal") ? { ...heroImage, caption: "Иллюстрация Ареналя" } : undefined);
 
 function readRoute() {
   const [name = "catalog", query = ""] = window.location.hash.slice(1).split("?", 2);
@@ -196,6 +197,36 @@ function DossierContacts({ contacts, sources }) {
   </section>;
 }
 
+function RoutePhoto({ photo, className, loading }) {
+  return <figure className={className}>
+    <img src={asset(`photos/${photo.file}`)} alt={photo.alt} loading={loading} />
+    {photo.caption && <figcaption>
+      {photo.caption}
+      {photo.original && <> · <External href={photo.original}>{photo.author}</External>
+        {" · "}<External href={photo.licenseUrl}>{photo.license}</External></>}
+    </figcaption>}
+  </figure>;
+}
+
+function DossierMedia({ dossier, sources }) {
+  const photos = dossier?.photos?.slice(1) || [];
+  const videos = dossier?.videos || [];
+  if (!photos.length && !videos.length) return null;
+  const title = photos.length ? (videos.length ? "Фото и видео" : "Фотографии") : "Видео с места";
+  return <section className="dossier-section">
+    <h3>{title}</h3>
+    {photos.length > 0 && <div className="dossier-photo-grid">
+      {photos.map(photo => <RoutePhoto key={photo.file} photo={photo} className="dossier-photo" loading="lazy" />)}
+    </div>}
+    {videos.length > 0 && <ul className="dossier-videos">
+      {videos.map(id => {
+        const source = sources[id];
+        return <li key={id}><External href={source.url}>{source.title}</External><p>{source.scope}</p></li>;
+      })}
+    </ul>}
+  </section>;
+}
+
 function Detail({ row, atlas, route, saved, toggle }) {
   const query = new URLSearchParams(route.filters);
   const from = query.get("from");
@@ -221,10 +252,7 @@ function Detail({ row, atlas, route, saved, toggle }) {
         <p className="detail-intro">{row.summary}</p>
         <SaveButton row={row} saved={saved} toggle={toggle} large />
       </div>
-      {photo && <figure className="detail-photo">
-        <img src={asset(`photos/${photo.file}`)} alt={photo.alt} />
-        {photo.caption && <figcaption>{photo.caption}</figcaption>}
-      </figure>}
+      {photo && <RoutePhoto photo={photo} className="detail-photo" />}
     </section>
     <dl className="details-stats">
       {stats.map(([Icon, label, value]) => <div key={label}>
@@ -257,6 +285,7 @@ function Detail({ row, atlas, route, saved, toggle }) {
           <p>{section.text}</p>
           <div className="dossier-links">{section.sources.map(id => <External href={atlas.sources[id].url} key={id}>{atlas.sources[id].title}</External>)}</div>
         </section>)}
+        <DossierMedia dossier={dossier} sources={atlas.sources} />
         {Boolean(dossier?.nearby?.length) && <section className="dossier-section">
           <h3>Что добавить к поездке</h3>
           <ul>{dossier.nearby.map(id => <li key={id}><a href={urlFor("place", route.filters, id)}>{byId.get(id).title}</a></li>)}</ul>
@@ -289,6 +318,8 @@ function SourcesPage({ atlas }) {
   const [query, setQuery] = useState("");
   const overview = atlas.social.overview || {};
   const profiles = (atlas.social.profiles || []).filter(row => fold(row.name + " " + row.platform).includes(fold(query)));
+  const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length).length;
+  const withVideos = atlas.records.filter(row => row.dossier?.videos?.length).length;
   return <section className="sources-page">
     <h1>Источники</h1>
     <p className="page-lede">Проверки доступа, правила площадок и опыт путешественников.</p>
@@ -318,6 +349,7 @@ function SourcesPage({ atlas }) {
       </div>)}</div>
     </details>
     <details className="evidence-list"><summary>Фотографии и карта <ChevronDown size={18} /></summary>
+      <p>Фотографии с указанием автора есть в {withPhotos} из {atlas.records.length} карточек, ссылки на видео — в {withVideos}.</p>
       <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/MEDIA.md">Авторы, лицензии и иллюстрации</External></p>
     </details>
   </section>;

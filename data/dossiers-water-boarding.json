@@ -39,6 +39,31 @@
           "papagayo-priv-charter-contact",
           "marlin-coco-departure-faq"
         ]
+      },
+      {
+        "title": "Продолжительность",
+        "text": "Открытый утренний и дневной выходы занимают около 4 часов по программе Marlin del Rey. Добавьте время на регистрацию на пляже и переход через мелководье в пангу. Частный выезд на 8 часов бронируется отдельно.",
+        "sources": [
+          "marlin-coco-catamaran-direct",
+          "marlin-coco-departure-faq"
+        ]
+      },
+      {
+        "title": "Что проверить при записи и что взять",
+        "text": "Укажите состав группы, вес и возраст детей для подбора жилетов. Нужны защита от солнца, полотенце, сухой комплект одежды и пакет для телефона. Снаряжение для снорклинга входит в стандартную программу по описанию оператора. Открытый участок посадки проходите по указанию команды.",
+        "sources": [
+          "marlin-coco-catamaran-direct",
+          "marlin-coco-departure-faq",
+          "marlin-coco-local-guide-pickup"
+        ]
+      },
+      {
+        "title": "Наблюдение с берега",
+        "text": "Авторы Two Weeks in Costa Rica описывают посадку через мелководье и небольшой моторный катер. Если кому-то сложно заходить в воду или садиться в пангу, заранее спросите о посадке у причала на другом рейсе.",
+        "sources": [
+          "marlin-coco-local-guide-pickup",
+          "papagayo-marina-own-listing"
+        ]
       }
     ],
     "contacts": [
@@ -64,6 +89,13 @@
       "hermosa-pura-paddle",
       "papagayo-family-water-3",
       "tamarindo-catamaran"
+    ],
+    "photos": [
+      "coco",
+      "hermosa"
+    ],
+    "videos": [
+      "marlin-papagayo-video-operator"
     ]
   },
   "hermosa-pura-paddle": {
@@ -96,6 +128,22 @@
           "pura-paddle-hermosa-papagayo",
           "ict-papagayo-beaches-guide"
         ]
+      },
+      {
+        "title": "Сколько времени на прокат",
+        "text": "Pura Paddle предлагает почасовой прокат и прогулки с гидом. Для короткого занятия сначала сверьте продолжительность выбранной программы. Добавьте время на примерку жилетов и инструктаж на берегу. В паузу удобно зайти в береговое кафе.",
+        "sources": [
+          "pura-paddle-hermosa-papagayo",
+          "aquasport-hermosa-rest-stop"
+        ]
+      },
+      {
+        "title": "Экипировка для первой прогулки",
+        "text": "Проверьте наличие жилета по весу, размер весла и тип доски или каяка. Возьмите воду, защиту от солнца и гермомешок. Спросите, входит ли инструктор в выбранное занятие и где можно закончить раньше, если ребёнок устанет.",
+        "sources": [
+          "pura-paddle-hermosa-papagayo",
+          "ict-papagayo-beaches-guide"
+        ]
       }
     ],
     "contacts": [
@@ -119,6 +167,10 @@
       "hermosa-julio-local-boat",
       "panama-culebra-beach",
       "papagayo-family-water-3"
+    ],
+    "photos": [
+      "hermosa",
+      "panama"
     ]
   },
   "hermosa-julio-local-boat": {
@@ -151,6 +203,23 @@
           "incopesca-sport-fishing",
           "ict-papagayo-beaches-guide"
         ]
+      },
+      {
+        "title": "Продолжительность и запись",
+        "text": "У Хулио есть поездки для сёрфинга и снорклинга. До записи уточните сколько времени займёт сам переезд, сколько будет в воде, где вас высадят и в какой час вернут на берег. Для короткой семейной поездки попросите заранее прислать вариант без длинного перехода.",
+        "sources": [
+          "hermosa-boattrips-local-julio",
+          "hermosa-julio-boats-contact"
+        ]
+      },
+      {
+        "title": "На борту и у воды",
+        "text": "Согласуйте жилеты на взрослых и детей, наличие масок и разрешённое число пассажиров. Свою доску согласуйте по длине и способу перевозки. Возьмите воду, сухой комплект одежды и защиту от солнца. Условия рыбалки уточняйте по конкретной программе.",
+        "sources": [
+          "hermosa-boattrips-local-julio",
+          "hermosa-julio-boats-contact",
+          "incopesca-sport-fishing"
+        ]
       }
     ],
     "contacts": [
@@ -174,6 +243,10 @@
       "hermosa-pura-paddle",
       "papagayo-private-catamaran",
       "papagayo-family-water-3"
+    ],
+    "photos": [
+      "hermosa",
+      "coco"
     ]
   },
   "panama-culebra-beach": {
@@ -207,6 +280,22 @@
           "papagayo-marina-own-listing",
           "papagayo-priv-charter-contact"
         ]
+      },
+      {
+        "title": "Как распределить время",
+        "text": "Для самостоятельного семейного выезда выделите 2–3 часа на берег и обед как ориентир планирования. У пляжа есть участки с иной тенью и подходом. Перед выходом на воду пройдите берег и выберите вход по волне и приливу.",
+        "sources": [
+          "playa-panama-firsthand-shore",
+          "ict-papagayo-beaches-guide"
+        ]
+      },
+      {
+        "title": "С собой на берег",
+        "text": "Возьмите питьевую воду, лёгкую тень, защиту от солнца и обувь для мокрого песка. Наличие магазинчика и проката рядом с вашим подъездом проверьте заранее. Для лодки из района отеля согласуйте конкретный берег и возможность посадки с ребёнком.",
+        "sources": [
+          "playa-panama-firsthand-shore",
+          "el-mangroove-panama-charter"
+        ]
       }
     ],
     "contacts": [
@@ -231,6 +320,13 @@
       "hermosa-pura-paddle",
       "nacascolo-public-beach",
       "papagayo-family-water-3"
+    ],
+    "photos": [
+      "panama",
+      "hermosa"
+    ],
+    "videos": [
+      "nacascolo-arruma-mala-video"
     ]
   },
   "papagayo-private-catamaran": {
@@ -272,6 +368,23 @@
           "papagayo-priv-charter-contact",
           "papagayo-marina-own-listing"
         ]
+      },
+      {
+        "title": "Полдня и полный день",
+        "text": "Sailing Papagayo публикует утренний и дневной частные выходы по 4 часа и полный день на 8 часов. В утреннем варианте оператор указывает маски, доски SUP и рыболовное снаряжение. Сбор и прогулки с другими операторами зависят от марины и конкретного судна.",
+        "sources": [
+          "papagayo-priv-charter-direct",
+          "papagayo-marina-own-listing"
+        ]
+      },
+      {
+        "title": "До внесения оплаты",
+        "text": "Запросите письменное подтверждение точки посадки, продолжительности, числа пассажиров, размеров детских жилетов и что входит в цену. Для рыбалки отдельно уточните, нужна ли личная лицензия. В гермомешок положите сухую футболку и телефон, на борт возьмите защиту от солнца.",
+        "sources": [
+          "papagayo-priv-charter-direct",
+          "papagayo-priv-charter-contact",
+          "incopesca-sport-fishing"
+        ]
       }
     ],
     "contacts": [
@@ -289,6 +402,10 @@
       "nacascolo-public-beach",
       "coco-marlin-catamaran",
       "papagayo-family-water-3"
+    ],
+    "photos": [
+      "panama",
+      "coco"
     ]
   },
   "nacascolo-public-beach": {
@@ -321,6 +438,24 @@
           "nacascolo-public-entry-photo-notes",
           "ict-papagayo-beaches-guide"
         ]
+      },
+      {
+        "title": "Шаттл и пеший подход",
+        "text": "По полевому отчёту, поездка от парковки на шаттле заняла около 10 минут, затем около 5 минут пешком по настилу. В общий план добавьте ожидание в обе стороны. На месте узнайте, где попросить вызвать обратный шаттл и во сколько уходит последний.",
+        "sources": [
+          "nacascolo-parking-and-shuttle",
+          "nacascolo-public-entry-photo-notes"
+        ]
+      },
+      {
+        "title": "День с семьёй",
+        "text": "У точки высадки в полевом отчёте есть туалеты и душ. Возьмите питьё, еду и защиту от солнца. Настил описан как ровный на участке до пляжа, последние метры идут по песку. В видео и фотоотчёте видны конкретные участки берега. Фото в шапке показывает Плайя-Панама, соседнюю сторону бухты Кулебра.",
+        "sources": [
+          "nacascolo-parking-and-shuttle",
+          "nacascolo-sin-filtros-field",
+          "nacascolo-arruma-mala-video",
+          "nacascolo-discover-360"
+        ]
       }
     ],
     "contacts": [
@@ -329,12 +464,25 @@
         "source": "nacascolo-parking-and-shuttle",
         "note": "Карта парковки, остановка шаттла и фотографии подхода.",
         "url": "https://www.twoweeksincostarica.com/playa-nacascolo/"
+      },
+      {
+        "name": "ICT · управление зоной Папагайо",
+        "source": "ict-papagayo-polo-contact",
+        "note": "Спросите, куда обратиться по актуальному доступу к общим пляжам и шаттлу.",
+        "phone": "+506 2299 5800",
+        "url": "https://www.ict.go.cr/es/informacion-institucional/polo-turistico-golfo-papagayo"
       }
     ],
     "nearby": [
       "papagayo-private-catamaran",
       "panama-culebra-beach",
       "papagayo-family-water-3"
+    ],
+    "photos": [
+      "panama"
+    ],
+    "videos": [
+      "nacascolo-arruma-mala-video"
     ]
   },
   "papagayo-family-water-3": {
@@ -393,6 +541,25 @@
           "nacascolo-parking-and-shuttle",
           "papagayo-marina-own-listing"
         ]
+      },
+      {
+        "title": "Время по дням",
+        "text": "В первый день выделите 4 часа на стандартный катамаран и запас на сбор в Коко и переезд в Эрмосу. Во второй день выберите почасовой прокат или короткий береговой выезд. В третий день закладывайте достаточно времени на шаттл к Накасколо или выберите отдельный частный выход Sailing Papagayo на 4 или 8 часов.",
+        "sources": [
+          "marlin-coco-catamaran-direct",
+          "pura-paddle-hermosa-papagayo",
+          "nacascolo-parking-and-shuttle",
+          "papagayo-priv-charter-direct"
+        ]
+      },
+      {
+        "title": "Что сложить в машину",
+        "text": "Возьмите комплект сухой одежды для каждого дня, гермомешок, воду и защиту от солнца. Сохраните подтверждения поездок и точки сбора офлайн. Уточните жилеты для всех участников и кто в семье садится с пляжа. Для Накасколо дополнительно проверьте последний обратный шаттл.",
+        "sources": [
+          "marlin-coco-departure-faq",
+          "pura-paddle-hermosa-papagayo",
+          "nacascolo-parking-and-shuttle"
+        ]
       }
     ],
     "contacts": [
@@ -435,7 +602,16 @@
       "nacascolo-public-beach",
       "papagayo-private-catamaran"
     ],
-    "line": "papagayo-family-water-3"
+    "line": "papagayo-family-water-3",
+    "photos": [
+      "coco",
+      "hermosa",
+      "panama"
+    ],
+    "videos": [
+      "marlin-papagayo-video-operator",
+      "nacascolo-arruma-mala-video"
+    ]
   },
   "flamingo-marina-catamarans": {
     "stops": [
@@ -481,15 +657,34 @@
           "panache-flamingo-boarding",
           "lazy-lizard-flamingo-morning"
         ]
+      },
+      {
+        "title": "Сколько длится выход",
+        "text": "Оператор Panache указывает 4 часа для утреннего частного чартера. Утренний Lazy Lizard также занимает около 4 часов. Проверьте, где встречают именно ваш рейс, когда заканчивается регистрация и составляет ли время у берега часть программы.",
+        "sources": [
+          "panache-flamingo-boarding",
+          "lazy-lizard-flamingo-morning",
+          "marina-flamingo-official-entrance"
+        ]
+      },
+      {
+        "title": "Подготовка к посадке",
+        "text": "Возьмите подтверждение брони, полотенце, сухую одежду и защиту от солнца. Уточните детские жилеты, снасти для снорклинга, возможность подняться на борт без прыжка с пляжа и место парковки. Видеоотчёт относится к Panache.",
+        "sources": [
+          "panache-flamingo-boarding",
+          "lazy-lizard-flamingo-morning",
+          "panache-flamingo-two-weeks-video"
+        ]
       }
     ],
     "contacts": [
       {
         "name": "Panache Sailing",
-        "source": "panache-flamingo-catamaran",
+        "source": "panache-flamingo-public-contact",
         "note": "Попросите номер причала, время, условия посадки для ребёнка и нужный размер жилета.",
-        "url": "https://panachesailing.com/contact-us-2/",
-        "email": "info@panachesailing.com"
+        "url": "https://wa.me/50684950039",
+        "email": "info@panachesailing.com",
+        "phone": "+506 8495 0039"
       },
       {
         "name": "Lazy Lizard Sailing",
@@ -498,6 +693,13 @@
         "phone": "+506 2654 5900",
         "url": "https://lazylizardsailing.com/contact.html",
         "email": "reservations@lazylizardsailing.com"
+      },
+      {
+        "name": "Marina Flamingo",
+        "source": "marina-flamingo-official-entrance",
+        "note": "Парковка, ориентир сухопутного входа и правила доступа на территорию марины.",
+        "phone": "+506 4500 3000",
+        "url": "https://wa.me/50688472890"
       }
     ],
     "nearby": [
@@ -505,6 +707,12 @@
       "catalinas-sup",
       "dantita-shore-walk",
       "flamingo-catalinas-water-2"
+    ],
+    "photos": [
+      "flamingo-main"
+    ],
+    "videos": [
+      "panache-flamingo-two-weeks-video"
     ]
   },
   "dantita-shore-walk": {
@@ -543,14 +751,33 @@
           "lascatalinas-danta-dantita-kayak",
           "puravidaride-danta-paddle-coffee"
         ]
+      },
+      {
+        "title": "Расстояние и время",
+        "text": "На карте около 0,8 км в одну сторону. Авторы полевого отчёта указывают 5–10 минут на сам короткий нижний проход. В семейный план заложите примерно 30–45 минут на переход туда и обратно с паузами. Добавьте время на пляж и проверку прилива.",
+        "sources": [
+          "dantita-low-path-firsthand",
+          "danta-dantita-ambling-report",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Обувь и парковка",
+        "text": "Возьмите обувь с цепкой подошвой, воду и защиту от солнца. По наблюдению авторов, в январе основная стоянка была занята и пригодилась запасная. Спросите в Pura Vida Ride, открыт ли выбранный подход, и осмотрите первые метры тропы перед переходом всей группой.",
+        "sources": [
+          "dantita-low-path-firsthand",
+          "puravidaride-danta-paddle-coffee",
+          "danta-dantita-pao-video"
+        ]
       }
     ],
     "contacts": [
       {
         "name": "Pura Vida Ride · Playa Danta",
-        "source": "puravidaride-danta-paddle-coffee",
+        "source": "puravidaride-danta-direct-contact",
         "note": "Прокат, выдача жилетов, время на воду, состояние береговой тропы и часы кафе.",
-        "url": "https://www.puravidaride.com/"
+        "url": "https://wa.me/50685846045",
+        "phone": "+506 8584 6045"
       }
     ],
     "nearby": [
@@ -559,7 +786,14 @@
       "flamingo-marina-catamarans",
       "flamingo-catalinas-water-2"
     ],
-    "line": "dantita-shore-approach"
+    "line": "dantita-shore-approach",
+    "photos": [
+      "dantita",
+      "flamingo-main"
+    ],
+    "videos": [
+      "danta-dantita-pao-video"
+    ]
   },
   "flamingo-catalinas-water-2": {
     "stops": [
@@ -614,15 +848,35 @@
           "las-catalinas-danta-visit-direct",
           "dantita-low-path-firsthand"
         ]
+      },
+      {
+        "title": "Время по дням",
+        "text": "На утро первого дня выделите около 4 часов на катамаран и запас на регистрацию. Во второй день короткая тропа к Дантите может занять примерно 30–45 минут туда и обратно с паузами. Если выбираете греблю, уточните время выдачи и сдачи снаряжения отдельно.",
+        "sources": [
+          "panache-flamingo-boarding",
+          "lazy-lizard-flamingo-morning",
+          "dantita-low-path-firsthand",
+          "puravidaride-danta-paddle-coffee"
+        ]
+      },
+      {
+        "title": "Снаряжение и план на ветер",
+        "text": "Для тропы возьмите обувь с цепкой подошвой, запас воды и кепку. Для выхода на воду приготовьте сухой комплект и гермомешок. Уточните жилеты для детей. Если греблю отменят из-за ветра, проверьте проход к Дантите или оставьте Плайя-Данта и кафе.",
+        "sources": [
+          "lazy-lizard-flamingo-morning",
+          "dantita-low-path-firsthand",
+          "puravidaride-danta-paddle-coffee"
+        ]
       }
     ],
     "contacts": [
       {
         "name": "Panache Sailing",
-        "source": "panache-flamingo-catamaran",
+        "source": "panache-flamingo-public-contact",
         "note": "Попросите номер причала, время, условия посадки для ребёнка и нужный размер жилета.",
-        "url": "https://panachesailing.com/contact-us-2/",
-        "email": "info@panachesailing.com"
+        "url": "https://wa.me/50684950039",
+        "email": "info@panachesailing.com",
+        "phone": "+506 8495 0039"
       },
       {
         "name": "Lazy Lizard Sailing",
@@ -634,9 +888,10 @@
       },
       {
         "name": "Pura Vida Ride · Playa Danta",
-        "source": "puravidaride-danta-paddle-coffee",
+        "source": "puravidaride-danta-direct-contact",
         "note": "Прокат, выдача жилетов, время на воду, состояние береговой тропы и часы кафе.",
-        "url": "https://www.puravidaride.com/"
+        "url": "https://wa.me/50685846045",
+        "phone": "+506 8584 6045"
       }
     ],
     "nearby": [
@@ -645,7 +900,15 @@
       "catalinas-sup",
       "catalinas-emtb-12"
     ],
-    "line": "flamingo-catalinas-water-2"
+    "line": "flamingo-catalinas-water-2",
+    "photos": [
+      "flamingo-main",
+      "dantita"
+    ],
+    "videos": [
+      "panache-flamingo-two-weeks-video",
+      "danta-dantita-pao-video"
+    ]
   },
   "puntarenas-tortuga-bay-island": {
     "stops": [
@@ -685,6 +948,23 @@
           "bay-island-tortuga-puntarenas-boat",
           "paquera-ferry-live"
         ]
+      },
+      {
+        "title": "Сколько длится рейс",
+        "text": "Программа Bay Island указывает около 90 минут на переход и около 5 часов на острове. Выделите полный день. При трансфере попросите отдельно сообщить время выезда и возвращения для вашего адреса.",
+        "sources": [
+          "bay-island-puntarenas-program",
+          "bay-island-tortuga-puntarenas-boat"
+        ]
+      },
+      {
+        "title": "Что входит и что взять",
+        "text": "Проверьте включённые услуги и стоимость дополнительных активностей на острове. Возьмите купальные вещи, защиту от солнца, полотенце, подтверждение брони и деньги для расходов сверх программы. Если нужен трансфер, сверьте его в том же подтверждении.",
+        "sources": [
+          "bay-island-puntarenas-program",
+          "bay-island-tortuga-puntarenas-boat",
+          "ict-isla-tortuga-field"
+        ]
       }
     ],
     "contacts": [
@@ -702,6 +982,10 @@
       "tambor-tortuga-majestic",
       "isla-san-lucas-local-boat",
       "puntarenas-nicoya-islands-3"
+    ],
+    "photos": [
+      "tortuga",
+      "ferry"
     ]
   },
   "herradura-tortuga-costa-cat": {
@@ -741,6 +1025,23 @@
           "costa-cat-herradura-tortuga",
           "ict-isla-tortuga-field"
         ]
+      },
+      {
+        "title": "Время от причала до острова",
+        "text": "Публикуемое Costa Cat время плавания до острова около 45 минут. В расписании оператора два варианта на 7 часов 15 минут и 8 часов от выхода до возврата к причалу, с регистрацией за полчаса до выхода. Сверьте расписание, посадку и трансфер для своей даты.",
+        "sources": [
+          "costa-cat-herradura-tortuga",
+          "costa-cat-herradura-contact-maverick"
+        ]
+      },
+      {
+        "title": "Что взять на рейс",
+        "text": "Положите в небольшой гермомешок телефон, подтверждение брони и вещи для после купания. Возьмите полотенце и защиту от солнца. На связи с оператором проверьте размеры жилетов, точку регистрации и включённые активности на острове.",
+        "sources": [
+          "costa-cat-herradura-tortuga",
+          "costa-cat-herradura-contact-maverick",
+          "costa-cat-tortuga-2025-video"
+        ]
       }
     ],
     "contacts": [
@@ -758,6 +1059,12 @@
       "tambor-tortuga-majestic",
       "vista-suenos",
       "jaco-surf"
+    ],
+    "photos": [
+      "tortuga"
+    ],
+    "videos": [
+      "costa-cat-tortuga-2025-video"
     ]
   },
   "tambor-tortuga-majestic": {
@@ -803,6 +1110,22 @@
           "curu-refuge-official",
           "majestic-tambor-cabo-charters"
         ]
+      },
+      {
+        "title": "Продолжительность и сбор",
+        "text": "На сайте The Majestic общий тур из Тамбора заявлен на 6 часов. На рыбацкий причал просят приехать за 15 минут до отправления. Будьте готовы назвать число взрослых и детей, уточнить состав программы и время возврата.",
+        "sources": [
+          "majestic-tambor-isla-tortuga",
+          "majestic-tambor-cabo-charters"
+        ]
+      },
+      {
+        "title": "Что взять на катамаран",
+        "text": "Понадобятся купальные вещи, полотенце, защита от солнца и гермомешок. Семьям с детьми стоит заранее узнать о жилетах по размеру, посадке с причала и доступе к туалету. Дополнительные занятия на острове согласуйте до оплаты.",
+        "sources": [
+          "majestic-tambor-isla-tortuga",
+          "ict-isla-tortuga-field"
+        ]
       }
     ],
     "contacts": [
@@ -819,6 +1142,10 @@
       "curu-forest-coves",
       "paquera-ferry-weekend-3",
       "puntarenas-nicoya-islands-3"
+    ],
+    "photos": [
+      "tambor",
+      "tortuga"
     ]
   },
   "isla-san-lucas-local-boat": {
@@ -865,6 +1192,24 @@
           "cocos-tours-puntarenas-embarkation",
           "cocos-isla-bar-grill-puntarenas"
         ]
+      },
+      {
+        "title": "Время и документы",
+        "text": "Сверьте часы лодки, вход в парк и время обратного сбора у Coco’s Tours. Спросите, входит ли билет SINAC и нужен ли отдельный документ для регистрации каждого человека. Оставьте свободную часть дня до подтверждения обратного рейса, если у вас затем трансфер или паром.",
+        "sources": [
+          "cocos-tours-san-lucas-local",
+          "sinac-isla-san-lucas-access",
+          "sinac-san-lucas-bookings"
+        ]
+      },
+      {
+        "title": "Для пешего участка",
+        "text": "Возьмите воду, закрытую обувь, головной убор и защиту от солнца. У гида уточните, насколько открыт маршрут по исторической зоне, возможны ли скользкие ступени и где группа ждёт лодку. Фото причала архивное, поэтому место высадки определяет команда на день выезда.",
+        "sources": [
+          "cocos-tours-san-lucas-local",
+          "sinac-isla-san-lucas-access",
+          "san-lucas-antiguo-presidio-cultura"
+        ]
       }
     ],
     "contacts": [
@@ -886,6 +1231,9 @@
       "puntarenas-tortuga-bay-island",
       "puntarenas-nicoya-islands-3",
       "paquera-ferry-weekend-3"
+    ],
+    "photos": [
+      "san-lucas"
     ]
   },
   "puntarenas-nicoya-islands-3": {
@@ -955,6 +1303,27 @@
           "curu-refuge-official",
           "majestic-tambor-cabo-charters"
         ]
+      },
+      {
+        "title": "Запас времени на воде",
+        "text": "День 1 зависит от подтверждённой лодки и входа на Сан-Лукас. В день 2 Naviera Tambor просит быть в терминале за 30 минут. Время переправы и выезда с парома уточняйте на выбранный рейс. На день 3 The Majestic указывает 6 часов на тур из Тамбора, сбор за 15 минут.",
+        "sources": [
+          "cocos-tours-san-lucas-local",
+          "sinac-san-lucas-bookings",
+          "paquera-ferry-live",
+          "majestic-tambor-isla-tortuga"
+        ]
+      },
+      {
+        "title": "Билеты, одежда и переезды",
+        "text": "Сохраните запись в парк, билет парома и подтверждение катамарана отдельно. Для машины проверьте, сколько пассажиров включено в заказ, в том числе водитель. Возьмите сухую одежду на лодку, закрытую обувь для Сан-Лукаса, воду и солнцезащиту. Видео парома показывает процесс посадки, актуальные часы публикует перевозчик.",
+        "sources": [
+          "sinac-san-lucas-bookings",
+          "paquera-ferry-live",
+          "naviera-tambor-paquera-booking",
+          "paquera-ferry-mytanfeet-video",
+          "majestic-tambor-isla-tortuga"
+        ]
       }
     ],
     "contacts": [
@@ -983,9 +1352,11 @@
       },
       {
         "name": "Naviera Tambor",
-        "source": "paquera-ferry-live",
+        "source": "naviera-tambor-direct-contact",
         "note": "Терминал, время парома, пассажирские места и правила перевозки автомобиля.",
-        "url": "https://navieratambor.com/horarios-y-tarifas"
+        "url": "https://navieratambor.com/contact",
+        "phone": "+506 2661 2084",
+        "email": "info@navieratambor.com"
       }
     ],
     "nearby": [
@@ -995,7 +1366,15 @@
       "paquera-ferry-weekend-3",
       "curu-forest-coves"
     ],
-    "line": "puntarenas-nicoya-islands-3"
+    "line": "puntarenas-nicoya-islands-3",
+    "photos": [
+      "san-lucas",
+      "ferry",
+      "tortuga"
+    ],
+    "videos": [
+      "paquera-ferry-mytanfeet-video"
+    ]
   },
   "nuevo-arenal-parque-lago-own": {
     "stops": [
@@ -1037,6 +1416,24 @@
           "tilaran-lago-arenal-visitor-conditions",
           "fishing-sinac"
         ]
+      },
+      {
+        "title": "Сколько времени на берегу",
+        "text": "Выделите хотя бы час на осмотр спуска, разгрузку, сбор и укладку своего судна. Время на воде выбирайте после проверки ветра. Оставьте запас на возвращение на ту же рампу. Видео местного рыболова показывает фактическую парковку и спуск.",
+        "sources": [
+          "nuevo-arenal-ramp-town-field",
+          "nuevo-arenal-ramp-locals-day",
+          "tilaran-lago-arenal-visitor-conditions"
+        ]
+      },
+      {
+        "title": "Свой SUP или каяк",
+        "text": "Возьмите жилет по размеру, насос для надувной лодки, гермомешок, питьё и средство связи. Спросите у муниципалитета, действует ли отдельный порядок для прицепов и моторных судов. На фото виден другой берег Ареналя, сама рампа отмечена на карте и показана в видео.",
+        "sources": [
+          "nuevo-arenal-ramp-town-field",
+          "nuevo-arenal-ramp-locals-day",
+          "tilaran-water-access-contact"
+        ]
       }
     ],
     "contacts": [
@@ -1051,7 +1448,9 @@
         "name": "Arenal Water Sports",
         "source": "arenal-water-sports-east-branch",
         "note": "Попросите актуальную точку сбора на озере, тип SUP/каяка и подходящее окно ветра.",
-        "url": "https://arenalwatersports.com/"
+        "url": "https://wa.me/50684126970",
+        "phone": "+506 8412 6970",
+        "email": "info@arenalwatersports.com"
       }
     ],
     "nearby": [
@@ -1059,6 +1458,13 @@
       "arenal-local-roof-paddle-2",
       "tronadora-roof",
       "arenal-paddle"
+    ],
+    "photos": [
+      "arenal",
+      "tronadora"
+    ],
+    "videos": [
+      "nuevo-arenal-ramp-locals-day"
     ]
   },
   "arenal-east-association-sup": {
@@ -1092,6 +1498,24 @@
           "tilaran-lago-arenal-visitor-conditions",
           "arenal-lake-local"
         ]
+      },
+      {
+        "title": "Варианты по времени",
+        "text": "Arenal Water Sports публикует отдельную двухчасовую программу с прогулочной лодкой и SUP. Геометка Arenal Boat Rental Association обозначает отдельный береговой доступ. Длительность аренды и место выдачи подтвердите у той команды, чью программу выбрали.",
+        "sources": [
+          "arenal-water-sports-east-branch",
+          "arenal-boat-rental-association-pin",
+          "arenal-lake-local"
+        ]
+      },
+      {
+        "title": "Что уточнить про прокат",
+        "text": "Уточните размер жилетов, весло, наличие сухого места для вещей и время возврата. Привезите воду, защиту от солнца и сухую одежду. Спросите, возможен ли выход со своим SUP и есть ли инструктор для первого занятия.",
+        "sources": [
+          "arenal-water-sports-east-branch",
+          "arenal-lake-local",
+          "tilaran-lago-arenal-visitor-conditions"
+        ]
       }
     ],
     "contacts": [
@@ -1099,7 +1523,9 @@
         "name": "Arenal Water Sports",
         "source": "arenal-water-sports-east-branch",
         "note": "Попросите актуальную точку сбора на озере, тип SUP/каяка и подходящее окно ветра.",
-        "url": "https://arenalwatersports.com/"
+        "url": "https://wa.me/50684126970",
+        "phone": "+506 8412 6970",
+        "email": "info@arenalwatersports.com"
       }
     ],
     "nearby": [
@@ -1107,6 +1533,10 @@
       "arenal-paddle",
       "arenal-autocamp-3",
       "arenal-local-roof-paddle-2"
+    ],
+    "photos": [
+      "arenal-dam",
+      "arenal"
     ]
   },
   "arenal-local-roof-paddle-2": {
@@ -1151,6 +1581,25 @@
           "nuevo-arenal-paddle-park-meeting",
           "nuevo-arenal-ramp-locals-day"
         ]
+      },
+      {
+        "title": "Время на ночёвку и переезд",
+        "text": "В первый день важнее всего успеть к согласованному времени въезда в кемпинг. Во второй день дорожная линия от лагеря до Parque del Lago около 32,3 км. Добавьте время на сбор палатки, остановку в посёлке, разгрузку лодки и проверку ветра перед спуском.",
+        "sources": [
+          "camp-tronadora",
+          "nuevo-arenal-ramp-town-field",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Экипировка и согласование",
+        "text": "Возьмите крепление для палатки, противооткатные упоры по необходимости, налобный фонарь, запас воды, жилеты и гермомешок. У лагеря подтвердите место под разложенную крышу, доступ к воде и наличие душа. Спуск на территории лагеря и публичная рампа в Нуэво-Аренале имеют разные условия.",
+        "sources": [
+          "camp-tronadora",
+          "tilaran-tronadora-peninsula",
+          "nuevo-arenal-ramp-town-field",
+          "nuevo-arenal-ramp-locals-day"
+        ]
       }
     ],
     "contacts": [
@@ -1178,7 +1627,9 @@
         "name": "Arenal Water Sports",
         "source": "arenal-water-sports-east-branch",
         "note": "Попросите актуальную точку сбора на озере, тип SUP/каяка и подходящее окно ветра.",
-        "url": "https://arenalwatersports.com/"
+        "url": "https://wa.me/50684126970",
+        "phone": "+506 8412 6970",
+        "email": "info@arenalwatersports.com"
       }
     ],
     "nearby": [
@@ -1187,6 +1638,13 @@
       "arenal-east-association-sup",
       "tronadora-weekend-roof"
     ],
-    "line": "arenal-local-roof-paddle-2"
+    "line": "arenal-local-roof-paddle-2",
+    "photos": [
+      "tronadora",
+      "arenal"
+    ],
+    "videos": [
+      "nuevo-arenal-ramp-locals-day"
+    ]
   }
 }

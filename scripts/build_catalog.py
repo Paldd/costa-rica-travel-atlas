@@ -3,6 +3,7 @@
 import csv
 import json
 from pathlib import Path
+from urllib.parse import urlsplit
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -43,6 +44,16 @@ def main():
         points[key] = {**point, "coords": coords}
 
     lines = json.loads((DATA / "route-lines.json").read_text())
+    photos = json.loads((DATA / "photos.json").read_text())
+    for key, photo in photos.items():
+        file = photo.get("file", "")
+        if (
+            not isinstance(file, str) or Path(file).name != file
+            or not (ROOT / "public" / "photos" / file).is_file()
+            or any(not photo.get(field) for field in ("alt", "caption", "author", "license"))
+            or any(urlsplit(photo.get(field, "")).scheme != "https" for field in ("original", "licenseUrl"))
+        ):
+            raise ValueError(f"Missing image or photo credit for {key}")
     dossiers = {}
     for path in sorted(DATA.glob("dossiers*.json")):
         for key, dossier in json.loads(path.read_text()).items():
@@ -51,6 +62,13 @@ def main():
             dossier["stops"] = [
                 {**stop, **points[stop["point"]]} for stop in dossier.get("stops", [])
             ]
+            if "photos" in dossier:
+                photo_ids = dossier["photos"]
+                if len(photo_ids) != len(set(photo_ids)) or any(photo not in photos for photo in photo_ids):
+                    raise ValueError(f"Unknown or repeated photo for {key}")
+                dossier["photos"] = [photos[photo] for photo in photo_ids]
+            if any(video not in sources_by_id for video in dossier.get("videos", [])):
+                raise ValueError(f"Unknown video source for {key}")
             dossiers[key] = dossier
 
     records = []
