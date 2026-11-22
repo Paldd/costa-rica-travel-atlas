@@ -2615,6 +2615,15 @@
           "publisher-lossuenos-deepsea",
           "maverick"
         ]
+      },
+      {
+        "title": "Капитан и отдельный катер Trophy Fly",
+        "text": "В ленте команды есть выход на Trophy Fly. Посмотрите спецификацию и вместимость конкретного катера и согласуйте с командой точку швартовки, лицензию и снасти.",
+        "sources": [
+          "fb-full-maverick-trophy",
+          "trophy-fly-maverick",
+          "incopesca-sport-fishing-card"
+        ]
       }
     ],
     "contacts": [
@@ -2629,7 +2638,8 @@
       "jaco-surf",
       "quepos-catamaran",
       "vista-suenos",
-      "herradura-tortuga-costa-cat"
+      "herradura-tortuga-costa-cat",
+      "herradura-trophy-fly-offshore"
     ],
     "track": "maverick-herradura-departure",
     "galleries": [

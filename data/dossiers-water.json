@@ -946,6 +946,16 @@
           "ocean-king-report",
           "quepos-ict"
         ]
+      },
+      {
+        "title": "Рыбалка и календарь Marina Pez Vela",
+        "text": "Marina Pez Vela публикует ноябрьский отчёт Dorado Derby Dos 2026 и правила завершившегося турнира. Для обычного выезда на махи-махи местный экипаж Gran Gallo предлагает береговые и дальние программы. Уточняйте лицензию, длительность и условия по ветру.",
+        "sources": [
+          "fb-full-pez-vela-derby",
+          "quepos-dorado-derby-record",
+          "quepos-gran-gallo",
+          "incopesca-sport-fishing-card"
+        ]
       }
     ],
     "contacts": [
@@ -965,7 +975,8 @@
     ],
     "nearby": [
       "quepos-catamaran",
-      "sierpe-fishing"
+      "sierpe-fishing",
+      "manuel-antonio-claro-que-si"
     ]
   },
   "quepos-catamaran": {

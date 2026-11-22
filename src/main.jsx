@@ -414,6 +414,7 @@ function SourcesPage({ atlas }) {
     (coverage !== "archive" || row.publisher?.archive) &&
     (coverage !== "copies" || row.copySample) &&
     (coverage !== "live" || row.liveCheck) &&
+    (coverage !== "text-unconfirmed" || row.liveCheck && row.liveCheck.status !== "feed-visible") &&
     (coverage !== "live-pending" || !row.liveCheck) &&
     fold([row.name, row.url, row.category, row.zone, row.platform, atlas.sources[row.publisher?.site]?.url].join(" ")).includes(needle)
   );
@@ -460,6 +461,7 @@ function SourcesPage({ atlas }) {
             <option value="copies">Есть прочитанные копии</option>
             <option value="archive">Есть архив сайта</option>
             <option value="live">С отметкой проверки ленты</option>
+            <option value="text-unconfirmed">Текст автора пока не подтверждён</option>
             <option value="live-pending">Без отметки проверки ленты</option>
           </select>
         </div>

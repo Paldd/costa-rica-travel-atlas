@@ -1,0 +1,78 @@
+[
+  {
+    "id": "arenal-gondola-night-forest-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Ареналь за два дня · гондола, лес после заката и ночёвка",
+    "native": "Sky Adventures · Mano del Arenal · Presa Arenal · Mistico · Arenal Glamping",
+    "level": "moderate",
+    "days": 2,
+    "distance": null,
+    "activities": [
+      "hiking",
+      "glamping",
+      "forest",
+      "volcano",
+      "views",
+      "wildlife",
+      "relax"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping",
+      "lodge"
+    ],
+    "sources": [
+      "sky-tram-owner",
+      "sky-tram-terms",
+      "mistico-official-night",
+      "mistico-official-twilight",
+      "arenal-sky-mistico-drive-osm",
+      "fortuna-arenal-glamping-host"
+    ],
+    "summary": "В первый день поднимитесь на гондоле к «Руке Ареналя» и выберите ночёвку в районе Ла-Фортуны. Во второй — дневная или вечерняя прогулка по мостам с натуралистом.",
+    "plan": "Сначала согласуйте время вечерней программы с учётом возраста. Затем доберите гондолу, ночёвку и обратный транспорт.",
+    "conditions": "Вечерние программы с 10 лет. Для семьи с младшими детьми подходит дневной обход Мистико. При ливне уточните открытие троп и видимость на смотровой.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Гондола, смотровая и ночёвка",
+        "note": "Заезжайте в Sky Adventures утром, затем поставьте машину на базе или в глэмпинге.",
+        "stops": [
+          "arenal-sky-aerial-hand",
+          "fortuna-arenal-glamping-family"
+        ],
+        "sources": [
+          "sky-tram-owner",
+          "fortuna-arenal-glamping-host"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Мистико · дневные мосты или лес после заката",
+        "note": "Выберите один вариант. Сумеречный начинается около 16:30, короткий ночной около 18:00.",
+        "stops": [
+          "mistico",
+          "mistico-twilight-bridges-32",
+          "mistico-night-walk-15"
+        ],
+        "sources": [
+          "mistico-official-twilight",
+          "mistico-official-night",
+          "arenal-sky-mistico-drive-osm"
+        ]
+      }
+    ]
+  }
+]

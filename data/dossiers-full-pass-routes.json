@@ -1,0 +1,413 @@
+{
+  "mistico-night-walk-15": {
+    "stops": [
+      {
+        "point": "mistico-park-entry",
+        "role": "Мистико · касса и встреча с проводником",
+        "note": "Въезд возле дамбы, дальше по местной дороге. Получите часы вечернего сбора на своей брони."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит в ночной вариант",
+        "text": "Оператор указывает выход в 18:00, около 1,5 км и 2,5 часа с натуралистом. В опубликованном комбинированном варианте ночью проходят один мост. Можно услышать лягушек и увидеть ночных насекомых или отдыхающих птиц. Парк указывает возраст от 10 лет.",
+        "sources": [
+          "mistico-official-night",
+          "mistico-night-ict",
+          "fb-full-mistico-night"
+        ]
+      },
+      {
+        "title": "Дорога и снаряжение",
+        "text": "Согласуйте машину обратно до начала. Возьмите тонкий дождевик, закрытую обувь и маленький рюкзак. Уточните у парка, выдаётся ли фонарь в вашей группе и нужна ли помощь с подъездом. В опубликованном разделе программы указано 1,5 км, в разделе вопросов встречается и 3,2 км. Запросите длину выбранного маршрута при записи.",
+        "sources": [
+          "mistico-official-night",
+          "mistico-night-family-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Místico Park · вечерние экскурсии",
+        "source": "mistico-official-night",
+        "note": "Подтвердите раздел маршрута, возраст, язык гида, выдачу фонарей и вечерний трансфер.",
+        "phone": "+506 2479 8282",
+        "email": "info@misticopark.com"
+      }
+    ],
+    "nearby": [
+      "mistico",
+      "mistico-twilight-bridges-32",
+      "arenal-gondola-night-forest-2"
+    ],
+    "galleries": [
+      "mistico-official-night"
+    ],
+    "videos": [
+      "mistico-night-operator-film"
+    ],
+    "connectStops": false
+  },
+  "mistico-twilight-bridges-32": {
+    "stops": [
+      {
+        "point": "mistico-park-entry",
+        "role": "Мистико · касса и встреча с проводником",
+        "note": "Въезд возле дамбы, дальше по местной дороге. Получите часы вечернего сбора на своей брони."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Переход от дневного леса к ночному",
+        "text": "Группа стартует около 16:30 и проходит 3,2 км за примерно 2,5 часа. На первых мостах ещё есть дневной свет. Во второй части натуралист помогает слушать и замечать животных в темноте. Парк указывает возраст от 10 лет.",
+        "sources": [
+          "mistico-official-twilight",
+          "mistico-night-family-report"
+        ]
+      },
+      {
+        "title": "Как выбрать вариант для семьи",
+        "text": "Для короткого маршрута по темноте есть отдельная программа в 18:00. Семьи с младшими детьми могут выбрать дневную прогулку по мостам и выйти засветло. Подтвердите время посадки в машину, длину открытой части и наличие шлема или фонаря по правилам группы.",
+        "sources": [
+          "mistico-official-twilight",
+          "mistico-official-night",
+          "mistico-self-guided"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Místico Park · вечерние экскурсии",
+        "source": "mistico-official-night",
+        "note": "Подтвердите раздел маршрута, возраст, язык гида, выдачу фонарей и вечерний трансфер.",
+        "phone": "+506 2479 8282",
+        "email": "info@misticopark.com"
+      }
+    ],
+    "nearby": [
+      "mistico",
+      "mistico-night-walk-15",
+      "arenal-gondola-night-forest-2"
+    ],
+    "galleries": [
+      "mistico-official-twilight"
+    ],
+    "connectStops": false
+  },
+  "arenal-sky-aerial-hand": {
+    "stops": [
+      {
+        "point": "arenal-sky-entry",
+        "role": "Sky Adventures · вход и нижняя станция гондолы",
+        "note": "Верхняя площадка находится на территории экскурсии. К ней поднимаются на гондоле."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Гондола и верхняя смотровая",
+        "text": "Гондола поднимается через разные ярусы леса. Наверху есть обзорная площадка и скульптура руки с видом на озеро. У гондолы свой билет. Спросите, сколько времени можно провести наверху и как часто идут кабины обратно.",
+        "sources": [
+          "sky-tram-owner",
+          "sky-tram-la-fortuna-guide",
+          "ig-full-skyadventurescr",
+          "fb-full-sky-hand"
+        ]
+      },
+      {
+        "title": "Вход с ребёнком",
+        "text": "Правила Sky Adventures предусматривают бесплатный вход на гондолу для детей младше пяти лет. Приезжайте за 15 минут и заранее сообщите оператору, если едете с коляской или требуется помощь с посадкой. Верхняя смотровая зависит от видимости.",
+        "sources": [
+          "sky-tram-terms",
+          "sky-tram-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sky Adventures · гондола",
+        "source": "sky-tram-owner",
+        "note": "Время подъёма и спуска, детский билет, доступ с коляской и перенос при плохой видимости.",
+        "phone": "+506 2479 4100",
+        "whatsapp": "https://wa.me/50624794100",
+        "email": "explore@skyadventures.travel"
+      }
+    ],
+    "nearby": [
+      "arenal-sky",
+      "mistico",
+      "arenal-gondola-night-forest-2"
+    ],
+    "galleries": [
+      "sky-tram-owner",
+      "sky-tram-la-fortuna-guide"
+    ],
+    "connectStops": false
+  },
+  "san-jose-museo-bellavista": {
+    "stops": [
+      {
+        "point": "museo-nacional-plaza",
+        "role": "Площадь Демократии · подход к западному входу",
+        "note": "С площади следуйте к кассе по указателям. Варианты доступного подъезда указаны на плане музея."
+      },
+      {
+        "point": "museo-nacional-bellavista",
+        "role": "Bellavista · залы и двор музея",
+        "note": "Метка обозначает район здания, а на официальном плане видны касса, зал и сад бабочек."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут на полдня",
+        "text": "Начните с сада бабочек. Дальше можно через двор пройти в зал доколумбовой истории и к открытым экспозициям казарм. С детьми удобно выбрать один зал и короткую прогулку по двору. На интерактивной схеме указаны туалеты, лестницы и гардероб.",
+        "sources": [
+          "museum-national-interactive",
+          "museum-national-history",
+          "ig-full-museonacionalcr"
+        ]
+      },
+      {
+        "title": "Вход в выходные",
+        "text": "Пост музея объявляет свободный вход в выходные. Подробная страница посещения указывает субботу и воскресенье для граждан и резидентов по действующему удостоверению. Для иностранных гостей выделены обычный и студенческий тарифы. По воскресеньям музей публикует часы с 09:00 до 16:30.",
+        "sources": [
+          "fb-full-museo-weekends",
+          "museum-national-entry"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Museo Nacional · касса и информация",
+        "source": "museum-national-entry",
+        "note": "Уточните вход, временные выставки, документы для льгот и доступность.",
+        "phone": "+506 2211 5700",
+        "email": "informacion@museocostarica.go.cr"
+      }
+    ],
+    "galleries": [
+      "museum-national-interactive",
+      "museum-national-history"
+    ],
+    "photos": [
+      "museum-bellavista-commons"
+    ],
+    "connectStops": false
+  },
+  "nosara-raiz-bodhi-cafe": {
+    "stops": [
+      {
+        "point": "nosara-raiz-bodhi-pin",
+        "role": "Bodhi Tree · территория Raíz",
+        "note": "Официальная страница показывает въезд к комплексу. Маршрут до ресторана спросите на стойке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кофе, обед и пятница",
+        "text": "Ресторан находится рядом с йога-центром среди зелени. Владелец указывает меню à la carte с 07:00 до 22:00 и отдельный буфет. Публикация упоминает кофе утром, обед и музыку по пятницам. Уточните расписание конкретного вечера.",
+        "sources": [
+          "nosara-raiz-owner",
+          "ig-full-bodhitreeyogaresort",
+          "nosara-raiz-reservations"
+        ]
+      },
+      {
+        "title": "Заехать после велопрогулки",
+        "text": "Оставьте остановку на обед после коротких трасс Носары. Проверьте, где можно безопасно поставить велосипед, и заранее укажите число участников. Для меню и свежих гостевых впечатлений есть отдельные страницы.",
+        "sources": [
+          "nosara-raiz-owner",
+          "nosara-raiz-reservations",
+          "nosara-raiz-guest"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Raíz · бронирование ресторана",
+        "source": "nosara-raiz-owner",
+        "note": "Часы кухни, меню, пятничное расписание и место для велосипедов.",
+        "phone": "+506 8741 0117",
+        "whatsapp": "https://wa.me/50687410117"
+      }
+    ],
+    "nearby": [
+      "nosara-mtb-family-trails-6",
+      "nosara-emtb-hills-halfday"
+    ],
+    "galleries": [
+      "nosara-raiz-owner",
+      "nosara-raiz-guest"
+    ],
+    "connectStops": false
+  },
+  "manuel-antonio-claro-que-si": {
+    "stops": [
+      {
+        "point": "claro-que-si-restaurant-pin",
+        "role": "Claro Que Sí · ресторан на склоне",
+        "note": "По карте здание находится на территории Sí Como No. Место парковки и проход уточняйте у стойки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кухня и вид",
+        "text": "Владелец публикует меню из местных продуктов с акцентом на кухню Кепоса. Публикация курорта показывает открытую террасу с зеленью вокруг. Для столика с видом запрашивайте конкретное место и время.",
+        "sources": [
+          "claro-que-si-owner",
+          "claro-que-si-menu",
+          "ig-full-sicomonoresort"
+        ]
+      },
+      {
+        "title": "Доступ с дороги 618",
+        "text": "Если едете после парка, доберитесь до Sí Como No и уточните подъезд к ресторану. Для группы с коляской попросите схему от парковки. В местном справочнике есть контакты и навигация.",
+        "sources": [
+          "claro-que-si-local-guide",
+          "claro-que-si-pin",
+          "claro-que-si-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Claro Que Sí · столик и меню",
+        "source": "claro-que-si-owner",
+        "note": "Уточните открытость террасы, проход, парковку и блюда для детей."
+      },
+      {
+        "name": "Sí Como No · стойка гостиницы",
+        "source": "claro-que-si-hotel-contact",
+        "note": "Въезд, ближайшая парковка и проход к ресторану.",
+        "phone": "+506 2777 0777",
+        "whatsapp": "https://wa.me/50683377337"
+      }
+    ],
+    "nearby": [
+      "quepos-boat"
+    ],
+    "galleries": [
+      "claro-que-si-owner",
+      "claro-que-si-local-guide"
+    ],
+    "connectStops": false
+  },
+  "herradura-trophy-fly-offshore": {
+    "stops": [
+      {
+        "point": "los-suenos-marina-point",
+        "role": "Los Sueños · район коммерческого причала",
+        "note": "Номер швартовки и время выдачи разрешений подтвердит команда Trophy Fly."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Катер и команда",
+        "text": "Оператор указывает 45 футов, вместимость до шести рыболовов и полный экипаж. На странице команды можно увидеть, кто ведёт Trophy Fly. Попросите длительность чартера, число пассажиров, состав снастей, питание и план возвращения.",
+        "sources": [
+          "trophy-fly-maverick",
+          "maverick-captains",
+          "fb-full-maverick-trophy"
+        ]
+      },
+      {
+        "title": "Лицензия, море и отчёты",
+        "text": "Проверьте правила спортивного лова и оформление лицензии у INCOPESCA. График морского выхода зависит от ветра, а отчёты экипажа дают представление об условиях прошлых поездок. Возьмите защиту от солнца, сухой слой и обувь для палубы.",
+        "sources": [
+          "incopesca-sport-fishing-card",
+          "maverick-herradura-oct-2026",
+          "trophy-fly-maverick"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Maverick Sportfishing · Trophy Fly",
+        "source": "trophy-fly-maverick",
+        "note": "Бронь, место подачи катера, комплект снастей, лицензия и варианты при плохой погоде.",
+        "phone": "+506 2637 8942",
+        "email": "info@mavericksportfish.com"
+      }
+    ],
+    "nearby": [
+      "maverick",
+      "quepos-boat"
+    ],
+    "galleries": [
+      "trophy-fly-maverick",
+      "maverick-captains"
+    ],
+    "connectStops": false
+  },
+  "arenal-gondola-night-forest-2": {
+    "stops": [
+      {
+        "point": "arenal-sky-entry",
+        "role": "Sky Adventures · вход и нижняя станция гондолы",
+        "note": "Верхняя площадка находится на территории экскурсии. К ней поднимаются на гондоле."
+      },
+      {
+        "point": "arenal-dam",
+        "role": "Дамба Ареналя · дорожный ориентир",
+        "note": "От дамбы продолжайте к въезду Mistico по выделенной карте. Машину оставляйте в разрешённом месте."
+      },
+      {
+        "point": "mistico-park-entry",
+        "role": "Мистико · касса и встреча с проводником",
+        "note": "Въезд возле дамбы, дальше по местной дороге. Получите часы вечернего сбора на своей брони."
+      }
+    ],
+    "line": "arenal-forest-day-drive",
+    "sections": [
+      {
+        "title": "13,2 км между парками",
+        "text": "Автомобильный участок рассчитан по дорогам от базы Sky Adventures через дамбу к въезду Mistico. Заранее организуйте обратную машину после ночной программы. К месту ночёвки удобнее вернуться тем же коридором.",
+        "sources": [
+          "arenal-sky-mistico-drive-osm",
+          "sky-tram-owner",
+          "mistico-official-night"
+        ]
+      },
+      {
+        "title": "Выбор по возрасту и погоде",
+        "text": "Семьи с детьми от 10 лет могут выбрать ночной маршрут на 1,5 км или сумеречный на 3,2 км. Для младших остаются гондола, дневные мосты и отдых в лагере. При скрытой облаками смотровой можно поменять дни местами после сверки билетов.",
+        "sources": [
+          "mistico-official-night",
+          "mistico-official-twilight",
+          "mistico-self-guided",
+          "sky-tram-terms"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sky Adventures · гондола",
+        "source": "sky-tram-owner",
+        "note": "Время подъёма и спуска, детский билет, доступ с коляской и перенос при плохой видимости.",
+        "phone": "+506 2479 4100",
+        "whatsapp": "https://wa.me/50624794100",
+        "email": "explore@skyadventures.travel"
+      },
+      {
+        "name": "Místico Park · вечерние экскурсии",
+        "source": "mistico-official-night",
+        "note": "Подтвердите раздел маршрута, возраст, язык гида, выдачу фонарей и вечерний трансфер.",
+        "phone": "+506 2479 8282",
+        "email": "info@misticopark.com"
+      }
+    ],
+    "nearby": [
+      "arenal-sky-aerial-hand",
+      "mistico-night-walk-15",
+      "mistico-twilight-bridges-32",
+      "fortuna-arenal-glamping-family"
+    ],
+    "galleries": [
+      "sky-tram-owner",
+      "mistico-official-night"
+    ],
+    "videos": [
+      "mistico-night-operator-film"
+    ],
+    "connectStops": false
+  }
+}

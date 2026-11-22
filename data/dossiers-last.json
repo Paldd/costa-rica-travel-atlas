@@ -810,6 +810,15 @@
           "mistico-loop-guide",
           "arenal"
         ]
+      },
+      {
+        "title": "Два вечерних варианта",
+        "text": "Сумеречная прогулка у парка начинается около 16:30. Для ночного варианта указан отдельный сбор в 18:00. Парк заявляет возраст от 10 лет на обе программы.",
+        "sources": [
+          "mistico-official-twilight",
+          "mistico-official-night",
+          "fb-full-mistico-night"
+        ]
       }
     ],
     "contacts": [
@@ -823,7 +832,8 @@
     "nearby": [
       "arenal-peninsula",
       "arenal-sky",
-      "family-arenal-5"
+      "family-arenal-5",
+      "mistico-twilight-bridges-32"
     ],
     "track": "mistico-self-guided"
   },
@@ -865,6 +875,14 @@
           "sky-arenal-tickets",
           "sky-field-report"
         ]
+      },
+      {
+        "title": "Подъём на гондоле и Mano del Arenal",
+        "text": "У смотровой наверху есть отдельная программа на гондоле. Подходит для семей, которым нужен камерный подъём и время на площадке. Подтвердите парк, билет и облачность.",
+        "sources": [
+          "sky-tram-owner",
+          "ig-full-skyadventurescr"
+        ]
       }
     ],
     "contacts": [
@@ -879,7 +897,8 @@
     "nearby": [
       "mistico",
       "arenal-peninsula",
-      "family-arenal-5"
+      "family-arenal-5",
+      "arenal-sky-aerial-hand"
     ],
     "track": "sky-arenal-tickets",
     "photos": [
