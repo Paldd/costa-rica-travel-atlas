@@ -122,6 +122,8 @@ def inspect(feed, known, publisher_archives=()):
         matches = {}
         links = [(href, title, "") for href, title in parser.results]
         exact_paths = feed.get("exactPaths", ())
+        is_publisher_archive = canonical(target) in publisher_archives
+        fetched_key = canonical(fetched)
         links.extend((path, "", "") for path in exact_paths)
         exact_matches = {path.lower().rstrip("/") for path in exact_paths}
         prefixes = tuple(prefix.lower() for prefix in feed.get("paths", ()))
@@ -136,10 +138,11 @@ def inspect(feed, known, publisher_archives=()):
             path = location.path.lower()
             matches_prefix = any(path.startswith(prefix) and path.rstrip("/") != prefix.rstrip("/")
                                  for prefix in prefixes)
-            if not matches_prefix and path.rstrip("/") not in exact_matches:
+            matches_exact = path.rstrip("/") in exact_matches
+            if not (matches_prefix or matches_exact):
                 continue
             candidate = canonical(url)
-            if candidate == canonical(fetched):
+            if candidate == fetched_key and not (is_publisher_archive and matches_exact):
                 continue
             if candidate not in matches:
                 matches[candidate] = {"url": url, "title": (title or location.path.strip("/").split("/")[-1])[:180]}
@@ -149,8 +152,9 @@ def inspect(feed, known, publisher_archives=()):
             if last_modified > match.get("lastModified", ""):
                 match["lastModified"] = last_modified
         result.update(status="read", fingerprint=hashlib.sha256(body).hexdigest(),
-                      candidates=sorted((row for key, row in matches.items() if key not in known), key=lambda x: x["url"]))
-        if canonical(target) in publisher_archives:
+                      candidates=sorted((row for key, row in matches.items() if key != fetched_key and key not in known),
+                                        key=lambda x: x["url"]))
+        if is_publisher_archive:
             result["archivePages"] = list(matches.values())
     except (urllib.error.URLError, OSError, ValueError) as error:
         result.update(status="unavailable", reason=str(error)[:180])

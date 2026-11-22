@@ -1,0 +1,678 @@
+{
+  "cahuita-playa-negra-vargas-ebike": {
+    "stops": [
+      {
+        "point": "camping-maria-cahuita-pitch",
+        "role": "Старт у Camping María",
+        "note": "Заберите заранее заряженный велосипед. Запросите разрешение на ночёвку и зарядку при необходимости."
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "Kelly Creek · вход в парк со стороны посёлка",
+        "note": "Оставляйте велосипед только там, где разрешено. Тропу в парке проходите пешком."
+      },
+      {
+        "point": "caribe-vargas-outer-ticket",
+        "role": "Puerto Vargas · дорожная касса и разворот",
+        "note": "Линия GPX заканчивается у внешнего входа со стороны Ruta 36. До берега дальше идёт внутренняя дорога."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где ехать и где развернуться",
+        "text": "От Плайя-Негра до Kelly Creek идите по улицам посёлка. Следующий участок использует Ruta 36 и короткий подъезд к дорожной кассе. Парковка и пешие тропы отмечены в отдельной карточке парка.",
+        "sources": [
+          "caribe-road-vargas-entry",
+          "caribe-norte-bike-osm",
+          "cahuita"
+        ]
+      },
+      {
+        "title": "Подготовка e-bike и семейный темп",
+        "text": "Прокат находится в Пуэрто-Вьехо. Спросите, допускает ли прокат доставку либо вывоз велосипеда в Кауиту и есть ли подходящая рама. Шлем, яркие огни, замок, вода и сухой пакет для телефона пригодятся даже на коротком выезде.",
+        "sources": [
+          "pv-bike-electric",
+          "pv-bike-office",
+          "caribe-aguaepipa-coast-cycling"
+        ]
+      },
+      {
+        "title": "Короткая остановка у моря",
+        "text": "После возвращения можно пообедать в посёлке или дойти от кемпинга к Плайя-Негра. Пешая прогулка по парку и купание зависят от открытых секторов и состояния моря.",
+        "sources": [
+          "cahuita-2026",
+          "maria-cahuita-roof-capacity"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Puerto Viejo Bike Rentals · прокат e-bike",
+        "source": "pv-bike-office",
+        "phone": "+506 8971 2196",
+        "email": "info@puertoviejobikerentals.com",
+        "note": "Уточните модель, заряд, комплект для прокола, выезд за пределы посёлка и перевозку велосипеда, если стартуете в Кауите."
+      },
+      {
+        "name": "SINAC · Parque Nacional Cahuita",
+        "source": "cahuita",
+        "note": "Расписание двух секторов, доступ к дорожной кассе и открытые пешие ветки уточняйте по актуальным условиям."
+      },
+      {
+        "name": "Camping María · площадки в Кауите",
+        "source": "maria-cahuita-camp-listing",
+        "note": "Подтвердите место для машины с крышной палаткой, размеры въезда, розетку для зарядного устройства и условия ночёвки."
+      }
+    ],
+    "nearby": [
+      "maria-cahuita-roof",
+      "cahuita-trail",
+      "puerto-viejo-cahuita-ebike",
+      "cahuita-rooftent-ebike-2"
+    ],
+    "galleries": [
+      "caribe-aguaepipa-cahuita-valley",
+      "maria-cahuita-roof-capacity"
+    ],
+    "photos": [
+      "cahuita-shore-archive"
+    ],
+    "line": "caribe-cahuita-vargas-cycle"
+  },
+  "puerto-viejo-cahuita-ebike": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо · старт в центре посёлка",
+        "note": "Точное место выдачи зафиксируйте у выбранного проката."
+      },
+      {
+        "point": "puertoviejo-negra-shore",
+        "role": "Плайя-Негра у Пуэрто-Вьехо",
+        "note": "Ориентир у берега в начале выезда. Для остановки уйдите с проезжей части."
+      },
+      {
+        "point": "hone-creek-town",
+        "role": "Хоне-Крик · развилка Ruta 36 и Ruta 256",
+        "note": "Повороты и въезды с транспорта требуют внимания. Остановитесь вне проезжей части."
+      },
+      {
+        "point": "caribe-vargas-outer-ticket",
+        "role": "Puerto Vargas · дорожная касса и разворот",
+        "note": "Линия GPX заканчивается у внешнего входа со стороны Ruta 36. До берега дальше идёт внутренняя дорога."
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "Kelly Creek · вход в парк со стороны посёлка",
+        "note": "Оставляйте велосипед только там, где разрешено. Тропу в парке проходите пешком."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога и покрытие",
+        "text": "Маршрут использует коридоры Ruta 256 и Ruta 36, короткие подъезды в посёлках и въезд к кассе. По линии удобно ориентироваться на развилках. На основной дороге местами мало места между транспортом и краем покрытия.",
+        "sources": [
+          "caribe-bicycle-ict-corridors",
+          "caribe-norte-bike-osm",
+          "caribe-aguaepipa-coast-cycling"
+        ]
+      },
+      {
+        "title": "Три варианта по времени",
+        "text": "Короткая проба батареи идёт до Плайя-Негра в Пуэрто-Вьехо. Средний вариант заканчивается у кассы Puerto Vargas. До Kelly Creek держите резерв на возврат. Если выбран пеший парк, оставьте световой запас и подтвердите парковку велосипеда.",
+        "sources": [
+          "pv-bike-electric",
+          "caribe-road-vargas-entry",
+          "cahuita-2026"
+        ]
+      },
+      {
+        "title": "Комплект и обратная логистика",
+        "text": "Проверьте тормоза, свет, давление, замок и правила проката до выезда. Положите запасную камеру или набор для прокола. При поломке используйте согласованный развоз либо такси с местом под велосипед. На этом коридоре также ходит MEPE.",
+        "sources": [
+          "pv-bike-office",
+          "caribe-satellite-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Puerto Viejo Bike Rentals · прокат e-bike",
+        "source": "pv-bike-office",
+        "phone": "+506 8971 2196",
+        "email": "info@puertoviejobikerentals.com",
+        "note": "Уточните модель, заряд, комплект для прокола, выезд за пределы посёлка и перевозку велосипеда, если стартуете в Кауите."
+      },
+      {
+        "name": "SINAC · Parque Nacional Cahuita",
+        "source": "cahuita",
+        "note": "Расписание двух секторов, доступ к дорожной кассе и открытые пешие ветки уточняйте по актуальным условиям."
+      },
+      {
+        "name": "MEPE · расписание автобусов",
+        "source": "yorkin-mepe-official",
+        "note": "Попросите указать нужную остановку и заранее подтвердить перевозку велосипеда с аккумулятором, если планируете обратный автобус."
+      }
+    ],
+    "nearby": [
+      "puerto-viejo-playa-negra-short-ebike",
+      "cahuita-playa-negra-vargas-ebike",
+      "cahuita-trail",
+      "hone-creek-bribri-sixaola-cycling"
+    ],
+    "galleries": [
+      "caribe-aguaepipa-cahuita-valley",
+      "caribe-bicycle-ict-corridors",
+      "caribe-publisher-banana-routes"
+    ],
+    "photos": [
+      "caribe-cahuita"
+    ],
+    "line": "caribe-puerto-viejo-cahuita-cycle"
+  },
+  "hone-creek-bribri-sixaola-cycling": {
+    "stops": [
+      {
+        "point": "hone-creek-town",
+        "role": "Хоне-Крик · развилка Ruta 36 и Ruta 256",
+        "note": "Повороты и въезды с транспорта требуют внимания. Остановитесь вне проезжей части."
+      },
+      {
+        "point": "caribe-bribri-public-center",
+        "role": "Брибри · короткий разворот или пауза в посёлке",
+        "note": "Это ориентир в центре. Для остановки выберите место вне полосы движения."
+      },
+      {
+        "point": "frontier-sixaola-cr",
+        "role": "Сиксаола · финиш на стороне Коста-Рики",
+        "note": "Финиш до пересечения границы. Точку встречи с обратным трансфером назначайте в посёлке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий вариант и полный проезд",
+        "text": "До центра Брибри по проложенной линии 8,35 км. Оттуда удобно развернуться. Для полного отрезка к Сиксаоле отведите отдельный день с запасом на жару и остановки. В навигации конец установлен у района оформления на стороне Коста-Рики.",
+        "sources": [
+          "caribe-bicycle-ict-corridors",
+          "caribe-public-bribri-center",
+          "caribe-norte-bike-osm",
+          "frontier-sixaola-cr-osm"
+        ]
+      },
+      {
+        "title": "Транспорт и вода",
+        "text": "Возьмите яркие фонари, запас воды и камеры. Отрезок проходит по обычным дорогам, поэтому уходите с проезжей части для пауз. При мокрых плечах дороги или плохой видимости выбирайте короткую версию. Видео автомобильного проезда даёт представление о типе дороги.",
+        "sources": [
+          "caribe-ride-hone-sixaola-video",
+          "caribe-aguaepipa-coast-cycling"
+        ]
+      },
+      {
+        "title": "Возвращение с велосипедом",
+        "text": "Карибский справочник показывает автобусный коридор через Брибри. Проверьте у MEPE перевозку велосипеда с батареей и часы последнего рейса. Подойдёт также машина, согласованная заранее.",
+        "sources": [
+          "caribe-satellite-transport",
+          "yorkin-mepe-official"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MEPE · расписание автобусов",
+        "source": "yorkin-mepe-official",
+        "note": "Попросите указать нужную остановку и заранее подтвердить перевозку велосипеда с аккумулятором, если планируете обратный автобус."
+      },
+      {
+        "name": "Puerto Viejo Bike Rentals · прокат e-bike",
+        "source": "pv-bike-office",
+        "phone": "+506 8971 2196",
+        "email": "info@puertoviejobikerentals.com",
+        "note": "Уточните модель, заряд, комплект для прокола, выезд за пределы посёлка и перевозку велосипеда, если стартуете в Кауите."
+      }
+    ],
+    "nearby": [
+      "talamanca-vuelta-la-pera-gravel",
+      "puerto-viejo-cahuita-ebike",
+      "yorkin-bribri-canoe-3"
+    ],
+    "galleries": [
+      "caribe-bicycle-ict-corridors",
+      "caribe-ride-hone-sixaola-video"
+    ],
+    "line": "caribe-hone-bribri-sixaola-road"
+  },
+  "talamanca-vuelta-la-pera-gravel": {
+    "stops": [
+      {
+        "point": "puertoviejo-negra-shore",
+        "role": "Плайя-Негра у Пуэрто-Вьехо",
+        "note": "Ориентир у берега в начале выезда. Для остановки уйдите с проезжей части."
+      },
+      {
+        "point": "cocles-beach",
+        "role": "Коклес · прибрежный ориентир из отчёта",
+        "note": ""
+      },
+      {
+        "point": "caribe-bribri-public-center",
+        "role": "Брибри · короткий разворот или пауза в посёлке",
+        "note": "Это ориентир в центре. Для остановки выберите место вне полосы движения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Откуда километраж и подъём",
+        "text": "Кинтанилья опубликовал круг с началом у Плайя-Негра и возвратом через Пуэрто-Вьехо. Его трек и фотографии открываются по ссылке автора. Пины атласа показывают известные публичные ориентиры.",
+        "sources": [
+          "caribe-pera-xavier-gravel-2021",
+          "caribe-public-bribri-center"
+        ]
+      },
+      {
+        "title": "Гид, доступ и сокращение",
+        "text": "Узнайте, проводит ли Puerto Viejo Club схожую поездку через общины. Если нужен более простой день без высоких требований к проезду, выберите дорожный вариант между Хоне-Крик и Брибри. Видео Cabécar Traverse показывает другой заезд на e-MTB в регионе.",
+        "sources": [
+          "talamanca-mtb-pvclub",
+          "caribe-bicycle-ict-corridors",
+          "caribe-cabecar-emtb-rider-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Puerto Viejo Club · местный проводник",
+        "source": "talamanca-mtb-pvclub",
+        "note": "Согласуйте разрешённые на текущую дату дороги и участки в общинах. Спросите об e-MTB и транспорте после дождя."
+      }
+    ],
+    "nearby": [
+      "talamanca-community-guide-mtb",
+      "hone-creek-bribri-sixaola-cycling"
+    ],
+    "galleries": [
+      "caribe-pera-xavier-gravel-2021",
+      "caribe-cabecar-emtb-rider-video"
+    ],
+    "connectStops": false,
+    "track": "caribe-pera-xavier-gravel-2021"
+  },
+  "ride-del-caribe-2027-ebike": {
+    "stops": [
+      {
+        "point": "cahuita-kelly",
+        "role": "Кауита · ориентир в городе проведения",
+        "note": "Место выдачи пакетов и старт берите со схемы конкретного выпуска."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Допуск и что уже опубликовано",
+        "text": "Список категорий 100 км включает Ebike и MTB. Доступны профиль высоты и контакт организатора. Усиление, модели, зарядку, сменную батарею и питание надо сверять с регламентом выпуска.",
+        "sources": [
+          "caribe-ride-del-caribe-2027"
+        ]
+      },
+      {
+        "title": "Подготовка",
+        "text": "Оцените свой дальний выезд при той же нагрузке и в таком же режиме поддержки. Используйте форму, в которой можете пить на ходу, и заранее проверьте носимое снаряжение. Велозаезды в окрестностях Кауиты позволяют проверить посадку и комплект снаряжения.",
+        "sources": [
+          "caribe-ride-del-caribe-2027",
+          "caribe-aguaepipa-coast-cycling"
+        ]
+      },
+      {
+        "title": "Фото и опыт прошлых выпусков",
+        "text": "Организатор публикует фото и профиль. CRCiclismo разбирает предыдущий выпуск, а видеозапись из Кауиты помогает представить формат дня старта.",
+        "sources": [
+          "caribe-ride-del-caribe-2027",
+          "caribe-ride-2026-results-reports",
+          "caribe-ride-2024-local-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ride del Caribe · организатор",
+        "source": "caribe-ride-del-caribe-2027",
+        "whatsapp": "https://wa.me/50672382412",
+        "note": "Уточните открытие регистрации, карту 2027 года, точное место старта и технические требования своей категории."
+      }
+    ],
+    "nearby": [
+      "ride-del-caribe-2027-148",
+      "puerto-viejo-cahuita-ebike",
+      "cahuita-playa-negra-vargas-ebike"
+    ],
+    "galleries": [
+      "caribe-ride-del-caribe-2027",
+      "caribe-ride-2024-local-video"
+    ],
+    "photos": [
+      "cahuita-shore-archive"
+    ],
+    "connectStops": false
+  },
+  "ride-del-caribe-2027-148": {
+    "stops": [
+      {
+        "point": "cahuita-kelly",
+        "role": "Кауита · ориентир в городе проведения",
+        "note": "Место выдачи пакетов и старт берите со схемы конкретного выпуска."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кому подойдёт полная дистанция",
+        "text": "Организатор указал соревновательную категорию, разбивку по возрастам и профиль высоты для 148 км. Сверьте категорию и правила до оплаты регистрации.",
+        "sources": [
+          "caribe-ride-del-caribe-2027"
+        ]
+      },
+      {
+        "title": "Поддержка и логистика",
+        "text": "В программе заявлены гидратация, механики и дорожные службы. В публикации для предыдущего выпуска доступны ход гонки и результаты. Место парковки и встречи команды узнайте у организатора.",
+        "sources": [
+          "caribe-ride-del-caribe-2027",
+          "caribe-ride-2026-results-reports"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ride del Caribe · организатор",
+        "source": "caribe-ride-del-caribe-2027",
+        "whatsapp": "https://wa.me/50672382412",
+        "note": "Уточните открытие регистрации, карту 2027 года, точное место старта и технические требования своей категории."
+      }
+    ],
+    "nearby": [
+      "ride-del-caribe-2027-ebike",
+      "hone-creek-bribri-sixaola-cycling"
+    ],
+    "galleries": [
+      "caribe-ride-del-caribe-2027",
+      "caribe-ride-2024-local-video"
+    ],
+    "connectStops": false
+  },
+  "cocles-river-le-cameleon-kayak": {
+    "stops": [
+      {
+        "point": "caribe-cameleon-lobby",
+        "role": "Коклес · отель Le Caméléon, ориентир для встречи",
+        "note": "Точку спуска назначает оператор после проверки воды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Каяк в Коклесе",
+        "text": "В программе оператора указан Río Cocles. Маршрут по мангровым протокам зависит от воды. Спросите, есть ли открытый и закрытый участки, где разворот и сколько времени займёт знакомство с веслом до старта.",
+        "sources": [
+          "caribe-publisher-cameleon-experiences",
+          "caribe-cameleon-contact"
+        ]
+      },
+      {
+        "title": "Что взять и как доехать",
+        "text": "Сухой мешок, обувь, которая держится на ногах, питьё и одежда, в которой удобно грести. Коклес находится за Пуэрто-Вьехо по дороге к Пунта-Уве. Встречу с оператором привяжите к адресу и расписанию автобуса либо трансфера.",
+        "sources": [
+          "caribe-cameleon-local-directory",
+          "caribe-satellite-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Le Caméléon · выезд на Río Cocles",
+        "source": "caribe-cameleon-contact",
+        "phone": "+506 2750 3096",
+        "whatsapp": "https://wa.me/50687409666",
+        "note": "Запросите имя водного гида, место посадки, продолжительность, возраст, жилеты, погоду и возможность участия без проживания в отеле."
+      }
+    ],
+    "nearby": [
+      "cocles-punta-uva-bike-kayak",
+      "puerto-viejo-bike-manzanillo"
+    ],
+    "galleries": [
+      "caribe-publisher-cameleon-experiences",
+      "caribe-cameleon-local-directory"
+    ],
+    "connectStops": false
+  },
+  "manzanillo-almonds-forest-stay": {
+    "stops": [
+      {
+        "point": "caribe-almonds-hotel",
+        "role": "Въезд в Almonds & Corals",
+        "note": "Точка из карты, опубликованной гостиницей. Заезд находится перед посёлком Мансанильо."
+      },
+      {
+        "point": "manzanillo-refugio-entry",
+        "role": "Мансанильо · подход к заказнику",
+        "note": "Состояние самой тропы и порядок входа уточните перед пешим выходом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где жить и что есть рядом",
+        "text": "Комнаты и инфраструктура описаны отдельно на сайте хозяев. Moca Beach Restaurant находится на территории. Для других прибрежных остановок в путеводителе названы Пунта-Ува и Мансанильо. Пляжи удобнее посещать по погоде и с запасом на дорогу.",
+        "sources": [
+          "caribe-almonds-rooms",
+          "caribe-publisher-almonds-articles"
+        ]
+      },
+      {
+        "title": "Выход в заказник и велосипед",
+        "text": "Маркер гостиницы соответствует карте контактов, второй ориентир показывает пеший подход к заказнику в Мансанильо. Это разные точки. Велопоездку лучше делать днём вдоль общей дороги, пользуясь подтверждённым прокатом и огнями на велосипеде.",
+        "sources": [
+          "caribe-almonds-contact",
+          "gandoca-plan-sinac-2026",
+          "pv-bike-electric"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Almonds & Corals · Мансанильо",
+        "source": "caribe-almonds-contact",
+        "phone": "+506 4010 8005",
+        "whatsapp": "https://wa.me/message/BY4F3VZVZ2UNJ1",
+        "email": "info@almondsandcorals.com",
+        "note": "Запросите конкретный номер, расстояние до пляжа по территории, доступ для детей, состояние подъезда и парковку."
+      }
+    ],
+    "nearby": [
+      "puerto-viejo-bike-manzanillo",
+      "cocles-river-le-cameleon-kayak"
+    ],
+    "galleries": [
+      "caribe-almonds-rooms",
+      "caribe-publisher-almonds-articles"
+    ],
+    "connectStops": false,
+    "photos": [
+      "caribe-manzanillo-shore-archive"
+    ]
+  },
+  "maquenque-tres-amigos-guided-kayak": {
+    "stops": [
+      {
+        "point": "north-maquenque-parking",
+        "role": "Парковка Maquenque · сторона подъездной дороги",
+        "note": "Уточняйте актуальное место стоянки и переправы у администрации."
+      },
+      {
+        "point": "north-maquenque-lodge",
+        "role": "Maquenque Lodge · встреча с проводником",
+        "note": "Координаты относятся к лоджу. Маршрут по воде и причал на день выезда назначает проводник."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что именно предлагает лодж",
+        "text": "Каяк проходит по Río Tres Amigos. В программе заявлен гид-натуралист, который объясняет греблю и условия на воде. Для семьи можно рассмотреть соседний выход на моторной лодке, если организатор подтвердит подходящие жилеты и возраст.",
+        "sources": [
+          "north-maquenque-experiences",
+          "north-maquenque-publisher"
+        ]
+      },
+      {
+        "title": "Подъезд и экипировка",
+        "text": "Парковка и база отмечены по отдельности. Сверьте с лоджем паромный переход от парковки и время возврата. Возьмите закрывающийся сухой мешок, лёгкую дождевую куртку, воду и обувь для посадки.",
+        "sources": [
+          "north-maquenque-river-park",
+          "north-maquenque-publisher"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Maquenque Lodge · отдел бронирования",
+        "source": "north-maquenque-experiences",
+        "phone": "+506 2479 8200",
+        "email": "info@maquenquelodge.com",
+        "note": "Уточните день и время выхода, уровень воды, возраст, жилеты и причал пересадки из парковки."
+      }
+    ],
+    "nearby": [
+      "maquenque-san-carlos-river-boat"
+    ],
+    "galleries": [
+      "north-maquenque-experiences",
+      "north-maquenque-youtube"
+    ],
+    "connectStops": false
+  },
+  "maquenque-san-carlos-river-boat": {
+    "stops": [
+      {
+        "point": "north-maquenque-parking",
+        "role": "Парковка Maquenque · сторона подъездной дороги",
+        "note": "Уточняйте актуальное место стоянки и переправы у администрации."
+      },
+      {
+        "point": "north-maquenque-lodge",
+        "role": "Maquenque Lodge · встреча с проводником",
+        "note": "Координаты относятся к лоджу. Маршрут по воде и причал на день выезда назначает проводник."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Формат и наблюдение за природой",
+        "text": "Маршрут начинается у лоджа. Гид ориентируется по уровню реки, ведёт к удобным точкам для наблюдения и назначает разворот. Оператор упоминает зимородков, цапель, черепах и других обитателей реки.",
+        "sources": [
+          "north-maquenque-experiences",
+          "north-maquenque-youtube"
+        ]
+      },
+      {
+        "title": "Чем отличается от каяка",
+        "text": "Это программа с моторной лодкой по Сан-Карлосу. Каяковый выход идёт по другой реке, Трес-Амигос. Если хочется двух водных дней, согласуйте разные программы и пригодность каждой для состава группы.",
+        "sources": [
+          "north-maquenque-experiences",
+          "north-maquenque-publisher"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Maquenque Lodge · отдел бронирования",
+        "source": "north-maquenque-experiences",
+        "phone": "+506 2479 8200",
+        "email": "info@maquenquelodge.com",
+        "note": "Уточните день и время выхода, уровень воды, возраст, жилеты и причал пересадки из парковки."
+      }
+    ],
+    "nearby": [
+      "maquenque-tres-amigos-guided-kayak"
+    ],
+    "galleries": [
+      "north-maquenque-experiences",
+      "north-maquenque-youtube"
+    ],
+    "connectStops": false
+  },
+  "cahuita-rooftent-ebike-2": {
+    "stops": [
+      {
+        "point": "camping-maria-cahuita-pitch",
+        "role": "Старт у Camping María",
+        "note": "Заберите заранее заряженный велосипед. Запросите разрешение на ночёвку и зарядку при необходимости."
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "Kelly Creek · вход в парк со стороны посёлка",
+        "note": "Оставляйте велосипед только там, где разрешено. Тропу в парке проходите пешком."
+      },
+      {
+        "point": "caribe-vargas-outer-ticket",
+        "role": "Puerto Vargas · дорожная касса и разворот",
+        "note": "Линия GPX заканчивается у внешнего входа со стороны Ruta 36. До берега дальше идёт внутренняя дорога."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первая половина выходных",
+        "text": "Площадка стоит рядом с Плайя-Негра в Кауите. Договоритесь с хозяевами о заезде и перед выездом на e-bike проверьте свет, тормоза и замок. Для короткой версии сделайте остановку в посёлке без выезда на оживлённый участок.",
+        "sources": [
+          "maria-cahuita-roof-capacity",
+          "maria-cahuita-camper-local",
+          "caribe-road-vargas-entry",
+          "pv-bike-electric"
+        ]
+      },
+      {
+        "title": "Пеший парк и запас на дождь",
+        "text": "Для семейного темпа удобно зайти через Kelly Creek, пройти посильное расстояние, развернуться у открытой точки и вернуться к машине. Для длинной версии проверьте второй вход, расположение берегового участка, выход с тропы и транспорт обратно.",
+        "sources": [
+          "cahuita",
+          "cahuita-2026",
+          "caribe-aguaepipa-cahuita-valley"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Палатка и средства для закрепления, чехол для дождя, фонарь для лагеря, сухая сумка, зарядное устройство для e-bike, шлем, запас воды и средства от насекомых. Зарядка и приготовление еды зависят от правил площадки.",
+        "sources": [
+          "maria-cahuita-camp-listing",
+          "pv-bike-office",
+          "caribe-aguaepipa-coast-cycling"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping María · площадки в Кауите",
+        "source": "maria-cahuita-camp-listing",
+        "note": "Подтвердите место для машины с крышной палаткой, размеры въезда, розетку для зарядного устройства и условия ночёвки."
+      },
+      {
+        "name": "Puerto Viejo Bike Rentals · прокат e-bike",
+        "source": "pv-bike-office",
+        "phone": "+506 8971 2196",
+        "email": "info@puertoviejobikerentals.com",
+        "note": "Уточните модель, заряд, комплект для прокола, выезд за пределы посёлка и перевозку велосипеда, если стартуете в Кауите."
+      },
+      {
+        "name": "SINAC · Parque Nacional Cahuita",
+        "source": "cahuita",
+        "note": "Расписание двух секторов, доступ к дорожной кассе и открытые пешие ветки уточняйте по актуальным условиям."
+      }
+    ],
+    "nearby": [
+      "maria-cahuita-roof",
+      "cahuita-playa-negra-vargas-ebike",
+      "cahuita-trail",
+      "cahuita-reef-snorkel"
+    ],
+    "galleries": [
+      "maria-cahuita-roof-capacity",
+      "caribe-aguaepipa-cahuita-valley"
+    ],
+    "photos": [
+      "caribe-cahuita"
+    ],
+    "line": "caribe-cahuita-vargas-cycle"
+  }
+}

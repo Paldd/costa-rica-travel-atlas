@@ -1,0 +1,78 @@
+[
+  {
+    "id": "cahuita-rooftent-ebike-2",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Кауита на два дня · крышная палатка, e-bike и пешая тропа парка",
+    "native": "Camping María · Playa Negra Cahuita · Entrada Puerto Vargas · Kelly Creek · Parque Nacional Cahuita",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "multi",
+      "camping",
+      "rooftent",
+      "cycling",
+      "ebike",
+      "hiking",
+      "beach",
+      "forest",
+      "cafe"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "roof"
+    ],
+    "sources": [
+      "maria-cahuita-roof-capacity",
+      "maria-cahuita-camper-local",
+      "caribe-norte-bike-osm",
+      "caribe-road-vargas-entry",
+      "pv-bike-electric",
+      "pv-bike-office",
+      "cahuita-2026",
+      "cahuita"
+    ],
+    "summary": "Выходные на карибском берегу с палаткой на крыше. В первый день около 12,5 км на e-bike по дорогам у Кауиты. Во второй день пеший парк с коротким вариантом от Kelly Creek и обедом у моря.",
+    "plan": "Одновременно договоритесь о площадке под машину и о велосипеде. Подтвердите доставку или перевозку, запас батареи и зарядку. В парк отправляйтесь рано и учитывайте время закрытия выбранного выхода.",
+    "conditions": "Места у Camping María ограничены. Уточните размеры машины с открытой палаткой, допустимость зарядки и условия заезда после дождя. Велочасть использует общую дорогу, а пешая часть зависит от воды и состояния троп.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Доехать до Camping María и проехать короткий круг",
+        "note": "Занять подтверждённую площадку, получить заряженный e-bike, заехать к Kelly Creek и дорожному входу Puerto Vargas. Возврат по дороге до темноты.",
+        "stops": [
+          "maria-cahuita-roof",
+          "cahuita-playa-negra-vargas-ebike"
+        ],
+        "sources": [
+          "maria-cahuita-roof-capacity",
+          "caribe-road-vargas-entry",
+          "pv-bike-electric"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пешком из Kelly Creek и обед в посёлке",
+        "note": "Войти в парк после уточнения открытой части тропы. Пройти удобный отрезок и вернуться до выезда. При продлении дня уточнить работу второго входа.",
+        "stops": [
+          "cahuita-trail"
+        ],
+        "sources": [
+          "cahuita",
+          "cahuita-2026"
+        ]
+      }
+    ]
+  }
+]
