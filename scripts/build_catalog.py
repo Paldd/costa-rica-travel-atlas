@@ -14,6 +14,7 @@ POST_FIELDS = ("profile", "source", "checked")
 POST_COPY_FIELDS = ("profile", "source", "count", "first", "last", "checked")
 POST_COPY_ITEM_FIELDS = ("profile", "published", "summary", "record")
 PUBLISHER_FIELDS = ("profile", "site", "archive", "checked")
+PROFILE_CHECK_FIELDS = ("profile", "checked", "status", "detail")
 RANK_FIELDS = ("platform", "profile", "rank", "followers", "precision", "checked", "countSource", "category", "zone")
 SOCIAL_DOMAINS = {
     "Instagram": {"www.instagram.com"},
@@ -82,6 +83,14 @@ def build_social(sources_by_id, record_ids, aliases):
     if any(values != set(range(1, 101)) for values in ranks.values()) or any("rank" not in row for row in profiles.values()):
         raise ValueError("Incomplete scope of the social rankings")
     social["profiles"].sort(key=lambda row: (row["platform"] != "Instagram", row["rank"]))
+    for receipt in read_table(DATA / "profile-browser-checks.tsv", PROFILE_CHECK_FIELDS):
+        profile_url = receipt.pop("profile")
+        profile = profiles.get(profile_url)
+        if (not profile or "liveCheck" in profile or not receipt["detail"]
+                or receipt["status"] not in {"feed-visible", "login-required"}):
+            raise ValueError(f"Invalid browser check for {profile_url}")
+        receipt["checked"] = date.fromisoformat(receipt["checked"]).isoformat()
+        profile["liveCheck"] = receipt
     for publisher in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS):
         profile = profiles.get(publisher.pop("profile"))
         site = publisher["site"]
@@ -154,6 +163,10 @@ def build_social(sources_by_id, record_ids, aliases):
     social["overview"]["facebookWithPosts"] = sum(bool(row.get("postLinks")) for row in profiles.values())
     social["overview"]["publisherLinks"] = sum("publisher" in row for row in profiles.values())
     social["overview"]["publisherArchiveLinks"] = sum(bool(row.get("publisher", {}).get("archive")) for row in profiles.values())
+    social["overview"]["browserChecks"] = sum("liveCheck" in row for row in profiles.values())
+    social["overview"]["visibleBrowserFeeds"] = sum(
+        row.get("liveCheck", {}).get("status") == "feed-visible" for row in profiles.values()
+    )
     return social
 
 

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "las-mercedes-dota-roof-ebike-2",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Таррасу и Дота за два дня · палатка на крыше, кофе и e-MTB",
+    "native": "Finca Las Mercedes · Santa María de Dota · El Cedral · Copey",
+    "level": "hard",
+    "days": 2,
+    "distance": null,
+    "activities": ["camping", "rooftent", "coffee", "cafe", "ebike", "mtb", "cycling", "views"],
+    "audience": ["family-teen", "family-adults", "friends", "mens", "solo"],
+    "access": ["car", "confirm"],
+    "sleep": ["roof", "tent", "lodge"],
+    "sources": ["las-mercedes-farm-owner", "las-mercedes-roof-guide", "las-mercedes-dota-osm", "dota-cedral-ebike-field", "dota-315-open-map", "tq-hpr60-manual"],
+    "summary": "В первый день поставьте лагерь на кофейной ферме. Во второй выберите горное кольцо 39,16 км или короткий выезд к Копею по дороге 315.",
+    "plan": "Согласуйте тип ночёвки и розетку, оцените состояние горных проездов у местного гида. При групповой поездке назначьте место встречи для тех, кто поедет по короткому варианту.",
+    "conditions": "Для длинного кольца нужны опыт на грунте, проверенный запас энергии и запасной выезд по дороге. При поднявшейся воде выбирайте дорожный вариант. Уточните подходящий темп и движение машин, если едут подростки.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Ферма, кофе и ночёвка",
+        "note": "Днём пройдите кофейный тур и поставьте лагерь до темноты. Попросите площадку по габаритам машины и условия зарядки.",
+        "stops": ["san-pablo-las-mercedes-roof"],
+        "sources": ["las-mercedes-farm-owner", "las-mercedes-roof-guide"]
+      },
+      {
+        "day": 2,
+        "title": "Санта-Мария-де-Дота · два варианта велодня",
+        "note": "Автомобильный переезд от фермы около 13,4 км. На велосипеде выберите 39,16 км с набором +1 672 м на грунтовом кольце или 14,4 км туда-обратно по 315 до Копея.",
+        "stops": ["dota-cedral-san-marcos-ebike-39", "santa-maria-copey-road-bike"],
+        "sources": ["las-mercedes-dota-osm", "dota-bike-catursantos", "dota-cedral-ebike-field", "dota-315-open-map"]
+      }
+    ]
+  },
+  {
+    "id": "virtudes-guayabo-camp-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Турриальба за два дня · костёр на ферме и пеший Гуаябо",
+    "native": "Finca Las Virtudes · La Pastora · Monumento Nacional Guayabo",
+    "level": "moderate",
+    "days": 2,
+    "distance": null,
+    "activities": ["camping", "campfire", "hiking", "history", "forest", "views"],
+    "audience": ["family-mid", "family-teen", "family-adults", "friends", "mens"],
+    "access": ["car", "high", "confirm"],
+    "sleep": ["tent"],
+    "sources": ["virtudes-camp-listing", "virtudes-firsthand", "virtudes-pastora-osm", "guayabo-sinac-park", "guayabo-ict-brochure", "guayabo-sinac-drive"],
+    "summary": "Первый день у лагун и костровой зоны фермы. На второе утро семейная прогулка по археологическому памятнику с остановкой у древнего акведука.",
+    "plan": "Организуйте ночёвку и уточните подъезд у хозяина. Утром оставьте время на дорогу через Турриальбу и вход в памятник до середины дня.",
+    "conditions": "Костровая зона зависит от указаний хозяина и погоды. На мокрых тропах пригодится нескользящая обувь, а у кассы нужна платёжная карта.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Лас-Виртудес · лагуны и ночёвка у машины",
+        "note": "Получите точку въезда, прогуляйтесь по ферме и уточните условия костра.",
+        "stops": ["turrialba-virtudes-campfire"],
+        "sources": ["virtudes-camp-listing", "virtudes-firsthand", "virtudes-pastora-osm"]
+      },
+      {
+        "day": 2,
+        "title": "Гуаябо · тропа Los Montículos",
+        "note": "Сверьте время открытия. Начните с археологической тропы, а лесную часть добавьте после консультации у кассы.",
+        "stops": ["guayabo-archaeology-walk"],
+        "sources": ["guayabo-sinac-park", "guayabo-ict-brochure", "guayabo-sinac-drive"]
+      }
+    ]
+  }
+]

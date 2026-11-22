@@ -288,9 +288,19 @@
         "note": "У разных туров разная точка начала."
       },
       {
+        "point": "linda-vista",
+        "role": "Сбор по записи в Pacuare Outdoor Center",
+        "note": "Оператор публикует точку встречи. Место посадки на воду уточните у команды."
+      },
+      {
         "point": "pacuare-lodge",
         "role": "Каньон · обзорный ориентир",
         "note": "Нижний участок описан в путеводителе."
+      },
+      {
+        "point": "pacuare-exploradores-exploration-center",
+        "role": "Exploradores · отдельный центр у Ruta 32",
+        "note": "Другой оператор и своя схема трансферов. Подтвердите, где вас ждут."
       },
       {
         "point": "siquirres",
@@ -309,11 +319,20 @@
         ]
       },
       {
-        "title": "Трансфер и отметки карты",
-        "text": "Многие дневные рейсы организуют посадку в районе Tres Equis и выход за Siquirres. Точное место выезда и возможный трансфер между регионами определяет компания.",
+        "title": "Две точки встречи и трансфер",
+        "text": "В мае 2026 года Pacuare Outdoor Center опубликовал встречу в Линдависте для своих туров по Пакуаре. Exploradores Outdoors указывает свой Exploration Center у Ruta 32. Спрашивайте точку сбора, сам спуск к реке и точку высадки в одном подтверждении. На карте указаны ориентиры и места разных операторов.",
         "sources": [
-          "pacuare-guide-report",
+          "poc-lindavista-meeting-may-2026",
+          "exploradores-route32-pacuare-meet",
           "pacuare-whitewater"
+        ]
+      },
+      {
+        "title": "Видео местного автора",
+        "text": "В оригинальном ролике Vamos a Turistear видны пороги и водопады в лесном каньоне. Подпись называет Пакуаре у Турриальбы. Класс, старт, возраст и экипировку подтверждает команда выбранного сплава.",
+        "sources": [
+          "fb-vamos-pacuare-native",
+          "pacuare-1"
         ]
       }
     ],
@@ -330,12 +349,18 @@
         "phone": "+506 8922 4570",
         "email": "info@pacuareoutdoorcenter.com",
         "url": "https://wa.me/50689224570"
+      },
+      {
+        "name": "Exploradores Outdoors · центр у Ruta 32",
+        "source": "exploradores-route32-pacuare-meet",
+        "note": "Адрес центра, парковка, класс воды и трансфер для вашей брони."
       }
     ],
     "nearby": [
       "pacuare-weekend",
       "pejibaye-pack"
-    ]
+    ],
+    "connectStops": false
   },
   "sarapiqui-raft": {
     "stops": [

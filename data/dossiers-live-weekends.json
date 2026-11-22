@@ -1,0 +1,444 @@
+{
+  "san-pablo-las-mercedes-roof": {
+    "stops": [
+      {
+        "point": "san-pablo-leon",
+        "role": "Сан-Пабло · посёлок на подъезде",
+        "note": "Сориентируйтесь по пину фермы, продукты и воду закупите до лагеря."
+      },
+      {
+        "point": "las-mercedes-farm",
+        "role": "Finca Las Mercedes · въезд и кафе",
+        "note": "Сверьте с хозяином последний поворот и номер площадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кофейная ферма и фотографии",
+        "text": "Хозяева проводят по кофейным рядам среди авокадо, показывают обработку и сушку, завершают экскурсию дегустацией. На сайте опубликованы $40 за тур с дегустацией и $50 с завтраком. Кухня работает по записи. Qué Buen Lugar показал семейный дневной визит, а Grounds описывает хозяйство и местный кофе. Уточните цену для детей, язык экскурсии и время.",
+        "sources": [
+          "las-mercedes-coffee-tour",
+          "las-mercedes-open-kitchen",
+          "ig-qbl-las-mercedes",
+          "las-mercedes-coffee-grounds"
+        ]
+      },
+      {
+        "title": "Подъезд и установка палатки",
+        "text": "Путеводитель показывает стоянку для палатки на крыше, палатки на грунте и каравана. В объявлении домика владелец описывает подъезд без обязательного 4×4. Попросите фото своего места и подтвердите покрытие последних метров, уклон, въезд в мокрую погоду и время закрытия ворот.",
+        "sources": [
+          "las-mercedes-roof-guide",
+          "las-mercedes-cabin",
+          "las-mercedes-farm-map"
+        ]
+      },
+      {
+        "title": "Кухня, дети и самостоятельный лагерь",
+        "text": "Возьмите тёплые слои, питьевую воду, закрытый контейнер для продуктов и фонари. В путеводителе кухонное оснащение описано для клиентов проката Nomad America, поэтому уточните удобства своей брони. Для семьи есть отдельный домик до четырёх человек и свежие отзывы гостей в его карточке.",
+        "sources": [
+          "las-mercedes-roof-guide",
+          "las-mercedes-cabin"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Las Mercedes Coffee Farm",
+        "source": "las-mercedes-farm-owner",
+        "note": "Запросите площадку для rooftop tent, подъезд, воду, туалет и часы кофейного тура.",
+        "phone": "+506 6086 2030",
+        "whatsapp": "https://wa.me/50660862030"
+      }
+    ],
+    "nearby": [
+      "las-mercedes-dota-roof-ebike-2",
+      "dota-cedral-san-marcos-ebike-39",
+      "santa-maria-copey-road-bike"
+    ],
+    "galleries": [
+      "las-mercedes-roof-guide",
+      "las-mercedes-cabin",
+      "las-mercedes-open-kitchen"
+    ],
+    "videos": ["las-mercedes-film"],
+    "connectStops": false
+  },
+  "turrialba-virtudes-campfire": {
+    "stops": [
+      {
+        "point": "la-pastora-turn-230",
+        "role": "Ла-Пастора · развилка на Ruta 230",
+        "note": "Дальнейший подъезд подтверждает хозяин. Поворот служит началом нанесённого дорожного участка."
+      },
+      {
+        "point": "finca-virtudes",
+        "role": "Finca Las Virtudes · район лагеря",
+        "note": "Точное место для стоянки, палатки и костра назначают по прибытии."
+      }
+    ],
+    "line": "pastora-virtudes-drive",
+    "sections": [
+      {
+        "title": "Кемпинг и костёр",
+        "text": "В карточке Camping.cr указаны лагуны, тропы, вода, электричество и разрешённые костры. Опубликована цена ₡3 000 с человека за ночь, проверьте действующий тариф. От лагеря к лагуне, по полевому обзору, ведёт крутой спуск примерно 300 м. Для палатки на крыше согласуйте площадку отдельно. Подтверждённый вариант такого размещения есть в Hacienda La Central.",
+        "sources": [
+          "virtudes-camp-listing",
+          "virtudes-firsthand"
+        ]
+      },
+      {
+        "title": "Что заметили местные кемперы",
+        "text": "Во время поездки в июне 2021 года авторы ставили тент у автомобиля, пользовались костровым местом и отмечали узкий извилистый подъезд. Утром, по их записи, было около 9 °C. Соберите тёплое спальное снаряжение, запасной сухой слой и проверьте прогноз для своей ночёвки.",
+        "sources": [
+          "virtudes-firsthand"
+        ]
+      },
+      {
+        "title": "Последний участок дороги",
+        "text": "Нанесено 12,9 км автомобильного подъезда с развилки Ла-Пастора по дорожной сети OpenStreetMap. После дождя хозяин подскажет проезд и место разворота для вашей машины. Сохраните пин Waze и приезжайте засветло. Прогулки по ферме согласуются отдельно от официальных троп вулкана.",
+        "sources": [
+          "virtudes-pastora-osm",
+          "virtudes-waze",
+          "virtudes-camp-listing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Las Virtudes",
+        "source": "virtudes-camp-listing",
+        "note": "Состояние грунта, въезд по навигатору, тип палатки и выделенное место для костра.",
+        "phone": "+506 8379 2930",
+        "whatsapp": "https://wa.me/50683792930"
+      }
+    ],
+    "nearby": [
+      "virtudes-guayabo-camp-2",
+      "la-central-rooftop-camp",
+      "guayabo-archaeology-walk",
+      "turrialba"
+    ],
+    "galleries": [
+      "virtudes-camp-listing",
+      "virtudes-firsthand"
+    ],
+    "videos": ["virtudes-field-video"],
+    "connectStops": false
+  },
+  "guayabo-archaeology-walk": {
+    "stops": [
+      {
+        "point": "guayabo-archaeological-area",
+        "role": "Гуаябо · археологический сектор",
+        "note": "Метка стоит внутри памятника. Схема ICT показывает кассу, входы на тропы и смотровую."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пешая часть",
+        "text": "В кассе возьмите схему и начните с Los Montículos. Отмечайте каменную дорогу, основания строений и открытый акведук. Лесную тропу Canto del Agua добавляйте по открытию и силам группы. Проводник помогает разобрать устройство водной системы. SINAC указывает примерно полтора часа для программы с гидом.",
+        "sources": [
+          "guayabo-sinac-park",
+          "guayabo-ict-brochure",
+          "guayabo-ict-story"
+        ]
+      },
+      {
+        "title": "С детьми, после дождя и на автобусе",
+        "text": "Понадобится нескользящая обувь и лёгкий дождевик. С ребёнком, который устаёт на мокрых ступенях, запланируйте археологическую часть в своём темпе. В брошюре ICT указаны оплата картой у кассы и автобус из Турриальбы. Обратный рейс и место стоянки проверьте в день поездки.",
+        "sources": [
+          "guayabo-ict-brochure",
+          "guayabo-sinac-drive",
+          "guayabo-ict-story"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Касса Monumento Nacional Guayabo",
+        "source": "guayabo-ict-brochure",
+        "note": "Последний вход, актуальная цена, доступность троп и возможность нанять проводника.",
+        "phone": "+506 2559 0117"
+      },
+      {
+        "name": "SINAC · администрация Гуаябо",
+        "source": "guayabo-ict-brochure",
+        "note": "Программа лицензированных проводников, доступность и групповые посещения.",
+        "phone": "+506 2559 1220",
+        "email": "acc.info@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "virtudes-guayabo-camp-2",
+      "turrialba-virtudes-campfire",
+      "turrialba-peralta-34"
+    ],
+    "galleries": [
+      "guayabo-ict-story"
+    ],
+    "videos": [
+      "guayabo-asamblea-video"
+    ],
+    "connectStops": false,
+    "photos": [
+      "guayabo-mounds"
+    ]
+  },
+  "arenal-balsa-raft-atv": {
+    "stops": [
+      {
+        "point": "fortuna-park",
+        "role": "Ла-Фортуна · центральный ориентир",
+        "note": "Офис оператора находится в нескольких кварталах от парка."
+      },
+      {
+        "point": "arenal-rafting-office",
+        "role": "Регистрация · Arenal Rafting",
+        "note": "Отсюда отправляется трансфер. Уточните место посадки, если вас забирают в отеле."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расписание полного дня",
+        "text": "На странице программы указаны около двух часов сплава, двух часов на квадроцикле, час на обед и до двух часов на дорогу. Выделите около семи часов от указанного выезда в 09:25 с учётом этих частей. Места высадки у реки и пересадки на ATV уточняются у команды.",
+        "sources": [
+          "arenal-balsa-atv-owner",
+          "balsa-meeting-office"
+        ]
+      },
+      {
+        "title": "Водитель, пассажиры и экипировка",
+        "text": "Пассажир ATV от 8 лет, водитель предъявляет действующее удостоверение. Укажите возраст каждого ребёнка и спросите, кого посадят пассажиром и на какой машине. Возьмите обувь, которая держится на ноге в воде, сменную одежду и защиту от солнца. Подтвердите наличие шлемов и детских жилетов по росту и весу.",
+        "sources": [
+          "arenal-balsa-atv-owner",
+          "balsa-operator-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Rafting · бронь",
+        "source": "balsa-meeting-office",
+        "note": "Тариф с налогом, возраст для комбинации, документы водителя и часы завершения.",
+        "phone": "+506 2479 7215",
+        "whatsapp": "https://wa.me/50624797215",
+        "email": "arenalrafting@gmail.com"
+      },
+      {
+        "name": "Arenal Rafting · трансфер",
+        "source": "balsa-meeting-office",
+        "note": "Посадка у отеля, точка обратной высадки и смена расписания при дожде.",
+        "phone": "+506 8934 2626",
+        "whatsapp": "https://wa.me/50689342626"
+      }
+    ],
+    "nearby": [
+      "balsa-rafting",
+      "arenal-balsa-adrenaline-12"
+    ],
+    "galleries": [
+      "arenal-balsa-atv-owner"
+    ],
+    "videos": ["arenal-balsa-atv-video"],
+    "connectStops": false
+  },
+  "arenal-balsa-adrenaline-12": {
+    "stops": [
+      {
+        "point": "arenal-rafting-office",
+        "role": "Выезд на Бальсу · Ла-Фортуна",
+        "note": "09:20 по программе. Места посадки и выхода на реке зависят от маршрута проводника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Время на реке и вариант попроще",
+        "text": "Оператор описывает более энергичное прохождение порогов и около двух часов сплава. Бронируйте после разговора об опыте группы, классе выбранного участка и текущей воде. Для первого спуска с младшими детьми у этого же оператора есть семейная программа II–III.",
+        "sources": [
+          "arenal-balsa-adrenaline-owner",
+          "balsa-operator-faq",
+          "balsa-operator-program"
+        ]
+      },
+      {
+        "title": "Подготовка к посадке",
+        "text": "Запросите детские размеры жилетов, условия на случай высокой воды и время обратного трансфера. Возьмите обувь с фиксированной пяткой, сухой комплект на обратную дорогу и маленький гермомешок для личных вещей, если оператор разрешает взять его в лодку.",
+        "sources": [
+          "arenal-balsa-adrenaline-owner",
+          "balsa-operator-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Rafting · программа Бальса",
+        "source": "balsa-meeting-office",
+        "note": "Подтвердите класс воды, возраст, расписание и точку посадки.",
+        "phone": "+506 2479 7215",
+        "whatsapp": "https://wa.me/50624797215",
+        "email": "arenalrafting@gmail.com"
+      }
+    ],
+    "nearby": [
+      "balsa-rafting",
+      "arenal-balsa-raft-atv"
+    ],
+    "galleries": [
+      "arenal-balsa-adrenaline-owner"
+    ],
+    "connectStops": false
+  },
+  "las-mercedes-dota-roof-ebike-2": {
+    "stops": [
+      {
+        "point": "las-mercedes-farm",
+        "role": "День 1 · кофе, палатка, ночёвка",
+        "note": "У владельца согласуйте площадку и возможность зарядить батарею."
+      },
+      {
+        "point": "san-pablo-leon",
+        "role": "Автомобильный переезд · Сан-Пабло",
+        "note": "Запас воды и продукты купите до горной части."
+      },
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "День 2 · старт велодня в Санта-Марии",
+        "note": "Рядом кофе и исходная точка двух веломаршрутов. Получите разрешение на длительную стоянку."
+      }
+    ],
+    "line": "mercedes-dota-drive",
+    "track": "dota-cedral-ebike-field",
+    "sections": [
+      {
+        "title": "Два варианта велодня",
+        "text": "Полное кольцо через Эль-Седраль и Сан-Маркос даёт 39,16 км и около +1 672 м по полевому треку. Вариант по общей дороге 315 до Копея короче, 7,2 км в одну сторону. Карта поездки показывает 13,4 км автомобильного переезда к CoopeDota. Велотрек открывается в отдельном отчёте автора.",
+        "sources": [
+          "las-mercedes-dota-osm",
+          "dota-cedral-ebike-field",
+          "dota-315-open-map"
+        ]
+      },
+      {
+        "title": "Лёгкий e-MTB: где можно ехать без помощи",
+        "text": "На спокойных отрезках к Копею можно отключать поддержку, если общий трафик и темп группы позволяют. Грунтовое кольцо имеет большой набор высоты. Полезно заранее проверить расход на сопоставимом подъёме, оставить запас на мокрый объезд и договориться о подвозе из Сан-Маркоса. Производитель TQ разрешает ехать на HPR60 с выключенной системой.",
+        "sources": [
+          "tq-hpr60-manual",
+          "tq-hpr-ride-faq",
+          "dota-cedral-ebike-field",
+          "dota-bike-catursantos"
+        ]
+      },
+      {
+        "title": "Зарядка и перевозка",
+        "text": "Возьмите штатное зарядное устройство, насос, камеру или пробки для бескамерных покрышек и запас воды. До выезда спросите про сухую розетку и правила зарядки. Проверьте допустимую массу каждого велосипеда на креплении и возможность снять батарею для перевозки по инструкции производителя.",
+        "sources": [
+          "las-mercedes-farm-owner",
+          "las-mercedes-roof-guide",
+          "tq-hpr60-manual",
+          "trek-fuel-ex-97-spec"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Las Mercedes Coffee Farm",
+        "source": "las-mercedes-farm-owner",
+        "note": "Площадка для машины с палаткой, подъезд и сухая розетка под зарядное устройство.",
+        "phone": "+506 6086 2030",
+        "whatsapp": "https://wa.me/50660862030"
+      },
+      {
+        "name": "Dota es Dota · местный велогид",
+        "source": "dota-bike-catursantos",
+        "note": "Узнайте состояние переправ, участки ферм и краткий маршрут на дату.",
+        "phone": "+506 8802 5560",
+        "whatsapp": "https://wa.me/50688025560"
+      }
+    ],
+    "nearby": [
+      "san-pablo-las-mercedes-roof",
+      "dota-cedral-san-marcos-ebike-39",
+      "santa-maria-copey-road-bike"
+    ],
+    "photos": [
+      "dota-park"
+    ],
+    "galleries": [
+      "las-mercedes-roof-guide",
+      "dota-cedral-ebike-field"
+    ],
+    "videos": ["las-mercedes-film"],
+    "connectStops": false
+  },
+  "virtudes-guayabo-camp-2": {
+    "stops": [
+      {
+        "point": "la-pastora-turn-230",
+        "role": "День 1 · развилка Ла-Пастора",
+        "note": "Начало нанесённого подъезда к лагерю."
+      },
+      {
+        "point": "finca-virtudes",
+        "role": "День 1 · тропы фермы и ночёвка",
+        "note": "Запросите точку для лагеря и согласуйте костёр."
+      },
+      {
+        "point": "guayabo-archaeological-area",
+        "role": "День 2 · Гуаябо",
+        "note": "Метка внутри памятника. На схеме ICT показан вход через кассу."
+      }
+    ],
+    "line": "pastora-virtudes-drive",
+    "sections": [
+      {
+        "title": "Детский темп и подъезд после дождя",
+        "text": "Закладывайте короткую прогулку у лагун в день приезда. Если дождь затянулся, перенесите костёр и уточните выезд у хозяина. Утром разберите мокрый тент отдельно от спальников, затем отправляйтесь к кассе Гуаябо. На карте нанесён подъезд к лагерю. Ко второму дню используйте дорожные указания SINAC.",
+        "sources": [
+          "virtudes-pastora-osm",
+          "virtudes-camp-listing",
+          "guayabo-sinac-drive"
+        ]
+      },
+      {
+        "title": "Выбор ночёвки",
+        "text": "Лас-Виртудес подходит для обычной палатки. Для машины с палаткой на крыше запросите площадку и подъезд у владельца. Отдельный вариант с заявленным размещением rooftop tent есть у Hacienda La Central. В каждом лагере правила огня и воды уточняются на выбранную дату.",
+        "sources": [
+          "virtudes-camp-listing",
+          "virtudes-firsthand"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Las Virtudes",
+        "source": "virtudes-camp-listing",
+        "note": "Площадка, заезд, поздний выезд и работа костровой зоны.",
+        "phone": "+506 8379 2930",
+        "whatsapp": "https://wa.me/50683792930"
+      },
+      {
+        "name": "SINAC · касса Гуаябо",
+        "source": "guayabo-ict-brochure",
+        "note": "Часы, открытие троп, вход и проводник.",
+        "phone": "+506 2559 0117"
+      }
+    ],
+    "nearby": [
+      "turrialba-virtudes-campfire",
+      "guayabo-archaeology-walk",
+      "la-central-rooftop-camp"
+    ],
+    "galleries": [
+      "virtudes-firsthand",
+      "guayabo-ict-story"
+    ],
+    "videos": [
+      "virtudes-field-video",
+      "guayabo-asamblea-video"
+    ],
+    "connectStops": false,
+    "photos": [
+      "guayabo-mounds"
+    ]
+  }
+}

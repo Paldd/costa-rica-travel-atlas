@@ -172,6 +172,14 @@ assert(profilesWithSites.some(row => row.platform === "Facebook" && row.publishe
 const facebookLinks = atlas.social.profiles.flatMap(row => row.postLinks || []);
 assert.equal(facebookLinks.length, atlas.social.overview.facebookPosts);
 assert.equal(new Set(facebookLinks.map(link => atlas.sources[link.source].url)).size, facebookLinks.length);
+const checkedFeeds = atlas.social.profiles.flatMap(row => row.liveCheck ? [row.liveCheck] : []);
+assert.equal(atlas.social.overview.browserChecks, checkedFeeds.length);
+assert.equal(atlas.social.overview.visibleBrowserFeeds, checkedFeeds.filter(receipt => receipt.status === "feed-visible").length);
+for (const receipt of checkedFeeds) {
+  assert.match(receipt.checked, /^\d{4}-\d{2}-\d{2}$/);
+  assert(["feed-visible", "login-required"].includes(receipt.status));
+  assert(receipt.detail.trim());
+}
 const copiedProfiles = atlas.social.profiles.filter(row => row.copySample);
 assert.equal(atlas.social.overview.facebookWithCopies, copiedProfiles.length);
 assert.equal(atlas.social.overview.facebookCopiedPosts, copiedProfiles.reduce((sum, row) => sum + row.copySample.count, 0));
