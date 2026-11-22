@@ -709,9 +709,9 @@
         "note": "Официальная метка хозяев. С неё открывается проезд в Google Maps или Waze."
       },
       {
-        "point": "espiritu-santo-coffee-tour",
-        "role": "Дополнение · кооперативный кофе",
-        "note": "Отдельная остановка по пути через Наранхо. Экскурсию согласуйте заранее."
+        "point": "chayote-lodge-entry",
+        "role": "Дополнительная остановка · Quelites",
+        "note": "Кофе и панорама при Chayote Lodge. Подтвердите часы и возможность приехать без проживания."
       }
     ],
     "sections": [
@@ -738,6 +738,15 @@
           "naranjo-municipal-turismo",
           "rualdo-family-camp"
         ]
+      },
+      {
+        "title": "Кофе и кофетур в Наранхо",
+        "text": "Coopronaranjo объявил о завершении экскурсий Espíritu Santo с 30 мая 2025 года. Материал UCR 2026 года подтверждает закрытие программы. Если хочется кофе и вида, запланируйте отдельную остановку в Quelites при Chayote Lodge и сверьте часы у команды.",
+        "sources": [
+          "naranjo-coffee-closure-2025",
+          "naranjo-ucr-coffee-2026",
+          "chayote-quelites"
+        ]
       }
     ],
     "contacts": [
@@ -749,11 +758,10 @@
         "url": "https://www.pescacr.com/contact.html"
       },
       {
-        "name": "Espíritu Santo Coffee Tour · Coopronaranjo",
-        "source": "naranjo-municipal-turismo",
-        "note": "Согласуйте время экскурсии, язык и возраст детей.",
-        "phone": "+506 2450 3838",
-        "url": "https://www.naranjo.go.cr/turismo/"
+        "name": "Quelites · Chayote Lodge",
+        "source": "chayote-quelites",
+        "note": "Уточните часы и вход для гостей без ночёвки.",
+        "phone": "+506 4001 6923"
       },
       {
         "name": "Alto del Rualdo · Camping y Overlanding",
@@ -765,7 +773,8 @@
     ],
     "nearby": [
       "naranjo-roof-pond-2",
-      "rualdo-overlanding"
+      "rualdo-overlanding",
+      "quelites-chayote-cafe"
     ]
   },
   "naranjo-roof-pond-2": {
@@ -781,9 +790,9 @@
         "note": "Заезд через Cirrí Sur по контакту хозяев. Площадку выбирают с оператором."
       },
       {
-        "point": "espiritu-santo-coffee-tour",
-        "role": "День 2 · Coopronaranjo",
-        "note": "Опционально. Уточните открытие и наличие тура на ваш день."
+        "point": "chayote-lodge-entry",
+        "role": "Дополнительная остановка · Quelites",
+        "note": "Кофе и панорама при Chayote Lodge. Подтвердите часы и возможность приехать без проживания."
       }
     ],
     "sections": [
@@ -798,7 +807,7 @@
       },
       {
         "title": "Разный темп на выходные",
-        "text": "Для семьи можно оставить один пруд и кемпинг. С друзьями добавьте кооператив или повторный заезд через центр Наранхо. Приезжайте в кемпинг до темноты, чтобы увидеть уклон и выбрать сторону палатки.",
+        "text": "Для семьи можно оставить один пруд и кемпинг. С друзьями добавьте остановку в Quelites или повторный заезд через центр Наранхо. Приезжайте в кемпинг до темноты, чтобы увидеть уклон и выбрать сторону палатки.",
         "sources": [
           "naranjo-municipal-turismo",
           "rualdo-family-camp"
@@ -806,7 +815,7 @@
       },
       {
         "title": "Что показано на карте",
-        "text": "Въезд в кемпинг, пруд и кофейный кооператив отмечены по источникам. Последний отрезок к стоянке согласуйте с хозяевами после дождя.",
+        "text": "Въезд в кемпинг, пруд и Quelites при Chayote Lodge отмечены по источникам. Последний отрезок к стоянке согласуйте с хозяевами после дождя.",
         "sources": [
           "los-arroyos-contact",
           "rualdo-family-camp",
@@ -819,6 +828,15 @@
         "sources": [
           "rualdo-family-camp",
           "rualdo-camping-cr"
+        ]
+      },
+      {
+        "title": "Кофе и кофетур в Наранхо",
+        "text": "Coopronaranjo объявил о завершении экскурсий Espíritu Santo с 30 мая 2025 года. Материал UCR 2026 года подтверждает закрытие программы. Если хочется кофе и вида, запланируйте отдельную остановку в Quelites при Chayote Lodge и сверьте часы у команды.",
+        "sources": [
+          "naranjo-coffee-closure-2025",
+          "naranjo-ucr-coffee-2026",
+          "chayote-quelites"
         ]
       }
     ],
@@ -838,16 +856,16 @@
         "url": "https://altodelrualdo.com/"
       },
       {
-        "name": "Espíritu Santo Coffee Tour · Coopronaranjo",
-        "source": "naranjo-municipal-turismo",
-        "note": "Согласуйте время экскурсии, язык и возраст детей.",
-        "phone": "+506 2450 3838",
-        "url": "https://www.naranjo.go.cr/turismo/"
+        "name": "Quelites · Chayote Lodge",
+        "source": "chayote-quelites",
+        "note": "Уточните часы и вход для гостей без ночёвки.",
+        "phone": "+506 4001 6923"
       }
     ],
     "nearby": [
       "los-arroyos-family-fishing",
-      "rualdo-overlanding"
+      "rualdo-overlanding",
+      "quelites-chayote-cafe"
     ],
     "galleries": [
       "rualdo-family-camp"

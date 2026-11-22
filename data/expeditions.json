@@ -2577,7 +2577,7 @@
     "kind": "trip",
     "region": "central",
     "title": "Наранхо на выходные · пруд, кофе и палатка на крыше",
-    "native": "San Antonio de la Cueva · Coopronaranjo · Alto del Rualdo",
+    "native": "San Antonio de la Cueva · Alto del Rualdo · Quelites",
     "level": "moderate",
     "days": 2,
     "activities": [
@@ -2607,9 +2607,12 @@
       "los-arroyos-contact",
       "naranjo-municipal-turismo",
       "rualdo-family-camp",
-      "rualdo-camping-cr"
+      "rualdo-camping-cr",
+      "chayote-quelites",
+      "naranjo-coffee-closure-2025",
+      "naranjo-ucr-coffee-2026"
     ],
-    "summary": "Два дня в окрестностях Наранхо. Пруд с домашней кухней, ночёвка высоко над долиной и кофе местного кооператива.",
+    "summary": "Два дня в окрестностях Наранхо. Пруд с домашней кухней, ночёвка высоко над долиной и кофе с видом у Chayote Lodge.",
     "plan": "В первый день рыбалка и обед в Los Arroyos, затем заезд в Alto del Rualdo по указаниям хозяев. Во второй день кофе и возвращение через Наранхо.",
     "conditions": "Для крыши подтвердите размер площадки и дорогу после дождя. На возвышенности приготовьте одежду на холодный и ветреный вечер.",
     "stages": [
@@ -2628,13 +2631,14 @@
       },
       {
         "day": 2,
-        "title": "Кофейный кооператив и домой",
-        "note": "Сверните крышу после рассвета. Если есть подтверждённое время, заедьте в Espíritu Santo Coffee Tour.",
+        "title": "Кофе у Чайоте и домой",
+        "note": "Сверните крышу после рассвета. Если кафе Quelites подтвердило часы и вход, остановитесь у Chayote Lodge. На обратном пути можно заехать в центр Наранхо.",
         "stops": [
-          "rualdo-overlanding"
+          "rualdo-overlanding",
+          "quelites-chayote-cafe"
         ],
         "sources": [
-          "naranjo-municipal-turismo",
+          "chayote-quelites",
           "rualdo-family-camp"
         ]
       }

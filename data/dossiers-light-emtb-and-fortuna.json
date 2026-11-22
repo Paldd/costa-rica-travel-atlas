@@ -1,0 +1,669 @@
+{
+  "santa-ana-light-emtb": {
+    "stops": [
+      {
+        "point": "ebike-puromtb-sabana",
+        "role": "Сабана-Сур · Scott и прокат",
+        "note": "Точка выдачи по карточке проката. Арендная модель может отличаться от выставленной."
+      },
+      {
+        "point": "santa-ana-trek-bike-store",
+        "role": "Санта-Ана · дилер Trek",
+        "note": "Актуальный Waze из профиля дилера. В публичных справочниках встречаются прежние адреса."
+      },
+      {
+        "point": "santa-ana-innova-bikes",
+        "role": "Санта-Ана · дилер Orbea",
+        "note": "Plaza 5 de Marzo. Уточните запись на тест."
+      },
+      {
+        "point": "santa-ana-bike-outlet-lindora",
+        "role": "Позос · Bike Outlet и Bikestation",
+        "note": "Маркер торгового комплекса, входы магазинов уточняйте по контактам."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Scott Lumen 920 и Lumen 905",
+        "text": "У Lumen 920 указаны 18,5 кг, TQ HPR60 60 Н·м, 360 Вт·ч и комплектный удлинитель на 160 Вт·ч. В таблице компонентов SRAM Eagle 70 с механической манеткой. Lumen 905 легче по каталогу (17,9 кг), у него HPR50 50 Н·м и электронная SRAM S1000 Eagle AXS. В карточке PuroMTB на дату проверки 905 стоит ₡4,35 млн, размер не выбран. ₡3,6 млн на витрине стоит Scott Patron 920.",
+        "sources": [
+          "light-scott-920",
+          "light-scott-905",
+          "puromtb-lumen-905-spec",
+          "light-puro-prices"
+        ]
+      },
+      {
+        "title": "Trek Fuel+ EX Gen 2",
+        "text": "Карбоновый EX 9.7 в указанной версии SRAM Eagle 70 весит 19,73 кг в M по данным Trek. Система HPR60, съёмная батарея 580 Вт·ч. У американского магазина для проверенного артикула была распродажная цена $5 999,93. Местный прайс и наличие L в публичных данных дилера не подтверждены. Алюминиевый EX 5 стоит сопоставить по фактической массе и комплектации в L.",
+        "sources": [
+          "light-trek-97",
+          "light-trek-5",
+          "light-trek-dealer",
+          "light-trek-cr"
+        ]
+      },
+      {
+        "title": "Orbea Rise SL и Specialized Levo SL 2",
+        "text": "Для Rise SL характеристики зависят от года и версии. Orbea указывает до 85 Н·м у EP600 RS Gen2 MC в M20 и до 100 Н·м у EP810 RS в M10 RS. В местном каталоге Specialized Levo SL 2 Comp 2026 указаны 50 Н·м, 320 Вт·ч и электронная SRAM AXS. Попросите магазин назвать год, конкретную трансмиссию и массу в вашем размере.",
+        "sources": [
+          "light-orbea-m20",
+          "light-orbea-m10",
+          "light-orbea-cr",
+          "light-levo-sl-comp"
+        ]
+      },
+      {
+        "title": "Что есть в публичных объявлениях в L",
+        "text": "Bike Outlet публикует S-Works Kenevo SL S4/L за ₡2,7 млн с SRAM XX1 AXS, вилкой RockShox Boxxer и батареей 320 Вт·ч. Это эндуро с длинноходной подвеской. Год, фактический вес, мотор и состояние батареи нужно подтвердить по экземпляру. Там же две полноразмерные Cannondale Moterra L за ₡2,3 и ₡2,6 млн. Данные объявлений проверены 22 ноября 2026.",
+        "sources": [
+          "light-outlet-kenevo",
+          "light-kenevo-manufacturer",
+          "light-outlet-moterra",
+          "light-outlet-moterra-se"
+        ]
+      },
+      {
+        "title": "Пробный выезд с выключенной помощью",
+        "text": "Инструкция TQ разрешает ехать с выключенной системой. Ощущение при педалировании зависит также от шин, давления, трансмиссии, посадки и реального веса. Сравните велосипеды на одной тихой петле при одинаковой настройке. Если нужно возить ребёнка, совместимость крепления и допустимую нагрузку сверяйте с инструкциями велосипеда и детского оборудования.",
+        "sources": [
+          "tq-hpr60-manual",
+          "light-tq-hpr60",
+          "light-trek-97"
+        ]
+      },
+      {
+        "title": "Версия для дорог и допуск в велопарк",
+        "text": "Для местной категории велосипеда с педальной помощью закон указывает отключение помощи при 25 км/ч на ровном участке. У карточки 905 встречается 33 км/ч в названии и две версии в таблице, поэтому проверьте сертификацию конкретного артикула под местную категорию. У частных парков свой порядок допуска. Короткий дорожный выезд и два велопарка есть ниже.",
+        "sources": [
+          "cr-law-10651-pedelec",
+          "puromtb-lumen-905-spec",
+          "tq-hpr60-manual",
+          "mora-rodeo-road"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PuroMTB · Сабана-Сур",
+        "source": "ebike-puromtb-sabana-contact",
+        "note": "Попросите артикул, размер и финальную цену Lumen 905. Отдельно уточните заказ Lumen 920 и модель на прокат.",
+        "phone": "+506 2231 4110",
+        "whatsapp": "https://wa.me/50683434260",
+        "email": "ventas@puromtb.com"
+      },
+      {
+        "name": "Bike Store CR · Trek Santa Ana",
+        "source": "light-trek-cr",
+        "note": "Уточните местную комплектацию Fuel+ EX 9.7 или EX 5 в L, цену, срок и возможность теста.",
+        "phone": "+506 4030 1119"
+      },
+      {
+        "name": "Innova Bikes · Plaza 5 de Marzo",
+        "source": "light-innova-cr",
+        "note": "Уточните конкретную версию Rise SL в L, поколение Shimano, манетку и батарею.",
+        "phone": "+506 2437 7880"
+      },
+      {
+        "name": "Bike Outlet · Centro Corporativo Lindora",
+        "source": "light-outlet-kenevo",
+        "note": "Попросите фактическую массу и состояние Kenevo SL S4, модель мотора по серийному номеру, диагностику батареи и тест.",
+        "phone": "+506 6013 3882",
+        "whatsapp": "https://wa.me/50660133882",
+        "email": "info@bikeoutlet.cr"
+      },
+      {
+        "name": "Bikestation · Lindora",
+        "source": "light-specialized-lindora",
+        "note": "Подбор размера Specialized, сервис Turbo, фактическое наличие Levo SL 2 и условия гарантии."
+      }
+    ],
+    "galleries": [
+      "light-scott-920",
+      "light-trek-97",
+      "light-outlet-kenevo"
+    ],
+    "nearby": [
+      "puro-mtb-sabana-ebike-rental",
+      "ciudad-colon-rodeo-ebike",
+      "la-angelina-azul-ebike-7",
+      "buen-camino-san-mateo-emtb"
+    ],
+    "connectStops": false
+  },
+  "ciudad-colon-rodeo-ebike": {
+    "stops": [
+      {
+        "point": "mora-colon-central-church",
+        "role": "Старт · улица у центрального парка",
+        "note": "Заранее выберите законное место для парковки. Начните с тихого участка."
+      },
+      {
+        "point": "mora-rodeo-capilla",
+        "role": "Разворот · Capilla San José",
+        "note": "Капелла и сквер на Calle Rodeo. Обратный путь выведен отдельной линией."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расстояние и покрытие",
+        "text": "FOSSGIS строит 6,07 км до капеллы и 5,74 км обратно. На выезде есть короткий участок Ruta 239, дальше Calle Rodeo. На подъёмах у поворотов держитесь заметно для водителей. Дождь ухудшает видимость.",
+        "sources": [
+          "mora-rodeo-road",
+          "mora-rodeo-road-back",
+          "mora-rodeo-hacienda"
+        ]
+      },
+      {
+        "title": "Как проверить байк на выезде",
+        "text": "Выберите пологий участок, где безопасно переключить режим. Отдельно сравните накат, педалирование с выключенной помощью и Eco. Возьмите шлем, свет, воду и ремкомплект. Детей, которые едут самостоятельно, берите при уверенной езде рядом с машинами.",
+        "sources": [
+          "mora-rodeo-road",
+          "tq-hpr60-manual",
+          "cr-law-10651-pedelec"
+        ]
+      },
+      {
+        "title": "Дальше в окрестностях",
+        "text": "Местный райдер описывает продолжение в сторону Пьедрас-Неграс и Пикагрес. В сухой день отметил жару и пыль, затем заметный подъём обратно. Это отдельный длинный выезд. В частном Senderos Colón проверьте правила для e‑MTB перед посещением.",
+        "sources": [
+          "mora-rodeo-rider",
+          "senderos-colon"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PuroMTB · Сабана-Сур",
+        "source": "ebike-puromtb-sabana-contact",
+        "note": "Попросите артикул, размер и финальную цену Lumen 905. Отдельно уточните заказ Lumen 920 и модель на прокат.",
+        "phone": "+506 2231 4110",
+        "whatsapp": "https://wa.me/50683434260",
+        "email": "ventas@puromtb.com"
+      }
+    ],
+    "line": "ciudad-colon-rodeo-round-trip",
+    "nearby": [
+      "santa-ana-light-emtb",
+      "senderos-colon-mtb-laja-11",
+      "guacima-puriscal-santa-ana-emtb-61"
+    ],
+    "videos": [
+      "mora-rodeo-local-clip"
+    ]
+  },
+  "guacima-puriscal-santa-ana-emtb-61": {
+    "stops": [
+      {
+        "point": "piedras-negras",
+        "role": "Пьедрас-Неграс · промежуточный ориентир",
+        "note": "Точное место пересечения с авторским треком сверяйте по ссылке."
+      },
+      {
+        "point": "santa-ana-salitral-town",
+        "role": "Салитраль · ориентир района Санта-Аны",
+        "note": "Маркер посёлка для логистики. Старт, финиш и проезд сверяйте по авторской записи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Архивная запись",
+        "text": "В исходном кольце Рафаэля Эрреры 61,14 км и 1 719 м общего набора. Поездка была в сухой сезон. Автор описал примерно равные доли гравия и асфальта и особенно крутой подъём к ветропарку. Полный трек по ссылке.",
+        "sources": [
+          "mora-puriscal-rider-61"
+        ]
+      },
+      {
+        "title": "Проверка проезда и запас заряда",
+        "text": "Согласуйте разрешённые проезды, состояние мостов и место подбора, особенно после дождя. Запас энергии оцените по собственному расходу на похожем подъёме. Зарядка и питание между деревнями требуют договорённости. Возьмите шлем, запас воды, инструмент, камеру или жгуты и офлайн-карту.",
+        "sources": [
+          "mora-puriscal-rider-61",
+          "mora-rodeo-rider"
+        ]
+      },
+      {
+        "title": "Более короткая проба",
+        "text": "Перед длинным кругом отработайте управление и торможение на коротком выезде к капелле Эль-Родео либо на открытой трассе велопарка. Это поможет подобрать режим под подъёмы и покрытие.",
+        "sources": [
+          "mora-rodeo-road",
+          "buen-camino-owner-ride"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PuroMTB · Сабана-Сур",
+        "source": "ebike-puromtb-sabana-contact",
+        "note": "Попросите артикул, размер и финальную цену Lumen 905. Отдельно уточните заказ Lumen 920 и модель на прокат.",
+        "phone": "+506 2231 4110",
+        "whatsapp": "https://wa.me/50683434260",
+        "email": "ventas@puromtb.com"
+      }
+    ],
+    "track": "mora-puriscal-rider-61",
+    "galleries": [
+      "mora-puriscal-rider-61"
+    ],
+    "nearby": [
+      "ciudad-colon-rodeo-ebike",
+      "santa-ana-light-emtb",
+      "piedras-negras-orotina-gravel-50"
+    ],
+    "connectStops": false
+  },
+  "el-silencio-del-campo": {
+    "stops": [
+      {
+        "point": "fortuna-el-silencio-hotel",
+        "role": "Ruta 142 · въезд в отель",
+        "note": "Точка из Waze на сайте отеля. Найдите именно Hotel El Silencio del Campo у Ла-Фортуны."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Виллы и размещение",
+        "text": "Указаны семейные виллы с двумя двуспальными и одной односпальной кроватями, до пяти гостей. Есть отдельные доступные виллы рядом с парковкой и горячими бассейнами. Если важны ступени, детская кроватка или соседние номера, попросите подтвердить условия выбранного номера.",
+        "sources": [
+          "fortuna-silencio-owner",
+          "fortuna-silencio-villas"
+        ]
+      },
+      {
+        "title": "Термы и спокойный вечер",
+        "text": "Оператор показывает термальные бассейны, сад, ресторан и ферму. После горных дорог оставьте свободный вечер. Для детей найдите бассейн комфортной температуры. Уточните расписание посещения фермы и что включено в тариф.",
+        "sources": [
+          "fortuna-silencio-owner",
+          "fortuna-silencio-villas"
+        ]
+      },
+      {
+        "title": "Поездки из отеля",
+        "text": "На утро подойдут короткая дорожка у Arenal Observatory или наблюдение за животными на Bógarin Trail. Сколько осталось времени на выезд через Сан-Рамон, зависит от длительности прогулки и местных дорог.",
+        "sources": [
+          "arenal-observatory-pass",
+          "fortuna-bogarin-faq",
+          "fortuna-san-ramon-drive"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel El Silencio del Campo",
+        "source": "fortuna-silencio-owner",
+        "note": "Проверьте размещение по составу семьи, часы бассейнов, посещение фермы и подъезд.",
+        "phone": "+506 2479 7055"
+      }
+    ],
+    "galleries": [
+      "fortuna-silencio-villas"
+    ],
+    "nearby": [
+      "bogarin-trail-la-fortuna",
+      "arenal-observatory",
+      "la-fortuna-thermal-wildlife-two-days"
+    ]
+  },
+  "bogarin-trail-la-fortuna": {
+    "stops": [
+      {
+        "point": "fortuna-bogarin-entry",
+        "role": "Вход · касса, встреча и кафе",
+        "note": "Координаты опубликованы оператором. Длина петли внутри резервата дана по его справке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Самостоятельно или с гидом",
+        "text": "Оператор описывает лёгкую петлю 2 км и наблюдение за животными. Дневной тур с натуралистом занимает около двух часов. С гидом проще заметить высоко сидящих ленивцев. Появление конкретных животных зависит от дня и погоды.",
+        "sources": [
+          "fortuna-bogarin-faq",
+          "fortuna-bogarin-guided",
+          "fortuna-bogarin-local-report"
+        ]
+      },
+      {
+        "title": "С маленькими детьми",
+        "text": "Выберите более прохладное время, сделайте паузу, если хочется отдохнуть от жары. Уточните проходимость дорожек для коляски на свой день. Возьмите воду, средство от насекомых и закрытую обувь. Наблюдайте за дикой природой с тропы.",
+        "sources": [
+          "fortuna-bogarin-faq",
+          "fortuna-bogarin-ict"
+        ]
+      },
+      {
+        "title": "Часы и фото с места",
+        "text": "У разных билетов и туров условия различаются. На странице дневного тура есть сеансы в том числе в 08:00, 15:00 и 16:00, время бронирования сверяйте перед поездкой. В полевом отчёте показаны дорожки и наблюдения в разные часы.",
+        "sources": [
+          "fortuna-bogarin-guided",
+          "fortuna-bogarin-local-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bógarin Trail · вход и натуралисты",
+        "source": "fortuna-bogarin-owner-contact",
+        "note": "Уточните дневной вход с детьми, часы, язык экскурсии и возможность присоединиться к небольшой группе.",
+        "phone": "+506 8420 3661",
+        "email": "atencion@bogarintrail.com"
+      }
+    ],
+    "galleries": [
+      "fortuna-bogarin-guided",
+      "fortuna-bogarin-local-report"
+    ],
+    "videos": [
+      "fortuna-bogarin-film"
+    ],
+    "nearby": [
+      "el-silencio-del-campo",
+      "proyecto-asis-javillos",
+      "la-fortuna-thermal-wildlife-two-days"
+    ]
+  },
+  "proyecto-asis-javillos": {
+    "stops": [
+      {
+        "point": "fortuna-proyecto-asis-entry",
+        "role": "Хавильос · административный вход",
+        "note": "Около 400 м к западу от развилки Javillos по инструкции центра."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Обычный тур по центру",
+        "text": "По опубликованному расписанию с понедельника по субботу 08:30 и 13:30, до двух часов. Формат подходит семье с младшими детьми. Сотрудники объясняют причины попадания животных в центр и условия их реабилитации.",
+        "sources": [
+          "fortuna-asis-reg",
+          "fortuna-asis-sanctuary"
+        ]
+      },
+      {
+        "title": "Запись и дорога",
+        "text": "Центр рекомендует приехать на 15 минут раньше. При записи уточните язык, возраст и цену ребёнка, парковку и доступность троп. Из Ла-Фортуны это отдельный выезд в сторону Флоренсии, оставьте время на дорогу.",
+        "sources": [
+          "fortuna-asis-reg",
+          "fortuna-asis-map"
+        ]
+      },
+      {
+        "title": "Какие животные могут быть на месте",
+        "text": "Состав обитателей меняется. Смотрите животных с разрешённой дистанции и следуйте указаниям сотрудника. На официальном канале есть материалы о работе центра.",
+        "sources": [
+          "fortuna-asis-sanctuary",
+          "fortuna-asis-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Proyecto Asís · запись на экскурсию",
+        "source": "fortuna-asis-reg",
+        "note": "Согласуйте время, детский билет, язык и правила посещения.",
+        "phone": "+506 4000 1553",
+        "whatsapp": "https://wa.me/50686795867",
+        "email": "reservations@institutoasis.com"
+      }
+    ],
+    "galleries": [
+      "fortuna-asis-sanctuary"
+    ],
+    "videos": [
+      "fortuna-asis-film"
+    ],
+    "nearby": [
+      "bogarin-trail-la-fortuna",
+      "la-fortuna-thermal-wildlife-two-days"
+    ]
+  },
+  "sarchi-else-kientzler-garden": {
+    "stops": [
+      {
+        "point": "sarchi-kientzler-entry",
+        "role": "Вход · 800 м к северу от стадиона",
+        "note": "Координаты из Waze местного путеводителя. Адрес подтверждает муниципалитет."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прогулка по саду",
+        "text": "По описанию сада, здесь собраны тропические растения из разных частей мира. Вечером накануне спросите, сколько времени нужно на выбранную петлю, и проходима ли она для коляски после дождя.",
+        "sources": [
+          "sarchi-kientzler-owner",
+          "sarchi-kientzler-municipal",
+          "sarchi-kientzler-local"
+        ]
+      },
+      {
+        "title": "Кафе и время приезда",
+        "text": "Сад публикует расписание 08:00–16:00 ежедневно. У кафе есть собственный контакт. Если выезжаете из Ла-Фортуны после 15:00, выберите остановку в Сан-Рамоне или прогулку у карреты, а сад перенесите на отдельное светлое окно.",
+        "sources": [
+          "sarchi-kientzler-owner",
+          "sarchi-kientzler-cafe",
+          "san-ramon-culture-visit",
+          "sarchi-carreta-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Jardín Else Kientzler",
+        "source": "sarchi-kientzler-owner",
+        "note": "Уточните вход, последнее время посещения и часы кафе.",
+        "phone": "+506 2454 2070",
+        "whatsapp": "https://wa.me/50684727822"
+      },
+      {
+        "name": "Café Else",
+        "source": "sarchi-kientzler-cafe",
+        "note": "Контакт кафе для групп и заказа.",
+        "whatsapp": "https://wa.me/50661219161"
+      }
+    ],
+    "galleries": [
+      "sarchi-kientzler-owner",
+      "sarchi-kientzler-local"
+    ],
+    "videos": [
+      "sarchi-kientzler-film"
+    ],
+    "nearby": [
+      "sarchi-carreta-central-park",
+      "san-ramon-park-break",
+      "quelites-chayote-cafe"
+    ]
+  },
+  "sarchi-carreta-central-park": {
+    "stops": [
+      {
+        "point": "sarchi-central-park",
+        "role": "Parque Central · каррета напротив церкви",
+        "note": "Местоположение карреты описано муниципалитетом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что смотреть",
+        "text": "Расписную повозку длиной 15 м поставили в парке Сарчи-Норте. Её цвета и геометрические узоры связаны с ремеслом росписи воловьих повозок. Муниципалитет отмечает реставрацию в 2023 году.",
+        "sources": [
+          "sarchi-carreta-owner",
+          "sarchi-carreta-unesco"
+        ]
+      },
+      {
+        "title": "Как встроить в поездку",
+        "text": "На осмотр площади можно оставить 15–30 минут. Ботанический сад Else Kientzler находится отдельно и закрывается раньше вечернего возвращения из Ла-Фортуны. Для быстрого выхода на Ruta 1 используйте центральный парк Сан-Рамона.",
+        "sources": [
+          "sarchi-carreta-owner",
+          "sarchi-kientzler-owner",
+          "san-ramon-culture-visit"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Сарчи",
+        "source": "sarchi-carreta-owner",
+        "note": "Городской справочник по каррете и культурным объектам."
+      }
+    ],
+    "photos": [
+      "sarchi-carreta-cc0"
+    ],
+    "galleries": [
+      "sarchi-carreta-owner"
+    ],
+    "nearby": [
+      "sarchi-else-kientzler-garden",
+      "san-ramon-park-break"
+    ]
+  },
+  "san-ramon-park-break": {
+    "stops": [
+      {
+        "point": "san-ramon-central-area",
+        "role": "Parque Municipal Alberto Manuel Brenes",
+        "note": "Сквер в центре, рядом с приходской церковью и Museo Regional."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пауза перед последним перегоном",
+        "text": "Для обратной поездки по Ruta 702 это удобная короткая остановка. Подойдёт для ходьбы по центральному кварталу, если возвращаетесь засветло. Время в дороге и возможность парковки меняются с трафиком и погодой.",
+        "sources": [
+          "san-ramon-culture-visit",
+          "fortuna-san-ramon-drive"
+        ]
+      },
+      {
+        "title": "История в соседнем квартале",
+        "text": "На северной стороне площади Museo Regional Университета Коста-Рики в историческом здании. Программу музея и время входа проверяйте отдельно. Городские мероприятия публикуются в местном календаре.",
+        "sources": [
+          "san-ramon-ucr-museum",
+          "san-ramon-culture-visit"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Visit San Ramón · культурный календарь",
+        "source": "san-ramon-culture-visit",
+        "note": "Ссылки на городские площадки и события вокруг центрального парка."
+      }
+    ],
+    "galleries": [
+      "san-ramon-culture-visit"
+    ],
+    "nearby": [
+      "sarchi-carreta-central-park",
+      "sarchi-else-kientzler-garden",
+      "la-fortuna-thermal-wildlife-two-days"
+    ]
+  },
+  "la-fortuna-thermal-wildlife-two-days": {
+    "stops": [
+      {
+        "point": "fortuna-bogarin-entry",
+        "role": "День 1 · лесная петля и наблюдения",
+        "note": "На кассе уточните доступ и следующий тур с гидом."
+      },
+      {
+        "point": "fortuna-el-silencio-hotel",
+        "role": "День 1 · вилла и термальные бассейны",
+        "note": "Заселение и часы терм согласуйте заранее."
+      },
+      {
+        "point": "arenal-observatory-entry",
+        "role": "День 2 · дневной вход на тропы",
+        "note": "У ворот купите подходящий билет, узнайте актуальную карту."
+      },
+      {
+        "point": "arenal-observatory-deck",
+        "role": "День 2 · площадка под Ареналем",
+        "note": "Короткий пеший выход с территории лоджа."
+      },
+      {
+        "point": "ebike-la-fortuna-center",
+        "role": "День 2 · поворот через Ла-Фортуну",
+        "note": "Дорожный ориентир, здесь можно сделать паузу на обед."
+      },
+      {
+        "point": "san-ramon-central-area",
+        "role": "День 2 · короткая городская пауза",
+        "note": "Прогулка в светлое время перед возвращением на Ruta 1."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первый день в своём темпе",
+        "text": "С утра пройдите до 2 км в Bógarin или выберите тур с гидом. В отеле оставьте время на термы и отдых. Для прибывающих во второй половине дня уточните последний самостоятельный вход и не планируйте плотный график.",
+        "sources": [
+          "fortuna-bogarin-faq",
+          "fortuna-bogarin-guided",
+          "fortuna-silencio-owner"
+        ]
+      },
+      {
+        "title": "Короткое утро под вулканом",
+        "text": "Дневной доступ Arenal Observatory позволяет выбрать террасу, музей и асфальтированную дорожку длиной 800 м. Продлите прогулку только если хватает времени на горную дорогу. К водопаду идут по отдельной тропе.",
+        "sources": [
+          "arenal-observatory-pass",
+          "fortuna-observatory-accessible",
+          "fortuna-observatory-field-report"
+        ]
+      },
+      {
+        "title": "Возвращение после 15:00",
+        "text": "Автомобильный расчёт ведёт через Ла-Фортуну и район Ruta 702 до Сан-Рамона. При позднем старте оставьте одну короткую остановку и проверьте местные проезды и дождь. Сарчи и ботанический сад удобнее, когда вы выезжаете раньше. Музей и кафе проверяйте отдельно.",
+        "sources": [
+          "fortuna-san-ramon-drive",
+          "san-ramon-culture-visit",
+          "sarchi-kientzler-owner",
+          "sarchi-carreta-owner"
+        ]
+      },
+      {
+        "title": "Что покрывает GPX",
+        "text": "Две отдельные автомобильные линии. День 1 соединяет Bógarin с отелем. День 2 ведёт через въезд в Arenal Observatory и Ла-Фортуну к Сан-Рамону. Пешие варианты описаны в карточках этих мест.",
+        "sources": [
+          "fortuna-family-drive-day1",
+          "fortuna-san-ramon-drive",
+          "arenal-observatory-map",
+          "fortuna-bogarin-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bógarin Trail · вход и натуралисты",
+        "source": "fortuna-bogarin-owner-contact",
+        "note": "Уточните дневной вход с детьми, часы, язык экскурсии и возможность присоединиться к небольшой группе.",
+        "phone": "+506 8420 3661",
+        "email": "atencion@bogarintrail.com"
+      },
+      {
+        "name": "Hotel El Silencio del Campo",
+        "source": "fortuna-silencio-owner",
+        "note": "Проверьте размещение по составу семьи, часы бассейнов, посещение фермы и подъезд.",
+        "phone": "+506 2479 7055"
+      },
+      {
+        "name": "Arenal Observatory Lodge",
+        "source": "arenal-observatory-contact",
+        "note": "Дневные билеты, доступность короткой тропы, музей, ресторан и карта владения."
+      }
+    ],
+    "line": "la-fortuna-two-days-car",
+    "galleries": [
+      "fortuna-silencio-villas",
+      "fortuna-bogarin-local-report"
+    ],
+    "videos": [
+      "fortuna-bogarin-film"
+    ],
+    "nearby": [
+      "proyecto-asis-javillos",
+      "sarchi-carreta-central-park",
+      "sarchi-else-kientzler-garden"
+    ]
+  }
+}

@@ -682,5 +682,14 @@
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Museo_Nacional_de_Costa_Rica_01_2020_4221.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "sarchi-carreta-cc0": {
+    "file": "sarchi-carreta-leaflanguages.jpg",
+    "alt": "Крупный план ярко расписанной повозки в центральном парке Сарчи",
+    "caption": "Роспись большой карреты в Сарчи",
+    "author": "LeafLanguages",
+    "license": "CC0 1.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Costa_Rica_Sarchi_ox_drawn_cart.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
   }
 }

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "la-fortuna-thermal-wildlife-two-days",
+    "kind": "trip",
+    "region": "north",
+    "regions": [
+      "north",
+      "central"
+    ],
+    "title": "Ла-Фортуна за два дня · Bógarin, термы и Ареналь",
+    "native": "La Fortuna · Sendero Bogarín · El Silencio del Campo · Arenal Observatory · San Ramón",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "car",
+      "wildlife",
+      "hiking",
+      "thermal",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "fortuna-bogarin-faq",
+      "fortuna-silencio-owner",
+      "arenal-observatory-pass",
+      "fortuna-observatory-accessible",
+      "fortuna-family-drive-day1",
+      "fortuna-san-ramon-drive",
+      "san-ramon-culture-visit"
+    ],
+    "summary": "Один вечер у терм и два спокойных выхода в лес. Пешая петля Bógarin, терраса и короткая дорожка у Ареналя, пауза в Сан-Рамоне по пути домой.",
+    "plan": "В первый день выберите самостоятельную прогулку или натуралиста в Bógarin и заселитесь в отель. Во второй день посетите Arenal Observatory, пообедайте и езжайте в направлении Сан-Рамона.",
+    "conditions": "Дорожный расчёт между выбранными точками около 119 км за два дня. Для выезда после 15:00 оставьте запас на сумерки и одну короткую паузу, если позволяет обстановка. Для терм и дневного входа уточните доступ на дату поездки.",
+    "distance": 118.86,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Богарин и термы",
+        "note": "Утром петля примерно 2 км пешком. Затем около 4,5 км на машине до отеля по Ruta 142. Заселение и термы в свободном темпе.",
+        "stops": [
+          "bogarin-trail-la-fortuna",
+          "el-silencio-del-campo"
+        ],
+        "sources": [
+          "fortuna-bogarin-faq",
+          "fortuna-silencio-owner",
+          "fortuna-family-drive-day1"
+        ],
+        "distance": 4.47
+      },
+      {
+        "day": 2,
+        "title": "Ареналь, короткая прогулка и Сан-Рамон",
+        "note": "Начните с видовой площадки, музея или дорожки 800 м. Через Ла-Фортуну езжайте в направлении Сан-Рамона. На карту нанесён дорожный вариант около 114 км.",
+        "stops": [
+          "arenal-observatory",
+          "san-ramon-park-break"
+        ],
+        "sources": [
+          "arenal-observatory-pass",
+          "fortuna-observatory-accessible",
+          "fortuna-san-ramon-drive",
+          "san-ramon-culture-visit"
+        ],
+        "distance": 114.39
+      }
+    ]
+  }
+]

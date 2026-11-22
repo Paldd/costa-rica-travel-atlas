@@ -2016,6 +2016,15 @@
     ],
     "sections": [
       {
+        "title": "Терраса, музей и прогулка на 800 метров",
+        "text": "Для короткого визита начните с видовой террасы и музея. Внутри владения есть асфальтированная универсальная дорожка 800 м. У стойки спросите её точное начало и подходящую петлю. Для леса пригодится закрытая обувь. На странице дневного входа указана работа входных ворот с 05:30 и закрытие троп после 17:00. Время входа сверяйте на свою дату.",
+        "sources": [
+          "arenal-observatory-pass",
+          "fortuna-observatory-accessible",
+          "fortuna-observatory-field-report"
+        ]
+      },
+      {
         "title": "От смотровой до тренировки на 8 км",
         "text": "Оператор описывает 11 км троп в совокупности. Дневные пропуска включают выбор самостоятельной прогулки, подход к Danta и отдельный спортивный круг на 8 км. Возьмите карту у сотрудников, если соединяете маршруты.",
         "sources": [
@@ -2045,11 +2054,16 @@
     "nearby": [
       "arenal-coladas",
       "arenal-peninsula",
-      "arenal-eco-camp"
+      "arenal-eco-camp",
+      "el-silencio-del-campo",
+      "la-fortuna-thermal-wildlife-two-days"
     ],
     "track": "arenal-observatory-map",
     "photos": [
       "arenal-open-aerial"
+    ],
+    "videos": [
+      "fortuna-bogarin-film"
     ]
   },
   "tenorio-celeste": {
