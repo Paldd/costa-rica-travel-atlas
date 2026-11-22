@@ -2599,6 +2599,14 @@
           "incopesca-sport-fishing",
           "ict-fish"
         ]
+      },
+      {
+        "title": "Рыбалка по отчётам экипажа",
+        "text": "Помесячный журнал помогает выбрать вид рыбы и обсудить формат выхода. За октябрь 2026 экипаж отмечал удачные периоды для парусника и активность донной рыбы. Уточните у капитана, какие условия складываются в ваши даты и подходит ли день для прибрежной рыбалки или дальнего выхода.",
+        "sources": [
+          "publisher-archive-maverick-reports",
+          "maverick-herradura-oct-2026"
+        ]
       }
     ],
     "contacts": [
@@ -2615,7 +2623,10 @@
       "vista-suenos",
       "herradura-tortuga-costa-cat"
     ],
-    "track": "maverick-herradura-departure"
+    "track": "maverick-herradura-departure",
+    "galleries": [
+      "maverick-herradura-oct-2026"
+    ]
   },
   "manuel-antonio": {
     "stops": [

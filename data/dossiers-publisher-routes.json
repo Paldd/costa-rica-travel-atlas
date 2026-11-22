@@ -1,0 +1,692 @@
+{
+  "papagayo-palmares-emtb-16": {
+    "stops": [
+      {
+        "point": "papagayo-four-seasons-hotel",
+        "role": "Four Seasons · сбор для этой программы",
+        "note": "У лобби начинается трансфер в Palmares Preserve. Гости Andaz уточняют место сбора у своего отеля."
+      },
+      {
+        "point": "palmares-estero-sector",
+        "role": "Эстуарий Palmares",
+        "note": "Ориентир района. Фактическую петлю и остановки выбирает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Чей доступ и где кататься",
+        "text": "Обе программы рассчитаны на гостей полуострова. Сверьте пропуск у Explorers и попросите схему выбранной петли. На официальной карте видна сеть троп, а объявленные 16 км относятся к среднему выезду Four Seasons.",
+        "sources": [
+          "palmares-andaz-emtb",
+          "palmares-four-seasons-emtb",
+          "palmares-preserve-map"
+        ]
+      },
+      {
+        "title": "Снаряжение и сложность",
+        "text": "Four Seasons заявляет гидов на испанском и английском, электровелосипед, шлем, воду и трансфер. Возьмите закрытые кроссовки, перчатки и защиту от солнца. Уточните, пригодна ли выбранная тропа после дождя.",
+        "sources": [
+          "palmares-four-seasons-emtb"
+        ]
+      },
+      {
+        "title": "Опыт местного райдера",
+        "text": "Габриэль Чакон описывает подъёмы, жару и выбор уровня поддержки на сухих лесных тропах. Используйте его рассказ для понимания рельефа и уточняйте текущую конфигурацию у гида.",
+        "sources": [
+          "palmares-chacon-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Papagayo Explorers · запись для гостей полуострова",
+        "source": "palmares-explorers-planning",
+        "note": "Уточните условия гостевого доступа, модель e-MTB и подтверждённую точку сбора.",
+        "url": "https://peninsulapapagayo.com/explore/",
+        "email": "explore@peninsulapapagayo.com"
+      }
+    ],
+    "nearby": [
+      "nacascolo-public-beach",
+      "papagayo-pura-paddle-hermosa"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "palmares-four-seasons-emtb",
+      "palmares-chacon-field"
+    ]
+  },
+  "irazu-la-central-aquiares-emtb": {
+    "stops": [
+      {
+        "point": "irazu-craters-parking",
+        "role": "Ирасу · посещение кратеров",
+        "note": "Ориентир сектора. Точное место пересадки на велосипеды подтверждает гид."
+      },
+      {
+        "point": "hacienda-la-central-official-pin",
+        "role": "Ла-Сентраль · пауза перед спуском",
+        "note": "Ориентир посёлка. Двигайтесь по дороге, которую укажет гид."
+      },
+      {
+        "point": "aquiares-cafetal-village",
+        "role": "Акиарес · кофейный посёлок",
+        "note": "Обед и кофейная программа у La Esperanza по расписанию оператора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Порядок дня",
+        "text": "Трансфер из Сан-Хосе к кратерам, велоэтап мимо леса Боске-Кемадо и Ла-Сентраль, спуск в Акиарес и автомобильный возврат. Правила входа в сектор Cráteres публикует SINAC. Уточните у ARA, входит ли билет в программу.",
+        "sources": [
+          "ara-turrialba-emtb",
+          "ara-turrialba-emtb-es",
+          "irazu"
+        ]
+      },
+      {
+        "title": "Спуск и погода",
+        "text": "Наденьте слои и ветрозащиту. На старте проверьте тормоза, шлем, заряд и возможность сесть в машину. Автор видео катался в том же горном районе и показывает характер покрытия и подъёмов. Трассу ARA ведёт гид по согласованному варианту.",
+        "sources": [
+          "ara-turrialba-emtb",
+          "ara-volcanoes-rider-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ARA Tours · велопрограммы",
+        "source": "ara-turrialba-emtb",
+        "note": "Запросите ближайший выезд из Сан-Хосе, размер рамы, график, допуск подростков и точный трек до оплаты.",
+        "url": "https://www.aratours.com/en/excursions/bike-e-bike/2102-full-day-e-bike-tour-to-turrialba",
+        "phone": "+506 2232 0400",
+        "whatsapp": "https://wa.me/50688933863"
+      }
+    ],
+    "nearby": [],
+    "connectStops": false,
+    "galleries": [
+      "ara-turrialba-emtb"
+    ],
+    "videos": [
+      "ara-volcanoes-rider-film"
+    ]
+  },
+  "upala-laguna-serena-waterfalls": {
+    "stops": [
+      {
+        "point": "upala-laguna-serena-site",
+        "role": "Finca Laguna Serena",
+        "note": "Ориентир фермы из реестра. Парковку и допуск подтверждает организатор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что смотреть",
+        "text": "Ассоциация описывает поход в лес, каскад Охо-де-Агуа и вид на Трини. Точку входа для прогулки и доступ к воде в Трес-Эрманас уточняйте у организатора в день визита.",
+        "sources": [
+          "vive-dos-rios-directory"
+        ]
+      },
+      {
+        "title": "Подъезд и размер прогулки",
+        "text": "У муниципалитета есть координаты фермы в секторе El Gavilán. Для планирования заведите отдельную точку парковки у хозяев. Расстояние зависит от выбранных ответвлений, поэтому уточняйте его при записи.",
+        "sources": [
+          "upala-inventory-2025",
+          "vive-dos-rios-reserve"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vive Dos Ríos · ассоциация ASOCOVE",
+        "source": "vive-dos-rios-reserve",
+        "note": "Сообщите состав группы и тип машины. Попросите актуальную точку сбора, время и правила у воды.",
+        "url": "https://www.vivedosrios.com/reservaciones",
+        "whatsapp": "https://wa.me/50671858831"
+      }
+    ],
+    "nearby": [
+      "upala-mapache-thermal-hike",
+      "upala-santa-maria-volcano-lodge"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "vive-dos-rios-directory",
+      "upala-inventory-2025"
+    ]
+  },
+  "upala-mapache-thermal-hike": {
+    "stops": [
+      {
+        "point": "upala-mapache-buenos-aires",
+        "role": "Buenos Aires · водопад в окрестностях",
+        "note": "Ориентир посёлка. Возьмите точку встречи у гида."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где встречаться",
+        "text": "В каталоге указан подход из района Буэнос-Айрес. Инвентаризация упоминает ориентир у Sensoria и подтверждает частный статус. Точный подъезд, проход и место парковки покажет местный гид.",
+        "sources": [
+          "vive-dos-rios-directory",
+          "upala-inventory-2025"
+        ]
+      },
+      {
+        "title": "Условия у воды",
+        "text": "Доступ к купели зависит от текущего уровня реки и состояния скользких камней. При сильном дожде замените спуск к воде на разрешённую прогулку или обычную термальную купель.",
+        "sources": [
+          "vive-dos-rios-directory",
+          "vive-dos-rios-thermal"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vive Dos Ríos · ассоциация ASOCOVE",
+        "source": "vive-dos-rios-reserve",
+        "note": "Сообщите состав группы и тип машины. Попросите актуальную точку сбора, время и правила у воды.",
+        "url": "https://www.vivedosrios.com/reservaciones",
+        "whatsapp": "https://wa.me/50671858831"
+      }
+    ],
+    "nearby": [
+      "upala-laguna-serena-waterfalls",
+      "upala-santa-maria-volcano-lodge"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "vive-dos-rios-thermal",
+      "upala-inventory-2025"
+    ]
+  },
+  "upala-santa-maria-volcano-lodge": {
+    "stops": [
+      {
+        "point": "upala-colonia-blanca-lodge",
+        "role": "Colonia Blanca · домики и ресторан",
+        "note": "Координаты из реестра муниципалитета. Заезд по указаниям хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дороги и заезд",
+        "text": "Оператор указывает 36 км от Либерии по Ruta 918 и около 45 км от Багасеса через 164 и 737. Попросите проверенную точку поворота, если навигатор предлагает горный объезд.",
+        "sources": [
+          "santa-maria-volcano-access"
+        ]
+      },
+      {
+        "title": "Отзывы и занятия на месте",
+        "text": "В отзывах, опубликованных владельцем, чаще отмечают гостеприимство, домашнюю кухню и спокойную территорию. Одна семья описывает визит на ферму и дойку коров. Узнайте у хозяев, возможна ли такая программа в ваши даты.",
+        "sources": [
+          "santa-maria-volcano-stay"
+        ]
+      },
+      {
+        "title": "Что есть рядом",
+        "text": "От домиков идут тропы к реке и водопаду. При плохой погоде оставьте прогулку на утро и поужинайте в лодже. Домики подходят как база для поездок в соседний район Dos Ríos.",
+        "sources": [
+          "upala-inventory-2025",
+          "santa-maria-volcano-stay"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Santa María Volcano Lodge · хозяева",
+        "source": "santa-maria-volcano-access",
+        "note": "Уточните семейную кабину, питание, часы заезда и состояние подъезда со своей стороны.",
+        "url": "https://santamariavolcanolodge.com/ubicacion-y-contacto/",
+        "phone": "+506 7039 5951",
+        "email": "reservas@santamariavolcanolodge.com"
+      }
+    ],
+    "nearby": [
+      "upala-laguna-serena-waterfalls",
+      "upala-mapache-thermal-hike"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "santa-maria-volcano-stay",
+      "upala-inventory-2025"
+    ]
+  },
+  "bajos-finca-dos-rios-cascades": {
+    "stops": [
+      {
+        "point": "bajos-dos-rios-farm-pin",
+        "role": "Ориентир подъезда · карта Qué Buen Lugar",
+        "note": "Сверьте с Waze и площадкой. Точное место парковки зависит от дороги и актуального входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Каскады по шагам",
+        "text": "Местный Finca 360° описывает ход от Тобогана через Пилас и Колибри к Дос-Колорес, Ла-Каверне и Амарилье. Начните рано, оставьте время на скользкие ступеньки и обратный подъём.",
+        "sources": [
+          "finca-dos-rios-360"
+        ]
+      },
+      {
+        "title": "Два похода по разным версиям",
+        "text": "Qué Buen Lugar начинал раньше по дороге и посчитал примерно 7 км, La Fiebre de Viajar описывает около 4 км с заходом к каскадам. У обоих есть полевые фотографии. Доступ к пещере и нижней тропе проверяйте после дождя.",
+        "sources": [
+          "finca-dos-rios-qbl",
+          "finca-dos-rios-fiebre"
+        ]
+      },
+      {
+        "title": "Ночёвка и оплата",
+        "text": "В отчёте Qué Buen Lugar 2020 года была ночёвка с наземной палаткой. Текущие условия кемпинга, парковку для машины с палаткой на крыше и оплату подтвердите у площадки.",
+        "sources": [
+          "finca-dos-rios-qbl",
+          "finca-dos-rios-waze"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cataratas Finca Dos Ríos · телефон площадки",
+        "source": "finca-dos-rios-waze",
+        "note": "Подтвердите часы входа, состояние подхода и возможную ночёвку.",
+        "url": "https://waze.com/ul/hd1u461puj",
+        "phone": "+506 8415 6590"
+      }
+    ],
+    "nearby": [
+      "higueron-toro",
+      "blue-falls-toro",
+      "catarata-del-toro"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "finca-dos-rios-qbl",
+      "finca-dos-rios-fiebre"
+    ],
+    "videos": [
+      "finca-dos-rios-video-qbl",
+      "finca-dos-rios-fb-adonde"
+    ]
+  },
+  "drake-copa-de-arbol-lodge": {
+    "stops": [
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Агу́хитас · берег пересадки",
+        "note": "Район пассажирской лодки из Сьерпе. Трансфер до лоджа согласуйте заранее."
+      },
+      {
+        "point": "drake-copa-de-arbol-lodge-pin",
+        "role": "Лодж Copa de Árbol",
+        "note": "Водный трансфер к Caletas. Оператор сообщает точный вариант высадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что подтвердить до дороги",
+        "text": "Сообщите номер рейса, возраст детей и объём багажа. Попросите точку встречи и уточните, где будет мокрая высадка. Положите телефон, сухую одежду и документы в гермомешок.",
+        "sources": [
+          "copa-drake-transport"
+        ]
+      },
+      {
+        "title": "Отдых на месте",
+        "text": "На территории лоджа есть варианты прогулок и бассейн. Гид показывает фауну в лесу. Перед греблей проверьте жилеты нужного размера, маршрут возврата и подходящую погоду.",
+        "sources": [
+          "copa-drake-location",
+          "copa-drake-family-rules"
+        ]
+      },
+      {
+        "title": "Как выглядит поездка",
+        "text": "Видео Mytanfeet показывает берег, лодж и прогулки. Фотографии владельца помогают выбрать домик и понять, как далеко он расположен от воды.",
+        "sources": [
+          "copa-drake-mytanfeet-film",
+          "copa-drake-gallery"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Copa de Árbol · лодж и туры",
+        "source": "copa-drake-wildlife-route",
+        "note": "Согласуйте трансфер, возраст участников, наличие гида и условия отмены.",
+        "url": "https://www.copadearbol.com/contact/",
+        "phone": "+506 8935 1212",
+        "email": "info@copadearbol.com",
+        "whatsapp": "https://wa.me/50689351212"
+      }
+    ],
+    "nearby": [
+      "drake-copa-wildlife-walk",
+      "drake-naguala-waterfalls",
+      "drake-copa-rio-claro-horseback",
+      "drake-copa-rio-claro-canoe",
+      "sierpe-boat"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "copa-drake-gallery"
+    ],
+    "videos": [
+      "copa-drake-mytanfeet-film"
+    ]
+  },
+  "drake-copa-wildlife-walk": {
+    "stops": [
+      {
+        "point": "drake-copa-de-arbol-lodge-pin",
+        "role": "Лодж Copa de Árbol",
+        "note": "Водный трансфер к Caletas. Оператор сообщает точный вариант высадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Темп и вещи",
+        "text": "Заявлены местный гид, бинокль и резиновые сапоги. Возьмите воду, репеллент, лёгкую закрытую одежду и защиту камеры от дождя.",
+        "sources": [
+          "copa-drake-wildlife-route"
+        ]
+      },
+      {
+        "title": "Что выбрать с ребёнком",
+        "text": "Начало и финиш у лоджа. Короткий формат подходит семье, которая хочет одну активность на день прилёта или после возвращения с лодки. Гость должен уверенно ходить по лесному грунту.",
+        "sources": [
+          "copa-drake-wildlife-route",
+          "copa-drake-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Copa de Árbol · лодж и туры",
+        "source": "copa-drake-wildlife-route",
+        "note": "Согласуйте трансфер, возраст участников, наличие гида и условия отмены.",
+        "url": "https://www.copadearbol.com/contact/",
+        "phone": "+506 8935 1212",
+        "email": "info@copadearbol.com",
+        "whatsapp": "https://wa.me/50689351212"
+      }
+    ],
+    "nearby": [
+      "drake-copa-de-arbol-lodge",
+      "drake-naguala-waterfalls"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "copa-drake-wildlife-route"
+    ]
+  },
+  "drake-naguala-waterfalls": {
+    "stops": [
+      {
+        "point": "drake-copa-de-arbol-lodge-pin",
+        "role": "Лодж Copa de Árbol",
+        "note": "Водный трансфер к Caletas. Оператор сообщает точный вариант высадки."
+      },
+      {
+        "point": "drake-los-planes-area-pin",
+        "role": "Лос-Планес · район фермы",
+        "note": "Ориентир посёлка. Подъезд к самому входу идёт по указаниям гида."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как проходит визит",
+        "text": "Обычно выезжают около 08:00 и возвращаются около 13:30. В программе такси, пеший выход к водопадам и обед на финке. Уточните время и размер группы до покупки.",
+        "sources": [
+          "copa-drake-naguala-route"
+        ]
+      },
+      {
+        "title": "Что взять к воде",
+        "text": "Возьмите закрытую обувь для мокрых камней, полотенце, запасную одежду и гермочехол. Водные участки оценивайте вместе с гидом, который видит течение и подход.",
+        "sources": [
+          "copa-drake-naguala-route"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Copa de Árbol · лодж и туры",
+        "source": "copa-drake-wildlife-route",
+        "note": "Согласуйте трансфер, возраст участников, наличие гида и условия отмены.",
+        "url": "https://www.copadearbol.com/contact/",
+        "phone": "+506 8935 1212",
+        "email": "info@copadearbol.com",
+        "whatsapp": "https://wa.me/50689351212"
+      }
+    ],
+    "nearby": [
+      "drake-copa-de-arbol-lodge",
+      "drake-copa-wildlife-walk",
+      "drake-copa-rio-claro-horseback"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "copa-drake-naguala-route"
+    ],
+    "videos": [
+      "copa-drake-naguala-video"
+    ]
+  },
+  "drake-copa-rio-claro-horseback": {
+    "stops": [
+      {
+        "point": "drake-copa-de-arbol-lodge-pin",
+        "role": "Лодж Copa de Árbol",
+        "note": "Водный трансфер к Caletas. Оператор сообщает точный вариант высадки."
+      },
+      {
+        "point": "drake-rio-claro-north",
+        "role": "Рио-Кларо · устье",
+        "note": "Ориентир у северного берега. Порядок подхода выбирает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Покрытие и темп",
+        "text": "Пляжные отрезки чередуются с лесными проходами. Согласуйте прогулочный шаг и попросите подобрать лошадь под навыки каждого всадника. Возьмите длинные лёгкие брюки и закрытую обувь.",
+        "sources": [
+          "copa-drake-horse-rio-claro"
+        ]
+      },
+      {
+        "title": "Как совместить с другими днями",
+        "text": "Оставьте прогулку отдельным утром. После возвращения можно провести время на территории лоджа. Сочетание с другой поездкой согласуйте по расписанию лодок и приливу.",
+        "sources": [
+          "copa-drake-horse-rio-claro",
+          "copa-drake-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Copa de Árbol · лодж и туры",
+        "source": "copa-drake-wildlife-route",
+        "note": "Согласуйте трансфер, возраст участников, наличие гида и условия отмены.",
+        "url": "https://www.copadearbol.com/contact/",
+        "phone": "+506 8935 1212",
+        "email": "info@copadearbol.com",
+        "whatsapp": "https://wa.me/50689351212"
+      }
+    ],
+    "nearby": [
+      "drake-copa-de-arbol-lodge",
+      "drake-naguala-waterfalls"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "copa-drake-horse-rio-claro"
+    ]
+  },
+  "upala-dos-rios-backroads-2": {
+    "stops": [
+      {
+        "point": "upala-laguna-serena-site",
+        "role": "Finca Laguna Serena",
+        "note": "Ориентир фермы из реестра. Парковку и допуск подтверждает организатор."
+      },
+      {
+        "point": "upala-colonia-blanca-lodge",
+        "role": "Colonia Blanca · домики и ресторан",
+        "note": "Координаты из реестра муниципалитета. Заезд по указаниям хозяев."
+      },
+      {
+        "point": "upala-mapache-buenos-aires",
+        "role": "Buenos Aires · водопад в окрестностях",
+        "note": "Ориентир посёлка. Возьмите точку встречи у гида."
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Vive Dos Ríos · ассоциация ASOCOVE",
+        "source": "vive-dos-rios-reserve",
+        "note": "Сообщите состав группы и тип машины. Попросите актуальную точку сбора, время и правила у воды.",
+        "url": "https://www.vivedosrios.com/reservaciones",
+        "whatsapp": "https://wa.me/50671858831"
+      },
+      {
+        "name": "Santa María Volcano Lodge · хозяева",
+        "source": "santa-maria-volcano-access",
+        "note": "Уточните семейную кабину, питание, часы заезда и состояние подъезда со своей стороны.",
+        "url": "https://santamariavolcanolodge.com/ubicacion-y-contacto/",
+        "phone": "+506 7039 5951",
+        "email": "reservas@santamariavolcanolodge.com"
+      }
+    ],
+    "nearby": [
+      "upala-laguna-serena-waterfalls",
+      "upala-mapache-thermal-hike",
+      "upala-santa-maria-volcano-lodge"
+    ],
+    "galleries": [
+      "vive-dos-rios-directory",
+      "santa-maria-volcano-stay"
+    ],
+    "sections": [
+      {
+        "title": "Условия проезда",
+        "text": "Маршрут связывает частные площадки по отдельным подъездам. Перед выездом получите подтверждение по каждому участку и отправьте группе точки встречи.",
+        "sources": [
+          "santa-maria-volcano-access",
+          "vive-dos-rios-reserve"
+        ]
+      }
+    ]
+  },
+  "drake-caletas-copa-3-nocar": {
+    "stops": [
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Агу́хитас · возможная пересадка",
+        "note": "Этап зависит от того, как организован трансфер."
+      },
+      {
+        "point": "drake-copa-de-arbol-lodge-pin",
+        "role": "Лодж Copa de Árbol",
+        "note": "Водный трансфер к Caletas. Оператор сообщает точный вариант высадки."
+      },
+      {
+        "point": "drake-los-planes-area-pin",
+        "role": "Лос-Планес · район второго дня",
+        "note": "Точку частной финки уточняет оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Состав поездки",
+        "text": "Это план из отдельных программ одного лоджа. Перед оплатой подтвердите совместимость заезда, лодок, возраста, прогулки и времени выезда.",
+        "sources": [
+          "copa-drake-transport",
+          "copa-drake-wildlife-route",
+          "copa-drake-naguala-route"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Copa de Árbol · лодж и туры",
+        "source": "copa-drake-wildlife-route",
+        "note": "Согласуйте трансфер, возраст участников, наличие гида и условия отмены.",
+        "url": "https://www.copadearbol.com/contact/",
+        "phone": "+506 8935 1212",
+        "email": "info@copadearbol.com",
+        "whatsapp": "https://wa.me/50689351212"
+      }
+    ],
+    "nearby": [
+      "drake-copa-de-arbol-lodge",
+      "drake-copa-wildlife-walk",
+      "drake-naguala-waterfalls",
+      "drake-copa-rio-claro-canoe"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "copa-drake-gallery",
+      "copa-drake-naguala-route"
+    ],
+    "videos": [
+      "copa-drake-mytanfeet-film"
+    ]
+  },
+  "drake-copa-rio-claro-canoe": {
+    "stops": [
+      {
+        "point": "drake-copa-de-arbol-lodge-pin",
+        "role": "Калетас · старт с берега и возвращение пешком",
+        "note": "Оператор назначает время морской посадки в день программы."
+      },
+      {
+        "point": "drake-san-josecito-beach",
+        "role": "Плайя-Сан-Хосесито · высадка",
+        "note": "От берега в сторону устья ведёт гид. Около 20 минут пешком."
+      },
+      {
+        "point": "drake-rio-claro-north",
+        "role": "Рио-Кларо · ориентир устья",
+        "note": "Фактическую посадку в каноэ и доступ в верховья выбирает местный гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроен выход",
+        "text": "Сначала катер на пляж. После пешего подхода к устью группа идёт на каноэ вверх по реке к небольшим водопадам. Обычный возврат к лоджу проходит по береговой тропе.",
+        "sources": [
+          "copa-drake-rio-claro-canoe",
+          "copa-drake-location"
+        ]
+      },
+      {
+        "title": "Возраст и вода",
+        "text": "Оператор выдаёт жилеты, предусмотрен вариант спуска по воде с гидом. Уточните размеры жилетов и текущий уровень реки. С детьми можно обсудить вариант прогулки и каноэ без погружения.",
+        "sources": [
+          "copa-drake-rio-claro-canoe"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Copa de Árbol · лодж и туры",
+        "source": "copa-drake-wildlife-route",
+        "note": "Согласуйте трансфер, возраст участников, наличие гида и условия отмены.",
+        "url": "https://www.copadearbol.com/contact/",
+        "phone": "+506 8935 1212",
+        "email": "info@copadearbol.com",
+        "whatsapp": "https://wa.me/50689351212"
+      }
+    ],
+    "nearby": [
+      "drake-copa-de-arbol-lodge",
+      "drake-copa-rio-claro-horseback",
+      "drake-naguala-waterfalls"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "copa-drake-rio-claro-canoe"
+    ]
+  }
+}

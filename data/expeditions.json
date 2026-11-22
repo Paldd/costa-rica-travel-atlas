@@ -9066,5 +9066,161 @@
         ]
       }
     ]
+  },
+  {
+    "id": "upala-dos-rios-backroads-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Упала · два дня через Лагуна-Серену и лесные термалы Мапаче",
+    "native": "Dos Ríos de Upala · Finca Laguna Serena · Termales Mapache · Colonia Blanca",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "hiking",
+      "waterfall",
+      "forest",
+      "thermal",
+      "river",
+      "car",
+      "relax"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "vive-dos-rios-directory",
+      "upala-inventory-2025",
+      "vive-dos-rios-reserve",
+      "santa-maria-volcano-access",
+      "vive-dos-rios-thermal"
+    ],
+    "summary": "Две прогулки по сельской стороне Ринкон-де-ла-Вьеха. В первый день водопады и ночёвка в домике, во второй термальные купели и водопад Мапаче с местным проводником.",
+    "plan": "Забронируйте домик и согласуйте оба визита через ASOCOVE. Попросите точки парковки и график. Со стороны Либерии дому нужен высокий клиренс или 4×4.",
+    "conditions": "Трек к водопаду и доступ к воде проверяйте после дождя. Для младших детей или группы с небольшим опытом выберите только Лагуна-Серену и тропу при лодже.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "El Gavilán → Лагуна-Серена → Colonia Blanca",
+        "note": "Договоритесь с проводником об утренней прогулке до Охо-де-Агуа и обзорной точки к Трини. Заселитесь при дневном свете и оставьте время на ужин в домике.",
+        "stops": [
+          "upala-laguna-serena-waterfalls",
+          "upala-santa-maria-volcano-lodge"
+        ],
+        "sources": [
+          "vive-dos-rios-directory",
+          "santa-maria-volcano-access"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Буэнос-Айрес → Las Bromelias и Мапаче · около 4 км пешком",
+        "note": "Утром подтвердите доступность сухопутного подхода. Сверьте парковку и речной уровень с гидом. После прогулки возвращайтесь по согласованной дороге.",
+        "stops": [
+          "upala-mapache-thermal-hike",
+          "upala-santa-maria-volcano-lodge"
+        ],
+        "sources": [
+          "upala-inventory-2025",
+          "vive-dos-rios-thermal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drake-caletas-copa-3-nocar",
+    "kind": "trip",
+    "region": "south",
+    "title": "Калетас у Баия-Дрейк · три дня без машины с ребёнком",
+    "native": "Copa de Árbol · Bahía Drake · Caletas · Naguala Falls",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "boat",
+      "hiking",
+      "wildlife",
+      "waterfall",
+      "forest",
+      "beach"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults"
+    ],
+    "access": [
+      "boat",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "copa-drake-transport",
+      "copa-drake-family-rules",
+      "copa-drake-wildlife-route",
+      "copa-drake-naguala-route"
+    ],
+    "summary": "Две ночи в Калетас и связанный трансфер на лодке. Короткая прогулка с натуралистом и отдельный день для семейной финки Нагуала.",
+    "plan": "Сначала согласуйте перевозку до лоджа и обратный рейс. Добавьте выбранные прогулки к брони. Для четырёхлетнего ребёнка оставьте натуралистический выход и отдых у лоджа.",
+    "conditions": "Возраст в лодже и на тропе с натуралистом от 4 лет, на Нагуале от 5 лет. Посадка и высадка зависят от волны и условий у берега.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Агу́хитас → Калетас · приезд и лес у лоджа",
+        "note": "Получите время и место лодочной пересадки. При раннем прибытии возможна короткая прогулка с натуралистом. Если лодка запоздала, перенесите прогулку.",
+        "stops": [
+          "sierpe-boat",
+          "drake-copa-de-arbol-lodge",
+          "drake-copa-wildlife-walk"
+        ],
+        "sources": [
+          "copa-drake-transport",
+          "copa-drake-wildlife-route"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лос-Планес · каскады Нагуала и домашний обед",
+        "note": "Выход от лоджа с трансфером на финку. Для ребёнка 4 лет вместо Нагуалы выберите семейную тропу у лоджа. Можно также уточнить выход на каноэ по Рио-Кларо, а от 6 лет доступен вариант верхом.",
+        "stops": [
+          "drake-naguala-waterfalls",
+          "drake-copa-wildlife-walk",
+          "drake-copa-rio-claro-horseback",
+          "drake-copa-rio-claro-canoe"
+        ],
+        "sources": [
+          "copa-drake-naguala-route",
+          "copa-drake-wildlife-route",
+          "copa-drake-horse-rio-claro",
+          "copa-drake-rio-claro-canoe"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Утро в Калетас → обратный лодочный трансфер",
+        "note": "Подтвердите время накануне. Оставьте запас между высадкой и рейсом или наземным переездом. Подготовьте обувь для посадки и гермомешок.",
+        "stops": [
+          "drake-copa-de-arbol-lodge",
+          "sierpe-boat"
+        ],
+        "sources": [
+          "copa-drake-transport"
+        ]
+      }
+    ]
   }
 ]
