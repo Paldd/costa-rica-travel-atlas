@@ -121,6 +121,10 @@ def inspect(feed, known, publisher_archives=()):
         parser.feed(body.decode("utf-8", errors="replace"))
         matches = {}
         links = [(href, title, "") for href, title in parser.results]
+        exact_paths = feed.get("exactPaths", ())
+        links.extend((path, "", "") for path in exact_paths)
+        exact_matches = {path.lower().rstrip("/") for path in exact_paths}
+        prefixes = tuple(prefix.lower() for prefix in feed.get("paths", ()))
         if feed.get("sitemap"):
             extra, result["sitemap"] = sitemap_links(opener, feed["sitemap"], fetched, rules)
             links = links + extra
@@ -131,8 +135,8 @@ def inspect(feed, known, publisher_archives=()):
                 continue
             path = location.path.lower()
             matches_prefix = any(path.startswith(prefix) and path.rstrip("/") != prefix.rstrip("/")
-                                 for prefix in feed.get("paths", ()))
-            if not matches_prefix and path.rstrip("/") not in feed.get("exactPaths", ()):
+                                 for prefix in prefixes)
+            if not matches_prefix and path.rstrip("/") not in exact_matches:
                 continue
             candidate = canonical(url)
             if candidate == canonical(fetched):

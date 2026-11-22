@@ -1,0 +1,684 @@
+{
+  "pura-vista-tajo-rooftent": {
+    "stops": [
+      {
+        "point": "pura-vista-tajo-camp-map",
+        "role": "Горный лагерь · ориентир зоны размещения",
+        "note": "Координаты отражают точку OSM. Перед подъёмом уточняйте у хозяина фактические ворота и стоянку."
+      },
+      {
+        "point": "miramar-town",
+        "role": "Мирамар · продукты и сбор перед подъёмом",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Крышная палатка и костёр",
+        "text": "Справочник об автопутешествиях подтверждает крышные палатки и прицепы. Площадка открыта ветру. Попросите ровное место с запасом под лестницу и боковой вылет. Пользуйтесь кострищем после согласования с хозяином.",
+        "sources": [
+          "pura-vista-campsites",
+          "pura-vista-visitor-report"
+        ]
+      },
+      {
+        "title": "Удобства и подготовка",
+        "text": "В открытых источниках заявлены душ, туалет, электричество и небольшой бассейн. С собой пригодятся противоветровые растяжки, налобник, вода, лёгкий тент от дождя и обувь с протектором. Уточните, можно ли купить дрова на месте и в какие часы работает зона купания.",
+        "sources": [
+          "pura-vista-campsites",
+          "pura-vista-visitor-report"
+        ]
+      },
+      {
+        "title": "Местные поездки",
+        "text": "Qué Buen Lugar рассказывает о видах с утреннего гребня и крутом грунте на одном из подходов. Речной отчёт описывает опасный водоворот у La Mina. Для семейной остановки используйте смотровую с подтверждённым доступом и не включайте воду в план после дождя.",
+        "sources": [
+          "miramar-mina-qbl",
+          "pura-vista-map-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Pura Vista",
+        "source": "pura-vista-campsites",
+        "note": "Согласуйте ширину площадки, время въезда, тип машины и работу кострища.",
+        "url": "https://wa.me/50685775060",
+        "phone": "+506 8577 5060"
+      }
+    ],
+    "nearby": [
+      "miramar-punta-morales-roof-2",
+      "quetzal-miramar-san-ramon-4x4",
+      "piedra-angel"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "pura-vista-campsites",
+      "miramar-mina-qbl"
+    ],
+    "videos": [
+      "miramar-mina-qbl-video"
+    ]
+  },
+  "punta-morales-blanca-kayak": {
+    "stops": [
+      {
+        "point": "puntamorales-blanca-parking",
+        "role": "Общественная парковка и подход от остановки 624",
+        "note": ""
+      },
+      {
+        "point": "puntamorales-blanca-shore",
+        "role": "Плайя-Бланка · берег для встречи",
+        "note": "Организатор назовёт точное место выдачи каяка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать выход",
+        "text": "Закажите короткий выход вдоль пляжа с сопровождением, если семья впервые берёт каяк. Альтернатива в ветреный день — прогулка по берегу и экскурсия на креветочную ферму. Спросите у команды о времени возвращения до смены воды.",
+        "sources": [
+          "morales-community-adi",
+          "imn-tides-table",
+          "mio-cimar-sea"
+        ]
+      },
+      {
+        "title": "Транспорт и доступность",
+        "text": "Из Пунтаренаса автобус 624 останавливается у входа на Playa Blanca. Уточните обратный рейс для своего дня. Ассоциация описывает настил для колясок. Состояние подхода до самой воды зависит от прилива и обслуживания.",
+        "sources": [
+          "morales-bus-624",
+          "morales-community-adi",
+          "morales-yo-amo-access"
+        ]
+      },
+      {
+        "title": "Снаряжение и наблюдения",
+        "text": "Возьмите детские и взрослые жилеты подходящего размера, воду, защиту от солнца и гермомешок. Уточните, что входит в прокат. Местные авторы показывают небольшую береговую полосу и места, где удобнее остановиться для пикника.",
+        "sources": [
+          "morales-community-adi",
+          "morales-sin-filtros",
+          "morales-beach-local-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Niño de Mar · Steven Garro",
+        "source": "morales-community-adi",
+        "note": "Запросите место старта, прилив, детские жилеты и цену выбранной программы.",
+        "url": "https://wa.me/50686890032",
+        "phone": "+506 8689 0032",
+        "email": "stevengolgotar@gmail.com"
+      }
+    ],
+    "nearby": [
+      "punta-morales-elnino-fishing",
+      "punta-morales-shrimp-salinera",
+      "miramar-punta-morales-roof-2"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "morales-community-adi",
+      "morales-sin-filtros"
+    ],
+    "videos": [
+      "morales-kayak-captain-video",
+      "morales-beach-local-video"
+    ]
+  },
+  "punta-morales-elnino-fishing": {
+    "stops": [
+      {
+        "point": "puntamorales-blanca-parking",
+        "role": "Плайя-Бланка · оставить автомобиль",
+        "note": ""
+      },
+      {
+        "point": "puntamorales-blanca-shore",
+        "role": "Район старта лодки · Пунта-Моралес",
+        "note": "Согласуйте место посадки и время с капитаном."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лодка для семьи и отдельная рыбалка",
+        "text": "Ассоциация перечисляет прогулки к Венадо и Сан-Лукасу, а также рыбалку по запросу. Уточните длительность рейса, доступ к туалету и тени и возможность короткой береговой прогулки с детьми. При запросе такси к острову согласуйте и обратную посадку.",
+        "sources": [
+          "morales-community-adi",
+          "ict-puntarenas-mangrove-atlas"
+        ]
+      },
+      {
+        "title": "Разрешения и оборудование",
+        "text": "Для туристической рыбалки проверьте права судна и карне участников по официальной форме. Уточните разрешённый участок, сезон, снасти, наживку и правила по улову. Для лодки пригодятся противоскользящая обувь, жилет, защита от солнца и вода.",
+        "sources": [
+          "incopesca-tourist-boat-licence",
+          "incopesca-angling-card",
+          "mio-cimar-sea"
+        ]
+      },
+      {
+        "title": "Что показывают видео",
+        "text": "Капитан публикует съёмки реальных рейсов. Маршрут на карте показывает место сбора возле Плайя-Бланка. Выход к острову и рейс по манграм выбираются отдельно под условия.",
+        "sources": [
+          "morales-fish-captain-video",
+          "morales-yo-amo-access"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Niño de Mar · Steven Garro",
+        "source": "morales-community-adi",
+        "note": "Запросите место старта, прилив, детские жилеты и цену выбранной программы.",
+        "url": "https://wa.me/50686890032",
+        "phone": "+506 8689 0032",
+        "email": "stevengolgotar@gmail.com"
+      },
+      {
+        "name": "INCOPESCA · виды рыболовного карне",
+        "source": "incopesca-angling-card",
+        "note": "Проверьте тип разрешения для берега, каяка или лодки и действующие правила для участка.",
+        "url": "https://www.incopesca.go.cr/carnets/tramites/Solicitud.aspx",
+        "phone": "+506 2630 0600"
+      }
+    ],
+    "nearby": [
+      "punta-morales-blanca-kayak",
+      "punta-morales-shrimp-salinera",
+      "isla-san-lucas-local-boat",
+      "miramar-punta-morales-roof-2"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "morales-community-adi"
+    ],
+    "videos": [
+      "morales-fish-captain-video",
+      "morales-kayak-captain-video"
+    ]
+  },
+  "punta-morales-lagartos-ride": {
+    "stops": [
+      {
+        "point": "lagartos-escuela-approach",
+        "role": "Escuela Lagartos · ориентир рядом с конной базой",
+        "note": "Ассоциация описывает базу в 200 м к югу от школы. Запросите пин самого входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пешком или верхом",
+        "text": "Команда заявляет несколько маршрутов верхом, пешую экскурсию к El Salto и варианты со смотровыми на рассвете или закате. Попросите программу по времени и набору высоты. Для маленьких детей проверьте облегчённый выбор и возраст заранее.",
+        "sources": [
+          "morales-community-adi",
+          "morales-lagartos-school-osm"
+        ]
+      },
+      {
+        "title": "Перед выездом",
+        "text": "Для конного маршрута нужны закрытая обувь, длинные брюки и шлем подходящего размера. Дождь меняет уровень Río Lagartos. Уточняйте сухую альтернативу смотровой и порядок возвращения.",
+        "sources": [
+          "morales-community-adi",
+          "miramar-mina-qbl"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Punta Morales Tours a Caballo",
+        "source": "morales-community-adi",
+        "note": "Уточните встречу у Escuela Lagartos, пеший вариант, длину маршрута и возможность пройти без захода в реку.",
+        "url": "https://wa.me/50686413069",
+        "phone": "+506 8641 3069"
+      }
+    ],
+    "nearby": [
+      "punta-morales-shrimp-salinera",
+      "punta-morales-blanca-kayak",
+      "miramar-punta-morales-roof-2"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "morales-community-adi"
+    ]
+  },
+  "punta-morales-shrimp-salinera": {
+    "stops": [
+      {
+        "point": "puntamorales-blanca-parking",
+        "role": "Сектор Плайя-Бланка · район фермы",
+        "note": "Резервируйте у Тенорио и попросите направить к въезду. Общая карта ведёт к берегу."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что покажут",
+        "text": "Ассоциация описывает цикл от подготовки прудов до сбора креветок. Сухой сезон позволяет дополнить экскурсию ремесленной добычей соли, когда хозяйство проводит такие визиты.",
+        "sources": [
+          "morales-community-adi",
+          "ict-puntarenas-mangrove-atlas"
+        ]
+      },
+      {
+        "title": "Для семьи",
+        "text": "Короткая экскурсия по записи подойдёт дополнением к пляжу. Спросите о тени, языке экскурсии, длительности, детской коляске и ограждении у воды. Возьмите питьевую воду и головные уборы.",
+        "sources": [
+          "morales-community-adi",
+          "morales-yo-amo-access"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ферма Тенорио · тур по креветочным прудам",
+        "source": "morales-community-adi",
+        "note": "Попросите точный пин, продолжительность и подтверждение работы солеварни.",
+        "url": "https://wa.me/50672883188",
+        "phone": "+506 7288 3188"
+      }
+    ],
+    "nearby": [
+      "punta-morales-blanca-kayak",
+      "punta-morales-lagartos-ride",
+      "miramar-punta-morales-roof-2"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "morales-community-adi"
+    ]
+  },
+  "chacarita-estero-own-kayak": {
+    "stops": [
+      {
+        "point": "puntarenas-chacarita-neighborhood",
+        "role": "Чакарита · ориентир района встречи",
+        "note": "Пин района не обозначает спуск. Парковку и посадку подтверждает Viviendo la Pesca."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Своя лодка в опубликованной программе",
+        "text": "Организатор описывает выход примерно в 5 утра и возвращение после 16:30. В архивной группе отводилось до трёх мест в лодке и до трёх в каяках. Набор на новую дату и типы принимаемых лодок нужно подтвердить.",
+        "sources": [
+          "viviendo-pesca-puntarenas-archives",
+          "viviendo-pesca-home"
+        ]
+      },
+      {
+        "title": "Оборудование и буксировка",
+        "text": "В опубликованной программе пустой каяк буксируют лодкой, а участник берёт свою линию буксировки и снасти. Проверьте размер каяка и крепёж у организатора, подготовьте жилет, налобник, гермомешок, защиту от солнца, воду и еду на весь день.",
+        "sources": [
+          "viviendo-pesca-puntarenas-archives",
+          "incopesca-angling-card"
+        ]
+      },
+      {
+        "title": "Прилив и разрешения",
+        "text": "Гид выбирает участки эстуария по условиям воды. Категория карне зависит от рыбалки с каяка или с моторной лодки. Уточните разрешённые зоны, место парковки и план возвращения при ухудшении погоды.",
+        "sources": [
+          "sinac-estero-puntarenas-management",
+          "incopesca-angling-card",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Viviendo la Pesca",
+        "source": "viviendo-pesca-home",
+        "note": "Уточните наличие нового набора, старт из Чакариты и требования к вашему каяку.",
+        "url": "https://viviendolapesca.com/",
+        "email": "hola@viviendolapesca.com"
+      },
+      {
+        "name": "INCOPESCA · виды рыболовного карне",
+        "source": "incopesca-angling-card",
+        "note": "Проверьте тип разрешения для берега, каяка или лодки и действующие правила для участка.",
+        "url": "https://www.incopesca.go.cr/carnets/tramites/Solicitud.aspx",
+        "phone": "+506 2630 0600"
+      }
+    ],
+    "nearby": [
+      "punta-morales-elnino-fishing",
+      "punta-morales-blanca-kayak",
+      "isla-san-lucas-local-boat"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "viviendo-pesca-home",
+      "viviendo-pesca-puntarenas-archives"
+    ]
+  },
+  "iguanita-sinac-tent": {
+    "stops": [
+      {
+        "point": "iguanita-sinac-public-approach",
+        "role": "Calle Iguanita · район въезда и поста",
+        "note": "Проверьте по Waze и инструкции SINAC. Конкретное место палатки назначают в заказнике."
+      },
+      {
+        "point": "iguanita-beach-mid",
+        "role": "Пляж Игуанита · прогулка по берегу",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка у воды",
+        "text": "SINAC размещает список режимов дневного входа и кемпинга. Уточните по телефону свободное место, текущий порядок приобретения билета, оплату картой и время закрытия ворот. Маршрут рассчитан на наземную палатку.",
+        "sources": [
+          "iguanita-sinac-refuge",
+          "iguanita-management-2024"
+        ]
+      },
+      {
+        "title": "Дорога по сезонам",
+        "text": "Официальный путеводитель рекомендует 4×4. В более свежей поездке авторы Mytanfeet отмечают асфальт на наиболее крутом участке и допускают легковую в сухой сезон. Vamos подтверждает различие по погоде и рекомендует спуск при свете. Уточните у рейнджеров текущий грунт и парковку.",
+        "sources": [
+          "iguanita-ict-north-guide",
+          "iguanita-mytanfeet-road",
+          "iguanita-vamos-summer"
+        ]
+      },
+      {
+        "title": "Лагерь с детьми",
+        "text": "Возьмите запас питьевой воды и еды, налобники, репеллент и сухую одежду. Уточните, где разрешены приготовление еды и установка палатки. Выход в воду и мангры согласуйте с проводником или рейнджером. Фото и видео показывают условия отдельных поездок разных лет.",
+        "sources": [
+          "iguanita-sinac-refuge",
+          "iguanita-qbl-kayak-2021",
+          "iguanita-camp-video",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · администрация Игуаниты",
+        "source": "iguanita-sinac-refuge",
+        "note": "Уточните места под наземную палатку, оплату картой, часы въезда и последние километры после дождя.",
+        "url": "https://demo.sinac.go.cr/ES/ASP/Ficha/rnvs-iguanita",
+        "phone": "+506 8330 4863",
+        "email": "jorge.castillo@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "papagayo-pura-paddle-hermosa",
+      "iguanita-culebra-kayak-camp-2",
+      "panama-culebra-beach"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "iguanita-qbl-kayak-2021",
+      "iguanita-vamos-summer",
+      "iguanita-mytanfeet-road"
+    ],
+    "videos": [
+      "iguanita-camp-video",
+      "iguanita-qbl-video"
+    ],
+    "photos": [
+      "culebra-panorama-commons"
+    ]
+  },
+  "papagayo-pura-paddle-hermosa": {
+    "stops": [
+      {
+        "point": "hermosa-guanacaste-beach-approach",
+        "role": "Плайя-Эрмоса · один из районов работы Pura Paddle",
+        "note": ""
+      },
+      {
+        "point": "panama-culebra-beach-access",
+        "role": "Плайя-Панама · альтернативный берег",
+        "note": "Гид сообщит фактическую точку выдачи оборудования или старта."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прокат и проводник",
+        "text": "Оператор публикует отдельные программы проката и сопровождаемого выхода. В прокате заявлены жилет, весло и гермомешок. Попросите маршрут по силам группы и жилеты нужного размера. Для самостоятельного проката попросите местную карту и точку выхода.",
+        "sources": [
+          "purapaddle-papagayo-operator",
+          "red-cross"
+        ]
+      },
+      {
+        "title": "Море и ветер",
+        "text": "Район встречи и направление гребли зависят от погоды. При порывистом ветре смените выход на короткое занятие у берега или перенесите на более спокойное окно. Отдельно подтвердите правила заказника, если оператор предложит Игуаниту.",
+        "sources": [
+          "purapaddle-papagayo-operator",
+          "mio-cimar-sea",
+          "iguanita-sinac-refuge"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pura Paddle · Гуанакасте",
+        "source": "purapaddle-papagayo-operator",
+        "note": "Попросите варианты для детей, точку выхода, фактическое время и полный состав проката.",
+        "url": "https://wa.me/message/WSMSHVZLMF74M1",
+        "email": "hello@purapaddle.com"
+      }
+    ],
+    "nearby": [
+      "iguanita-sinac-tent",
+      "iguanita-culebra-kayak-camp-2",
+      "papagayo-family-water-3",
+      "panama-culebra-beach"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "purapaddle-papagayo-operator",
+      "iguanita-qbl-kayak-2021"
+    ],
+    "photos": [
+      "culebra-panorama-commons"
+    ]
+  },
+  "miramar-punta-morales-roof-2": {
+    "stops": [
+      {
+        "point": "pura-vista-tajo-camp-map",
+        "role": "День 1 · Pura Vista, ночёвка над заливом",
+        "note": ""
+      },
+      {
+        "point": "miramar-town",
+        "role": "Мирамар · покупки перед лагерем и спуск на 144",
+        "note": ""
+      },
+      {
+        "point": "lagartos-escuela-approach",
+        "role": "День 2 · ориентир конного и пешего маршрута",
+        "note": ""
+      },
+      {
+        "point": "puntamorales-blanca-parking",
+        "role": "Остановка автобуса и парковка у Playa Blanca",
+        "note": ""
+      },
+      {
+        "point": "puntamorales-blanca-shore",
+        "role": "Прогулка, каяк или лодка по заливу",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что на карте",
+        "text": "Примерно 47 км по дорогам от кемпинга через Мирамар и Escuela Lagartos к Плайя-Бланка. Расстояние относится к дорожному перегону в одну сторону. Подъезд из дома, сам конный маршрут и рейсы по заливу планируются отдельно.",
+        "sources": [
+          "miramar-puntarenas-roads-osm",
+          "morales-parking-waze"
+        ]
+      },
+      {
+        "title": "Семейный и рыболовный варианты",
+        "text": "С детьми сделайте короткий каяк или визит на ферму Тенорио. Рыболовам стоит договориться с капитаном заранее и проверить вид карне. Для большой машины сначала получите фото и размер стоянки.",
+        "sources": [
+          "pura-vista-campsites",
+          "morales-community-adi",
+          "incopesca-angling-card"
+        ]
+      },
+      {
+        "title": "В запасе",
+        "text": "Ветер или высокий прилив — повод оставить Плайя-Бланку береговой остановкой. При закрытом подъезде к лагерю уточните возможность ночёвки в домике или в глэмпинге Piedra Ángel, если он подойдёт по дороге.",
+        "sources": [
+          "morales-yo-amo-access",
+          "pura-vista-visitor-report",
+          "mio-cimar-sea"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Pura Vista",
+        "source": "pura-vista-campsites",
+        "note": "Согласуйте ширину площадки, время въезда, тип машины и работу кострища.",
+        "url": "https://wa.me/50685775060",
+        "phone": "+506 8577 5060"
+      },
+      {
+        "name": "El Niño de Mar · Steven Garro",
+        "source": "morales-community-adi",
+        "note": "Запросите место старта, прилив, детские жилеты и цену выбранной программы.",
+        "url": "https://wa.me/50686890032",
+        "phone": "+506 8689 0032",
+        "email": "stevengolgotar@gmail.com"
+      },
+      {
+        "name": "Punta Morales Tours a Caballo",
+        "source": "morales-community-adi",
+        "note": "Уточните встречу у Escuela Lagartos, пеший вариант, длину маршрута и возможность пройти без захода в реку.",
+        "url": "https://wa.me/50686413069",
+        "phone": "+506 8641 3069"
+      },
+      {
+        "name": "Ферма Тенорио · тур по креветочным прудам",
+        "source": "morales-community-adi",
+        "note": "Попросите точный пин, продолжительность и подтверждение работы солеварни.",
+        "url": "https://wa.me/50672883188",
+        "phone": "+506 7288 3188"
+      }
+    ],
+    "nearby": [
+      "pura-vista-tajo-rooftent",
+      "punta-morales-blanca-kayak",
+      "punta-morales-elnino-fishing",
+      "punta-morales-shrimp-salinera",
+      "piedra-angel"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "pura-vista-campsites",
+      "morales-community-adi",
+      "morales-sin-filtros"
+    ],
+    "videos": [
+      "morales-beach-local-video",
+      "morales-fish-captain-video",
+      "miramar-mina-qbl-video"
+    ],
+    "line": "miramar-to-punta-morales-road"
+  },
+  "iguanita-culebra-kayak-camp-2": {
+    "stops": [
+      {
+        "point": "panama-culebra-beach-access",
+        "role": "День 1 · дневной берег Плайя-Панама",
+        "note": ""
+      },
+      {
+        "point": "panama-culebra-159-approach",
+        "role": "Начало дорожного участка по 159",
+        "note": ""
+      },
+      {
+        "point": "iguanita-sinac-public-approach",
+        "role": "День 1 · въезд на ночёвку в Игуаните",
+        "note": ""
+      },
+      {
+        "point": "iguanita-beach-mid",
+        "role": "День 2 · утренний берег Игуаниты",
+        "note": ""
+      },
+      {
+        "point": "hermosa-guanacaste-beach-approach",
+        "role": "Район встречи с Pura Paddle по согласованию",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога и море",
+        "text": "На карте примерно 21 км дороги от 159 у Playa Panamá до подъезда к Игуаните. Сплавы и морские переходы зависят от фактического берега старта. Для лагеря отведите запас времени до закрытия ворот.",
+        "sources": [
+          "papagayo-bay-roads-osm",
+          "iguanita-ict-north-guide",
+          "iguanita-sinac-refuge"
+        ]
+      },
+      {
+        "title": "Подготовка ночёвки",
+        "text": "Забронируйте место для наземной палатки через канал, указанный рейнджерами. Возьмите питьевую воду, защиту от мокрого грунта, налобники, смену одежды и простую еду. Огонь и размещение машины согласовываются с заказником.",
+        "sources": [
+          "iguanita-sinac-refuge",
+          "iguanita-management-2024",
+          "iguanita-qbl-kayak-2021"
+        ]
+      },
+      {
+        "title": "Утро для гребли",
+        "text": "Подтвердите выход с Pura Paddle, размеры жилетов и точку выдачи. Если море не подходит, оставьте время на короткое знакомство с берегом Плайя-Панама.",
+        "sources": [
+          "purapaddle-papagayo-operator",
+          "mio-cimar-sea",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · администрация Игуаниты",
+        "source": "iguanita-sinac-refuge",
+        "note": "Уточните места под наземную палатку, оплату картой, часы въезда и последние километры после дождя.",
+        "url": "https://demo.sinac.go.cr/ES/ASP/Ficha/rnvs-iguanita",
+        "phone": "+506 8330 4863",
+        "email": "jorge.castillo@sinac.go.cr"
+      },
+      {
+        "name": "Pura Paddle · Гуанакасте",
+        "source": "purapaddle-papagayo-operator",
+        "note": "Попросите варианты для детей, точку выхода, фактическое время и полный состав проката.",
+        "url": "https://wa.me/message/WSMSHVZLMF74M1",
+        "email": "hello@purapaddle.com"
+      }
+    ],
+    "nearby": [
+      "iguanita-sinac-tent",
+      "papagayo-pura-paddle-hermosa",
+      "panama-culebra-beach",
+      "papagayo-family-water-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "iguanita-qbl-kayak-2021",
+      "purapaddle-papagayo-operator"
+    ],
+    "videos": [
+      "iguanita-camp-video",
+      "iguanita-qbl-video"
+    ],
+    "photos": [
+      "culebra-panorama-commons",
+      "panama"
+    ],
+    "line": "panama-to-iguanita-road"
+  }
+}

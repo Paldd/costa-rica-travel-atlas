@@ -8390,5 +8390,156 @@
       "cr",
       "ni"
     ]
+  },
+  {
+    "id": "miramar-punta-morales-roof-2",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Мирамар — Пунта-Моралес · крыша, костёр и рыбацкий залив",
+    "native": "Camping Pura Vista · Tajo Alto · Escuela Lagartos · Playa Blanca · Golfo de Nicoya",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "car",
+      "camping",
+      "rooftent",
+      "campfire",
+      "boat",
+      "kayak",
+      "fishing",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "high",
+      "4x4",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "pura-vista-campsites",
+      "pura-vista-map-osm",
+      "miramar-puntarenas-roads-osm",
+      "morales-community-adi",
+      "morales-yo-amo-access",
+      "incopesca-angling-card"
+    ],
+    "summary": "Два дня для выезда на машине. Закат и ночёвка на склоне над заливом, затем Плайя-Бланка, каяки или рыбалка с местным капитаном.",
+    "plan": "В первый день заедьте через Мирамар на Tajo Alto. После ночёвки спуститесь к заливу через Ruta 144 и 1. На втором дне выберите одну водную программу или экскурсию на креветочную ферму.",
+    "conditions": "Подтвердите место для раскрытой палатки, режим кострища и лодочные условия. По карте заложено около 47 км дороги между лагерем и пляжем.",
+    "distance": 47.1,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Закат над заливом и место под крышную палатку",
+        "note": "Заезжайте в Мирамар за питьевой водой и едой. Днём поднимитесь к лагерю. До темноты поставьте машину на согласованное место и проверьте правила кострища.",
+        "stops": [
+          "pura-vista-tajo-rooftent"
+        ],
+        "sources": [
+          "pura-vista-campsites",
+          "pura-vista-map-osm"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Берег Плайя-Бланка и водный выход",
+        "note": "Перед выездом сверьте встречу с капитаном. Выберите лодку или каяк. Если ветер не подходит, прогуляйтесь по настилу Плайя-Бланка, посетите ферму или согласуйте короткую тропу у Лагартоса.",
+        "stops": [
+          "punta-morales-blanca-kayak"
+        ],
+        "sources": [
+          "morales-community-adi",
+          "miramar-puntarenas-roads-osm",
+          "incopesca-angling-card"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "iguanita-culebra-kayak-camp-2",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Плайя-Панама — Игуанита · палатка у бухты и утренний каяк",
+    "native": "Bahía Culebra · Playa Panamá · Refugio Iguanita · Pura Paddle",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "car",
+      "camping",
+      "beach",
+      "views",
+      "kayak",
+      "sup",
+      "forest"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "iguanita-sinac-refuge",
+      "iguanita-qbl-kayak-2021",
+      "iguanita-vamos-summer",
+      "purapaddle-papagayo-operator",
+      "papagayo-bay-roads-osm"
+    ],
+    "summary": "Два берега Баия-Кулебра, ночёвка в официальном палаточном лагере заказника и выход на SUP или каяке с местной командой.",
+    "plan": "Остановитесь на Плайя-Панама и переедьте к Игуаните днём. На второй день закажите утренний выход с проводником. Приоритет у безопасного места встречи по ветру.",
+    "conditions": "Подтвердите режим лагеря, состояние последнего спуска и возрастной допуск на воду. Карта показывает около 21 км наземного перегона в одну сторону.",
+    "distance": 20.6,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Берег Плайя-Панама и заезд в лагерь",
+        "note": "Сделайте дневную остановку у Плайя-Панама. Оставьте запас времени на дорогу 159, 254, 253 и последнюю Calle Iguanita. Наземную палатку ставьте на указанном администрацией участке.",
+        "stops": [
+          "panama-culebra-beach",
+          "iguanita-sinac-tent"
+        ],
+        "sources": [
+          "iguanita-sinac-refuge",
+          "papagayo-bay-roads-osm",
+          "iguanita-vamos-summer"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Проводник, SUP или каяк по погоде",
+        "note": "Проверьте утром ветер и подтвердите пин проводника. Если сбор в Эрмосе или Панаме, выезжайте к нему на машине. Замените греблю прогулкой по берегу, если оператор отменит выход.",
+        "stops": [
+          "papagayo-pura-paddle-hermosa"
+        ],
+        "sources": [
+          "purapaddle-papagayo-operator",
+          "mio-cimar-sea",
+          "red-cross"
+        ]
+      }
+    ]
   }
 ]
