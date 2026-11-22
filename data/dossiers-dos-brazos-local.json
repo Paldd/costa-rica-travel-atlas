@@ -142,6 +142,14 @@
           "quijote-camping-guide",
           "quijote-camping-cr"
         ]
+      },
+      {
+        "title": "Велопрогулка по долине Атирро",
+        "text": "К выходным можно добавить 16,3 км по дорожному маршруту из Ла-Суисы через Атирро в Пехибайе. Заранее согласуйте место подбора, перевозку велосипеда и возможность зарядки в кемпинге.",
+        "sources": [
+          "atirro-bike-corridor-osm",
+          "quijote-camping-cr"
+        ]
       }
     ],
     "galleries": [
@@ -150,7 +158,8 @@
     ],
     "nearby": [
       "atirro-pejibaye-paddle-2",
-      "pejibaye-weekend-local"
+      "pejibaye-weekend-local",
+      "la-suiza-atirro-pejibaye-pedelec-16"
     ],
     "line": "pejibaye-quijote-road"
   },
@@ -210,6 +219,14 @@
           "quijote-camping-cr",
           "pejibaye-gorafting-school-map"
         ]
+      },
+      {
+        "title": "Велопрогулка по долине Атирро",
+        "text": "К выходным можно добавить 16,3 км по дорожному маршруту из Ла-Суисы через Атирро в Пехибайе. Заранее согласуйте место подбора, перевозку велосипеда и возможность зарядки в кемпинге.",
+        "sources": [
+          "atirro-bike-corridor-osm",
+          "quijote-camping-cr"
+        ]
       }
     ],
     "galleries": [
@@ -219,7 +236,8 @@
     "nearby": [
       "atirro-quijote-camp",
       "pejibaye-school-own-packraft",
-      "pejibaye-weekend-local"
+      "pejibaye-weekend-local",
+      "la-suiza-atirro-pejibaye-pedelec-16"
     ],
     "track": "pejibaye-gorafting-school-map",
     "line": "pejibaye-quijote-road"

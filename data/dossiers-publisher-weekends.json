@@ -1,0 +1,52 @@
+{
+  "ponderosa-teekisia-premium-day": {
+    "stops": [
+      {
+        "point": "ponderosa-driveway",
+        "role": "Ponderosa · общий въезд и ресепшен",
+        "note": "Пересадки внутри парка и расписание активностей уточняйте после регистрации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какие занятия входят в пакет",
+        "text": "На странице Premium перечислены сафари, канопи, Ла-Перла, Lazy River, верховая прогулка и бассейны, а также обед, грязевая и паровая зоны. На сайте отдельно опубликован пакет Adventure, у которого собственная цена и набор услуг.",
+        "sources": [
+          "ponderosa-teekisia-premium-reserve",
+          "ponderosa-teekisia-comparison"
+        ]
+      },
+      {
+        "title": "Возраст, ограничения и одежда",
+        "text": "На карточке Premium стоимость указана для участников от четырёх лет. Для канопи, верховой прогулки, водных занятий и пара проверьте допуск конкретного ребёнка у команды. Возьмите закрытые ботинки, одежду для купания и смену после воды.",
+        "sources": [
+          "ponderosa-teekisia-premium-reserve",
+          "ponderosa-visit-faq"
+        ]
+      },
+      {
+        "title": "Откуда пришла информация",
+        "text": "В копии выпуска от 21 сентября парк описал грязевую и паровую часть. Рабочий состав программы и время слотов берите из подтверждённой брони.",
+        "sources": [
+          "fb-copy-ponderosa-sep-2026",
+          "ponderosa-teekisia-premium-reserve"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ponderosa · вопросы о пакете и доступе",
+        "source": "ponderosa-office",
+        "note": "В подтверждённых сентябрьских публикациях указаны +506 2288-1000 и WhatsApp +506 8460-1750."
+      }
+    ],
+    "nearby": [
+      "ponderosa"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ponderosa-teekisia-premium-reserve",
+      "ponderosa-teekisia-comparison"
+    ]
+  }
+}

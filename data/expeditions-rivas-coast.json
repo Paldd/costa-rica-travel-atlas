@@ -1,0 +1,96 @@
+[
+  {
+    "id": "penas-blancas-coco-flor-ostional-3",
+    "kind": "trip",
+    "region": "guanacaste",
+    "regions": [
+      "rivas-coast"
+    ],
+    "countries": [
+      "cr",
+      "ni"
+    ],
+    "title": "Пеньяс-Бланкас — Эль-Коко — Ла-Флор · три дня по югу Риваса",
+    "native": "Peñas Blancas · San Juan del Sur · Playa El Coco · RVS La Flor · El Ostional",
+    "level": "moderate",
+    "days": 3,
+    "distance": null,
+    "activities": [
+      "border",
+      "car",
+      "camping",
+      "wildlife",
+      "hiking",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "high",
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "frontier-ni-tourist-req",
+      "frontier-ni-land-vehicle",
+      "frontier-cr-vehicle-exit",
+      "ni-rivas-road-osm",
+      "ni-rivas-flor-intur",
+      "ni-rivas-flor-tour",
+      "ni-rivas-coco-intur"
+    ],
+    "summary": "Переезд из Коста-Рики к южному берегу Риваса, короткие прогулки и визит в охраняемую Ла-Флор. Есть вариант ночёвки в комнате и вариант палатки по согласованию.",
+    "plan": "От никарагуанского пункта Пеньяс-Бланкас до города около 43,7 км. От города к Эль-Коко ещё 18,6 км и около 8,2 км до Эль-Остионаля по дороге. Визит в заповедник согласуется отдельно.",
+    "conditions": "Для своей или арендованной машины сначала сверяйте право выезда, временный ввоз, страховку и работу перехода. Кемпинг и береговой выход к черепахам зависят от разрешённой зоны и режима заповедника.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Оформление в Пеньяс-Бланкас и прибытие на побережье",
+        "note": "Днём оформите въезд и доезжайте до Сан-Хуан-дель-Сур. Если граница или погода отняли время, первую ночь оставьте в городе.",
+        "stops": [
+          "rivas-playa-el-coco-shore"
+        ],
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-ni-land-vehicle",
+          "ni-rivas-road-osm"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Эль-Коко и заповедник Ла-Флор",
+        "note": "Утром береговая прогулка. Днём согласуйте визит с рейнджером. Палатку ставьте только при подтверждении допустимой площадки.",
+        "stops": [
+          "rivas-playa-el-coco-shore",
+          "rivas-la-flor-turtle-ranger-night",
+          "rivas-la-flor-permitted-tent"
+        ],
+        "sources": [
+          "ni-rivas-flor-intur",
+          "ni-rivas-flor-visitor"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Эль-Остиональ и обратный переход",
+        "note": "Короткая утренняя остановка в прибрежном посёлке. Оставьте достаточно времени на обратный проезд и оформление машины.",
+        "stops": [
+          "rivas-el-ostional-local-coast"
+        ],
+        "sources": [
+          "ni-rivas-tourism-sanj-south",
+          "frontier-ni-land-vehicle"
+        ]
+      }
+    ]
+  }
+]

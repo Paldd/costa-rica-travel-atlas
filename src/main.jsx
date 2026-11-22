@@ -470,6 +470,14 @@ function SourcesPage({ atlas }) {
             {row.publisher && <External href={atlas.sources[row.publisher.site].url}>Сайт проекта</External>}
             {row.publisher?.archive && <External href={atlas.sources[row.publisher.archive].url}>Статьи и маршруты проекта</External>}
           </div>
+          {row.copySample?.items?.length > 0 && <details className="profile-copy-items">
+            <summary>Что было в просмотренных публикациях</summary>
+            <ul>{row.copySample.items.map(({ published, summary, record }) =>
+              <li key={published + summary}><time dateTime={published}>{published.split("-").reverse().join(".")}</time>{" · "}
+                {summary}{record && <> <a href={urlFor("place", new URLSearchParams(), record)}>Карточка</a></>}
+              </li>
+            )}</ul>
+          </details>}
         </div>)}
       </div>
     </details>

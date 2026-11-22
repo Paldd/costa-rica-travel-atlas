@@ -1284,5 +1284,471 @@
     "countries": [
       "pa"
     ]
+  },
+  {
+    "id": "playa-maderas-casa-oro-surf",
+    "kind": "place",
+    "region": "rivas-coast",
+    "title": "Плайя-Мадерас · урок сёрфинга и трансфер от Casa Oro",
+    "native": "Playa Maderas · Casa Oro · San Juan del Sur, Rivas",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "surf",
+      "school",
+      "beach"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "frontier-ni-playa-maderas",
+      "ni-rivas-casaoro-maderas",
+      "ni-rivas-casaoro-base-map",
+      "ni-rivas-costanera-news",
+      "ni-rivas-maderas-independent"
+    ],
+    "summary": "Урок с местным инструктором на пляже к северу от города. От Casa Oro можно уточнить поездку с доской.",
+    "plan": "Запишитесь в центре Сан-Хуан-дель-Сур, согласуйте уровень волны и место встречи. При самостоятельном подъезде проверьте парковку у пляжа.",
+    "conditions": "Пляж подходит для обучения в удачных условиях. Инструктор определяет участок, размер доски и допустимую нагрузку. Уточните детский возраст, прилив, время и полный состав пакета.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "playa-remanso-surf-school-sjds",
+    "kind": "place",
+    "region": "rivas-coast",
+    "title": "Плайя-Ремансо · первый урок сёрфинга в небольшой бухте",
+    "native": "Playa Remanso · Surf Nica School & Rentals · San Juan del Sur",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "surf",
+      "school",
+      "beach"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-rivas-remanso-provider",
+      "ni-rivas-remanso-school-directory",
+      "ni-rivas-remanso-map",
+      "ni-rivas-remanso-forum"
+    ],
+    "summary": "Вариант для первого урока южнее города. Местные инструкторы выбирают участок относительно волны, прилива и навыков ученика.",
+    "plan": "Уточните у школы индивидуальный и групповой формат, доску с мягким верхом и точку сбора в Ремансо. Сравните с Мадерасом по состоянию волн.",
+    "conditions": "Даже в бухте бывают сильные участки прибоя и течение. Условия для детей, фактическую длительность и аренду проверяйте у конкретной школы.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rivas-la-flor-turtle-ranger-night",
+    "kind": "trail",
+    "region": "rivas-coast",
+    "title": "Ла-Флор · вечер у черепах с проводником",
+    "native": "Refugio de Vida Silvestre Playa La Flor · Casa Oro · San Juan del Sur",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "wildlife",
+      "beach"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-rivas-flor-intur",
+      "ni-rivas-flor-visitor",
+      "ni-rivas-flor-tour",
+      "ni-rivas-flor-area-map"
+    ],
+    "summary": "Посещение берегового заповедника в районе гнездования оливковых черепах. Есть ночной выезд из Сан-Хуан-дель-Сур по запросу.",
+    "plan": "Свяжитесь с проводником до выезда. В день поездки уточните наблюдение у рейнджера, время доступа и правила света и фотосъёмки.",
+    "conditions": "Сезонная активность обычно с июля по январь, выход черепах на берег зависит от природы. Длительность, размер группы, детский доступ и включение входного билета проверьте перед поездкой.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rivas-la-flor-permitted-tent",
+    "kind": "place",
+    "region": "rivas-coast",
+    "title": "Ла-Флор · палатка по согласованию с рейнджерами",
+    "native": "Refugio de Vida Silvestre Playa La Flor · zona autorizada de campamento",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "camping",
+      "wildlife",
+      "beach",
+      "hiking"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "ni-rivas-flor-intur",
+      "ni-rivas-tourism-sanj-south",
+      "ni-rivas-flor-visitor",
+      "ni-rivas-flor-area-map"
+    ],
+    "summary": "Природная площадка у заповедника. Туристические источники указывают возможность палаточной ночёвки при соблюдении режима охраны.",
+    "plan": "До выезда запросите открытый сектор, отметку заезда, часы доступа и наличие воды или туалета. По прибытии согласуйте разрешённое место палатки.",
+    "conditions": "Крышная палатка, костёр и заезд машины к месту требуют отдельного подтверждения. В сезон гнездования ставьте палатку в обозначенном месте по указанию персонала, вдали от гнёзд и волн.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rivas-playa-el-coco-shore",
+    "kind": "place",
+    "region": "rivas-coast",
+    "title": "Плайя-Эль-Коко · длинная береговая прогулка",
+    "native": "Playa El Coco · Parque Marítimo El Coco · Rivas",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "beach",
+      "relax",
+      "views",
+      "wildlife"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-rivas-coco-intur",
+      "ni-rivas-coco-village-map",
+      "ni-rivas-coco-hotel-waze",
+      "ni-rivas-tourism-sanj-south"
+    ],
+    "summary": "Спокойный по формату пляжный выезд на юг от Сан-Хуан-дель-Сур. Светлая береговая полоса подходит для прогулки и отдыха с семьёй.",
+    "plan": "Сверьте открытый проход у Эль-Коко и оставьте машину в разрешённом месте. Запланируйте береговую прогулку отдельно от посещения охраняемой Ла-Флор.",
+    "conditions": "У бухты меняются волны и течение. Перед купанием уточняйте вход и условия. Картографический пин комплекса в районе пляжа не заменяет подтверждение парковки или ночёвки.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rivas-el-ostional-local-coast",
+    "kind": "place",
+    "region": "rivas-coast",
+    "title": "Эль-Остиональ · рыбацкий посёлок и южный берег",
+    "native": "El Ostional · San Juan del Sur · Departamento de Rivas, Nicaragua",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "beach",
+      "views",
+      "relax",
+      "history"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-rivas-tourism-sanj-south",
+      "ni-rivas-ostional-village-map",
+      "ni-rivas-ostional-local",
+      "ni-rivas-ostional-cabinas",
+      "ni-rivas-ostional-video"
+    ],
+    "summary": "Тихий берег на никарагуанской стороне к югу от Ла-Флор. Здесь есть поселковые услуги и район для короткой прогулки у воды.",
+    "plan": "Заезжайте через официальные дороги Риваса. Уточните подъезд после дождей, пополните воду до последнего участка и договоритесь о ночёвке, если решите остаться.",
+    "conditions": "Для пляжа и посёлка действуют местные условия доступа. Работа небольшого размещения и возможность лодочного выхода уточняются на дату.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "sjds-nica-sail-playa-blanca",
+    "kind": "trail",
+    "region": "rivas-coast",
+    "title": "Сан-Хуан-дель-Сур · катамаран на закате к Плайя-Бланка",
+    "native": "Nica Sail · shared sunset charter · Playa Blanca, San Juan del Sur",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "catamaran",
+      "boat",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-rivas-sail-charter",
+      "ni-rivas-dock-map",
+      "ni-rivas-sail-video",
+      "ni-rivas-sjds-beach-intur"
+    ],
+    "summary": "Парусный выход из Сан-Хуан-дель-Сур с пляжной остановкой по состоянию моря и возвращением к закату.",
+    "plan": "На общем рейсе оператор обычно указывает выход около 13:00 и возвращение к 18:00. Уточните день рейса, причал, посадку и состав питания.",
+    "conditions": "Высадка на берег, море, напитки, стоимость и условия для детей зависят от пакета и погоды. Пляжный подход на лодке определяет капитан.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "sjds-tlaloc-halfday-fishing",
+    "kind": "trail",
+    "region": "rivas-coast",
+    "title": "Сан-Хуан-дель-Сур · 4 часа прибрежной рыбалки",
+    "native": "Nicaragua Fishing Adventures · Tlaloc Fishing & Adventure Tours · San Juan del Sur",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "fishing",
+      "boat",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "boat",
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-rivas-fishing-tlaloc",
+      "ni-rivas-fishing-book",
+      "ni-rivas-fishing-inpesca",
+      "ni-rivas-dock-map"
+    ],
+    "summary": "Частный чартер с вариантами на четыре, шесть и восемь часов. Короткий рейс позволяет выбрать программу ближе к берегу.",
+    "plan": "Согласуйте время выхода, точку посадки и разрешённый сектор с капитаном. Для младших участников заранее проверьте посадку, жилеты и пригодность короткого рейса.",
+    "conditions": "Уточните правила INPESCA, покрытие участников разрешением, выпуск видов и условия возврата денег при непогоде. Состав снастей и цены зависят от выбранной лодки.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "escamequita-big-sky-horse-ranch",
+    "kind": "trail",
+    "region": "rivas-coast",
+    "title": "Эскамекита · конная поездка с местным ранчо",
+    "native": "Big Sky Ranch · Escamequita · ranch ride / beach ride",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "horseback",
+      "beach",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-rivas-big-sky-horse",
+      "ni-rivas-big-sky-contact",
+      "ni-rivas-escamequita-map",
+      "ni-rivas-big-sky-video",
+      "ni-rivas-tourism-sanj-south"
+    ],
+    "summary": "Выходы вокруг посёлка и фермы с отдельным пляжным вариантом. Ранчо подбирает маршрут по опыту всадников.",
+    "plan": "Для первого раза запрашивайте спокойный круг по территории. Для береговой поездки уточняйте длительность и время прилива.",
+    "conditions": "Возраст, размер группы, нагрузку на лошадь, шлем и работу ранчо на нужную дату подтверждает проводник. Пин отмечает посёлок, точный въезд просите у организатора.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "escameca-costa-dulce-coast-lodge",
+    "kind": "place",
+    "region": "rivas-coast",
+    "title": "Эскамека · ночёвка в Costa Dulce у пляжа",
+    "native": "Costa Dulce Eco-Wellness Resort · Playa Escameca · San Juan del Sur",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "beach",
+      "surf",
+      "school",
+      "relax",
+      "views",
+      "forest"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ni-rivas-costa-dulce-eco",
+      "ni-rivas-costa-dulce-rate",
+      "ni-rivas-costa-dulce-map",
+      "ni-rivas-tourism-sanj-south"
+    ],
+    "summary": "Лодж у южного побережья с программами сёрфинга и спокойного отдыха. Окружение сухого тропического леса отличается от городского берега.",
+    "plan": "Подтвердите способ заезда, номер и выбранный пакет. Днём можно запланировать собственную прогулку по разрешённым подходам или урок с инструктором.",
+    "conditions": "Пакеты ночёвки и уроки бронируются на конкретные даты. Тяжёлый спуск с оборудованием, детские условия и пригодность дороги после дождей заранее уточняют у владельцев.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "sjds-maderas-costanera-pedelec-20",
+    "kind": "trail",
+    "region": "rivas-coast",
+    "title": "Сан-Хуан-дель-Сур — Мадерас · 20,5 км на своём e-bike",
+    "native": "San Juan del Sur · norte de Costanera · Playa Maderas · NIC-76",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "cycling",
+      "ebike",
+      "road-bike",
+      "beach",
+      "views",
+      "cafe"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-rivas-road-osm",
+      "ni-rivas-costanera-news",
+      "ni-rivas-maderas-map",
+      "frontier-ni-playa-maderas",
+      "ni-rivas-maderas-independent"
+    ],
+    "summary": "Прибрежный вариант из города к сёрферскому пляжу. Новая Costanera улучшила подъезд с северной стороны Сан-Хуан-дель-Сур.",
+    "plan": "Вперёд расчёт использует участки, отмеченные как Ciclovía Costanera, обратно идёт по общей дороге. Выберите старт в светлое время и сделайте береговую остановку у Мадераса.",
+    "conditions": "20,5 км по данным OpenStreetMap. Уточните местные требования к велосипеду, открытость велосегментов, знаки и фактический трафик. Прокат электрического велосипеда в городе требует отдельного подтверждения.",
+    "distance": 20.5,
+    "countries": [
+      "ni"
+    ]
   }
 ]

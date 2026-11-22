@@ -12,6 +12,7 @@ DATA = ROOT / "data"
 SOURCE_FIELDS = ("id", "kind", "title", "url", "scope")
 POST_FIELDS = ("profile", "source", "checked")
 POST_COPY_FIELDS = ("profile", "source", "count", "first", "last", "checked")
+POST_COPY_ITEM_FIELDS = ("profile", "published", "summary", "record")
 PUBLISHER_FIELDS = ("profile", "site", "archive", "checked")
 RANK_FIELDS = ("platform", "profile", "rank", "followers", "precision", "checked", "countSource", "category", "zone")
 SOCIAL_DOMAINS = {
@@ -26,7 +27,7 @@ RECORD_FIELDS = (
 LIST_FIELDS = ("activities", "audience", "access", "sleep", "sources")
 REGIONS = {
     "central", "north", "guanacaste", "nicoya", "centralpac", "mountains", "south", "caribbean",
-    "ometepe", "chiriqui-coast", "chiriqui-highlands",
+    "ometepe", "rivas-coast", "chiriqui-coast", "chiriqui-highlands",
 }
 
 
@@ -59,7 +60,7 @@ def read_records():
             yield from json.loads(path.read_text(encoding="utf-8"))
 
 
-def build_social(sources_by_id):
+def build_social(sources_by_id, record_ids, aliases):
     social = json.loads((DATA / "social-coverage.json").read_text())
     profiles = {profile["url"]: profile for profile in social["profiles"]}
     ranks = {platform: set() for platform in SOCIAL_DOMAINS}
@@ -118,6 +119,35 @@ def build_social(sources_by_id):
             raise ValueError(f"Invalid public copy period or source for {sample['source']}")
         profile["copySample"] = {**sample, "count": count}
         copy_total += count
+    seen_copy_items = set()
+    copy_items_path = DATA / "public-post-copy-items.tsv"
+    copy_items = read_table(copy_items_path, POST_COPY_ITEM_FIELDS) if copy_items_path.exists() else ()
+    for item in copy_items:
+        profile = profiles.get(item.pop("profile"))
+        sample = profile.get("copySample") if profile else None
+        published = date.fromisoformat(item["published"]).isoformat()
+        record = aliases.get(item["record"], item["record"])
+        key = (profile["url"] if profile else "", published, item["summary"])
+        if (
+            not sample or not (sample["first"] <= published <= sample["last"])
+            or not item["summary"] or key in seen_copy_items
+            or (record and record not in record_ids)
+        ):
+            raise ValueError(f"Invalid public copy item: {key}")
+        seen_copy_items.add(key)
+        sample.setdefault("items", []).append({**item, "published": published, "record": record})
+    for profile in profiles.values():
+        sample = profile.get("copySample")
+        if not sample or not sample.get("items"):
+            continue
+        items = sample["items"]
+        items.sort(key=lambda item: item["published"], reverse=True)
+        if (
+            len(items) != sample["count"]
+            or items[0]["published"] != sample["last"]
+            or items[-1]["published"] != sample["first"]
+        ):
+            raise ValueError(f"Copy items do not match the sample for {profile['url']}")
     social["overview"]["facebookCopiedPosts"] = copy_total
     social["overview"]["facebookWithCopies"] = sum("copySample" in row for row in profiles.values())
     social["overview"]["facebookPosts"] = len(seen_posts)
@@ -138,7 +168,7 @@ def report_sources(record, sources_by_id):
     reports = {}
     for ref in references:
         source = sources_by_id[ref]
-        if source["kind"] == "experience":
+        if source["kind"] in {"experience", "track"}:
             reports.setdefault(source["url"].rstrip("/"), ref)
     return list(reports.values())
 
@@ -192,8 +222,6 @@ def main():
             dossiers[key] = dossier
 
     records = list(read_records())
-    social = build_social(sources_by_id)
-    social_matches = social.pop("matches")
     guides = [
         {key: feed[key] for key in ("name", "url", "language", "focus")}
         for feed in json.loads((DATA / "feeds.json").read_text()) if "language" in feed
@@ -203,6 +231,8 @@ def main():
     record_ids = {row["id"] for row in records}
     if any(legacy in record_ids or target not in record_ids for legacy, target in aliases.items()):
         raise ValueError("Record aliases must point directly to an existing different record")
+    social = build_social(sources_by_id, record_ids, aliases)
+    social_matches = social.pop("matches")
     for legacy, target in aliases.items():
         if posts := social_matches.get(legacy):
             current = social_matches.setdefault(target, [])

@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import {
-  accessModes, activities, audiences, countries, difficulty, kinds, lodging, mapsLink, regions, resolveRecordId, visibleRecords,
+  accessModes, activities, audiences, countries, difficulty, kinds, lodging, mapsLink, regions, resolveRecordId, sourceKinds, visibleRecords,
 } from "../src/catalog.js";
 import { createGpx } from "../src/gpx.js";
 import { resolveTripRoutes } from "../src/tripPlans.js";
@@ -26,7 +26,7 @@ assert.deepEqual(resolvedPlan.days[0].entries, [{ key: "ride", recordId: irazu, 
 assert.equal(new Set(records.map(row => row.region)).size, Object.keys(regions).length);
 for (const source of Object.values(atlas.sources)) {
   assert.equal(new URL(source.url).protocol, "https:", source.id);
-  assert(source.scope && source.title);
+  assert(source.scope && source.title && source.kind in sourceKinds, source.id);
 }
 assert.equal(new Set(atlas.guides.map(guide => guide.url)).size, atlas.guides.length);
 for (const guide of atlas.guides) {
@@ -105,6 +105,19 @@ assert(find({ km: "ten", activity: "hiking" }).some(row => row.id === "palo-verd
 assert(find({ km: "hundred", activity: "hiking", detail: "map" }, "expeditions").some(row => row.id === "el-camino-102"));
 assert(find({ activity: "ebike", detail: "map" }).some(row => row.id === "pinilla-emtb"));
 assert(find({ activity: "ebike", region: "south" }).some(row => row.id === "uvita-ballena-chaman-ebike-loop"));
+const jacoRide = find({ country: "cr", activity: "ebike", region: "centralpac", km: "short", detail: "map" })
+  .find(row => row.id === "jaco-pastor-diaz-ebike-4");
+assert(jacoRide?.dossier.stops.length === 3);
+const jacoLine = atlas.lines[jacoRide.dossier.line];
+assert.deepEqual(jacoLine.coords[0], jacoLine.coords.at(-1));
+const jacoGpx = createGpx(jacoRide.title, [{ title: jacoRide.title, line: jacoLine, stops: jacoRide.dossier.stops }], atlas);
+assert.equal((jacoGpx.match(/<trkpt /g) || []).length, jacoLine.coords.length);
+assert(find({ activity: "ebike", region: "central", material: "report" })
+  .some(row => row.id === "aserri-san-gabriel-dragon-emtb-56" && row.reportSources.includes("aserri-dragon-field-track")));
+assert(find({ activity: "ebike", sleep: "roof", duration: "two" }, "expeditions")
+  .some(row => row.id === "sardinal-sukka-ebike-weekend-2" && row.stages.length === 2));
+assert(find({ country: "ni", region: "rivas-coast", activity: "surf" })
+  .some(row => row.id === "playa-maderas-casa-oro-surf"));
 assert(find({ activity: "scuba", sleep: "liveaboard", duration: "long" }, "expeditions")
   .some(row => row.id === "cocos-sea-hunter-11-liveaboard"));
 assert(find({ country: "pa", region: "chiriqui-coast", activity: "boat" })
@@ -153,10 +166,16 @@ const copiedProfiles = atlas.social.profiles.filter(row => row.copySample);
 assert.equal(atlas.social.overview.facebookWithCopies, copiedProfiles.length);
 assert.equal(atlas.social.overview.facebookCopiedPosts, copiedProfiles.reduce((sum, row) => sum + row.copySample.count, 0));
 for (const row of copiedProfiles) {
-  const { source, count, first, last, checked } = row.copySample;
+  const { source, count, first, last, checked, items } = row.copySample;
   assert.equal(row.platform, "Facebook");
   assert(source in atlas.sources);
   assert(Number.isInteger(count) && count > 0 && first <= last && last <= checked);
+  if (items) {
+    assert.equal(items.length, count, row.name);
+    assert.equal(items[0].published, last, row.name);
+    assert.equal(items.at(-1).published, first, row.name);
+    assert(items.every(item => item.summary && (!item.record || known.has(item.record))), row.name);
+  }
 }
 assert(atlas.social.overview.instagramUniquePosts <= atlas.social.overview.instagramPosts);
 assert(find({ q: "Bajos del Toro", duration: "two", detail: "map" }, "expeditions").some(row => row.id === "bajos-toro-weekend"));

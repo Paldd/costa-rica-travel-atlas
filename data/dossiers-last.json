@@ -1450,6 +1450,14 @@
           "ponderosa-visit-faq",
           "ponderosa-office"
         ]
+      },
+      {
+        "title": "Публикации о семейной поездке",
+        "text": "В проверенной копии ленты есть отдельные сообщения о школьных пакетах, дороге к парку и грязевой зоне. Состав действующего пакета Teekisia Premium сверён на сайте парка.",
+        "sources": [
+          "fb-copy-ponderosa-sep-2026",
+          "ponderosa-teekisia-premium-reserve"
+        ]
       }
     ],
     "contacts": [
@@ -1462,7 +1470,8 @@
     ],
     "nearby": [
       "diamante",
-      "palo-verde"
+      "palo-verde",
+      "ponderosa-teekisia-premium-day"
     ],
     "track": "ponderosa-office"
   },

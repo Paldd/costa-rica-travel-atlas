@@ -8271,7 +8271,9 @@
       "frontier-ni-land-vehicle",
       "frontier-interbus-cr-ni",
       "frontier-ni-playa-maderas",
-      "frontier-cr-vehicle-exit"
+      "frontier-cr-vehicle-exit",
+      "ni-rivas-casaoro-maderas",
+      "ni-rivas-costanera-news"
     ],
     "summary": "Выезд с севера Коста-Рики к тихоокеанскому берегу Никарагуа. Две ночи в Сан-Хуан-дель-Сур, один день у Плайя-Мадерас с уроком сёрфинга или береговой прогулкой.",
     "plan": "Interbus публикует перевозку примерно на 3,5 часа между Либерией и Сан-Хуан-дель-Сур. Добавьте запас на контроль и согласуйте пересадку. Собственная машина требует отдельных документов в обеих странах.",
@@ -8294,9 +8296,14 @@
         "note": "Проверка прибоя у местной школы. Для первого занятия согласуйте размер доски, возраст и безопасную зону обучения. Если сильный прибой, оставьте берег и обед.",
         "sources": [
           "frontier-ni-playa-maderas",
-          "frontier-costadulce-transfers"
+          "frontier-costadulce-transfers",
+          "ni-rivas-casaoro-maderas",
+          "ni-rivas-costanera-news"
         ],
-        "stops": []
+        "stops": [
+          "playa-maderas-casa-oro-surf",
+          "playa-remanso-surf-school-sjds"
+        ]
       },
       {
         "day": 3,
@@ -8313,6 +8320,9 @@
     "countries": [
       "cr",
       "ni"
+    ],
+    "regions": [
+      "rivas-coast"
     ]
   },
   {

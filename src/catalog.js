@@ -10,6 +10,7 @@ export const regions = {
   south: "Южный Тихий океан",
   caribbean: "Карибское побережье",
   ometepe: "Ометепе и озеро Кокиболька",
+  "rivas-coast": "Ривас и побережье Сан-Хуан-дель-Сур",
   "chiriqui-coast": "Залив Чирики",
   "chiriqui-highlands": "Горы Чирики",
 };
@@ -81,6 +82,7 @@ export const sourceKinds = {
   official: "Официальный источник", operator: "Оператор или организатор",
   directory: "Туристический справочник", experience: "Опыт путешественника",
   event: "Организатор события", map: "Карта", video: "Видео",
+  guide: "Путеводитель", track: "Авторский трек", gallery: "Фотогалерея",
 };
 
 export const filters = [

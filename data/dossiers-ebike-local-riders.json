@@ -1,0 +1,843 @@
+{
+  "buen-camino-san-mateo-emtb": {
+    "stops": [
+      {
+        "point": "buen-camino-ride-base",
+        "role": "Въезд Buen Camino · регистрация и парковка",
+        "note": "Точка из карты оператора. Начало конкретной тропы ищите по схеме парка и табличкам."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Уровни и первая сессия",
+        "text": "Viejo Verde и Flip Flips отмечены владельцем для первых спусков. Потренируйте торможение и прохождение поворотов на зелёной линии. Jaguar синий, Boss и Machete идут с уклоном, прыжками и наклонными участками. В текущей схеме 18 номеров, список реально открытых трасс сверяйте у стойки.",
+        "sources": [
+          "buen-camino-owner-ride",
+          "buen-camino-mtbspot"
+        ]
+      },
+      {
+        "title": "Свой e-MTB и прокат",
+        "text": "На 22 ноября 2026 парк пишет, что прокат приостановлен, а новые велосипеды ожидаются к сухому сезону 2026–2027. Привезите свой подходящий велосипед или оформите его заранее в другом месте. Возьмите шлем и перчатки. Для технических спусков подходят закрытый шлем и защита. Перед поездкой проверьте тормоза, давление в шинах и заряд.",
+        "sources": [
+          "buen-camino-owner-ride",
+          "buen-camino-owner-terms",
+          "puromtb-bike-rent"
+        ]
+      },
+      {
+        "title": "Часы, еда и ночёвка",
+        "text": "Тропы заявлены со среды по понедельник с 08:00 до 16:00. Дневной велопропуск покупают на месте, на странице указан $25. Для семей есть пеший формат и проживание с отдельным доступом к бассейну. Подтвердите возраст, состояние троп после дождя и часы ресторана.",
+        "sources": [
+          "buen-camino-owner-ride",
+          "buen-camino-owner-eat",
+          "buen-camino-owner-stay"
+        ]
+      },
+      {
+        "title": "Что рассказывают райдеры",
+        "text": "Посетитель r/MTB описал поездку с ночёвкой и советует выделить два или три дня на эндуро. В том визите был доступен прокат. Его сегодняшняя доступность определяется текущим объявлением парка. В видео виден характер спусков со своего e-bike.",
+        "sources": [
+          "buen-camino-guest-forum",
+          "buen-camino-derek-video",
+          "buen-camino-owner-ride"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Buen Camino · пропуск и домики",
+        "source": "buen-camino-owner-ride",
+        "note": "Открытые линии, допуск своего e-MTB, размеры райдеров, велохранение, зарядка и доступность семейного домика.",
+        "phone": "+506 7235 5075",
+        "whatsapp": "https://wa.me/50672355075",
+        "email": "hello@buencaminocr.com",
+        "url": "https://buencaminocr.com/es/ride/"
+      },
+      {
+        "name": "PuroMTB Sabana Sur · e-MTB",
+        "source": "puromtb-bike-rent",
+        "note": "Запросите подходящий размер, комплект зарядки и условия перевозки по местным дорогам. Прокат удалён от старта.",
+        "url": "https://puromtb.com/products/rent-a-bicycle"
+      }
+    ],
+    "videos": [
+      "buen-camino-derek-video"
+    ],
+    "galleries": [
+      "buen-camino-owner-ride",
+      "buen-camino-owner-stay",
+      "buen-camino-owner-eat"
+    ],
+    "nearby": [
+      "buen-camino-san-mateo-weekend-2",
+      "hacienda-vieja-san-mateo-ebike-40",
+      "atenas-estanquillos-emtb-42"
+    ]
+  },
+  "jaco-pastor-diaz-ebike-4": {
+    "line": "jaco-pastor-diaz-cycle",
+    "stops": [
+      {
+        "point": "jaco-walk-electric",
+        "role": "Jacó Walk · старт и возврат",
+        "note": "Начинайте на улице. В торговом центре можно уточнить прокат и остановиться на кофе."
+      },
+      {
+        "point": "jaco-park-dankers",
+        "role": "Johannes Dankers · пешая пауза",
+        "note": "Парк виден с Avenida Pastor Díaz. Уберите велосипед с проезжей части и зайдите пешком."
+      },
+      {
+        "point": "jaco-boulevard-pochote",
+        "role": "Calle Pochote · разворот у берега",
+        "note": "Линия заканчивается у границы улицы. До воды пройдите пешком."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Велолиния и время",
+        "text": "Из Jacó Walk едьте на север по Avenida Pastor Díaz, через квартал парка Johannes Dankers и далее до Calle Pochote. Расчёт по OpenStreetMap дал 2,13 км в каждую сторону. На катание и две остановки можно отвести 45–90 минут. Улица общая с автомобилями и пешеходами у переходов.",
+        "sources": [
+          "jaco-bike-city-osm",
+          "jaco-cycling-local-guide",
+          "jaco-dankers-map"
+        ]
+      },
+      {
+        "title": "Свой велосипед или прокат",
+        "text": "Попросите pedelec с педальной помощью до 25 км/ч и проверенными тормозами. В местном справочнике есть ElecTech при Jacó Walk. В других предложениях словом e-bike называют и мопеды. Уточните модель, посадку подростка, шлемы и условия возврата.",
+        "sources": [
+          "cr-law-10651-pedelec",
+          "jaco-pedal-rentals-list",
+          "jaco-ewhip-vehicle-spec"
+        ]
+      },
+      {
+        "title": "Без машины и с остановками",
+        "text": "Двуязычный путеводитель описывает автобусы из Сан-Хосе и местное сообщение. Для прогулки по Хако оставьте велосипед в разрешённом месте рядом с кафе или у прогулочного центра. С собой возьмите воду и замок. В центре проще кататься утром, до плотного трафика.",
+        "sources": [
+          "jaco-cycling-local-guide",
+          "jaco-walk-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ElecTech · стойка Jacó Walk",
+        "source": "jaco-pedal-rentals-list",
+        "note": "Сверьте педальную модель, ограничение ассистента, рост, размер шлема, заряд, цену, залог и время возврата.",
+        "url": "https://todojaco.com/c/bikerent"
+      },
+      {
+        "name": "10cio Bike Shop · мастерская и обычные MTB",
+        "source": "jaco-10cio-bike-shop",
+        "note": "Ремонт и прокат обычного MTB. Можно спросить про снаряжение, тихие улицы или сопровождение своей группы.",
+        "phone": "+506 7299 5422",
+        "whatsapp": "https://wa.me/50672995422",
+        "email": "info@10ciobikeshop.com",
+        "url": "https://10ciobikeshop.com/tours-y-renta/"
+      }
+    ],
+    "videos": [
+      "jaco-city-corridor-video"
+    ],
+    "galleries": [
+      "jaco-walk-owner"
+    ],
+    "nearby": [
+      "jaco-electech-pedal-rental",
+      "pochotal-bijagual-emtb-41"
+    ]
+  },
+  "jaco-electech-pedal-rental": {
+    "stops": [
+      {
+        "point": "jaco-walk-electric",
+        "role": "ElecTech · ориентир стоек Jacó Walk",
+        "note": "Подтвердите фактическую точку выдачи у торгового центра."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать велосипед",
+        "text": "Перед оплатой попросите показать модель. Проверьте, что перед вами педальный велосипед с нужным классом ассистента, есть плавное переключение помощи и актуальные размеры. Для семьи проверьте посадку каждого, тормоза, шлемы и держатель воды.",
+        "sources": [
+          "jaco-pedal-rentals-list",
+          "cr-law-10651-pedelec"
+        ]
+      },
+      {
+        "title": "Где забирать и куда ехать",
+        "text": "Два местных источника привязывают ElecTech к Jacó Walk. Для первого короткого выезда подойдёт маршрут по Avenida Pastor Díaz до Calle Pochote. Мастерская 10cio отдельно публикует механические MTB и beach cruiser, если электрическая помощь не нужна.",
+        "sources": [
+          "jaco-electech-map",
+          "jaco-pedal-rentals-list",
+          "jaco-10cio-bike-shop",
+          "jaco-bike-city-osm"
+        ]
+      },
+      {
+        "title": "Что выяснить у стойки",
+        "text": "Сверьте залог, тариф на 1–2 часа, запас заряда на возврат, блокировку, время выдачи и помощь при проколе. Для выезда за город спросите о допустимой зоне использования. Услуги выдачи зависят от наличия на дату.",
+        "sources": [
+          "jaco-pedal-rentals-list",
+          "jaco-cycling-local-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ElecTech · стойка Jacó Walk",
+        "source": "jaco-pedal-rentals-list",
+        "note": "Сверьте педальную модель, ограничение ассистента, рост, размер шлема, заряд, цену, залог и время возврата.",
+        "url": "https://todojaco.com/c/bikerent"
+      },
+      {
+        "name": "10cio Bike Shop · мастерская и обычные MTB",
+        "source": "jaco-10cio-bike-shop",
+        "note": "Ремонт и прокат обычного MTB. Можно спросить про снаряжение, тихие улицы или сопровождение своей группы.",
+        "phone": "+506 7299 5422",
+        "whatsapp": "https://wa.me/50672995422",
+        "email": "info@10ciobikeshop.com",
+        "url": "https://10ciobikeshop.com/tours-y-renta/"
+      }
+    ],
+    "galleries": [
+      "jaco-walk-owner"
+    ],
+    "nearby": [
+      "jaco-pastor-diaz-ebike-4",
+      "pochotal-bijagual-emtb-41"
+    ]
+  },
+  "la-suiza-atirro-pejibaye-pedelec-16": {
+    "line": "la-suiza-atirro-pejibaye-cycle",
+    "stops": [
+      {
+        "point": "la-suiza",
+        "role": "Ла-Суиса · старт",
+        "note": "Начинайте в посёлке и сверяйте повороты до выезда на Vía 232."
+      },
+      {
+        "point": "atirro-centro-road",
+        "role": "Атирро · тростниковая долина",
+        "note": "Остановитесь вне дороги. Для посещения фермы или руин получите отдельное разрешение."
+      },
+      {
+        "point": "pejibaye-ruta225-bridge",
+        "role": "Puente Ruta 225 · переход через Río Pejibaye",
+        "note": "Здесь идёт дорожный трафик. Пин служит ориентиром моста."
+      },
+      {
+        "point": "pejibaye",
+        "role": "Пехибайе · финиш и перекус",
+        "note": "Заранее выберите место подбора. Возврат своим ходом добавляет примерно 16,3 км."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Геометрия и формат",
+        "text": "Расчёт по OpenStreetMap даёт 16,30 км до Пехибайе. Из Ла-Суисы маршрут использует Calle Pueblo Nuevo, доезжает до Calle Atirro, пересекает реку и заходит в Пехибайе с Ruta 408. Заложите полдня на выезд, остановку и подбор. Полный возврат своим ходом составляет около 32,6 км.",
+        "sources": [
+          "atirro-bike-corridor-osm",
+          "atirro-place-map"
+        ]
+      },
+      {
+        "title": "Трафик, покрытие и снаряжение",
+        "text": "Дорога проходит по улицам общего пользования, в том числе Ruta 225. Берите шлем, яркий передний и задний свет, воду, ремкомплект и загруженную карту. При плотном трафике или сильном дожде лучше укоротить выезд и встретиться с машиной. Оригинальный пеший этап El Camino пролегает по другой линии.",
+        "sources": [
+          "atirro-bike-corridor-osm",
+          "atirro-camino-stage7",
+          "ebike-trainerroad-cr-forum"
+        ]
+      },
+      {
+        "title": "Велосипед, гид и ночёвка",
+        "text": "Команда Ebiking Costa Rica предлагает свои поездки на e-MTB из Турриальбы. Отдельный Atirro Countryside Loop опубликован как 4-часовая программа обычного MTB. Для продолжения выходных проверьте свободную площадку Quijote. Если ночуете, заранее выясните, где можно хранить и заряжать свой велосипед.",
+        "sources": [
+          "ebiking-turrialba-day-tour",
+          "atirro-bike-countryside",
+          "quijote-camping-cr"
+        ]
+      },
+      {
+        "title": "Вариант с трансфером из Сан-Хосе",
+        "text": "ARA Tours публикует одну ночь и два дня в Турриальбе с англоязычным велогидом. До заказа попросите конкретный дневной маршрут, километраж, профиль и минимальный возраст. Эта программа может проходить по другим дорогам.",
+        "sources": [
+          "ara-turrialba-overnight-bike",
+          "ebiking-turrialba-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ebiking Costa Rica · команда в Турриальбе",
+        "source": "ebiking-turrialba-ict",
+        "note": "Отдельно уточните выезд на нужную дату, подходящую раму, помощь с подбором и свой маршрут по долине.",
+        "phone": "+506 8311 2282",
+        "url": "https://ebikingcostarica.com/contact-us/"
+      },
+      {
+        "name": "ARA Tours · 2 дня с e-bike",
+        "source": "ara-turrialba-overnight-bike",
+        "note": "Уточните фотоматериалы собственного маршрута, километраж и состав услуги.",
+        "phone": "+506 2232 0400",
+        "whatsapp": "https://wa.me/50688933863"
+      }
+    ],
+    "videos": [
+      "atirro-camino-video"
+    ],
+    "galleries": [
+      "quijote-camping-guide"
+    ],
+    "nearby": [
+      "atirro-quijote-camp",
+      "atirro-pejibaye-paddle-2",
+      "turrialba-ebike-halfday"
+    ]
+  },
+  "aserri-san-gabriel-dragon-emtb-56": {
+    "track": "aserri-dragon-field-track",
+    "stops": [
+      {
+        "point": "aserri-san-gabriel-church",
+        "role": "Сан-Габриэль · общественный ориентир",
+        "note": "Точный старт и точки риска смотрите на исходной карте Manuel Bozzoli."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Рельеф и время",
+        "text": "Авторский круг 55,73 км набирает +2 740 м. Публикация указывает 4 ч 12 мин в движении и 7 ч 53 мин со всеми остановками. Высоты по записи лежат примерно между 538 и 1 681 м. Для первой поездки в районе разумно взять короткий участок после осмотра подъезда.",
+        "sources": [
+          "aserri-dragon-field-track",
+          "aserri-san-gabriel-parish"
+        ]
+      },
+      {
+        "title": "Проверка старого трека",
+        "text": "Автор записал выезд в декабре 2021 года и отмечает точки риска. Откройте фото и полный профиль у автора, сверьте проезд на дату, сохраните населённые пункты для схода. Пин на карте атласа показывает церковь в Сан-Габриэле, с точкой трека его нужно сверить.",
+        "sources": [
+          "aserri-dragon-field-track",
+          "aserri-san-gabriel-parish"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Для такого набора пригодятся обслуженные тормоза, устойчивые покрышки, шлем, запас воды и совместимый ремкомплект. Оцените расход заряда на подъёмах на своей модели заранее. Сохраните карту офлайн, договоритесь о связи и планируйте весь день.",
+        "sources": [
+          "aserri-dragon-field-track",
+          "puromtb-bike-rent"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PuroMTB Sabana Sur · e-MTB",
+        "source": "puromtb-bike-rent",
+        "note": "Запросите подходящий размер, комплект зарядки и условия перевозки по местным дорогам. Прокат удалён от старта.",
+        "url": "https://puromtb.com/products/rent-a-bicycle"
+      }
+    ],
+    "galleries": [
+      "aserri-dragon-field-track"
+    ],
+    "nearby": [
+      "escazu-ventolera-salitral-emtb-15",
+      "san-jose-expert-singletrack-emtb-private"
+    ]
+  },
+  "puriscal-potenciana-grifo-alto-emtb-44": {
+    "track": "puriscal-potenciana-field-track",
+    "stops": [
+      {
+        "point": "puriscal-east-cemetery",
+        "role": "Пурискаль · ориентир района старта",
+        "note": "Автор начинает у кладбища. Сверьте, какой подъезд отмечен на его записи."
+      },
+      {
+        "point": "grifo-alto",
+        "role": "Грифо-Альто · населённый пункт подбора",
+        "note": "Согласуйте парковку и точку встречи со своим водителем."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сан-Хуан, Потенсиана и открытые склоны",
+        "text": "Участники спускаются к Río San José, выходят на Ruta 239, поднимаются по Calle Alto La Potenciana и возвращаются к системе местных дорог через Ла-Пита. На длинном подъёме к Грифо-Альто мало тени. В описании автор приводит более 500 м набора на одном отрезке.",
+        "sources": [
+          "puriscal-potenciana-field-track",
+          "puriscal-local-geoportal"
+        ]
+      },
+      {
+        "title": "Вода, грунт и закрытые участки",
+        "text": "В марте 2025 группа объехала один въезд на частную ферму после осмотра и местами толкала велосипед по сложному грунту. Проверяйте каждый участок, где видны ворота или береговой переход. При высокой воде выбирайте публичную дорожную альтернативу и подбор, предусмотренные до выезда.",
+        "sources": [
+          "puriscal-potenciana-field-track",
+          "inder-turrubares-rural-road-corridor"
+        ]
+      },
+      {
+        "title": "Подбор и различие показаний",
+        "text": "До старта согласуйте машину на финише. Километраж карточки взят из профиля Wikiloc. Расчёт автора в тексте даёт 43,72 км и +2 315 м. В обоих вариантах это длинный день с техничным рельефом. Возьмите запас воды, свет, ремкомплект и офлайн-карту.",
+        "sources": [
+          "puriscal-potenciana-field-track",
+          "puriscal-east-cemetery-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PuroMTB Sabana Sur · e-MTB",
+        "source": "puromtb-bike-rent",
+        "note": "Запросите подходящий размер, комплект зарядки и условия перевозки по местным дорогам. Прокат удалён от старта.",
+        "url": "https://puromtb.com/products/rent-a-bicycle"
+      }
+    ],
+    "galleries": [
+      "puriscal-potenciana-field-track"
+    ],
+    "nearby": [
+      "puriscal-maravillas-guatuso-10",
+      "piedras-negras-orotina-gravel-50"
+    ]
+  },
+  "estanquillos-altos-naranjo-emtb-27": {
+    "track": "estanquillos-plancillo-field-track",
+    "stops": [
+      {
+        "point": "atenas-estanquillos-village",
+        "role": "Эстанкильос · окрестности старта и финиша",
+        "note": "Можно встретиться в посёлке. Положение точного старта смотрите на исходном треке."
+      },
+      {
+        "point": "estanquillos-altos-atenas",
+        "role": "Альтос-де-Наранхо · остановка в деревне",
+        "note": "Следуйте авторской карте на развилках Calle Suarez, Calle Lorito и в районе Piedra La Zopilota."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сельский круг 4 сентября 2026",
+        "text": "От Эстанкильоса авторы прошли Calle Carrizal и Calle Plancillo, поднялись через Бахо-Какао и Сан-Исидро. Во второй половине петли перечислены Calle Pata de Gallo и La Chola, затем возвращение через Павас и Calle Las Iras.",
+        "sources": [
+          "estanquillos-plancillo-field-track",
+          "estanquillos-altos-naranjo-map"
+        ]
+      },
+      {
+        "title": "Формат выходного утра",
+        "text": "Дистанция 26,60 км, набор +1 319 м. Возьмите подходящий e-MTB, запас воды, шлем и карту на телефон. На спуске оставляйте время на осмотр поверхности. Полевые фото и ссылка на ролик Relive доступны в оригинальной записи.",
+        "sources": [
+          "estanquillos-plancillo-field-track",
+          "puromtb-bike-rent"
+        ]
+      },
+      {
+        "title": "Подъезд и запасной вариант",
+        "text": "Начните в Эстанкильосе только после того, как уточнили парковку в посёлке. Если часть дороги закрыта или покрытие размыло, возвращайтесь по доступной местной дороге. В атласе есть также более длинный круг в сторону Эскобаля и Десмонте.",
+        "sources": [
+          "estanquillos-plancillo-field-track",
+          "atenas-estanquillos-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PuroMTB Sabana Sur · e-MTB",
+        "source": "puromtb-bike-rent",
+        "note": "Запросите подходящий размер, комплект зарядки и условия перевозки по местным дорогам. Прокат удалён от старта.",
+        "url": "https://puromtb.com/products/rent-a-bicycle"
+      }
+    ],
+    "galleries": [
+      "estanquillos-plancillo-field-track"
+    ],
+    "nearby": [
+      "atenas-estanquillos-emtb-42",
+      "buen-camino-san-mateo-emtb"
+    ]
+  },
+  "pochotal-bijagual-emtb-41": {
+    "track": "pochotal-bijagual-field-track",
+    "stops": [
+      {
+        "point": "pochotal-ebike-start-area",
+        "role": "Почоталь · район начала в низине",
+        "note": "Ориентир из карты местности. Точный старт используйте с разрешённого выезда по треку автора."
+      },
+      {
+        "point": "jaco-utv-bijagual-village",
+        "role": "Бихагуаль · район верхнего разворота",
+        "note": "Населённый пункт для ориентации, не точка доступа к финке или заповеднику."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что показывает профиль",
+        "text": "Горный выезд 40,56 км туда и обратно, с набором +1 561 м. В записи августа 2025 года видны панорамы, длинный подъём и технический рельеф. Планируйте 4–6 часов с проверкой проезда и остановками.",
+        "sources": [
+          "pochotal-bijagual-field-track",
+          "pochotal-bijagual-farm-area"
+        ]
+      },
+      {
+        "title": "Доступ, подготовка и разворот",
+        "text": "Проверьте ворота и статус подъезда у местных. Возьмите тормоза в хорошем состоянии, запас воды, ремкомплект и карту офлайн. Для разделённой группы заранее назначьте безопасную точку разворота. Водопад Бихагуаль посещают с отдельно оформленным входом.",
+        "sources": [
+          "pochotal-bijagual-field-track",
+          "bijagual-park-owner",
+          "jaco-10cio-bike-shop"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "10cio Bike Shop · мастерская и обычные MTB",
+        "source": "jaco-10cio-bike-shop",
+        "note": "Ремонт и прокат обычного MTB. Можно спросить про снаряжение, тихие улицы или сопровождение своей группы.",
+        "phone": "+506 7299 5422",
+        "whatsapp": "https://wa.me/50672995422",
+        "email": "info@10ciobikeshop.com",
+        "url": "https://10ciobikeshop.com/tours-y-renta/"
+      },
+      {
+        "name": "PuroMTB Sabana Sur · e-MTB",
+        "source": "puromtb-bike-rent",
+        "note": "Запросите подходящий размер, комплект зарядки и условия перевозки по местным дорогам. Прокат удалён от старта.",
+        "url": "https://puromtb.com/products/rent-a-bicycle"
+      }
+    ],
+    "galleries": [
+      "pochotal-bijagual-field-track"
+    ],
+    "nearby": [
+      "bijagual-waterfall-hike-7",
+      "bijagual-rooftent-visit",
+      "jaco-pastor-diaz-ebike-4"
+    ]
+  },
+  "upala-santa-clara-emtb-50": {
+    "track": "upala-santaclara-field-track",
+    "stops": [
+      {
+        "point": "upala-central-ebike",
+        "role": "Упала · встреча в городе",
+        "note": "Парк — общественный ориентир. Точный старт смотрите на исходном треке."
+      },
+      {
+        "point": "upala-santa-clara-delicias",
+        "role": "Санта-Клара · ориентир района финиша",
+        "note": "Сверьте с треком подъезд и место для подбора. Речь о поселении в кантоне Упала."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Северный линейный заезд",
+        "text": "Авторская страница указывает 49,91 км и +716 м. Несмотря на близость центров Упалы и Санта-Клары, опубликованный трек длиннее прямой дороги. Закладывайте весь выезд и сверяйте полную карту, когда оцениваете время и заряд.",
+        "sources": [
+          "upala-santaclara-field-track",
+          "upala-central-park-map",
+          "upala-santa-clara-map"
+        ]
+      },
+      {
+        "title": "Проверка местной дороги",
+        "text": "Для записи 2021 года осмотрите подъезды и проверьте доступ у хозяев, где дорога идёт по ферме. После сильных дождей договоритесь о проверке перед выездом. Помощь в сельском районе организуйте заранее, вода и запас расходников должны быть у группы.",
+        "sources": [
+          "upala-santaclara-field-track",
+          "upala-inventory-2025"
+        ]
+      },
+      {
+        "title": "Комбинация с местными поездками",
+        "text": "После велодня можно остаться в районе Упалы на ферме или поехать на экскурсию Vive Dos Ríos. Из списка сообщества выберите отдельную подтверждённую остановку. Это также контакт для информации о сельских дорогах, а возможность велосопровождения уточните у команды.",
+        "sources": [
+          "upala-dos-rios-routes",
+          "upala-inventory-2025"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vive Dos Ríos · местные маршруты",
+        "source": "upala-dos-rios-routes",
+        "note": "Текущий доступ сельских дорог, независимая поездка по фермам и возможные местные контакты.",
+        "url": "https://www.vivedosrios.com/nuestras-rutas"
+      }
+    ],
+    "galleries": [
+      "upala-santaclara-field-track",
+      "upala-inventory-2025"
+    ],
+    "nearby": [
+      "upala-dos-rios-backroads-2",
+      "upala-mapache-thermal-hike"
+    ]
+  },
+  "sardinal-santa-rita-emtb-39": {
+    "track": "sardinal-santarita-field-track",
+    "stops": [
+      {
+        "point": "sardinal-santa-rita-area",
+        "role": "Санта-Рита · населённый пункт начала круга",
+        "note": "Точную точку старта и развилки берите из отчёта davidoff_bcn, где есть профиль и карта."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Запись и покрытие",
+        "text": "38,86 км и +230 м по профилю апрельского заезда 2026 года. В карточке автора есть карта и фотографии. Подтвердите проезд по каждому участку. На широких колёсах удобнее пройти рыхлые сельские отрезки, а после ливня заранее проверьте воду на низких местах.",
+        "sources": [
+          "sardinal-santarita-field-track",
+          "sardinal-santarita-map",
+          "guanacaste-gravel-riders-forum"
+        ]
+      },
+      {
+        "title": "Кемпинг, аренда и заряд",
+        "text": "В Camping Sukká есть стоянки для разных форматов отдыха, бассейн и кухня по описанию хозяев. Следует отдельно согласовать крышную палатку и розетку для зарядного устройства. В Плайяс-дель-Коко Electric Bike Costa Rica указывает прокат и гидов. С картой этой поездки спросите, разрешена ли она по договору.",
+        "sources": [
+          "sukka-host",
+          "sukka-camping-cr",
+          "ebike-coco-electricbike-catalog"
+        ]
+      },
+      {
+        "title": "Вариант на жару",
+        "text": "Начните утром, запишите короткие пути выхода и захватите воду, свет, защиту от солнца и насос. Часть участников может остаться в кемпинге и встретить райдеров после круга. Программа с гидом по холмам Коко подходит как отдельный короткий выезд.",
+        "sources": [
+          "sardinal-santarita-field-track",
+          "ebike-coco-electricbike-catalog",
+          "sukka-camping-cr"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Sukká · крыша, очаг и питание",
+        "source": "sukka-camping-cr",
+        "note": "На вашу дату подтвердите высоту машины, разрешение разложить крышную палатку, конкретный очаг, душ, доступ к розетке и режим зарядки.",
+        "phone": "+506 8784 0513",
+        "whatsapp": "https://wa.me/50687840513",
+        "url": "https://camping.cr/listing/camping-sukka-guanacaste/"
+      },
+      {
+        "name": "Electric Bike Costa Rica · Плайяс-дель-Коко",
+        "source": "ebike-coco-electricbike-contact",
+        "note": "Согласуйте прокат вне Коко, доставку, допустимое покрытие и условия подбора на случай поломки.",
+        "phone": "+506 8593 5077",
+        "whatsapp": "https://wa.me/50685935077",
+        "url": "https://www.electricbikecostarica.com/contact"
+      }
+    ],
+    "galleries": [
+      "sardinal-santarita-field-track",
+      "sukka-yoko"
+    ],
+    "nearby": [
+      "sardinal-sukka-ebike-weekend-2",
+      "sardinal-sukka-camper",
+      "coco-coastal-hills-electricbike"
+    ]
+  },
+  "curubande-bijagua-emtb-62": {
+    "track": "curubande-bijagua-field-track",
+    "stops": [
+      {
+        "point": "curubande-park",
+        "role": "Курубанде · встреча в посёлке",
+        "note": "Парковку и фактический старт согласуйте с сопровождающими."
+      },
+      {
+        "point": "bijagua-centre-visitors",
+        "role": "Бихагуа · ориентир для встречи на финише",
+        "note": "Сверьте точку автора и место остановки машины до выезда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Профиль самостоятельного этапа",
+        "text": "По записи 62,23 км в одну сторону и +1 618 м. Требуется план подбора. Проверьте участки записи перед поездкой и оставьте запас на ливень, ранний закат, утомление и расход батареи. Точная последовательность на исходной карте CBP2020.",
+        "sources": [
+          "curubande-bijagua-field-track",
+          "bijagua-katira-ict"
+        ]
+      },
+      {
+        "title": "Проезд, снаряжение и жильё",
+        "text": "Запасите воду, ремкомплект, запас тормозных колодок при поездке на несколько дней, зарядное устройство и карту без сети. До старта запросите статус горных дорог и участков хозяйств. В Бихагуа можно заранее забронировать домик и вынести лесной тур на следующее утро.",
+        "sources": [
+          "curubande-bijagua-field-track",
+          "bijagua-katira-ict",
+          "bijagua-heliconias-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Electric Bike Costa Rica · Плайяс-дель-Коко",
+        "source": "ebike-coco-electricbike-contact",
+        "note": "Согласуйте прокат вне Коко, доставку, допустимое покрытие и условия подбора на случай поломки.",
+        "phone": "+506 8593 5077",
+        "whatsapp": "https://wa.me/50685935077",
+        "url": "https://www.electricbikecostarica.com/contact"
+      },
+      {
+        "name": "Hacienda Guachipelín · местная велобаза",
+        "source": "guachipelin-mtb-current",
+        "note": "Для отдельной поездки по тропам владельца, консультация о текущем доступе и сезоне.",
+        "url": "https://www.guachipelin.com/mountain-biking/"
+      }
+    ],
+    "galleries": [
+      "bijagua-katira-ict"
+    ],
+    "nearby": [
+      "guachipelin-emtb-base",
+      "bijagua-heliconias-bridges",
+      "bijagua-tapir-valley-night"
+    ]
+  },
+  "buen-camino-san-mateo-weekend-2": {
+    "stops": [
+      {
+        "point": "buen-camino-ride-base",
+        "role": "Въезд Buen Camino · регистрация и парковка",
+        "note": "Точка из карты оператора. Начало конкретной тропы ищите по схеме парка и табличкам."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два велодня с одной базой",
+        "text": "День 1 посвятите посадке и зелёным линиям. Вечером оставайтесь в домике. День 2 выберите Jaguar для уверенных райдеров или повтор короткой трассы для семьи. На одном участке поездки можно разделиться между пешей прогулкой, велопарком и бассейном.",
+        "sources": [
+          "buen-camino-owner-ride",
+          "buen-camino-owner-stay",
+          "buen-camino-mtbspot"
+        ]
+      },
+      {
+        "title": "Ночёвка, питание и техника",
+        "text": "Домики по описанию рассчитаны максимум на пять человек, есть небольшая кухня. Сверьте время заселения, завтрак, доступ в бассейн и цену велобилетов для жильцов. Согласуйте закрытое хранение и зарядку. Свою технику приготовьте до старта, местный прокат на дату сверки приостановлен.",
+        "sources": [
+          "buen-camino-owner-stay",
+          "buen-camino-owner-eat",
+          "buen-camino-owner-ride",
+          "buen-camino-owner-terms"
+        ]
+      },
+      {
+        "title": "Отзывы и погода",
+        "text": "Райдер после одного дня хотел вернуться на два–три. Рекомендации посетителя по вечернему отдыху полезны для выбора ночёвки. Условия допуска и проката берите у оператора, состояние трасс проверяйте в день заезда.",
+        "sources": [
+          "buen-camino-guest-forum",
+          "buen-camino-owner-ride"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Buen Camino · пропуск и домики",
+        "source": "buen-camino-owner-ride",
+        "note": "Открытые линии, допуск своего e-MTB, размеры райдеров, велохранение, зарядка и доступность семейного домика.",
+        "phone": "+506 7235 5075",
+        "whatsapp": "https://wa.me/50672355075",
+        "email": "hello@buencaminocr.com",
+        "url": "https://buencaminocr.com/es/ride/"
+      },
+      {
+        "name": "PuroMTB Sabana Sur · e-MTB",
+        "source": "puromtb-bike-rent",
+        "note": "Запросите подходящий размер, комплект зарядки и условия перевозки по местным дорогам. Прокат удалён от старта.",
+        "url": "https://puromtb.com/products/rent-a-bicycle"
+      }
+    ],
+    "galleries": [
+      "buen-camino-owner-stay",
+      "buen-camino-owner-ride"
+    ],
+    "videos": [
+      "buen-camino-derek-video"
+    ],
+    "nearby": [
+      "buen-camino-san-mateo-emtb",
+      "hacienda-vieja-san-mateo-ebike-40"
+    ]
+  },
+  "sardinal-sukka-ebike-weekend-2": {
+    "stops": [
+      {
+        "point": "sardinal-sukka-entry",
+        "role": "Camping Sukká · ночёвка",
+        "note": "Согласуйте заезд, отдельную площадку, тень, очаг и зарядку."
+      },
+      {
+        "point": "sardinal-santa-rita-area",
+        "role": "Санта-Рита · населённый пункт начала круга",
+        "note": "Точную точку старта и развилки берите из отчёта davidoff_bcn, где есть профиль и карта."
+      }
+    ],
+    "track": "sardinal-santarita-field-track",
+    "sections": [
+      {
+        "title": "Палатка и велосипед на выходные",
+        "text": "В первый день устройтесь в кемпинге и проверьте короткий выезд либо отдохните у бассейна. Во второй день отправляйтесь на круг из Санта-Риты, пока прохладно. 38,86 км относятся к записи круга. Переезд от кемпинга учтите отдельно.",
+        "sources": [
+          "sardinal-santarita-field-track",
+          "sukka-host",
+          "sardinal-santarita-map"
+        ]
+      },
+      {
+        "title": "Крышная палатка, розетка и очаг",
+        "text": "Для наземной палатки и camper разные условия. Запросите разрешение на крышную палатку именно для своей машины. Узнайте, где ставят велосипед, можно ли использовать штатную зарядку и где разрешён огонь. Для вечерних запасов возьмите питьевую воду и налобник.",
+        "sources": [
+          "sukka-host",
+          "sukka-camping-cr",
+          "sukka-rider-access"
+        ]
+      },
+      {
+        "title": "Семья и прокат",
+        "text": "Опытные взрослые едут круг. Семья с младшими детьми может выбрать бассейн или отдельную прогулку у берега. Для велопроката спросите Electric Bike Costa Rica, разрешён ли самостоятельный выезд в Санта-Риту. Уточните состояние сельского подъезда после ливня.",
+        "sources": [
+          "ebike-coco-electricbike-catalog",
+          "sukka-camping-cr",
+          "sardinal-santarita-field-track"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Sukká · крыша, очаг и питание",
+        "source": "sukka-camping-cr",
+        "note": "На вашу дату подтвердите высоту машины, разрешение разложить крышную палатку, конкретный очаг, душ, доступ к розетке и режим зарядки.",
+        "phone": "+506 8784 0513",
+        "whatsapp": "https://wa.me/50687840513",
+        "url": "https://camping.cr/listing/camping-sukka-guanacaste/"
+      },
+      {
+        "name": "Electric Bike Costa Rica · Плайяс-дель-Коко",
+        "source": "ebike-coco-electricbike-contact",
+        "note": "Согласуйте прокат вне Коко, доставку, допустимое покрытие и условия подбора на случай поломки.",
+        "phone": "+506 8593 5077",
+        "whatsapp": "https://wa.me/50685935077",
+        "url": "https://www.electricbikecostarica.com/contact"
+      }
+    ],
+    "galleries": [
+      "sukka-yoko",
+      "sardinal-santarita-field-track"
+    ],
+    "nearby": [
+      "sardinal-sukka-camper",
+      "sardinal-santa-rita-emtb-39",
+      "coco-coastal-hills-electricbike"
+    ]
+  }
+}

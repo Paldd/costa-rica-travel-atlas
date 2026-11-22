@@ -1,0 +1,70 @@
+[
+  {
+    "id": "buen-camino-san-mateo-weekend-2",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Buen Camino · два дня со своим e-MTB и ночёвкой в велопарке",
+    "native": "Buen Camino Bike Park · San Mateo · Viejo Verde · Jaguar · Casitas & Cabinas",
+    "level": "moderate",
+    "days": 2,
+    "activities": ["ebike", "mtb", "cycling", "forest", "views", "relax", "multi"],
+    "audience": ["family-mid", "family-teen", "family-adults", "friends", "mens"],
+    "access": ["car", "confirm"],
+    "sleep": ["lodge"],
+    "sources": ["buen-camino-owner-ride", "buen-camino-owner-stay", "buen-camino-owner-eat", "buen-camino-guest-forum"],
+    "summary": "Выходные в Сан-Матео с одной базой. Несколько коротких спусков днём, бассейн и домик вечером.",
+    "plan": "В первый день начните с двух зелёных трасс. На второй день повторите знакомую линию или перейдите на синий Jaguar, если группа готова.",
+    "conditions": "На 22 ноября парк сообщает о паузе проката. Везите свой e-MTB или заранее найдите подходящий велосипед. Цена и допуск на трассы, для детей и для своего велосипеда уточняются у парка.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Регистрация, зелёные трассы и домик",
+        "note": "Получите актуальную схему. Начните с Viejo Verde или Flip Flips. После катания проверьте хранение и зарядку, возьмите ключи от домика и отдохните у бассейна.",
+        "stops": ["buen-camino-san-mateo-emtb"],
+        "sources": ["buen-camino-owner-ride", "buen-camino-owner-stay"]
+      },
+      {
+        "day": 2,
+        "title": "Jaguar для опытных и лёгкий повтор для семьи",
+        "note": "На синий спуск выходите, если проверили покрытие и готовы к уклонам. Остальные могут повторить зелёную трассу или выбрать пеший вариант у базы. Сверьте время выезда из домика и приёма пищи.",
+        "stops": ["buen-camino-san-mateo-emtb"],
+        "sources": ["buen-camino-owner-ride", "buen-camino-owner-eat", "buen-camino-owner-terms"]
+      }
+    ]
+  },
+  {
+    "id": "sardinal-sukka-ebike-weekend-2",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Сардиналь · два дня с e-bike и палаткой в Camping Sukká",
+    "native": "Camping Sukká Guanacaste · Santa Rita de Sardinal · Around Sardinal",
+    "level": "moderate",
+    "days": 2,
+    "activities": ["ebike", "cycling", "gravel", "camping", "rooftent", "campfire", "views", "multi"],
+    "audience": ["family-teen", "family-adults", "friends", "mens"],
+    "access": ["car", "confirm"],
+    "sleep": ["tent", "roof"],
+    "sources": ["sukka-host", "sukka-camping-cr", "sukka-rider-access", "sardinal-santarita-field-track", "ebike-coco-electricbike-catalog"],
+    "summary": "Палаточная база в Сардинале и утренний авторский круг на 38,9 км по окрестностям Санта-Риты.",
+    "plan": "Приезжайте засветло, согласуйте площадку и оставьте вечер для ужина. На следующий день выезжайте на круг с полным зарядом.",
+    "conditions": "Крышная палатка, огонь, доступ к подходящей розетке и место для велосипеда согласуются при бронировании. Километраж относится к кругу от Санта-Риты. Участки дороги и правила проката проверьте на дату.",
+    "distance": 38.86,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Кемпинг, проверка велосипеда и вечерний отдых",
+        "note": "Проверьте поверхность места для машины и высоту над раскрытой палаткой. Оставьте время на бассейн и уточните условия разведения огня. Возьмите штатный зарядник и согласуйте подключение у хозяев.",
+        "stops": ["sardinal-sukka-camper"],
+        "sources": ["sukka-host", "sukka-camping-cr", "sukka-rider-access"]
+      },
+      {
+        "day": 2,
+        "title": "Санта-Рита · 38,9 км по авторской карте",
+        "note": "Выехать лучше до жары. На маршруте используйте исходную карту райдера и учтите подъезд от кемпинга. Семья может встретить группу на берегу или в кемпинге. При затопленной дороге перейдите на короткий подтверждённый вариант в Коко.",
+        "stops": ["sardinal-santa-rita-emtb-39", "coco-coastal-hills-electricbike"],
+        "sources": ["sardinal-santarita-field-track", "ebike-coco-electricbike-catalog"]
+      }
+    ]
+  }
+]

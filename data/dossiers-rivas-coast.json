@@ -1,0 +1,684 @@
+{
+  "playa-maderas-casa-oro-surf": {
+    "stops": [
+      {
+        "point": "ni-rivas-casa-oro-station",
+        "role": "Casa Oro · стойка в городе",
+        "note": "Точку первого сбора и время транспорта сверяйте у стойки."
+      },
+      {
+        "point": "ni-rivas-maderas-beach",
+        "role": "Плайя-Мадерас · район прибоя",
+        "note": "Положение парковки и участок урока выбирайте по волне и указаниям оператора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что получить на месте",
+        "text": "Casa Oro публикует уроки на Мадерасе с разбором базовых движений и работой на воде. Спросите, входит ли трансфер в ваш вариант, где выдача доски и лиша и можно ли подобрать экипировку ребёнку.",
+        "sources": [
+          "ni-rivas-casaoro-maderas",
+          "frontier-ni-playa-maderas"
+        ]
+      },
+      {
+        "title": "Дорога по северному побережью",
+        "text": "По публикации La Gaceta новый участок Costanera открыт в марте 2026 года. Он улучшает подъезд в этот район, а положение парковки и состояние последней ветки проверяются отдельно. Полевой путеводитель показывает берег до этого обновления.",
+        "sources": [
+          "ni-rivas-costanera-news",
+          "ni-rivas-maderas-independent",
+          "ni-rivas-maderas-map"
+        ]
+      },
+      {
+        "title": "Выбор зоны для первого раза",
+        "text": "Прибой меняется от прилива и ветра. Инструктор назначает участок. Для более опытных на пляже есть другие пики, безопасный выход и способ разворота на воде согласуйте с местной школой.",
+        "sources": [
+          "ni-rivas-casaoro-maderas",
+          "frontier-ni-playa-maderas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Oro · местная команда",
+        "source": "ni-rivas-casaoro-maderas",
+        "note": "WhatsApp +505 5758 7862. Запросите время урока, состав пакета и береговой трансфер."
+      }
+    ],
+    "nearby": [
+      "playa-remanso-surf-school-sjds",
+      "sjds-maderas-costanera-pedelec-20",
+      "penas-blancas-san-juan-surf-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-maderas-photo",
+      "frontier-ni-playa-maderas",
+      "ni-rivas-maderas-independent"
+    ],
+    "videos": [
+      "ni-rivas-maderas-video"
+    ]
+  },
+  "playa-remanso-surf-school-sjds": {
+    "stops": [
+      {
+        "point": "ni-rivas-remanso-coast",
+        "role": "Ремансо · прибрежная деревня",
+        "note": "Ориентир дороги. Школа находится в пляжном районе, точное место встречи просите при записи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор Ремансо и Мадераса",
+        "text": "Оператор из района сравнивает выбор пляжа с состоянием волн, опытом и планом поездки. В обсуждении r/Nicaragua Ремансо упоминают как место для первого урока в подходящих условиях.",
+        "sources": [
+          "ni-rivas-remanso-provider",
+          "ni-rivas-remanso-forum"
+        ]
+      },
+      {
+        "title": "Как договориться об уроке",
+        "text": "В местном справочнике Surf Nica указаны занятия и выдача досок на Ремансо. Уточняйте текущую цену, совмещение с прокатом, детский допуск и подбор мягкой доски. Инструктор проверяет, какой участок подойдёт на выбранном приливе.",
+        "sources": [
+          "ni-rivas-remanso-school-directory",
+          "ni-rivas-remanso-provider"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Surf Nica School & Rentals · связь",
+        "source": "ni-rivas-remanso-school-directory",
+        "note": "Публичный телефон +505 8868-6716. Уточните график, группу, экипировку и точку сбора."
+      }
+    ],
+    "nearby": [
+      "playa-maderas-casa-oro-surf",
+      "rivas-playa-el-coco-shore",
+      "sjds-maderas-costanera-pedelec-20"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-remanso-provider",
+      "ni-rivas-remanso-school-directory"
+    ]
+  },
+  "rivas-la-flor-turtle-ranger-night": {
+    "stops": [
+      {
+        "point": "ni-rivas-casa-oro-station",
+        "role": "Casa Oro · стойка в городе",
+        "note": "Точку первого сбора и время транспорта сверяйте у стойки."
+      },
+      {
+        "point": "ni-rivas-flor-reserve-area",
+        "role": "Ла-Флор · ориентир заповедника",
+        "note": "Координата сектора для планирования. Местоположение ворот и площадки нужно подтвердить у рейнджеров."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сезон и время посещения",
+        "text": "Государственный путеводитель называет июль–январь сезоном массовых выходов черепах. Отдельный вечер может пройти без выхода на сушу. Местный путеводитель приводит сезонные наблюдения и ориентировочное время приёма гостей.",
+        "sources": [
+          "ni-rivas-flor-intur",
+          "ni-rivas-flor-visitor"
+        ]
+      },
+      {
+        "title": "Выезд из города",
+        "text": "Casa Oro предлагает вечерний формат с местной командой. Согласуйте набор группы, час возвращения, стоимость входа и возможность ехать со своими взрослыми и детьми.",
+        "sources": [
+          "ni-rivas-flor-tour",
+          "ni-rivas-flor-visitor"
+        ]
+      },
+      {
+        "title": "Фотосъёмка и экипировка",
+        "text": "Одежда по ветру, закрытая обувь и средство от насекомых. На берег выходите только с подходящим освещением, которое разрешено для вашей зоны. Не приближайтесь к животным без разрешения персонала.",
+        "sources": [
+          "ni-rivas-flor-intur",
+          "ni-rivas-flor-visitor"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Oro · выезд к заповеднику",
+        "source": "ni-rivas-flor-tour",
+        "note": "WhatsApp +505 5758 7862. Уточните доступ в заповедник, минимальный набор, способ посадки и детский возраст."
+      },
+      {
+        "name": "Ла-Флор · режим заповедника",
+        "source": "ni-rivas-flor-intur",
+        "note": "Перед палаточной ночёвкой свяжитесь со службой заповедника и подтвердите допустимую площадку и точное время въезда."
+      }
+    ],
+    "nearby": [
+      "rivas-la-flor-permitted-tent",
+      "rivas-playa-el-coco-shore",
+      "penas-blancas-coco-flor-ostional-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-flor-intur",
+      "ni-rivas-flor-visitor"
+    ],
+    "videos": [
+      "ni-rivas-flor-video"
+    ]
+  },
+  "rivas-la-flor-permitted-tent": {
+    "stops": [
+      {
+        "point": "ni-rivas-flor-reserve-area",
+        "role": "Ла-Флор · ориентир заповедника",
+        "note": "Координата сектора для планирования. Местоположение ворот и площадки нужно подтвердить у рейнджеров."
+      },
+      {
+        "point": "ni-rivas-el-coco-village",
+        "role": "Эль-Коко · подъезд к прибрежному району",
+        "note": "У развилки ищите подтверждённый общественный проход к пляжу."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Размещение и режим заповедника",
+        "text": "INTUR и национальная карта называют палаточный формат. Согласуйте с рейнджерами место палатки, охраняемые участки, тихие часы и дни доступа. Место на берегу должно быть разрешено на конкретную ночь.",
+        "sources": [
+          "ni-rivas-flor-intur",
+          "ni-rivas-tourism-sanj-south",
+          "ni-rivas-flor-visitor"
+        ]
+      },
+      {
+        "title": "Подъезд, вода и экипировка",
+        "text": "Национальная карта советует проходимую машину для подъезда. Запросите реальный пин ворот, возможность поставить машину рядом с палаткой, туалет и питьевую воду. Возьмите гермомешок, москитную сетку, воду и сухой комплект одежды.",
+        "sources": [
+          "ni-rivas-tourism-sanj-south",
+          "ni-rivas-flor-visitor"
+        ]
+      },
+      {
+        "title": "Крышная палатка и огонь",
+        "text": "Документы описывают палаточный визит. До въезда уточните отдельное согласование крышной палатки, ночной остановки машины и наличия разрешённой зоны для огня.",
+        "sources": [
+          "ni-rivas-flor-intur",
+          "ni-rivas-tourism-sanj-south"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ла-Флор · режим заповедника",
+        "source": "ni-rivas-flor-intur",
+        "note": "Перед палаточной ночёвкой свяжитесь со службой заповедника и подтвердите допустимую площадку и точное время въезда."
+      }
+    ],
+    "nearby": [
+      "rivas-la-flor-turtle-ranger-night",
+      "rivas-playa-el-coco-shore",
+      "rivas-el-ostional-local-coast",
+      "penas-blancas-coco-flor-ostional-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-flor-intur",
+      "ni-rivas-flor-visitor"
+    ]
+  },
+  "rivas-playa-el-coco-shore": {
+    "stops": [
+      {
+        "point": "ni-rivas-el-coco-village",
+        "role": "Эль-Коко · подъезд к прибрежному району",
+        "note": "У развилки ищите подтверждённый общественный проход к пляжу."
+      },
+      {
+        "point": "ni-rivas-el-coco-resort-area",
+        "role": "Parque Marítimo · картографический ориентир",
+        "note": "Отдельная база у берега. Доступ на площадку и стоянку подтверждает хозяин."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроить дневную поездку",
+        "text": "Береговая полоса доступна для прогулки. Заранее проверьте публичный проход, время отлива и место оставить машину. Удобно добавить берег Эль-Остионаля и отдельно согласованное посещение Ла-Флор.",
+        "sources": [
+          "ni-rivas-coco-intur",
+          "ni-rivas-tourism-sanj-south",
+          "ni-rivas-coco-hotel-waze"
+        ]
+      },
+      {
+        "title": "Семейная прогулка",
+        "text": "На открытом тихоокеанском побережье состояние воды меняется. Для маленьких детей выбирайте прогулку по берегу с тенью и водой. Для купания нужно уточнить местные условия и положение течений.",
+        "sources": [
+          "ni-rivas-coco-intur",
+          "ni-rivas-tourism-sanj-south"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Visit Nicaragua · справка по берегу Эль-Коко",
+        "source": "ni-rivas-coco-intur",
+        "note": "Официальный адрес и ориентиры. Условия парковки проверяйте у выбранной площадки."
+      }
+    ],
+    "nearby": [
+      "rivas-la-flor-turtle-ranger-night",
+      "rivas-la-flor-permitted-tent",
+      "rivas-el-ostional-local-coast",
+      "penas-blancas-coco-flor-ostional-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-coco-intur",
+      "ni-rivas-tourism-sanj-south"
+    ]
+  },
+  "rivas-el-ostional-local-coast": {
+    "stops": [
+      {
+        "point": "ni-rivas-ostional-village",
+        "role": "Эль-Остиональ · населённый пункт в Никарагуа",
+        "note": "Ориентир центра. Точную остановку на берегу и парковку спрашивайте на месте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Побережье за Ла-Флор",
+        "text": "Местный репортаж показывает посёлок и широкую прибрежную полосу. Подходит для прогулки, простого обеда и знакомства с сельским отрезком берега Риваса.",
+        "sources": [
+          "ni-rivas-ostional-local",
+          "ni-rivas-tourism-sanj-south"
+        ]
+      },
+      {
+        "title": "Остановка и жильё",
+        "text": "В посёлке опубликован адрес небольшой базы рядом со спортивной площадкой. Это вариант для предварительного запроса. Спуск к воде, открытые места для еды и состояние дороги уточните на дату.",
+        "sources": [
+          "ni-rivas-ostional-cabinas",
+          "ni-rivas-ostional-village-map",
+          "ni-rivas-road-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cabinas Ostional · запрос ночёвки",
+        "source": "ni-rivas-ostional-cabinas",
+        "note": "Адрес у спортивной площадки. Наличие комнат и работу контакта подтвердите до заезда."
+      }
+    ],
+    "nearby": [
+      "rivas-playa-el-coco-shore",
+      "rivas-la-flor-permitted-tent",
+      "penas-blancas-coco-flor-ostional-3",
+      "escameca-costa-dulce-coast-lodge"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-ostional-local",
+      "ni-rivas-tourism-sanj-south"
+    ],
+    "videos": [
+      "ni-rivas-ostional-video"
+    ]
+  },
+  "sjds-nica-sail-playa-blanca": {
+    "stops": [
+      {
+        "point": "ni-rivas-sjds-dock",
+        "role": "Сан-Хуан-дель-Сур · зона порта",
+        "note": "Точный причал и время посадки сообщает команда рейса."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Программа на пять часов",
+        "text": "Открытый рейс на катамаране обычно идёт примерно с 13:00 до 18:00. В описании есть остановка у Плайя-Бланка. Частная программа позволяет выбрать другое время и состав группы.",
+        "sources": [
+          "ni-rivas-sail-charter"
+        ]
+      },
+      {
+        "title": "Погода, посадка и детский формат",
+        "text": "Уточняйте дату, место посадки, возврат, спасжилеты по размеру и способ высадки на берег. Если планируете купание, уточните у капитана защищённый сектор.",
+        "sources": [
+          "ni-rivas-sail-charter",
+          "ni-rivas-dock-map"
+        ]
+      },
+      {
+        "title": "Что входит и что взять",
+        "text": "Оператор перечисляет разные комплекты питания и напитков. Для личного комплекта возьмите гермомешок, воду, крем и смену одежды.",
+        "sources": [
+          "ni-rivas-sail-charter",
+          "ni-rivas-sail-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nica Sail · свободные места и чартер",
+        "source": "ni-rivas-sail-charter",
+        "note": "Форма записи на выбранную программу. Попросите назвать точный причал, условия отмены и допуск детей."
+      }
+    ],
+    "nearby": [
+      "sjds-tlaloc-halfday-fishing",
+      "playa-maderas-casa-oro-surf",
+      "penas-blancas-san-juan-surf-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-sail-charter",
+      "ni-rivas-bay-photo"
+    ],
+    "videos": [
+      "ni-rivas-sail-video"
+    ]
+  },
+  "sjds-tlaloc-halfday-fishing": {
+    "stops": [
+      {
+        "point": "ni-rivas-sjds-dock",
+        "role": "Сан-Хуан-дель-Сур · зона порта",
+        "note": "Точный причал и время посадки сообщает команда рейса."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Варианты дневного рейса",
+        "text": "Местная компания публикует рыбалку на 4, 6 или 8 часов. Попросите короткий прибрежный вариант, размер лодки и список включённого снаряжения. Место ловли определяет капитан по погоде и разрешённой зоне.",
+        "sources": [
+          "ni-rivas-fishing-tlaloc",
+          "ni-rivas-fishing-book"
+        ]
+      },
+      {
+        "title": "Разрешения и экипировка",
+        "text": "В материалах INPESCA предусмотрено оформление спортивной рыбалки. До оплаты уточните, что оформляет компания, какое разрешение действует для группы и какие виды можно оставить или нужно выпустить. Берите защиту от солнца и личное питьё.",
+        "sources": [
+          "ni-rivas-fishing-inpesca",
+          "ni-rivas-fishing-tlaloc"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tlaloc Fishing & Adventure Tours · запрос чартера",
+        "source": "ni-rivas-fishing-book",
+        "note": "Форма организатора. Напишите количество участников, опыт, желаемые часы и возраст детей."
+      }
+    ],
+    "nearby": [
+      "sjds-nica-sail-playa-blanca",
+      "rivas-el-ostional-local-coast",
+      "penas-blancas-coco-flor-ostional-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-fishing-tlaloc",
+      "ni-rivas-bay-photo"
+    ]
+  },
+  "escamequita-big-sky-horse-ranch": {
+    "stops": [
+      {
+        "point": "ni-rivas-escamequita-village",
+        "role": "Эскамекита · центр посёлка",
+        "note": "Уточните последний поворот и время встречи по запросу в ранчо."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ферма и пляжный вариант",
+        "text": "Big Sky Ranch на сайте различает поездки по территории и маршрут с выходом к берегу. Для короткого семейного дня спросите про спокойное катание по ферме.",
+        "sources": [
+          "ni-rivas-big-sky-horse",
+          "ni-rivas-big-sky-contact"
+        ]
+      },
+      {
+        "title": "Подбор маршрута и снаряжение",
+        "text": "От уровня группы, прибоя и погоды зависит пляжная часть. Уточняйте возраст, посадку, ограничение веса, закрытую обувь и шлем.",
+        "sources": [
+          "ni-rivas-big-sky-horse",
+          "ni-rivas-big-sky-contact"
+        ]
+      },
+      {
+        "title": "Подъезд к ранчо",
+        "text": "На карте отмечен посёлок Эскамекита. Видеоматериал показывает местность, для въезда пользуйтесь актуальным пином хозяев. После дождей проверьте, подойдёт ли низкая машина.",
+        "sources": [
+          "ni-rivas-big-sky-video",
+          "ni-rivas-escamequita-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Big Sky Ranch · запись и въезд",
+        "source": "ni-rivas-big-sky-contact",
+        "note": "Запросите свободного инструктора, пин въезда и поездку под опыт участников."
+      }
+    ],
+    "nearby": [
+      "escameca-costa-dulce-coast-lodge",
+      "rivas-playa-el-coco-shore",
+      "playa-remanso-surf-school-sjds"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-big-sky-horse",
+      "ni-rivas-tourism-sanj-south"
+    ],
+    "videos": [
+      "ni-rivas-big-sky-video"
+    ]
+  },
+  "escameca-costa-dulce-coast-lodge": {
+    "stops": [
+      {
+        "point": "ni-rivas-costa-dulce-lodge",
+        "role": "Costa Dulce · район лоджа и размещения",
+        "note": "Свяжитесь для точного места разгрузки снаряжения и парковки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и пляжные занятия",
+        "text": "У владельца опубликованы варианты размещения, сёрфинга и отдыха возле Эскамекы. Условия отдельных занятий есть в прайс-листе, итоговую стоимость подтвердите с командой для выбранного формата.",
+        "sources": [
+          "ni-rivas-costa-dulce-eco",
+          "ni-rivas-costa-dulce-rate"
+        ]
+      },
+      {
+        "title": "Выход к океану",
+        "text": "Отдельно спросите про подход, волну, прилив и размеры досок. Для первого занятия подтвердите проводника. В соседней частной природной зоне есть дополнительные варианты прогулок с отдельными правилами доступа.",
+        "sources": [
+          "ni-rivas-costa-dulce-eco",
+          "ni-rivas-tourism-sanj-south"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Dulce · размещение и занятия",
+        "source": "ni-rivas-costa-dulce-eco",
+        "note": "Форма запроса комнаты. Уточните дату, трансфер, возраст и включение занятий."
+      }
+    ],
+    "nearby": [
+      "escamequita-big-sky-horse-ranch",
+      "rivas-playa-el-coco-shore",
+      "rivas-la-flor-turtle-ranger-night",
+      "playa-remanso-surf-school-sjds"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-rivas-costa-dulce-eco",
+      "ni-rivas-tourism-sanj-south"
+    ]
+  },
+  "sjds-maderas-costanera-pedelec-20": {
+    "stops": [
+      {
+        "point": "frontier-san-juan-del-sur",
+        "role": "Сан-Хуан-дель-Сур · старт и финиш",
+        "note": "Стартовый городской ориентир у побережья. Воду и батарею подготовьте до выезда."
+      },
+      {
+        "point": "ni-rivas-maderas-beach",
+        "role": "Плайя-Мадерас · район прибоя",
+        "note": "Положение парковки и участок урока выбирайте по волне и указаниям оператора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Велолиния по дорогам и велоучасткам",
+        "text": "Длина около 20,5 км туда и обратно. В сторону Мадераса расчёт использует отрезки, помеченные как Ciclovía Costanera. Обратную часть ведёт по NIC-76 с общим трафиком.",
+        "sources": [
+          "ni-rivas-road-osm",
+          "ni-rivas-costanera-news"
+        ]
+      },
+      {
+        "title": "Поверхность и состояние подъезда",
+        "text": "В марте 2026 года открыт новый северный участок береговой дороги. У парковки и поворотов остаются переменные условия и общие зоны движения. В тумане, дождь или плотном трафике рассмотрите местный трансфер.",
+        "sources": [
+          "ni-rivas-costanera-news",
+          "ni-rivas-maderas-independent"
+        ]
+      },
+      {
+        "title": "Свой e-bike и перевозка",
+        "text": "Возьмите педальный e-bike с проверенным запасом батареи, шлем, задний фонарь, воду и ремнабор. Уточните местные требования и возможность перевозки велосипеда на шаттле. На пляж спускайтесь пешком по указанному подходу.",
+        "sources": [
+          "ni-rivas-road-osm",
+          "frontier-ni-playa-maderas",
+          "ni-rivas-casaoro-maderas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Oro · местная команда",
+        "source": "ni-rivas-casaoro-maderas",
+        "note": "WhatsApp +505 5758 7862. Запросите время урока, состав пакета и береговой трансфер."
+      }
+    ],
+    "nearby": [
+      "playa-maderas-casa-oro-surf",
+      "playa-remanso-surf-school-sjds",
+      "penas-blancas-san-juan-surf-3"
+    ],
+    "connectStops": false,
+    "line": "rivas-maderas-bike",
+    "galleries": [
+      "ni-rivas-maderas-photo",
+      "frontier-ni-playa-maderas",
+      "ni-rivas-maderas-independent"
+    ],
+    "videos": [
+      "ni-rivas-maderas-video"
+    ]
+  },
+  "penas-blancas-coco-flor-ostional-3": {
+    "stops": [
+      {
+        "point": "frontier-penas-cr",
+        "role": "Пеньяс-Бланкас · сторона Коста-Рики",
+        "note": "Оформите выезд транспорта и документы путешественников."
+      },
+      {
+        "point": "frontier-penas-ni",
+        "role": "Пеньяс-Бланкас · начало линии на стороне Никарагуа",
+        "note": "Контроль, оформление временного ввоза и местная страховка по требованиям пограничного пункта."
+      },
+      {
+        "point": "frontier-san-juan-del-sur",
+        "role": "Сан-Хуан-дель-Сур · первая база",
+        "note": "Здесь удобно уточнить проводника, дорогу, воду и транспорт."
+      },
+      {
+        "point": "ni-rivas-el-coco-village",
+        "role": "Эль-Коко · подъезд к прибрежному району",
+        "note": "У развилки ищите подтверждённый общественный проход к пляжу."
+      },
+      {
+        "point": "ni-rivas-flor-reserve-area",
+        "role": "Ла-Флор · ориентир заповедника",
+        "note": "Координата сектора для планирования. Местоположение ворот и площадки нужно подтвердить у рейнджеров."
+      },
+      {
+        "point": "ni-rivas-ostional-village",
+        "role": "Эль-Остиональ · населённый пункт в Никарагуа",
+        "note": "Ориентир центра. Точную остановку на берегу и парковку спрашивайте на месте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Автомобильные переезды",
+        "text": "Линия 70,5 км от никарагуанской стороны границы до Эль-Остионаля через Сан-Хуан-дель-Сур и Эль-Коко. Это сумма участков на местных дорогах. Заезды на парковки, объезд заповедника и возврат рассчитываются отдельно.",
+        "sources": [
+          "ni-rivas-road-osm",
+          "frontier-ni-land-vehicle"
+        ]
+      },
+      {
+        "title": "Что подготовить к границе",
+        "text": "Сверьте требования к паспортам и разрешениям всех участников. Для своей машины уточните разрешение на выезд из Коста-Рики, страховку и оформление временного ввоза. Въезд и выезд проходят через официальный пункт.",
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-ni-land-vehicle",
+          "frontier-cr-vehicle-exit"
+        ]
+      },
+      {
+        "title": "Сезон и ночёвка",
+        "text": "Подтвердите палаточную площадку с рейнджерами и посещение в сезон гнездования. Если участок закрыт, оставьте прогулку у Эль-Коко и отдых в номере на согласованной базе. Пин Ла-Флор служит ориентиром заповедника.",
+        "sources": [
+          "ni-rivas-flor-intur",
+          "ni-rivas-flor-visitor",
+          "ni-rivas-coco-intur"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ла-Флор · режим заповедника",
+        "source": "ni-rivas-flor-intur",
+        "note": "Перед палаточной ночёвкой свяжитесь со службой заповедника и подтвердите допустимую площадку и точное время въезда."
+      },
+      {
+        "name": "Casa Oro · выезд к заповеднику",
+        "source": "ni-rivas-flor-tour",
+        "note": "WhatsApp +505 5758 7862. Уточните доступ в заповедник, минимальный набор, способ посадки и детский возраст."
+      }
+    ],
+    "nearby": [
+      "rivas-playa-el-coco-shore",
+      "rivas-la-flor-turtle-ranger-night",
+      "rivas-la-flor-permitted-tent",
+      "rivas-el-ostional-local-coast",
+      "sjds-nica-sail-playa-blanca"
+    ],
+    "connectStops": false,
+    "line": "rivas-border-coco-ostional-road",
+    "galleries": [
+      "ni-rivas-coco-intur",
+      "ni-rivas-flor-intur",
+      "ni-rivas-bay-photo"
+    ],
+    "videos": [
+      "ni-rivas-ostional-video"
+    ]
+  }
+}
