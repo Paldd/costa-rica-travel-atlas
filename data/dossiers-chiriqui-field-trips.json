@@ -1,0 +1,947 @@
+{
+  "cerro-punta-panama-verde-short": {
+    "stops": [
+      {
+        "point": "frontier-cerro-punta",
+        "role": "Серро-Пунта · населённый пункт",
+        "note": "Запас воды и уточнение текущих условий подъезда."
+      },
+      {
+        "point": "frontier-las-nubes",
+        "role": "Станция Las Nubes · вход и центр интерпретации",
+        "note": "Регистрацию и вход на размеченную петлю проверьте у рейнджеров."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Петля для семейного дня",
+        "text": "Государственный путеводитель указывает 600 м и примерно 30–60 минут. Это короткий лесной выход с указателями. При сырости учитывайте состояние настила и дорожек.",
+        "sources": [
+          "frontier-pa-tierras-altas",
+          "frontier-pa-short-hikes"
+        ]
+      },
+      {
+        "title": "Что нужно для подъезда",
+        "text": "У станции есть центр интерпретации. Спросите про время доступа, оформление и покрытие последнего участка дороги. Толстовка и дождевик пригодятся даже в сухой сезон.",
+        "sources": [
+          "chi-pila-reservas",
+          "chi-camara-tierras-guia"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MiAmbiente · вход в парк",
+        "source": "chi-pila-reservas",
+        "note": "Время работы и правила входа. Уточните, как работает именно вход Las Nubes."
+      }
+    ],
+    "nearby": [
+      "sabalito-tierras-altas-3",
+      "volcan-janson-coffee-farm",
+      "volcan-bambito-cerro-punta-road-ebike",
+      "mount-totumas-cloud-forest-4x4"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "frontier-pa-tierras-altas",
+      "chi-visit-tierras-altas",
+      "chi-camara-tierras-guia"
+    ]
+  },
+  "volcan-lagunas-wetland-walk-2-5": {
+    "stops": [
+      {
+        "point": "chi-janson-coffee-shop",
+        "role": "Волькан · ориентир кофейного района",
+        "note": "Уточните разрешённый вход и парковку на дату. Кофейня и охраняемый участок обслуживаются отдельно."
+      },
+      {
+        "point": "chi-laguna-volcan-area",
+        "role": "Лагунас-де-Волькан · водоём на карте",
+        "note": "Координата внутри западного водоёма. Точка не используется для въезда или спуска лодки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина и когда смотреть птиц",
+        "text": "По туристическому путеводителю маршрут составляет 2,5 км. Утренние часы подходят для наблюдения за птицами. Возьмите бинокль, воду и лёгкую защиту от сырости.",
+        "sources": [
+          "frontier-pa-tierras-altas",
+          "chi-camara-tierras-guia"
+        ]
+      },
+      {
+        "title": "Общественный проход",
+        "text": "Государственные материалы описывают охраняемую часть среди частных хозяйств. Выберите фактический вход, где разрешён проход. На берегу берегите травяные и лесные участки и проверяйте, где можно пройти после дождя.",
+        "sources": [
+          "chi-lagunas-miambiente",
+          "frontier-pa-tierras-altas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MiAmbiente · сведения о водно-болотном участке",
+        "source": "chi-lagunas-miambiente",
+        "note": "Для пешего визита уточняйте режим охраны и доступ к подходам."
+      },
+      {
+        "name": "Janson Coffee · экскурсии возле лагун",
+        "source": "chi-janson-visit",
+        "note": "Форма владельца для выбора программы, дат и языка экскурсии."
+      }
+    ],
+    "nearby": [
+      "volcan-janson-coffee-farm",
+      "volcan-janson-pedelec-12",
+      "cerro-punta-panama-verde-short"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "frontier-pa-tierras-altas",
+      "chi-camara-tierras-guia"
+    ]
+  },
+  "volcan-janson-coffee-farm": {
+    "stops": [
+      {
+        "point": "chi-janson-coffee-shop",
+        "role": "Janson Coffee Shop · адрес кофейни",
+        "note": "Точный сбор на экскурсию, дегустацию или прогулку указывают хозяева."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Варианты визита",
+        "text": "Есть ознакомление с обработкой кофе, отдельная программа с обжаркой, дегустация и комбинированная экскурсия. Кофейня предлагает кофе и отдельную покупку зёрен.",
+        "sources": [
+          "chi-janson-visit",
+          "chi-janson-circuito"
+        ]
+      },
+      {
+        "title": "Как спланировать полдня",
+        "text": "Выберите экскурсию по времени и языку или ограничьтесь кофе у дороги. Лагуны находятся рядом, для отдельной прогулки спрашивайте про открытый проход. Планируйте запас от кофейни к месту сбора.",
+        "sources": [
+          "chi-janson-visit",
+          "chi-lagunas-miambiente"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Janson Coffee · экскурсии возле лагун",
+        "source": "chi-janson-visit",
+        "note": "Форма владельца для выбора программы, дат и языка экскурсии."
+      }
+    ],
+    "nearby": [
+      "volcan-lagunas-wetland-walk-2-5",
+      "volcan-janson-pedelec-12",
+      "cerro-punta-panama-verde-short",
+      "sabalito-tierras-altas-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "chi-janson-visit",
+      "chi-janson-circuito"
+    ],
+    "videos": [
+      "chi-janson-film"
+    ]
+  },
+  "mount-totumas-cloud-forest-4x4": {
+    "stops": [
+      {
+        "point": "frontier-volcan-pa",
+        "role": "Волькан · запас топлива и начало дорожного подхода",
+        "note": "Выезд через Silla Pando описан в FAQ лоджа. Уточните место встречи трансфера."
+      },
+      {
+        "point": "chi-mount-totumas-lodge",
+        "role": "Mount Totumas · лесная база",
+        "note": "Координаты из туристического справочника. Навигацию по броду и последнему подъёму получает водитель у владельца."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Высокий 4×4 и пересечения воды",
+        "text": "Дорожный FAQ требует 4×4 с высоким клиренсом. После Силья-Пандо следуйте схеме хозяев, там есть пересечения ручьёв. Частный трансфер организуют по запросу. Спросите о состоянии подъезда в день выезда.",
+        "sources": [
+          "chi-totumas-directions",
+          "chi-totumas-pin",
+          "chi-totumas-reservations"
+        ]
+      },
+      {
+        "title": "Облачный лес и отдельные прогулки",
+        "text": "Хозяева указывают девять троп и сеть больше 30 км. Одни проходят самостоятельно по карте, для других можно заказать местного гида. Есть отдельный выход к Los Pozos. Для однодневного визита и состояния источников получите подтверждение от лоджа.",
+        "sources": [
+          "chi-totumas-experiences",
+          "frontier-pa-tierras-altas"
+        ]
+      },
+      {
+        "title": "Ночёвка, экипировка и питание",
+        "text": "На высоте около 1 900 м утро прохладное. Возьмите сухой утепляющий слой, дождевик, крепкую обувь и воду. Питание в лодже организуется по расписанию, аллергии и детские порции согласуйте заранее.",
+        "sources": [
+          "chi-totumas-directions",
+          "chi-totumas-experiences",
+          "chi-totumas-local-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Mount Totumas · трансфер, ночь и гид",
+        "source": "chi-totumas-reservations",
+        "note": "WhatsApp +507 6963-5069. Нужны подтверждение подъезда, выбор тропы и возможность посещения источников."
+      }
+    ],
+    "nearby": [
+      "volcan-janson-coffee-farm",
+      "cerro-punta-panama-verde-short",
+      "sabalito-tierras-altas-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "chi-totumas-experiences",
+      "chi-totumas-local-report"
+    ],
+    "videos": [
+      "chi-totumas-video"
+    ]
+  },
+  "boquete-pipeline-trail-6": {
+    "stops": [
+      {
+        "point": "chi-pipeline-trailhead",
+        "role": "Бахо-Моно · сворот с общественной дороги",
+        "note": "Для такси назовите Pipeline или Sendero Pipa de Agua."
+      },
+      {
+        "point": "chi-pipeline-registration",
+        "role": "Участок фермы · вход и регистрация",
+        "note": "Ориентир частной регистрации из полевой карты."
+      },
+      {
+        "point": "chi-pipeline-elm",
+        "role": "Лесной ориентир · большое дерево",
+        "note": "Здесь можно закончить короткую прогулку до камней под водопадом."
+      },
+      {
+        "point": "chi-pipeline-fall",
+        "role": "Водопад · конец долины",
+        "note": "Ориентир у скал. При высокой воде не выходите за разрешённый участок."
+      }
+    ],
+    "sections": [
+      {
+        "title": "6 км с возможностью сократить",
+        "text": "По полевому отчёту почти 3 км в одну сторону, около 2,5 часа целиком. Набор плавный. На камнях к водопаду нужен запас времени. Обычно проще закончить у дерева.",
+        "sources": [
+          "chi-boquete-pipeline-report",
+          "chi-boquete-pipeline-map"
+        ]
+      },
+      {
+        "title": "Проезд без машины",
+        "text": "Путеводители указывают коллективный транспорт от центра Бокете до Бахо-Моно. На обратный путь спросите об остановке и времени последней машины. Оплата частного входа и наличие места для машины уточняются.",
+        "sources": [
+          "chi-boquete-bajomono-guide",
+          "chi-boquete-bajomono-bus-map"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Нескользкая обувь, вода, наличные и дождевик. Полевой источник показывает мостики и место с переходом по трубам. Повышение уровня ручья — причина закончить прогулку до этого места.",
+        "sources": [
+          "chi-boquete-pipeline-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Бахо-Моно · подъезд и вход",
+        "source": "chi-boquete-bajomono-guide",
+        "note": "По прибытии уточните цену и состояние переходов у смотрителя на ферме."
+      }
+    ],
+    "nearby": [
+      "boquete-bajo-mono-tres-cascadas-3-2",
+      "boquete-finca-lerida-cloud-trails",
+      "boquete-palo-alto-ebike-road"
+    ],
+    "connectStops": false,
+    "track": "chi-boquete-pipeline-map",
+    "photos": [
+      "pa-boquete-valley-archive"
+    ],
+    "galleries": [
+      "chi-boquete-pipeline-report"
+    ]
+  },
+  "boquete-bajo-mono-tres-cascadas-3-2": {
+    "stops": [
+      {
+        "point": "chi-tres-road-entry",
+        "role": "Tres Cascadas · начало от дороги",
+        "note": "На такси просите подвезти к входу Las Tres Cascadas Perdidas."
+      },
+      {
+        "point": "chi-tres-ticket-booth",
+        "role": "Подъём за мостом · входная касса",
+        "note": "Регистрация перед дальнейшей прогулкой."
+      },
+      {
+        "point": "chi-tres-middle-fall",
+        "role": "Средний водопад · логичный разворот",
+        "note": "После дождя следующий отрезок может стать труднее."
+      },
+      {
+        "point": "chi-tres-upper-fall",
+        "role": "Верхний водопад · дальняя точка",
+        "note": "Подход с корнями и скользкими камнями. Следуйте текущим указаниям смотрителя."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Километраж и план",
+        "text": "Полевой трек 3,24 км. Местный материал описывает примерно 3,4 км и 2–3 часа. Расхождение связано с вариантами остановок и разворота. Карточка ссылается на исходную карту автора.",
+        "sources": [
+          "chi-boquete-waterfalls-track",
+          "chi-boquete-waterfalls-local",
+          "chi-boquete-waterfalls-map"
+        ]
+      },
+      {
+        "title": "Переходы и экипировка",
+        "text": "Скользкий подвесной мост, лесной грунт и крутые участки с корнями. Возьмите обувь с цепкой подошвой, воду и непромокаемый чехол. При дожде или слабой подготовке ограничьтесь первыми ответвлениями.",
+        "sources": [
+          "chi-boquete-waterfalls-report",
+          "chi-boquete-waterfalls-track"
+        ]
+      },
+      {
+        "title": "Подъезд и цена",
+        "text": "Публикации упоминают местный транспорт из Бокете и вход за наличные. Прибытие с утра удобнее для возврата и подбора. Цены и часы проверяйте на кассе.",
+        "sources": [
+          "chi-boquete-bajomono-guide",
+          "chi-boquete-waterfalls-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Бахо-Моно · касса Tres Cascadas",
+        "source": "chi-boquete-bajomono-guide",
+        "note": "Условия входа узнайте у смотрителя возле мостика или через местного гида."
+      }
+    ],
+    "nearby": [
+      "boquete-pipeline-trail-6",
+      "boquete-finca-lerida-cloud-trails",
+      "paso-canoas-boquete-ebike-no-car-4"
+    ],
+    "connectStops": false,
+    "track": "chi-boquete-waterfalls-track",
+    "galleries": [
+      "chi-boquete-waterfalls-track",
+      "chi-boquete-waterfalls-report"
+    ],
+    "videos": [
+      "chi-boquete-waterfalls-video"
+    ]
+  },
+  "volcan-janson-pedelec-12": {
+    "stops": [
+      {
+        "point": "frontier-volcan-pa",
+        "role": "Волькан · старт и разворот по возвращении",
+        "note": "Начало велолинии в центре. Выберите светлое время с меньшим потоком."
+      },
+      {
+        "point": "chi-sencijo-corazon",
+        "role": "Corazón del Cielo · ориентир вдоль дороги",
+        "note": "Зона будущей выдачи Sencijo, условия работы подтверждают владельцы."
+      },
+      {
+        "point": "chi-janson-coffee-shop",
+        "role": "Janson · кофейня и точка разворота",
+        "note": "Согласуйте стоянку велосипеда и время визита в кофейню."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут на своём велосипеде",
+        "text": "Велолиния 12,0 км в обе стороны по Ruta 414 и местным улицам. Перед длинным участком с машинами проверьте видимость и разметку. Возьмите свет, шлем, воду и базовый ремнабор.",
+        "sources": [
+          "chi-road-osm-geography",
+          "chi-pa-road-cycling-rules"
+        ]
+      },
+      {
+        "title": "Выдача и остановка",
+        "text": "Sencijo публикует планы по MTB и страницу со статусом Próximamente, поэтому положитесь на свой подходящий e-bike или живое подтверждение выдачи. На Janson можно отдельно забронировать кофейную экскурсию.",
+        "sources": [
+          "chi-sencijo-rent",
+          "chi-sencijo-contact",
+          "chi-janson-visit"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Janson Coffee · экскурсии возле лагун",
+        "source": "chi-janson-visit",
+        "note": "Форма владельца для выбора программы, дат и языка экскурсии."
+      },
+      {
+        "name": "Sencijo · связь с местной командой",
+        "source": "chi-sencijo-contact",
+        "note": "WhatsApp +507 6534-1977. Спросите, началась ли выдача и какой велосипед есть на нужную дату."
+      }
+    ],
+    "nearby": [
+      "volcan-janson-coffee-farm",
+      "volcan-lagunas-wetland-walk-2-5",
+      "volcan-bambito-cerro-punta-road-ebike"
+    ],
+    "connectStops": false,
+    "line": "chi-volcan-janson-road-loop",
+    "galleries": [
+      "chi-janson-visit",
+      "chi-visit-tierras-altas"
+    ]
+  },
+  "volcan-bambito-cerro-punta-road-ebike": {
+    "stops": [
+      {
+        "point": "frontier-volcan-pa",
+        "role": "Волькан · старт к Бамбито",
+        "note": "Заполните бутылки и проверьте задний свет."
+      },
+      {
+        "point": "chi-bambito-at-418",
+        "role": "Бамбито · дорожный ориентир",
+        "note": "Короткая остановка в посёлке. Возможен ранний финиш с заранее согласованным подбором."
+      },
+      {
+        "point": "frontier-cerro-punta",
+        "role": "Серро-Пунта · финиш у центра",
+        "note": "Последний участок по дороге в посёлок. Решите заранее, возвращаться с водителем или ехать обратно."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Один горный проезд",
+        "text": "Расчётная велолиния 14,3 км в одну сторону по Ruta 418. От Волькана дорога идёт вверх через Бамбито. Продолжить в сторону Las Nubes можно другим этапом после проверки погоды и времени.",
+        "sources": [
+          "chi-road-osm-geography",
+          "chi-sencijo-bambito-map",
+          "chi-camara-tierras-guia"
+        ]
+      },
+      {
+        "title": "Покрытие и подготовка",
+        "text": "Велодорожка на этом участке не подтверждена. Берите яркий верх, свет, воду и ветровку. На подъёме держите запас батареи, а на спуске проверьте тормоза. Для семей с детьми используйте короткую прогулку в Las Nubes.",
+        "sources": [
+          "chi-pa-road-cycling-rules",
+          "frontier-pa-tierras-altas",
+          "chi-road-osm-geography"
+        ]
+      },
+      {
+        "title": "Опубликованная программа по бездорожью",
+        "text": "Sencijo показывает отдельно 28 км по высокогорью Серро-Пунты. На странице выдачи пока указано «скоро», так что условия и даты этой программы нужно подтвердить перед бронированием.",
+        "sources": [
+          "chi-sencijo-rent",
+          "chi-sencijo-cerro-punta"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sencijo · связь с местной командой",
+        "source": "chi-sencijo-contact",
+        "note": "WhatsApp +507 6534-1977. Спросите, началась ли выдача и какой велосипед есть на нужную дату."
+      }
+    ],
+    "nearby": [
+      "volcan-janson-pedelec-12",
+      "cerro-punta-panama-verde-short",
+      "volcan-janson-coffee-farm",
+      "sabalito-tierras-altas-3"
+    ],
+    "connectStops": false,
+    "line": "chi-volcan-cerro-route418-bike",
+    "galleries": [
+      "chi-visit-tierras-altas",
+      "chi-sencijo-cerro-punta"
+    ]
+  },
+  "las-lajas-pachamama-eco-camp": {
+    "stops": [
+      {
+        "point": "chi-lajas-public-road-end",
+        "role": "Пляжный район Лас-Лахас · конец публичной дороги",
+        "note": "Это ориентир для въезда. Пин кемпинга и место встречи предоставляют хозяева."
+      },
+      {
+        "point": "chi-lajas-road-orientation",
+        "role": "Лас-Лахас · ориентир у Las Lajas Beach Resort",
+        "note": "Другая площадка. Здесь есть картографический ориентир для уточнения точки выезда в центральном секторе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Место для палатки",
+        "text": "У хозяев опубликован формат Eco Camping. Позвоните для подтверждения площадки, тени, душа, питьевой воды, цены, подключения к электричеству и парковки. Для ночёвки на крыше отдельно проверьте возможность подвести машину к месту.",
+        "sources": [
+          "chi-lajas-pachamama",
+          "chi-lajas-pachamama-contact"
+        ]
+      },
+      {
+        "title": "На море и на мангровой воде",
+        "text": "У берега есть активные волны и течения. Местные различают пляжный день и каяк в манграх, для которых выбирают разное время. Спросите у гида про приливы и выезд с детьми.",
+        "sources": [
+          "chi-barqueta-coast-local",
+          "chi-lajas-wetland-arap",
+          "chi-lajas-pachamama"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pachamama Eco Camp · две линии связи",
+        "source": "chi-lajas-pachamama-contact",
+        "note": "WhatsApp +507 6431-2997 на испанском, +507 6434-3698 на английском. Запросите пин или время встречи."
+      }
+    ],
+    "nearby": [
+      "las-lajas-pachamama-mangrove-kayak",
+      "las-lajas-pachamama-surf-lesson",
+      "la-barqueta-el-jobo-boardwalk-720",
+      "paso-canoas-barqueta-las-lajas-camp-4"
+    ],
+    "connectStops": false,
+    "photos": [
+      "pa-las-lajas-beach-commons"
+    ],
+    "galleries": [
+      "chi-lajas-pachamama",
+      "chi-barqueta-coast-local"
+    ],
+    "videos": [
+      "chi-lajas-beach-film"
+    ]
+  },
+  "las-lajas-pachamama-mangrove-kayak": {
+    "stops": [
+      {
+        "point": "chi-lajas-public-road-end",
+        "role": "Пляжный район Лас-Лахас · конец публичной дороги",
+        "note": "Это ориентир для въезда. Пин кемпинга и место встречи предоставляют хозяева."
+      },
+      {
+        "point": "chi-lajas-road-orientation",
+        "role": "Лас-Лахас · ориентир у Las Lajas Beach Resort",
+        "note": "Другая площадка. Здесь есть картографический ориентир для уточнения точки выезда в центральном секторе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Водоём и прилив",
+        "text": "Команда показывает каяки на узком мангровом проходе. ARAP описывает местные приливные участки и природную роль мангров. Время определяется уровнем воды и конкретной точкой спуска.",
+        "sources": [
+          "chi-lajas-pachamama",
+          "chi-lajas-wetland-arap"
+        ]
+      },
+      {
+        "title": "Ваша лодка, одежда и состав группы",
+        "text": "Запросите время на воде, подтверждение берега для собственной лодки и тип маршрута. При аренде уточните жилеты, весло и доступность тандемного каяка. Возьмите гермомешок, воду и защиту от солнца. Выход в океан отдельно обсуждается с проводником.",
+        "sources": [
+          "chi-lajas-pachamama",
+          "chi-lajas-pachamama-contact",
+          "chi-barqueta-coast-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pachamama Eco Camp · две линии связи",
+        "source": "chi-lajas-pachamama-contact",
+        "note": "WhatsApp +507 6431-2997 на испанском, +507 6434-3698 на английском. Запросите пин или время встречи."
+      }
+    ],
+    "nearby": [
+      "las-lajas-pachamama-eco-camp",
+      "las-lajas-pachamama-surf-lesson",
+      "paso-canoas-barqueta-las-lajas-camp-4"
+    ],
+    "connectStops": false,
+    "photos": [
+      "pa-las-lajas-beach-commons"
+    ],
+    "galleries": [
+      "chi-lajas-pachamama",
+      "chi-barqueta-coast-local"
+    ]
+  },
+  "las-lajas-pachamama-surf-lesson": {
+    "stops": [
+      {
+        "point": "chi-lajas-public-road-end",
+        "role": "Пляжный район Лас-Лахас · конец публичной дороги",
+        "note": "Это ориентир для въезда. Пин кемпинга и место встречи предоставляют хозяева."
+      },
+      {
+        "point": "chi-lajas-road-orientation",
+        "role": "Лас-Лахас · ориентир у Las Lajas Beach Resort",
+        "note": "Другая площадка. Здесь есть картографический ориентир для уточнения точки выезда в центральном секторе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Индивидуальный урок или группа",
+        "text": "Команда публикует частные и малые группы. Узнайте длительность занятия, включение мягкой доски, лиша и инструктора, а также ограничения по возрасту и уровню.",
+        "sources": [
+          "chi-lajas-pachamama",
+          "chi-lajas-pachamama-contact"
+        ]
+      },
+      {
+        "title": "Выбор участка на открытом берегу",
+        "text": "Волна и течение меняются. Перед уроком спросите, где будет безопасный выход под ваш уровень, что делать при отмене и можно ли переместиться в более спокойный сектор. Открытая береговая полоса и мангры требуют разной подготовки.",
+        "sources": [
+          "chi-barqueta-coast-local",
+          "chi-lajas-waves-operator"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pachamama Eco Camp · две линии связи",
+        "source": "chi-lajas-pachamama-contact",
+        "note": "WhatsApp +507 6431-2997 на испанском, +507 6434-3698 на английском. Запросите пин или время встречи."
+      }
+    ],
+    "nearby": [
+      "las-lajas-pachamama-eco-camp",
+      "las-lajas-pachamama-mangrove-kayak",
+      "paso-canoas-barqueta-las-lajas-camp-4"
+    ],
+    "connectStops": false,
+    "photos": [
+      "pa-las-lajas-beach-commons"
+    ],
+    "galleries": [
+      "chi-lajas-pachamama",
+      "chi-barqueta-coast-local"
+    ],
+    "videos": [
+      "chi-lajas-beach-film"
+    ]
+  },
+  "la-barqueta-el-jobo-boardwalk-720": {
+    "stops": [
+      {
+        "point": "chi-barqueta-coast-reference",
+        "role": "Ла-Баркета · подъезд к береговому району",
+        "note": "Ориентир Las Olas на публичной дороге. Получите отдельный пин начала тропы у рейнджера."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий лесной выход",
+        "text": "MiAmbiente указывает тропу 720 м с 28 информационными знаками и растущими рядом манграми. Для прогулки с детьми удобно оставить около часа свободного времени.",
+        "sources": [
+          "chi-barqueta-el-jobo-official",
+          "chi-barqueta-jobo-hours"
+        ]
+      },
+      {
+        "title": "Посещение и черепахи",
+        "text": "Источник указывает время присутствия рейнджеров 08:00–16:00. Уточните проводника, входную плату и ограничения заповедника на день визита. Наблюдение за черепахами зависит от сезона и указаний персонала.",
+        "sources": [
+          "chi-barqueta-jobo-hours",
+          "chi-barqueta-coast-local"
+        ]
+      },
+      {
+        "title": "Снаряжение и берег",
+        "text": "Возьмите закрытую обувь, воду и репеллент. На широком открытом берегу сильные течения, прогулку планируйте с суши и уточняйте условия для любого выхода в воду.",
+        "sources": [
+          "chi-barqueta-coast-local",
+          "chi-barqueta-el-jobo-official"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MiAmbiente · рейнджеры Ла-Баркеты",
+        "source": "chi-barqueta-jobo-hours",
+        "note": "Сверьте вход на El Jobo, формат посещения и доступность при осадках."
+      }
+    ],
+    "nearby": [
+      "las-lajas-pachamama-eco-camp",
+      "las-lajas-pachamama-mangrove-kayak",
+      "paso-canoas-barqueta-las-lajas-camp-4"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "chi-barqueta-el-jobo-official",
+      "chi-barqueta-coast-local"
+    ]
+  },
+  "boca-chica-parida-full-day-fishing": {
+    "stops": [
+      {
+        "point": "pa-boca-chica-public-pier",
+        "role": "Бока-Чика · возможный общественный причал",
+        "note": "Точное место посадки капитан назначает накануне."
+      },
+      {
+        "point": "chi-boca-parida-lodge-point",
+        "role": "Исла-Парида · база оператора",
+        "note": "Ориентир лоджа. Рыболовные точки определяются маршрутом судна и разрешённой акваторией."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Рейс и включения",
+        "text": "По карточке оператора сбор около 07:00 и окончание 16:30–17:00. В заявленный комплект входят капитан, помощник, снасти, наживка и дневное питание. Запросите таблицу цены, налогов, топлива и условий отмены.",
+        "sources": [
+          "chi-boca-parida-day-fishing"
+        ]
+      },
+      {
+        "title": "Рыбалка и охраняемые зоны",
+        "text": "Запросите у оператора действующие на дату разрешения капитана и судна, согласованный район лова и правила выпуска видов. В декрете № 9 от 10 июня 2026 года пассажиров авторизованного туристического чартера охватывает удостоверение капитана по ст. 7. Ст. 40 устанавливает вступление через шесть месяцев после публикации, то есть в декабре 2026 года. Для поездок на переходе между режимами условия сверяйте у ARAP. Для охраняемых зон действуют собственные ограничения парка.",
+        "sources": [
+          "chi-boca-parida-field-park",
+          "chi-sport-fishing-arap-9",
+          "chi-sport-fishing-arap-10",
+          "chi-arap-sport-fishing-decree-text"
+        ]
+      },
+      {
+        "title": "Что взять на моторную лодку",
+        "text": "Длинный рейс требует питья, одежды от солнца и гермоупаковки. Вес, размер спасжилета, способ посадки и возможность более спокойного прибрежного формата согласуйте при бронировании.",
+        "sources": [
+          "chi-boca-parida-day-fishing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sport Fish Panama Island Lodge · капитан и чартер",
+        "source": "chi-boca-parida-day-fishing",
+        "note": "Публичная линия +507 6675-7191. Запросите список включений, район и разрешения до оплаты."
+      }
+    ],
+    "nearby": [
+      "boca-brava-cabins-forest",
+      "boca-chica-gamez-bolanos-boat",
+      "boca-chica-bocas-del-mar-atv-3h"
+    ],
+    "connectStops": false,
+    "photos": [
+      "pa-boca-brava-cristina-commons"
+    ],
+    "galleries": [
+      "chi-boca-parida-day-fishing",
+      "chi-boca-parida-field-park"
+    ]
+  },
+  "boca-chica-bocas-del-mar-atv-3h": {
+    "stops": [
+      {
+        "point": "chi-boca-bocas-del-mar-area",
+        "role": "Отель Bocas del Mar · район старта",
+        "note": "Уточните место оформления на ресепшене и доступ из посёлка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Продолжительность и цены",
+        "text": "Оператор публикует около трёх часов по местным веткам, старт в 09:00 или 15:00 и ориентир $90 за ATV плюс налог. Тариф, сезон и наличие требуют подтверждения.",
+        "sources": [
+          "chi-boca-bocas-mar-atv"
+        ]
+      },
+      {
+        "title": "Водитель и экипировка",
+        "text": "Указаны водительские права и шлем. Уточните возраст пассажира, допустимый вес и формат посадки. Береговую остановку оставляйте на усмотрение проводника, особенно после сильного дождя.",
+        "sources": [
+          "chi-boca-bocas-mar-atv",
+          "chi-boca-chiriqui-suggested"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bocas del Mar · ATV и время поездки",
+        "source": "chi-boca-bocas-mar-atv",
+        "note": "info@bocasdelmar.com. Запросите разрешённый маршрут и условия для второго участника."
+      }
+    ],
+    "nearby": [
+      "boca-brava-cabins-forest",
+      "boca-chica-gamez-bolanos-boat",
+      "boca-chica-parida-full-day-fishing"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "chi-boca-bocas-mar-atv",
+      "chi-boca-bocas-mar-arrival"
+    ]
+  },
+  "isla-palenque-forest-kayak-lodge": {
+    "stops": [
+      {
+        "point": "pa-boca-chica-public-pier",
+        "role": "Бока-Чика · район материковой встречи",
+        "note": "Точный причал и время даёт гостиница после подтверждения."
+      },
+      {
+        "point": "chi-isla-palenque-reference",
+        "role": "Исла-Паленке · ориентир острова",
+        "note": "Это географический центр. Схему троп, лодочный подход и хранение снаряжения даёт гостиница."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Каяк, SUP и тропы",
+        "text": "Гостиница описывает включённые прогулки с местным гидом и возможность взять каяк и SUP у берега. Уточняйте время прилива, точку спуска, жилет и сценарий при волне.",
+        "sources": [
+          "chi-isla-palenque-guest",
+          "chi-boca-parida-field-park"
+        ]
+      },
+      {
+        "title": "Подвоз и условия ночёвки",
+        "text": "В описанных пакетах есть питание и лодка из Бока-Чики. Спросите про минимальное количество ночей, способы посадки, детские размеры жилетов и вариант для тех, кто не остаётся на острове.",
+        "sources": [
+          "chi-isla-palenque-guest",
+          "chi-boca-chiriqui-suggested"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Isla Palenque · бронирование и поездка",
+        "source": "chi-isla-palenque-guest",
+        "note": "Форма размещения и подтверждение лодочного трансфера."
+      }
+    ],
+    "nearby": [
+      "boca-brava-cabins-forest",
+      "boca-chica-gamez-bolanos-boat",
+      "paso-canoas-boca-chica-family-4"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "chi-isla-palenque-guest",
+      "chi-boca-chiriqui-suggested"
+    ],
+    "videos": [
+      "chi-isla-palenque-video"
+    ]
+  },
+  "paso-canoas-barqueta-las-lajas-camp-4": {
+    "stops": [
+      {
+        "point": "frontier-paso-canoas-cci",
+        "role": "Коста-Рика · интегрированный контроль",
+        "note": "Перед границей проверьте инструкции для водителя и пассажиров."
+      },
+      {
+        "point": "frontier-paso-canoas-pa",
+        "role": "Панама · начало расчётной дорожной линии",
+        "note": "Адрес окна для вашей категории транспорта сверяйте с таможней."
+      },
+      {
+        "point": "chi-barqueta-coast-reference",
+        "role": "Ла-Баркета · береговой ориентир",
+        "note": "Пин начала El Jobo сообщит служба заповедника."
+      },
+      {
+        "point": "chi-lajas-public-road-end",
+        "role": "Пляжный район Лас-Лахас · конец публичной дороги",
+        "note": "Это ориентир для въезда. Пин кемпинга и место встречи предоставляют хозяева."
+      },
+      {
+        "point": "chi-lajas-road-orientation",
+        "role": "Лас-Лахас · ориентир у Las Lajas Beach Resort",
+        "note": "Другая площадка. Здесь есть картографический ориентир для уточнения точки выезда в центральном секторе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога, граница и два времени",
+        "text": "57,3 км от района панамского пункта Пасо-Каноас до Ла-Баркеты и 113,3 км до публичного подъезда в Лас-Лахас. В Панаме на час позже. Для проезда оформите обе стороны границы и выясните у таможни правила на конкретную машину.",
+        "sources": [
+          "chi-road-osm-geography",
+          "pa-cci-paso-canoas-brief",
+          "frontier-pa-vehicle-control"
+        ]
+      },
+      {
+        "title": "День El Jobo и ночёвка",
+        "text": "У ведомства опубликована короткая тропа с манграми. Подтвердите вход у рейнджера, затем переезжайте в лагерь на побережье. Покрытие последней части проезда и место для палатки подтверждают хозяева.",
+        "sources": [
+          "chi-barqueta-jobo-hours",
+          "chi-lajas-pachamama-contact",
+          "chi-barqueta-coast-local"
+        ]
+      },
+      {
+        "title": "План для семьи и вариант по погоде",
+        "text": "На водный день выберите мангровый каяк или урок на открытом пляже. И для детей, и для взрослых условия определяют прилив, ветер, опыт и подходящие жилеты. Оставьте время на замену занятия прогулкой по берегу.",
+        "sources": [
+          "chi-lajas-pachamama",
+          "chi-lajas-wetland-arap",
+          "chi-barqueta-coast-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MiAmbiente · рейнджеры Ла-Баркеты",
+        "source": "chi-barqueta-jobo-hours",
+        "note": "Сверьте вход на El Jobo, формат посещения и доступность при осадках."
+      },
+      {
+        "name": "Pachamama Eco Camp · две линии связи",
+        "source": "chi-lajas-pachamama-contact",
+        "note": "WhatsApp +507 6431-2997 на испанском, +507 6434-3698 на английском. Запросите пин или время встречи."
+      }
+    ],
+    "nearby": [
+      "la-barqueta-el-jobo-boardwalk-720",
+      "las-lajas-pachamama-eco-camp",
+      "las-lajas-pachamama-mangrove-kayak",
+      "las-lajas-pachamama-surf-lesson",
+      "paso-canoas-boca-chica-family-4"
+    ],
+    "connectStops": false,
+    "line": "chi-paso-barqueta-lajas-road",
+    "photos": [
+      "pa-las-lajas-beach-commons"
+    ],
+    "galleries": [
+      "chi-lajas-pachamama",
+      "chi-barqueta-coast-local",
+      "chi-barqueta-el-jobo-official"
+    ],
+    "videos": [
+      "chi-lajas-beach-film"
+    ]
+  }
+}

@@ -628,5 +628,23 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:OmetepeView_04.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "pa-las-lajas-beach-commons": {
+    "file": "pa-las-lajas-beach-commons.jpg",
+    "alt": "Плайя-Лас-Лахас в Чирики во время отлива",
+    "caption": "Плайя-Лас-Лахас, Чирики · архивное фото, уменьшенная копия",
+    "author": "Ayaita",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Playas_Las_Lajas_Chiriqui.jpg"
+  },
+  "pa-boca-brava-cristina-commons": {
+    "file": "pa-boca-brava-cristina-commons.jpg",
+    "alt": "Плайя-Кристина на острове Бока-Брава, Чирики",
+    "caption": "Плайя-Кристина, Исла-Бока-Брава · архивное фото, уменьшенная копия",
+    "author": "Mónica Mora",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Boca_Chica_Chiriqu%C3%AD_-_18109970011.jpg"
   }
 }

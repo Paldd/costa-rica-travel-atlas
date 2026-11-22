@@ -1,0 +1,106 @@
+[
+  {
+    "id": "paso-canoas-barqueta-las-lajas-camp-4",
+    "kind": "trip",
+    "region": "south",
+    "regions": [
+      "chiriqui-coast"
+    ],
+    "countries": [
+      "cr",
+      "pa"
+    ],
+    "title": "Пасо-Каноас — Ла-Баркета — Лас-Лахас · четыре дня с палаткой и манграми",
+    "native": "Paso Canoas · Alanje · Sendero El Jobo · Playa Las Lajas · Pachamama Eco Camp",
+    "level": "moderate",
+    "days": 4,
+    "distance": null,
+    "activities": [
+      "border",
+      "car",
+      "camping",
+      "kayak",
+      "surf",
+      "school",
+      "hiking",
+      "beach",
+      "forest",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "frontier-pa-tourist-faq",
+      "frontier-pa-vehicle-control",
+      "pa-cci-paso-canoas-brief",
+      "chi-barqueta-el-jobo-official",
+      "chi-lajas-pachamama",
+      "chi-road-osm-geography"
+    ],
+    "summary": "Поездка из Коста-Рики через Пасо-Каноас на тихоокеанский берег Чирики. Одна короткая лесная тропа, две ночи у Лас-Лахас и выбор между мангровым каяком и уроком сёрфинга.",
+    "plan": "Заложите на панамской стороне около 57 км от Пасо-Каноас до района Ла-Баркеты, ещё около 113 км от берега до Лас-Лахас. Согласуйте палаточную площадку и слот на воду заранее.",
+    "conditions": "На границе проверяются требования к каждому участнику и временный ввоз машины. Из Коста-Рики в Панаме сдвиг времени на час вперёд. Прилив, ветер, адрес кемпинга и вариант для крышной палатки подтверждайте отдельно.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пасо-Каноас и берег Аланхе",
+        "note": "Оформление на обеих сторонах и около 57 км по панамской стороне к району Ла-Баркеты. Если прибытие позднее, перенесите тропу на утро.",
+        "stops": [],
+        "sources": [
+          "pa-cci-paso-canoas-brief",
+          "frontier-pa-tourist-faq",
+          "chi-road-osm-geography"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Мангры El Jobo, затем Лас-Лахас",
+        "note": "Пройдите 720 м в дневное время и переезжайте к месту ночёвки. Вечером договоритесь о точке сбора на воде.",
+        "stops": [
+          "la-barqueta-el-jobo-boardwalk-720",
+          "las-lajas-pachamama-eco-camp"
+        ],
+        "sources": [
+          "chi-barqueta-jobo-hours",
+          "chi-lajas-pachamama-contact"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Каяк по манграм или урок сёрфинга",
+        "note": "Каяк планируйте на подходящий прилив, а сёрф — по условиям инструктора и волны. Смену формата оставьте на день выезда.",
+        "stops": [
+          "las-lajas-pachamama-mangrove-kayak",
+          "las-lajas-pachamama-surf-lesson"
+        ],
+        "sources": [
+          "chi-lajas-pachamama",
+          "chi-barqueta-coast-local"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Возврат по межамериканской дороге",
+        "note": "Заложите время на дорожные работы и обе стороны границы. Для ввезённой машины закройте разрешение в порядке, который укажет таможня.",
+        "stops": [],
+        "sources": [
+          "frontier-pa-vehicle-control",
+          "frontier-pa-tourist-faq"
+        ]
+      }
+    ]
+  }
+]

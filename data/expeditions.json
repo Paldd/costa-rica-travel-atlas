@@ -8180,7 +8180,10 @@
       "frontier-cr-pa-agreement",
       "frontier-sabalito-service-notice",
       "frontier-pa-tierras-altas",
-      "frontier-pa-short-hikes"
+      "frontier-pa-short-hikes",
+      "chi-pila-reservas",
+      "chi-janson-visit",
+      "chi-road-osm-geography"
     ],
     "summary": "Небольшой пограничный пункт в высокогорье Кото-Брус. Две ночи в районе Волькана или Серро-Пунты и короткая тропа в парке Ла-Амистад.",
     "plan": "Выехать из Сан-Вито утром, оформить проезд через Сан-Маркос-де-Сабалито и Рио-Серено, доехать до Волькана. Второй день отведите на Серро-Пунту, ферму и петлю Panamá Verde.",
@@ -8204,20 +8207,26 @@
         "note": "Выберите прогулку Panamá Verde в парке Ла-Амистад. Официальный путеводитель указывает около 0,6 км и 30–60 минут. Уточните допуск и режим станции.",
         "sources": [
           "frontier-pa-tierras-altas",
-          "frontier-pa-short-hikes"
+          "frontier-pa-short-hikes",
+          "chi-pila-reservas"
         ],
-        "stops": []
+        "stops": [
+          "cerro-punta-panama-verde-short"
+        ]
       },
       {
         "day": 3,
         "title": "Кофе, утренний выезд и обратный контроль",
-        "note": "Выберите короткую остановку у Волькана и оставьте запас до окончания оформления. Для сопровождаемого трансфера заказ согласуйте с обеих сторон.",
+        "note": "Оставьте время на кофе или короткую экскурсию Janson и обратный переход. Для полного кофейного тура заранее подтвердите длительность и время выезда.",
         "sources": [
           "frontier-sabalito-service-notice",
           "frontier-pa-vehicle-control",
-          "frontier-cr-pa-agreement"
+          "frontier-cr-pa-agreement",
+          "chi-janson-visit"
         ],
-        "stops": []
+        "stops": [
+          "volcan-janson-coffee-farm"
+        ]
       }
     ],
     "countries": [

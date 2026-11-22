@@ -267,6 +267,14 @@
           "frontier-cr-pa-agreement",
           "frontier-pa-border-list-2026"
         ]
+      },
+      {
+        "title": "Дорога и варианты для утра",
+        "text": "По панамской стороне дорожная линия от Рио-Серено до Las Nubes через Волькан и Серро-Пунту составляет 59,9 км. Пограничный контроль, подход с коста-риканской стороны и заезд к частным лоджам планируйте отдельно.",
+        "sources": [
+          "chi-road-osm-geography",
+          "frontier-pa-tierras-altas"
+        ]
       }
     ],
     "contacts": [
@@ -281,9 +289,14 @@
       "frontier-pa-tierras-altas"
     ],
     "nearby": [
-      "paso-canoas-boquete-coffee-4"
+      "paso-canoas-boquete-coffee-4",
+      "cerro-punta-panama-verde-short",
+      "volcan-janson-coffee-farm",
+      "volcan-lagunas-wetland-walk-2-5",
+      "mount-totumas-cloud-forest-4x4"
     ],
-    "connectStops": false
+    "connectStops": false,
+    "line": "chi-sereno-cerro-nubes-road"
   },
   "penas-blancas-san-juan-surf-3": {
     "stops": [

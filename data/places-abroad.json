@@ -630,5 +630,659 @@
     "plan": "Свяжитесь с кооперативом до парома. Получите адрес дома, место встречи и номер хозяев. Спросите, включён ли завтрак, где выдают велосипеды, подходят ли комнаты по возрасту детей и можно ли взять подвоз из порта.",
     "conditions": "У принимающих домов разные комнаты и условия. Сверьте вентилятор, москитную сетку, питание, санузел и доступность для багажа. На карте показан район Ла-Палома.",
     "distance": null
+  },
+  {
+    "id": "cerro-punta-panama-verde-short",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "title": "Лас-Нубес · 600 м по тропе Panamá Verde",
+    "native": "Parque Internacional La Amistad · sector Las Nubes · Sendero Panamá Verde",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "forest",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "frontier-pa-tierras-altas",
+      "frontier-pa-short-hikes",
+      "chi-pila-reservas",
+      "frontier-las-nubes-osm",
+      "chi-camara-tierras-guia"
+    ],
+    "summary": "Короткая семейная прогулка по облачному лесу у Серро-Пунты в панамском секторе Ла-Амистад.",
+    "plan": "Сначала загляните в центр интерпретации у станции Las Nubes. Оставьте 30–60 минут на саму петлю и время для осмотра станции.",
+    "conditions": "Уточните режим охраняемой территории и регистрацию на дату. Мокрые доски и корни скользкие, для малышей удобнее переноска. Это панамский вход в парк.",
+    "distance": 0.6,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "volcan-lagunas-wetland-walk-2-5",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "title": "Волькан · 2,5 км пешком к горным лагунам",
+    "native": "Humedal Lagunas de Volcán · Volcán · Tierras Altas",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "lake",
+      "forest",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "frontier-pa-tierras-altas",
+      "chi-lagunas-miambiente",
+      "chi-laguna-sector-map",
+      "chi-camara-tierras-guia"
+    ],
+    "summary": "Выход к охраняемым горным лагунам на краю Волькана. Тропа интересна наблюдением за лесными и водоплавающими птицами.",
+    "plan": "Попросите подтвердить разрешённый пеший проход между частными участками, оставьте машину у согласованного начала и пройдите около 2,5 км по местной схеме.",
+    "conditions": "Туристический институт указывает публичный доступ к охраняемой части. Открытый проход между частными владениями, парковку и пригодность после дождя сверяйте на месте. Озёрная точка на карте служит ориентиром.",
+    "distance": 2.5,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "volcan-janson-coffee-farm",
+    "kind": "place",
+    "region": "chiriqui-highlands",
+    "title": "Волькан · ферма Janson, кофейный цех и дегустации",
+    "native": "Janson Coffee Farm · Janson Coffee Shop · Tierras Altas",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "coffee",
+      "cafe",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-janson-visit",
+      "chi-janson-circuito",
+      "chi-janson-shop-map",
+      "chi-janson-film",
+      "chi-visit-tierras-altas"
+    ],
+    "summary": "Кофейня и экскурсии по хозяйству, рядом с участками горного леса и лагунами. У кофеен и экскурсий разный формат визита.",
+    "plan": "Сверьте запланированный кофе, цех или дегустацию с хозяином. Если хочется прогулку до или после визита, добавьте отдельно охраняемые лагуны.",
+    "conditions": "Для экскурсии нужно подтвердить группу, длительность, язык, возраст детей и место встречи. Опубликованный пин относится к кофейне, детали тура сообщает команда.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "mount-totumas-cloud-forest-4x4",
+    "kind": "place",
+    "region": "chiriqui-highlands",
+    "title": "Маунт-Тотумас · подъезд 4×4, облачный лес и горячие источники",
+    "native": "Mount Totumas Cloud Forest · Silla Pando · Tierras Altas · Los Pozos",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "offroad",
+      "car",
+      "hiking",
+      "forest",
+      "waterfall",
+      "wildlife",
+      "thermal",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "chi-totumas-directions",
+      "chi-totumas-experiences",
+      "chi-totumas-reservations",
+      "chi-totumas-pin",
+      "chi-totumas-local-report"
+    ],
+    "summary": "Лесной лодж на высоте около 1 900 м с девятью размеченными тропами и возможностью нанять гида. У подъезда отдельная грунтовая часть с пересечениями воды.",
+    "plan": "До брони согласуйте трансфер или собственный автомобиль. Для прогулок попросите схему: пешком доступны разные лесные ветки, а горячие источники Los Pozos относятся к отдельному выходу.",
+    "conditions": "В дорожном FAQ владелец требует высокий 4×4. При высокой воде используйте подтверждённый трансфер или перенесите заезд. Сеть больше 30 км суммарно, длительность конкретной петли даёт лодж.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "boquete-pipeline-trail-6",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "title": "Бокете · Pipeline, около 6 км по облачному лесу",
+    "native": "Bajo Mono · Sendero Pipa de Agua · Pipeline Trail",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "forest",
+      "waterfall",
+      "wildlife",
+      "river"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-boquete-pipeline-report",
+      "chi-boquete-pipeline-map",
+      "chi-boquete-bajomono-guide",
+      "chi-boquete-bajomono-bus-map"
+    ],
+    "summary": "Пологий лесной выход из Бахо-Моно. По записи автора почти 6 км туда и обратно, с мостиками, старым деревом и высоким водопадом.",
+    "plan": "Доезжайте до начала Бахо-Моно, регистрируйтесь на ферме и заложите 2–3 часа. С детьми можно закончить у большого дерева и вернуться той же тропой.",
+    "conditions": "Покрытие сырое. У ручья встречаются узкие переходы, а под водопадом камни. Цену, условия доступа и завершающий транспорт уточните в день визита.",
+    "distance": 6,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "boquete-bajo-mono-tres-cascadas-3-2",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "title": "Бахо-Моно · три водопада, 3,2 км по склонам",
+    "native": "Las Tres Cascadas Perdidas · The Lost Waterfalls · Bajo Mono, Boquete",
+    "level": "hard",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "waterfall",
+      "forest",
+      "river",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-boquete-waterfalls-track",
+      "chi-boquete-waterfalls-local",
+      "chi-boquete-waterfalls-report",
+      "chi-boquete-waterfalls-map",
+      "chi-boquete-bajomono-guide"
+    ],
+    "summary": "Три водопада на короткой, но физически насыщенной тропе. Подъём идёт от подвесного моста к кассе и дальше во влажный лес.",
+    "plan": "Рассчитывайте на 2–3 часа. До середины маршрута дойдите по состоянию тропы. Верхнюю ветку выбирайте, если условия и обувь подходят.",
+    "conditions": "Полевой трек даёт 3,24 км. У верхнего водопада глина, крутые участки и верёвки для опоры. После дождя уточните состояние склона и разворачивайтесь у среднего водопада при скользком подходе.",
+    "distance": 3.24,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "volcan-janson-pedelec-12",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "title": "Волькан — Janson · 12 км на своём e-bike до кофейни",
+    "native": "Volcán · Ruta 414 · Corazón del Cielo · Janson Coffee Shop",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "cycling",
+      "ebike",
+      "road-bike",
+      "coffee",
+      "cafe",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-janson-visit",
+      "chi-janson-shop-map",
+      "chi-road-osm-geography",
+      "chi-sencijo-contact",
+      "chi-sencijo-rent",
+      "chi-pa-road-cycling-rules"
+    ],
+    "summary": "Дорога от центра Волькана в кофейный район и обратно на своём педальном e-bike. Есть отдельная карта с дорожной линией.",
+    "plan": "Выехать из центра, пройти связку Ruta 414 и местных улиц к Janson, сделать паузу на кофе и вернуться тем же коридором.",
+    "conditions": "Расчёт на данных OpenStreetMap, ~12 км. На проезжей части есть автомобили. Прокат Sencijo опубликован как готовящаяся услуга, так что для самостоятельного выезда планируйте свой велосипед или заранее согласованную выдачу.",
+    "distance": 12,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "volcan-bambito-cerro-punta-road-ebike",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "title": "Волькан — Бамбито — Серро-Пунта · 14,3 км на e-bike по Ruta 418",
+    "native": "Ruta 418 · Volcán · Bambito · Cerro Punta",
+    "level": "hard",
+    "days": 0.5,
+    "activities": [
+      "cycling",
+      "ebike",
+      "road-bike",
+      "views",
+      "coffee",
+      "forest"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-visit-tierras-altas",
+      "chi-sencijo-bambito-map",
+      "chi-road-osm-geography",
+      "chi-camara-tierras-guia",
+      "chi-sencijo-cerro-punta",
+      "chi-pa-road-cycling-rules"
+    ],
+    "summary": "Проезд из Волькана вверх по горной долине к Серро-Пунте с остановкой в районе Бамбито. Маршрут для опытных участников с собственным велосипедом.",
+    "plan": "Проверьте трафик и покрытие Ruta 418, организуйте подбор в Серро-Пунте. При тумане или плотном движении сократите поездку.",
+    "conditions": "14,3 км в одну сторону. Велосипед и автомобиль делят проезжую часть. В Бамбито можно закончить короткий вариант. Для выезда нужен собственный e-bike или отдельно подтверждённый прокат.",
+    "distance": 14.3,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "las-lajas-pachamama-eco-camp",
+    "kind": "place",
+    "region": "chiriqui-coast",
+    "title": "Лас-Лахас · палаточная ночь в Pachamama Eco Camp",
+    "native": "Pachamama Eco Camp · Playa Las Lajas · San Félix",
+    "level": "easy",
+    "days": 1,
+    "activities": [
+      "camping",
+      "beach",
+      "relax",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "chi-lajas-pachamama",
+      "chi-lajas-pachamama-contact",
+      "chi-lajas-road-map",
+      "chi-barqueta-coast-local"
+    ],
+    "summary": "Палаточная база у побережья Чирики, у которой можно отдельно запросить мангровый каяк и урок сёрфинга.",
+    "plan": "Согласуйте площадку для палатки, подъезд и свежую точку на карте с командой. После приезда уточните местные приливы и места у воды, куда можно подходить.",
+    "conditions": "Опубликован формат Eco Camping. Условия воды, душа, кухни, стоимости, места для машины и допуска крышной палатки подтверждаются напрямую до поездки.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "las-lajas-pachamama-mangrove-kayak",
+    "kind": "trail",
+    "region": "chiriqui-coast",
+    "title": "Лас-Лахас · каяк по манграм с местной командой",
+    "native": "Pachamama Eco Camp · Eco Kayak Tours · manglar de Las Lajas",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "kayak",
+      "river",
+      "forest",
+      "wildlife"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-lajas-pachamama",
+      "chi-lajas-pachamama-contact",
+      "chi-lajas-wetland-arap",
+      "chi-barqueta-coast-local"
+    ],
+    "summary": "Мангровый выход на каяке у Лас-Лахас. Владелец показывает узкие водные проходы и предлагает формат с местным сопровождением.",
+    "plan": "Запросите место сбора, приливное окно и продолжительность. Уточните, входят ли лодка, весло и жилет вашего размера.",
+    "conditions": "Точная акватория, разрешение на спуск со своим каяком, подвоз и возрастные условия в опубликованной программе не указаны. Выход к открытому океану согласовывайте отдельно с местными.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "las-lajas-pachamama-surf-lesson",
+    "kind": "place",
+    "region": "chiriqui-coast",
+    "title": "Плайя-Лас-Лахас · индивидуальные и малые группы по сёрфингу",
+    "native": "Pachamama Eco Camp · private and small group surf lessons · Playa Las Lajas",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "surf",
+      "school",
+      "beach"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-lajas-pachamama",
+      "chi-lajas-pachamama-contact",
+      "chi-barqueta-coast-local",
+      "chi-lajas-waves-operator"
+    ],
+    "summary": "Урок сёрфинга на открытом пляже. Местная команда заявляет частные занятия и малые группы.",
+    "plan": "Попросите инструктора выбрать участок и время под ваш уровень. Уточните размер доски, крепление, время переодевания и оплату.",
+    "conditions": "На открытом берегу возможны сильные течения. Инструктор решает, где и когда могут зайти начинающие. Возраст детей и комплект доски согласуйте при записи.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "la-barqueta-el-jobo-boardwalk-720",
+    "kind": "trail",
+    "region": "chiriqui-coast",
+    "title": "Ла-Баркета · 720 м по мангровой тропе El Jobo",
+    "native": "Sendero El Jobo · Refugio de Vida Silvestre Playa La Barqueta Agrícola · Alanje",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "forest",
+      "wildlife",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-barqueta-el-jobo-official",
+      "chi-barqueta-jobo-hours",
+      "chi-barqueta-coast-map",
+      "chi-barqueta-coast-local"
+    ],
+    "summary": "Короткая познавательная прогулка по манграм с указателями и возможностью совместить с наземной прогулкой у пляжа.",
+    "plan": "Перед выездом получите актуальный пин входа у рейнджеров. Пройдите по размеченной тропе, затем можно отдельно выйти к берегу через разрешённый подход.",
+    "conditions": "В публикации MiAmbiente указан ориентир 08:00–16:00 для встречи с рейнджерами. Точная точка входа в сектор El Jobo уточняется. Наблюдение за черепахами возможно по правилам заповедника и на согласованное время.",
+    "distance": 0.72,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "boca-chica-parida-full-day-fishing",
+    "kind": "trail",
+    "region": "chiriqui-coast",
+    "title": "Бока-Чика · дневной рыболовный чартер в заливе Чирики",
+    "native": "Sport Fish Panama Island Lodge · Boca Chica · Isla Parida",
+    "level": "hard",
+    "days": 1,
+    "activities": [
+      "fishing",
+      "boat",
+      "wildlife"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-boca-parida-day-fishing",
+      "chi-boca-parida-field-park",
+      "chi-sport-fishing-arap-9",
+      "chi-sport-fishing-arap-10",
+      "pa-boca-chica-public-pier-osm"
+    ],
+    "summary": "Дневной выход на моторной лодке с капитаном, снастями и питанием. Программа подходит для группы, которая готова провести на воде почти весь день.",
+    "plan": "По опубликованному расписанию сбор около 07:00 у причала или отеля, возврат около 16:30–17:00. Согласуйте район, целевые виды, лимит группы и финальную стоимость до оплаты.",
+    "conditions": "Морской парк имеет отдельный план управления. Ловить можно в согласованном секторе и с учётом правил ARAP. Запросите у капитана, как на этом рейсе оформляют требования по разрешению и какие виды отпускают.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "boca-chica-bocas-del-mar-atv-3h",
+    "kind": "trail",
+    "region": "chiriqui-coast",
+    "title": "Бока-Чика · три часа на ATV по фермам к берегу",
+    "native": "Bocas del Mar · ATV Explorer · Boca Chica, Chiriquí",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "atv",
+      "offroad",
+      "forest",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "chi-boca-bocas-mar-atv",
+      "chi-boca-bocas-mar-arrival",
+      "pa-boca-field-guide",
+      "chi-boca-chiriqui-suggested"
+    ],
+    "summary": "Организованный выезд на квадроцикле с местным проводником: сельские дороги, участки леса и остановки у океана.",
+    "plan": "Сверьте время выезда из отеля и условия маршрута. Возьмите закрытую обувь и защиту от брызг. На опубликованном маршруте указаны остановки на фото и отдых.",
+    "conditions": "Оператор указывает шлем и водительское удостоверение. Возраст пассажира, правила для второй посадки и текущий тариф подтверждаются через отель. Фактическую трассу назначает гид.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "isla-palenque-forest-kayak-lodge",
+    "kind": "place",
+    "region": "chiriqui-coast",
+    "title": "Исла-Паленке · лодж, островные тропы, каяк и SUP",
+    "native": "The Resort at Isla Palenque · Boca Chica · Golfo de Chiriquí",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "boat",
+      "hiking",
+      "kayak",
+      "sup",
+      "forest",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "chi-isla-palenque-guest",
+      "chi-isla-palenque-region-map",
+      "chi-isla-palenque-video",
+      "chi-boca-chiriqui-suggested",
+      "chi-boca-parida-field-park"
+    ],
+    "summary": "Островная база с тропами и каяками для гостей. Отдельная лодочная логистика из Бока-Чики подходит для поездки без собственной машины.",
+    "plan": "При подтверждённой ночёвке согласуйте лодку и точку встречи на материке. На острове уточните короткие лесные маршруты и окно для SUP или каяка по погоде.",
+    "conditions": "По гостевым условиям в пакетах есть лодочный трансфер и использование каяков и SUP. Поговорите с владельцами про возраст детей, ранний отъезд и доступ сторонних посетителей.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
   }
 ]
