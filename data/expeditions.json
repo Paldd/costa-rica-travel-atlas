@@ -8785,5 +8785,286 @@
         ]
       }
     ]
+  },
+  {
+    "id": "guanacaste-north-volcanoes-ebike-6",
+    "kind": "trip",
+    "region": "guanacaste",
+    "regions": [
+      "north"
+    ],
+    "title": "Ринкон-де-ла-Вьеха — Тенорио — Ареналь · 6 дней с e‑MTB и сопровождением",
+    "native": "Ruta de los Volcanes · Go Bike CR · Guanacaste – San Carlos",
+    "level": "expedition",
+    "days": 6,
+    "activities": [
+      "multi",
+      "cycling",
+      "mtb",
+      "ebike",
+      "volcano",
+      "lake",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "solo",
+      "family-adults"
+    ],
+    "access": [
+      "transfer",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "gobike-volcanes-four-stage",
+      "gobike-emtb-support"
+    ],
+    "summary": "Четыре велоэтапа через вулканические районы Гуанакасте на север страны. Около 213 км и 4 192 м набора по данным Go Bike CR. Электровелосипед предоставляют по предварительному запросу.",
+    "plan": "Согласуйте группу, велосипед, крепления, багаж, поддержку, зарядку в каждой ночёвке и отрезки, на которых можно пересесть в машину.",
+    "conditions": "Маршрут с длинными подъёмами и меняющимися покрытиями. Ориентиры парков на карте помогают планировать район. Условия въезда в охраняемые зоны подтверждает оператор.",
+    "distance": 213,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Приезд и примерка e‑MTB",
+        "note": "Согласуйте аэропорт или точку встречи, шлем, размер рамы и совместимость батареи с зарядным устройством. Подтвердите вариант размещения до первого велоэтапа.",
+        "stops": [],
+        "sources": [
+          "gobike-volcanes-four-stage",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Ринкон-де-ла-Вьеха — Гуаябо · 51,1 км",
+        "note": "Оператор заявляет набор 836 м. Узнайте точку старта в районе парка и места, где группа встретится с сопровождающей машиной.",
+        "stops": [],
+        "sources": [
+          "gobike-volcanes-four-stage",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Гуаябо — район парка Тенорио · 63,9 км",
+        "note": "Набор 1 444 м по программе. Это самый длинный этап. Утром попросите гида проверить заряд, транспортный резерв и время завершения.",
+        "stops": [],
+        "sources": [
+          "gobike-volcanes-four-stage",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Тенорио — Нуэво-Ареналь · 55,9 км",
+        "note": "Целевой набор 1 100 м. После финиша уточните хранение и ночную зарядку велосипеда. Озёрная прогулка возможна по условиям погоды.",
+        "stops": [
+          "nuevo-arenal-parque-lago-own"
+        ],
+        "sources": [
+          "gobike-volcanes-four-stage",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Район Пуэрто-Сан-Луис — Эль-Кастильо · 42 км",
+        "note": "Программа указывает 812 м набора. Уточните начало велоучастка и перегон из Нуэво-Ареналя. До финиша подтвердите окончание у Эль-Кастильо.",
+        "stops": [
+          "el-castillo-fogata-camp"
+        ],
+        "sources": [
+          "gobike-volcanes-four-stage",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Сдача велосипеда и обратная дорога",
+        "note": "Заложите время на сдачу проката и трансфер в аэропорт или к следующему месту.",
+        "stops": [],
+        "sources": [
+          "gobike-volcanes-four-stage",
+          "gobike-emtb-support"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "monteverde-arenal-emtb-roof-3",
+    "kind": "trip",
+    "region": "centralpac",
+    "regions": [
+      "north"
+    ],
+    "title": "Монтеверде и Тронадора · три дня с e‑MTB и палаткой на крыше",
+    "native": "Finca Modelo · Santa Elena – Río Chiquito – Tronadora",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "multi",
+      "cycling",
+      "mtb",
+      "ebike",
+      "rooftent",
+      "camping",
+      "lake",
+      "views",
+      "hiking"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "family-adults"
+    ],
+    "access": [
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof"
+    ],
+    "sources": [
+      "higueron-owner",
+      "ebike-tronadora-field",
+      "tronadora-osm",
+      "montetours-ebike-cloud"
+    ],
+    "summary": "Первая ночь с крышной палаткой в Монтеверде, затем односторонний велоэтап около 50 км и вторая ночь на озере Ареналь. В группе нужен человек, который перевезёт машину и лагерное снаряжение.",
+    "plan": "Согласуйте два въезда с крышной палаткой, погоду, запас батареи и отдельную дорогу автомобиля. На случай грозы запланируйте полный переезд на машине.",
+    "conditions": "Велосипедный трек взят из датированного заезда опытного райдера. Доступ к участкам и перевозку e‑bike проверяйте на дату. Машина едет по отдельно согласованной дороге.",
+    "distance": 49.68,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Монтеверде · лагерь и разведка района",
+        "note": "Заезд в Finca Modelo с 4×4. Если приехали рано, пройдите общинную тропу Санта-Элены или согласуйте короткий велоформат с гидом. За ночь зарядите батареи по предварительной договорённости.",
+        "stops": [
+          "higueron-roof",
+          "santa-elena-reserve-local",
+          "monteverde-ebike-cloud-forest"
+        ],
+        "sources": [
+          "higueron-owner",
+          "montetours-ebike-cloud",
+          "montetours-ebike-local-guide"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Санта-Элена → Тронадора · 49,7 км и вторая ночёвка",
+        "note": "Райдеры едут через Рио-Чикито. Машина с лагерем следует по разрешённой дороге к Тронадоре. Согласуйте контакт, промежуточное место встречи и какой трансфер заберёт группу при ливне.",
+        "stops": [
+          "santa-elena-tronadora-ebike-50",
+          "tronadora-roof"
+        ],
+        "sources": [
+          "ebike-tronadora-field",
+          "tronadora-osm"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Тронадора · утро на озере и дорога домой",
+        "note": "Оставьте время на короткую береговую прогулку и сбор лагеря. Если ветер, волна и хозяева позволяют, можно отдельно взять SUP. При плохой погоде ограничьтесь берегом.",
+        "stops": [
+          "tronadora-roof",
+          "tronadora-weekend-roof"
+        ],
+        "sources": [
+          "tronadora-osm",
+          "osm-cr-points"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paquera-nicoya-sea-kayak-3",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Залив Никоя из Пакеры · три дня на морском каяке с палаткой",
+    "native": "Bahía Rica · Suggested 3-Day Self-Guided Expedition · Golfo de Nicoya",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "multi",
+      "kayak",
+      "camping",
+      "beach",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "friends",
+      "mens",
+      "family-adults"
+    ],
+    "access": [
+      "car",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "bahiarica-kayak-expedition-self",
+      "ict-golfe-island-access",
+      "bahia-rica-directions",
+      "paquera-nicoya-ict-beaches",
+      "paquera-ferry-live"
+    ],
+    "summary": "Около 43 км за три дня на одиночных закрытых морских каяках. Bahía Rica выдаёт снаряжение и помогает согласовать места высадки, ночёвки, приливы и запасные берега.",
+    "plan": "Приезжайте в Пакеру заранее. До выхода подтвердите ночёвки у Плайя-Бланка и на Седросе, воду, маршрут вне закрытых зон и запасной возврат. При необходимости арендуйте палатки и гермомешки.",
+    "conditions": "Только для группы с опытом открытой воды и самоспасения в закрытом морском каяке. Туристические высадки в биологических резерватах исключаются из плана. Погода, прилив и разрешённые высадки определяют фактический путь.",
+    "distance": 43,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пакера → район острова Гитана → Плайя-Бланка · около 14 км",
+        "note": "Подберите каяки и проверьте связь, прилив и разрешённую высадку с местной командой. Ночуйте только в согласованном месте у Плайя-Бланка. Район птичьих островов сверяйте с границами охраняемых акваторий.",
+        "stops": [
+          "paquera-paddle-sup"
+        ],
+        "sources": [
+          "bahiarica-kayak-expedition-self",
+          "ict-golfe-island-access",
+          "bahia-rica-directions"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Бухта Гиганте → остров Седрос · около 15 км",
+        "note": "Проход по манграм согласуйте на подходящей воде. Уточните доступ к суше, ночёвку и резервный выход. Без согласованного места разбивки лагеря меняйте план до отплытия.",
+        "stops": [
+          "paquera-bioluminescence-kayak"
+        ],
+        "sources": [
+          "bahiarica-kayak-expedition-self",
+          "ict-golfe-island-access",
+          "paquera-nicoya-ict-beaches"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Седрос → район Хесуситы → Пакера · около 14 км",
+        "note": "Сверьте безопасный проход мимо островов, береговую паузу и возвращение к базе до темноты. При ухудшении погоды согласуйте короткий выход. Паром выбирайте с запасом на сдачу лодки.",
+        "stops": [
+          "paquera-paddle-sup"
+        ],
+        "sources": [
+          "bahiarica-kayak-expedition-self",
+          "ict-golfe-island-access",
+          "paquera-ferry-live"
+        ]
+      }
+    ]
   }
 ]

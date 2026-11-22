@@ -1,0 +1,945 @@
+{
+  "monteverde-ebike-sunrise": {
+    "stops": [
+      {
+        "point": "st-elena",
+        "role": "Санта-Элена · район встречи",
+        "note": "Ориентир посёлка. Точку, примерно в пяти минутах на машине, гид присылает после записи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Рассвет и время выезда",
+        "text": "От места встречи примерно полчаса едут до вида на Ареналь, затем продолжают по горным дорогам. Формат 2,5 часа и сезон май–ноябрь. Резервирование у гида минимум за два дня.",
+        "sources": [
+          "montetours-ebike-sunrise"
+        ]
+      },
+      {
+        "title": "Велосипед, экипировка и погода",
+        "text": "Гид подбирает e‑MTB, плоские педали и шлем. Уточните мощность фонарей перед выездом в темноте, возьмите тонкую ветрозащиту и обувь с цепкой подошвой. При сильном дожде согласуйте перенос или дневную поездку.",
+        "sources": [
+          "montetours-ebike-sunrise",
+          "montetours-ebike-local-guide"
+        ]
+      },
+      {
+        "title": "Подбор велосипеда",
+        "text": "MonteTours указывает рост от 160 см и вес до 122 кг для горного велосипеда. Подтвердите эти ограничения и размер рамы для выбранного выезда.",
+        "sources": [
+          "montetours-ebike-fit-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MonteTours · выезды в Монтеверде",
+        "source": "montetours-ebike-sunrise",
+        "note": "Подтвердите размер рамы, точку и возможность раннего трансфера.",
+        "url": "https://montetours.com/monteverde-mountain-ebike-tours/",
+        "phone": "+506 8568 8850",
+        "email": "info@montetours.com"
+      }
+    ],
+    "nearby": [
+      "monteverde-ebike-sunset",
+      "monteverde-ebike-cloud-forest",
+      "santa-elena-reserve-local"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "montetours-ebike-sunrise"
+    ]
+  },
+  "monteverde-ebike-sunset": {
+    "stops": [
+      {
+        "point": "st-elena",
+        "role": "Санта-Элена · район встречи",
+        "note": "Ориентир посёлка. Точку, примерно в пяти минутах на машине, гид присылает после записи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Когда ехать",
+        "text": "Заявлены декабрь–апрель, старт в 16:30 и около двух часов на весь выезд. Из общей программы примерно 45 минут занимает дорога к частной площадке с видом на залив.",
+        "sources": [
+          "montetours-ebike-sunset",
+          "montetours-ebike-local-guide"
+        ]
+      },
+      {
+        "title": "Для группы",
+        "text": "Гид выдаёт e‑MTB, шлем и перекус. От 12 лет и со средней техникой MTB. Зарезервируйте минимум за три дня. Перед сумерками проверьте фонари и приготовьте слой от ветра.",
+        "sources": [
+          "montetours-ebike-sunset"
+        ]
+      },
+      {
+        "title": "Подбор велосипеда",
+        "text": "MonteTours указывает рост от 160 см и вес до 122 кг для горного велосипеда. Подтвердите эти ограничения и размер рамы для выбранного выезда.",
+        "sources": [
+          "montetours-ebike-fit-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MonteTours · выезды в Монтеверде",
+        "source": "montetours-ebike-sunset",
+        "note": "Уточните время встречи, доступность площадки и резервный выезд.",
+        "url": "https://montetours.com/monteverde-mountain-ebike-tours/",
+        "phone": "+506 8568 8850",
+        "email": "info@montetours.com"
+      }
+    ],
+    "nearby": [
+      "monteverde-ebike-sunrise",
+      "monteverde-ebike-cloud-forest",
+      "santa-elena-reserve-local"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "montetours-ebike-sunset"
+    ]
+  },
+  "monteverde-ebike-cloud-forest": {
+    "stops": [
+      {
+        "point": "st-elena",
+        "role": "Санта-Элена · район встречи",
+        "note": "Ориентир посёлка. Точку, примерно в пяти минутах на машине, гид присылает после записи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Договориться о маршруте",
+        "text": "На брифинге выберите темп и более короткую связку, если группа едет на e‑MTB впервые. Уточните покрытие, доступ к обзорным площадкам и приблизительный набор высоты.",
+        "sources": [
+          "montetours-ebike-cloud",
+          "montetours-ebike-local-guide"
+        ]
+      },
+      {
+        "title": "Время и допуск",
+        "text": "Около 3,5 часа. В обзоре заявлены выезд в 08:00, возраст 12+, средняя техника и предварительное бронирование от трёх дней. Шлем, размер рамы и педали подбирает гид. При дожде пригодятся перчатки и слой от ветра.",
+        "sources": [
+          "montetours-ebike-local-guide",
+          "montetours-ebike-index"
+        ]
+      },
+      {
+        "title": "Подбор велосипеда",
+        "text": "MonteTours указывает рост от 160 см и вес до 122 кг для горного велосипеда. Подтвердите эти ограничения и размер рамы для выбранного выезда.",
+        "sources": [
+          "montetours-ebike-fit-faq"
+        ]
+      },
+      {
+        "title": "Погода и примеры катания",
+        "text": "Местная туристическая палата описывает сезонные ливни во второй половине дня. При записи сверяйте утреннее окно. В видео показан другой выезд в окрестностях Монтеверде — к Серро-Пиночо.",
+        "sources": [
+          "monteverde-chamber-visit",
+          "monteverde-riders-pinocho-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MonteTours · выезды в Монтеверде",
+        "source": "montetours-ebike-cloud",
+        "note": "Назовите рост и навыки каждого участника. Запросите актуальные время, размер группы и ночную парковку при необходимости.",
+        "url": "https://montetours.com/monteverde-mountain-ebike-tours/",
+        "phone": "+506 8568 8850",
+        "email": "info@montetours.com"
+      }
+    ],
+    "nearby": [
+      "monteverde-ebike-tigre",
+      "monteverde-rio-chiquito-lake-emtb",
+      "santa-elena-reserve-local"
+    ],
+    "connectStops": false,
+    "photos": [
+      "reserva-monteverde-commons"
+    ],
+    "galleries": [
+      "montetours-ebike-cloud"
+    ],
+    "videos": [
+      "monteverde-riders-pinocho-video"
+    ]
+  },
+  "monteverde-ebike-tigre": {
+    "stops": [
+      {
+        "point": "st-elena",
+        "role": "Санта-Элена · район встречи",
+        "note": "Ориентир посёлка. Точку, примерно в пяти минутах на машине, гид присылает после записи."
+      },
+      {
+        "point": "el-tigre-waterfalls-reception",
+        "role": "Эль-Тигре · входной район",
+        "note": "Оставьте велосипед у администрации. Она выдаёт отдельную карту пешего спуска и говорит, как вернуться вверх."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два велосипедных участка и пешая часть",
+        "text": "По программе около двух часов на велосипеде до парка и примерно 30 минут обратно. В парке порядка пяти километров пешком. Подъём верхом занимает около получаса. Согласуйте, можно ли заменить коней на машину парка.",
+        "sources": [
+          "montetours-ebike-tigre",
+          "montetours-ebike-local-guide",
+          "eltigre-ebike-park"
+        ]
+      },
+      {
+        "title": "Экипировка и вход",
+        "text": "Приготовьте закрытую обувь с протектором, воду, сухой слой и удостоверение личности для каждого, включая подростков. MonteTours перечисляет вход, еду и шлем. Согласуйте точный вариант обратного подъёма у парка.",
+        "sources": [
+          "eltigre-ebike-park",
+          "montetours-ebike-local-guide"
+        ]
+      },
+      {
+        "title": "Подбор велосипеда",
+        "text": "MonteTours указывает рост от 160 см и вес до 122 кг для горного велосипеда. Подтвердите эти ограничения и размер рамы для выбранного выезда.",
+        "sources": [
+          "montetours-ebike-fit-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MonteTours · выезды в Монтеверде",
+        "source": "montetours-ebike-tigre",
+        "note": "Сверьте включение всех частей программы, заявленный возраст 12+ и бронирование минимум за пять дней.",
+        "url": "https://montetours.com/monteverde-mountain-ebike-tours/",
+        "phone": "+506 8568 8850",
+        "email": "info@montetours.com"
+      },
+      {
+        "name": "El Tigre Waterfalls · вход и возврат с тропы",
+        "source": "eltigre-ebike-park",
+        "note": "Подтвердите документ, погодные условия и вариант подъёма с нижней точки.",
+        "url": "https://www.eltigrewaterfalls.com/pricing",
+        "phone": "+506 8391 9625",
+        "email": "info@eltigrewaterfalls.com"
+      }
+    ],
+    "nearby": [
+      "monteverde-ebike-cloud-forest",
+      "monteverde-rio-chiquito-lake-emtb",
+      "santa-elena-reserve-local"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "montetours-ebike-tigre",
+      "eltigre-ebike-park"
+    ],
+    "videos": [
+      "eltigre-ebike-walk-video"
+    ]
+  },
+  "monteverde-rio-chiquito-lake-emtb": {
+    "stops": [
+      {
+        "point": "st-elena",
+        "role": "Санта-Элена · район встречи",
+        "note": "Ориентир посёлка. Точку, примерно в пяти минутах на машине, гид присылает после записи."
+      },
+      {
+        "point": "rio-chiquito",
+        "role": "Рио-Чикито · выход к району озера",
+        "note": "Ориентир посёлка на нижней части велоэтапа."
+      },
+      {
+        "point": "las-nubes-tilaran-area",
+        "role": "Лас-Нубес · район обратного подъёма",
+        "note": "Точный подъём, места сбора и разворота согласует гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Спуск и возвращение",
+        "text": "Оператор описывает спуск примерно на 800 м в сторону озера и затяжной подъём назад через Лас-Нубес. Оставьте место для дополнительной еды и воды, даже если часть выдаёт гид.",
+        "sources": [
+          "montetours-ebike-lake",
+          "ict-monteverde-lake-development"
+        ]
+      },
+      {
+        "title": "Поддержка и уровень",
+        "text": "В подробном описании указаны 18+, семь часов в программе, опыт MTB и бронирование минимум за неделю. Сверьте тормоза, запас батареи, помощь во время подъёма и условия пересадки в сопровождающую машину.",
+        "sources": [
+          "montetours-ebike-lake"
+        ]
+      },
+      {
+        "title": "Полевой отчёт по региону",
+        "text": "Поездка на обычном MTB до Ла-Фортуны 2018 года показывает ландшафт через Рио-Чикито. Это отдельный вариант, у которого другой финиш. Фото и трек полезны для оценки района.",
+        "sources": [
+          "mtb-monteverde-la-fortuna-field"
+        ]
+      },
+      {
+        "title": "Подбор велосипеда",
+        "text": "MonteTours указывает рост от 160 см и вес до 122 кг для горного велосипеда. Подтвердите эти ограничения и размер рамы для выбранного выезда.",
+        "sources": [
+          "montetours-ebike-fit-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MonteTours · выезды в Монтеверде",
+        "source": "montetours-ebike-lake",
+        "note": "Попросите карту фактического варианта, длину, набор и сценарий эвакуации при грозе.",
+        "url": "https://montetours.com/monteverde-mountain-ebike-tours/",
+        "phone": "+506 8568 8850",
+        "email": "info@montetours.com"
+      }
+    ],
+    "nearby": [
+      "monteverde-ebike-cloud-forest",
+      "santa-elena-tronadora-ebike-50",
+      "tronadora-roof"
+    ],
+    "connectStops": false,
+    "photos": [
+      "arenal-dam"
+    ],
+    "galleries": [
+      "montetours-ebike-lake",
+      "mtb-monteverde-la-fortuna-field"
+    ]
+  },
+  "santa-elena-tronadora-ebike-50": {
+    "stops": [
+      {
+        "point": "st-elena",
+        "role": "Санта-Элена · стартовый район",
+        "note": "Сверьте положение старта по оригинальной записи."
+      },
+      {
+        "point": "rio-chiquito",
+        "role": "Рио-Чикито · ориентир у озера",
+        "note": "Проверьте погоду, тормоза и запас батареи после спуска."
+      },
+      {
+        "point": "tronadora-town",
+        "role": "Тронадора · финиш и место встречи",
+        "note": "Выберите точку встречи с машиной или продолжайте к лагерю после согласования."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Реальная запись заезда",
+        "text": "Автор fpignani проехал в марте 2023 года. Получилось 49,68 км с набором 1 069 м. Он описывает продолжительный спуск к озеру, на котором попадаются трудные отрезки.",
+        "sources": [
+          "ebike-tronadora-field",
+          "ict-monteverde-lake-development"
+        ]
+      },
+      {
+        "title": "Трансфер и вещи",
+        "text": "Нужны инструмент, ремкомплект, дополнительные тормозные колодки по модели и запас воды. У перевозчика проверьте совместимость велокрепления с весом e‑MTB. Вернуться за машиной без трансфера означает ещё один горный этап.",
+        "sources": [
+          "ebike-tronadora-field"
+        ]
+      },
+      {
+        "title": "Где закончить день",
+        "text": "Можно закончить в посёлке или продолжить к Camping La Tronadora. Уточните место для автомобиля, возможность подзарядки и погодные условия на берегу.",
+        "sources": [
+          "ebike-tronadora-field",
+          "tronadora-osm"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "tronadora-roof",
+      "tronadora-weekend-roof",
+      "monteverde-rio-chiquito-lake-emtb",
+      "palmital-santa-elena-ebike-51"
+    ],
+    "connectStops": false,
+    "track": "ebike-tronadora-field",
+    "photos": [
+      "arenal-dam"
+    ],
+    "galleries": [
+      "ebike-tronadora-field"
+    ]
+  },
+  "palmital-santa-elena-ebike-51": {
+    "stops": [
+      {
+        "point": "palmital-puntarenas-village",
+        "role": "Пальмиталь · район начала",
+        "note": "Положение старта уточняйте по треку автора."
+      },
+      {
+        "point": "bajo-caliente-arancibia",
+        "role": "Бахо-Кальенте · жаркая низина",
+        "note": "Автор упоминает потребность в подзарядке на этапе. Наличие подходящей розетки нужно согласовать."
+      },
+      {
+        "point": "st-elena",
+        "role": "Санта-Элена · финиш",
+        "note": "Выберите ночлег или встречу с машиной заранее."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Покрытие и нагрузка",
+        "text": "В записи около 51 км и почти 1 930 м набора. Неровный рыхлый грунт на крутых спусках соседствует с жаркой низиной. Автор проехал в марте 2023 года за 4 часа 10 минут в движении, с остановками вышел полный день.",
+        "sources": [
+          "ebike-palmital-field"
+        ]
+      },
+      {
+        "title": "Батарея и резерв",
+        "text": "Автору понадобилась зарядка, чтобы добраться до Монтеверде. Свою остановку согласуйте заранее, а при автономном выезде проверьте совместимость второй батареи. Возьмите запас воды и дождевик, определите точку, откуда вас сможет забрать машина.",
+        "sources": [
+          "ebike-palmital-field"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "santa-elena-tronadora-ebike-50",
+      "monteverde-ebike-cloud-forest",
+      "santa-elena-reserve-local"
+    ],
+    "connectStops": false,
+    "track": "ebike-palmital-field",
+    "galleries": [
+      "ebike-palmital-field"
+    ]
+  },
+  "dota-cedral-san-marcos-ebike-39": {
+    "stops": [
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Санта-Мария-де-Дота · стартовый район",
+        "note": "Кофейный кооператив — ориентир. Перед выездом подтвердите место сбора."
+      },
+      {
+        "point": "tarrazu-san-marcos-area",
+        "role": "Сан-Маркос-де-Таррасу · ориентир перед финишем",
+        "note": "Проверьте набор высоты до возвращения в Доту."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Запись местного райдера",
+        "text": "В ноябре 2025 года fpignani проехал 39,16 км с набором 1 672 м. На возврате по грунту через Бахо-Рейес он отметил ручьи и каскады. На треке примерно 2 часа 39 минут движения и 4 часа 44 минуты от старта до финиша.",
+        "sources": [
+          "dota-cedral-ebike-field"
+        ]
+      },
+      {
+        "title": "Сезонный доступ и короткий вариант",
+        "text": "До выезда спросите у местного гида, где проезд проходит через частную землю и какие переправы сейчас проходимы. Если вода поднялась, возьмите дневной вариант Санта-Мария — Копей по маршруту 315 и согласуйте обратный трансфер.",
+        "sources": [
+          "dota-cedral-ebike-field",
+          "dota-bike-catursantos",
+          "dota-315-ict-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dota es Dota · Рохер Наварро",
+        "source": "dota-bike-catursantos",
+        "note": "Подтвердите состояние дорог и доступных объездов. Возможность e‑bike напрокат нужно уточнить отдельно.",
+        "url": "https://wa.me/50688025560",
+        "phone": "+506 8802 5560",
+        "email": "infodotaesdota@gmail.com"
+      }
+    ],
+    "nearby": [
+      "santa-maria-copey-road-bike",
+      "dota-es-dota-mtb",
+      "dota-coffee-mtb-tent-2"
+    ],
+    "connectStops": false,
+    "track": "dota-cedral-ebike-field",
+    "photos": [
+      "dota-park"
+    ],
+    "galleries": [
+      "dota-cedral-ebike-field"
+    ]
+  },
+  "san-ramon-piedades-sur-ebike-49": {
+    "stops": [
+      {
+        "point": "san-ramon-central-area",
+        "role": "Сан-Рамон · ориентир старта и финиша",
+        "note": "Начало пользовательского трека сверяется отдельно. Городской ориентир подходит для встречи."
+      },
+      {
+        "point": "san-ramon-la-paz-area",
+        "role": "Ла-Пас · промежуточный район",
+        "note": "Проверьте частные въезды и возможность пополнить воду."
+      },
+      {
+        "point": "san-ramon-bureal-area",
+        "role": "Буреаль · сельский участок",
+        "note": "Сверяйте повороты с треком и состоянием подъезда."
+      },
+      {
+        "point": "san-ramon-socorro-area",
+        "role": "Сокорро · поворот в сторону Пьедадес-Сур",
+        "note": "Пин посёлка, проезжайте только по открытым дорогам."
+      },
+      {
+        "point": "san-ramon-piedades-sur-area",
+        "role": "Пьедадес-Сур · район обратной дороги",
+        "note": "Уточните запас батареи и дневной свет до возвращения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что показал заезд",
+        "text": "Оскар и группа из Каррисаля записали поездку на e‑bike 10 августа 2024 года. Они меняли дороги по ходу и закончили маршрут без инцидентов. В описании автор сообщает около 1 930 м набора.",
+        "sources": [
+          "ebike-san-ramon-2024-field"
+        ]
+      },
+      {
+        "title": "Как запланировать",
+        "text": "Сверьте свежую проходимость Буреаля и Сокорро со знакомыми райдерами. После ливня выберите укороченную поездку с возвратом по общедоступным дорогам. Из-за набора проверьте запас батареи и тормоза.",
+        "sources": [
+          "ebike-san-ramon-2024-field",
+          "san-ramon-muni-aventura"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "palmital-santa-elena-ebike-51",
+      "arenal-private-ebike-2-6"
+    ],
+    "connectStops": false,
+    "track": "ebike-san-ramon-2024-field",
+    "galleries": [
+      "ebike-san-ramon-2024-field"
+    ]
+  },
+  "la-angelina-azul-ebike-7": {
+    "stops": [
+      {
+        "point": "angelina-mtb-parking",
+        "role": "Ла-Анхелина · въезд, парковка и старт",
+        "note": "Следуйте разметке синего маршрута и уточняйте у администратора, какие участки открыты."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Разметка и сложность",
+        "text": "Публичный трек показывает 4,6 мили (около 7,4 км) и 1 304 фута набора (397 м). Среди участков есть Recta de Entrada, Los Pinos и Las Moras. Выберите направление по указателям и держите дистанцию на спуске.",
+        "sources": [
+          "angelina-ruta-azul-trailforks"
+        ]
+      },
+      {
+        "title": "Допуск и оборудование",
+        "text": "В объявлениях парка осенью 2026 указан допуск e-bike. Перед поездкой проверьте часы, оплату и состояние деревянных элементов после дождя. Приезжайте со своим шлемом, перчатками и исправными тормозами. Прокат в самом парке уточняйте.",
+        "sources": [
+          "angelina-nov-posts",
+          "angelina-quebuenlugar-ride",
+          "angelina-fiebre-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Angelina MTB Park",
+        "source": "angelina-nov-posts",
+        "note": "Сверьте допуск своей модели, часы, закрытые участки и условия детских занятий.",
+        "url": "https://www.facebook.com/LaAngelinaMTB/",
+        "phone": "+506 8645 7333"
+      }
+    ],
+    "nearby": [
+      "la-angelina-emtb-weekend"
+    ],
+    "connectStops": false,
+    "track": "angelina-ruta-azul-trailforks",
+    "galleries": [
+      "angelina-quebuenlugar-ride",
+      "angelina-ruta-azul-trailforks"
+    ]
+  },
+  "santa-teresa-carmen-ebike": {
+    "stops": [
+      {
+        "point": "bimba-somos-santa-teresa",
+        "role": "Somos · северная стойка в Санта-Тересе",
+        "note": "В приложении проверьте наличие велосипеда и точку разблокировки."
+      },
+      {
+        "point": "bimba-guapa-carmen",
+        "role": "Guapa · стойка у The Bakery в Плайя-Кармен",
+        "note": "Пин кофейни The Bakery. По описанию Bimba стойка Guapa находится примерно на 50 м севернее. Сверьтесь с приложением."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий переезд от одной стойки к другой",
+        "text": "Велосипед разблокируют в приложении. На карте выберите одобренную стоянку возврата. Доки у Somos и Guapa указаны оператором. Границы участка и наличие транспорта меняются.",
+        "sources": [
+          "bimba-santa-teresa-ebike",
+          "bimba-station-list"
+        ]
+      },
+      {
+        "title": "Возраст, дорога и снаряжение",
+        "text": "18+ по условиям сервиса. В местном путеводителе указано, что шлемы не выдают. Возьмите свой шлем, соблюдайте ограничения приложения и избегайте выезда в проливной дождь или при плохой видимости.",
+        "sources": [
+          "bimba-es-terms",
+          "onda-santa-teresa-bike-report"
+        ]
+      },
+      {
+        "title": "Линия на карте",
+        "text": "Около 2,5 км вдоль Calle Cabo Blanco от района Somos до The Bakery. По OpenStreetMap покрытие меняется с асфальта на уплотнённый грунт. Допустимую зону проката определяет приложение.",
+        "sources": [
+          "osm-cr-points",
+          "bimba-station-list"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bimba · поддержка проката",
+        "source": "bimba-santa-teresa-ebike",
+        "note": "Проверьте заряд, ограничения приложения и оплату до разблокировки.",
+        "url": "https://gobimba.com/es/",
+        "phone": "+506 6358 1026",
+        "email": "hello@gobimba.com"
+      }
+    ],
+    "nearby": [
+      "santa-teresa-nosara-gravel-101"
+    ],
+    "connectStops": false,
+    "line": "santa-teresa-bimba-corridor",
+    "photos": [
+      "santa-teresa-shore-archive"
+    ],
+    "galleries": [
+      "bimba-station-list",
+      "onda-santa-teresa-bike-report"
+    ]
+  },
+  "arenal-private-ebike-2-6": {
+    "stops": [
+      {
+        "point": "fortuna-park",
+        "role": "Ла-Фортуна · городской вариант",
+        "note": "Пин центра. Место встречи и договорённость о трансфере уточняются у гида."
+      },
+      {
+        "point": "nuevo-arenal",
+        "role": "Нуэво-Ареналь · вариант в посёлке",
+        "note": "Ориентир западного сектора озера."
+      },
+      {
+        "point": "arenal-dam",
+        "role": "Дамба Ареналя · ориентир восточной части озера",
+        "note": "Пин помогает выбрать сектор. Программа оператора зависит от согласованной дороги."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как выбрать формат",
+        "text": "Ла-Фортуна подходит для короткого знакомства с городом. Нуэво-Ареналь даёт сельские улицы. Для длинного варианта у озера запросите подтверждённые места отдыха и разворота. Три пина показывают разные варианты программы.",
+        "sources": [
+          "quercus-arenal-ebike",
+          "ict-arenal-tour-guide"
+        ]
+      },
+      {
+        "title": "Что выдаёт оператор",
+        "text": "В описании указаны частный гид и трансфер, вода, напитки и перекус. Для четырёх- и шестичасового формата указан обед. Спросите про шлем, размер рамы, детские ограничения и фактический запас батареи.",
+        "sources": [
+          "quercus-arenal-ebike",
+          "quercus-travel-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Quercus Travel · e‑bike в районе Ареналя",
+        "source": "quercus-travel-contact",
+        "note": "Подтвердите один маршрут, длительность, возраст и включённые услуги.",
+        "url": "https://www.quercustravel.com/contact-us/",
+        "phone": "+506 8986 2299",
+        "email": "reservas@quercustravel.com"
+      }
+    ],
+    "nearby": [
+      "arenal-dam-el-castillo-mtb",
+      "arenal-local-roof-paddle-2",
+      "nuevo-arenal-parque-lago-own"
+    ],
+    "connectStops": false,
+    "photos": [
+      "arenal-dam"
+    ],
+    "galleries": [
+      "quercus-arenal-ebike"
+    ]
+  },
+  "guanacaste-north-volcanoes-ebike-6": {
+    "connectStops": false,
+    "stops": [
+      {
+        "point": "pailas-visitor-point",
+        "role": "Ринкон-де-ла-Вьеха · район начала велоэтапов",
+        "note": "Ориентир парка. Граница разрешённого въезда уточняется у гида."
+      },
+      {
+        "point": "guayabo-bagaces-village",
+        "role": "Гуаябо-де-Багасес · район Миравайеса",
+        "note": "Здесь заканчивается первый велоэтап."
+      },
+      {
+        "point": "tenorio-pilon-entry",
+        "role": "Тенорио · район парка",
+        "note": "Ориентир парка, точка встречи может быть у другой дороги."
+      },
+      {
+        "point": "nuevo-arenal",
+        "role": "Нуэво-Ареналь · конец третьего велоэтапа",
+        "note": "Подтвердите ночёвку, зарядку и переезд к последнему старту."
+      },
+      {
+        "point": "puerto-san-luis-tilaran-area",
+        "role": "Пуэрто-Сан-Луис · район старта заключительного этапа",
+        "note": "Пин района Сан-Луиса, точку выдаёт гид."
+      },
+      {
+        "point": "el-castillo",
+        "role": "Эль-Кастильо · район финиша",
+        "note": "Финиш согласуйте с машиной сопровождения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и поддержка",
+        "text": "Дистанции по четырём этапам складываются примерно в 213 км. Маршрутная страница публикует набор для каждого отрезка. Go Bike CR заявляет гида, механика и транспорт сопровождения, а e‑bike просит подтвердить при запросе.",
+        "sources": [
+          "gobike-volcanes-four-stage",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "title": "Логистика",
+        "text": "Получите маршрутные карты с открытыми участками, узнайте варианты объезда на случай дождя и согласуйте условия перевозки батареи и зарядки на ночёвках. Если едете с подростком, отдельно проверьте допуск.",
+        "sources": [
+          "gobike-volcanes-four-stage",
+          "gobike-emtb-support"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Go Bike CR · велоэкспедиция по вулканам",
+        "source": "gobike-emtb-support",
+        "note": "Запросите e-bike по размеру, технический профиль этапов, ночёвки и замены на случай погоды.",
+        "url": "https://wa.me/50672738636",
+        "phone": "+506 7273 8636",
+        "email": "info@gobikecr.com"
+      }
+    ],
+    "nearby": [
+      "arenal-private-ebike-2-6",
+      "santa-elena-tronadora-ebike-50",
+      "arenal-dam-el-castillo-mtb"
+    ],
+    "photos": [
+      "arenal-dam"
+    ],
+    "galleries": [
+      "gobike-volcanes-four-stage",
+      "gobike-volcanes-en"
+    ]
+  },
+  "monteverde-arenal-emtb-roof-3": {
+    "connectStops": false,
+    "stops": [
+      {
+        "point": "camp-higueron-pin",
+        "role": "Finca Modelo · первая ночёвка с палаткой на крыше",
+        "note": "Уточните уклон заезда, проезд после дождя и розетку."
+      },
+      {
+        "point": "st-elena",
+        "role": "Санта-Элена · начало велоперегона",
+        "note": "Старт по датированному треку из связанной карточки."
+      },
+      {
+        "point": "rio-chiquito",
+        "role": "Рио-Чикито · промежуточный ориентир",
+        "note": "Проверьте погоду, заряд и сохранённый план эвакуации."
+      },
+      {
+        "point": "tronadora-camp",
+        "role": "Camping La Tronadora · вторая ночёвка",
+        "note": "Заранее согласуйте стоянку и время встречи с машиной."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Поездка в группе с машиной",
+        "text": "Этот вариант собирает две существующие стоянки и записанную велосипедную связку. Назначьте водителя на день велоперегона. Маршрут для автомобиля согласуйте отдельно у хозяев лагерей.",
+        "sources": [
+          "higueron-owner",
+          "ebike-tronadora-field",
+          "tronadora-osm"
+        ]
+      },
+      {
+        "title": "Двое суток с палаткой",
+        "text": "На обеих стоянках заранее уточните доступ после дождя, состояние площадок, время въезда и возможность безопасно зарядить аккумулятор. Если одностороннюю логистику собрать сложно, откажитесь от велоперегона и выберите поездку с гидом с возвратом к машине.",
+        "sources": [
+          "higueron-owner",
+          "tronadora-osm",
+          "montetours-ebike-cloud",
+          "montetours-ebike-local-guide"
+        ]
+      }
+    ],
+    "nearby": [
+      "higueron-roof",
+      "santa-elena-tronadora-ebike-50",
+      "tronadora-roof",
+      "monteverde-ebike-cloud-forest"
+    ],
+    "track": "ebike-tronadora-field",
+    "photos": [
+      "reserva-monteverde-commons",
+      "arenal-dam"
+    ],
+    "galleries": [
+      "ebike-tronadora-field"
+    ],
+    "contacts": [
+      {
+        "name": "Camping Higuerón",
+        "source": "higueron-owner",
+        "note": "Бронь и геометка ворот. Сообщите высоту машины, размер палатки и ожидаемое время заезда.",
+        "url": "https://wa.me/50683735808",
+        "phone": "+506 8373 5808"
+      },
+      {
+        "name": "Reserva Bosque Nuboso Santa Elena",
+        "source": "santa-elena-community-tickets-2026",
+        "note": "Тропы для самостоятельного входа. Уточните доступ с коляской и закажите гида для выбранного маршрута.",
+        "phone": "+506 8532 9090",
+        "email": "reservaciones@reservasantaelena.org",
+        "url": "https://reservasantaelena.org/index.php/reservaciones/"
+      },
+      {
+        "name": "Camping Bahía de la Península · La Tronadora",
+        "source": "camp-tronadora",
+        "note": "Площадка для крыши, ворота, ночная цена, электричество и спуск к озеру.",
+        "phone": "+506 8859 8990",
+        "url": "https://wa.me/50688598990"
+      },
+      {
+        "name": "Camping La Tronadora · телефон площадки",
+        "source": "tronadora-voz-guanacaste-camping",
+        "note": "Второй опубликованный номер. Уточняйте дневное посещение и условия ночёвки.",
+        "phone": "+506 2693 1370"
+      }
+    ]
+  },
+  "paquera-nicoya-sea-kayak-3": {
+    "connectStops": false,
+    "stops": [
+      {
+        "point": "bahia-rica-base",
+        "role": "Пунта-Кучильо · старт и возврат Bahía Rica",
+        "note": "Уточните частный спуск и время подбора оборудования."
+      },
+      {
+        "point": "nicoya-gitana-island-orientation",
+        "role": "Гитана · ориентир острова",
+        "note": "Место высадки для паузы сверяйте с местной командой."
+      },
+      {
+        "point": "paquera-playa-blanca-area",
+        "role": "Плайя-Бланка · район первой ночёвки",
+        "note": "Ориентир пляжа, не пин кемпинга. Уточните место и разрешение."
+      },
+      {
+        "point": "paquera-playa-gigante-area",
+        "role": "Бухта Гиганте · береговой ориентир",
+        "note": "Дату, время и маршрут по манграм определяйте по приливу и прогнозу."
+      },
+      {
+        "point": "cedros-island-reference-point",
+        "role": "Седрос · район второй ночёвки",
+        "note": "Ориентир острова. Подход, конкретное место лагеря и запасной выход согласуйте до старта."
+      },
+      {
+        "point": "paquera-jesusita-island-reference",
+        "role": "Хесусита · ориентир возврата",
+        "note": "Пин географического объекта, режим высадки зависит от выбранного участка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что включает морской прокат",
+        "text": "Закрытый индивидуальный морской каяк с рулём, весло, жилет, юбка и страховка. В прайсе проката перечислены насос, запасное весло и поплавок для самоспасения. По предварительной заявке можно взять палатку, гермомешок и кухонное снаряжение.",
+        "sources": [
+          "bahiarica-kayak-expedition-self"
+        ]
+      },
+      {
+        "title": "Навигация и охраняемые места",
+        "text": "Ориентиры показывают заявленные районы. Точный путь составьте с Bahía Rica под глубину, течения, бриз, движение паромов и доступные места выхода. Сверьте границы резерватов Pájaros, Negritos и Guayabo. Запланируйте осмотр только с воды с разрешённого расстояния.",
+        "sources": [
+          "bahiarica-kayak-expedition-self",
+          "ict-golfe-island-access"
+        ]
+      },
+      {
+        "title": "Ночёвки и автономность",
+        "text": "Питьевая вода и высадка проверяются на оба дня. Возьмите связь в гермочехле, фонарь, запас еды и воды, запасное весло, аптечку и оборудование для самоспасения. Если группа не может уверенно возвращаться в закрытый каяк из воды, выберите дневной выезд с гидом.",
+        "sources": [
+          "bahiarica-kayak-expedition-self",
+          "bahia-rica-water-activities"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bahía Rica · прокат и план морского маршрута",
+        "source": "bahiarica-kayak-expedition-self",
+        "note": "Уточните опыт группы, варианты ночёвок, условия выдачи и возврата, запасную высадку и ограниченные акватории.",
+        "url": "https://bahiarica.com/contact",
+        "phone": "+506 8850 5314"
+      }
+    ],
+    "nearby": [
+      "paquera-paddle-sup",
+      "paquera-bioluminescence-kayak",
+      "paquera-ferry-weekend-3"
+    ],
+    "galleries": [
+      "bahiarica-kayak-expedition-self",
+      "paquera-nicoya-ict-beaches"
+    ],
+    "videos": [
+      "isla-gitana-mycamp-video"
+    ]
+  }
+}
