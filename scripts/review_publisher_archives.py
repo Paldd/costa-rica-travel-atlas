@@ -25,7 +25,7 @@ VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "met
 SECTION_PATH = re.compile(r"/(?:author|authors|category|categoria|tag|tags|page|search)(?:/|$)", re.I)
 MIN_BODY_CHARS = 350
 ARTICLE_BODY_CLASSES = {"blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg"}
-EXTRACTOR_VERSION = 4
+EXTRACTOR_VERSION = 5
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
 
@@ -54,10 +54,13 @@ class EditorialPage(HTMLParser):
             wordpress_post = (attrs.get("id") or "").startswith("post-") and {"type-post", "hentry"} <= classes
             content = (
                 tag in {"article", "main"} or attrs.get("role") == "main" or attrs.get("itemprop") == "articleBody"
-                or attrs.get("id") in {"main-content", "main-blog-content", "article-content"}
+                or attrs.get("id") in {"main-content", "main-blog-content", "article-content", "dnn_content"}
+                or attrs.get("data-elementor-type") in {"wp-post", "wp-page"}
                 or bool(classes & ARTICLE_BODY_CLASSES) or wordpress_post
             )
-            exclude = tag in SKIP or "hidden" in attrs or attrs.get("aria-hidden") == "true"
+            # DNN wraps the page in a form, with editorial content inside dnn_content.
+            layout_form = tag == "form" and attrs.get("id") == "Form" and self.stack and self.stack[-1][0] == "body"
+            exclude = (tag in SKIP and not layout_form) or "hidden" in attrs or attrs.get("aria-hidden") == "true"
             self.stack.append((tag, content, exclude))
             self.main_depth += content
             self.skip_depth += exclude
