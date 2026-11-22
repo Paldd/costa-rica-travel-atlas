@@ -574,5 +574,23 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Islote_Manuelita_en_Isla_del_Coco.JPG",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "ebike-carrillo-commons": {
+    "file": "carrillo-beach-commons.jpg",
+    "alt": "Пальмы и широкая дуга Плайя-Каррильо в Коста-Рике",
+    "caption": "Плайя-Каррильо, береговая остановка веломаршрута. Архивная фотография 2006 года, оригинал.",
+    "author": "Rodrigo Morales Corrales (Rodtico21)",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Carrillo.JPG"
+  },
+  "ebike-cocobay-commons": {
+    "file": "cocobay-commons.jpg",
+    "alt": "Вид из холмов на бухту Плайяс-дель-Коко",
+    "caption": "Архивная панорама бухты Плайяс-дель-Коко в начале зелёного сезона, оригинал.",
+    "author": "Pacificorealty",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Cocobay,_Playas_del_Coco,_Costa_Rica,_2011.jpg"
   }
 }

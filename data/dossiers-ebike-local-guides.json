@@ -1,0 +1,851 @@
+{
+  "samara-carrillo-ebike-beaches": {
+    "stops": [
+      {
+        "point": "samara-coffee",
+        "role": "Самара · центр и точка отсчёта",
+        "note": "Ориентир у кафе. Точную точку выдачи назначает прокат."
+      },
+      {
+        "point": "carrillo-shore-area",
+        "role": "Плайя-Каррильо · разворот на берегу",
+        "note": "Пляжная остановка. Оставьте велосипеды в разрешённом месте, если собираетесь гулять у воды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога и покрытие",
+        "text": "Длина 8,3 км рассчитана по прибрежной дороге OpenStreetMap в обе стороны. Маршрут по дорогам общего пользования, с общим трафиком и короткими подъёмами. После ливня и в плотном движении сократите поездку до улиц Самары.",
+        "sources": [
+          "osm-cr-points",
+          "ebike-nicoya-gravel-forum",
+          "cr-road-cycle-law"
+        ]
+      },
+      {
+        "title": "Прокат и остановка на пляже",
+        "text": "Оператор выдаёт шлем и замок и указывает диапазон аренды от 3 до 24 часов. Сделайте фото состояния велосипеда при выдаче и уточните залог. Муниципалитет описывает парковку и места для отдыха на Каррильо.",
+        "sources": [
+          "ebike-samara-explorers-rent",
+          "carrillo-hojancha-beach"
+        ]
+      },
+      {
+        "title": "Пример берега и дополнительные места",
+        "text": "Муниципальное видео показывает Каррильо. В Самаре удобно поесть перед выездом или вернуться к школе сёрфинга и SUP на следующий день.",
+        "sources": [
+          "carrillo-hojancha-video",
+          "samara-cafes",
+          "pato-surf"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sámara Explorers · выдача e-bike",
+        "source": "ebike-samara-explorers-rent",
+        "note": "Уточните место выдачи, рост и возраст райдеров, запас заряда и условия возврата.",
+        "phone": "+506 8959 4747",
+        "email": "info@samaraexplorers.com",
+        "whatsapp": "https://wa.me/50689594747"
+      }
+    ],
+    "nearby": [
+      "samara-cocos-beach-camp",
+      "guiones-samara-carrillo-27"
+    ],
+    "connectStops": false,
+    "photos": [
+      "ebike-carrillo-commons"
+    ],
+    "videos": [
+      "carrillo-hojancha-video"
+    ],
+    "galleries": [
+      "ebike-samara-explorers-rent"
+    ],
+    "line": "samara-carrillo-roundtrip-road"
+  },
+  "samara-carrillo-ebike-camp-2": {
+    "stops": [
+      {
+        "point": "samara-cocos-camp-pin",
+        "role": "Camping Los Cocos · ночёвка",
+        "note": "Хозяйский навигационный ориентир. Уточните тип места и оставление вещей после выезда."
+      },
+      {
+        "point": "samara-coffee",
+        "role": "Самара · центр и точка отсчёта",
+        "note": "Ориентир у кафе. Точную точку выдачи назначает прокат."
+      },
+      {
+        "point": "carrillo-shore-area",
+        "role": "Плайя-Каррильо · разворот на берегу",
+        "note": "Пляжная остановка. Оставьте велосипеды в разрешённом месте, если собираетесь гулять у воды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Чем полезна одна база",
+        "text": "Утренний выезд не требует собирать палатку в темноте. Прокат можно оформить на несколько часов. Предварительно согласуйте, можно ли держать велосипед ночью и где безопасно оставить батарею.",
+        "sources": [
+          "ebike-samara-explorers-rent",
+          "cocos-samara-camping-contact"
+        ]
+      },
+      {
+        "title": "Что пишут о кемпинге",
+        "text": "В местном справочнике есть фотографии площади у моря. La Voz de Guanacaste упоминает лагерь в обзоре мест для ночёвки. Текущий подъезд и условия электричества проверяйте по контакту площадки.",
+        "sources": [
+          "cocos-samara-yoko",
+          "cocos-samara-voz"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sámara Explorers · выдача e-bike",
+        "source": "ebike-samara-explorers-rent",
+        "note": "Уточните место выдачи, рост и возраст райдеров, запас заряда и условия возврата.",
+        "phone": "+506 8959 4747",
+        "email": "info@samaraexplorers.com",
+        "whatsapp": "https://wa.me/50689594747"
+      },
+      {
+        "name": "Camping Los Cocos",
+        "source": "cocos-samara-camping-contact",
+        "note": "Запросите дату, место машины, электричество и условия крыши и костров.",
+        "phone": "+506 6132 6712",
+        "url": "https://wa.me/50661326712"
+      }
+    ],
+    "nearby": [
+      "samara-cocos-beach-camp",
+      "samara-carrillo-ebike-beaches"
+    ],
+    "connectStops": false,
+    "line": "samara-carrillo-roundtrip-road",
+    "photos": [
+      "samara-beach-commons",
+      "ebike-carrillo-commons"
+    ],
+    "galleries": [
+      "cocos-samara-yoko",
+      "ebike-samara-explorers-rent"
+    ]
+  },
+  "nosara-samara-fukawee-ebike-24": {
+    "stops": [
+      {
+        "point": "nosara-mtb-guiones-assembly",
+        "role": "Плайя-Гионес · район встречи",
+        "note": "У оператора место встречи указано как Orgánico Bakery. Метка показывает район Гионес, адрес на день выезда пришлёт гид."
+      },
+      {
+        "point": "samara-coffee",
+        "role": "Самара · район окончания велоэтапа",
+        "note": "Подтвердите фактический финиш и порядок обратного трансфера."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что включает выезд",
+        "text": "В карточке организатора перечислены вода, перекус, обед, шлем, механик и машина поддержки. Верхний блок сайта называет e-bike опцией, а перечень включённых услуг указывает его в пакете. Попросите итоговую смету с моделью велосипеда.",
+        "sources": [
+          "ebike-fukawee-guiones-samara-24",
+          "ebike-fukawee-searchsamara"
+        ]
+      },
+      {
+        "title": "Когда стоит ехать с гидом",
+        "text": "Маршрут соединяет две бухты по грунтовым и второстепенным асфальтированным дорогам. Местный отчёт о грунтовках описывает жару и размытие после дождя. Машина поддержки полезна, если у участников разный темп.",
+        "sources": [
+          "ebike-fukawee-guiones-samara-24",
+          "ebike-nicoya-gravel-forum"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Fukawee Bike Tours · Оханча, Гуанакасте",
+        "source": "ebike-fukawee-searchsamara",
+        "note": "Запросите состав этапов, где будет ночёвка и в какой момент машина может забрать райдера.",
+        "phone": "+506 6342 1345",
+        "url": "https://fukaweebiketours.com/"
+      }
+    ],
+    "nearby": [
+      "samara-carrillo-ebike-beaches",
+      "guiones-samara-carrillo-27",
+      "samara-tamarindo-fukawee-ebike-94"
+    ],
+    "connectStops": false,
+    "photos": [
+      "samara-beach-commons"
+    ],
+    "galleries": [
+      "ebike-fukawee-guiones-samara-24"
+    ]
+  },
+  "samara-tamarindo-fukawee-ebike-94": {
+    "stops": [
+      {
+        "point": "samara-coffee",
+        "role": "Самара · район старта",
+        "note": "На карте центр. Место выдачи и начало этапа сообщит гид."
+      },
+      {
+        "point": "tamarindo-iguana",
+        "role": "Тамариндо · район финиша",
+        "note": "Координаты центра. Уточните адрес завершения и обратный трансфер."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Покрытие и логистика",
+        "text": "В программе указаны гравий, пересечённый рельеф, ночёвка, сопровождение и механик. Места прохождения отрезков зависят от даты. Уточните, можно ли проехать только один из двух дней.",
+        "sources": [
+          "ebike-fukawee-samara-tamarindo-94",
+          "ebike-fukawee-searchsamara"
+        ]
+      },
+      {
+        "title": "Заряд и жара",
+        "text": "Попросите подтвердить зарядку ночью и на участках с поддержкой. В обсуждениях Никои райдеры отмечают рыхлый грунт и автомобильный трафик. Возьмите воду на каждый переход, а заряд проверяйте на первой длинной остановке.",
+        "sources": [
+          "ebike-fukawee-samara-tamarindo-94",
+          "ebike-nicoya-gravel-forum",
+          "ebike-pacific-bikepacking-forum"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Fukawee Bike Tours · Оханча, Гуанакасте",
+        "source": "ebike-fukawee-searchsamara",
+        "note": "Запросите состав этапов, где будет ночёвка и в какой момент машина может забрать райдера.",
+        "phone": "+506 6342 1345",
+        "url": "https://fukaweebiketours.com/"
+      }
+    ],
+    "nearby": [
+      "nosara-samara-fukawee-ebike-24",
+      "nosara-tamarindo-gravel-59",
+      "tamarindo-surf"
+    ],
+    "connectStops": false,
+    "photos": [
+      "samara-beach-commons"
+    ],
+    "galleries": [
+      "ebike-fukawee-samara-tamarindo-94"
+    ]
+  },
+  "coco-coastal-hills-electricbike": {
+    "stops": [
+      {
+        "point": "coco-cycling-anchor",
+        "role": "Плайяс-дель-Коко · район начала",
+        "note": "Ориентир посёлка. Гид назначает сбор у мастерской на Calle Los Tanques или у отеля."
+      },
+      {
+        "point": "playas-coco-harbor-beach",
+        "role": "Берег Коко · ориентир бухты",
+        "note": "Район для остановки в посёлке. Проезд по песку согласуйте с оператором и береговыми правилами."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прокат и катание с гидом",
+        "text": "Через местную мастерскую можно арендовать e-bike или записаться на выезд. По публикации прокат на день или дольше, доступны шлем, питьевая система и набор для ремонта. Для первого спуска попросите короткую настройку перед поездкой.",
+        "sources": [
+          "ebike-coco-electricbike-rentals",
+          "ebike-coco-local-guide"
+        ]
+      },
+      {
+        "title": "Практика участников",
+        "text": "В отзывах о коротком выезде описаны холмы с видами над бухтой. Сложность можно обсудить до старта. Для самостоятельного выезда по посёлку уточните, какие улицы спокойнее и где запирают велотехнику.",
+        "sources": [
+          "ebike-coco-firsthand-reviews",
+          "ebike-coco-local-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Electric Bike Costa Rica · Франк и команда",
+        "source": "ebike-coco-electricbike-contact",
+        "note": "Согласуйте старт, размер рамы, длительность и условия переноса.",
+        "url": "https://www.electricbikecostarica.com/contact",
+        "phone": "+506 8593 5077",
+        "whatsapp": "https://wa.me/50685935077",
+        "email": "contact@electricbikecostarica.com"
+      }
+    ],
+    "nearby": [
+      "coco-las-pilas-ebike-waterfall",
+      "rincon-lower-slopes-coco-emtb-day",
+      "coco-marlin-catamaran"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-coco-electricbike-catalog",
+      "ebike-coco-firsthand-reviews"
+    ],
+    "photos": [
+      "ebike-cocobay-commons"
+    ]
+  },
+  "coco-las-pilas-ebike-waterfall": {
+    "stops": [
+      {
+        "point": "coco-cycling-anchor",
+        "role": "Плайяс-дель-Коко · район начала",
+        "note": "Ориентир посёлка. Гид назначает сбор у мастерской на Calle Los Tanques или у отеля."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лас-Пилас и сезонность",
+        "text": "На главной у оператора заявлено 3–4 часа, а в опубликованной программе встречается трёхчасовой вариант. Вода и состояние грунта меняются. Перед записью обсудите, где закончится подъезд и есть ли пеший отрезок.",
+        "sources": [
+          "ebike-coco-electricbike-catalog",
+          "ebike-coco-las-pilas-guide",
+          "ebike-las-pilas-riders"
+        ]
+      },
+      {
+        "title": "Рельеф глазами участников",
+        "text": "Один из опубликованных отзывов описывает речные пересечения, поездку по сельским участкам и остановку у водопада. Дорожку к воде и возможный разворот подтвердите у гида. Для поездки возьмите воду, сухой слой и обувь, которая держит мокрый грунт.",
+        "sources": [
+          "ebike-coco-local-guide",
+          "ebike-las-pilas-riders"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Electric Bike Costa Rica · Франк и команда",
+        "source": "ebike-coco-electricbike-contact",
+        "note": "Согласуйте старт, размер рамы, длительность и условия переноса.",
+        "url": "https://www.electricbikecostarica.com/contact",
+        "phone": "+506 8593 5077",
+        "whatsapp": "https://wa.me/50685935077",
+        "email": "contact@electricbikecostarica.com"
+      }
+    ],
+    "nearby": [
+      "coco-coastal-hills-electricbike",
+      "rincon-lower-slopes-coco-emtb-day"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-coco-las-pilas-guide",
+      "ebike-las-pilas-riders"
+    ]
+  },
+  "rincon-lower-slopes-coco-emtb-day": {
+    "stops": [
+      {
+        "point": "coco-cycling-anchor",
+        "role": "Плайяс-дель-Коко · район начала",
+        "note": "Ориентир посёлка. Гид назначает сбор у мастерской на Calle Los Tanques или у отеля."
+      },
+      {
+        "point": "guachipelin-lodge",
+        "role": "Предгорья · ориентир Гуачипелина",
+        "note": "Район размещения и отдельного MTB-парка. Гид подтвердит, где фактически начинается его маршрут."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подготовка к дню в предгорьях",
+        "text": "На длинный формат берите запас воды, солнцезащиту и лёгкий дождевой слой. Согласуйте запас батареи и точку возможного сокращения. Оператор рекомендует заранее сообщить свой уровень MTB.",
+        "sources": [
+          "ebike-coco-rincon-operator",
+          "ebike-coco-electricbike-catalog"
+        ]
+      },
+      {
+        "title": "Частные сети и парк SINAC",
+        "text": "В районе есть отдельная частная инфраструктура Hacienda Guachipelín и туристические тропы заповедника. Их правила действуют независимо. Отзыв о туре с Франком описывает e-MTB в районе Ринкона, название конкретных троп уточняйте у гида.",
+        "sources": [
+          "ebike-coco-firsthand-reviews",
+          "rincon",
+          "rincon-bike"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Electric Bike Costa Rica · Франк и команда",
+        "source": "ebike-coco-electricbike-contact",
+        "note": "Согласуйте старт, размер рамы, длительность и условия переноса.",
+        "url": "https://www.electricbikecostarica.com/contact",
+        "phone": "+506 8593 5077",
+        "whatsapp": "https://wa.me/50685935077",
+        "email": "contact@electricbikecostarica.com"
+      }
+    ],
+    "nearby": [
+      "coco-coastal-hills-electricbike",
+      "coco-las-pilas-ebike-waterfall",
+      "rincon-mtb",
+      "guachipelin"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-coco-electricbike-catalog",
+      "ebike-coco-firsthand-reviews"
+    ]
+  },
+  "piedades-cerro-azahar-ebike-39": {
+    "stops": [
+      {
+        "point": "san-ramon-piedades-sur-area",
+        "role": "Пьедадес-Сур · ориентир старта",
+        "note": "Публичный центр посёлка. Исходная запись начинается отдельно у частной фермы."
+      },
+      {
+        "point": "ebike-azahar-potreri",
+        "role": "Потрерильос · ориентир выхода к Чассулю",
+        "note": "Сельские дороги перед первым длинным подъёмом. На развилках понадобится карта автора."
+      },
+      {
+        "point": "ebike-sanramon-la-paz",
+        "role": "Ла-Пас · район возврата",
+        "note": "Отсюда запись идёт через Ла-Пальму обратно в Пьедадес-Сур."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Последовательность подъёма и возврата",
+        "text": "От Пьедадес-Сур выезжают к Потрерильосу и по Calle Chassoul до Кебрада-Виктории. Затем Сан-Антонио, Calle Quetzal и подъём на Серро-Асаар. Возвращаются через Альто-Ла-Пас, Ла-Пас и Ла-Пальму.",
+        "sources": [
+          "ebike-osvano-cerro-azahar-jun2026",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Время, доступ и батарея",
+        "text": "Автор записал около 4 ч 47 мин, включая остановки. Выезд проходил с частной точки, возможность парковки выясняйте заранее. Возьмите насос, набор для ремонта, достаточный запас воды и скачанную карту. Фотографии и трек открываются на странице автора.",
+        "sources": [
+          "ebike-osvano-cerro-azahar-jun2026",
+          "san-ramon-muni-aventura"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "san-ramon-piedades-sur-ebike-49",
+      "piedades-sur-musas-ambar-2"
+    ],
+    "connectStops": false,
+    "track": "ebike-osvano-cerro-azahar-jun2026",
+    "galleries": [
+      "ebike-osvano-cerro-azahar-jun2026"
+    ]
+  },
+  "sarchi-bajos-toro-ebike-rider-report": {
+    "stops": [
+      {
+        "point": "ebike-sarchi-sur-start",
+        "role": "Сарчи-Сур · начало дорожного варианта",
+        "note": "Публичный ориентир у Ruta 708. Согласуйте место парковки до старта."
+      },
+      {
+        "point": "ebike-bajos-toro-town",
+        "role": "Бахос-дель-Торо · финиш дорожного варианта",
+        "note": "Договоритесь о встрече с машиной в посёлке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "GPX по дороге общего пользования",
+        "text": "Встроенная линия рассчитана по Ruta 708 на 23,7 км в одну сторону до Бахос-дель-Торо. В долине удобно заранее назначить встречу с машиной. Исходная поездка райдеров по другим дорогам подробно описана ниже.",
+        "sources": [
+          "ebike-osm-road-corridors",
+          "ebike-zarcero-pueblo-nuevo-toro-road",
+          "ebike-osvano-sarchi-toro-dec2025"
+        ]
+      },
+      {
+        "title": "Что известно из записи",
+        "text": "В декабре 2025 участники поднялись через Трохас к Альто-Паломо и спустились в Бахос-дель-Торо. Из долины они поднимались в сторону Сарсеро. В отчёте описаны грязный участок у Чайоте и старая дорога в районе El Silencio.",
+        "sources": [
+          "ebike-osvano-sarchi-toro-dec2025",
+          "ebike-zarcero-pueblo-nuevo-toro-road"
+        ]
+      },
+      {
+        "title": "Самостоятельный вариант",
+        "text": "Попросите местных подтвердить покрытие подъезда по Ruta 708 и возможность подбора у посёлка. Сверьтесь с прогнозом и не планируйте ночной спуск. Водопады оставьте на отдельную остановку, так проще уложиться в световой день.",
+        "sources": [
+          "ebike-zarcero-pueblo-nuevo-toro-road",
+          "ebike-aguaepipa-bajos-del-toro",
+          "toro-operator-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Catarata Del Toro Adventures · остановка в долине",
+        "source": "toro-operator",
+        "note": "По телефону уточняют доступность посещения водопада, парковку и режим входа. Отдельно спросите о месте, где можно оставить велосипед.",
+        "phone": "+506 8399 7476",
+        "url": "https://wa.me/50683997476",
+        "email": "info@catarata-del-toro.com"
+      }
+    ],
+    "nearby": [
+      "bajos-toro-weekend",
+      "bajos-finca-dos-rios-cascades"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-osvano-sarchi-toro-dec2025",
+      "ebike-aguaepipa-bajos-del-toro"
+    ],
+    "line": "sarchi-toro-ruta-708-ebike"
+  },
+  "turrialba-pastor-capellades-ebike-40": {
+    "stops": [
+      {
+        "point": "ebike-turrialba-pastor",
+        "role": "Пастор · район исходного старта",
+        "note": "Точный старт уточняйте по исходному треку."
+      },
+      {
+        "point": "turrialba-city-anchor",
+        "role": "Турриальба · сервис и короткая версия",
+        "note": "Посёлок для пополнения воды и встречи с машиной."
+      },
+      {
+        "point": "ebike-santa-cruz-turrialba",
+        "role": "Санта-Крус · верхний район выезда",
+        "note": "Точка показывает населённый пункт на описанном коридоре."
+      },
+      {
+        "point": "ebike-capellades",
+        "role": "Капельядес · переход к Хуан-Виньясу",
+        "note": "Высокая часть кольца. Сверьте развилки с оригиналом."
+      },
+      {
+        "point": "ebike-juan-vinas",
+        "role": "Хуан-Виньяс · район финальной связки",
+        "note": "При необходимости согласуйте подбор машины на общественной парковке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что зафиксировано у автора",
+        "text": "Фотографии, отметки развилок и статистика доступны в Wikiloc. В описании упомянут Рио-Кларо, затем Санта-Крус, Капельядес и Хуан-Виньяс. Путеводитель ICT поможет спланировать отдельные остановки и объезд.",
+        "sources": [
+          "ebike-wikiloc-turrialba-pastor-feb2026",
+          "ebike-turrialba-municipal-ict-guide",
+          "ebike-ict-terrain"
+        ]
+      },
+      {
+        "title": "Местная помощь",
+        "text": "В Турриальбе есть профильные e-MTB-гиды. Их программа с бронированием самостоятельна. Если есть сомнения в погоде или проезде, попросите оценить конкретные пересечения и помочь подобрать выезд на день.",
+        "sources": [
+          "ebiking-turrialba-ict",
+          "ebike-wikiloc-turrialba-pastor-feb2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ebiking Costa Rica · местная команда Турриальбы",
+        "source": "ebiking-turrialba-ict",
+        "note": "Уточните, могут ли проверить e-bike и предложить съезд по актуальным местным дорогам.",
+        "url": "https://ebikingcostarica.com/contact-us/",
+        "phone": "+506 8311 2282",
+        "email": "info@ebikingcr.com"
+      }
+    ],
+    "nearby": [
+      "turrialba-ebike-halfday",
+      "irazu-la-central-aquiares-emtb"
+    ],
+    "connectStops": false,
+    "track": "ebike-wikiloc-turrialba-pastor-feb2026",
+    "galleries": [
+      "ebike-wikiloc-turrialba-pastor-feb2026",
+      "ebike-turrialba-municipal-ict-guide"
+    ]
+  },
+  "fortuna-sonafluca-family-ebike-22": {
+    "stops": [
+      {
+        "point": "ebike-la-fortuna-center",
+        "role": "Ла-Фортуна · район выезда",
+        "note": "Организатор уточняет старт и включённый трансфер на выбранную дату."
+      },
+      {
+        "point": "ebike-sonafluca",
+        "role": "Сонафлука · район грунтовок",
+        "note": "Сельский ориентир по карте. Линию на день выезда подтверждает гид."
+      },
+      {
+        "point": "ebike-el-bosque",
+        "role": "Эль-Боске · конец сельского этапа",
+        "note": "Отсюда в программе есть дополнительный возврат в Ла-Фортуну около 7 км по асфальту."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лёгкий профиль и покрытие",
+        "text": "Оператор указывает около четырёх часов, ориентир 22 км и +188 м. Маршрут включает ухабы, короткие асфальтовые перегоны и остановку у реки. Уточните у гида, как меняется расстояние, если закончить в Эль-Боске.",
+        "sources": [
+          "ebike-bikearenal-sonafluca-ride"
+        ]
+      },
+      {
+        "title": "Электровелосипед и размер рамы",
+        "text": "Модель Giant Talon E+ указана на странице отдельного проката. Для этой экскурсии запросите e-bike или разрешение привезти свой. При выборе детского велосипеда ориентируйтесь на уверенность в управлении и рост.",
+        "sources": [
+          "ebike-fortuna-bikearenal-electric-rental",
+          "ebike-bikearenal-sonafluca-ride"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bike Arenal · гиды и прокат в Ла-Фортуне",
+        "source": "ebike-fortuna-bikearenal-electric-rental",
+        "note": "Назовите рост детей и взрослых. Подтвердите наличие e-bike, длину выезда и правила для своего велосипеда.",
+        "phone": "+506 2479 9020",
+        "email": "info@bikearenal.com",
+        "whatsapp": "https://wa.me/50671043315"
+      }
+    ],
+    "nearby": [
+      "arenal-dam-el-castillo-mtb",
+      "arenal-private-ebike-2-6"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-bikearenal-sonafluca-ride",
+      "ebike-fortuna-bikearenal-electric-rental"
+    ]
+  },
+  "san-jose-expert-singletrack-emtb-private": {
+    "stops": [
+      {
+        "point": "ebike-san-jose-central-anchor",
+        "role": "Сан-Хосе · район трансфера",
+        "note": "Координаты центра города. Старт и трассы назначит гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Техника и снаряжение",
+        "text": "Подъёмы с электропомощью сохраняют силы на спуски. Нужен опыт торможения на крутом и работе на неровностях. Согласуйте защиту коленей, шлем, модель велосипеда и ответственность за детали.",
+        "sources": [
+          "ebike-costa-rica-mtb-expert"
+        ]
+      },
+      {
+        "title": "Другие местные тропы",
+        "text": "В обсуждении r/Ticos упоминаются Ла-Анхелина и Ла-Луча. Для первого выезда с e-MTB в каталоге есть отдельная карточка Ла-Анхелины с подтверждённым допуском. Маршрут этого гида зависит от группы.",
+        "sources": [
+          "ebike-costaricamtb-guide-trips",
+          "ebike-ticos-rutas-forum"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Rica MTB · проверить даты и условия",
+        "source": "ebike-costa-rica-mtb-expert",
+        "note": "Запросите точку подбора, уровень спусков, пакет аренды и условия на случай дождя."
+      }
+    ],
+    "nearby": [
+      "la-angelina-emtb-weekend",
+      "la-angelina-azul-ebike-7",
+      "lucha-bike"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-costaricamtb-guide-trips"
+    ]
+  },
+  "liberia-catalinas-tropical-emtb-8": {
+    "stops": [
+      {
+        "point": "liberia-cycle-tour-start",
+        "role": "Либерия · региональный ориентир перед поездкой",
+        "note": "У организатора предусмотрен сбор из аэропорта Либерии. Метка отмечает город для ориентации."
+      },
+      {
+        "point": "las-catalinas",
+        "role": "Лас-Каталинас · известный велоэтап",
+        "note": "Система прибрежных синглтреков. Остальные места подтверждает оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит в многодневный формат",
+        "text": "Организатор указывает семь ночей, частный трансфер, гидов, e-bike, шлем, термы, зиплайн и часть питания. Дополнительные активности и авиабилеты оплачиваются по условиям пакета.",
+        "sources": [
+          "ebike-ridetheearth-tropical-8day"
+        ]
+      },
+      {
+        "title": "Тропы и личные настройки",
+        "text": "Попросите список технических участков, прогноз длительности этапов, размеры и настройки велосипеда. Опубликованы варианты с лесной и береговой частью. Проверяйте наличие даты на странице продукта и у координатора.",
+        "sources": [
+          "ebike-ridetheearth-tropical-8day",
+          "ebike-ridetheearth-cr-departures",
+          "ebike-aguaepipa-biking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ride the Earth · координатор экспедиции",
+        "source": "ebike-ridetheearth-cr-departures",
+        "note": "Запросите дату, полную стоимость, максимальный размер группы, страховку и детали маршрута.",
+        "phone": "+1 406 451 1764",
+        "email": "sendit@ridetheearth.com"
+      }
+    ],
+    "nearby": [
+      "catalinas-emtb-12",
+      "guanacaste-north-volcanoes-ebike-6"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-ridetheearth-tropical-8day",
+      "ebike-ridetheearth-cr-departures"
+    ]
+  },
+  "puerto-viejo-playa-negra-short-ebike": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо · центр и район проката",
+        "note": "Пункт проката указывает Avenida 73. Место выдачи уточните у владельца."
+      },
+      {
+        "point": "puertoviejo-negra-shore",
+        "role": "Плайя-Негра · район разворота",
+        "note": "Остановитесь на доступной улице у берега, оставив проезд свободным."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога и покрытие",
+        "text": "Движение по прибрежной дороге и местным улицам. В местном путеводителе описан ровный подход от города. В обсуждениях встречаются ямы на грунтовых ответвлениях. Для пляжного этапа оставьте велосипед на стоянке.",
+        "sources": [
+          "ebike-playa-negra-coast-road",
+          "ebike-playa-negra-pv-satellite",
+          "ebike-puerto-viejo-side-roads-forum",
+          "cr-road-cycle-law"
+        ]
+      },
+      {
+        "title": "Что проверить при аренде",
+        "text": "Мастерская публикует модельный ряд и порядок проката. Уточните возраст, размер рамы, шлем, залог, поддержку на дороге и доступ к велозамку. Первый короткий выезд удобен для проверки запаса хода.",
+        "sources": [
+          "pv-bike-electric",
+          "pv-bike-office"
+        ]
+      },
+      {
+        "title": "Видео и продолжение",
+        "text": "В видео Todo bien, mamá Плайя-Негра показана с отметки 01:22. Для более длинного выезда в другую сторону можно вернуться в центр и отдельно выбрать маршрут к Мансанильо.",
+        "sources": [
+          "ebike-pv-playa-negra-video",
+          "ebike-playa-negra-pv-satellite"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Puerto Viejo Bike Rentals · Avenida 73",
+        "source": "pv-bike-office",
+        "note": "Подтвердите ассортимент педальных e-bike, возраст и шлем.",
+        "phone": "+506 8971 2196",
+        "email": "info@puertoviejobikerentals.com",
+        "whatsapp": "https://wa.me/50689712196"
+      }
+    ],
+    "nearby": [
+      "puerto-viejo-bike-manzanillo"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-playa-negra-pv-satellite",
+      "ebike-playa-negra-coast-road"
+    ],
+    "videos": [
+      "ebike-pv-playa-negra-video"
+    ],
+    "line": "puerto-viejo-playa-negra-road-ebike"
+  },
+  "papagayo-bike-share-resort-roads": {
+    "stops": [
+      {
+        "point": "papagayo-four-seasons-hotel",
+        "role": "Four Seasons · ориентир южной части полуострова",
+        "note": "Станцию и наличие велосипедов уточняйте по официальной карте и в приложении."
+      },
+      {
+        "point": "papagayo-marina-parking",
+        "role": "Марина · ориентир северной части полуострова",
+        "note": "Дорожный ориентир. Фактическую точку для велосипеда и вход подтвердит консьерж."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Гостевой доступ и ограничения",
+        "text": "Официальная карта показывает станции по полуострову. Гость регистрируется на месте через отель. Для поездки по холмам выбирайте режим по уклону и проверьте оба тормоза у станции.",
+        "sources": [
+          "ebike-papagayo-bike-share-andaz",
+          "ebike-papagayo-andaz-stations-map",
+          "ebike-papagayo-shared-bicycles-terms"
+        ]
+      },
+      {
+        "title": "Что посмотреть по пути",
+        "text": "На опубликованной схеме Papagayo Park есть велостанция, семейные площадки и кафе. Памп-трек предназначен для подходящего инвентаря по правилам парка. Для e‑MTB по лесу есть отдельный выезд с гидом в Пальмарес.",
+        "sources": [
+          "ebike-papagayo-park-current",
+          "ebike-papagayo-park-layout",
+          "ebike-papagayo-shared-bicycles-terms"
+        ]
+      },
+      {
+        "title": "Возврат велосипеда",
+        "text": "Сверьте часы доков в приложении. При парковке дождитесь подтверждения возврата, а если док занят, свяжитесь со службой Bike Share по телефону.",
+        "sources": [
+          "ebike-papagayo-shared-bicycles-terms"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Peninsula Papagayo Bike Share",
+        "source": "ebike-papagayo-shared-bicycles-terms",
+        "note": "Поддержка по станции, выдаче, доступу и возврату.",
+        "phone": "+506 2696 2222",
+        "email": "explore@peninsulapapagayo.com"
+      }
+    ],
+    "nearby": [
+      "papagayo-palmares-emtb-16",
+      "nacascolo-public-beach"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-papagayo-bike-share-andaz",
+      "ebike-papagayo-andaz-stations-map",
+      "ebike-papagayo-park-current"
+    ]
+  }
+}

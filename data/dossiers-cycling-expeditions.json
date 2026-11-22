@@ -36,6 +36,16 @@
           "bikearenal-castillo-map",
           "fortuna-services-castillo-bike"
         ]
+      },
+      {
+        "title": "Электровелосипед и точка старта",
+        "text": "Bike Arenal отдельно указывает e-bike с педальной поддержкой и рамы M и L. Запросите такую комплектацию для тура или возьмите e-bike на самостоятельный дорожный выезд. Место старта у дамбы сокращает поездку по загруженным дорогам со стороны Ла-Фортуны.",
+        "sources": [
+          "ebike-fortuna-bikearenal-electric-rental",
+          "bikearenal-castillo-map",
+          "ebike-arenal-bike-forum",
+          "ebike-fortuna-mistico-forum"
+        ]
       }
     ],
     "contacts": [
@@ -50,12 +60,14 @@
     ],
     "galleries": [
       "bikearenal-castillo-map",
-      "fortuna-services-castillo-bike"
+      "fortuna-services-castillo-bike",
+      "ebike-fortuna-bikearenal-electric-rental"
     ],
     "nearby": [
       "arenal-tumbas-guided-mtb-24",
       "el-castillo-fogata-camp",
-      "arenal-paddle"
+      "arenal-paddle",
+      "fortuna-sonafluca-family-ebike-22"
     ],
     "track": "bikearenal-castillo-map",
     "connectStops": false,

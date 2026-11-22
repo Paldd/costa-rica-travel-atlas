@@ -33,6 +33,13 @@
           "angelina-nov-posts",
           "angelina-team-coreco"
         ]
+      },
+      {
+        "title": "Что советуют местные райдеры",
+        "text": "В обсуждении о катании вне автомобильных дорог местные упоминают Ла-Анхелину и другие парки. Подтверждение e-MTB и доступ к каждой линии сверяйте с площадкой на выбранную дату.",
+        "sources": [
+          "ebike-ticos-rutas-forum"
+        ]
       }
     ],
     "galleries": [
@@ -42,7 +49,8 @@
     "nearby": [
       "la-angelina-trail-11",
       "oikoumene",
-      "cross-ochomogo-chicua-mtb-47"
+      "cross-ochomogo-chicua-mtb-47",
+      "san-jose-expert-singletrack-emtb-private"
     ],
     "track": "angelina-trailforks-network",
     "videos": [

@@ -50,6 +50,15 @@
           "uva-local-hotel-guide",
           "pv-cycle-local-log"
         ]
+      },
+      {
+        "title": "Видеодневник e-bike на Карибах",
+        "text": "Jamvill показывает береговые перегоны с электропомощью. Модели и условия уточняйте у текущих прокатчиков. Для первого короткого выезда можно выбрать Плайя-Негра на северо-запад от посёлка.",
+        "sources": [
+          "ebike-pv-coastal-electric-video",
+          "pv-bike-electric",
+          "ebike-playa-negra-pv-satellite"
+        ]
       }
     ],
     "contacts": [
@@ -68,10 +77,14 @@
     "nearby": [
       "cocles",
       "punta-uva",
-      "gandoca"
+      "gandoca",
+      "puerto-viejo-playa-negra-short-ebike"
     ],
     "track": "pv-cycle-local-log",
-    "line": "puerto-viejo-bike-manzanillo"
+    "line": "puerto-viejo-bike-manzanillo",
+    "videos": [
+      "ebike-pv-coastal-electric-video"
+    ]
   },
   "orotina-ebike-55": {
     "stops": [

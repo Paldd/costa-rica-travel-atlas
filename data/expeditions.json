@@ -9391,7 +9391,9 @@
     "id": "paso-canoas-boca-chica-family-4",
     "kind": "trip",
     "region": "south",
-    "regions": ["chiriqui-coast"],
+    "regions": [
+      "chiriqui-coast"
+    ],
     "title": "Пасо-Каноас → Бока-Чика · четыре дня на островах и берегу",
     "native": "Paso Canoas · David · Boca Chica · Isla Boca Brava · Isla Gámez · Isla Bolaños",
     "level": "moderate",
@@ -9489,7 +9491,9 @@
     "id": "penas-ometepe-ferry-no-car-4",
     "kind": "trip",
     "region": "guanacaste",
-    "regions": ["ometepe"],
+    "regions": [
+      "ometepe"
+    ],
     "title": "Пеньяс-Бланкас → Ометепе · четыре дня без своей машины",
     "native": "Peñas Blancas · Rivas · San Jorge · Moyogalpa · Charco Verde · Ojo de Agua",
     "level": "moderate",
@@ -9581,6 +9585,263 @@
         "sources": [
           "ni-ometepe-ferry-guide",
           "frontier-ni-tourist-req"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "samara-carrillo-ebike-camp-2",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Самара и Каррильо · два дня с палаткой и e-bike",
+    "native": "Camping Los Cocos · Sámara · Puerto Carrillo",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "multi",
+      "cycling",
+      "ebike",
+      "camping",
+      "beach",
+      "cafe",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "transfer"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "ebike-samara-explorers-rent",
+      "cocos-samara-camping-contact",
+      "cocos-samara-yoko",
+      "cocos-samara-voz",
+      "carrillo-hojancha-beach"
+    ],
+    "summary": "Одна ночёвка в Самаре у моря и утренний выезд к Каррильо. Можно приехать с обычной палаткой и взять e-bike на месте.",
+    "plan": "Сначала договоритесь о площадке и месте хранения. Вторым утром возьмите e-bike, проедьте маршрут туда и обратно и верните велосипед перед выездом.",
+    "conditions": "Согласуйте розетку и хранение с хозяевами. Для палатки на крыше нужен отдельный допуск по габаритам и месту, спросите при бронировании. В дождливую погоду удобнее ездить с утра.",
+    "distance": 8.3,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Самара · заселение и подготовка",
+        "note": "Поставьте палатку, уточните электричество и время тишины. Пройдите к берегу или к кафе. Сверьте выдачу велосипеда на утро.",
+        "stops": [
+          "samara-cocos-beach-camp"
+        ],
+        "sources": [
+          "ebike-samara-explorers-rent",
+          "cocos-samara-camping-contact",
+          "cocos-samara-yoko"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Плайя-Каррильо · велодень",
+        "note": "Круг 8,3 км в обе стороны. Если есть ветер, дождь или плотный трафик, проедьте только по улицам Самары и перенесите Каррильо на трансфер.",
+        "stops": [
+          "samara-carrillo-ebike-beaches",
+          "samara-cocos-beach-camp"
+        ],
+        "sources": [
+          "ebike-samara-explorers-rent",
+          "carrillo-hojancha-beach"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "samara-tamarindo-fukawee-ebike-94",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Самара — Тамариндо на e-bike · 94 км за два дня",
+    "native": "Sámara · Nicoya Peninsula coastal dirt roads · Tamarindo",
+    "level": "hard",
+    "days": 2,
+    "activities": [
+      "multi",
+      "cycling",
+      "ebike",
+      "gravel",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ebike-fukawee-samara-tamarindo-94",
+      "ebike-fukawee-company",
+      "ebike-fukawee-searchsamara",
+      "ebike-pacific-bikepacking-forum",
+      "ebike-nicoya-gravel-forum"
+    ],
+    "summary": "Два велодня через фермы, холмы и прибрежные деревни Никои. Можно запросить e-bike, ночёвка и поддержка указаны в программе.",
+    "plan": "Ехать можно в обе стороны. Попросите актуальный план каждого дня, контакты места ночёвки, расход батареи и место, где машина встречает группу.",
+    "conditions": "94 км и +895 м заявлены на два дня суммарно. Средний этап около 47 км. Отдельный расчёт заряда зависит от покрытия, ветра и веломодели.",
+    "distance": 94,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Самара · первый прибрежный этап",
+        "note": "Сбор, подгонка велосипеда и выезд через сельские дороги. Посёлок ночёвки и фактический километраж уточните у команды.",
+        "stops": [
+          "samara-carrillo-ebike-beaches",
+          "nosara-samara-fukawee-ebike-24"
+        ],
+        "sources": [
+          "ebike-fukawee-samara-tamarindo-94",
+          "ebike-fukawee-searchsamara"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Северная Никоя · финиш в Тамариндо",
+        "note": "Грунтовки и асфальтовые связки до Тамариндо в выбранном направлении. Уточните, где сдать велосипед и как возвращаться на исходную базу.",
+        "stops": [
+          "tamarindo-surf"
+        ],
+        "sources": [
+          "ebike-fukawee-samara-tamarindo-94",
+          "ebike-pacific-bikepacking-forum"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "liberia-catalinas-tropical-emtb-8",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Из Либерии к Лас-Каталинас · восемь дней на e-MTB",
+    "native": "Liberia · Tropical e-Adventure · Las Catalinas · Ride the Earth",
+    "level": "hard",
+    "days": 8,
+    "activities": [
+      "multi",
+      "cycling",
+      "ebike",
+      "mtb",
+      "thermal",
+      "beach",
+      "views",
+      "canopy"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ebike-ridetheearth-tropical-8day",
+      "ebike-ridetheearth-cr-departures",
+      "ebike-aguaepipa-biking",
+      "catalinas-emtb-rent"
+    ],
+    "summary": "Семь ночёвок с гидом. Сначала синглтреки во влажном лесу и термы, затем катание у тихоокеанских бухт, включая трассы Лас-Каталинас.",
+    "plan": "Сбор у Либерии. Уточните даты, фактическую программу, уровень группы, размеры велосипеда, отели и где можно сократить этап.",
+    "conditions": "Пакет включает e-MTB с полной подвеской, шлем, трансферы и часть питания. На длинном прибрежном выезде около 4–5 часов катания. Актуальное полное предложение запросите у организатора.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Либерия · встреча и подгонка e‑MTB",
+        "note": "Трансфер к экоотелю в горах, знакомство с командой и настройка велосипеда.",
+        "stops": [],
+        "sources": [
+          "ebike-ridetheearth-tropical-8day"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лесные тропы",
+        "note": "Утренний подъём к водопаду и спуск к отелю. Запланирован зиплайн во второй половине дня.",
+        "stops": [],
+        "sources": [
+          "ebike-ridetheearth-tropical-8day"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Длинный горный переход",
+        "note": "Синглтреки, технические подъёмы и спуски. После пикника переезд к месту следующей ночёвки у терм.",
+        "stops": [],
+        "sources": [
+          "ebike-ridetheearth-tropical-8day"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Велотропы и термы",
+        "note": "Утренняя поездка по тропам с вулканическими камнями, затем термы или свободное время.",
+        "stops": [],
+        "sources": [
+          "ebike-ridetheearth-tropical-8day"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Переезд к океану",
+        "note": "Утро в отеле, затем дорога к Тихому океану и короткий вечерний велозаезд.",
+        "stops": [],
+        "sources": [
+          "ebike-ridetheearth-tropical-8day"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Лас-Каталинас · синглтреки с видом на море",
+        "note": "Утреннее катание, пляж, по желанию SUP или каяк за отдельную плату.",
+        "stops": [
+          "catalinas-emtb-12"
+        ],
+        "sources": [
+          "ebike-ridetheearth-tropical-8day",
+          "catalinas-emtb-rent"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Длинные прибрежные тропы",
+        "note": "План 4–5 часов на горные подъёмы, спуски и петли у побережья. Остановки подбирает гид.",
+        "stops": [],
+        "sources": [
+          "ebike-ridetheearth-tropical-8day"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Трансфер и вылет",
+        "note": "Согласуйте время машины до аэропорта с координатором поездки.",
+        "stops": [],
+        "sources": [
+          "ebike-ridetheearth-tropical-8day"
         ]
       }
     ]

@@ -283,6 +283,14 @@
           "bikecraft-shop",
           "bikecraft-pinilla"
         ]
+      },
+      {
+        "title": "Сеть и доступ на конкретный синглтрек",
+        "text": "У BikeCraft можно выбрать маршрут по навыкам группы. Попросите спокойную связку для первого выезда или уточните допуск на конкретную линию из каталога, например Cabalgata или Surfside. Для приезда со своим e-MTB согласуйте вход в частную сеть и бронирование.",
+        "sources": [
+          "bikecraft-pinilla",
+          "ebike-pinilla-bikecraft-guided"
+        ]
       }
     ],
     "contacts": [
@@ -296,6 +304,9 @@
       "catalinas-bike",
       "catalinas-mtb-25",
       "vuelta-arenal-107"
+    ],
+    "galleries": [
+      "ebike-pinilla-bikecraft-guided"
     ]
   },
   "catalinas-bike": {
