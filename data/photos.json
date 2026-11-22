@@ -529,5 +529,32 @@
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
     "original": "https://commons.wikimedia.org/wiki/File:Monteverde_Cloud_Forest_(28367816878).jpg"
+  },
+  "frontier-bocas-archive": {
+    "file": "bocas-frontier-archive.jpg",
+    "alt": "Улица Бокас-Тауна на острове Колон",
+    "caption": "Бокас-Таун на острове Колон · ноябрь 2007, уменьшенная копия",
+    "author": "Carlos Adampol Galindo",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Bocas_del_Toro_(town).jpg"
+  },
+  "frontier-lerida-archive": {
+    "file": "boquete-lerida-frontier.jpg",
+    "alt": "Вид на зелёные склоны от кофейного хозяйства Finca Lérida у Бокете",
+    "caption": "Вид с Finca Lérida у Бокете · март 2018, уменьшенная копия",
+    "author": "gailhampshire",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:View_from_Finca_Lerida_coffee_plantation_-_Flickr_-_gailhampshire.jpg"
+  },
+  "frontier-maderas-archive": {
+    "file": "maderas-frontier-archive.jpg",
+    "alt": "Прибой и песок на Плайя-Мадерас в Никарагуа",
+    "caption": "Плайя-Мадерас у Сан-Хуан-дель-Сур · архивный снимок, уменьшенная копия",
+    "author": "Jason Briscoe",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Maderas,_Nicaragua_(Unsplash_eJQlw7FifGE).jpg"
   }
 }

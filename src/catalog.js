@@ -1,3 +1,5 @@
+export const countries = { cr: "Коста-Рика", pa: "Панама", ni: "Никарагуа" };
+
 export const regions = {
   central: "Центральная долина",
   north: "Север и Ареналь",
@@ -16,7 +18,7 @@ export const activities = {
   rooftent: "Палатка на крыше", campfire: "Кемпинг с костровой зоной",
   glamping: "Глэмпинг", offroad: "Оффроуд на 4×4",
   utv: "Багги и UTV", atv: "Квадроциклы ATV", "scenic-flight": "Обзорные полёты",
-  car: "Автомобильные поездки", canopy: "Канопи", canyoning: "Каньонинг",
+  car: "Автомобильные поездки", border: "Через границу", canopy: "Канопи", canyoning: "Каньонинг",
   horseback: "Конные прогулки", surf: "Сёрфинг",
   school: "Школы сёрфинга", windsurf: "Виндсёрфинг", kitesurf: "Кайтсёрфинг", wingfoil: "Вингфойл",
   rafting: "Рафтинг", packraft: "Пакрафт", sup: "SUP",
@@ -31,6 +33,7 @@ export const activities = {
 };
 
 export const audiences = {
+  "family-adults": "Семья без детей",
   "family-small": "С малышами",
   "family-mid": "С детьми 6–11 лет",
   "family-teen": "С подростками",
@@ -77,6 +80,7 @@ export const sourceKinds = {
 };
 
 export const filters = [
+  { key: "country", label: "Страна", options: countries },
   { key: "region", label: "Регион", options: regions },
   { key: "activity", label: "Активность", options: activities },
   { key: "audience", label: "С кем", options: audiences },
@@ -114,6 +118,7 @@ export function fold(text = "") {
 export function searchText(record) {
   return fold([
     record.title, record.native, record.summary, regions[record.region],
+    ...(record.countries || []).map(country => countries[country]),
     ...record.activities.map(activity => activities[activity]),
     ...record.sleep.map(value => lodging[value]),
     ...(record.dossier?.stops || []).map(stop => stop.name),
@@ -134,6 +139,7 @@ function hasMaterial(record, material) {
 export function visibleRecords(records, filters, scope, saves) {
   const tokens = fold(filters.get("q") || "").trim().split(/\s+/).filter(Boolean);
   const region = filters.get("region");
+  const country = filters.get("country");
   const activity = filters.get("activity");
   const audience = filters.get("audience");
   const transport = filters.get("transport");
@@ -147,6 +153,7 @@ export function visibleRecords(records, filters, scope, saves) {
   return records.filter(record => {
     if (scope === "expeditions" && record.kind !== "trip") return false;
     if (scope === "saved" && !saves.has(record.id)) return false;
+    if (country && !(record.countries || ["cr"]).includes(country)) return false;
     if (region && record.region !== region && !record.regions?.includes(region)) return false;
     if (activity && !record.activities.includes(activity)) return false;
     if (audience && !record.audience.includes(audience)) return false;

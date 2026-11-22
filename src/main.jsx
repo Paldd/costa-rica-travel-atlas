@@ -2,18 +2,20 @@ import React, { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useStat
 import { createRoot } from "react-dom/client";
 import {
   ArrowLeft, ArrowRight, ArrowUpRight, Bookmark, Clock3, Compass, List,
-  Map as MapIcon, MapPin, Mountain, Search, Users, CarFront, ChevronDown, X,
+  Map as MapIcon, MapPin, Mountain, Plus, Search, Users, CarFront, ChevronDown, X,
 } from "lucide-react";
 import {
-  accessModes, activities, audiences, difficulty, durationLabel, filters, fold, kinds,
+  accessModes, activities, audiences, countries, difficulty, durationLabel, filters, fold, kinds,
   lodging, mapsLink, regions, secondaryFilters, sourceKinds, visibleRecords,
 } from "./catalog.js";
+import { addRouteToTrip, editTrip, initialTripPlans, newTrip, saveTripPlans, selectNewTrip } from "./tripPlans.js";
 import "./styles.css";
 
 const AtlasMap = lazy(() => import("./AtlasMap.jsx"));
 const RouteMap = lazy(() => import("./RouteMap.jsx"));
+const TripPlanner = lazy(() => import("./TripPlanner.jsx"));
 const asset = name => import.meta.env.BASE_URL + name;
-const nav = { catalog: "Каталог", expeditions: "Экспедиции", sources: "Источники", saved: "Сохранённое" };
+const nav = { catalog: "Каталог", expeditions: "Экспедиции", trips: "Мои поездки", saved: "Сохранённое", sources: "Источники" };
 const heroImage = { file: "arenal.jpg", alt: "Иллюстрация вулкана Ареналь над тропическим лесом" };
 const pictures = {
   "sabana-oka": { file: "sabana.jpg", alt: "Иллюстрация открытого горного ландшафта Таламанки", caption: "Иллюстрация ландшафта" },
@@ -21,6 +23,8 @@ const pictures = {
   "marino-ballena": { file: "uvita.jpg", alt: "Иллюстрация берега Марино-Бальена в районе Увиты", caption: "Иллюстрация ландшафта" },
 };
 const prominent = ["sabana-oka", "chirripo", "marino-ballena"];
+const frontierQuery = new URLSearchParams({ activity: "border" });
+const placeInPlanner = id => urlFor("place", new URLSearchParams({ from: "trips" }), id);
 const photoFor = row => row.dossier?.photos?.[0] ?? pictures[row.id]
   ?? (row.native.includes("Arenal") ? { ...heroImage, caption: "Иллюстрация Ареналя" } : undefined);
 
@@ -98,6 +102,7 @@ function Hero() {
       <div className="hero-actions">
         <button type="button" className="button primary" onClick={focusSearch}>Найти маршрут</button>
         <a href="#expeditions" className="text-link">К экспедициям</a>
+        <a href={urlFor("catalog", frontierQuery)} className="text-link">За границу</a>
       </div>
     </div>
     <figure className="hero-media">
@@ -171,7 +176,7 @@ function RouteCard({ row, context, saved, toggle }) {
         <SaveButton row={row} saved={saved} toggle={toggle} />
       </div>
       <div className="card-meta">
-        <span><MapPin size={15} aria-hidden="true" />{regions[row.region]}</span>
+        <span><MapPin size={15} aria-hidden="true" />{row.countries?.length > 1 ? row.countries.map(id => countries[id]).join(" · ") : regions[row.region]}</span>
         <span><Mountain size={15} aria-hidden="true" />{difficulty[row.level]}</span>
         <span><Clock3 size={15} aria-hidden="true" />{durationLabel(row.days)}</span>
       </div>
@@ -248,12 +253,13 @@ function RouteReports({ row, sources }) {
   </section>;
 }
 
-function Detail({ row, atlas, route, saved, toggle }) {
+function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTemplate }) {
   const query = new URLSearchParams(route.filters);
   const from = query.get("from");
   query.delete("from");
   const back = urlFor(from in nav && from !== "sources" ? from : "catalog", query);
   const photo = photoFor(row);
+  const inTrip = activePlan?.days.some(day => day.entries.some(entry => entry.recordId === row.id));
   const byId = new Map(atlas.records.map(r => [r.id, r]));
   const dossier = row.dossier;
   const line = atlas.lines?.[dossier?.line];
@@ -264,14 +270,25 @@ function Detail({ row, atlas, route, saved, toggle }) {
     [Users, "С кем", row.audience.map(id => audiences[id]).join(", ")],
   ];
   return <>
-    <a href={back} className="back-link"><ArrowLeft size={18} /> К каталогу</a>
+    <a href={back} className="back-link"><ArrowLeft size={18} /> {from === "trips" ? "К моим поездкам" : "К каталогу"}</a>
     <section className={`detail-hero ${photo ? "" : "no-photo"}`}>
       <div>
         <h1>{row.title}</h1>
-        <p className="detail-location">{regions[row.region]} · {kinds[row.kind]}</p>
+        <p className="detail-location">{row.countries?.length > 1 ? row.countries.map(id => countries[id]).join(" → ") : regions[row.region]} · {kinds[row.kind]}</p>
         <p className="native-name" lang="es">{row.native}</p>
         <p className="detail-intro">{row.summary}</p>
-        <SaveButton row={row} saved={saved} toggle={toggle} large />
+        <div className="detail-controls">
+          <SaveButton row={row} saved={saved} toggle={toggle} large />
+          <button type="button" className="save-button save-wide" onClick={() => {
+            if (inTrip) window.location.hash = "trips";
+            else addRoute(row.id);
+          }}>
+            {!inTrip && <Plus size={18} aria-hidden="true" />}{inTrip ? "Открыть поездку" : "Добавить в поездку"}
+          </button>
+          {row.stages?.length > 1 && <button type="button" className="save-button save-wide" onClick={() => useTemplate(row)}>
+            Взять за основу поездки
+          </button>}
+        </div>
       </div>
       {photo && <RoutePhoto photo={photo} className="detail-photo" />}
     </section>
@@ -508,6 +525,21 @@ function App() {
   const [error, setError] = useState(false);
   const [route, setQuery] = useRoute();
   const [saved, setSaved] = useState(initialSaves);
+  const [tripPlans, setTripPlans] = useState(initialTripPlans);
+  const [storageError, setStorageError] = useState(false);
+  const activePlan = tripPlans.trips.find(plan => plan.id === tripPlans.activeId);
+
+  function updatePlans(change) {
+    const result = saveTripPlans(tripPlans, change, !storageError);
+    setTripPlans(result.plans);
+    setStorageError(!result.stored);
+  }
+
+  function createTrip(template) {
+    const plan = newTrip(template);
+    updatePlans(current => selectNewTrip(current, plan));
+    window.location.hash = "trips";
+  }
   const main = useRef(null);
   useEffect(() => {
     fetch(asset("atlas.json"), { cache: "no-cache" }).then(response => {
@@ -538,9 +570,19 @@ function App() {
     <main className="wrap main" ref={main} tabIndex={-1} id="main-content">
       {error ? <div className="empty"><h1>Каталог не загрузился</h1><button type="button" className="button primary" onClick={() => location.reload()}>Повторить</button></div>
         : !atlas ? <p className="loading" role="status">Загружаем маршруты…</p>
-        : route.page === "place" ? record ? <Detail row={record} atlas={atlas} route={route} saved={saved} toggle={toggle} />
+        : route.page === "place" ? record ? <Detail row={record} atlas={atlas} route={route} saved={saved} toggle={toggle}
+          activePlan={activePlan} addRoute={id => updatePlans(state => addRouteToTrip(state, id))} useTemplate={createTrip} />
           : <div className="empty"><h1>Карточка не найдена</h1><a className="button primary" href="#catalog">К каталогу</a></div>
         : route.page === "sources" ? <SourcesPage atlas={atlas} />
+        : route.page === "trips" ? <Suspense fallback={<p className="loading" role="status">Загружаем поездки…</p>}>
+          <TripPlanner atlas={atlas} plans={tripPlans} storageError={storageError} linkTo={placeInPlanner}
+            create={createTrip} select={id => updatePlans(state => ({ ...state, activeId: id }))}
+            remove={id => updatePlans(state => {
+              const trips = state.trips.filter(trip => trip.id !== id);
+              return { trips, activeId: id === state.activeId ? trips[0]?.id || "" : state.activeId };
+            })}
+            edit={(id, change) => updatePlans(state => editTrip(state, id, change))} />
+        </Suspense>
         : <CatalogPage atlas={atlas} route={route} setQuery={setQuery} saved={saved} toggle={toggle} />}
     </main>
     <footer className="wrap">

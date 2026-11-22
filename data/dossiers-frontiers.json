@@ -1,0 +1,443 @@
+{
+  "sixaola-bocas-family-3": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Коста-Рика · начало в Пуэрто-Вьехо",
+        "note": ""
+      },
+      {
+        "point": "frontier-sixaola-cr",
+        "role": "Коста-Рика · район оформления в Сиксаоле",
+        "note": ""
+      },
+      {
+        "point": "frontier-guabito-pa",
+        "role": "Панама · Гуабито",
+        "note": "На этом участке следуйте инструкции персонала по прохождению двух служб."
+      },
+      {
+        "point": "frontier-almirante-town",
+        "role": "Панама · пересадка в Альмиранте",
+        "note": "Пассажирский причал зависит от перевозчика."
+      },
+      {
+        "point": "frontier-bocas-town",
+        "role": "Панама · островная база",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Документы взрослых и детей",
+        "text": "До покупки билетов проверьте действующий паспорт, визовый режим по гражданству, подтверждение выхода из Панамы и действующий статус для возвращения в Коста-Рику. Для ребёнка уточните правило разрешения на выезд в DGME с учётом его статуса и сопровождающих. Оформляйте выезд и въезд по указаниям официальных пунктов в обе стороны.",
+        "sources": [
+          "frontier-pa-tourist-faq",
+          "frontier-cr-minors",
+          "frontier-pa-border-list-2026"
+        ]
+      },
+      {
+        "title": "Пересадка с семьёй",
+        "text": "Шаттл с лодкой удобно согласовать одной бронью. Для самостоятельной сборки есть автобус до Сиксаолы, транспорт с панамской стороны в Альмиранте и отдельная лодка. Согласуйте багаж и кресло до оплаты. Панама опережает Коста-Рику на час.",
+        "sources": [
+          "frontier-mepe-sixaola",
+          "frontier-pa-bocas-transport",
+          "frontier-tracopa-conditions"
+        ]
+      },
+      {
+        "title": "Выход на воду",
+        "text": "Выбирайте короткую поездку с местной лицензированной командой. Уточните спасжилеты, выход к берегу, ветер и возможность возврата при изменении моря. Для снорклинга понадобятся маска, солнцезащита, гермоупаковка и береговой вариант при волнении.",
+        "sources": [
+          "frontier-pa-bocas-water",
+          "frontier-ferry-bocas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caribe Shuttle · трансфер и лодочный сегмент",
+        "source": "frontier-caribe-shuttle",
+        "note": "Уточните отправление, багаж, крепление детского кресла, причал и время на обе миграции.",
+        "url": "https://caribeshuttle.rezdy.com/"
+      },
+      {
+        "name": "MEPE · автобус в Сиксаолу",
+        "source": "frontier-mepe-sixaola",
+        "note": "Спросите отправление через Таламанку, багаж и последний обратный автобус.",
+        "url": "https://www.mepecr.com/Ingles/index.html"
+      },
+      {
+        "name": "Ferry Bocas · паром между Альмиранте и Колоном",
+        "source": "frontier-ferry-bocas",
+        "note": "Уточните тип рейса, место посадки и подтверждение места для машины, если едете с ней.",
+        "url": "https://ferrybocas.com/es/"
+      },
+      {
+        "name": "Migración Panamá · требования по документам",
+        "source": "frontier-pa-tourist-faq",
+        "note": "Проверьте документы, особенно для несовершеннолетнего и при возвращении в Коста-Рику.",
+        "url": "https://www.migracion.gob.pa/preguntas-frecuentes/"
+      }
+    ],
+    "galleries": [
+      "frontier-pa-bocas-water",
+      "frontier-pa-bocas-transport"
+    ],
+    "nearby": [
+      "cocles-punta-uva-bike-kayak",
+      "puerto-viejo-bike-manzanillo"
+    ],
+    "connectStops": false,
+    "line": "pv-sixaola-osm-approach",
+    "photos": [
+      "frontier-bocas-archive"
+    ]
+  },
+  "paso-canoas-boquete-coffee-4": {
+    "stops": [
+      {
+        "point": "frontier-paso-canoas-cci",
+        "role": "Коста-Рика · контрольный центр Пасо-Каноас",
+        "note": ""
+      },
+      {
+        "point": "frontier-paso-canoas-pa",
+        "role": "Панама · район участка Пасо-Каноас",
+        "note": ""
+      },
+      {
+        "point": "frontier-david",
+        "role": "Панама · пересадка в Давиде",
+        "note": ""
+      },
+      {
+        "point": "frontier-boquete",
+        "role": "Панама · база в Бокете",
+        "note": ""
+      },
+      {
+        "point": "frontier-finca-lerida",
+        "role": "Гостевой вход · Finca Lérida",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Документы взрослых и детей",
+        "text": "До покупки билетов проверьте действующий паспорт, визовый режим по гражданству, подтверждение выхода из Панамы и действующий статус для возвращения в Коста-Рику. Для ребёнка уточните правило разрешения на выезд в DGME с учётом его статуса и сопровождающих. Оформляйте выезд и въезд по указаниям официальных пунктов в обе стороны.",
+        "sources": [
+          "frontier-pa-tourist-faq",
+          "frontier-cr-minors",
+          "frontier-pa-border-list-2026"
+        ]
+      },
+      {
+        "title": "Документы на машину",
+        "text": "Для машины с коста-риканской регистрацией сверьте документ на выезд у Registro Nacional. Для чужой, корпоративной или арендованной машины согласуйте право выезда с владельцем и требования таможни в обеих странах. Для въезда на автомобиле в Панаму уточните временный ввоз, страховку и порядок закрытия разрешения при выезде.",
+        "sources": [
+          "frontier-cr-vehicle-exit",
+          "frontier-pa-vehicle-control",
+          "frontier-cr-pa-agreement"
+        ]
+      },
+      {
+        "title": "Дорога и транспорт",
+        "text": "Геометрия показывает открытый отрезок Давид — Бокете около 41 км. Автобусная опция из Сан-Хосе указана у Tracopa. Время прибытия и местный подвоз от терминала уточняют на дату выезда. У перевозчика есть отдельные требования к документам.",
+        "sources": [
+          "frontier-pa-boquete-destination",
+          "frontier-tracopa-david",
+          "frontier-tracopa-conditions",
+          "osm-cr-points"
+        ]
+      },
+      {
+        "title": "Кофе и тропы",
+        "text": "Ферма публикует экскурсии и короткие дегустации. Для лесной тропы согласуйте, где выход с гидом, и возьмите дождевик, тёплый слой, воду и обувь с протектором.",
+        "sources": [
+          "frontier-pa-lerida-coffee",
+          "frontier-pa-lerida-contacts"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tracopa · международный автобус до Давида",
+        "source": "frontier-tracopa-david",
+        "note": "Уточните билеты, документы перевозчика, терминал, остановки и время в местном часовом поясе.",
+        "url": "https://www.tracopacr.com/Rutas_Horarios"
+      },
+      {
+        "name": "Finca Lérida · ферма в Альто-Кьель",
+        "source": "frontier-pa-lerida-contacts",
+        "note": "Уточните время прогулки, кафе, подходящую для детей ветку и подъезд к рецепции.",
+        "url": "https://circuitodelcafe.com/fincas-de-cafe/finca-lerida",
+        "phone": "+507 6671 7894",
+        "email": "recepcion@fincalerida.com"
+      },
+      {
+        "name": "Migración Panamá · требования по документам",
+        "source": "frontier-pa-tourist-faq",
+        "note": "Проверьте документы, особенно для несовершеннолетнего и при возвращении в Коста-Рику.",
+        "url": "https://www.migracion.gob.pa/preguntas-frecuentes/"
+      }
+    ],
+    "galleries": [
+      "frontier-pa-boquete-destination",
+      "frontier-pa-lerida-contacts"
+    ],
+    "nearby": [
+      "sabalito-tierras-altas-3"
+    ],
+    "connectStops": false,
+    "line": "david-boquete-osm-road",
+    "photos": [
+      "frontier-lerida-archive"
+    ]
+  },
+  "sabalito-tierras-altas-3": {
+    "stops": [
+      {
+        "point": "frontier-san-vito",
+        "role": "Коста-Рика · старт в Сан-Вито",
+        "note": ""
+      },
+      {
+        "point": "frontier-sabalito-cr",
+        "role": "Коста-Рика · пограничное окно Сабалито",
+        "note": ""
+      },
+      {
+        "point": "frontier-sereno-pa",
+        "role": "Панама · район оформления Рио-Серено",
+        "note": ""
+      },
+      {
+        "point": "frontier-volcan-pa",
+        "role": "Панама · ночёвка в Волькане",
+        "note": ""
+      },
+      {
+        "point": "frontier-cerro-punta",
+        "role": "Панама · Серро-Пунта",
+        "note": ""
+      },
+      {
+        "point": "frontier-las-nubes",
+        "role": "Панама · станция Лас-Нубес",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Документы взрослых и детей",
+        "text": "До покупки билетов проверьте действующий паспорт, визовый режим по гражданству, подтверждение выхода из Панамы и действующий статус для возвращения в Коста-Рику. Для ребёнка уточните правило разрешения на выезд в DGME с учётом его статуса и сопровождающих. Оформляйте выезд и въезд по указаниям официальных пунктов в обе стороны.",
+        "sources": [
+          "frontier-pa-tourist-faq",
+          "frontier-cr-minors",
+          "frontier-pa-border-list-2026"
+        ]
+      },
+      {
+        "title": "Документы на машину",
+        "text": "Для машины с коста-риканской регистрацией сверьте документ на выезд у Registro Nacional. Для чужой, корпоративной или арендованной машины согласуйте право выезда с владельцем и требования таможни в обеих странах. Для въезда на автомобиле в Панаму уточните временный ввоз, страховку и порядок закрытия разрешения при выезде.",
+        "sources": [
+          "frontier-cr-vehicle-exit",
+          "frontier-pa-vehicle-control",
+          "frontier-cr-pa-agreement"
+        ]
+      },
+      {
+        "title": "День с детьми",
+        "text": "Петля Panamá Verde подходит как короткий выход после переезда. При сырости и низкой облачности приготовьте закрытую обувь, тёплые слои и дождевики. На длинную тропу уходите только после проверки входа и времени возвращения.",
+        "sources": [
+          "frontier-pa-tierras-altas",
+          "frontier-pa-short-hikes"
+        ]
+      },
+      {
+        "title": "Запасная граница",
+        "text": "Уведомление Hacienda касается конкретного дня. Перед выездом отдельно подтвердите режим машин и миграции на нужную дату. Пасо-Каноас позволяет собрать другой путь к Волькану через Давид.",
+        "sources": [
+          "frontier-sabalito-service-notice",
+          "frontier-cr-pa-agreement",
+          "frontier-pa-border-list-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Migración Panamá · требования по документам",
+        "source": "frontier-pa-tourist-faq",
+        "note": "Проверьте документы, особенно для несовершеннолетнего и при возвращении в Коста-Рику.",
+        "url": "https://www.migracion.gob.pa/preguntas-frecuentes/"
+      }
+    ],
+    "galleries": [
+      "frontier-pa-tierras-altas"
+    ],
+    "nearby": [
+      "paso-canoas-boquete-coffee-4"
+    ],
+    "connectStops": false
+  },
+  "penas-blancas-san-juan-surf-3": {
+    "stops": [
+      {
+        "point": "liberia-cycle-tour-start",
+        "role": "Коста-Рика · ориентир начала в Либерии",
+        "note": "Место посадки подтверждает перевозчик."
+      },
+      {
+        "point": "frontier-penas-cr",
+        "role": "Коста-Рика · район выхода в Пеньяс-Бланкас",
+        "note": ""
+      },
+      {
+        "point": "frontier-penas-ni",
+        "role": "Никарагуа · район въезда",
+        "note": ""
+      },
+      {
+        "point": "frontier-san-juan-del-sur",
+        "role": "Никарагуа · город и база",
+        "note": ""
+      },
+      {
+        "point": "frontier-maderas-ni",
+        "role": "Никарагуа · берег Плайя-Мадерас",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Люди и машина на границе",
+        "text": "Проверьте срок паспорта, визу и предварительную форму, если она применяется к вашему гражданству и способу въезда. Для ребёнка сверяйте разрешение на выезд из Коста-Рики. На своей машине заранее уточните документ на выезд, оригинал регистрации или полномочия, временный ввоз и местную страховку. Перед возвратом проверьте закрытие ввоза и условия повторного въезда в Коста-Рику.",
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-ni-land-vehicle",
+          "frontier-cr-vehicle-exit",
+          "frontier-cr-minors"
+        ]
+      },
+      {
+        "title": "Транспорт для семьи",
+        "text": "Спросите, кто ждёт на другой стороне, отвозит ли водитель до жилья и где крепится кресло. Если едете международным автобусом, уточните высадку и подвоз от ближайшей остановки. Для выезда с палаткой на крыше отдельно подтверждают допуск машины и место у хозяев стоянки.",
+        "sources": [
+          "frontier-interbus-cr-ni",
+          "frontier-costadulce-transfers",
+          "frontier-ni-land-vehicle"
+        ]
+      },
+      {
+        "title": "Подготовка к пляжу",
+        "text": "Возьмите закрытую обувь для подхода, солнцезащиту, питьевую воду и сменную одежду. Для маленьких детей выделите отдельное время на берег без контакта с прибоем и уточните формат занятия в местной школе.",
+        "sources": [
+          "frontier-ni-playa-maderas",
+          "frontier-ni-maderas-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Interbus Nicaragua · поездка от Либерии",
+        "source": "frontier-interbus-cr-ni",
+        "note": "Спросите адрес посадки, входит ли сопровождение на границе, где пересаживаться и есть ли детское кресло.",
+        "url": "https://www.interbusnicaragua.com/our-routes/"
+      },
+      {
+        "name": "INTUR · связь по маршрутам Никарагуа",
+        "source": "frontier-ni-land-vehicle",
+        "note": "Уточните официальный переход, актуальные требования по гражданству и контакты ближайшей службы.",
+        "url": "https://www.visitanicaragua.com/sobre-nicaragua/como-llegar-a-nicaragua/",
+        "phone": "+505 2254 5191",
+        "email": "cit@intur.gob.ni"
+      }
+    ],
+    "galleries": [
+      "frontier-ni-playa-maderas",
+      "frontier-costadulce-transfers"
+    ],
+    "nearby": [
+      "sardinal-sukka-camper",
+      "coco-marlin-catamaran"
+    ],
+    "connectStops": false,
+    "line": "liberia-penas-osm-approach",
+    "photos": [
+      "frontier-maderas-archive"
+    ]
+  },
+  "tablillas-san-carlos-river-4": {
+    "stops": [
+      {
+        "point": "frontier-los-chiles-cr",
+        "role": "Коста-Рика · Лос-Чилес и район сбора",
+        "note": ""
+      },
+      {
+        "point": "frontier-las-tablillas-cr",
+        "role": "Коста-Рика · миграция Лас-Таблильяс",
+        "note": ""
+      },
+      {
+        "point": "frontier-san-pancho-ni",
+        "role": "Никарагуа · пограничный Сан-Панчо",
+        "note": ""
+      },
+      {
+        "point": "frontier-san-carlos-ni",
+        "role": "Никарагуа · район лодок в Сан-Карлосе",
+        "note": ""
+      },
+      {
+        "point": "frontier-el-castillo-ni",
+        "role": "Никарагуа · Эль-Кастильо, ориентир крепости",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Люди и машина на границе",
+        "text": "Проверьте срок паспорта, визу и предварительную форму, если она применяется к вашему гражданству и способу въезда. Для ребёнка сверяйте разрешение на выезд из Коста-Рики. На своей машине заранее уточните документ на выезд, оригинал регистрации или полномочия, временный ввоз и местную страховку. Перед возвратом проверьте закрытие ввоза и условия повторного въезда в Коста-Рику.",
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-ni-land-vehicle",
+          "frontier-cr-vehicle-exit",
+          "frontier-cr-minors"
+        ]
+      },
+      {
+        "title": "Смена транспорта",
+        "text": "Между Лос-Чилесом и Сан-Карлосом используется наземный контроль. Лодку для Рио-Сан-Хуана берут после заселения на стороне Никарагуа. Подтвердите адрес причала у перевозчика и имейте вариант ночёвки, если регулярный рейс перенесли.",
+        "sources": [
+          "frontier-ni-land-vehicle",
+          "frontier-ni-rio-san-juan"
+        ]
+      },
+      {
+        "title": "Экипировка для лодки",
+        "text": "Уточните спасжилеты по размеру, допуск детей, герметичный багаж, запас воды и навес от дождя. Планируйте короткую прогулку по городу, если условия на реке меняются.",
+        "sources": [
+          "frontier-ni-rio-san-juan",
+          "frontier-ni-el-castillo-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "INTUR · связь по маршрутам Никарагуа",
+        "source": "frontier-ni-land-vehicle",
+        "note": "Уточните официальный переход, актуальные требования по гражданству и контакты ближайшей службы.",
+        "url": "https://www.visitanicaragua.com/sobre-nicaragua/como-llegar-a-nicaragua/",
+        "phone": "+505 2254 5191",
+        "email": "cit@intur.gob.ni"
+      }
+    ],
+    "galleries": [
+      "frontier-ni-rio-san-juan"
+    ],
+    "connectStops": false
+  }
+}

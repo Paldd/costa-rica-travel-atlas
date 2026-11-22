@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import {
-  accessModes, activities, audiences, difficulty, kinds, lodging, regions, visibleRecords,
+  accessModes, activities, audiences, countries, difficulty, kinds, lodging, regions, visibleRecords,
 } from "../src/catalog.js";
 
 const atlas = JSON.parse(readFileSync(new URL("../public/atlas.json", import.meta.url)));
@@ -29,12 +29,16 @@ for (const [id, line] of Object.entries(atlas.lines)) {
     continue;
   }
   assert(line.coords.length > 1, id);
-  assert(line.coords.every(([lat, lon]) => lat >= 5 && lat <= 11.3 && lon >= -88 && lon <= -82.3), id);
+  assert(line.coords.every(([lat, lon]) => lat >= 5 && lat <= 15.1 && lon >= -88 && lon <= -77), id);
 }
 for (const row of records) {
   assert.match(row.id, /^[a-z0-9]+(?:-[a-z0-9]+)*$/);
   assert(row.title && row.summary && row.plan && row.conditions && row.native, row.id);
   assert(row.kind in kinds && row.level in difficulty && row.region in regions, row.id);
+  if (row.activities.includes("border")) {
+    assert(row.countries?.includes("cr") && row.countries.length > 1, row.id);
+  }
+  assert((row.countries || ["cr"]).every(country => country in countries), row.id);
   assert(Number.isFinite(row.days) && row.days > 0, row.id);
   assert(row.distance === null || Number.isFinite(row.distance) && row.distance > 0, row.id);
   assert.match(row.checked, /^\d{4}-\d{2}-\d{2}$/);
@@ -66,6 +70,9 @@ assert(find({ q: "sabanas oka" }).some(row => row.id === "sabana-oka"));
 assert(find({ activity: "rooftent", transport: "4x4" }).some(row => row.id === "ganadito-roof"));
 assert(find({ transport: "noCar", region: "caribbean", duration: "three" }, "expeditions").some(row => row.id === "tortuguero-no-car"));
 assert(find({ duration: "seven", activity: "mtb" }, "expeditions").some(row => row.id === "week-4x4-mtb"));
+assert(find({ country: "pa", activity: "border", transport: "noCar" }).some(row => row.id === "sixaola-bocas-family-3"));
+assert(find({ country: "ni", activity: "border" }).some(row => row.id === "tablillas-san-carlos-river-4"));
+assert(find({ audience: "family-adults" }).some(row => row.id === "arenal-bike-camp-3"));
 assert(find({ activity: "packraft", region: "central" }).some(row => row.id === "pejibaye-pack"));
 assert(find({ km: "ten", activity: "hiking" }).some(row => row.id === "palo-verde-cerro-alto"));
 assert(find({ km: "hundred", activity: "hiking", detail: "map" }, "expeditions").some(row => row.id === "el-camino-102"));

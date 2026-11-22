@@ -115,7 +115,7 @@ def main():
     for point in read_table(DATA / "map-points.tsv", POINT_FIELDS):
         key = point.pop("id")
         coords = [float(point.pop(field)) for field in ("lat", "lon")]
-        if key in points or point["source"] not in sources_by_id or not (5 <= coords[0] <= 11.3 and -88 <= coords[1] <= -82.3):
+        if key in points or point["source"] not in sources_by_id or not (5 <= coords[0] <= 15.1 and -88 <= coords[1] <= -77):
             raise ValueError(f"Invalid map point {key}")
         points[key] = {**point, "coords": coords}
 
