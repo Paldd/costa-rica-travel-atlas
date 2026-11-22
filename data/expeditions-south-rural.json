@@ -1,0 +1,146 @@
+[
+  {
+    "id": "rivas-gigantes-gevi-weekend-2",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Ривас за два дня · лесной круг, палатка и термы Gevi",
+    "native": "Los Gigantes Sendero · Camping CATURCOCHI · Aguas Termales Gevi",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "multi",
+      "camping",
+      "thermal",
+      "hiking",
+      "relax",
+      "waterfall",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "rural-los-gigantes-sendero-guide",
+      "rural-los-gigantes-caturcochi-camp",
+      "rural-gevi-direct-contacts",
+      "rural-rivas-perezzeledon-district",
+      "rural-caturcochi-valle-chirripo"
+    ],
+    "summary": "Поездка на выходные в горную долину Риваса с одной палаточной ночёвкой. Основной день для пешего маршрута, второй для терм и короткой прогулки по посёлку.",
+    "plan": "Забронируйте место у Los Gigantes, уточните время заезда и свяжитесь с Gevi. При сильном дожде начните с купален и выйдите на тропу следующим утром, если хозяева подтвердят открытие.",
+    "conditions": "Проверьте грязевые участки подъезда и фактическое время заселения. Для высокой зоны может понадобиться 4×4. В горах возьмите тёплый слой и сухие вещи для ночёвки.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Los Gigantes · лесная тропа и лагерь",
+        "note": "Подойдите на нижнюю кассу с утра. Выберите основной круг или короткую ветку, затем заселитесь на согласованное место.",
+        "stops": [
+          "rivas-los-gigantes-6-km",
+          "rivas-los-gigantes-family-tent"
+        ],
+        "sources": [
+          "rural-los-gigantes-sendero-guide",
+          "rural-los-gigantes-caturcochi-camp"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Сан-Херардо · термы и обратная дорога",
+        "note": "Сверьте часы у семьи Падилья. Заложите время на сушку вещей перед обратной дорогой. Для дополнительной прогулки выберите короткий маршрут на карте поселения.",
+        "stops": [
+          "san-gerardo-rivas-gevi-thermal"
+        ],
+        "sources": [
+          "rural-gevi-direct-contacts",
+          "rural-rivas-perezzeledon-district"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "golfo-dulce-ferry-ebike-kayak-2",
+    "kind": "trip",
+    "region": "south",
+    "title": "Гольфо-Дульсе без машины · паром, e-bike и каяк за два дня",
+    "native": "Golfito · Lancha pública · Puerto Jiménez · Playa Platanares · Golfo Dulce",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "multi",
+      "boat",
+      "cycling",
+      "ebike",
+      "kayak",
+      "beach",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "public",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "rural-osa-jimenez-current-transport",
+      "rural-osa-jimenez-ebike-rental",
+      "rural-playa-platanares-aguaepipa",
+      "aresep-ferry-lanchas",
+      "rural-osa-ict-municipal-beaches"
+    ],
+    "summary": "База на одну ночь в Пуэрто-Хименесе. Из Гольфито приезжают на пассажирской лодке, берут e-bike для короткой поездки, затем выходят на каяке с местным гидом.",
+    "plan": "Сначала проверьте обе лодки Гольфито — Пуэрто-Хименес и место проживания. Согласуйте выдачу велосипедов с прибытием. На второй день оставьте запас времени между каяком и обратным рейсом.",
+    "conditions": "Публичная лодка перевозит пассажиров. Велосипед удобнее взять на южной стороне залива в Пуэрто-Хименесе. Гид выбирает каячный старт по приливу и погоде.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Гольфито — Пуэрто-Хименес · лодка и береговой маршрут",
+        "note": "Переправа с вещами, заселение и короткий выезд к Плайя-Пресьоса. Если лодка пришла поздно, запланируйте береговую прогулку пешком или перенесите выезд на утро.",
+        "stops": [
+          "golfito-jimenez-passenger-boat",
+          "puerto-jimenez-playa-preciosa-ebike"
+        ],
+        "sources": [
+          "rural-osa-jimenez-current-transport",
+          "rural-osa-jimenez-ebike-rental",
+          "rural-playa-platanares-aguaepipa"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Гольфо-Дульсе · мангры на каяке",
+        "note": "Ранний выезд с проводником по условиям воды. Запланируйте обед в Пуэрто-Хименесе, затем возвращение к причалу и лодку в Гольфито.",
+        "stops": [
+          "golfo-dulce-mangrove-kayak",
+          "golfito-jimenez-passenger-boat"
+        ],
+        "sources": [
+          "rural-osa-jimenez-current-transport",
+          "rural-osa-ict-municipal-beaches"
+        ]
+      }
+    ]
+  }
+]

@@ -15,7 +15,7 @@ import urllib.robotparser
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from build_catalog import DATA, PUBLISHER_FIELDS, SOURCE_FIELDS, read_table
+from build_catalog import DATA, PUBLISHER_FIELDS, read_sources, read_table
 
 AGENT = "CostaRicaTravelAtlas"
 MAX_BYTES = 3_000_000
@@ -174,7 +174,7 @@ def main():
     parser.add_argument("--out", type=Path, default=Path(".cache/refresh.json"))
     config = parser.parse_args()
     feeds = [feed for feed in json.loads((DATA / "feeds.json").read_text()) if feed.get("paths") or feed.get("exactPaths")]
-    sources = {row["id"]: row["url"] for row in read_table(DATA / "sources.tsv", SOURCE_FIELDS)}
+    sources = {row["id"]: row["url"] for row in read_sources()}
     known = {canonical(url) for url in sources.values()}
     publisher_archives = {canonical(sources[row["archive"]]) for row in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS)
                           if row["archive"]}

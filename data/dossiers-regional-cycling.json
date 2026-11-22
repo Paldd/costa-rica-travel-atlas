@@ -150,6 +150,15 @@
           "osa-bike-tour-direct",
           "osa-tigre-community-route"
         ]
+      },
+      {
+        "title": "Самостоятельная дорожная линия",
+        "text": "GPX от центра Пуэрто-Хименеса до Дос-Брасос и обратно составляет 25,8 км по OpenStreetMap. Около 20 км относится к опубликованной программе с проводником. Состояние гравийной части проверяйте у местного проката.",
+        "sources": [
+          "rural-south-osm-roads",
+          "rural-osa-bike-direct-contacts",
+          "rural-osa-jimenez-current-transport"
+        ]
       }
     ],
     "contacts": [
@@ -165,14 +174,16 @@
     "nearby": [
       "osa-rio-verde-rooftent",
       "puerto-jimenez-inshore-boat",
-      "osa-roof-mtb-golfo-3"
+      "osa-roof-mtb-golfo-3",
+      "puerto-jimenez-playa-preciosa-ebike",
+      "puerto-jimenez-matapalo-gravel-ride"
     ],
     "connectStops": false,
     "galleries": [
       "osa-bike-tour-direct",
       "osa-cycling-backroads-report"
     ],
-    "line": "osa-dos-brazos-road"
+    "line": "rural-jimenez-dos-road"
   },
   "talamanca-community-guide-mtb": {
     "stops": [

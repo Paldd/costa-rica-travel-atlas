@@ -37,6 +37,11 @@ def read_table(path, fields):
             yield dict(zip(fields, (x.strip() for x in parts)))
 
 
+def read_sources():
+    for path in (DATA / "sources.tsv", *sorted(DATA.glob("sources-*.tsv"))):
+        yield from read_table(path, SOURCE_FIELDS)
+
+
 def read_records():
     for path in sorted(DATA.glob("catalog*.tsv")):
         for record in read_table(path, RECORD_FIELDS):
@@ -45,8 +50,7 @@ def read_records():
             record["days"] = float(record["days"])
             record["distance"] = float(record["distance"]) if record["distance"] else None
             yield record
-    for name in ("places-abroad.json", "expeditions.json"):
-        path = DATA / name
+    for path in (DATA / "places-abroad.json", DATA / "expeditions.json", *sorted(DATA.glob("expeditions-*.json"))):
         if path.is_file():
             yield from json.loads(path.read_text(encoding="utf-8"))
 
@@ -121,7 +125,7 @@ def report_sources(record, sources_by_id):
 
 
 def main():
-    sources = list(read_table(DATA / "sources.tsv", SOURCE_FIELDS))
+    sources = list(read_sources())
     sources_by_id = {source["id"]: source for source in sources}
     if len(sources_by_id) != len(sources):
         raise ValueError("Duplicate source ID")

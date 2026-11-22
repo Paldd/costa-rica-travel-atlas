@@ -1,0 +1,711 @@
+{
+  "rivas-los-gigantes-6-km": {
+    "stops": [
+      {
+        "point": "rural-los-gigantes-entry",
+        "role": "Нижний вход · начало главного круга",
+        "note": "Здесь сверяют схему троп и условия подъезда к верхнему мирадору."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Две ветки и карта фермы",
+        "text": "Официальная схема из местного путеводителя различает основной круг 6 км и тропу 2,5 км от верхней зоны. Короткая ветка проходит у бамбука, водопада Лос-Чоррос и каньона Чило. Узнайте, какие переходы открыты.",
+        "sources": [
+          "rural-los-gigantes-sendero-guide",
+          "rural-los-gigantes-local-reports"
+        ]
+      },
+      {
+        "title": "Семейный темп и парковка",
+        "text": "На подъём пешком к мирадору путеводитель отводит около полутора часов. На обратную дорогу оставьте запас времени, воды и света. Для дождя пригодятся подошва с протектором и лёгкая куртка.",
+        "sources": [
+          "rural-los-gigantes-sendero-guide",
+          "rural-los-gigantes-tvsur"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Los Gigantes Sendero · хозяева фермы",
+        "source": "rural-los-gigantes-sendero-guide",
+        "note": "Уточните состояние ступеней и мостов, дорогу, наличие палаточной площадки и возможность питания.",
+        "phone": "+506 7100 8987",
+        "whatsapp": "https://wa.me/50671008987"
+      }
+    ],
+    "nearby": [
+      "rivas-los-gigantes-family-tent",
+      "san-gerardo-rivas-gevi-thermal"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-los-gigantes-sendero-guide",
+      "rural-los-gigantes-local-reports",
+      "rural-los-gigantes-tvsur"
+    ]
+  },
+  "rivas-los-gigantes-family-tent": {
+    "stops": [
+      {
+        "point": "rural-los-gigantes-entry",
+        "role": "Los Gigantes · заезд на ферму",
+        "note": "От входа хозяева подскажут парковку и путь к месту ночёвки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка как часть поездки",
+        "text": "Катуркочи публикует отдельную программу, включающую посещение фермы. Полный состав услуг, оборудование для аренды и регистрацию в день приезда уточняйте у хозяев.",
+        "sources": [
+          "rural-los-gigantes-caturcochi-camp",
+          "rural-caturcochi-valle-chirripo"
+        ]
+      },
+      {
+        "title": "Лесные тропы и укрытие",
+        "text": "На схеме фермы отмечены тропы и домики у верхней зоны. Спросите, можно ли перейти в домик при ливне, и проверьте допустимость горелки на конкретной площадке.",
+        "sources": [
+          "rural-los-gigantes-sendero-guide",
+          "rural-los-gigantes-local-reports"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Los Gigantes Sendero · хозяева фермы",
+        "source": "rural-los-gigantes-sendero-guide",
+        "note": "Уточните состояние ступеней и мостов, дорогу, наличие палаточной площадки и возможность питания.",
+        "phone": "+506 7100 8987",
+        "whatsapp": "https://wa.me/50671008987"
+      }
+    ],
+    "nearby": [
+      "rivas-los-gigantes-6-km",
+      "san-gerardo-rivas-gevi-thermal",
+      "rivas-gigantes-gevi-weekend-2"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-los-gigantes-sendero-guide",
+      "rural-los-gigantes-caturcochi-camp"
+    ]
+  },
+  "san-gerardo-rivas-gevi-thermal": {
+    "stops": [
+      {
+        "point": "rural-gevi-thermal-pin",
+        "role": "Gevi · вход в комплекс",
+        "note": "Термальная площадка на Calle Aguas Termales в сторону Эррадуры."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъезд и связь",
+        "text": "Семья указывает подъезд со стороны административных офисов парка. Направляйтесь дальше в сторону Эррадуры до указателя Gevi. Номер подтверждён и в муниципальном справочнике.",
+        "sources": [
+          "rural-gevi-direct-contacts",
+          "rural-gevi-perez-municipal",
+          "rural-gevi-osm-building"
+        ]
+      },
+      {
+        "title": "Инфраструктура и формат отдыха",
+        "text": "Местные путеводители описывают крытые термальные бассейны, раздевалки и парковку. Возьмите купальные принадлежности и узнайте у хозяев, какие дополнительные услуги работают в ваш день.",
+        "sources": [
+          "rural-gevi-south-operator-guide",
+          "rural-rivas-perezzeledon-district"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aguas Termales Gevi · семья Падилья",
+        "source": "rural-gevi-direct-contacts",
+        "note": "Уточните рабочие бассейны, температуру воды, часы, оплату и условия для детей.",
+        "phone": "+506 2742 5210"
+      }
+    ],
+    "nearby": [
+      "rivas-los-gigantes-6-km",
+      "rivas-los-gigantes-family-tent",
+      "chirripo"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-gevi-direct-contacts",
+      "rural-rivas-perezzeledon-district",
+      "rural-gevi-south-operator-guide"
+    ],
+    "photos": [
+      "rural-gevi-rivas-commons"
+    ]
+  },
+  "rivas-gigantes-gevi-weekend-2": {
+    "stops": [
+      {
+        "point": "rural-los-gigantes-entry",
+        "role": "Los Gigantes · тропа и лагерь",
+        "note": "Точное место палатки даст владелец."
+      },
+      {
+        "point": "rural-gevi-thermal-pin",
+        "role": "Gevi · второй день",
+        "note": "Время и работающие бассейны подтверждает семья."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Логистика одной ночёвки",
+        "text": "Площадку и термы бронируют по отдельным прямым контактам. Скачайте карту троп до выезда из долины и подготовьте налобный фонарь и дождевой слой.",
+        "sources": [
+          "rural-los-gigantes-sendero-guide",
+          "rural-los-gigantes-caturcochi-camp",
+          "rural-gevi-direct-contacts"
+        ]
+      },
+      {
+        "title": "Замены по погоде",
+        "text": "Короткий маршрут выбирают после осмотра дорожек на входе. Если подъезд к лагерю ухудшился, спросите CATURCOCHI о домике в посёлке и проезжей дороге.",
+        "sources": [
+          "rural-los-gigantes-sendero-guide",
+          "rural-caturcochi-valle-chirripo",
+          "rural-rivas-perezzeledon-district"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Los Gigantes Sendero · хозяева фермы",
+        "source": "rural-los-gigantes-sendero-guide",
+        "note": "Уточните состояние ступеней и мостов, дорогу, наличие палаточной площадки и возможность питания.",
+        "phone": "+506 7100 8987",
+        "whatsapp": "https://wa.me/50671008987"
+      },
+      {
+        "name": "Aguas Termales Gevi · семья Падилья",
+        "source": "rural-gevi-direct-contacts",
+        "note": "Уточните рабочие бассейны, температуру воды, часы, оплату и условия для детей.",
+        "phone": "+506 2742 5210"
+      }
+    ],
+    "nearby": [
+      "rivas-los-gigantes-6-km",
+      "rivas-los-gigantes-family-tent",
+      "san-gerardo-rivas-gevi-thermal"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-los-gigantes-sendero-guide",
+      "rural-los-gigantes-caturcochi-camp",
+      "rural-rivas-perezzeledon-district"
+    ],
+    "photos": [
+      "rural-gevi-rivas-commons"
+    ]
+  },
+  "arenal-1968-ash-fire-trail-2027": {
+    "stops": [
+      {
+        "point": "rural-arenal1968-guest-entrance",
+        "role": "Arenal 1968 · ориентир входа на ферму",
+        "note": "Координаты гостевой кассы. Организатор подскажет фактический старт и парковку забега."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Условия выпуска",
+        "text": "Страница трейла указывает 30 января 2027. Длины по категориям уточняются по регламенту и у команды Intrepid. Событие имеет отдельные условия от дневных билетов на прогулку.",
+        "sources": [
+          "rural-ash-fire-arenal-intrepid",
+          "rural-intrepid-current-contacts"
+        ]
+      },
+      {
+        "title": "Что взять на лавовую трассу",
+        "text": "Подготовьте обувь с устойчивой подошвой, питьевую систему и слой для дождя. Парк публикует отдельные входы и правила для гостей. Уточните точку трансфера и парковку перед поездкой.",
+        "sources": [
+          "rural-ash-fire-arenal-intrepid",
+          "rural-arenal1968-owner-current",
+          "rural-arenal1968-visit-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Intrepid Challenge · официальный канал события",
+        "source": "rural-intrepid-current-contacts",
+        "note": "Уточните километраж, место выдачи номера, минимальный возраст и обязательное снаряжение.",
+        "url": "https://intrepidchallengerace.com/producto/trail-1968/"
+      }
+    ],
+    "nearby": [
+      "arenal-moon-run-archive-42",
+      "arenal-coladas"
+    ],
+    "connectStops": false,
+    "photos": [
+      "arenal"
+    ],
+    "galleries": [
+      "rural-arenal1968-owner-current",
+      "rural-ash-fire-arenal-intrepid"
+    ]
+  },
+  "arenal-moon-run-archive-42": {
+    "stops": [
+      {
+        "point": "rural-arenal1968-guest-entrance",
+        "role": "Arenal 1968 · ориентир входа на ферму",
+        "note": "Координаты гостевой кассы. Организатор подскажет фактический старт и парковку забега."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина и набор из архива",
+        "text": "9,42 км и +135 м, 14,29 км и +213 м, 21,43 км и +255 м, 42,11 км и +516 м. Пеший вариант указан на 5,46 км. Старшие детские группы бежали до 2,39 км.",
+        "sources": [
+          "rural-moon-run-arenal-archive",
+          "rural-moon-run-arenal-results"
+        ]
+      },
+      {
+        "title": "Прогулка отдельно от забега",
+        "text": "На ферме есть подписанные лавовые и лесные тропы для пеших посещений. Смотрите актуальные часы у входа и уточняйте, разрешены ли тренировки на конкретной линии.",
+        "sources": [
+          "rural-arenal1968-visit-faq",
+          "rural-arenal1968-local-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Unlimited CR · страница Moon Run",
+        "source": "rural-moon-run-arenal-archive",
+        "note": "Проверьте анонс следующего выпуска и действующий регламент."
+      }
+    ],
+    "nearby": [
+      "arenal-1968-ash-fire-trail-2027"
+    ],
+    "connectStops": false,
+    "photos": [
+      "arenal"
+    ],
+    "galleries": [
+      "rural-arenal1968-owner-current",
+      "rural-moon-run-arenal-archive"
+    ]
+  },
+  "rio-cuarto-trail-archive-18": {
+    "stops": [
+      {
+        "point": "rio-cuarto-lake-approach-orientation",
+        "role": "Озеро Рио-Куарто · ориентир ландшафта",
+        "note": "Подход к лагуне. Точный старт текущего выпуска подскажет организатор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Местное событие",
+        "text": "Архив организатора датирует выпуск 24 мая 2026 и перечисляет 5, 8 и 18 км. Для повторного выезда спросите о наборе высоты, поддержке и состоянии переходов через воду.",
+        "sources": [
+          "rural-trail-adventure-series"
+        ]
+      },
+      {
+        "title": "Что можно совместить с поездкой",
+        "text": "Лагуна находится рядом с Венесией и Рио-Куарто. Для спокойного семейного выезда отдельно сверяйте условия у прокатчиков SUP и каяков и доступ к берегу.",
+        "sources": [
+          "finca360-rio-cuarto-lake",
+          "mapcarta-laguna-rio-cuarto"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "The Trail Adventure CR · координаторы",
+        "source": "rural-trail-adventure-series",
+        "note": "Запросите сведения о выпуске, стартовую точку, возраст, контрольные отсечки и актуальный трек, если он опубликован.",
+        "phone": "+506 6138 2991",
+        "whatsapp": "https://wa.me/50661382991",
+        "email": "thetrailadventure@gmail.com"
+      }
+    ],
+    "nearby": [
+      "laguna-rio-cuarto-paddle"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-trail-adventure-series"
+    ]
+  },
+  "zarcero-desafio-las-brisas-trail-2026": {
+    "stops": [
+      {
+        "point": "rural-zarcero-las-brisas-area",
+        "role": "Лас-Брисас · район события",
+        "note": "Навигационный ориентир в посёлке. Точку старта и дорогу к парковке подтвердите у команды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Форматы старта",
+        "text": "Организатор публикует календарную дату 13 декабря и 8 км для ходьбы, 8 и 14 км для бега. Перед записью спросите о наборе высоты и правилах для подростков.",
+        "sources": [
+          "rural-trail-adventure-series"
+        ]
+      },
+      {
+        "title": "Что обсудить до выезда",
+        "text": "Подтвердите парковку и шаттл, если финиш и парковка разнесены. В лесу по осадкам меняется сцепление на корнях и камнях. Уточните контрольные точки у организатора.",
+        "sources": [
+          "rural-trail-adventure-series",
+          "rural-south-osm-roads",
+          "rural-zarcero-las-brisas-municipality"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "The Trail Adventure CR · координаторы",
+        "source": "rural-trail-adventure-series",
+        "note": "Запросите сведения о выпуске, стартовую точку, возраст, контрольные отсечки и актуальный трек, если он опубликован.",
+        "phone": "+506 6138 2991",
+        "whatsapp": "https://wa.me/50661382991",
+        "email": "thetrailadventure@gmail.com"
+      }
+    ],
+    "nearby": [
+      "rio-cuarto-trail-archive-18",
+      "arenal-1968-ash-fire-trail-2027"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-trail-adventure-series"
+    ]
+  },
+  "san-vito-fila-guinea-gravel": {
+    "stops": [
+      {
+        "point": "frontier-san-vito",
+        "role": "Сан-Вито · сбор и вода",
+        "note": "Дорожный ориентир в центре. Перед выходом проверьте участок у Calle El Estadio и на Ruta 612."
+      },
+      {
+        "point": "rural-fila-guinea-road-end",
+        "role": "Фила-Гинеа · возврат",
+        "note": "Точка на дорожной сети рядом с посёлком. Сокращение возможно при согласованном подборе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как проложен маршрут",
+        "text": "Встроенный GPX длиной 43,1 км использует дорожную сеть OpenStreetMap. Участники Bikers Costa Rica сняли свой маршрут в тех же холмах. Документ ARESEP описывает автобусный путь через Фила-Гинеа и подтверждает используемый дорожный коридор.",
+        "sources": [
+          "rural-south-osm-roads",
+          "rural-fila-guinea-local-mtb-film",
+          "rural-fila-guinea-road-report"
+        ]
+      },
+      {
+        "title": "Вода, покрытие и сокращение",
+        "text": "Возьмите ремнабор, насос и две бутылки воды. Если темп снизится после первого подъёма, уточните подъезд машины к посёлку. Перевозку велосипеда на автобусе согласуйте с перевозчиком.",
+        "sources": [
+          "rural-fila-guinea-road-report",
+          "rural-fila-guinea-local-mtb-film",
+          "rural-ict-coto-brus-local-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Кото-Бруса · справка о районе",
+        "source": "rural-coto-brus-municipality-contact",
+        "note": "Публичные контакты муниципалитета и сведения о посёлках."
+      }
+    ],
+    "nearby": [
+      "san-vito-agua-buena-cycling",
+      "san-vito-wilson-las-cruces"
+    ],
+    "connectStops": false,
+    "line": "rural-vito-fila-road",
+    "videos": [
+      "rural-fila-guinea-local-mtb-film"
+    ],
+    "galleries": [
+      "rural-ict-coto-brus-local-guide"
+    ]
+  },
+  "san-vito-agua-buena-cycling": {
+    "stops": [
+      {
+        "point": "frontier-san-vito",
+        "role": "Сан-Вито · сбор и вода",
+        "note": "Дорожный ориентир в центре. Перед выходом проверьте участок у Calle El Estadio и на Ruta 612."
+      },
+      {
+        "point": "rural-agua-buena-road-end",
+        "role": "Агуа-Буэна · разворот и пополнение воды",
+        "note": "Центральный дорожный ориентир. Кафе и точки для подбора сверяйте по месту."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Путь по дорогам общего пользования",
+        "text": "Гид ICT называет этот коридор для прогулок на велосипеде. На нашей карте местные улицы чередуются с ветками Ruta 237. Для езды с подростками выбирайте тихое время и планируйте остановки на расширениях дороги.",
+        "sources": [
+          "rural-ict-pacific-south-guide",
+          "rural-south-osm-roads",
+          "cr-road-cycle-law"
+        ]
+      },
+      {
+        "title": "Как объединить с соседними местами",
+        "text": "Оставьте полдня на сад Уилсона или кафе в Сан-Вито. Для длинного выезда можно добавить отдельное утро в Фила-Гинеа. На скользких спусках важны тормоза, яркая одежда и задний свет.",
+        "sources": [
+          "rural-ict-coto-brus-local-guide",
+          "rural-coto-brus-municipality-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Кото-Бруса",
+        "source": "rural-coto-brus-municipality-contact",
+        "note": "Справка по населенным пунктам, дорожным вопросам и муниципальным контактам."
+      }
+    ],
+    "nearby": [
+      "san-vito-fila-guinea-gravel",
+      "san-vito-wilson-las-cruces",
+      "corredores-coto-brus-weekend-2"
+    ],
+    "connectStops": false,
+    "line": "rural-vito-agua-road",
+    "galleries": [
+      "rural-ict-pacific-south-guide",
+      "rural-ict-coto-brus-local-guide"
+    ]
+  },
+  "pittier-asofac-agrotour-day": {
+    "stops": [
+      {
+        "point": "amistad-pittier-village",
+        "role": "Санта-Мария-де-Питье · региональный ориентир",
+        "note": "Ориентир на пути к хуторам. Точный адрес сельского тура подтвердит принимающая сторона."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Местная программа",
+        "text": "Ассоциация перечисляет продукты фермы, домашнюю кухню, природные прогулки и услуги местных проводников. По самочувствию группы можно запросить короткий вариант.",
+        "sources": [
+          "rural-asofac-agua-caliente",
+          "rural-ict-coto-brus-local-guide"
+        ]
+      },
+      {
+        "title": "Доступ и дорога",
+        "text": "План территории Нгэбе отмечает культурное значение источников и ограниченный доступ. Для конкретного посещения полагайтесь на подтверждение местных организаторов. После дождя также проверьте дорогу у принимающей стороны.",
+        "sources": [
+          "rural-ngabe-coto-brus-water-access",
+          "rural-pittier-coto-access-notes",
+          "rural-asofac-agua-caliente"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASOFAC · через публичную карточку ACICAFOC",
+        "source": "rural-asofac-agua-caliente",
+        "note": "Уточните, какие услуги и допуски доступны к дате поездки."
+      }
+    ],
+    "nearby": [
+      "pila-pittier-camp-and-falls",
+      "pila-cerro-pittier-15",
+      "san-vito-fila-guinea-gravel"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-asofac-agua-caliente",
+      "rural-ict-coto-brus-local-guide"
+    ]
+  },
+  "puerto-jimenez-matapalo-gravel-ride": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · центр и прокат",
+        "note": "Ориентир для встречи. Адрес выдачи конкретного велосипеда подтвердит прокатчик."
+      },
+      {
+        "point": "rural-matapalo-road-turn",
+        "role": "Калье-Мирамар · разворот на подъезде к мысу",
+        "note": "Это конец опубликованной велолинии. Для спуска к бухтам проверьте ответвления по карте и у проката."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Проверяемая геометрия",
+        "text": "39,5 км рассчитаны по дорожному маршруту OpenStreetMap туда и обратно. Автор Wikiloc отдельно публикует фотографическую запись велопоездки к мысу. Покрытие и возможность съезда к пляжу уточняются на месте.",
+        "sources": [
+          "rural-south-osm-roads",
+          "rural-osa-matapalo-bike-record",
+          "rural-osa-tamales-coastal-guide"
+        ]
+      },
+      {
+        "title": "Поддержка и разные составы поездки",
+        "text": "Выезд держится у берега, но жара и промоины могут добавить времени. Для группы пригодится машина поддержки. Сёрф и встречу на пляже лучше запланировать отдельно по времени от длинного велоэтапа.",
+        "sources": [
+          "rural-osa-bike-direct-contacts",
+          "rural-osa-cabo-matapalo-guide",
+          "rural-osa-pacific-bikepacking-forum",
+          "rural-osa-ict-municipal-beaches"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Bike Tour Company · Альберто",
+        "source": "rural-osa-bike-direct-contacts",
+        "note": "Подтвердите состояние гравийной дороги, размер MTB, ремнабор, наличие воды и возможный трансфер.",
+        "phone": "+506 8544 7507",
+        "whatsapp": "https://wa.me/50685447507",
+        "email": "osabiketours@gmail.com"
+      }
+    ],
+    "nearby": [
+      "osa-dos-brazos-guided-mtb",
+      "osa-pan-dulce-lesson",
+      "cabo-matapalo-surf-3"
+    ],
+    "connectStops": false,
+    "line": "rural-jimenez-cape-road",
+    "track": "rural-osa-matapalo-bike-record",
+    "galleries": [
+      "rural-osa-matapalo-bike-record",
+      "rural-osa-cabo-matapalo-guide",
+      "rural-osa-ict-municipal-beaches"
+    ]
+  },
+  "puerto-jimenez-playa-preciosa-ebike": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · центр и прокат",
+        "note": "Ориентир для встречи. Адрес выдачи конкретного велосипеда подтвердит прокатчик."
+      },
+      {
+        "point": "rural-playa-preciosa-road-reference",
+        "role": "Плайя-Пресьоса · конец велоэтапа",
+        "note": "Ориентир на Calle Playa Preciosa. Спросите хозяев, где разрешено поставить велосипед до выхода на пляж."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъезд к берегу",
+        "text": "Местный путеводитель указывает около 5 км от города. Дорога заканчивается у береговых объектов. Сверьте разрешённое место для парковки с хозяевами и договоритесь о времени возврата велосипеда.",
+        "sources": [
+          "rural-playa-platanares-aguaepipa",
+          "rural-platanares-municipal-road",
+          "rural-platanares-oasis-host"
+        ]
+      },
+      {
+        "title": "Прокат и береговая остановка",
+        "text": "Уточните, как включается педальная помощь, какой рост подходит для велосипеда и в каком месте помогает прокатчик при проколе. Мангровые и черепашьи участки посещают пешком по правилам охраны берега.",
+        "sources": [
+          "rural-osa-jimenez-current-transport",
+          "rural-osa-jimenez-ebike-rental",
+          "rural-playa-platanares-aguaepipa"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Tourism · справка по e-bike и планированию",
+        "source": "rural-osa-jimenez-current-transport",
+        "note": "Запросите подтверждённый контакт проката e-bike, размер рамы, режим педальной помощи и точку выдачи.",
+        "email": "info@osatourism.com",
+        "url": "https://www.osatourism.com/puerto-jimenez/"
+      }
+    ],
+    "nearby": [
+      "puerto-jimenez-matapalo-gravel-ride",
+      "osa-dos-brazos-guided-mtb",
+      "aventuras-cafe-puerto-jimenez"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-playa-platanares-aguaepipa",
+      "rural-platanares-oasis-host",
+      "rural-osa-jimenez-current-transport"
+    ]
+  },
+  "golfo-dulce-ferry-ebike-kayak-2": {
+    "stops": [
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Гольфито · первый причал",
+        "note": "Сверьте точку отправления рейса и возможность покупки билета на месте."
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · прибытие и обратный рейс",
+        "note": "Держите время обратной лодки в плане, чтобы согласовать каяк."
+      },
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · центр и прокат",
+        "note": "Ориентир для встречи. Адрес выдачи конкретного велосипеда подтвердит прокатчик."
+      },
+      {
+        "point": "rural-playa-preciosa-road-reference",
+        "role": "Плайя-Пресьоса · конец велоэтапа",
+        "note": "Ориентир на Calle Playa Preciosa. Спросите хозяев, где разрешено поставить велосипед до выхода на пляж."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как обойтись без машины",
+        "text": "Останьтесь на одну ночь в пешей доступности от центра. Туристический центр перечисляет прокат и местные тук-туки. На побережье можно сократить велоэтап, оставив больше времени на лодку.",
+        "sources": [
+          "rural-osa-jimenez-current-transport",
+          "rural-osa-jimenez-ebike-rental",
+          "rural-playa-platanares-aguaepipa"
+        ]
+      },
+      {
+        "title": "Смена программы при ветре и дожде",
+        "text": "У гидов спросите о старте в защищённом участке залива или переносе каяка. Если времени на воду мало, походите по берегу и вернитесь в посёлок до посадки.",
+        "sources": [
+          "rural-playa-platanares-aguaepipa",
+          "rural-osa-ict-municipal-beaches"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Tourism · справка по e-bike и планированию",
+        "source": "rural-osa-jimenez-current-transport",
+        "note": "Запросите подтверждённый контакт проката e-bike, размер рамы, режим педальной помощи и точку выдачи.",
+        "email": "info@osatourism.com",
+        "url": "https://www.osatourism.com/puerto-jimenez/"
+      }
+    ],
+    "nearby": [
+      "puerto-jimenez-playa-preciosa-ebike",
+      "golfo-dulce-weekend-no-car",
+      "golfo-dulce-mangrove-kayak"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "rural-playa-platanares-aguaepipa",
+      "rural-osa-jimenez-current-transport"
+    ]
+  }
+}

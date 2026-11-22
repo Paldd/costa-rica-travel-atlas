@@ -12,7 +12,7 @@ from urllib.error import URLError
 from urllib.parse import parse_qs, urlsplit
 from urllib.request import build_opener
 
-from build_catalog import DATA, PUBLISHER_FIELDS, SOURCE_FIELDS, read_records, read_table
+from build_catalog import DATA, PUBLISHER_FIELDS, read_records, read_sources, read_table
 from import_social import normalized, recurring_names
 from refresh import AGENT, SameSiteRedirect, canonical, editorial_feeds, host, request, robots_rules, sitemap_date
 from review_social_posts import PLACE_NAME, TOPICS, publication
@@ -257,7 +257,7 @@ def main():
         parser.error("Run refresh.py first")
 
     day = datetime.datetime.now(datetime.timezone.utc).date()
-    catalog = {row["id"]: row["url"] for row in read_table(DATA / "sources.tsv", SOURCE_FIELDS)}
+    catalog = {row["id"]: row["url"] for row in read_sources()}
     archives = {}
     for row in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS):
         if row["archive"]:
