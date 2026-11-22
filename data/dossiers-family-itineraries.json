@@ -1,0 +1,1078 @@
+{
+  "junquillal-santa-cruz-pacific-beach": {
+    "stops": [
+      {
+        "point": "junquillal-west-beach-reference",
+        "role": "Западный Хункильяль · ориентир на побережье",
+        "note": "Пин относится к месту съёмки. С парковки идите пешком через открытый общественный вход по указателям."
+      },
+      {
+        "point": "junquillal-verdiazul-point",
+        "role": "Verdiazul · место встречи у прибрежного проекта",
+        "note": "Следуйте инструкциям сотрудников. Ограждённые участки гнёзд проходят в сопровождении."
+      },
+      {
+        "point": "junquillal-playa-blanca-mirador",
+        "role": "Mirador Playa Blanca · сухопутная панорама",
+        "note": "Оставайтесь на устойчивой площадке вдали от уступа, особенно в ветреный день."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какой именно Хункильяль",
+        "text": "Этот пляж находится в округе Veintisiete de Abril, кантон Санта-Крус, на западном побережье Никои. Северный заказник Bahía Junquillal у Ла-Крус — отдельный выезд. Для парковки ищите общественный подход, описанный в путеводителе, или пользуйтесь подтверждённой площадкой хозяина.",
+        "sources": [
+          "junquillal-west-ict-zoning",
+          "junquillal-west-field-guide",
+          "cr-mopt-no-vehicle-beach"
+        ]
+      },
+      {
+        "title": "Прибой и прогулка",
+        "text": "С первым выездом удобно совместить сухопутную прогулку, фотографии и закат. На скалах оценивайте поднимающийся прилив. Пляж открытый, поэтому маленьким детям оставьте игры на суше или бассейн у базы и проверяйте указатели на входе.",
+        "sources": [
+          "junquillal-west-field-guide",
+          "junquillal-west-trip-report",
+          "junquillal-west-coast-photo"
+        ]
+      },
+      {
+        "title": "Рядом с пляжем",
+        "text": "Попросите Verdiazul назвать время посещения и текущие правила. Если остаётесь с палаткой, сравните Los Malinches и ближайшую базу с душем. Для еды или ночёвки с кроватями загляните в Mundo Milo.",
+        "sources": [
+          "junquillal-verdiazul-home",
+          "junquillal-malinches-directory",
+          "junquillal-mundo-milo-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Los Malinches · телефон и WhatsApp",
+        "source": "junquillal-malinches-directory",
+        "note": "Подтвердите заезд и место под крышную палатку, цену за человека, детский тариф, электричество и правила огня.",
+        "phone": "+506 4500 3882",
+        "whatsapp": "https://wa.me/50671988846",
+        "url": "https://camping.cr/listing/camping-los-malinches/"
+      },
+      {
+        "name": "Fundación Verdiazul · визит и наблюдение",
+        "source": "junquillal-verdiazul-help",
+        "note": "Запросите день, формат встречи, стоимость, возможность посещения с детьми и правила на берегу.",
+        "url": "https://verdiazul.org/help-center/"
+      },
+      {
+        "name": "Mundo Milo Eco Lodge · домики и ресторан",
+        "source": "junquillal-mundo-milo-owner",
+        "note": "Число гостей, отдельные кровати, часы кухни, меню и рекомендации по местным выездам.",
+        "phone": "+506 4500 4520",
+        "email": "info@mundomilo.com",
+        "url": "https://www.mundomilo.com/"
+      }
+    ],
+    "photos": [
+      "junquillal-pacific-gaendalf"
+    ],
+    "videos": [
+      "junquillal-west-video"
+    ],
+    "galleries": [
+      "junquillal-west-field-guide",
+      "junquillal-west-trip-report"
+    ],
+    "nearby": [
+      "junquillal-malinches-rooftent",
+      "junquillal-verdiazul-hatchery",
+      "junquillal-verdiazul-malinches-blanca-4",
+      "junquillal"
+    ]
+  },
+  "junquillal-malinches-rooftent": {
+    "stops": [
+      {
+        "point": "junquillal-malinches-arrival",
+        "role": "Los Malinches · территория лагеря",
+        "note": "Полевой путеводитель приводит эту точку. Место заезда и участок для машины запросите у хозяина."
+      },
+      {
+        "point": "junquillal-playa-blanca-mirador",
+        "role": "Mirador Playa Blanca · сухопутная панорама",
+        "note": "Оставайтесь на устойчивой площадке вдали от уступа, особенно в ветреный день."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кому подходит площадка",
+        "text": "В полевом справочнике Costa Rica Camping Guide перечислены палатки, крыша и караваны. Описаны ровные травяные участки, санузел, душ и электричество. Перед выездом сообщите хозяевам длину машины, высоту в раскрытом виде и нужны ли вам розетка или навес.",
+        "sources": [
+          "junquillal-malinches-roof-field",
+          "junquillal-malinches-directory",
+          "junquillal-malinches-yoko"
+        ]
+      },
+      {
+        "title": "Часы и цена",
+        "text": "Camping.cr указывает ₡4 000 с человека за ночь. Полевой путеводитель приводит ₡5 000 и другую продолжительность рабочего дня. Используйте эти цифры как ориентир. Запросите актуальный семейный тариф, часы заезда и место для автомобиля. Огонь и дрова согласуйте отдельно.",
+        "sources": [
+          "junquillal-malinches-directory",
+          "junquillal-malinches-roof-field"
+        ]
+      },
+      {
+        "title": "Закат, ветер и запасной план",
+        "text": "Лагерь находится над берегом. На ночь берегите палатку от ветра, поставьте её вдали от края и дерева с падающими ветками. Возьмите собственный запас воды и фонари. В мокрую погоду проверьте грунтовый конец подъезда и возможность сменить участок или переехать в домик.",
+        "sources": [
+          "junquillal-malinches-roof-field",
+          "junquillal-maliches-map",
+          "junquillal-mundo-milo-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Los Malinches · телефон и WhatsApp",
+        "source": "junquillal-malinches-directory",
+        "note": "Подтвердите заезд и место под крышную палатку, цену за человека, детский тариф, электричество и правила огня.",
+        "phone": "+506 4500 3882",
+        "whatsapp": "https://wa.me/50671988846",
+        "url": "https://camping.cr/listing/camping-los-malinches/"
+      },
+      {
+        "name": "Mundo Milo Eco Lodge · домики и ресторан",
+        "source": "junquillal-mundo-milo-owner",
+        "note": "Число гостей, отдельные кровати, часы кухни, меню и рекомендации по местным выездам.",
+        "phone": "+506 4500 4520",
+        "email": "info@mundomilo.com",
+        "url": "https://www.mundomilo.com/"
+      }
+    ],
+    "galleries": [
+      "junquillal-malinches-roof-field",
+      "junquillal-malinches-yoko"
+    ],
+    "nearby": [
+      "junquillal-rooftent-verdiazul-surf-2",
+      "junquillal-verdiazul-malinches-blanca-4",
+      "junquillal-santa-cruz-pacific-beach"
+    ]
+  },
+  "junquillal-verdiazul-hatchery": {
+    "stops": [
+      {
+        "point": "junquillal-verdiazul-point",
+        "role": "Verdiazul · место встречи у прибрежного проекта",
+        "note": "Следуйте инструкциям сотрудников. Ограждённые участки гнёзд проходят в сопровождении."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Посещение команды",
+        "text": "На сайте фонда рассказывают о защите гнёзд и публикуют ориентир вылупления. Прежде чем ехать, получите у команды подтверждение времени и формата. Для детей подойдёт рассказ у питомника, если визит возможен на вашу дату.",
+        "sources": [
+          "junquillal-verdiazul-home",
+          "junquillal-verdiazul-help"
+        ]
+      },
+      {
+        "title": "Что можно наблюдать",
+        "text": "По полевому отчёту посетители знакомятся с работой природоохранной команды. Выход черепах зависит от природы. Сотрудники решают, откуда наблюдать, когда можно приблизиться и какую съёмку разрешают.",
+        "sources": [
+          "junquillal-verdiazul-home",
+          "junquillal-verdiazul-visit",
+          "junquillal-verdiazul-video"
+        ]
+      },
+      {
+        "title": "Как добавить визит в выходные",
+        "text": "Оставьте машину на согласованной площадке и идите по указателям. Для вечера возьмите воду, закрытую обувь и фонарь, но включайте свет у гнёзд и на берегу только по указанию команды.",
+        "sources": [
+          "junquillal-verdiazul-map",
+          "junquillal-west-field-guide",
+          "junquillal-verdiazul-help"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Fundación Verdiazul · визит и наблюдение",
+        "source": "junquillal-verdiazul-help",
+        "note": "Запросите день, формат встречи, стоимость, возможность посещения с детьми и правила на берегу.",
+        "url": "https://verdiazul.org/help-center/"
+      }
+    ],
+    "videos": [
+      "junquillal-verdiazul-video"
+    ],
+    "galleries": [
+      "junquillal-verdiazul-visit",
+      "junquillal-verdiazul-home"
+    ],
+    "nearby": [
+      "junquillal-santa-cruz-pacific-beach",
+      "junquillal-mundo-milo-family-base",
+      "junquillal-rooftent-verdiazul-surf-2"
+    ]
+  },
+  "junquillal-guacamaya-surf-lesson": {
+    "stops": [
+      {
+        "point": "junquillal-guacamaya-base",
+        "role": "Guacamaya Lodge · ориентир в посёлке",
+        "note": "Урок начинается на споте, который инструктор подтвердит по телефону."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первое занятие",
+        "text": "В разделе активностей Guacamaya Lodge прямо указывает организацию уроков. Запросите личный урок или небольшую группу. Уточните, какая мягкая доска, лиш и лайкра входят, а также какой пляж инструктор выбирает для конкретной группы.",
+        "sources": [
+          "junquillal-guacamaya-surf-operator",
+          "junquillal-guacamaya-contact"
+        ]
+      },
+      {
+        "title": "Спот, возраст и вода",
+        "text": "Катание и обучение различаются по участкам. У Хункильяля есть открытый прибой и камни, а соседние пляжи меняются с приливом. Спросите про возраст и навыки плавания. При неподходящей волне у вас есть сухопутная прогулка к смотровой и визит в природоохранный проект.",
+        "sources": [
+          "junquillal-west-trip-report",
+          "junquillal-west-field-guide",
+          "junquillal-verdiazul-home"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Guacamaya Lodge · запрос местного инструктора",
+        "source": "junquillal-guacamaya-contact",
+        "note": "Возраст и уровень группы, выбранный пляж, образец расписания, включённая доска и занятие при сильном прибое.",
+        "phone": "+506 4500 0888",
+        "email": "guacamayalodge@gmail.com",
+        "url": "https://guacamayalodge.com/es/contacto/"
+      }
+    ],
+    "galleries": [
+      "junquillal-guacamaya-surf-operator",
+      "junquillal-west-trip-report"
+    ],
+    "nearby": [
+      "junquillal-santa-cruz-pacific-beach",
+      "junquillal-verdiazul-hatchery",
+      "junquillal-rooftent-verdiazul-surf-2"
+    ]
+  },
+  "junquillal-mundo-milo-family-base": {
+    "stops": [
+      {
+        "point": "junquillal-mundo-milo-base",
+        "role": "Mundo Milo · лодж и ресторан",
+        "note": "На карте отмечена точка ресторана. Подъезд к регистрации уточните у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лесные кабины",
+        "text": "Владелец показывает семь отдельных кабинов рядом с бассейном, разные варианты планировки и фото. Сообщите точное число гостей. Уточните количество кроватей, доступ к кабине со стороны парковки и меры у бассейна для маленьких детей.",
+        "sources": [
+          "junquillal-mundo-milo-owner",
+          "junquillal-mundo-milo-map"
+        ]
+      },
+      {
+        "title": "Еда, прогулки и море",
+        "text": "У лоджа есть ресторан и завтрак для гостей. Спросите часы и меню на ваш день. Берег по описанию владельца примерно в 350 м. Для подростков можно добавить урок сёрфа, для всех — короткий выезд к Verdiazul.",
+        "sources": [
+          "junquillal-mundo-milo-owner",
+          "junquillal-mundo-milo-contacts",
+          "junquillal-guacamaya-surf-operator"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Mundo Milo Eco Lodge · домики и ресторан",
+        "source": "junquillal-mundo-milo-owner",
+        "note": "Число гостей, отдельные кровати, часы кухни, меню и рекомендации по местным выездам.",
+        "phone": "+506 4500 4520",
+        "email": "info@mundomilo.com",
+        "url": "https://www.mundomilo.com/"
+      },
+      {
+        "name": "Guacamaya Lodge · запрос местного инструктора",
+        "source": "junquillal-guacamaya-contact",
+        "note": "Возраст и уровень группы, выбранный пляж, образец расписания, включённая доска и занятие при сильном прибое.",
+        "phone": "+506 4500 0888",
+        "email": "guacamayalodge@gmail.com",
+        "url": "https://guacamayalodge.com/es/contacto/"
+      }
+    ],
+    "galleries": [
+      "junquillal-mundo-milo-owner",
+      "junquillal-west-field-guide"
+    ],
+    "nearby": [
+      "junquillal-verdiazul-hatchery",
+      "junquillal-verdiazul-malinches-blanca-4",
+      "junquillal-rooftent-verdiazul-surf-2"
+    ]
+  },
+  "junquillal-verdiazul-malinches-blanca-4": {
+    "line": "junquillal-land-walk-line",
+    "stops": [
+      {
+        "point": "junquillal-verdiazul-point",
+        "role": "Verdiazul · место встречи у прибрежного проекта",
+        "note": "Следуйте инструкциям сотрудников. Ограждённые участки гнёзд проходят в сопровождении."
+      },
+      {
+        "point": "junquillal-guacamaya-base",
+        "role": "Guacamaya Lodge · ориентир в посёлке",
+        "note": "Урок начинается на споте, который инструктор подтвердит по телефону."
+      },
+      {
+        "point": "junquillal-malinches-arrival",
+        "role": "Los Malinches · территория лагеря",
+        "note": "Полевой путеводитель приводит эту точку. Место заезда и участок для машины запросите у хозяина."
+      },
+      {
+        "point": "junquillal-playa-blanca-mirador",
+        "role": "Mirador Playa Blanca · сухопутная панорама",
+        "note": "Оставайтесь на устойчивой площадке вдали от уступа, особенно в ветреный день."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Линия пешком",
+        "text": "3,74 км в одну сторону по данным OpenStreetMap. Из района Verdiazul маршрут использует Calle Playa Junquillal, часть Vía 928 и местные улицы по направлению к Los Malinches и смотровой. Для возвращения тем же путём заложите примерно 7,5 км на полный выход.",
+        "sources": [
+          "junquillal-foot-osm",
+          "junquillal-verdiazul-map",
+          "junquillal-blanca-mirador-map"
+        ]
+      },
+      {
+        "title": "Прогулка и остановки",
+        "text": "Сделайте паузу у лоджа или в деревне. Кемпинг и Guacamaya можно пройти по дороге, а внутрь территорий заходят с согласия хозяев. У смотровой держите дистанцию от края. На всём участке пригодятся вода, головной убор и фонарь при позднем возвращении.",
+        "sources": [
+          "junquillal-guacamaya-contact",
+          "junquillal-malinches-directory",
+          "junquillal-west-field-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Los Malinches · телефон и WhatsApp",
+        "source": "junquillal-malinches-directory",
+        "note": "Подтвердите заезд и место под крышную палатку, цену за человека, детский тариф, электричество и правила огня.",
+        "phone": "+506 4500 3882",
+        "whatsapp": "https://wa.me/50671988846",
+        "url": "https://camping.cr/listing/camping-los-malinches/"
+      },
+      {
+        "name": "Guacamaya Lodge · запрос местного инструктора",
+        "source": "junquillal-guacamaya-contact",
+        "note": "Возраст и уровень группы, выбранный пляж, образец расписания, включённая доска и занятие при сильном прибое.",
+        "phone": "+506 4500 0888",
+        "email": "guacamayalodge@gmail.com",
+        "url": "https://guacamayalodge.com/es/contacto/"
+      },
+      {
+        "name": "Fundación Verdiazul · визит и наблюдение",
+        "source": "junquillal-verdiazul-help",
+        "note": "Запросите день, формат встречи, стоимость, возможность посещения с детьми и правила на берегу.",
+        "url": "https://verdiazul.org/help-center/"
+      }
+    ],
+    "photos": [
+      "junquillal-pacific-gaendalf"
+    ],
+    "galleries": [
+      "junquillal-west-trip-report"
+    ],
+    "nearby": [
+      "junquillal-rooftent-verdiazul-surf-2",
+      "junquillal-santa-cruz-pacific-beach",
+      "junquillal-malinches-rooftent"
+    ]
+  },
+  "paquera-playa-mango-gulf-day": {
+    "stops": [
+      {
+        "point": "paquera-mango-beach-area",
+        "role": "Playa Mango · берег у Исла-Хесусита",
+        "note": "Маркер береговой. Панорама 360 привязана к соседнему участку этой бухты. Площадку для машины уточняют у местных."
+      },
+      {
+        "point": "paquera-jesusita-island-reference",
+        "role": "Исла-Хесусита · ориентир напротив",
+        "note": "Остров отмечен для ориентации. По воде пользуйтесь согласованным трансфером."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где находится берег",
+        "text": "Карта и панорама 360 указывают Playa Mango у Пакеры, напротив Исла-Хесусита. Панорама снята на соседнем участке той же бухты. Положение общественного подъезда и парковки нужно уточнить перед выездом.",
+        "sources": [
+          "paquera-mango-map",
+          "paquera-mango-360",
+          "paquera-community-beaches"
+        ]
+      },
+      {
+        "title": "Почему поездку планируем как дневную",
+        "text": "У отчёта с названием Playa Mangoes метка примерно в шести километрах от этого берега. Сообщение о ночёвке автора относится к его поездке. Для своего выезда выберите подтверждённую площадку, например Don Trino в Почоте, или домик у Пакеры.",
+        "sources": [
+          "paquera-mango-ambiguity-report",
+          "pochote-don-trino-directory",
+          "cr-mopt-no-vehicle-beach"
+        ]
+      },
+      {
+        "title": "Доступ и оснащение",
+        "text": "Панорама и путеводитель описывают неровную дорогу. После сильного дождя отделите прогулку от подъезда на машине и не заезжайте за ворота без разрешения. Возьмите воду, офлайн-карту, закрытую обувь для камней и резерв по времени до парома.",
+        "sources": [
+          "paquera-mango-360",
+          "paquera-mango-map",
+          "paquera-ferry-live"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Turismo Curú · ночной каяк от парома",
+        "source": "paquera-curu-nicoyana-kayak",
+        "note": "Сверьте время выхода, уровень группы, наличие подходящих детских жилетов, формат байдарки и возвращение.",
+        "phone": "+506 2641 0004",
+        "email": "contact@curutourism.com",
+        "url": "https://curutourism.com/tours/curu18/?tours=624"
+      },
+      {
+        "name": "Camping Don Trino · площадка и парковка",
+        "source": "pochote-don-trino-directory",
+        "note": "Запросите заезд, ночёвку с наземной или крышной палаткой, воду и отдельный тариф стоянки для лодочного выезда.",
+        "url": "https://camping.cr/listing/camping-don-trino/"
+      }
+    ],
+    "galleries": [
+      "paquera-mango-360"
+    ],
+    "nearby": [
+      "paquera-isla-chiquita-family-glamp",
+      "paquera-curu-nicoyana-kayak-night",
+      "paquera-mango-pochote-vivos-water-3"
+    ]
+  },
+  "paquera-curu-nicoyana-kayak-night": {
+    "stops": [
+      {
+        "point": "paquera-port-point",
+        "role": "Паром Пакеры · район La Nicoyana",
+        "note": "Место стойки перед выездом подтвердите у Turismo Curú. Это ориентир паромной зоны."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два часа на воде и берегу",
+        "text": "Оператор начинает в районе La Nicoyana у парома. В печатной программе сбор в 17:00, затем около 20 минут гребли до небольшого берега и возвращение к 19:00. Точное место выхода и время подтвердите для выбранного дня.",
+        "sources": [
+          "paquera-curu-nicoyana-kayak",
+          "paquera-ferry-live"
+        ]
+      },
+      {
+        "title": "Возраст, снаряжение и видимость",
+        "text": "Перед бронированием запросите двухместный каяк, подходящие жилеты для каждого участника, фонарь и условия для новичков. Биолюминесценция зависит от воды и освещения. Уровень волнения, высадку с каяка и возможную отмену решает гид.",
+        "sources": [
+          "paquera-curu-nicoyana-kayak",
+          "paquera-community-beaches"
+        ]
+      },
+      {
+        "title": "После выхода",
+        "text": "Оставьте запас времени перед последним рейсом. Забронируйте береговую ночёвку заранее или оставьте запас на трансфер до лагеря. Другой оператор ведёт ночной каяк из Bahía Rica у Пунта-Кучильо.",
+        "sources": [
+          "paquera-ferry-live",
+          "paquera-curu-nicoyana-kayak",
+          "pochote-don-trino-directory"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Turismo Curú · ночной каяк от парома",
+        "source": "paquera-curu-nicoyana-kayak",
+        "note": "Сверьте время выхода, уровень группы, наличие подходящих детских жилетов, формат байдарки и возвращение.",
+        "phone": "+506 2641 0004",
+        "email": "contact@curutourism.com",
+        "url": "https://curutourism.com/tours/curu18/?tours=624"
+      }
+    ],
+    "galleries": [
+      "paquera-community-beaches"
+    ],
+    "nearby": [
+      "paquera-bioluminescence-kayak",
+      "paquera-playa-mango-gulf-day",
+      "paquera-mango-pochote-vivos-water-3"
+    ]
+  },
+  "pochote-don-trino-beach-camp": {
+    "stops": [
+      {
+        "point": "pochote-don-trino-boat-base",
+        "role": "Don Trino · парковка и встреча с капитаном",
+        "note": "Заезжайте к хозяевам кемпинга. От парковки к посадке идите пешком."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кемпинг и оборудование",
+        "text": "Полевой справочник подтверждает наземные и крышные палатки, caravan, навесы и розетки. Согласуйте место под вашу машину, подъезд после дождя, доступ к воде и работающие санитарные узлы. Для крышной палатки проверьте высоту навеса и допустимое место раскрытия.",
+        "sources": [
+          "pochote-don-trino-field",
+          "pochote-don-trino-directory"
+        ]
+      },
+      {
+        "title": "Местная лодка",
+        "text": "Los Vivos указывает Camping Don Trino своим пунктом встречи. Разделяйте плату за парковку, ночёвку и лодку. Родителям полезно заранее знать, в какой части устья садятся с детьми и какой уровень воды ожидает капитан.",
+        "sources": [
+          "pochote-los-vivos-boarding",
+          "pochote-playa-muertos-visitors"
+        ]
+      },
+      {
+        "title": "Подъезд и вечер",
+        "text": "Двигайтесь по местной дороге из Route 21 и используйте стоянку владельца. Возьмите фонари, репеллент и обувь для влажного берега. Спросите правила огня и место приготовления еды, особенно в сухую погоду.",
+        "sources": [
+          "pochote-don-trino-map",
+          "pochote-don-trino-field",
+          "cr-mopt-no-vehicle-beach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Don Trino · площадка и парковка",
+        "source": "pochote-don-trino-directory",
+        "note": "Запросите заезд, ночёвку с наземной или крышной палаткой, воду и отдельный тариф стоянки для лодочного выезда.",
+        "url": "https://camping.cr/listing/camping-don-trino/"
+      },
+      {
+        "name": "Los Vivos · лодка, ночёвка и дневной визит",
+        "source": "pochote-los-vivos-contacts",
+        "note": "Сообщите, откуда едете, число пассажиров и детей, желаемое время возвращения и объём багажа.",
+        "phone": "+506 8318 3630",
+        "whatsapp": "https://wa.me/50683183630",
+        "url": "https://playalosvivos.com/contact"
+      }
+    ],
+    "galleries": [
+      "pochote-don-trino-field",
+      "pochote-playa-muertos-visitors"
+    ],
+    "nearby": [
+      "pochote-muertos-local-lancha",
+      "pochote-los-vivos-boat-stay",
+      "paquera-mango-pochote-vivos-water-3"
+    ]
+  },
+  "pochote-muertos-local-lancha": {
+    "stops": [
+      {
+        "point": "pochote-don-trino-boat-base",
+        "role": "Don Trino · парковка и встреча с капитаном",
+        "note": "Заезжайте к хозяевам кемпинга. От парковки к посадке идите пешком."
+      },
+      {
+        "point": "pochote-los-vivos-shore",
+        "role": "Los Vivos · район высадки",
+        "note": "Куда причаливает лодка, капитан выбирает по приливу и волнению."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где сесть на лодку",
+        "text": "Из Paquera или Tambor сверните к посёлку Почоте и Camping Don Trino. У входа подтвердите место парковки. Для дневного выезда заранее узнайте, кто повезёт вас обратно и по какой цене. Для гостя Los Vivos трансфер оформляет сам лодж.",
+        "sources": [
+          "pochote-los-vivos-boarding",
+          "pochote-playa-muertos-local",
+          "pochote-playa-muertos-visitors"
+        ]
+      },
+      {
+        "title": "Выход на пляж и проверка погоды",
+        "text": "Полевые источники описывают мокрую высадку. Для детей проверьте подходящие жилеты, место высадки и время по приливу. Захватите сухой мешок, воду, закрытую обувь для берега и защиту от солнца.",
+        "sources": [
+          "pochote-playa-muertos-visitors",
+          "pochote-los-vivos-boarding",
+          "pochote-muertos-visitor-video"
+        ]
+      },
+      {
+        "title": "Сколько времени отвести",
+        "text": "На воде обычно 5–10 минут. Для высадки, прогулки и возвращения оставьте полдня. На выходных приезжают местные семьи, поэтому у капитана стоит согласовать время обратной посадки до ухода с пляжа.",
+        "sources": [
+          "pochote-playa-muertos-local",
+          "pochote-playa-muertos-visitors"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Los Vivos · лодка, ночёвка и дневной визит",
+        "source": "pochote-los-vivos-contacts",
+        "note": "Сообщите, откуда едете, число пассажиров и детей, желаемое время возвращения и объём багажа.",
+        "phone": "+506 8318 3630",
+        "whatsapp": "https://wa.me/50683183630",
+        "url": "https://playalosvivos.com/contact"
+      },
+      {
+        "name": "Camping Don Trino · площадка и парковка",
+        "source": "pochote-don-trino-directory",
+        "note": "Запросите заезд, ночёвку с наземной или крышной палаткой, воду и отдельный тариф стоянки для лодочного выезда.",
+        "url": "https://camping.cr/listing/camping-don-trino/"
+      }
+    ],
+    "videos": [
+      "pochote-muertos-visitor-video"
+    ],
+    "galleries": [
+      "pochote-playa-muertos-local",
+      "pochote-playa-muertos-visitors"
+    ],
+    "nearby": [
+      "pochote-don-trino-beach-camp",
+      "pochote-los-vivos-boat-stay",
+      "paquera-mango-pochote-vivos-water-3"
+    ]
+  },
+  "pochote-los-vivos-boat-stay": {
+    "stops": [
+      {
+        "point": "pochote-don-trino-boat-base",
+        "role": "Don Trino · парковка и встреча с капитаном",
+        "note": "Заезжайте к хозяевам кемпинга. От парковки к посадке идите пешком."
+      },
+      {
+        "point": "pochote-los-vivos-shore",
+        "role": "Los Vivos · район высадки",
+        "note": "Куда причаливает лодка, капитан выбирает по приливу и волнению."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроено размещение",
+        "text": "Лодж размещает гостей в отдельных лесных домиках под полотном и в комнатах у берега. Jungle Family Cabin указан как домик на троих с широкой и одиночной кроватью. Для большей группы спросите два близких номера или другой формат.",
+        "sources": [
+          "pochote-los-vivos-lodge",
+          "pochote-los-vivos-contacts"
+        ]
+      },
+      {
+        "title": "Как приехать с детьми и багажом",
+        "text": "Оставьте машину в Don Trino и подтвердите лодку из Почоте у принимающей команды. На странице хозяина ориентир около пяти минут на воде. Заранее опишите коляску, переноску и крупные сумки, а также потребность в детском жилете.",
+        "sources": [
+          "pochote-los-vivos-boarding",
+          "pochote-los-vivos-contacts"
+        ]
+      },
+      {
+        "title": "Чем заняться на месте",
+        "text": "Оператор описывает питание, каяки для гостей и отдельный дневной формат. Сверьте, что входит в выбранную ночёвку или Day Pass. Для купания и переходов по берегу спросите про состояние воды и прилив.",
+        "sources": [
+          "pochote-los-vivos-lodge",
+          "pochote-los-vivos-contacts",
+          "pochote-playa-muertos-visitors"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Los Vivos · лодка, ночёвка и дневной визит",
+        "source": "pochote-los-vivos-contacts",
+        "note": "Сообщите, откуда едете, число пассажиров и детей, желаемое время возвращения и объём багажа.",
+        "phone": "+506 8318 3630",
+        "whatsapp": "https://wa.me/50683183630",
+        "url": "https://playalosvivos.com/contact"
+      }
+    ],
+    "galleries": [
+      "pochote-los-vivos-lodge",
+      "pochote-playa-muertos-visitors"
+    ],
+    "videos": [
+      "pochote-muertos-visitor-video"
+    ],
+    "nearby": [
+      "pochote-muertos-local-lancha",
+      "pochote-don-trino-beach-camp",
+      "paquera-mango-pochote-vivos-water-3"
+    ]
+  },
+  "junquillal-rooftent-verdiazul-surf-2": {
+    "line": "junquillal-land-walk-line",
+    "stops": [
+      {
+        "point": "junquillal-verdiazul-point",
+        "role": "Verdiazul · место встречи у прибрежного проекта",
+        "note": "Следуйте инструкциям сотрудников. Ограждённые участки гнёзд проходят в сопровождении."
+      },
+      {
+        "point": "junquillal-guacamaya-base",
+        "role": "Guacamaya Lodge · ориентир в посёлке",
+        "note": "Урок начинается на споте, который инструктор подтвердит по телефону."
+      },
+      {
+        "point": "junquillal-malinches-arrival",
+        "role": "Los Malinches · территория лагеря",
+        "note": "Полевой путеводитель приводит эту точку. Место заезда и участок для машины запросите у хозяина."
+      },
+      {
+        "point": "junquillal-playa-blanca-mirador",
+        "role": "Mirador Playa Blanca · сухопутная панорама",
+        "note": "Оставайтесь на устойчивой площадке вдали от уступа, особенно в ветреный день."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первый день и ночёвка",
+        "text": "На карте дневная пешая линия через посёлок до смотровой. На приезд и простую прогулку можно отвести отдельную половину дня. Los Malinches публикует разные форматы площадок. Отдельно согласуйте раскрытие крыши и перенос на случай дождя.",
+        "sources": [
+          "junquillal-foot-osm",
+          "junquillal-malinches-roof-field",
+          "junquillal-malinches-directory"
+        ]
+      },
+      {
+        "title": "Гибкий второй день",
+        "text": "Встреча с Verdiazul зависит от работы проекта, а урок сёрфа от волны и наставника. С малышами удобно выбрать короткую прогулку и ресторан, а на урок выйти отдельной частью группы.",
+        "sources": [
+          "junquillal-verdiazul-home",
+          "junquillal-guacamaya-surf-operator",
+          "junquillal-mundo-milo-owner"
+        ]
+      },
+      {
+        "title": "Что положить в машину",
+        "text": "Вода, тент, фонари, мешок для влажных вещей и обувь для камней помогают на открытом берегу. Для крыши проверьте размер площадки, направление ветра и правила приготовления еды. Оставляйте автомобиль на разрешённом участке.",
+        "sources": [
+          "junquillal-malinches-roof-field",
+          "junquillal-west-field-guide",
+          "cr-mopt-no-vehicle-beach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Los Malinches · телефон и WhatsApp",
+        "source": "junquillal-malinches-directory",
+        "note": "Подтвердите заезд и место под крышную палатку, цену за человека, детский тариф, электричество и правила огня.",
+        "phone": "+506 4500 3882",
+        "whatsapp": "https://wa.me/50671988846",
+        "url": "https://camping.cr/listing/camping-los-malinches/"
+      },
+      {
+        "name": "Fundación Verdiazul · визит и наблюдение",
+        "source": "junquillal-verdiazul-help",
+        "note": "Запросите день, формат встречи, стоимость, возможность посещения с детьми и правила на берегу.",
+        "url": "https://verdiazul.org/help-center/"
+      },
+      {
+        "name": "Guacamaya Lodge · запрос местного инструктора",
+        "source": "junquillal-guacamaya-contact",
+        "note": "Возраст и уровень группы, выбранный пляж, образец расписания, включённая доска и занятие при сильном прибое.",
+        "phone": "+506 4500 0888",
+        "email": "guacamayalodge@gmail.com",
+        "url": "https://guacamayalodge.com/es/contacto/"
+      },
+      {
+        "name": "Mundo Milo Eco Lodge · домики и ресторан",
+        "source": "junquillal-mundo-milo-owner",
+        "note": "Число гостей, отдельные кровати, часы кухни, меню и рекомендации по местным выездам.",
+        "phone": "+506 4500 4520",
+        "email": "info@mundomilo.com",
+        "url": "https://www.mundomilo.com/"
+      }
+    ],
+    "photos": [
+      "junquillal-pacific-gaendalf"
+    ],
+    "galleries": [
+      "junquillal-malinches-roof-field",
+      "junquillal-verdiazul-visit"
+    ],
+    "videos": [
+      "junquillal-verdiazul-video"
+    ],
+    "nearby": [
+      "junquillal-santa-cruz-pacific-beach",
+      "junquillal-malinches-rooftent",
+      "junquillal-verdiazul-malinches-blanca-4"
+    ]
+  },
+  "paquera-mango-pochote-vivos-water-3": {
+    "stops": [
+      {
+        "point": "paquera-port-point",
+        "role": "Паром Пакеры · район La Nicoyana",
+        "note": "Место стойки перед выездом подтвердите у Turismo Curú. Это ориентир паромной зоны."
+      },
+      {
+        "point": "paquera-mango-beach-area",
+        "role": "Playa Mango · берег у Исла-Хесусита",
+        "note": "Маркер береговой. Панорама 360 привязана к соседнему участку этой бухты. Площадку для машины уточняют у местных."
+      },
+      {
+        "point": "pochote-don-trino-boat-base",
+        "role": "Don Trino · парковка и встреча с капитаном",
+        "note": "Заезжайте к хозяевам кемпинга. От парковки к посадке идите пешком."
+      },
+      {
+        "point": "pochote-los-vivos-shore",
+        "role": "Los Vivos · район высадки",
+        "note": "Куда причаливает лодка, капитан выбирает по приливу и волнению."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Паром и первый вечер",
+        "text": "Для машины выберите конкретный рейс Naviera Tambor. Забронируйте первую ночь на береговой стороне. Playa Mango подходит как дополнительная прогулка после проверки дороги, а вечерний каяк отправляется от парома.",
+        "sources": [
+          "paquera-ferry-live",
+          "paquera-mango-360",
+          "paquera-curu-nicoyana-kayak"
+        ]
+      },
+      {
+        "title": "Кемпинг или домик за водой",
+        "text": "В Почоте есть оборудованные площадки Don Trino. У Los Vivos свои номера у Playa Muertos, а от парковки идёт короткая лодочная переправа. Уточняйте размер семьи, режим встреч и условия парковки отдельными вопросами.",
+        "sources": [
+          "pochote-don-trino-field",
+          "pochote-los-vivos-boarding",
+          "pochote-los-vivos-lodge"
+        ]
+      },
+      {
+        "title": "Подготовка к двум выходам на воду",
+        "text": "Вода, детские жилеты по размеру, подписанные сухие мешки, запасной сухой слой и обувь для мокрой высадки. На каждую поездку запросите точку встречи и время возврата. Для позднего вечера и ветра держите сухопутную прогулку в запасе.",
+        "sources": [
+          "paquera-curu-nicoyana-kayak",
+          "pochote-playa-muertos-visitors",
+          "pochote-los-vivos-boarding"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Turismo Curú · ночной каяк от парома",
+        "source": "paquera-curu-nicoyana-kayak",
+        "note": "Сверьте время выхода, уровень группы, наличие подходящих детских жилетов, формат байдарки и возвращение.",
+        "phone": "+506 2641 0004",
+        "email": "contact@curutourism.com",
+        "url": "https://curutourism.com/tours/curu18/?tours=624"
+      },
+      {
+        "name": "Camping Don Trino · площадка и парковка",
+        "source": "pochote-don-trino-directory",
+        "note": "Запросите заезд, ночёвку с наземной или крышной палаткой, воду и отдельный тариф стоянки для лодочного выезда.",
+        "url": "https://camping.cr/listing/camping-don-trino/"
+      },
+      {
+        "name": "Los Vivos · лодка, ночёвка и дневной визит",
+        "source": "pochote-los-vivos-contacts",
+        "note": "Сообщите, откуда едете, число пассажиров и детей, желаемое время возвращения и объём багажа.",
+        "phone": "+506 8318 3630",
+        "whatsapp": "https://wa.me/50683183630",
+        "url": "https://playalosvivos.com/contact"
+      }
+    ],
+    "galleries": [
+      "paquera-mango-360",
+      "pochote-los-vivos-lodge",
+      "pochote-don-trino-field"
+    ],
+    "videos": [
+      "pochote-muertos-visitor-video"
+    ],
+    "nearby": [
+      "paquera-isla-chiquita-family-glamp",
+      "paquera-playa-mango-gulf-day",
+      "pochote-muertos-local-lancha"
+    ]
+  },
+  "arenal-monteverde-savegre-family-tents-8": {
+    "line": "family-tents-three-transfers",
+    "stops": [
+      {
+        "point": "fortuna-arenal-glamping-entry",
+        "role": "Дни 1–3 · Arenal Glamping",
+        "note": "Три ночи. Подтвердите семейную палатку, дополнительный матрас и часы регистрации."
+      },
+      {
+        "point": "mistico-park-entry",
+        "role": "День 2 · мосты Místico",
+        "note": "В день дождя уточните, какой участок доступен и подходит ли короткая прогулка."
+      },
+      {
+        "point": "tilaran",
+        "role": "День 4 · Тиларан",
+        "note": "Ориентир в городе на западной стороне озера для отдыха и заправки."
+      },
+      {
+        "point": "chira-glamp-approach",
+        "role": "Дни 4–5 · Chira Glamping",
+        "note": "Две ночи. Сверьте последний подъезд и количество кроватей, пин относится к району владения."
+      },
+      {
+        "point": "monteverde-visitor-centre",
+        "role": "День 5 · центр посетителей Reserva Monteverde",
+        "note": "Эта точка связана с парковкой и шаттлом, правила уточняют на дату."
+      },
+      {
+        "point": "rafiki-main-savegre-camp",
+        "role": "День 6 · лесная база Rafiki",
+        "note": "Финальный подъезд требует 4×4 по правилам владельца. Можно согласовать трансфер."
+      },
+      {
+        "point": "rafiki-matapalo-beach-camp-point",
+        "role": "Дни 7–8 · Rafiki Beach Camp",
+        "note": "Береговая палатка и вариант каяка. Переезд из Савегре на карте показан по суше."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвки по порядку",
+        "text": "Три ночи Arenal Glamping, две Chira, одна в лесном Rafiki и одна у Матапало. Arenal публикует семейную палатку с двумя кроватями queen и дополнительное место по запросу. В Chira выбирайте семейную категорию и подтверждайте фактическую вместимость.",
+        "sources": [
+          "fortuna-arenal-glamping-host",
+          "chira-family-units",
+          "rafiki-tents-accommodation",
+          "rafiki-matapalo-beach-camp"
+        ]
+      },
+      {
+        "title": "Где важен автомобиль",
+        "text": "На карте три отдельные автомобильные линии на 112,6, 212,4 и 23,4 км. После Тиларана встречаются горные дороги. У Rafiki действует требование 4×4 на грунтовом подъезде. Для обычной машины запросите место встречи внизу и перевозку до лоджа.",
+        "sources": [
+          "family-tents-road-arenal-monteverde",
+          "monteverde-chamber-visit",
+          "family-tents-road-monteverde-savegre",
+          "rafiki-journey-road-required",
+          "family-tents-road-savegre-matapalo"
+        ]
+      },
+      {
+        "title": "Активности, возраст и смена погоды",
+        "text": "Для детей удлиняйте выезд только там, где есть силы и открыты тропы. На Савегре можно разделиться между береговой прогулкой и сплавом. За день подтвердите класс воды и возраст у оператора. На береговой ночёвке держите сухой вариант семейной прогулки.",
+        "sources": [
+          "mistico-loop-guide",
+          "rafiki-savegre-rafting-family",
+          "rafiki-journey-road-required",
+          "rafiki-matapalo-guest-notes"
+        ]
+      },
+      {
+        "title": "Что подготовить до старта",
+        "text": "Нужны четыре брони с точным числом гостей и подтверждённая транспортная схема для Савегре. Возьмите тёплый слой для облачного леса, запас обуви, мешки для мокрых вещей, налобные фонари и офлайн GPX. Общий журнал дней удобно сохранить в «Мои поездки».",
+        "sources": [
+          "chira-family-units",
+          "monteverde-chamber-visit",
+          "rafiki-journey-road-required"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Glamping · первая база",
+        "source": "fortuna-arenal-glamping-host",
+        "note": "Состав семьи, планировка, дополнительное спальное место и заезд.",
+        "url": "https://www.arenalglamping.com/en/"
+      },
+      {
+        "name": "Chira Glamping · семейный купол",
+        "source": "chira-family-units",
+        "note": "Детские места, подъезд на последнем участке и время заселения.",
+        "email": "chirahotel@gmail.com",
+        "url": "https://chiraglamping.com/"
+      },
+      {
+        "name": "Rafiki · лес и пляжная база",
+        "source": "rafiki-journey-road-required",
+        "note": "Наличие двух разных ночей, 4×4 или трансфер, время активностей и возраст на воде.",
+        "phone": "+506 8368 9944",
+        "email": "rafikireservations@gmail.com",
+        "url": "https://rafikisafari.com/wp/plan-your-trip/"
+      }
+    ],
+    "photos": [
+      "reserva-monteverde-commons"
+    ],
+    "galleries": [
+      "fortuna-arenal-glamping-host",
+      "chira-family-units",
+      "rafiki-tents-accommodation",
+      "rafiki-matapalo-beach-camp"
+    ],
+    "nearby": [
+      "fortuna-arenal-glamping-family",
+      "chira-glamp",
+      "rafiki-savegre-to-matapalo-6"
+    ]
+  },
+  "dreamsea-tamarindo-surf-week": {
+    "stops": [
+      {
+        "point": "dreamsea-tamarindo-camp-base",
+        "role": "Dreamsea · база и регистрация в Finca Los Jobos",
+        "note": "Координаты из справочника размещения. Утренний спот и точку встречи подтверждает школа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Неделя для новичков и продолжающих",
+        "text": "В обычном пакете семь ночей. Владельцы публикуют небольшие группы, занятия по уровню, доски и варианты йоги. Сначала подтвердите точное время, количество уроков, спот и как добираются от лагеря до воды. На остальное время спросите самостоятельный прокат.",
+        "sources": [
+          "publisher-dreamsea-experience",
+          "dreamsea-tamarindo-packages"
+        ]
+      },
+      {
+        "title": "Проживание и включения",
+        "text": "У лагеря есть общий вариант, отдельные палатки и домики. По разным разделам текущей страницы указаны четыре и пять уроков. Сравнивайте письмо с подтверждением, питание, налог, залог и наличие отдельного санузла.",
+        "sources": [
+          "dreamsea-tamarindo-packages",
+          "dreamsea-tamarindo-contact"
+        ]
+      },
+      {
+        "title": "Тамариндо и дорога к базе",
+        "text": "Finca Los Jobos расположена внутри посёлка. Перед заездом запросите точный поворот, трансфер или место парковки. Возьмите лайкру, воду, защиту от солнца и сменную сухую одежду. На уроке следуйте выбору спота инструктором.",
+        "sources": [
+          "dreamsea-finca-jobos-geo",
+          "publisher-dreamsea-experience",
+          "dreamsea-tamarindo-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dreamsea Costa Rica · запрос школы",
+        "source": "dreamsea-tamarindo-contact",
+        "note": "Размер группы, местный спот, индивидуальный или недельный формат, заезд, питание и отмена по погоде.",
+        "url": "https://dreamseacostarica.com/contact-dreamsea-surf-camp/"
+      }
+    ],
+    "galleries": [
+      "publisher-dreamsea-experience",
+      "dreamsea-tamarindo-packages"
+    ],
+    "videos": [
+      "dreamsea-surf-field-video"
+    ],
+    "nearby": [
+      "tamarindo-langosta-pedelec-6",
+      "pinilla-emtb"
+    ]
+  }
+}

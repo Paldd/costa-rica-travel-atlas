@@ -118,6 +118,16 @@ assert(find({ activity: "ebike", sleep: "roof", duration: "two" }, "expeditions"
   .some(row => row.id === "sardinal-sukka-ebike-weekend-2" && row.stages.length === 2));
 assert(find({ country: "ni", region: "rivas-coast", activity: "surf" })
   .some(row => row.id === "playa-maderas-casa-oro-surf"));
+const tentCircuit = find({ activity: "glamping", region: "centralpac", duration: "long", detail: "map" }, "expeditions")
+  .find(row => row.id === "arenal-monteverde-savegre-family-tents-8");
+assert(tentCircuit?.stages.length === 8 && tentCircuit.access.includes("4x4"));
+const tentCircuitLine = atlas.lines[tentCircuit.dossier.line];
+assert.equal(tentCircuitLine.stages.length, 3);
+const tentCircuitGpx = createGpx(tentCircuit.title, [{
+  title: tentCircuit.title, line: tentCircuitLine, stops: tentCircuit.dossier.stops,
+}], atlas);
+assert.equal((tentCircuitGpx.match(/<trkseg>/g) || []).length, 3);
+assert(find({ activity: "rooftent", region: "nicoya" }).some(row => row.id === "junquillal-malinches-rooftent"));
 assert(find({ activity: "scuba", sleep: "liveaboard", duration: "long" }, "expeditions")
   .some(row => row.id === "cocos-sea-hunter-11-liveaboard"));
 assert(find({ country: "pa", region: "chiriqui-coast", activity: "boat" })

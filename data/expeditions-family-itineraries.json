@@ -1,0 +1,154 @@
+[
+  {
+    "id": "junquillal-rooftent-verdiazul-surf-2",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Хункильяль за два дня · крышная палатка, тропа к смотровой и сёрф",
+    "native": "Playa Junquillal de Santa Cruz · Camping Los Malinches · La Guacamaya · Verdiazul · Playa Blanca",
+    "level": "moderate",
+    "days": 2,
+    "activities": ["camping", "rooftent", "hiking", "beach", "wildlife", "views", "surf", "school", "multi"],
+    "audience": ["family-mid", "family-teen", "family-adults", "friends", "mens"],
+    "access": ["car", "high", "confirm"],
+    "sleep": ["tent", "roof", "lodge"],
+    "sources": ["junquillal-malinches-roof-field", "junquillal-malinches-directory", "junquillal-verdiazul-home", "junquillal-guacamaya-surf-operator", "junquillal-foot-osm", "junquillal-mundo-milo-owner", "cr-mopt-no-vehicle-beach"],
+    "summary": "Тихоокеанские выходные в Санта-Крусе. Ночь на береговой площадке или в домике, смотровая Плайя-Бланка, природоохранный проект и урок по подходящим условиям.",
+    "plan": "Первый день отведите подъезду и короткой прогулке. На второй запросите встречу у Verdiazul и урок сёрфа на подтверждённом споте. Смотровую можно вынести на первый вечер.",
+    "conditions": "Нужна подтверждённая площадка под машину. Прибой может изменить детский урок, а визит к черепахам согласуйте с Verdiazul. Возможность огня зависит от правил кемпинга на дату.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Подъезд к Los Malinches и смотровая",
+        "note": "Подтвердите точку заезда и высоту площадки. Соседнюю Плайя-Бланка смотрите с суши. Для ночёвки в домике сравните вместимость Mundo Milo и время работы кухни.",
+        "stops": ["junquillal-malinches-rooftent", "junquillal-verdiazul-malinches-blanca-4", "junquillal-mundo-milo-family-base"],
+        "sources": ["junquillal-malinches-roof-field", "junquillal-malinches-directory", "junquillal-foot-osm", "junquillal-mundo-milo-owner"]
+      },
+      {
+        "day": 2,
+        "title": "Verdiazul, берег и урок по состоянию моря",
+        "note": "Проверьте у Verdiazul, есть ли посещение в этот день. У Guacamaya заранее запросите контакты инструктора и точное место встречи. При сильном прибое оставьте пешую прогулку и обед.",
+        "stops": ["junquillal-verdiazul-hatchery", "junquillal-guacamaya-surf-lesson", "junquillal-santa-cruz-pacific-beach"],
+        "sources": ["junquillal-verdiazul-home", "junquillal-guacamaya-surf-operator", "junquillal-west-field-guide"]
+      }
+    ]
+  },
+  {
+    "id": "paquera-mango-pochote-vivos-water-3",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Пакера и Почоте за три дня · Playa Mango, два выхода на воду и береговой лагерь",
+    "native": "Ferry Paquera · Playa Mango · La Nicoyana · Camping Don Trino · Playa Los Vivos",
+    "level": "moderate",
+    "days": 3,
+    "activities": ["boat", "kayak", "beach", "camping", "rooftent", "glamping", "views", "wildlife", "multi"],
+    "audience": ["family-mid", "family-teen", "family-adults", "friends", "mens"],
+    "access": ["car", "high", "boat", "transfer", "confirm"],
+    "sleep": ["tent", "roof", "lodge"],
+    "sources": ["paquera-ferry-live", "paquera-mango-360", "paquera-curu-nicoyana-kayak", "pochote-don-trino-directory", "pochote-los-vivos-boarding", "pochote-playa-muertos-visitors"],
+    "summary": "Три дня у залива Никоя с вечерним каяком, местной лодкой и ночёвкой на оборудованной площадке или в береговом домике. Playa Mango — дневная остановка, если подъезд открыт.",
+    "plan": "После парома проведите первый день у Пакеры. На второй переезжайте в Почоте, где можно оставить машину для лодочного перехода. На третий день вернитесь в Пакеру под выбранный рейс.",
+    "conditions": "На оба водных выезда запросите погоду, детские жилеты и время обратной поездки. При закрытом или размытом подъезде к Playa Mango выберите береговой маршрут с проверяемым входом. Брони первой ночи и перехода подтверждаются отдельно.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Паром, берег в Пакере и вечерний каяк",
+        "note": "Оставьте багаж на согласованной ночёвке в районе Пакеры или Почоте. Playa Mango посетите только после подтверждения подъезда и парковки. В сумерках можно выйти на каяке из La Nicoyana, если оператор подтвердил условия.",
+        "stops": ["paquera-playa-mango-gulf-day", "paquera-curu-nicoyana-kayak-night"],
+        "sources": ["paquera-ferry-live", "paquera-mango-360", "paquera-curu-nicoyana-kayak"]
+      },
+      {
+        "day": 2,
+        "title": "Почоте — Playa Muertos на лодке",
+        "note": "Днём оставьте машину в Don Trino. Согласуйте возврат у капитана или ночёвку в Los Vivos. Для дневной переправы возьмите обувь для высадки с борта и сухой мешок.",
+        "stops": ["pochote-don-trino-beach-camp", "pochote-muertos-local-lancha", "pochote-los-vivos-boat-stay"],
+        "sources": ["pochote-don-trino-directory", "pochote-playa-muertos-local", "pochote-los-vivos-boarding"]
+      },
+      {
+        "day": 3,
+        "title": "Утро у берега и выход на паром",
+        "note": "Если ночевали в Los Vivos, договоритесь о времени лодки накануне. Заберите машину на стоянке, оставьте резерв на дорогу и прибытие к причалу Paquera. При сильном ветре действуйте по указаниям капитана и перевозчика.",
+        "stops": ["pochote-los-vivos-boat-stay", "pochote-don-trino-beach-camp"],
+        "sources": ["pochote-los-vivos-boarding", "paquera-ferry-live"]
+      }
+    ]
+  },
+  {
+    "id": "arenal-monteverde-savegre-family-tents-8",
+    "kind": "trip",
+    "region": "north",
+    "regions": ["centralpac"],
+    "title": "Восемь дней с готовыми палатками · Ареналь, Монтеверде, Савегре и Матапало",
+    "native": "Arenal Glamping · Místico · Chira Glamping · Rafiki Safari Lodge · Rafiki Beach Camp",
+    "level": "moderate",
+    "days": 8,
+    "activities": ["glamping", "car", "hiking", "coffee", "forest", "volcano", "wildlife", "beach", "kayak", "rafting", "multi"],
+    "audience": ["family-small", "family-mid", "family-teen", "family-adults", "friends"],
+    "access": ["4x4", "transfer", "confirm"],
+    "sleep": ["glamping", "lodge"],
+    "sources": ["fortuna-arenal-glamping-host", "chira-family-units", "monteverde-chamber-visit", "rafiki-journey-road-required", "rafiki-tents-accommodation", "rafiki-matapalo-beach-camp", "family-tents-road-arenal-monteverde", "family-tents-road-monteverde-savegre", "family-tents-road-savegre-matapalo"],
+    "summary": "Семь ночей с одной базой на Аренале, одной в Монтеверде, затем по одной в лесу Савегре и на берегу Матапало. Подходит для семьи, которая чередует активные выходы и отдых.",
+    "plan": "Дни 1–3 в Ла-Фортуне, дни 4–5 в Монтеверде, день 6 для переезда в Савегре, день 7 в Матапало, день 8 для выезда. Между четырьмя базами рассчитаны 348,4 км по дорогам.",
+    "conditions": "На финальный подъезд к лесному Rafiki нужен 4×4 или согласованный трансфер. Вместимость палаток проверяйте отдельно для каждого места. Для детей у воды и на сплаве действуют правила оператора по возрасту и уровню воды.",
+    "distance": 348.4,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Заселение в Ареналь",
+        "note": "Подтвердите число спальных мест, отдельный матрас при необходимости, время регистрации и парковку. Оставьте первую половину дня гибкой из-за переезда.",
+        "stops": ["fortuna-arenal-glamping-family"],
+        "sources": ["fortuna-arenal-glamping-host"]
+      },
+      {
+        "day": 2,
+        "title": "Мосты над лесом и спокойный вечер",
+        "note": "Начните с ранней прогулки по Místico, уточните доступность для коляски или переноски. При сильном дожде оставьте короткую прогулку в посёлке.",
+        "stops": ["mistico", "fortuna-arenal-glamping-family"],
+        "sources": ["mistico", "fortuna-arenal-glamping-host"]
+      },
+      {
+        "day": 3,
+        "title": "Лавовые тропы и Ла-Фортуна",
+        "note": "Выберите пеший сектор по открытому расписанию парка. Если группа устала, сократите прогулку и оставьте время на бассейн у базы.",
+        "stops": ["arenal-coladas", "fortuna-arenal-glamping-family"],
+        "sources": ["arenal-sinac-map", "fortuna-arenal-glamping-host"]
+      },
+      {
+        "day": 4,
+        "title": "Переезд вокруг Ареналя в Монтеверде",
+        "note": "112,6 км через Тиларан. Оставьте запас на горные повороты, последний подъезд проезжайте засветло. На вечер оставьте ужин и заселение в семейный купол Chira.",
+        "stops": ["fortuna-arenal-glamping-family", "chira-glamp"],
+        "sources": ["family-tents-road-arenal-monteverde", "monteverde-chamber-visit", "chira-family-units"]
+      },
+      {
+        "day": 5,
+        "title": "Облачный лес и кофейная ферма",
+        "note": "Выберите один длинный выход или два коротких. В Reserva Monteverde проверьте схему парковки и шаттла. Альтернатива на сырую погоду — экскурсия в Madre Tierra.",
+        "stops": ["monteverde-reserve", "monteverde-finca-madre-tierra", "chira-glamp"],
+        "sources": ["monteverde-chamber-visit", "chira-family-units"]
+      },
+      {
+        "day": 6,
+        "title": "Монтеверде — Савегре · 212,4 км",
+        "note": "Длинный автомобильный день по основным дорогам через побережье. Последние километры у лесной базы проходят по грунту, заказывайте 4×4 или встречу с трансфером. На этот вечер достаточно короткой прогулки у сафари-палатки.",
+        "stops": ["chira-glamp", "rafiki-savegre-river-glamping"],
+        "sources": ["family-tents-road-monteverde-savegre", "rafiki-journey-road-required", "rafiki-tents-accommodation"]
+      },
+      {
+        "day": 7,
+        "title": "Савегре утром, Матапало после обеда",
+        "note": "Утром выберите прогулку от лоджа или сплав по согласованному классу воды. После выезда около 23,4 км по дороге до пляжной базы. Водный вариант и поздний приезд составляют отдельную программу.",
+        "stops": ["rafiki-savegre-river-glamping", "rafiki-matapalo-glamping-kayak"],
+        "sources": ["rafiki-savegre-rafting-family", "family-tents-road-savegre-matapalo", "rafiki-matapalo-beach-camp"]
+      },
+      {
+        "day": 8,
+        "title": "Матапало и выезд на побережье",
+        "note": "Проведите утро на берегу или поплавайте в манграх с ведущим группы, если хватает времени до выезда. Условия на открытом пляже проверьте у принимающей команды.",
+        "stops": ["rafiki-matapalo-glamping-kayak"],
+        "sources": ["rafiki-matapalo-beach-camp", "rafiki-matapalo-guest-notes"]
+      }
+    ]
+  }
+]
