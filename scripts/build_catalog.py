@@ -23,7 +23,10 @@ RECORD_FIELDS = (
     "audience", "access", "sleep", "sources", "summary", "plan", "conditions", "distance",
 )
 LIST_FIELDS = ("activities", "audience", "access", "sleep", "sources")
-REGIONS = {"central", "north", "guanacaste", "nicoya", "centralpac", "mountains", "south", "caribbean", "ometepe", "chiriqui-coast"}
+REGIONS = {
+    "central", "north", "guanacaste", "nicoya", "centralpac", "mountains", "south", "caribbean",
+    "ometepe", "chiriqui-coast", "chiriqui-highlands",
+}
 
 
 def read_table(path, fields):

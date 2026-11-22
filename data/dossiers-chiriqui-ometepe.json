@@ -1,0 +1,678 @@
+{
+  "boquete-soul-adventure-ebike-26": {
+    "stops": [
+      {
+        "point": "pa-boquete-bike-library",
+        "role": "Парк библиотеки · встреча через дорогу у Soul Planet",
+        "note": "Точку выдачи и возврата фиксируйте у магазина на Avenida A Este."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Темп, встреча и оборудование",
+        "text": "Основной выезд входит в полдня и предусматривает инструктаж со шлемом. Уточните размер рамы, время в седле, состав группы и обязательный уровень езды.",
+        "sources": [
+          "pa-boquete-soul-e-bike",
+          "pa-boquete-soul-tour-details"
+        ]
+      },
+      {
+        "title": "Что будет по дороге",
+        "text": "В карточке оператора описан маршрут с кофейной остановкой и видами высокогорья. Видео участника показывает другой заезд в районе Бокете и помогает представить дороги.",
+        "sources": [
+          "pa-boquete-soul-tour-details",
+          "pa-boquete-bike-rider-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Soul Planet Cycles · e-bike и проводники",
+        "source": "pa-boquete-soul-e-bike",
+        "phone": "+507 6348 5559",
+        "email": "support@soulplanetcycles.com",
+        "note": "Согласуйте формат, навыки, размер рамы и шлема, минимальный состав группы и список остановок."
+      }
+    ],
+    "nearby": [
+      "boquete-soul-flavors-ebike-25",
+      "boquete-palo-alto-ebike-road",
+      "paso-canoas-boquete-ebike-no-car-4"
+    ],
+    "photos": [
+      "pa-boquete-valley-archive"
+    ],
+    "galleries": [
+      "pa-boquete-soul-tour-details",
+      "pa-boquete-riverside-e-bike",
+      "pa-boquete-bike-rider-video"
+    ],
+    "connectStops": false
+  },
+  "boquete-soul-flavors-ebike-25": {
+    "stops": [
+      {
+        "point": "pa-boquete-bike-library",
+        "role": "Парк библиотеки · встреча через дорогу у Soul Planet",
+        "note": "Точку выдачи и возврата фиксируйте у магазина на Avenida A Este."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткие остановки и дегустации",
+        "text": "Оператор описывает около четырёх часов на программу с остановками в местных кварталах. Состав блюд и напитков лучше подтвердить заранее, особенно если есть пищевые ограничения.",
+        "sources": [
+          "pa-boquete-soul-tour-details",
+          "pa-boquete-soul-e-bike"
+        ]
+      },
+      {
+        "title": "Логистика без своей машины",
+        "text": "Магазин находится в городе напротив входа в городской парк. Можно прийти пешком от жилья в Бахо-Бокете или подъехать по городскому маршруту. Рассчитывайте время возвращения по фактической программе.",
+        "sources": [
+          "pa-boquete-soul-e-bike",
+          "pa-boquete-library-park-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Soul Planet Cycles · e-bike и проводники",
+        "source": "pa-boquete-soul-e-bike",
+        "phone": "+507 6348 5559",
+        "email": "support@soulplanetcycles.com",
+        "note": "Согласуйте формат, навыки, размер рамы и шлема, минимальный состав группы и список остановок."
+      }
+    ],
+    "nearby": [
+      "boquete-soul-adventure-ebike-26",
+      "boquete-palo-alto-ebike-road",
+      "boquete-finca-lerida-cloud-trails"
+    ],
+    "photos": [
+      "pa-boquete-valley-archive"
+    ],
+    "galleries": [
+      "pa-boquete-soul-tour-details",
+      "pa-boquete-soul-e-bike"
+    ],
+    "connectStops": false
+  },
+  "boquete-palo-alto-ebike-road": {
+    "stops": [
+      {
+        "point": "pa-boquete-bike-library",
+        "role": "Парк библиотеки · встреча через дорогу у Soul Planet",
+        "note": "Точку выдачи и возврата фиксируйте у магазина на Avenida A Este."
+      },
+      {
+        "point": "frontier-boquete",
+        "role": "Бахо-Бокете · центр и городской транспорт",
+        "note": "Ориентир города. Время и конечную остановку подтверждают на автостанции."
+      },
+      {
+        "point": "pa-boquete-palo-alto-turn",
+        "role": "Пало-Альто · разворот на Avenida Buenos Aires",
+        "note": "Дорожная точка у посёлка. Для паузы остановитесь вне полосы движения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Линия и разворот",
+        "text": "От городского парка линия проходит через улицы центра в сторону Avenida Buenos Aires. Разворот находится на подходе к Пало-Альто. В GPX доступны дорога туда и возврат.",
+        "sources": [
+          "pa-boquete-library-park-map",
+          "pa-palo-alto-locality",
+          "cr-frontier-osm-bike-roads"
+        ]
+      },
+      {
+        "title": "Самостоятельный выезд",
+        "text": "Для самостоятельной поездки уточните, кто выдаёт e-bike без сопровождения и где возвращать батарею и замок. Если хотите маршрут с проводником, в соседних карточках есть два тура Soul Planet.",
+        "sources": [
+          "pa-boquete-riverside-e-bike",
+          "pa-boquete-soul-e-bike"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Soul Planet Cycles · e-bike и проводники",
+        "source": "pa-boquete-soul-e-bike",
+        "phone": "+507 6348 5559",
+        "email": "support@soulplanetcycles.com",
+        "note": "Согласуйте формат, навыки, размер рамы и шлема, минимальный состав группы и список остановок."
+      }
+    ],
+    "nearby": [
+      "boquete-soul-adventure-ebike-26",
+      "boquete-soul-flavors-ebike-25",
+      "boquete-finca-lerida-cloud-trails"
+    ],
+    "photos": [
+      "pa-boquete-valley-archive"
+    ],
+    "galleries": [
+      "pa-boquete-riverside-e-bike",
+      "pa-boquete-bike-rider-video"
+    ],
+    "line": "pa-boquete-palo-alto-osm-bike"
+  },
+  "boquete-finca-lerida-cloud-trails": {
+    "stops": [
+      {
+        "point": "frontier-finca-lerida",
+        "role": "Finca Lérida · гостевой вход и карта троп",
+        "note": "Выбор открытой тропы и доступ в частную часть резерва уточняют у фермы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткие варианты",
+        "text": "El Bosque опубликован как лёгкая прогулка на 800 м. Mirador на 500 м и Cafetal на 2,5 км относятся к среднему уровню. Схему и способ подсчёта расстояний получите на входе.",
+        "sources": [
+          "pa-lerida-trails-owner",
+          "frontier-pa-lerida-contacts"
+        ]
+      },
+      {
+        "title": "Каскад и закрытая часть резерва",
+        "text": "La Cascada у фермы указана как тропа средней или повышенной сложности с длиной 1,5 км. Частная лесная ветка доступна с гидом. Видео гостя показывает базу, дорожки и кофейные поля.",
+        "sources": [
+          "pa-lerida-trails-owner",
+          "pa-lerida-plantation-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Lérida · кофейная ферма и тропы",
+        "source": "pa-lerida-trails-owner",
+        "phone": "+507 6671 7894",
+        "whatsapp": "https://wa.me/50766717894",
+        "note": "Уточните вход на самостоятельную тропу, часы, карту, питание и необходимость проводника на выбранном участке."
+      }
+    ],
+    "nearby": [
+      "paso-canoas-boquete-ebike-no-car-4",
+      "paso-canoas-boquete-coffee-4",
+      "boquete-soul-flavors-ebike-25"
+    ],
+    "photos": [
+      "pa-boquete-valley-archive"
+    ],
+    "galleries": [
+      "pa-lerida-trails-owner",
+      "pa-lerida-plantation-video"
+    ],
+    "connectStops": false
+  },
+  "boquete-baru-authorized-4x4-sunrise": {
+    "stops": [
+      {
+        "point": "frontier-boquete",
+        "role": "Бахо-Бокете · центр и городской транспорт",
+        "note": "Ориентир города. Время и конечную остановку подтверждают на автостанции."
+      },
+      {
+        "point": "pa-baru-camiseta-sector",
+        "role": "Камисета · район контроля доступа",
+        "note": "Контрольный пункт и правила входа назначает MiAmbiente. Выезд идёт с местным оператором."
+      },
+      {
+        "point": "pa-baru-summit-reference",
+        "role": "Волкан-Бару · ориентир вершины",
+        "note": "Выход из машины и прогулка наверху зависят от ветра, видимости и указаний водителя."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Допуск и посадка",
+        "text": "Въезд регулирует управление парка. Для автомобильного маршрута уточняйте регистрацию у оператора, время встречи, транспорт из жилья и условия отмены при закрытии. Маркеры дают общее направление к Камисете и вершине.",
+        "sources": [
+          "pa-baru-camiseta-register",
+          "pa-baru-guided-4x4-owner",
+          "pa-baru-camiseta-locality"
+        ]
+      },
+      {
+        "title": "Сборы на высоту",
+        "text": "Берите тёплый слой, ветровку, воду и налобный свет. Спросите у водителя об остановках и краткой прогулке наверху. Если поездку отменяют, можно провести день на тропах Finca Lérida.",
+        "sources": [
+          "pa-baru-park-tourism",
+          "pa-baru-guided-4x4-owner",
+          "pa-baru-ascent-rider-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "4x4 Volcan Baru · местный водитель",
+        "source": "pa-baru-guided-4x4-owner",
+        "phone": "+507 6971 5765",
+        "whatsapp": "https://wa.me/50769715765",
+        "email": "info@4x4volcanbaru.com",
+        "note": "Уточните включённую регистрацию, место встречи, прогноз, минимальный возраст и отмену при закрытии дороги."
+      }
+    ],
+    "nearby": [
+      "boquete-finca-lerida-cloud-trails",
+      "paso-canoas-boquete-ebike-no-car-4"
+    ],
+    "photos": [
+      "pa-boquete-valley-archive"
+    ],
+    "galleries": [
+      "pa-baru-guided-4x4-owner",
+      "pa-baru-ascent-rider-video"
+    ],
+    "connectStops": false
+  },
+  "paso-canoas-boquete-ebike-no-car-4": {
+    "stops": [
+      {
+        "point": "frontier-paso-canoas-cci",
+        "role": "Пасо-Каноас · интегрированный контрольный центр",
+        "note": "Сверьте остановку, сторону контроля, порядок выхода из автобуса и подвоз на дату поездки."
+      },
+      {
+        "point": "frontier-paso-canoas-pa",
+        "role": "Пасо-Каноас · панамский пограничный район",
+        "note": "Часы, регистрацию и дальнейший транспорт уточняйте у перевозчика."
+      },
+      {
+        "point": "frontier-david",
+        "role": "Давид · пересадка на Бокете",
+        "note": "Ориентир города. Для такси и встречи используйте название Terminal de David, точную площадку сверяйте у перевозчика."
+      },
+      {
+        "point": "frontier-boquete",
+        "role": "Бахо-Бокете · центр и городской транспорт",
+        "note": "Ориентир города. Время и конечную остановку подтверждают на автостанции."
+      },
+      {
+        "point": "pa-boquete-bike-library",
+        "role": "Парк библиотеки · встреча через дорогу у Soul Planet",
+        "note": "Точку выдачи и возврата фиксируйте у магазина на Avenida A Este."
+      },
+      {
+        "point": "frontier-finca-lerida",
+        "role": "Finca Lérida · гостевой вход и карта троп",
+        "note": "Выбор открытой тропы и доступ в частную часть резерва уточняют у фермы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Граница и стыковки",
+        "text": "Международный автобус проходит через официальное оформление в Пасо-Каноас. При независимых билетах проверьте, как доехать между точками контроля и панамским автобусом. Официальный туристический сайт подтверждает пересадку в Давиде для поездки в Бокете.",
+        "sources": [
+          "pa-cci-paso-canoas-brief",
+          "frontier-tracopa-david",
+          "frontier-pa-boquete-destination",
+          "pa-david-boquete-bus-guide"
+        ]
+      },
+      {
+        "title": "База и варианты программы",
+        "text": "Бахо-Бокете удобно выбрать как одну базу на три ночи. В дождливое утро можно поменять порядок дней и уточнить открытые тропы фермы. Самостоятельный e-bike и выезд с гидом описаны в отдельных карточках.",
+        "sources": [
+          "pa-boquete-soul-tour-details",
+          "pa-lerida-trails-owner",
+          "frontier-pa-boquete-destination"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tracopa · рейсы в Давид и условия багажа",
+        "source": "frontier-tracopa-conditions",
+        "note": "Проверьте день курса, где водитель останавливается на границе, порядок обработки багажа и прибытие в Давид."
+      },
+      {
+        "name": "Servicio Nacional de Migración · правила въезда",
+        "source": "pa-migration-tourist-official",
+        "note": "Сверьте требования для каждого пассажира по паспорту, адресу остановки и способу перехода."
+      },
+      {
+        "name": "Soul Planet Cycles · e-bike и проводники",
+        "source": "pa-boquete-soul-e-bike",
+        "phone": "+507 6348 5559",
+        "email": "support@soulplanetcycles.com",
+        "note": "Согласуйте формат, навыки, размер рамы и шлема, минимальный состав группы и список остановок."
+      },
+      {
+        "name": "Finca Lérida · кофейная ферма и тропы",
+        "source": "pa-lerida-trails-owner",
+        "phone": "+507 6671 7894",
+        "whatsapp": "https://wa.me/50766717894",
+        "note": "Уточните вход на самостоятельную тропу, часы, карту, питание и необходимость проводника на выбранном участке."
+      }
+    ],
+    "nearby": [
+      "paso-canoas-boquete-coffee-4",
+      "boquete-soul-adventure-ebike-26",
+      "boquete-finca-lerida-cloud-trails",
+      "boquete-baru-authorized-4x4-sunrise"
+    ],
+    "photos": [
+      "pa-boquete-valley-archive"
+    ],
+    "galleries": [
+      "pa-boquete-soul-tour-details",
+      "pa-lerida-trails-owner"
+    ],
+    "connectStops": false
+  },
+  "ometepe-moyogalpa-punta-cycle": {
+    "stops": [
+      {
+        "point": "ni-moyogalpa-port",
+        "role": "Мойогальпа · причал и старт дорожной поездки",
+        "note": "Время парома и выдачи велосипеда удобно сверить заранее."
+      },
+      {
+        "point": "ni-punta-road-verified-end",
+        "role": "Подъезд в сторону Пунта-Хесус-Мария · конец линии GPX",
+        "note": "Дальше уточните проход до берега у местного проводника или на месте. Велолиния заканчивается до косы."
+      },
+      {
+        "point": "ni-punta-jesus-maria-sandbar",
+        "role": "Пунта-Хесус-Мария · песчаная коса",
+        "note": "К самой косе выходят пешком. Длина открытого берега меняется с уровнем озера."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Проезд и пешая часть",
+        "text": "Прокат у сельской ассоциации включает обычные велосипеды. GPX покрывает дороги от причала до последней точки подтверждённого подъезда в сторону берега. На местном сайте описана ещё подъездная полоса от основной дороги и выход на косу пешком.",
+        "sources": [
+          "ni-puesta-bikes-cooperative",
+          "ni-punta-moyogalpa-guide",
+          "cr-frontier-osm-bike-roads"
+        ]
+      },
+      {
+        "title": "Остановки, время и экипировка",
+        "text": "Возьмите шлем, воду, замок, свет и небольшой набор для прокола. Согласуйте оставление велосипеда и время выхода с косы. Пешая запись Wikiloc полезна как отдельная схема местности и источник фотографий.",
+        "sources": [
+          "ni-punta-moyogalpa-guide",
+          "ni-punta-rider-wikiloc"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Asociación Puesta del Sol · семья, прокат и экскурсии",
+        "source": "ni-puesta-contact-cooperative",
+        "phone": "+505 8414 0647",
+        "note": "Уточните время выдачи, доступность велосипеда, маршрут к косе, принимающий дом и подвоз из порта."
+      }
+    ],
+    "nearby": [
+      "ometepe-puesta-la-paloma-community",
+      "ometepe-island-cycle-kayak-3",
+      "ometepe-san-jorge-ferry"
+    ],
+    "photos": [
+      "ni-ometepe-shore-archive"
+    ],
+    "galleries": [
+      "ni-punta-moyogalpa-guide",
+      "ni-punta-rider-wikiloc",
+      "ni-ometepe-puesta-video"
+    ],
+    "line": "ni-moyogalpa-punta-bike-approach"
+  },
+  "ometepe-istian-merida-guided-kayak": {
+    "stops": [
+      {
+        "point": "ni-istian-merida-local",
+        "role": "Мерида · район встречи с лодочной базой",
+        "note": "Точную точку спуска указывает Caballito’s Mar. Маркер обозначает посёлок."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Встреча и путь к устью",
+        "text": "У владельца подтверждены примерно три часа на всё и около 45 минут на озёрный подход. Подробности встречи и обратного транспорта можно согласовать через базу Caballito’s Mar или El Zopilote.",
+        "sources": [
+          "ni-istian-kayak-caballitos",
+          "ni-istian-zopilote-booking",
+          "ni-ometepe-local-puma-transit"
+        ]
+      },
+      {
+        "title": "Что подготовить",
+        "text": "Уточните выдачу жилета и сухого пакета. Возьмите воду, защиту от солнца, сухую футболку и место для телефона, которое можно закрыть от воды. Видео показывает общий вид озёрного и речного участков.",
+        "sources": [
+          "ni-istian-kayak-caballitos",
+          "ni-istian-local-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caballito’s Mar · каяки в Мериде",
+        "source": "ni-caballitos-contact-map",
+        "phone": "+505 8842 6120",
+        "whatsapp": "https://wa.me/50584512093",
+        "email": "fernando@caballitosmar.com",
+        "note": "Запросите точку встречи, воду и ветер, размеры жилета, место для багажа и доступный формат для детей."
+      },
+      {
+        "name": "El Zopilote · местная помощь с каяком",
+        "source": "ni-istian-zopilote-booking",
+        "note": "Хостел сообщает контакт проводника, время, транспорт и место старта. Программа зависит от погоды."
+      }
+    ],
+    "nearby": [
+      "ometepe-island-cycle-kayak-3",
+      "ometepe-san-ramon-falls-walk",
+      "ometepe-ojo-de-agua-swim"
+    ],
+    "galleries": [
+      "ni-istian-kayak-caballitos",
+      "ni-istian-zopilote-booking",
+      "ni-istian-local-video"
+    ],
+    "connectStops": false
+  },
+  "ometepe-san-ramon-falls-walk": {
+    "stops": [
+      {
+        "point": "ni-istian-merida-local",
+        "role": "Мерида · район встречи с лодочной базой",
+        "note": "Точную точку спуска указывает Caballito’s Mar. Маркер обозначает посёлок."
+      },
+      {
+        "point": "ni-san-ramon-waterfall-reference",
+        "role": "Каскад Сан-Рамон · ориентир водопада",
+        "note": "К лесной тропе ведут согласованные подходы от биологической станции."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два способа выхода",
+        "text": "Местный путеводитель описывает старт от биологической станции на берегу и возможный подъезд выше по тропе. Опубликованная дистанция 6,05 км относится к полной записи автора. Уточните действующую точку входа перед выездом.",
+        "sources": [
+          "ni-san-ramon-station-guide",
+          "ni-san-ramon-author-route",
+          "ni-san-ramon-falls-map"
+        ]
+      },
+      {
+        "title": "Семейный темп",
+        "text": "По мере подъёма тропа становится влажнее и каменистее. Начните рано, проверьте свет, время возврата и транспорт. У Finca Mystica можно уточнить практическую логистику со стороны Мериды.",
+        "sources": [
+          "ni-san-ramon-station-guide",
+          "ni-mystica-lodge-owner",
+          "ni-san-ramon-hike-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Mystica · размещение и тропа у Сан-Рамона",
+        "source": "ni-mystica-lodge-owner",
+        "phone": "+505 8751 9653",
+        "note": "Спросите про точный вход к водопаду, открытый участок, подвоз к биологической станции и возвращение."
+      }
+    ],
+    "nearby": [
+      "ometepe-istian-merida-guided-kayak",
+      "ometepe-island-cycle-kayak-3"
+    ],
+    "galleries": [
+      "ni-san-ramon-author-route",
+      "ni-san-ramon-hike-video",
+      "ni-san-ramon-station-guide"
+    ],
+    "connectStops": false,
+    "track": "ni-san-ramon-author-route"
+  },
+  "ometepe-puesta-la-paloma-community": {
+    "stops": [
+      {
+        "point": "ni-moyogalpa-port",
+        "role": "Мойогальпа · причал и старт дорожной поездки",
+        "note": "Время парома и выдачи велосипеда удобно сверить заранее."
+      },
+      {
+        "point": "ni-puesta-paloma-area",
+        "role": "Ла-Палома · район принимающих семей",
+        "note": "Контакт сообщит конкретный дом и точку выдачи велосипеда перед выездом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что предлагает кооператив",
+        "text": "Семьи принимают гостей в Ла-Паломе. В перечне услуг указаны прокат и два местных тура, один к косе Пунта-Хесус-Мария и второй на органическую ферму. Питание и трансфер можно согласовать индивидуально.",
+        "sources": [
+          "ni-puesta-bikes-cooperative",
+          "ni-puesta-contact-cooperative"
+        ]
+      },
+      {
+        "title": "Прибытие с парома",
+        "text": "Ла-Палома находится примерно в двух километрах от портового города по описанию ассоциации. После парома запросите направление для мототакси и конкретный адрес дома. Региональный репортаж показывает формат сельского размещения.",
+        "sources": [
+          "ni-puesta-contact-cooperative",
+          "ni-ometepe-local-puma-transit",
+          "ni-ometepe-puesta-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Asociación Puesta del Sol · семья, прокат и экскурсии",
+        "source": "ni-puesta-contact-cooperative",
+        "phone": "+505 8414 0647",
+        "note": "Уточните время выдачи, доступность велосипеда, маршрут к косе, принимающий дом и подвоз из порта."
+      }
+    ],
+    "nearby": [
+      "ometepe-moyogalpa-punta-cycle",
+      "ometepe-island-cycle-kayak-3",
+      "ometepe-san-jorge-ferry"
+    ],
+    "photos": [
+      "ni-ometepe-shore-archive"
+    ],
+    "galleries": [
+      "ni-puesta-bikes-cooperative",
+      "ni-ometepe-puesta-video"
+    ],
+    "connectStops": false
+  },
+  "ometepe-island-cycle-kayak-3": {
+    "stops": [
+      {
+        "point": "ni-moyogalpa-port",
+        "role": "Мойогальпа · причал и старт дорожной поездки",
+        "note": "Время парома и выдачи велосипеда удобно сверить заранее."
+      },
+      {
+        "point": "ni-puesta-paloma-area",
+        "role": "Ла-Палома · район принимающих семей",
+        "note": "Контакт сообщит конкретный дом и точку выдачи велосипеда перед выездом."
+      },
+      {
+        "point": "ni-punta-road-verified-end",
+        "role": "Подъезд в сторону Пунта-Хесус-Мария · конец линии GPX",
+        "note": "Дальше уточните проход до берега у местного проводника или на месте. Велолиния заканчивается до косы."
+      },
+      {
+        "point": "ni-punta-jesus-maria-sandbar",
+        "role": "Пунта-Хесус-Мария · песчаная коса",
+        "note": "К самой косе выходят пешком. Длина открытого берега меняется с уровнем озера."
+      },
+      {
+        "point": "ni-istian-merida-local",
+        "role": "Мерида · район встречи с лодочной базой",
+        "note": "Точную точку спуска указывает Caballito’s Mar. Маркер обозначает посёлок."
+      },
+      {
+        "point": "ni-san-ramon-waterfall-reference",
+        "role": "Каскад Сан-Рамон · ориентир водопада",
+        "note": "К лесной тропе ведут согласованные подходы от биологической станции."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расстояния между районами",
+        "text": "Запад острова с Мойогальпой и Ла-Паломой удобен для велосипеда. Мерида и Сан-Рамон находятся на стороне другого вулкана, Мадераса. Для перехода между секторами пользуйтесь автобусом либо согласованным подвозом, который вмещает багаж.",
+        "sources": [
+          "ni-ometepe-local-puma-transit",
+          "ni-puesta-contact-cooperative",
+          "ni-mystica-lodge-owner"
+        ]
+      },
+      {
+        "title": "Что привязать к погоде и расписанию",
+        "text": "Велосипед возвращайте до окончания проката. Каяк ставьте на спокойное утро, а водопад подтверждайте после дождя. Подберите последнюю пересадку по действующему рейсу и выбранному причалу.",
+        "sources": [
+          "ni-ometepe-ferry-guide",
+          "ni-istian-zopilote-booking",
+          "ni-san-ramon-station-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Asociación Puesta del Sol · семья, прокат и экскурсии",
+        "source": "ni-puesta-contact-cooperative",
+        "phone": "+505 8414 0647",
+        "note": "Уточните время выдачи, доступность велосипеда, маршрут к косе, принимающий дом и подвоз из порта."
+      },
+      {
+        "name": "Caballito’s Mar · каяки в Мериде",
+        "source": "ni-caballitos-contact-map",
+        "phone": "+505 8842 6120",
+        "whatsapp": "https://wa.me/50584512093",
+        "email": "fernando@caballitosmar.com",
+        "note": "Запросите точку встречи, воду и ветер, размеры жилета, место для багажа и доступный формат для детей."
+      },
+      {
+        "name": "Finca Mystica · размещение и тропа у Сан-Рамона",
+        "source": "ni-mystica-lodge-owner",
+        "phone": "+505 8751 9653",
+        "note": "Спросите про точный вход к водопаду, открытый участок, подвоз к биологической станции и возвращение."
+      }
+    ],
+    "nearby": [
+      "penas-ometepe-ferry-no-car-4",
+      "ometepe-puesta-la-paloma-community",
+      "ometepe-moyogalpa-punta-cycle",
+      "ometepe-san-jorge-ferry"
+    ],
+    "photos": [
+      "ni-ometepe-shore-archive"
+    ],
+    "galleries": [
+      "ni-ometepe-puesta-video",
+      "ni-istian-local-video",
+      "ni-san-ramon-hike-video"
+    ],
+    "connectStops": false
+  }
+}

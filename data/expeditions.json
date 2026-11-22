@@ -8047,6 +8047,9 @@
     "id": "paso-canoas-boquete-coffee-4",
     "kind": "trip",
     "region": "south",
+    "regions": [
+      "chiriqui-highlands"
+    ],
     "title": "Пасо-Каноас — Давид — Бокете · четыре дня к кофейным финкам",
     "native": "Paso Canoas · David · Bajo Boquete · Finca Lérida",
     "level": "moderate",
@@ -8140,6 +8143,9 @@
     "id": "sabalito-tierras-altas-3",
     "kind": "trip",
     "region": "south",
+    "regions": [
+      "chiriqui-highlands"
+    ],
     "title": "Сабалито — Рио-Серено · три дня по Тьеррас-Альтас",
     "native": "San Vito · Sabalito · Río Sereno · Volcán · Cerro Punta",
     "level": "moderate",

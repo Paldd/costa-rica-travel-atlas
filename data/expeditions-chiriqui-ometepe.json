@@ -1,0 +1,202 @@
+[
+  {
+    "id": "paso-canoas-boquete-ebike-no-car-4",
+    "kind": "trip",
+    "region": "south",
+    "countries": [
+      "cr",
+      "pa"
+    ],
+    "title": "Пасо-Каноас — Бокете без машины · четыре дня с e-bike и кофейными тропами",
+    "native": "Paso Canoas · Terminal de David · Bajo Boquete · Palo Alto · Finca Lérida",
+    "level": "moderate",
+    "days": 4,
+    "activities": [
+      "multi",
+      "border",
+      "cycling",
+      "ebike",
+      "hiking",
+      "coffee",
+      "forest",
+      "views",
+      "cafe"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "pa-cci-paso-canoas-brief",
+      "pa-migration-tourist-official",
+      "frontier-tracopa-david",
+      "frontier-tracopa-conditions",
+      "frontier-pa-boquete-destination",
+      "pa-david-boquete-bus-guide",
+      "pa-boquete-soul-tour-details",
+      "pa-lerida-trails-owner"
+    ],
+    "summary": "Выезд из юга Коста-Рики через Пасо-Каноас, пересадка в Давиде и база в Бокете. Два дня отведены на e-bike и кофейные тропы, отдельный запас оставлен на переезды и границу.",
+    "plan": "Выберите сквозной билет до Давида либо заранее согласуйте пересадки у контрольных пунктов. Из Давида поезжайте рейсовым автобусом или трансфером в Бахо-Бокете. Велосипед берите уже на месте.",
+    "conditions": "Сверьте порядок оформления в обеих странах и требования по паспорту. Район контрольных пунктов большой, уточните остановку и подвоз у перевозчика. Велочасть и прогулки выполняются отдельно от пограничного переезда.",
+    "distance": null,
+    "regions": [
+      "chiriqui-highlands"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пасо-Каноас — Давид — Бахо-Бокете",
+        "note": "Выехать рано, пройти официальные контрольные процедуры и сменить транспорт в Давиде. Вечером проверить отправление и место выдачи e-bike.",
+        "stops": [],
+        "sources": [
+          "pa-cci-paso-canoas-brief",
+          "frontier-tracopa-david",
+          "frontier-pa-boquete-destination"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Велодень в Бокете",
+        "note": "Забрать велосипед у библиотеки. Выбрать 26 км с местным гидом или собственный короткий проезд в Пало-Альто. Оставить время на инструктаж.",
+        "stops": [
+          "boquete-soul-adventure-ebike-26",
+          "boquete-palo-alto-ebike-road"
+        ],
+        "sources": [
+          "pa-boquete-soul-e-bike",
+          "pa-boquete-soul-tour-details",
+          "cr-frontier-osm-bike-roads"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Тропы Finca Lérida и кофе",
+        "note": "Согласовать подвоз до гостевого входа. Пройти открытый отрезок кофейной фермы и облачного леса, затем вернуться в Бахо-Бокете.",
+        "stops": [
+          "boquete-finca-lerida-cloud-trails"
+        ],
+        "sources": [
+          "pa-lerida-trails-owner",
+          "frontier-pa-lerida-contacts"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Бокете — Давид — обратный выезд",
+        "note": "Заранее оставить временной запас на пересадку и оформление на границе. Сверить точное место посадки для каждого рейса.",
+        "stops": [],
+        "sources": [
+          "frontier-tracopa-conditions",
+          "pa-migration-tourist-official",
+          "pa-david-boquete-bus-guide"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ometepe-island-cycle-kayak-3",
+    "kind": "trip",
+    "region": "ometepe",
+    "countries": [
+      "ni"
+    ],
+    "title": "Ометепе без машины · три дня с велосипедом, каяком и водопадом",
+    "native": "Moyogalpa · La Paloma · Punta Jesús María · Mérida · Río Istián · Cascada San Ramón",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "multi",
+      "cycling",
+      "kayak",
+      "hiking",
+      "waterfall",
+      "lake",
+      "volcano",
+      "wildlife",
+      "cafe"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ni-ometepe-eaai",
+      "ni-ometepe-ferry-guide",
+      "ni-ometepe-local-puma-transit",
+      "ni-puesta-bikes-cooperative",
+      "ni-istian-zopilote-booking",
+      "ni-san-ramon-station-guide",
+      "ni-mystica-lodge-owner"
+    ],
+    "summary": "Поездка через порт Мойогальпа с береговым велоднём, каяком на реке Истиан и пешим выходом к Сан-Рамону. Две ночёвки можно распределить между Ла-Паломой и стороной вулкана Мадерас.",
+    "plan": "Подберите ранний паром, определите точный прокат и согласуйте подвоз из Мойогальпы в Мериду. День на Истиане планируйте с местным проводником. Для водопада и возвращения к парому оставьте запас.",
+    "conditions": "Последний автобус и паром проверяйте перед каждой пересадкой. После дождя уточните тропу Сан-Рамон. При ветре лодочная программа меняется. Если время возвращения до парома сжимается, сделайте водопад отдельным днём.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Паром и велосипед к берегу Пунта-Хесус-Мария",
+        "note": "Сойти с парома в Мойогальпе, согласовать размещение, получить велосипед и выехать по дороге к косе. Последнюю часть пройти пешком из разрешённой точки.",
+        "stops": [
+          "ometepe-san-jorge-ferry",
+          "ometepe-puesta-la-paloma-community",
+          "ometepe-moyogalpa-punta-cycle"
+        ],
+        "sources": [
+          "ni-ometepe-ferry-guide",
+          "ni-puesta-bikes-cooperative",
+          "ni-punta-moyogalpa-guide"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Утренний каяк в Мериде",
+        "note": "Доехать в Мериду, встретиться с командой Caballito’s Mar и выйти на воду по решению проводника. Оставить резерв на обратный подвоз и вечернее размещение.",
+        "stops": [
+          "ometepe-istian-merida-guided-kayak"
+        ],
+        "sources": [
+          "ni-istian-kayak-caballitos",
+          "ni-istian-zopilote-booking",
+          "ni-mystica-lodge-owner"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Сан-Рамон и возврат к парому",
+        "note": "Проверить открытие тропы и выехать рано. Забрать вещи и вернуться к причалу за установленное время регистрации. Если торопитесь, отложите водопад и проверьте следующий паром.",
+        "stops": [
+          "ometepe-san-ramon-falls-walk",
+          "ometepe-san-jorge-ferry"
+        ],
+        "sources": [
+          "ni-san-ramon-station-guide",
+          "ni-ometepe-local-puma-transit",
+          "ni-ometepe-ferry-guide"
+        ]
+      }
+    ]
+  }
+]

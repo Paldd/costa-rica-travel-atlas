@@ -27,7 +27,7 @@ MIN_BODY_CHARS = 350
 ARTICLE_BODY_CLASSES = {
     "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg",
 }
-EXTRACTOR_VERSION = 6
+EXTRACTOR_VERSION = 7
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
 
@@ -56,7 +56,7 @@ class EditorialPage(HTMLParser):
             wordpress_post = (attrs.get("id") or "").startswith("post-") and {"type-post", "hentry"} <= classes
             content = (
                 tag in {"article", "main"} or attrs.get("role") == "main" or attrs.get("itemprop") == "articleBody"
-                or attrs.get("id") in {"main-content", "main-blog-content", "article-content", "dnn_content"}
+                or attrs.get("id") in {"content", "main-content", "main-blog-content", "article-content", "dnn_content"}
                 or attrs.get("data-elementor-type") in {"wp-post", "wp-page"}
                 or bool(classes & ARTICLE_BODY_CLASSES) or wordpress_post
             )

@@ -610,5 +610,23 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Playa_de_Manzanillo,_Costa_Rica.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "pa-boquete-valley-archive": {
+    "file": "boquete-valley-commons.jpg",
+    "alt": "Бокете, крыши и зелёные склоны долины",
+    "caption": "Бокете, февраль 2010 года · уменьшенная копия",
+    "author": "Michael (a.k.a. moik) McCullough",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Boquete,_Panama.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "ni-ometepe-shore-archive": {
+    "file": "ometepe-shore-commons.jpg",
+    "alt": "Вулкан и лес на острове Ометепе",
+    "caption": "Ометепе у Пунта-Хесус-Мария, январь 2015 года · уменьшенная копия",
+    "author": "BluesyPete",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:OmetepeView_04.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   }
 }

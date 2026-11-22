@@ -15,6 +15,10 @@ ALIASES = {
     "murcielago-bat-islands-scuba": ("islas murcielago", "bat islands"),
     "ometepe-san-jorge-ferry": ("ferry a moyogalpa", "san jorge moyogalpa"),
     "ometepe-charco-verde-walk": ("reserva natural charco verde", "charco verde"),
+    "boquete-palo-alto-ebike-road": ("avenida buenos aires", "palo alto boquete"),
+    "ometepe-moyogalpa-punta-cycle": ("punta jesus maria",),
+    "ometepe-istian-merida-guided-kayak": ("rio istian", "rio istiam", "istian river", "istiam river"),
+    "ometepe-puesta-la-paloma-community": ("asociacion puesta del sol", "comunidad la paloma"),
     "rio-general-25-guided": ("finca general",),
     "rio-general-camp-60km-3": ("brujo de buenos aires",),
     "rio-guabo-baru-14-raft": ("puente division baru",),
@@ -72,7 +76,10 @@ def normalized(value):
 
 def recurring_names(record):
     native = normalized(record["native"].split("·")[0].strip())
-    broad = {"playa", "camping", "costa rica", "arenal", "monteverde", "las catalinas", "hacienda orosi", "discover scuba diving"}
+    broad = {
+        "playa", "camping", "costa rica", "arenal", "monteverde", "las catalinas",
+        "hacienda orosi", "discover scuba diving", "bajo boquete", "puesta del sol",
+    }
     terms = ALIASES.get(record["id"], ())
     starting_point_only = record["id"] in {"guiones-samara-carrillo-27", "santa-teresa-nosara-gravel-101"}
     if len(native) >= 12 and native not in broad and not starting_point_only:

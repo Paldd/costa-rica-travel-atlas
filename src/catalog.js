@@ -11,6 +11,7 @@ export const regions = {
   caribbean: "Карибское побережье",
   ometepe: "Ометепе и озеро Кокиболька",
   "chiriqui-coast": "Залив Чирики",
+  "chiriqui-highlands": "Горы Чирики",
 };
 
 export const activities = {

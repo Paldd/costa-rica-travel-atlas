@@ -219,5 +219,416 @@
     "countries": [
       "ni"
     ]
+  },
+  {
+    "id": "boquete-soul-adventure-ebike-26",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "countries": [
+      "pa"
+    ],
+    "title": "Бокете · 26 км на e-bike с местным гидом и остановкой на кофе",
+    "native": "Soul Planet Cycles · Adventure Tour · Bajo Boquete",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "cycling",
+      "ebike",
+      "coffee",
+      "cafe",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "car"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "pa-boquete-soul-e-bike",
+      "pa-boquete-soul-tour-details",
+      "pa-boquete-riverside-e-bike",
+      "pa-boquete-bike-rider-video",
+      "pa-boquete-library-park-map"
+    ],
+    "summary": "У Soul Planet Cycles есть примерно двухчасовой Adventure Tour на 26 км туда и обратно. В программу входит остановка на одной из кофейных ферм и знакомство с работой электровелосипеда перед выездом.",
+    "plan": "Встретьтесь у магазина напротив парка библиотеки в Бахо-Бокете. Сверьте расстояние, тип дороги, возраст и минимальную группу по выбранному выезду. Оператор указывает старт от двух участников.",
+    "conditions": "Для этого формата нужно уметь уверенно ехать на велосипеде и тормозить на спуске. Шлем и настройку велосипеда подтверждайте при выдаче. Дорога и остановки зависят от состава группы и погоды.",
+    "distance": 26
+  },
+  {
+    "id": "boquete-soul-flavors-ebike-25",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "countries": [
+      "pa"
+    ],
+    "title": "Бокете · 25 км на e-bike с местными дегустациями",
+    "native": "Soul Planet Cycles · Flavors of Boquete · bajo Boquete",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "cycling",
+      "ebike",
+      "cafe",
+      "coffee",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "car"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "pa-boquete-soul-e-bike",
+      "pa-boquete-soul-tour-details",
+      "pa-boquete-library-park-owner"
+    ],
+    "summary": "Четырёхчасовой маршрут Flavors of Boquete с кругом около 25 км. Он совмещает езду по местным улицам, виды, кафе и дегустации. Старт и возврат у Soul Planet Cycles.",
+    "plan": "Подтвердите меню, аллергии, шлемы и размер велосипеда. Спросите, сколько времени группа реально едет и какие остановки входят сейчас. Прокат или тур уточняют через магазин.",
+    "conditions": "Держите в запасе дождевую куртку и воду. Порядок дегустаций и полное расстояние команда может поменять по погоде и составу группы. Пин показывает согласованное место встречи.",
+    "distance": 25
+  },
+  {
+    "id": "boquete-palo-alto-ebike-road",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "countries": [
+      "pa"
+    ],
+    "title": "Бокете — Пало-Альто · 8 км на e-bike по дороге вдоль долины",
+    "native": "Bajo Boquete · Parque Biblioteca · Avenida Buenos Aires · Palo Alto",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "cycling",
+      "ebike",
+      "road-bike",
+      "views",
+      "river",
+      "cafe"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "pa-boquete-library-park-map",
+      "pa-palo-alto-locality",
+      "cr-frontier-osm-bike-roads",
+      "pa-boquete-riverside-e-bike",
+      "frontier-pa-boquete-destination"
+    ],
+    "summary": "Дорожный маршрут от парка библиотеки через Бахо-Бокете до Пало-Альто. По навигации OSM около 4 км в одну сторону, около 8 км туда и обратно.",
+    "plan": "Согласуйте прокат и проверьте тормоза, батарею, свет и размер рамы. Через центральные улицы и Avenida Buenos Aires доезжайте до дорожной точки разворота у Пало-Альто. Вернитесь тем же путём.",
+    "conditions": "Маршрут проходит по общим дорогам, включая короткие отрезки Vía Boquete. Участникам нужна уверенная езда в потоке и видимость после дождя. На развороте найдите безопасное место вне полосы.",
+    "distance": 8
+  },
+  {
+    "id": "boquete-finca-lerida-cloud-trails",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "countries": [
+      "pa"
+    ],
+    "title": "Finca Lérida · пять троп кофейной фермы и облачного леса",
+    "native": "Finca Lérida · Cafetal · El Bosque · Mirador · La Cascada",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "coffee",
+      "forest",
+      "waterfall",
+      "wildlife",
+      "views",
+      "cafe"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "pa-lerida-trails-owner",
+      "frontier-pa-lerida-contacts",
+      "pa-lerida-plantation-video",
+      "frontier-finca-lerida-osm"
+    ],
+    "summary": "Прогулки в облачном лесу кофейной фермы. Хозяева публикуют El Bosque на 800 м, Mirador на 500 м, Cafetal на 2,5 км и La Cascada на 1,5 км. В закрытую часть резерва ведёт отдельный маршрут с проводником.",
+    "plan": "Выберите короткую лесную тропу для прогулки либо склоны кофейной фермы для полудня. Уточните, нужен ли отдельный билет для гостей без ночёвки и как получить схему открытых троп.",
+    "conditions": "Мокрые ступени и спуски к каскаду требуют подходящей обуви. Закрытая часть резерва относится к отдельной программе. Для детского дня подходят короткий El Bosque и остановки у фермы после подтверждения допуска.",
+    "distance": null
+  },
+  {
+    "id": "boquete-baru-authorized-4x4-sunrise",
+    "kind": "trail",
+    "region": "chiriqui-highlands",
+    "countries": [
+      "pa"
+    ],
+    "title": "Волкан-Бару · рассвет на вершине с водителем 4×4 из Бокете",
+    "native": "Volcán Barú · Camiseta · Amanecer · 4x4 Volcán Barú",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "offroad",
+      "car",
+      "summit",
+      "volcano",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "pa-baru-park-tourism",
+      "pa-baru-camiseta-register",
+      "pa-baru-guided-4x4-owner",
+      "pa-baru-camiseta-locality",
+      "pa-baru-summit-geo",
+      "pa-baru-ascent-rider-video"
+    ],
+    "summary": "Ранний горный выезд к вершине около 3 475 м. Группа едет из Бокете в подготовленном 4×4 с местным оператором. MiAmbiente описывает регистрацию транспорта и пассажиров.",
+    "plan": "Согласуйте день, официальную регистрацию и встречу ещё до вечера. Оператор приводит ориентир отправления около 04:00 и подъём примерно за полтора-два часа. Время зависит от допуска и текущей дороги.",
+    "conditions": "На вершине возможны холод, сильный ветер и облака. Дорога жёсткая и неровная. Для детей и людей, чувствительных к высоте или длительной тряске, уточните допуск и формат у команды.",
+    "distance": null
+  },
+  {
+    "id": "ometepe-moyogalpa-punta-cycle",
+    "kind": "trail",
+    "region": "ometepe",
+    "countries": [
+      "ni"
+    ],
+    "title": "Ометепе · велоподъезд из Мойогальпы к косе Пунта-Хесус-Мария",
+    "native": "Moyogalpa · La Paloma · NIC-64 · Punta Jesús María",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "cycling",
+      "beach",
+      "lake",
+      "volcano",
+      "views",
+      "cafe"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "car"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-puesta-bikes-cooperative",
+      "ni-puesta-contact-cooperative",
+      "ni-punta-moyogalpa-guide",
+      "ni-punta-jesus-map",
+      "cr-frontier-osm-bike-roads",
+      "ni-punta-rider-wikiloc"
+    ],
+    "summary": "Умеренная поездка на обычном велосипеде к берегу Кокибольки. Из порта Мойогальпа по подтверждённой дорожной линии 4,9 км до ориентира в районе подъезда, около 9,8 км с возвратом. До самой косы запланируйте отдельную прогулку.",
+    "plan": "Согласуйте велосипед у Puesta del Sol в Ла-Паломе. При старте из порта используйте линию мимо района аэродрома. На последнем подъезде проверьте нужный поворот и разрешённое место оставить велосипед.",
+    "conditions": "На части дороги ездят автомобили и мотоциклы. Для выхода к косе уточните проход на месте. Уровень озера, ветер и часы входа влияют на длину прогулки. Возвращайтесь при свете либо организуйте обратный подвоз.",
+    "distance": 9.8
+  },
+  {
+    "id": "ometepe-istian-merida-guided-kayak",
+    "kind": "trail",
+    "region": "ometepe",
+    "countries": [
+      "ni"
+    ],
+    "title": "Ометепе · около трёх часов на каяке по озеру и реке Истиан",
+    "native": "Caballito’s Mar · Mérida · Lago Cocibolca · Río Istián",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "kayak",
+      "lake",
+      "river",
+      "wildlife",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "car"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-istian-kayak-caballitos",
+      "ni-istian-zopilote-booking",
+      "ni-caballitos-contact-map",
+      "ni-merida-locality-map",
+      "ni-istian-local-video",
+      "ni-ometepe-local-puma-transit"
+    ],
+    "summary": "Каяковая поездка из Мериды от местной команды Caballito’s Mar. Оператор закладывает около 45 минут вдоль берега до устья Истиана. Дальше гребут по реке и возвращаются к базе. Вся программа около трёх часов.",
+    "plan": "Подтвердите точку старта в Мериде, подвоз, время на воде и размеры жилетов. Если дети идут в двухместной лодке, узнайте распределение мест со взрослым. Спросите про более спокойную часть маршрута при ветре.",
+    "conditions": "Первые участки проходят на открытом озере. Гид выбирает доступный выход по ветру и уровню воды, иногда сокращает поездку. Возможность старта на своей лодке обсудите отдельно с местной командой.",
+    "distance": null
+  },
+  {
+    "id": "ometepe-san-ramon-falls-walk",
+    "kind": "trail",
+    "region": "ometepe",
+    "countries": [
+      "ni"
+    ],
+    "title": "Ометепе · около 6 км к водопаду Сан-Рамон на склоне Мадераса",
+    "native": "Cascada de San Ramón · Estación Biológica · Volcán Maderas · Ometepe",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "waterfall",
+      "forest",
+      "volcano",
+      "views",
+      "wildlife"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-san-ramon-station-guide",
+      "ni-san-ramon-author-route",
+      "ni-san-ramon-falls-map",
+      "ni-san-ramon-hike-video",
+      "ni-mystica-lodge-owner"
+    ],
+    "summary": "Подход от района биологической станции к водопаду на склоне Мадераса. В записи автора длинный пеший вариант занимает 6,05 км. Начальная часть, доступная для подъезда, меняется в зависимости от состояния дороги.",
+    "plan": "Проверьте часы станции, текущий старт и возможность оставить автомобиль. Для полного пешего варианта заложите полдня. Подход к водопаду выполняйте по открытой маркированной тропе, которую подтвердят у входа.",
+    "conditions": "Последняя часть тропы может быть грязной, скользкой и с небольшими переходами через воду. Возьмите обувь с протектором, воду и сухой чехол. В дождь уточните у станции или хозяев жилья, доступна ли тропа.",
+    "distance": 6.05
+  },
+  {
+    "id": "ometepe-puesta-la-paloma-community",
+    "kind": "place",
+    "region": "ometepe",
+    "countries": [
+      "ni"
+    ],
+    "title": "Ла-Палома · ночёвка у местной семьи Puesta del Sol с прокатом велосипедов",
+    "native": "Puesta del Sol · La Paloma · Moyogalpa · Ometepe",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "cycling",
+      "cafe",
+      "lake",
+      "views",
+      "relax",
+      "history"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "car"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ni-puesta-contact-cooperative",
+      "ni-puesta-bikes-cooperative",
+      "ni-ometepe-puesta-video",
+      "ni-ometepe-local-puma-transit"
+    ],
+    "summary": "Сельская ассоциация рядом с Мойогальпой. Ассоциация публикует размещение у местных семей, прокат обычных велосипедов и каяков, экскурсию к Пунта-Хесус-Мария и отдельную прогулку по органической ферме.",
+    "plan": "Свяжитесь с кооперативом до парома. Получите адрес дома, место встречи и номер хозяев. Спросите, включён ли завтрак, где выдают велосипеды, подходят ли комнаты по возрасту детей и можно ли взять подвоз из порта.",
+    "conditions": "У принимающих домов разные комнаты и условия. Сверьте вентилятор, москитную сетку, питание, санузел и доступность для багажа. На карте показан район Ла-Палома.",
+    "distance": null
   }
 ]
