@@ -400,11 +400,17 @@ function SourcesPage({ atlas }) {
   const measurementDate = atlas.social.profiles[0]?.countChecked;
   const needle = fold(query.trim());
   const followerFormat = new Intl.NumberFormat("ru-RU");
-  const browserCheckLabels = { "feed-visible": "Видны публикации", "login-required": "Запрошен вход" };
+  const browserCheckLabels = {
+    "feed-visible": "Виден текст публикаций",
+    "grid-visible": "Видна сетка публикаций",
+    "profile-only": "Открыт профиль",
+    "login-required": "Запрошен вход",
+  };
   const profiles = atlas.social.profiles.filter(row =>
     (!platform || row.platform === platform) &&
-    (coverage !== "posts" || row.posts > 0) &&
-    (coverage !== "missing" || row.posts === 0) &&
+    (coverage !== "posts" || row.posts > 0 || row.postLinks?.length) &&
+    (coverage !== "missing" || row.posts === 0 && !row.postLinks?.length) &&
+    (coverage !== "originals" || row.postLinks?.length) &&
     (coverage !== "archive" || row.publisher?.archive) &&
     (coverage !== "copies" || row.copySample) &&
     (coverage !== "live" || row.liveCheck) &&
@@ -425,13 +431,13 @@ function SourcesPage({ atlas }) {
       <article><strong>{overview.facebookPosts}</strong><span>постов Facebook открыто</span></article>
       <article><strong>{Object.keys(atlas.sources).length}</strong><span>источников каталога</span></article>
     </div>
-    <p>Подключённый коннектор Meta читает управляемые аккаунты. Публикации сторонних профилей сверяются по доступным образцам и ссылкам. Статус в строке показывает, какие данные просмотрены.</p>
+    <p>Подключённый коннектор Meta читает управляемые аккаунты. В рейтинге указаны образцы подписей, оригиналы, открытые копии и результат проверки браузером. {overview.instagramOpenedPosts > 0 && `Сейчас по прямым ссылкам проверено ${overview.instagramOpenedPosts} публикаций Instagram из ${overview.instagramWithOpenedPosts} профилей.`}</p>
     <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/API.md">Проверка доступов и методика</External>{" · "}
       <External href="https://github.com/Paldd/costa-rica-travel-atlas/actions/workflows/refresh.yml">Ежедневное чтение открытых архивов</External></p>
     <details className="evidence-list">
       <summary>Рейтинг Instagram и Facebook <ChevronDown size={18} /></summary>
       <p>По {overview.instagramProfiles} профилей на каждой платформе с аудиторией свыше 1 000 подписчиков. Замер от <time dateTime={measurementDate}>{measurementDate?.split("-").reverse().join(".")}</time>.</p>
-      {overview.browserChecks > 0 && <p>Результат открытия ленты в браузере отмечен у {overview.browserChecks} профилей. Публикации отображались у {overview.visibleBrowserFeeds} из них.</p>}
+      {overview.browserChecks > 0 && <p>Результат открытия профиля в браузере отмечен у {overview.browserChecks} страниц. Текст авторских публикаций был виден у {overview.visibleBrowserFeeds} из них.</p>}
       {overview.facebookWithCopies > 0 && <p>В открытых копиях лент изучено {overview.facebookCopiedPosts} публикаций для {overview.facebookWithCopies} профилей. Период выборки указан в строке профиля.</p>}
       {overview.publisherLinks > 0 && <p>У {overview.publisherLinks} профилей есть подтверждённый сайт. Для {overview.publisherArchiveLinks} профилей доступны ссылки на разделы статей, маршрутов или программ этого проекта.</p>}
       <div className="profile-filters">
@@ -449,6 +455,7 @@ function SourcesPage({ atlas }) {
           <select aria-label="Материалы профиля" value={coverage} onChange={event => setCoverage(event.target.value)}>
             <option value="">Любое покрытие</option>
             <option value="posts">Есть выборка постов</option>
+            <option value="originals">Открыты прямые публикации</option>
             <option value="missing">Без прямой выборки постов</option>
             <option value="copies">Есть прочитанные копии</option>
             <option value="archive">Есть архив сайта</option>

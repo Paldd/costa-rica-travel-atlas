@@ -18,7 +18,7 @@ npm run dev
 
 ## Как добавлять данные
 
-Маршруты и места находятся в `data/catalog*.tsv`, многодневные программы — в `data/expeditions.json` и `data/expeditions-*.json`. Источники хранятся в `data/sources.tsv` и `data/sources-*.tsv` с общими идентификаторами. Файл `data/profile-ranking.tsv` содержит два рейтинга по 100 профилей с датой замера и источником числа подписчиков. Доступные данные Instagram находятся в `data/social-coverage.json`, прочитанные посты Facebook — в `data/public-posts.tsv`. Реестр `data/profile-publishers.tsv` связывает профили с подтверждёнными сайтами и их архивами. Допустимые значения фильтров находятся в `src/catalog.js`.
+Маршруты и места находятся в `data/catalog*.tsv`, многодневные программы — в `data/expeditions.json` и `data/expeditions-*.json`. Источники хранятся в `data/sources.tsv` и `data/sources-*.tsv` с общими идентификаторами. Файл `data/profile-ranking.tsv` содержит два рейтинга по 100 профилей с датой замера и источником числа подписчиков. Образец подписей Instagram находится в `data/social-coverage.json`. Проверенные оригиналы Instagram и Facebook добавляются в `data/public-posts.tsv`. Реестр `data/profile-publishers.tsv` связывает профили с подтверждёнными сайтами и их архивами. Допустимые значения фильтров находятся в `src/catalog.js`.
 
 Результаты открытия лент из рейтинга хранятся в `data/profile-browser-checks.tsv`. У каждой проверки есть дата и видимый результат. Прямые ссылки на отдельно прочитанные публикации остаются в реестре постов.
 

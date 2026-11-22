@@ -1,0 +1,152 @@
+[
+  {
+    "id": "upala-santuario-morpho-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Дос-Риос-де-Упала за два дня · Эль-Сантуарио, термы и Морфо-Асуль",
+    "native": "Gavilán · Catarata El Santuario · Blue River · Catarata Morpho Azul",
+    "level": "hard",
+    "days": 2,
+    "distance": null,
+    "activities": [
+      "hiking",
+      "waterfall",
+      "cave",
+      "thermal",
+      "river",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "confirm"
+    ],
+    "sources": [
+      "upala-water-inventory",
+      "upala-water-community",
+      "upala-water-corridor-osm",
+      "upala-blue-river-day",
+      "vive-dos-rios-directory"
+    ],
+    "summary": "Выезд к двум водопадам на северной стороне Ринкон-де-ла-Вьеха. Один внутри скального каньона, второй на лесной реке у вулканической смотровой.",
+    "plan": "Сначала определите, когда проводник подтверждает посещение каньона. Добавьте термы и ночёвку в Гавилане, затем утром переезжайте к согласованной встрече в районе Буэнос-Айрес.",
+    "conditions": "Состояние воды и подъезд могут изменить план. Для детей, которым ещё рано на мокрые бродовые участки, есть вариант термы и лёгкая прогулка по открытой фермерской тропе.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Гавилан · Эль-Сантуарио и термы",
+        "note": "Пройдите каньон с проводником при подходящем уровне воды. Оставьте время на отдых и ночёвку в районе Blue River.",
+        "stops": [
+          "upala-el-santuario-catarata",
+          "upala-blue-river-family-thermal"
+        ],
+        "sources": [
+          "upala-water-inventory",
+          "upala-blue-river-day"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Буэнос-Айрес · Морфо-Асуль и смотровая",
+        "note": "Из Гавилана переезжайте к месту встречи. Последний подъём до тропы и прогулку согласуйте с гидом.",
+        "stops": [
+          "upala-morpho-waterfall-mirador",
+          "upala-laguna-serena-waterfalls"
+        ],
+        "sources": [
+          "vive-dos-rios-directory",
+          "upala-water-corridor-osm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "osa-zompopas-paddle-golfo-2",
+    "kind": "trip",
+    "region": "south",
+    "title": "Гольфо-Дульсе за два дня · палатка на крыше и мангры у Плайя-Бланки",
+    "native": "Puerto Jiménez · La Palma · Zompopas Trails · Playa Blanca · Golfo Dulce",
+    "level": "moderate",
+    "days": 2,
+    "distance": null,
+    "activities": [
+      "camping",
+      "rooftent",
+      "glamping",
+      "kayak",
+      "boat",
+      "beach",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "glamping"
+    ],
+    "sources": [
+      "osa-zompopas-camp-guide",
+      "osa-zompopas-owner",
+      "osa-zompopas-jimenez-osm",
+      "osa-mangrove-dreamcatcher",
+      "osa-blanca-gulf-boat",
+      "osa-blanca-ict"
+    ],
+    "summary": "Ночёвка у берега Гольфо-Дульсе с палаткой на крыше. Второй день можно провести на местной лодке или на каяке в мангровых протоках.",
+    "plan": "Согласуйте лагерь, затем подберите окно по приливу с местным гидом. Закупитесь в Пуэрто-Хименесе, приезжайте к лагерю днём.",
+    "conditions": "Гребля зависит от прилива и ветра. Подтвердите детские жилеты, безопасный способ посадки и обратное время встречи с водителем.",
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пуэрто-Хименес — Zompopas",
+        "note": "От центра около 24 км на машине. Поставьте лагерь днём и пройдите к берегу пешком.",
+        "stops": [
+          "osa-zompopas-rooftent-playa-blanca"
+        ],
+        "sources": [
+          "osa-zompopas-jimenez-osm",
+          "osa-zompopas-camp-guide"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Плайя-Бланка · каяк или лодка",
+        "note": "Выберите короткий заход в мангры в высокую воду либо прогулку с капитаном. Попросите запасной сценарий при изменении погоды.",
+        "stops": [
+          "osa-playa-blanca-mangrove-kayak"
+        ],
+        "sources": [
+          "osa-mangrove-dreamcatcher",
+          "osa-blanca-gulf-boat"
+        ]
+      }
+    ]
+  }
+]

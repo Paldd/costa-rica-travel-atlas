@@ -1,0 +1,534 @@
+{
+  "upala-el-santuario-catarata": {
+    "stops": [
+      {
+        "point": "upala-santuario-la-liga",
+        "role": "Гавилан · подъезд к Finca Aventuras El Santuario",
+        "note": "Короткий подход через частную ферму описан местным автором. Согласуйте встречу с проводником."
+      },
+      {
+        "point": "upala-blue-adventure",
+        "role": "Explore Blue River · район встречи",
+        "note": "Для терм, троп и Dino Park уточните адрес стойки своего пакета."
+      },
+      {
+        "point": "upala-santuario-muni",
+        "role": "Эль-Сантуарио · ориентир каньона",
+        "note": "У этого водопада несколько вариантов входа. Поездку начинайте по схеме своего проводника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два подхода с проводником",
+        "text": "Муниципальный реестр описывает доступ через Finca La Liga и частную тропу с предварительной записью у Blue River. IguanaGo приводит короткий вариант около 2 км и более длинный около 5 км. Обе длины относятся к конкретным заходам. Назовите опыт группы и спросите, есть ли короткий сухопутный вариант без речных переходов.",
+        "sources": [
+          "upala-water-inventory",
+          "upala-santuario-iguana",
+          "upala-water-community"
+        ]
+      },
+      {
+        "title": "Уровень воды и снаряжение",
+        "text": "В дождь в каньоне меняется вода. Переходы и приближение к водопаду проводник подтверждает по состоянию на день поездки. Возьмите обувь с подошвой для мокрых камней, лёгкий дождевик, запас воды и отдельный пакет для сухой одежды. При закрытии тропы можно заменить поход на дневную программу Blue River.",
+        "sources": [
+          "upala-water-inventory",
+          "upala-santuario-vamos",
+          "upala-blue-river-day"
+        ]
+      },
+      {
+        "title": "Выезд из Центральной долины",
+        "text": "Costa Rica Mochilera показала каньон и опубликовала ближайшие даты, посадки в Сан-Хосе, Эредии и Алахуэле. Попросите расписание и наличие мест на выбранный день. Видео опубликовано автором на двух площадках.",
+        "sources": [
+          "ig-live-mochilera-santuario",
+          "fb-live-mochilera-santuario"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Santuario · контакт из каталога Упалы",
+        "source": "upala-water-contacts",
+        "note": "Точный допуск, вариант подхода, место встречи, оплата и экстренная отмена после дождя.",
+        "phone": "+506 8481 6308"
+      },
+      {
+        "name": "Costa Rica Mochilera",
+        "source": "ig-live-mochilera-santuario",
+        "note": "Групповые даты, транспорт из Сан-Хосе, Эредии или Алахуэлы, ограничения по воде.",
+        "phone": "+506 7008 8044",
+        "whatsapp": "https://wa.me/50670088044",
+        "email": "costaricamochilera@gmail.com"
+      },
+      {
+        "name": "Blue River Resort · дневной визит и ночёвка",
+        "source": "upala-blue-river-contact",
+        "note": "Пакет, питание, допуск детей, часы, фактический въезд и состояние дороги.",
+        "phone": "+506 4105 8600",
+        "email": "info@bluerivercr.com"
+      }
+    ],
+    "nearby": [
+      "upala-santuario-morpho-2",
+      "upala-blue-river-family-thermal",
+      "upala-morpho-waterfall-mirador"
+    ],
+    "track": "upala-santuario-gps",
+    "galleries": [
+      "upala-santuario-vamos",
+      "upala-santuario-iguana"
+    ],
+    "videos": [
+      "upala-santuario-cave-video",
+      "upala-santuario-film"
+    ],
+    "connectStops": false
+  },
+  "upala-morpho-waterfall-mirador": {
+    "stops": [
+      {
+        "point": "upala-mapache-buenos-aires",
+        "role": "Буэнос-Айрес-де-Упала · район сбора",
+        "note": "Здесь заканчивается рассчитанный автомобильный участок. Проезд к Морфо согласуйте с местным гидом."
+      },
+      {
+        "point": "upala-morpho-muni",
+        "role": "Морфо-Асуль · координата водопада",
+        "note": "Метка муниципалитета внутри района каскада. Вход и парковку назначает хозяин."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Смотровая, лес и подъезд",
+        "text": "В каталоге местных предприятий описана прогулка 1,5 км после примерно трёх километров подъезда на машине с высоким клиренсом. Проводник входит в указанную программу. Попросите определить, включает ли расстояние возврат, где начинается подъём к смотровой и пригодится ли перевозка на местной машине.",
+        "sources": [
+          "vive-dos-rios-directory",
+          "upala-morpho-photo-guide"
+        ]
+      },
+      {
+        "title": "Вода и соседние варианты",
+        "text": "В муниципальном реестре указан Río Pénjamo. В этом коридоре есть также Лас-Бромелиас и термальная прогулка Мапаче. Открытие тропы и подход к воде зависят от дождя. Берите сцепляющуюся обувь, сменную одежду и воду.",
+        "sources": [
+          "upala-water-inventory",
+          "vive-dos-rios-directory",
+          "vive-dos-rios-thermal"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Catarata Morpho Azul · местная команда",
+        "source": "upala-water-contacts",
+        "note": "Гид, дорога, парковка в сухую и дождливую погоду. Спросите про длину пути в обе стороны.",
+        "phone": "+506 7114 7550"
+      },
+      {
+        "name": "ASOCOVE · местные гиды",
+        "source": "vive-dos-rios-reserve",
+        "note": "Согласование точки встречи, соседних маршрутов и актуального транспорта."
+      }
+    ],
+    "nearby": [
+      "upala-mapache-thermal-hike",
+      "upala-laguna-serena-waterfalls",
+      "upala-santuario-morpho-2"
+    ],
+    "galleries": [
+      "upala-morpho-photo-guide",
+      "upala-water-community"
+    ],
+    "connectStops": false
+  },
+  "upala-blue-river-family-thermal": {
+    "stops": [
+      {
+        "point": "upala-blue-adventure",
+        "role": "Explore Blue River · район встречи",
+        "note": "Для терм, троп и Dino Park уточните адрес стойки своего пакета."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дневное посещение с детьми",
+        "text": "На сайте владельца есть дневная программа терм с обедом и отдельная программа Blue River Resort с Dino Park. Сообщите возраст детей и спросите, какие зоны включены. При поездке с малышами подтвердите неглубокий бассейн, часы обеда и доступ к раздевалке.",
+        "sources": [
+          "upala-blue-river-day",
+          "upala-blue-river-contact"
+        ]
+      },
+      {
+        "title": "Связка с местными водопадами",
+        "text": "Blue River служит ориентиром в Гавилане. Для каньона Эль-Сантуарио отдельно запрашивают проводника и состояние воды. Для дневного визита в термы попросите отдельную метку стойки и оценку дороги после дождя.",
+        "sources": [
+          "upala-blue-adventure-pin",
+          "upala-water-inventory",
+          "upala-blue-river-day"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Blue River Resort · дневной визит и ночёвка",
+        "source": "upala-blue-river-contact",
+        "note": "Пакет, питание, допуск детей, часы, фактический въезд и состояние дороги.",
+        "phone": "+506 4105 8600",
+        "email": "info@bluerivercr.com"
+      }
+    ],
+    "nearby": [
+      "upala-el-santuario-catarata",
+      "upala-morpho-waterfall-mirador",
+      "upala-santuario-morpho-2"
+    ],
+    "galleries": [
+      "upala-blue-river-day"
+    ],
+    "connectStops": false
+  },
+  "osa-zompopas-rooftent-playa-blanca": {
+    "stops": [
+      {
+        "point": "osa-zompopas-camp-pin",
+        "role": "Zompopas Trails · район кемпинга",
+        "note": "Перед заездом попросите хозяев прислать ворота и площадку, подходящую под высоту машины."
+      },
+      {
+        "point": "osa-playa-blanca-coast",
+        "role": "Плайя-Бланка · ориентир пляжа",
+        "note": "Точное место встречи на берегу или у парковки даст местный оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка на крыше и готовое жильё",
+        "text": "Кемпинговый путеводитель описывает площадки на открытом месте и под деревьями, укрытие от дождя, душ и кухню. В объявлении хозяев показано готовое размещение и зона очага. Попросите отдельное разрешение на огонь у своей стоянки и согласуйте полный набор удобств. Ноябрь–февраль в путеводителе указан как период раннего бронирования.",
+        "sources": [
+          "osa-zompopas-camp-guide",
+          "osa-zompopas-camp-owner"
+        ]
+      },
+      {
+        "title": "Дорога и местные занятия",
+        "text": "Хозяева организуют посещение Корковадо и другие туры на Осе. На берегу Плайя-Бланки местные команды проводят выходы на лодках и дневную греблю. Для каждого тура получите встречу и тариф отдельно. Возьмите питьевую воду, насос для палатки при необходимости и свет для лагеря.",
+        "sources": [
+          "osa-zompopas-owner",
+          "osa-blanca-ict",
+          "osa-mangrove-dreamcatcher"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Zompopas Trails · Йесения и команда",
+        "source": "osa-zompopas-owner",
+        "note": "Площадка под машину и палатку, условия глэмпинга, доступ к кухне, огонь и местный проводник.",
+        "phone": "+506 8729 6546",
+        "whatsapp": "https://wa.me/50687296546",
+        "email": "info@zompopastrails.com"
+      },
+      {
+        "name": "Osa Dreamcatcher · гребля",
+        "source": "osa-mangrove-dreamcatcher",
+        "note": "Попросите старт именно в Playa Blanca, часовое окно по приливу, комплект жилетов и подходящий маршрут."
+      }
+    ],
+    "nearby": [
+      "osa-playa-blanca-mangrove-kayak",
+      "osa-zompopas-paddle-golfo-2",
+      "golfo-dulce-mangrove-kayak"
+    ],
+    "galleries": [
+      "osa-zompopas-camp-guide",
+      "osa-zompopas-camp-owner",
+      "osa-blanca-shore-360"
+    ],
+    "connectStops": false
+  },
+  "osa-playa-blanca-mangrove-kayak": {
+    "stops": [
+      {
+        "point": "osa-playa-blanca-coast",
+        "role": "Плайя-Бланка · ориентир пляжа",
+        "note": "Точное место встречи на берегу или у парковки даст местный оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Каяк во время прилива",
+        "text": "Osa Dreamcatcher указывает Playa Blanca de La Palma или Puerto Jiménez как варианты старта. Чтобы пройти в тени мангров, группа выходит по приливу. Попросите двойную лодку для взрослого с ребёнком, закрытый гермомешок и план завершения на берегу. Своё плавсредство заранее обсудите с гидом и уточните место спуска.",
+        "sources": [
+          "osa-mangrove-dreamcatcher",
+          "osa-blanca-local-guide",
+          "osa-blanca-beach-map"
+        ]
+      },
+      {
+        "title": "Лодка, маска и запасной береговой вариант",
+        "text": "Jaguar Corcovado Tours описывает выход из Плайя-Бланки без автомобильного трансфера. Попросите формат именно для своей группы: наблюдение за животными, остановка для снорклинга или спокойный выход в залив. При ветре остаётся береговая прогулка. Панорама помогает оценить берег перед выездом.",
+        "sources": [
+          "osa-blanca-gulf-boat",
+          "osa-blanca-shore-360"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Dreamcatcher · гребля",
+        "source": "osa-mangrove-dreamcatcher",
+        "note": "Попросите старт именно в Playa Blanca, часовое окно по приливу, комплект жилетов и подходящий маршрут."
+      },
+      {
+        "name": "Jaguar Corcovado Tours · лодка",
+        "source": "osa-blanca-gulf-boat",
+        "note": "Уточните, какие рейсы отправляются из Playa Blanca, где встречает капитан и включён ли трансфер."
+      }
+    ],
+    "nearby": [
+      "osa-zompopas-rooftent-playa-blanca",
+      "osa-zompopas-paddle-golfo-2",
+      "golfo-dulce-mangrove-kayak"
+    ],
+    "galleries": [
+      "osa-blanca-shore-360",
+      "osa-blanca-gulf-boat"
+    ],
+    "connectStops": false
+  },
+  "puerto-viejo-paradise-caribbean": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо · центр посёлка",
+        "note": "Удобно подойти пешком, оставить машину или велосипед в разрешённом месте."
+      },
+      {
+        "point": "puerto-viejo-paradise-pin",
+        "role": "Paradise Comida Caribeña · кафе",
+        "note": "Локальная карта и телефон опубликованы в карточке заведения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Карибская кухня и отзывы",
+        "text": "A Dónde Ir Costa Rica показал кафе в публикации из Пуэрто-Вьехо. В локальном справочнике есть фотографии, часы и телефон. Гости в отзывах описывают rice and beans, блюда из рыбы и местный вариант chifrijo. Меню и возможность сделать небольшую порцию уточняйте при заказе.",
+        "sources": [
+          "ig-live-adonde-paradise",
+          "pv-paradise-guide",
+          "pv-paradise-food-reviews"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Paradise Comida Caribeña",
+        "source": "pv-paradise-guide",
+        "note": "Часы на выбранный день, наличие блюд и возможность сесть семьёй.",
+        "phone": "+506 8467 3550"
+      }
+    ],
+    "nearby": [
+      "puerto-viejo-cahuita-ebike"
+    ],
+    "galleries": [
+      "pv-paradise-guide"
+    ],
+    "connectStops": false
+  },
+  "guachipelin-rincon-cafe": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Hacienda Guachipelín · въезд к отелю",
+        "note": "Кафе на территории. Дневной доступ и ближайшую парковку подтвердите на стойке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Меню, кофе и условия кухни",
+        "text": "Отель показывает Rincón del Café в публикации о безглютеновых блюдах и публикует отдельное меню. На сайте указана сертификация GFFP. Если есть пищевые ограничения, сообщите их сотруднику и уточните состав выбранного блюда и порядок приготовления.",
+        "sources": [
+          "guanacaste-guachipelin-cafe",
+          "guanacaste-guachipelin-cafe-menu",
+          "fb-live-guachipelin-cafe"
+        ]
+      },
+      {
+        "title": "Остановка после маршрута",
+        "text": "Удобно связать с термами Río Negro, лесной тропой к Оропендоле или утренним катанием на соседней велобазе. Для визита без ночёвки уточните вход на территорию и режим кухни.",
+        "sources": [
+          "guanacaste-guachipelin-cafe",
+          "guachipelin-rio-negro-tubing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Guachipelín · информация о кафе",
+        "source": "guanacaste-guachipelin-cafe",
+        "note": "Дневной вход, меню, часы, доступ и варианты для группы.",
+        "phone": "+506 2690 2900",
+        "whatsapp": "https://wa.me/50626902900"
+      }
+    ],
+    "nearby": [
+      "guachipelin",
+      "guachipelin-emtb-base",
+      "guachipelin-oropendola-horseback"
+    ],
+    "galleries": [
+      "guanacaste-guachipelin-cafe"
+    ],
+    "connectStops": false
+  },
+  "upala-santuario-morpho-2": {
+    "stops": [
+      {
+        "point": "upala-santuario-la-liga",
+        "role": "Гавилан · подъезд к Finca Aventuras El Santuario",
+        "note": "Короткий подход через частную ферму описан местным автором. Согласуйте встречу с проводником."
+      },
+      {
+        "point": "upala-blue-adventure",
+        "role": "Explore Blue River · район встречи",
+        "note": "Для терм, троп и Dino Park уточните адрес стойки своего пакета."
+      },
+      {
+        "point": "upala-mapache-buenos-aires",
+        "role": "Буэнос-Айрес-де-Упала · район сбора",
+        "note": "Здесь заканчивается рассчитанный автомобильный участок. Проезд к Морфо согласуйте с местным гидом."
+      },
+      {
+        "point": "upala-morpho-muni",
+        "role": "Морфо-Асуль · координата водопада",
+        "note": "Метка муниципалитета внутри района каскада. Вход и парковку назначает хозяин."
+      }
+    ],
+    "line": "upala-santuario-buenos-aires-drive",
+    "sections": [
+      {
+        "title": "Два независимых входа и 7 км дороги",
+        "text": "Карта покрывает проезд от въезда Finca Aventuras El Santuario через центр Blue River до района Буэнос-Айрес. Финальный подъём к Морфо назначает проводник. На двух водопадах разные договорённости о входе. Выберите, на какой день подходит более требовательный каньон, и перенесите его при высокой воде.",
+        "sources": [
+          "upala-water-corridor-osm",
+          "upala-water-inventory",
+          "upala-water-community"
+        ]
+      },
+      {
+        "title": "Ночёвка и запасной день",
+        "text": "Бронь ночёвки можно запросить в Blue River. В каталоге Vive Dos Ríos также есть Cabinas Marilyn и крытая кемпинговая зона. Тип места и подъезд уточняются у хозяина. Запасной формат при дожде: термы в Blue River и короткая прогулка в открытом по погоде секторе Laguna Serena.",
+        "sources": [
+          "upala-blue-river-contact",
+          "vive-dos-rios-directory",
+          "upala-blue-river-day"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Santuario · контакт из каталога Упалы",
+        "source": "upala-water-contacts",
+        "note": "Точный допуск, вариант подхода, место встречи, оплата и экстренная отмена после дождя.",
+        "phone": "+506 8481 6308"
+      },
+      {
+        "name": "Catarata Morpho Azul · местная команда",
+        "source": "upala-water-contacts",
+        "note": "Гид, дорога, парковка в сухую и дождливую погоду. Спросите про длину пути в обе стороны.",
+        "phone": "+506 7114 7550"
+      },
+      {
+        "name": "Blue River Resort · дневной визит и ночёвка",
+        "source": "upala-blue-river-contact",
+        "note": "Пакет, питание, допуск детей, часы, фактический въезд и состояние дороги.",
+        "phone": "+506 4105 8600",
+        "email": "info@bluerivercr.com"
+      }
+    ],
+    "nearby": [
+      "upala-el-santuario-catarata",
+      "upala-morpho-waterfall-mirador",
+      "upala-blue-river-family-thermal"
+    ],
+    "galleries": [
+      "upala-santuario-vamos",
+      "upala-morpho-photo-guide"
+    ],
+    "videos": [
+      "upala-santuario-cave-video"
+    ],
+    "connectStops": false
+  },
+  "osa-zompopas-paddle-golfo-2": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · дорожный ориентир",
+        "note": "Запас воды, топливо и покупки до переезда. От центра до лагеря около 24 км."
+      },
+      {
+        "point": "osa-zompopas-camp-pin",
+        "role": "Zompopas Trails · район кемпинга",
+        "note": "Перед заездом попросите хозяев прислать ворота и площадку, подходящую под высоту машины."
+      },
+      {
+        "point": "osa-playa-blanca-coast",
+        "role": "Плайя-Бланка · ориентир пляжа",
+        "note": "Точное место встречи на берегу или у парковки даст местный оператор."
+      }
+    ],
+    "line": "osa-zompopas-jimenez-drive",
+    "sections": [
+      {
+        "title": "Подъезд и базовый лагерь",
+        "text": "Карта даёт 24 км автомобильного участка от центра Пуэрто-Хименеса до площадки Zompopas. Обсудите последний съезд, чтобы пройти его засветло. Выберите, будет это крыша, своя палатка или готовый вариант, и подтвердите доступ к кухне и возможность оставить автомобиль во время выхода на воду.",
+        "sources": [
+          "osa-zompopas-jimenez-osm",
+          "osa-zompopas-camp-guide",
+          "osa-zompopas-camp-owner"
+        ]
+      },
+      {
+        "title": "Гребля по приливу",
+        "text": "По договорённости с местной командой есть маршрут на каяке в защищённые протоки в высокую воду. Если семья выбирает короткую поездку на лодке, уточните район прохождения, длительность, условия отмены и плавсредства для детей. На карте указан берег Плайя-Бланки и автомобильный подъезд. Точку посадки даёт оператор.",
+        "sources": [
+          "osa-mangrove-dreamcatcher",
+          "osa-blanca-gulf-boat",
+          "osa-blanca-local-guide",
+          "osa-blanca-beach-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Zompopas Trails · Йесения и команда",
+        "source": "osa-zompopas-owner",
+        "note": "Площадка под машину и палатку, условия глэмпинга, доступ к кухне, огонь и местный проводник.",
+        "phone": "+506 8729 6546",
+        "whatsapp": "https://wa.me/50687296546",
+        "email": "info@zompopastrails.com"
+      },
+      {
+        "name": "Osa Dreamcatcher · гребля",
+        "source": "osa-mangrove-dreamcatcher",
+        "note": "Попросите старт именно в Playa Blanca, часовое окно по приливу, комплект жилетов и подходящий маршрут."
+      },
+      {
+        "name": "Jaguar Corcovado Tours · лодка",
+        "source": "osa-blanca-gulf-boat",
+        "note": "Уточните, какие рейсы отправляются из Playa Blanca, где встречает капитан и включён ли трансфер."
+      }
+    ],
+    "nearby": [
+      "osa-zompopas-rooftent-playa-blanca",
+      "osa-playa-blanca-mangrove-kayak",
+      "puerto-jimenez-inshore-boat"
+    ],
+    "galleries": [
+      "osa-zompopas-camp-guide",
+      "osa-blanca-shore-360"
+    ],
+    "connectStops": false
+  }
+}

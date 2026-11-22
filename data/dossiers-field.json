@@ -1452,6 +1452,14 @@
           "cangreja-guachipelin",
           "acg-booking"
         ]
+      },
+      {
+        "title": "Кофе и пауза после маршрута",
+        "text": "На территории есть Rincón del Café с отдельным меню. Перед поездкой уточните дневной вход, время работы кухни и состав блюд, если в группе есть особые требования.",
+        "sources": [
+          "guanacaste-guachipelin-cafe",
+          "fb-live-guachipelin-cafe"
+        ]
       }
     ],
     "contacts": [
@@ -1465,7 +1473,8 @@
       "rincon-pailas",
       "rincon-cangreja-10",
       "rincon-mtb",
-      "la-leona-curubande"
+      "la-leona-curubande",
+      "guachipelin-rincon-cafe"
     ],
     "track": "guachipelin-faq"
   },

@@ -169,15 +169,26 @@ assert.equal(atlas.social.overview.publisherLinks, profilesWithSites.length);
 assert.equal(atlas.social.overview.publisherArchiveLinks, profilesWithSites.filter(row => row.publisher.archive).length);
 assert(profilesWithSites.some(row => row.platform === "Instagram" && row.publisher.archive));
 assert(profilesWithSites.some(row => row.platform === "Facebook" && row.publisher.archive));
-const facebookLinks = atlas.social.profiles.flatMap(row => row.postLinks || []);
+const facebookLinks = atlas.social.profiles.filter(row => row.platform === "Facebook").flatMap(row => row.postLinks || []);
 assert.equal(facebookLinks.length, atlas.social.overview.facebookPosts);
 assert.equal(new Set(facebookLinks.map(link => atlas.sources[link.source].url)).size, facebookLinks.length);
+const instagramWithOriginals = atlas.social.profiles.filter(row => row.platform === "Instagram" && row.postLinks?.length);
+const instagramLinks = instagramWithOriginals.flatMap(row => row.postLinks);
+const instagramCodes = instagramLinks.map(link => {
+  assert.match(link.checked, /^\d{4}-\d{2}-\d{2}$/);
+  const post = new URL(atlas.sources[link.source].url);
+  assert.equal(post.hostname, "www.instagram.com");
+  return post.pathname.split("/").filter(Boolean).at(-1);
+});
+assert.equal(instagramLinks.length, atlas.social.overview.instagramOpenedPosts);
+assert.equal(new Set(instagramCodes).size, instagramLinks.length);
+assert.equal(instagramWithOriginals.length, atlas.social.overview.instagramWithOpenedPosts);
 const checkedFeeds = atlas.social.profiles.flatMap(row => row.liveCheck ? [row.liveCheck] : []);
 assert.equal(atlas.social.overview.browserChecks, checkedFeeds.length);
 assert.equal(atlas.social.overview.visibleBrowserFeeds, checkedFeeds.filter(receipt => receipt.status === "feed-visible").length);
 for (const receipt of checkedFeeds) {
   assert.match(receipt.checked, /^\d{4}-\d{2}-\d{2}$/);
-  assert(["feed-visible", "login-required"].includes(receipt.status));
+  assert(["feed-visible", "grid-visible", "profile-only", "login-required"].includes(receipt.status));
   assert(receipt.detail.trim());
 }
 const copiedProfiles = atlas.social.profiles.filter(row => row.copySample);

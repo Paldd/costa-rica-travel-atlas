@@ -15,6 +15,7 @@ POST_COPY_FIELDS = ("profile", "source", "count", "first", "last", "checked")
 POST_COPY_ITEM_FIELDS = ("profile", "published", "summary", "record")
 PUBLISHER_FIELDS = ("profile", "site", "archive", "checked")
 PROFILE_CHECK_FIELDS = ("profile", "checked", "status", "detail")
+PROFILE_CHECK_STATUSES = {"feed-visible", "grid-visible", "profile-only", "login-required"}
 RANK_FIELDS = ("platform", "profile", "rank", "followers", "precision", "checked", "countSource", "category", "zone")
 SOCIAL_DOMAINS = {
     "Instagram": {"www.instagram.com"},
@@ -87,7 +88,7 @@ def build_social(sources_by_id, record_ids, aliases):
         profile_url = receipt.pop("profile")
         profile = profiles.get(profile_url)
         if (not profile or "liveCheck" in profile or not receipt["detail"]
-                or receipt["status"] not in {"feed-visible", "login-required"}):
+                or receipt["status"] not in PROFILE_CHECK_STATUSES):
             raise ValueError(f"Invalid browser check for {profile_url}")
         receipt["checked"] = date.fromisoformat(receipt["checked"]).isoformat()
         profile["liveCheck"] = receipt
@@ -103,18 +104,30 @@ def build_social(sources_by_id, record_ids, aliases):
     for post in read_table(DATA / "public-posts.tsv", POST_FIELDS):
         profile = profiles.get(post["profile"])
         source = sources_by_id.get(post["source"])
-        if not profile or profile["platform"] != "Facebook" or not source or source["url"] in seen_posts:
+        if not profile or not source:
             raise ValueError(f"Invalid public post entry for {post['source']}")
+        platform = profile["platform"]
         url = urlsplit(source["url"])
-        if url.scheme != "https" or url.hostname not in SOCIAL_DOMAINS["Facebook"] or not any(
-            segment in url.path for segment in ("/posts/", "/reel/", "/videos/")
-        ):
-            raise ValueError(f"Expected a direct Facebook publication for {post['source']}")
-        profile["posts"] += 1
+        path = url.path.rstrip("/")
+        parts = path.strip("/").split("/")
+        if platform == "Instagram":
+            owner = urlsplit(profile["url"]).path.strip("/")
+            valid_path = len(parts) in {2, 3} and parts[-2] in {"p", "reel"} and (
+                len(parts) == 2 or parts[0].lower() == owner.lower()
+            )
+            identity = parts[-1]
+        else:
+            valid_path = len(parts) >= 2 and parts[-2] in {"posts", "reel", "videos"}
+            identity = path
+        key = (platform, identity)
+        if url.scheme != "https" or url.hostname not in SOCIAL_DOMAINS[platform] or not valid_path or key in seen_posts:
+            raise ValueError(f"Expected a distinct direct {platform} publication for {post['source']}")
+        if platform == "Facebook":
+            profile["posts"] += 1
         profile.setdefault("postLinks", []).append({
             "source": source["id"], "checked": date.fromisoformat(post["checked"]).isoformat(),
         })
-        seen_posts.add(source["url"])
+        seen_posts.add(key)
     copy_total = 0
     for sample in read_table(DATA / "public-post-copies.tsv", POST_COPY_FIELDS):
         profile = profiles.get(sample.pop("profile"))
@@ -159,8 +172,14 @@ def build_social(sources_by_id, record_ids, aliases):
             raise ValueError(f"Copy items do not match the sample for {profile['url']}")
     social["overview"]["facebookCopiedPosts"] = copy_total
     social["overview"]["facebookWithCopies"] = sum("copySample" in row for row in profiles.values())
-    social["overview"]["facebookPosts"] = len(seen_posts)
-    social["overview"]["facebookWithPosts"] = sum(bool(row.get("postLinks")) for row in profiles.values())
+    social["overview"]["facebookPosts"] = sum(platform == "Facebook" for platform, _ in seen_posts)
+    social["overview"]["facebookWithPosts"] = sum(
+        row["platform"] == "Facebook" and bool(row.get("postLinks")) for row in profiles.values()
+    )
+    social["overview"]["instagramOpenedPosts"] = sum(platform == "Instagram" for platform, _ in seen_posts)
+    social["overview"]["instagramWithOpenedPosts"] = sum(
+        row["platform"] == "Instagram" and bool(row.get("postLinks")) for row in profiles.values()
+    )
     social["overview"]["publisherLinks"] = sum("publisher" in row for row in profiles.values())
     social["overview"]["publisherArchiveLinks"] = sum(bool(row.get("publisher", {}).get("archive")) for row in profiles.values())
     social["overview"]["browserChecks"] = sum("liveCheck" in row for row in profiles.values())
