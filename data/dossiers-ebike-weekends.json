@@ -1,0 +1,578 @@
+{
+  "altagracia-santa-teresa-emtb": {
+    "stops": [
+      {
+        "point": "alta-emtb-estate",
+        "role": "AltaGracia · встреча и выдача",
+        "note": "Ориентир территории. Подтвердите точку выдачи у отеля."
+      },
+      {
+        "point": "alta-cajon-santa-teresa-plaza",
+        "role": "Santa Teresa de Cajón · район выезда",
+        "note": "Ориентир посёлка. Где именно остановиться, назначает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как проходит полдня",
+        "text": "Foothills Exploration занимает 1,5–2 часа. Гид ведёт по дорогам вокруг усадьбы и посёлка Santa Teresa, сочетая асфальт и грунт. Уклоны уже ощутимы на короткой версии.",
+        "sources": [
+          "alta-emtb-programs",
+          "alta-santa-teresa-osm"
+        ]
+      },
+      {
+        "title": "Подростки и экипировка",
+        "text": "Программа обозначена как средняя, возраст от 14 лет. Назовите рост при бронировании, проверьте шлем и тормоза при выдаче. Спросите о воде, дожде и возможности укоротить поездку.",
+        "sources": [
+          "alta-emtb-programs",
+          "alta-emtb-contact"
+        ]
+      },
+      {
+        "title": "Как добраться",
+        "text": "База расположена у школы Santa Teresa de Cajón в Pérez Zeledón. Это одноимённый горный посёлок. Уточните условия дневного визита, если ночуете в другом месте.",
+        "sources": [
+          "alta-emtb-contact",
+          "alta-ict-hotel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda AltaGracia · отдел активностей",
+        "source": "alta-emtb-contact",
+        "note": "Назовите программу, возраст, рост, уровень, состав группы и укажите, если вы не проживаете в отеле.",
+        "phone": "+506 2105 3000"
+      }
+    ],
+    "nearby": [
+      "altagracia-entre-pueblos-emtb"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "alta-emtb-programs"
+    ]
+  },
+  "altagracia-entre-pueblos-emtb": {
+    "stops": [
+      {
+        "point": "alta-emtb-estate",
+        "role": "AltaGracia · старт с местным гидом",
+        "note": "Здесь согласуют длительность и уклоны."
+      },
+      {
+        "point": "alta-arco-iris-church",
+        "role": "Arco Iris · ориентир одного из трёх посёлков",
+        "note": "Порядок Santa María, Arco Iris и San Pedrito и точки пауз назначает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три деревни в предгорьях",
+        "text": "Усадьба называет Santa María, Arco Iris и San Pedrito. В поездке на 3–4 часа есть сельские дороги между домами, виды на долины и реки. Гид может удлинить или укоротить маршрут по силам группы.",
+        "sources": [
+          "alta-emtb-programs",
+          "alta-arco-iris-osm"
+        ]
+      },
+      {
+        "title": "Что проверить на выдаче",
+        "text": "Усадьба относит маршрут к сложным и принимает участников от 14 лет. Договоритесь о высоте рамы, шлеме, запасе воды и чёткой точке досрочного выхода. Точный километраж запрашивайте для конкретного выезда.",
+        "sources": [
+          "alta-emtb-programs",
+          "alta-emtb-contact"
+        ]
+      },
+      {
+        "title": "Вариант для группы разного уровня",
+        "text": "Для тех, кто впервые едет по горному грунту, у той же базы есть короткая Foothills Exploration на 1,5–2 часа. Ночёвку и вход во внешние зоны уточняйте отдельно.",
+        "sources": [
+          "alta-emtb-programs",
+          "alta-ict-hotel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda AltaGracia · отдел активностей",
+        "source": "alta-emtb-contact",
+        "note": "Назовите программу, возраст, рост, уровень, состав группы и укажите, если вы не проживаете в отеле.",
+        "phone": "+506 2105 3000"
+      }
+    ],
+    "nearby": [
+      "altagracia-santa-teresa-emtb"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "alta-emtb-programs"
+    ]
+  },
+  "barva-adventure-emtb-guided": {
+    "stops": [
+      {
+        "point": "adventure-park-entry",
+        "role": "Adventure Park · въезд, касса и брифинг",
+        "note": "Транспорт и место выдачи согласуйте с Ride Green. Парк находится выше San José de la Montaña."
+      },
+      {
+        "point": "barva-ap-pump-track",
+        "role": "Pump Track · ориентир велоплощадки",
+        "note": "Попросите проверить, какая зона доступна для разминки на вашем типе велосипеда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Синглтреки и аренда",
+        "text": "Ride Green описывает 4 часа катания с гидом и отдельную опцию e-MTB с двумя подвесами. Уточните, включены ли трансфер, парк, велосипед и защита, и назовите опыт на корнях и дропах.",
+        "sources": [
+          "barva-ride-green-emtb",
+          "adventure-bike"
+        ]
+      },
+      {
+        "title": "На своём e-MTB",
+        "text": "В Trailforks есть отдельная выборка для e-bike. Перед оплатой сверьте конкретные открытые ветки и направление движения с парком. После дождя спросите о сокращённом варианте, не переходите на пешеходные тропы.",
+        "sources": [
+          "adventure-park",
+          "barva-trailforks-emtb"
+        ]
+      },
+      {
+        "title": "Что показывают райдеры",
+        "text": "Участник соревнований 2025 года показывает технические участки Avimil Enduro. В форуме Adventure Park советуют тем, кто ищет синглтреки. Видео помогает оценить рельеф. Для обычного визита петлю подбирают отдельно.",
+        "sources": [
+          "barva-emtb-enduro-video",
+          "cr-singletrack-riders"
+        ]
+      },
+      {
+        "title": "Ночёвка",
+        "text": "Лагерь Bosque de Cipreses можно добавить к выезду. Заезд, место под крышную палатку, костёр и хранение батареи уточняйте у парка заранее.",
+        "sources": [
+          "adventure-camp-rules",
+          "adventure-directions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ride Green Adventures · гид и прокат e-MTB",
+        "source": "barva-ride-green-emtb",
+        "note": "Проверьте даты, модель, размер, защиту и трансфер."
+      },
+      {
+        "name": "Adventure Park · доступ к велотропам",
+        "source": "adventure-directions",
+        "note": "Позвоните по контакту на странице парка для допуска своего велосипеда и доступа к лагерю."
+      }
+    ],
+    "nearby": [
+      "barva-adventure-4x4-camp",
+      "barva-adventure-mtb-5",
+      "san-jose-expert-singletrack-emtb-private"
+    ],
+    "connectStops": false,
+    "videos": [
+      "barva-emtb-enduro-video"
+    ],
+    "galleries": [
+      "barva-trailforks-emtb",
+      "barva-ride-green-emtb"
+    ]
+  },
+  "catalinas-old-school-waterfall-emtb": {
+    "stops": [
+      {
+        "point": "pura-vida-ride",
+        "role": "Pura Vida Ride · брифинг и выдача",
+        "note": "Точный маршрут и возврат согласуйте у стойки."
+      },
+      {
+        "point": "las-catalinas",
+        "role": "Playa Danta · район базы и кафе",
+        "note": "Заполните фляги до выезда. Водопад и остановки гид обозначает после согласования поездки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длинная программа",
+        "text": "В текущем каталоге Pura Vida Ride указан тур E-Bike Old School Waterfall на 6–8 часов. Перед бронированием запросите время движения, вид покрытия, сложность спусков, длину и высотный профиль.",
+        "sources": [
+          "catalinas-emtb-rent",
+          "catalinas-pvr-tour-legacy"
+        ]
+      },
+      {
+        "title": "Комплектация и вода",
+        "text": "Согласуйте тип и размер e-MTB, защиту, заряд батареи, питьевую воду, обед и способ возвращения раньше. На жару, дождь и уровень воды попросите запасной вариант на велосети у Данты.",
+        "sources": [
+          "catalinas-emtb-rent",
+          "catalinas-contact"
+        ]
+      },
+      {
+        "title": "Что известно о местных тропах",
+        "text": "Райдеры отмечают синглтреки Лас-Каталинас. Для выезда без целого дня есть опубликованный короткий круг и длинный круг у берега. Назначение водопада и линия полного выезда остаются у гида.",
+        "sources": [
+          "catalinas-forum-flow",
+          "catalinas-ride"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pura Vida Ride · Playa Danta",
+        "source": "catalinas-contact",
+        "note": "Запросите Old School Waterfall, водопад, состояние троп и параметры батареи."
+      }
+    ],
+    "nearby": [
+      "catalinas-emtb-12",
+      "catalinas-mtb-25",
+      "dantita-shore-walk"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "catalinas-emtb-rent",
+      "catalinas-ride"
+    ]
+  },
+  "guachipelin-emtb-base": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Hacienda Guachipelín · район Adventure Center",
+        "note": "Сверьте подъезд к регистратуре и прокату."
+      },
+      {
+        "point": "guachipelin-thermal-point",
+        "role": "Río Negro Hot Springs · отдельная остановка",
+        "note": "Термальный визит можно запланировать после проката. Проверьте способ подъезда и бронь."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор троп",
+        "text": "Hacienda описывает Tropical Trails с вариантами для начинающих, среднего и опытного уровня. Попросите показать разрешённые для e-MTB ветки и короткую петлю с возвращением к той же базе.",
+        "sources": [
+          "guachipelin-mtb-current",
+          "guachipelin-emtb-singletrack"
+        ]
+      },
+      {
+        "title": "Свой e-MTB или аренда",
+        "text": "В блоге Hacienda есть электрический вариант. В основном каталоге опубликована аренда MTB без указания привода. Подтвердите электрическую модель и размер, либо согласуйте въезд на своём e-MTB.",
+        "sources": [
+          "guachipelin-emtb-option",
+          "guachipelin-mtb-current"
+        ]
+      },
+      {
+        "title": "Что говорят райдеры",
+        "text": "Guachipelín упоминают вместе с Río Perdido и Las Catalinas как место для MTB в Гуанакасте. Семье с разным опытом удобна выделенная велобаза и отдельная остановка у терм.",
+        "sources": [
+          "guachipelin-bike-forum",
+          "guachipelin-mtb-current"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Center · Hacienda Guachipelín",
+        "source": "guachipelin-mtb-current",
+        "note": "Запросите наличие e-MTB, подходящие ветки, доступ со своим велосипедом и возврат на базу.",
+        "phone": "+506 2690 2900",
+        "email": "info@guachipelin.com",
+        "whatsapp": "https://wa.me/50626902900"
+      }
+    ],
+    "nearby": [
+      "rincon-guachipelin-rider-emtb-53",
+      "guachipelin",
+      "rio-negro-guachipelin-tubing"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "guachipelin-emtb-singletrack",
+      "guachipelin-emtb-option"
+    ]
+  },
+  "rincon-guachipelin-rider-emtb-53": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Guachipelín · ориентир для проверки маршрута",
+        "note": "Уточните точное начало на треке fpignani и доступ у хозяев. Карта атласа показывает базу."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Покрытие по отчёту",
+        "text": "По данным автора 52,81 км с набором 1 116 м. В первой части асфальт и гравий. Дальше чередуются подъёмы и спуски, участок известняка и заросший лесной отрезок с ветками и камнями.",
+        "sources": [
+          "guachipelin-ebike-rider"
+        ]
+      },
+      {
+        "title": "Доступ и река",
+        "text": "Автор вспоминает участок, где пришлось переносить велосипед. Перед попыткой подтвердите право проезда и возможность объезда. При воде на переходе или закрытом доступе вернитесь по проверенному отрезку.",
+        "sources": [
+          "guachipelin-ebike-rider",
+          "guachipelin-mtb-current"
+        ]
+      },
+      {
+        "title": "Навигация и короткий вариант",
+        "text": "Сохраните карту и профиль на странице автора. Уточните время на сухом и мокром покрытии, запас воды и заряд. Для короткого выезда попросите у Adventure Center разрешённую петлю рядом с базой.",
+        "sources": [
+          "guachipelin-ebike-rider",
+          "guachipelin-emtb-singletrack"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Center · Hacienda Guachipelín",
+        "source": "guachipelin-mtb-current",
+        "note": "Запросите наличие e-MTB, подходящие ветки, доступ со своим велосипедом и возврат на базу.",
+        "phone": "+506 2690 2900",
+        "email": "info@guachipelin.com",
+        "whatsapp": "https://wa.me/50626902900"
+      }
+    ],
+    "nearby": [
+      "guachipelin-emtb-base",
+      "rincon-lower-slopes-coco-emtb-day"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "guachipelin-ebike-rider",
+      "guachipelin-emtb-singletrack"
+    ]
+  },
+  "atenas-estanquillos-emtb-42": {
+    "stops": [
+      {
+        "point": "atenas-estanquillos-village",
+        "role": "Estanquillos · район старта и финиша",
+        "note": "Согласуйте парковку в посёлке и сверьте исходный старт."
+      },
+      {
+        "point": "atenas-escobal-locality",
+        "role": "Escobal · район перед подъёмом к Barroeta",
+        "note": "Ориентир посёлка. Точный поворот и конец укороченной версии смотрите в авторском треке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Горный круг у Атенаса",
+        "text": "Местные райдеры указывают 41,98 км и набор 1 663 м. Они проехали через Jesús, Guácimos и Escobal, затем взяли подъём к Barroeta и Alto del Monte и вышли к Desmonte.",
+        "sources": [
+          "atenas-emtb-estanquillos-track",
+          "atenas-jesus-official"
+        ]
+      },
+      {
+        "title": "Почему стоит предусмотреть сокращение",
+        "text": "В отчёте есть крутые спуски, рыхлый камень, участки грязи и бетонные рампы. У La Guatusa авторам пришлось идти пешком после дождей. В Alto del Monte можно отказаться от финальной петли, проверив обратный ход по карте заранее.",
+        "sources": [
+          "atenas-emtb-estanquillos-track",
+          "cr-riding-trainerroad"
+        ]
+      },
+      {
+        "title": "Подготовка",
+        "text": "Скачайте доступный трек у автора. Для выезда рекомендуется своя исправная e-MTB, шлем, запас воды, свет, комплект для прокола и заряд на длинные подъёмы. Условия подключения зарядника и проезда через ворота проверяют по месту.",
+        "sources": [
+          "atenas-emtb-estanquillos-track",
+          "cr-road-cycle-law"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "orotina-bajamar-trinidad-54",
+      "sarchi-bajos-toro-ebike-rider-report"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "atenas-emtb-estanquillos-track"
+    ]
+  },
+  "escazu-ventolera-salitral-emtb-15": {
+    "stops": [
+      {
+        "point": "escazu-bebedero-locality",
+        "role": "Bebedero · церковь по авторскому описанию",
+        "note": "Первый узнаваемый ориентир после выезда из Escazú."
+      },
+      {
+        "point": "escazu-ventolera-sector",
+        "role": "La Ventolera · горный ориентир",
+        "note": "Сверьте фактический проход и состояние спуска по треку и на месте."
+      },
+      {
+        "point": "santa-ana-salitral-town",
+        "role": "Salitral · встреча с машиной",
+        "note": "Остановка как навигационный ориентир в районе финиша. Точное место назначьте водителю."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Много высоты на коротком маршруте",
+        "text": "Javier Rodriguez Tinoco публикует 15,37 км и 1 029 м набора. По его описанию, от старта до церкви Bebedero около 4,9 км, до La Ventolera около 6,8 км. Следуйте актуальной карте автора.",
+        "sources": [
+          "escazu-ventolera-ebike-rider",
+          "escazu-bebedero-park-osm",
+          "escazu-ventolera-osm"
+        ]
+      },
+      {
+        "title": "Логистика и укороченный вариант",
+        "text": "Маршрут линейный, из Escazú к Salitral. Предусмотрите встречу на стороне Santa Ana, либо спланируйте свой возврат. При первых признаках сложного покрытия можно закончить поездку у Bebedero и вернуться тем же проверенным путём.",
+        "sources": [
+          "escazu-ventolera-ebike-rider",
+          "santa-ana-salitral-osm"
+        ]
+      },
+      {
+        "title": "Что проверить",
+        "text": "Синглтрек, дорога и право прохода зависят от выбранной ветки. По форуму, в горах покрытие может меняться быстро. Проверьте ворота, тормоза, заряд и маршрут выхода перед подъёмом.",
+        "sources": [
+          "escazu-ventolera-ebike-rider",
+          "cr-riding-trainerroad"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "barva-adventure-emtb-guided"
+    ],
+    "connectStops": false,
+    "galleries": []
+  },
+  "cartago-orosi-ujarras-ebike-52": {
+    "stops": [
+      {
+        "point": "cartago-basilica-angles",
+        "role": "Basílica de los Ángeles · 3,4 км по отчёту",
+        "note": "Полезная остановка ещё в городе. Точное начало круга указано на странице автора."
+      },
+      {
+        "point": "mirador-ujarras-224-access",
+        "role": "Mirador Ujarrás · 13,8 км по отчёту",
+        "note": "Смотровая. Проверьте режим работы у ICT и подход к площадке."
+      },
+      {
+        "point": "orosi-iglesia-colonial",
+        "role": "Iglesia de Orosí · 33,7 км по отчёту",
+        "note": "Пауза на кофе и воду в посёлке перед оставшейся частью круга."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что связывает маршрут",
+        "text": "Авторский круг начинается в районе Turbina и проходит через Картаго, смотровую Ухарраса и церковь в Ороси. Длина 51,79 км, набор 799 м. ICT публикует информацию по смотровым и руинам долины.",
+        "sources": [
+          "cartago-orosi-ebike-rider",
+          "ict-orosi-ujarras-lookout-report"
+        ]
+      },
+      {
+        "title": "Условия на дороге",
+        "text": "Выезд проходит по улицам и местным дорогам. Рассчитывайте на совместное движение с автомобилями и спуски к долине. На короткую версию есть отдельный дорожный круг Ороси — Качи с картой.",
+        "sources": [
+          "cartago-orosi-ebike-rider",
+          "cr-riding-trainerroad",
+          "cr-road-cycle-law"
+        ]
+      },
+      {
+        "title": "Кофе и запас батареи",
+        "text": "Планируйте остановку в Ороси. Прикиньте заряд с учётом подъёмов на возвращении. У кафе запросите согласие на зарядку до поездки, если без неё круг не сходится.",
+        "sources": [
+          "cartago-orosi-ebike-rider",
+          "orosi-colonial-church-osm"
+        ]
+      }
+    ],
+    "contacts": [],
+    "nearby": [
+      "orosi-cachi-224-32",
+      "cafe-1743-orosi",
+      "orosi-hot"
+    ],
+    "connectStops": false,
+    "photos": [
+      "orosi-valley"
+    ],
+    "galleries": [
+      "cartago-orosi-ebike-rider"
+    ]
+  },
+  "orosi-tucurrique-emtb-42": {
+    "stops": [
+      {
+        "point": "orosi-iglesia-colonial",
+        "role": "Orosí · ориентир на стороне старта",
+        "note": "Начальную точку сверяйте по карте автора."
+      },
+      {
+        "point": "tucurrique-town-emtb",
+        "role": "Tucurrique · ориентир на стороне финиша",
+        "note": "Координата посёлка помогает договориться о встрече. Конец исходного трека определяет авторская карта."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Этап по дневнику райдера",
+        "text": "Следуйте треку CR en etapas #8. Он опубликован с профилем, 42,16 км и +1 688 м. Сохраните исходную карту офлайн перед выездом и проверьте, где на горном участке можно выйти к машине.",
+        "sources": [
+          "orosi-tucurrique-ebike-rider",
+          "tucurrique-town-location"
+        ]
+      },
+      {
+        "title": "Сокращение и снаряжение",
+        "text": "Для поездки разного уровня удобнее выбрать участок с возвратом у Ороси или дорожный круг до Качи. Для длинного этапа важны знакомая батарея, запас воды, ремонтный комплект, дождевик и подтверждённая встреча на финише.",
+        "sources": [
+          "orosi-tucurrique-ebike-rider",
+          "cr-riding-trainerroad"
+        ]
+      },
+      {
+        "title": "Организованная поездка по региону",
+        "text": "ARA Tours предлагает путешествие на e-MTB по долине Ороси, Tapantí и стороне La Suiza de Turrialba с гидом. Уточняйте отдельные этапы и допуск к конкретным участкам у оператора.",
+        "sources": [
+          "ara-pura-vida-ebike-itinerary",
+          "ara-pura-vida-ebike-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ARA Tours · организованная программа по региону",
+        "source": "ara-pura-vida-ebike-itinerary",
+        "note": "Запросите программу с картой, длиной этапов, комплектацией и поддержкой.",
+        "phone": "+506 2232 0400"
+      }
+    ],
+    "nearby": [
+      "orosi-cachi-224-32",
+      "orosi-tapanti-ranch-camp",
+      "turrialba-ebike-halfday"
+    ],
+    "connectStops": false,
+    "photos": [
+      "orosi-valley"
+    ],
+    "videos": [
+      "ara-pura-vida-ebike-video"
+    ],
+    "galleries": [
+      "orosi-tucurrique-ebike-rider"
+    ]
+  }
+}

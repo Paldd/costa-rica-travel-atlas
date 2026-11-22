@@ -385,6 +385,16 @@
           "catalinas-ride",
           "catalinas-water"
         ]
+      },
+      {
+        "title": "Длинная петля с гидом на e-MTB",
+        "text": "Pura Vida Ride публикует Single Track Long Loop с электрическим MTB. Для формата с гидом указан ориентир 2,5 часа. Длина до 25 км относится к опубликованному длинному кругу сети. Попросите актуальную карту, открытые тропы, защиту и подходящий размер велосипеда.",
+        "sources": [
+          "catalinas-emtb-rent",
+          "catalinas-pvr-tour-legacy",
+          "catalinas-ride",
+          "catalinas-forum-flow"
+        ]
       }
     ],
     "contacts": [
@@ -398,7 +408,8 @@
       "catalinas-emtb-12",
       "catalinas-bike",
       "catalinas-sup",
-      "pinilla-emtb"
+      "pinilla-emtb",
+      "catalinas-old-school-waterfall-emtb"
     ]
   },
   "cafe-1743-orosi": {
