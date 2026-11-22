@@ -138,7 +138,7 @@ export function chosenActivities(query) {
 function hasMaterial(record, material) {
   const dossier = record.dossier;
   switch (material) {
-    case "photo": return Boolean(dossier?.photos?.length);
+    case "photo": return Boolean(dossier?.photos?.length || dossier?.stageCover);
     case "gallery": return Boolean(dossier?.galleries?.length);
     case "video": return Boolean(dossier?.videos?.length);
     case "report": return Boolean(record.reportSources?.length || record.posts?.length);

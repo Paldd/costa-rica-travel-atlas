@@ -1,0 +1,721 @@
+{
+  "aranjuez-encanto": {
+    "galleries": [
+      "encanto-municipal"
+    ]
+  },
+  "aventuras-cafe-puerto-jimenez": {
+    "galleries": [
+      "aventuras-cafe-osa-direct"
+    ]
+  },
+  "avesol-pacuare-3": {
+    "galleries": [
+      "media-pacuare-raft-lodge",
+      "avesol-river-program"
+    ]
+  },
+  "babsita-roof-estrella": {
+    "galleries": [
+      "babsita-camping-direct",
+      "babsita-paddle-direct"
+    ]
+  },
+  "baldi": {
+    "galleries": [
+      "baldi-day-pass",
+      "baldi-family-area"
+    ]
+  },
+  "balsa-rafting": {
+    "galleries": [
+      "balsa-operator-program"
+    ]
+  },
+  "barbilla": {
+    "photos": [
+      "atlas-barbilla-ranger"
+    ],
+    "videos": [
+      "media-barbilla-teletica"
+    ]
+  },
+  "barra-honda": {
+    "galleries": [
+      "media-barrahonda-album"
+    ],
+    "videos": [
+      "media-barrahonda-cave"
+    ]
+  },
+  "baru-waterfalls-3": {
+    "photos": [
+      "atlas-nauyaca-arch"
+    ],
+    "videos": [
+      "media-nauyaca-lulo",
+      "media-nauyaca-nature"
+    ],
+    "galleries": [
+      "media-nauyaca-commons"
+    ]
+  },
+  "cano-negro-lagoon-weekend-2": {
+    "photos": [
+      "cano-rio-frio-bernard"
+    ]
+  },
+  "cano-negro-local-boat": {
+    "photos": [
+      "cano-rio-frio-bernard"
+    ]
+  },
+  "caribe-bus-3": {
+    "photos": [
+      "atlas-cocles-manzanillo"
+    ]
+  },
+  "central-bosque-quemado-5": {
+    "photos": [
+      "atlas-turri-volcano-cone"
+    ]
+  },
+  "central-la-tiendilla-7": {
+    "photos": [
+      "atlas-turri-volcano-cone"
+    ]
+  },
+  "central-ruta-pilas-10": {
+    "photos": [
+      "atlas-turri-volcano-cone"
+    ]
+  },
+  "cerro-pelado": {
+    "galleries": [
+      "media-qbl-cerro-pelado"
+    ],
+    "videos": [
+      "media-cerro-pelado-wind"
+    ]
+  },
+  "cerro-tortuguero": {
+    "galleries": [
+      "tortuguero-acto-sectors"
+    ]
+  },
+  "chirripo": {
+    "photos": [
+      "atlas-chirripo-valley-arch"
+    ]
+  },
+  "chirripo-3": {
+    "photos": [
+      "atlas-chirripo-valley-arch"
+    ]
+  },
+  "cloudbridge": {
+    "photos": [
+      "atlas-cloudbridge-reception",
+      "atlas-cloudbridge-trail"
+    ],
+    "videos": [
+      "media-cloudbridge-walk"
+    ],
+    "galleries": [
+      "media-cloudbridge-album"
+    ]
+  },
+  "cocles": {
+    "photos": [
+      "atlas-cocles-wave",
+      "atlas-cocles-manzanillo"
+    ]
+  },
+  "coffee-britt": {
+    "galleries": [
+      "media-britt-producer"
+    ]
+  },
+  "coffee-doka": {
+    "galleries": [
+      "media-doka-visit"
+    ]
+  },
+  "conchal": {
+    "photos": [
+      "atlas-conchal-point"
+    ]
+  },
+  "conchal-refugio-visit": {
+    "photos": [
+      "atlas-conchal-point"
+    ]
+  },
+  "conchal-reserva-five-trails": {
+    "photos": [
+      "atlas-conchal-point"
+    ]
+  },
+  "corcovado-sirena": {
+    "photos": [
+      "atlas-sirena-corco"
+    ]
+  },
+  "costa-ballena-rooftop-surf-3": {
+    "photos": [
+      "atlas-ballena-coast"
+    ]
+  },
+  "curi-cancha": {
+    "galleries": [
+      "curi-local-guide"
+    ]
+  },
+  "cusinga": {
+    "galleries": [
+      "cusinga"
+    ]
+  },
+  "diamante": {
+    "galleries": [
+      "diamante-passes",
+      "diamante-superman-rules"
+    ]
+  },
+  "dominical-surf": {
+    "photos": [
+      "atlas-dominical-shore"
+    ]
+  },
+  "el-camino-102": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-3": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-34": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-crossing": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-10": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-12": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-13": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-14": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-15": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-16": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-1a": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-1b": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-2": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-3": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-4": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-5": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-6": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-7": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-8": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "el-camino-etapa-9": {
+    "galleries": [
+      "media-camino-urri-gallery"
+    ]
+  },
+  "encanto-summit-short": {
+    "galleries": [
+      "encanto-municipal"
+    ]
+  },
+  "esterillos-aloha-surf": {
+    "galleries": [
+      "aloha-esterillos-family-instructor"
+    ]
+  },
+  "fortuna-falls": {
+    "photos": [
+      "atlas-fortuna-catarata"
+    ],
+    "galleries": [
+      "media-fortuna-adifort"
+    ]
+  },
+  "gandoca": {
+    "photos": [
+      "atlas-cocles-manzanillo"
+    ]
+  },
+  "gandoca-lagoon-local-paddle": {
+    "galleries": [
+      "gandoca-tours-kayak-lagoon"
+    ]
+  },
+  "golfito-jimenez-passenger-boat": {
+    "photos": [
+      "atlas-puerto-jimenez-arch"
+    ]
+  },
+  "golfo-dulce-weekend-no-car": {
+    "photos": [
+      "atlas-puerto-jimenez-arch"
+    ]
+  },
+  "hacienda-ceiba": {
+    "galleries": [
+      "media-monte-claro-trails"
+    ]
+  },
+  "iguana-school": {
+    "galleries": [
+      "iguana-surf"
+    ]
+  },
+  "jaco-pastor-diaz-ebike-4": {
+    "photos": [
+      "atlas-jaco-shore"
+    ]
+  },
+  "jaco-surf": {
+    "photos": [
+      "atlas-jaco-shore"
+    ]
+  },
+  "jaguar-rescue": {
+    "videos": [
+      "media-jrc-tour-report"
+    ],
+    "galleries": [
+      "media-jrc-field-images"
+    ]
+  },
+  "kalambu": {
+    "galleries": [
+      "kalambu-water-park"
+    ]
+  },
+  "la-central-calle-pastora": {
+    "photos": [
+      "atlas-turri-volcano-cone"
+    ]
+  },
+  "la-leona-curubande": {
+    "galleries": [
+      "leona-adventure-access"
+    ]
+  },
+  "la-marta": {
+    "galleries": [
+      "media-qbl-la-marta"
+    ],
+    "videos": [
+      "media-la-marta-visit"
+    ]
+  },
+  "la-marta-mina": {
+    "galleries": [
+      "media-qbl-la-marta"
+    ],
+    "videos": [
+      "media-la-marta-visit"
+    ]
+  },
+  "la-paz-waterfalls": {
+    "galleries": [
+      "media-la-paz-report"
+    ]
+  },
+  "laguna-hule-paddle-visit": {
+    "photos": [
+      "atlas-hule-crater"
+    ]
+  },
+  "laguna-hule-trail": {
+    "photos": [
+      "atlas-hule-crater"
+    ]
+  },
+  "laguna-rio-cuarto-paddle": {
+    "galleries": [
+      "finca360-rio-cuarto-lake"
+    ]
+  },
+  "los-quetzales": {
+    "photos": [
+      "atlas-quetzales-scrub"
+    ],
+    "videos": [
+      "media-quetzales-walk"
+    ]
+  },
+  "lucha-bike": {
+    "galleries": [
+      "lucha"
+    ]
+  },
+  "lucha-camping": {
+    "galleries": [
+      "lucha"
+    ]
+  },
+  "lucha-walk": {
+    "galleries": [
+      "lucha"
+    ]
+  },
+  "lucha-weekend": {
+    "galleries": [
+      "lucha"
+    ]
+  },
+  "manuel-antonio": {
+    "photos": [
+      "atlas-manuel-antonio-shore"
+    ]
+  },
+  "marino-ballena": {
+    "photos": [
+      "atlas-ballena-coast"
+    ]
+  },
+  "monte-claro-colibri": {
+    "galleries": [
+      "media-monte-claro-trails"
+    ]
+  },
+  "monte-claro-garza": {
+    "galleries": [
+      "media-monte-claro-trails"
+    ]
+  },
+  "monte-claro-geco": {
+    "galleries": [
+      "media-monte-claro-trails"
+    ]
+  },
+  "monte-claro-nutria": {
+    "galleries": [
+      "media-monte-claro-trails"
+    ]
+  },
+  "monte-claro-pizote": {
+    "galleries": [
+      "media-monte-claro-trails"
+    ]
+  },
+  "monte-de-la-cruz": {
+    "galleries": [
+      "monte-muni"
+    ],
+    "videos": [
+      "media-monte-cruz-visit"
+    ]
+  },
+  "morpho-azul": {
+    "galleries": [
+      "media-monte-claro-trails"
+    ]
+  },
+  "nauyaca-don-lulo": {
+    "photos": [
+      "atlas-nauyaca-arch",
+      "atlas-nauyaca-pool"
+    ],
+    "videos": [
+      "media-nauyaca-lulo"
+    ],
+    "galleries": [
+      "media-nauyaca-commons"
+    ]
+  },
+  "nauyaca-nature": {
+    "photos": [
+      "atlas-nauyaca-arch",
+      "atlas-nauyaca-pool"
+    ],
+    "videos": [
+      "media-nauyaca-nature"
+    ],
+    "galleries": [
+      "media-nauyaca-commons"
+    ]
+  },
+  "pacuare-avesol": {
+    "galleries": [
+      "media-pacuare-raft-lodge",
+      "avesol-river-program"
+    ]
+  },
+  "pacuare-day": {
+    "galleries": [
+      "media-pacuare-raft-lodge"
+    ]
+  },
+  "pacuare-own-craft": {
+    "galleries": [
+      "poc-rent",
+      "pacuare-whitewater"
+    ]
+  },
+  "pacuare-weekend": {
+    "galleries": [
+      "media-pacuare-raft-lodge"
+    ]
+  },
+  "paquera-bioluminescence-kayak": {
+    "galleries": [
+      "media-paquera-biolum-eddy"
+    ]
+  },
+  "poas": {
+    "photos": [
+      "atlas-poas-crater"
+    ],
+    "videos": [
+      "media-poas-visit"
+    ]
+  },
+  "puerto-jimenez-inshore-boat": {
+    "photos": [
+      "atlas-puerto-jimenez-arch"
+    ]
+  },
+  "puerto-viejo-bike-manzanillo": {
+    "photos": [
+      "atlas-cocles-manzanillo"
+    ]
+  },
+  "rincon-cangreja-10": {
+    "galleries": [
+      "cangreja-guachipelin"
+    ]
+  },
+  "rincon-pailas": {
+    "photos": [
+      "atlas-rincon-pailas"
+    ]
+  },
+  "rincon-santa-maria": {
+    "galleries": [
+      "acg-booking"
+    ]
+  },
+  "rio-celeste-tubing": {
+    "galleries": [
+      "media-rio-celeste-op-gallery",
+      "media-rio-celeste-tubing-pics"
+    ],
+    "videos": [
+      "media-rio-celeste-vimeo"
+    ]
+  },
+  "rio-estrella-babsita-paddle": {
+    "galleries": [
+      "babsita-paddle-direct"
+    ]
+  },
+  "rios-lodge-own-kayak": {
+    "galleries": [
+      "media-rios-lodge-activities"
+    ]
+  },
+  "sarapiqui-float": {
+    "photos": [
+      "atlas-sarapiqui-river"
+    ]
+  },
+  "sarapiqui-jungle-kayak-10": {
+    "photos": [
+      "atlas-sarapiqui-river"
+    ]
+  },
+  "sarapiqui-kayak-camp-3": {
+    "photos": [
+      "atlas-sarapiqui-river"
+    ]
+  },
+  "sarapiqui-raft": {
+    "photos": [
+      "atlas-sarapiqui-river"
+    ]
+  },
+  "savegre": {
+    "photos": [
+      "atlas-dota-sav"
+    ]
+  },
+  "savegre-abajo-family-14": {
+    "galleries": [
+      "rafiki-savegre-rafting-family",
+      "media-finca-savegre-pics"
+    ]
+  },
+  "selvatura": {
+    "galleries": [
+      "media-selvatura-press"
+    ]
+  },
+  "senderos-colon-mary-10k": {
+    "videos": [
+      "media-colon-hiking"
+    ]
+  },
+  "senderos-colon-mtb": {
+    "videos": [
+      "media-colon-downhill"
+    ],
+    "galleries": [
+      "media-colon-trailforks"
+    ]
+  },
+  "senderos-colon-mtb-laja-11": {
+    "galleries": [
+      "media-colon-trailforks"
+    ]
+  },
+  "senderos-colon-run": {
+    "videos": [
+      "media-colon-hiking"
+    ]
+  },
+  "tabacon": {
+    "galleries": [
+      "media-tabacon-owner"
+    ]
+  },
+  "tapanti": {
+    "photos": [
+      "atlas-tapanti-rio"
+    ],
+    "galleries": [
+      "tapanti-local-trip"
+    ],
+    "videos": [
+      "media-tapanti-trip"
+    ]
+  },
+  "tenorio-celeste": {
+    "photos": [
+      "atlas-tenorio-blue"
+    ],
+    "galleries": [
+      "media-rio-celeste-op-gallery"
+    ]
+  },
+  "tortuguero-canals": {
+    "photos": [
+      "atlas-tortuguero-river"
+    ],
+    "videos": [
+      "media-tortuguero-film"
+    ],
+    "galleries": [
+      "tortuguero-acto-sectors"
+    ]
+  },
+  "tortuguero-mora-canoe-kayak": {
+    "photos": [
+      "atlas-tortuguero-river"
+    ],
+    "videos": [
+      "media-tortuguero-film"
+    ]
+  },
+  "tortuguero-no-car": {
+    "photos": [
+      "atlas-tortuguero-river",
+      "atlas-tortuguero-village"
+    ],
+    "videos": [
+      "media-tortuguero-film"
+    ],
+    "galleries": [
+      "tortuguero-acto-sectors"
+    ]
+  },
+  "turri-irika-mtb": {
+    "galleries": [
+      "irika-mtb-field"
+    ]
+  },
+  "turrialba": {
+    "photos": [
+      "atlas-turri-volcano-cone"
+    ]
+  },
+  "turrialba-packraft-3": {
+    "galleries": [
+      "poc-rent",
+      "avesol"
+    ]
+  },
+  "vista-suenos": {
+    "galleries": [
+      "herradura-adventure-faq"
+    ]
+  }
+}

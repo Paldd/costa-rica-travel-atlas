@@ -2,6 +2,7 @@
 
 import csv
 import json
+import re
 from datetime import date
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -241,6 +242,49 @@ def report_sources(record, sources_by_id):
     return list(reports.values())
 
 
+def video_source(source):
+    if source["kind"] == "video":
+        return True
+    url = urlsplit(source["url"])
+    host = (url.hostname or "").removeprefix("www.").removeprefix("m.")
+    if host == "instagram.com":
+        return bool(re.fullmatch(r"/reels?/[\w-]+/?", url.path))
+    if host == "facebook.com":
+        return bool(re.fullmatch(r"/(?:reel/|[^/]+/videos/)\d+/?", url.path))
+    return host in {"youtube.com", "youtu.be"} and (
+        url.path == "/watch" and "v=" in url.query
+        or bool(re.fullmatch(r"/(?:shorts/|live/)?[\w-]{11}/?", url.path))
+    )
+
+
+def reusable_media(record, sources, gallery_ids):
+    dossier = record["dossier"]
+    references = [
+        *record["sources"],
+        *(ref for section in dossier.get("sections", []) for ref in section["sources"]),
+    ]
+    additions = {
+        "galleries": (ref for ref in references if ref in gallery_ids or sources[ref]["kind"] == "gallery"),
+        "videos": (ref for ref in references if video_source(sources[ref])),
+    }
+    for field, ids in additions.items():
+        existing = dossier.get(field, [])
+        known_urls = {sources[ref]["url"].rstrip("/") for ref in existing}
+        # Keep editorial choices first. Additional media already has a source on this card.
+        for ref in ids:
+            url = sources[ref]["url"].rstrip("/")
+            if url not in known_urls:
+                existing.append(ref)
+                known_urls.add(url)
+        if existing:
+            dossier[field] = existing
+    if dossier.get("galleries") and dossier.get("videos"):
+        video_urls = {sources[ref]["url"].rstrip("/") for ref in dossier["videos"] if video_source(sources[ref])}
+        dossier["galleries"] = [
+            ref for ref in dossier["galleries"] if sources[ref]["url"].rstrip("/") not in video_urls
+        ]
+
+
 def main():
     sources = list(read_sources())
     sources_by_id = {source["id"]: source for source in sources}
@@ -270,11 +314,17 @@ def main():
             or any(urlsplit(photo.get(field, "")).scheme != "https" for field in ("original", "licenseUrl"))
         ):
             raise ValueError(f"Missing image or photo credit for {key}")
+    media_path = DATA / "card-media.json"
+    media_edits = json.loads(media_path.read_text(encoding="utf-8")) if media_path.exists() else {}
     dossiers = {}
     for path in sorted(DATA.glob("dossiers*.json")):
         for key, dossier in json.loads(path.read_text()).items():
             if key in dossiers:
                 raise ValueError(f"Duplicate dossier for {key}")
+            for field, refs in media_edits.get(key, {}).items():
+                if field not in {"photos", "videos", "galleries"} or not isinstance(refs, list):
+                    raise ValueError(f"Invalid media field for {key}: {field}")
+                dossier[field] = list(dict.fromkeys([*dossier.get(field, []), *refs]))
             dossier["stops"] = [
                 {**stop, **points[stop["point"]]} for stop in dossier.get("stops", [])
             ]
@@ -288,6 +338,9 @@ def main():
                 if len(media) != len(set(media)) or any(source not in sources_by_id for source in media):
                     raise ValueError(f"Unknown or repeated {field} source for {key}")
             dossiers[key] = dossier
+    if unknown_media := media_edits.keys() - dossiers.keys():
+        raise ValueError(f"Media for unknown dossiers: {', '.join(sorted(unknown_media))}")
+    gallery_ids = {ref for dossier in dossiers.values() for ref in dossier.get("galleries", [])}
 
     records = list(read_records())
     guides = [
@@ -324,6 +377,7 @@ def main():
             if "nearby" in dossier:
                 dossier["nearby"] = [aliases.get(link, link) for link in dossier["nearby"]]
             record["dossier"] = dossier
+            reusable_media(record, sources_by_id, gallery_ids)
         if reports := report_sources(record, sources_by_id):
             record["reportSources"] = reports
     if unknown_checks := checked_by_record.keys() - known_records:
@@ -336,6 +390,12 @@ def main():
             for stop in stage["stops"]:
                 if stop not in known_records or stop == record["id"]:
                     raise ValueError(f"Unknown or circular stop {stop} in {record['id']}")
+        dossier = record.get("dossier")
+        if dossier and not dossier.get("photos"):
+            for stop in (key for stage in record.get("stages", []) for key in stage["stops"]):
+                if photo := next(iter(dossiers.get(stop, {}).get("photos", [])), None):
+                    dossier["stageCover"] = {**photo, "caption": f"Остановка · {photo['caption']}", "record": stop}
+                    break
     out = ROOT / "public" / "atlas.json"
     out.write_text(json.dumps({
         "checked": metadata["checked"], "records": records, "recordAliases": aliases,

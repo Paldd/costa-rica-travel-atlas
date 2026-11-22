@@ -5,6 +5,7 @@ import { createOsmMap, routePathStyle } from "./osmMap.js";
 import { downloadGpx, openMapLines } from "./gpx.js";
 
 const mapUrl = ([lat, lon]) => `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
+const osmPointUrl = ([lat, lon]) => `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=16/${lat}/${lon}`;
 
 export default function RouteMap({ record, stops, track, line, lines, sources, connectStops = true }) {
   const container = useRef(null);
@@ -124,7 +125,11 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
             <span><strong>{stop.name}</strong><small>{stop.role}</small></span>
           </button>
           {stop.note && <p>{stop.note}</p>}
-          <a href={mapUrl(stop.coords)} target="_blank" rel="noopener noreferrer">Открыть точку</a>
+          <div className="point-links">
+            <a href={mapUrl(stop.coords)} target="_blank" rel="noopener noreferrer">Открыть точку</a>
+            <a href={stop.source === "osm-cr-points" ? osmPointUrl(stop.coords) : sources[stop.source].url}
+              target="_blank" rel="noopener noreferrer">Источник координат</a>
+          </div>
         </li>)}
       </ol>
     </div>

@@ -2,13 +2,14 @@ import React, { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useStat
 import { createRoot } from "react-dom/client";
 import {
   ArrowLeft, ArrowRight, ArrowUpRight, Bookmark, Clock3, Compass, List,
-  Map as MapIcon, MapPin, Mountain, Plus, Search, Users, CarFront, ChevronDown, X,
+  Map as MapIcon, MapPin, Mountain, Plus, Search, Users, CarFront, ChevronDown, Camera, CirclePlay, X,
 } from "lucide-react";
 import {
   accessModes, activities, audiences, chosenActivities, countries, difficulty, durationLabel, filters, fold, kinds,
   lodging, mapsLink, regions, resolveRecordId, secondaryFilters, sourceKinds, visibleRecords,
 } from "./catalog.js";
 import { addRouteToTrip, editTrip, initialTripPlans, newTrip, resolveTripRoutes, saveTripPlans, selectNewTrip } from "./tripPlans.js";
+import ActivityIcon, { mainActivity } from "./ActivityIcon.jsx";
 import "./styles.css";
 
 const AtlasMap = lazy(() => import("./AtlasMap.jsx"));
@@ -25,7 +26,7 @@ const pictures = {
 const prominent = ["sabana-oka", "chirripo", "marino-ballena"];
 const frontierQuery = new URLSearchParams({ activity: "border" });
 const placeInPlanner = id => urlFor("place", new URLSearchParams({ from: "trips" }), id);
-const photoFor = row => row.dossier?.photos?.[0] ?? pictures[row.id]
+const photoFor = row => row.dossier?.photos?.[0] ?? row.dossier?.stageCover ?? pictures[row.id]
   ?? (row.native.includes("Arenal") ? { ...heroImage, caption: "Иллюстрация Ареналя" } : undefined);
 
 function readRoute() {
@@ -203,12 +204,15 @@ function SaveButton({ row, saved, toggle, large = false }) {
 
 function RouteCard({ row, context, saved, toggle }) {
   const photo = photoFor(row);
+  const activity = mainActivity(row);
+  const { stops = [], galleries = [], videos = [] } = row.dossier || {};
   return <article className={`route-card region-${row.region}`}>
     {photo && <a className="card-photo" href={urlFor("place", context, row.id)} tabIndex={-1} aria-hidden="true">
       <img src={asset(`photos/${photo.file}`)} alt="" loading={prominent.includes(row.id) ? "eager" : "lazy"} />
       {photo.caption && <span>{photo.caption}</span>}
     </a>}
     <div className="card-body">
+      <div className="card-activity"><ActivityIcon activity={activity} size={17} />{activities[activity]}</div>
       <div className="card-heading">
         <h3><a href={urlFor("place", context, row.id)}>{row.title}</a></h3>
         <SaveButton row={row} saved={saved} toggle={toggle} />
@@ -219,6 +223,11 @@ function RouteCard({ row, context, saved, toggle }) {
         <span><Clock3 size={15} aria-hidden="true" />{durationLabel(row.days)}</span>
       </div>
       <p>{row.summary}</p>
+      <div className="card-media-meta">
+        {stops.length > 0 && <span><MapIcon size={14} aria-hidden="true" />{stops.length === 1 ? "Точка на карте" : `Карта · ${stops.length}`}</span>}
+        {(galleries.length > 0 || row.dossier?.photos?.length > 0 || row.dossier?.stageCover) && <span><Camera size={14} aria-hidden="true" />Фото</span>}
+        {videos.length > 0 && <span><CirclePlay size={14} aria-hidden="true" />Видео</span>}
+      </div>
     </div>
   </article>;
 }
@@ -255,25 +264,84 @@ function RoutePhoto({ photo, className, loading }) {
   </figure>;
 }
 
-function DossierMedia({ dossier, sources }) {
-  const photos = dossier?.photos?.slice(1) || [];
-  const videos = dossier?.videos || [];
-  const galleries = dossier?.galleries || [];
-  const withPhotos = photos.length || galleries.length;
-  const mediaLinks = [...galleries, ...videos];
-  if (!withPhotos && !videos.length) return null;
-  const title = withPhotos ? (videos.length ? "Фото и видео" : "Фотографии") : "Видео с места";
-  return <section className="dossier-section">
-    <h3>{title}</h3>
-    {photos.length > 0 && <div className="dossier-photo-grid">
-      {photos.map(photo => <RoutePhoto key={photo.file} photo={photo} className="dossier-photo" loading="lazy" />)}
+function youtubeId(href) {
+  const url = new URL(href);
+  const host = url.hostname.replace(/^www\./, "");
+  const parts = url.pathname.split("/").filter(Boolean);
+  const id = host === "youtu.be" ? parts[0]
+    : (host === "youtube.com" || host === "m.youtube.com") &&
+      (url.searchParams.get("v") || (["shorts", "embed", "live"].includes(parts[0]) && parts[1]));
+  return /^[A-Za-z0-9_-]{11}$/.test(id || "") ? id : null;
+}
+
+function DossierMedia({ row, sources, byId, context }) {
+  const [playing, setPlaying] = useState(null);
+  const { photos = [], videos = [], galleries = [] } = row.dossier || {};
+  const extraPhotos = photos.slice(1);
+  const placeIds = [...new Set(row.stages?.flatMap(stage => stage.stops) || [])];
+  const stopsWithMedia = placeIds.map(id => byId.get(id)).filter(place => {
+    const media = place?.dossier;
+    return media?.photos?.length || media?.galleries?.length || media?.videos?.length;
+  });
+  const country = row.countries?.[0] || "cr";
+  const countryName = { cr: "Costa Rica", pa: "Panamá", ni: "Nicaragua" }[country];
+  const query = encodeURIComponent(`${row.native.split(" · ")[0]} ${countryName}`);
+  return <section className="dossier-section media-section">
+    <h3>Фото и видео</h3>
+    {extraPhotos.length > 0 && <div className="dossier-photo-grid">
+      {extraPhotos.map(photo => <RoutePhoto key={photo.file} photo={photo} className="dossier-photo" loading="lazy" />)}
     </div>}
-    {mediaLinks.length > 0 && <ul className="dossier-videos">
-      {mediaLinks.map(id => {
+    {galleries.length > 0 && <ul className="media-list" aria-label="Галереи и фотоотчёты">
+      {galleries.map(id => <li key={id}>
+        <Camera size={19} aria-hidden="true" />
+        <div><External href={sources[id].url}>{sources[id].title}</External><p>{sources[id].scope}</p></div>
+      </li>)}
+    </ul>}
+    {videos.length > 0 && <ul className="media-list" aria-label="Видео">
+      {videos.map(id => {
         const source = sources[id];
-        return <li key={id}><External href={source.url}>{source.title}</External><p>{source.scope}</p></li>;
+        const clip = youtubeId(source.url);
+        return <li key={id}>
+          <CirclePlay size={19} aria-hidden="true" />
+          <div>
+            <External href={source.url}>{source.title}</External>
+            <p>{source.scope}</p>
+            {clip && <button type="button" className="quiet-button media-play"
+              aria-expanded={playing === id} onClick={() => setPlaying(playing === id ? null : id)}>
+              {playing === id ? "Свернуть плеер" : "Смотреть в карточке"}
+            </button>}
+            {playing === id && <iframe className="media-player" title={source.title}
+              src={`https://www.youtube-nocookie.com/embed/${clip}`} allowFullScreen
+              referrerPolicy="strict-origin-when-cross-origin" />}
+          </div>
+        </li>;
       })}
     </ul>}
+    {stopsWithMedia.length > 0 && <details className="stage-media">
+      <summary>Фото и видео на остановках</summary>
+      <ul className="media-list">
+        {stopsWithMedia.map(place => {
+          const media = place.dossier;
+          const gallery = sources[media.galleries?.[0]];
+          const video = sources[media.videos?.[0]];
+          return <li key={place.id}>
+            <MapPin size={18} aria-hidden="true" />
+            <div>
+              <a href={urlFor("place", context, place.id)}>{place.title}</a>
+              <div className="dossier-links">
+                {media.photos?.[0] && <External href={media.photos[0].original}>Снимок остановки</External>}
+                {gallery && <External href={gallery.url}>Фотографии</External>}
+                {video && <External href={video.url}>Видео</External>}
+              </div>
+            </div>
+          </li>;
+        })}
+      </ul>
+    </details>}
+    <div className="media-search">
+      {!photos.length && !galleries.length && !row.dossier?.stageCover && <External href={mapsLink(row)}>Поиск фотографий места на карте</External>}
+      {!videos.length && <External href={`https://www.youtube.com/results?search_query=${query}`}>Поиск видео по названию места</External>}
+    </div>
   </section>;
 }
 
@@ -316,7 +384,7 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
     <section className={`detail-hero ${photo ? "" : "no-photo"}`}>
       <div>
         <h1>{row.title}</h1>
-        <p className="detail-location">{row.countries?.length > 1 ? row.countries.map(id => countries[id]).join(" → ") : regions[row.region]} · {kinds[row.kind]}</p>
+        <p className="detail-location"><ActivityIcon activity={mainActivity(row)} />{row.countries?.length > 1 ? row.countries.map(id => countries[id]).join(" → ") : regions[row.region]} · {kinds[row.kind]}</p>
         <p className="native-name" lang="es">{row.native}</p>
         <p className="detail-intro">{row.summary}</p>
         <div className="detail-controls">
@@ -360,13 +428,13 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
         <h3>Ночёвка</h3>
         <p>{row.sleep.map(id => lodging[id]).join(" · ")}</p>
         <h3>Активности</h3>
-        <div className="activity-links">{row.activities.map(id => <a key={id} href={urlFor("catalog", new URLSearchParams({ activity: id }))}>{activities[id]}</a>)}</div>
+        <div className="activity-links">{row.activities.map(id => <a key={id} href={urlFor("catalog", new URLSearchParams({ activity: id }))}><ActivityIcon activity={id} size={14} />{activities[id]}</a>)}</div>
         {dossier?.sections.map(section => <section className="dossier-section" key={section.title}>
           <h3>{section.title}</h3>
           <p>{section.text}</p>
           <div className="dossier-links">{section.sources.map(id => <External href={atlas.sources[id].url} key={id}>{atlas.sources[id].title}</External>)}</div>
         </section>)}
-        <DossierMedia dossier={dossier} sources={atlas.sources} />
+        <DossierMedia key={row.id} row={row} sources={atlas.sources} byId={byId} context={route.filters} />
         <RouteReports row={row} sources={atlas.sources} />
         {Boolean(dossier?.nearby?.length) && <section className="dossier-section">
           <h3>Что добавить к поездке</h3>
@@ -419,9 +487,10 @@ function SourcesPage({ atlas }) {
     (coverage !== "live-pending" || !row.liveCheck) &&
     fold([row.name, row.url, row.category, row.zone, row.platform, atlas.sources[row.publisher?.site]?.url].join(" ")).includes(needle)
   );
-  const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length).length;
+  const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length || row.dossier?.stageCover).length;
   const withVideos = atlas.records.filter(row => row.dossier?.videos?.length).length;
   const withGalleries = atlas.records.filter(row => row.dossier?.galleries?.length).length;
+  const withMaps = atlas.records.filter(row => row.dossier?.stops.length).length;
   const withReports = atlas.records.filter(row => row.reportSources?.length || row.posts?.length).length;
   const guideLanguages = { es: "На испанском", en: "На английском", "es-en": "На испанском и английском" };
   return <section className="sources-page">
@@ -529,6 +598,7 @@ function SourcesPage({ atlas }) {
     </details>
     <details className="evidence-list"><summary>Фото, видео и отзывы <ChevronDown size={18} /></summary>
       <p>Фотографии с указанием автора есть в {withPhotos} из {atlas.records.length} карточек, ссылки на видео — в {withVideos}.</p>
+      <p>Точки с источниками координат есть в {withMaps} карточках.</p>
       {withGalleries > 0 && <p>Ссылки на фотографии авторов и операторов есть в {withGalleries} карточках.</p>}
       {withReports > 0 && <p>Отзывы, отчёты или прямые упоминания собраны в {withReports} карточках.</p>}
       <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/MEDIA.md">Авторы, лицензии и иллюстрации</External></p>

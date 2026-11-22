@@ -691,5 +691,248 @@
     "license": "CC0 1.0",
     "original": "https://commons.wikimedia.org/wiki/File:Costa_Rica_Sarchi_ox_drawn_cart.jpg",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "atlas-tapanti-rio": {
+    "file": "atlas-tapanti-rio.jpg",
+    "alt": "Водопад с обзорной площадки в национальном парке Тапанти",
+    "caption": "Водопад в Тапанти · архив 2005 года",
+    "author": "Mardochaios",
+    "license": "Public domain",
+    "original": "https://commons.wikimedia.org/wiki/File:Tapanti.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "atlas-turri-volcano-cone": {
+    "file": "atlas-turri-volcano-cone.jpg",
+    "alt": "Конус вулкана Турриальба",
+    "caption": "Вулкан Турриальба · архив 2005 года",
+    "author": "Fbolanos",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Turrialba_Volcano_cone_Sept_2005_.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-barbilla-ranger": {
+    "file": "atlas-barbilla-ranger.jpg",
+    "alt": "Пункт парка Барбилья в горном лесу",
+    "caption": "База национального парка Барбилья · архив 2013 года",
+    "author": "Wikityper101",
+    "license": "Public domain",
+    "original": "https://commons.wikimedia.org/wiki/File:Barbilla_hq_2013.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "atlas-quetzales-scrub": {
+    "file": "atlas-quetzales-scrub.jpg",
+    "alt": "Тропический горный лес в национальном парке Лос-Кетсалес",
+    "caption": "Лос-Кетсалес · горный ландшафт парка",
+    "author": "RobertDrake2015",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Los_Quetzales_National_Park.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "atlas-dota-sav": {
+    "file": "atlas-dota-sav.jpg",
+    "alt": "Долина Сан-Херардо-де-Дота",
+    "caption": "Сан-Херардо-де-Дота в долине Савегре",
+    "author": "Wayne77",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Costa_Rica_-_San_Gerardo_de_Dota_01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-cloudbridge-reception": {
+    "file": "atlas-cloudbridge-reception.jpg",
+    "alt": "Вход и здание центра заповедника Клаудбридж",
+    "caption": "Вход в заповедник Клаудбридж",
+    "author": "Cephas",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Cloudbridge_01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-cloudbridge-trail": {
+    "file": "atlas-cloudbridge-trail.jpg",
+    "alt": "Тропа восстановления леса в Клаудбридже",
+    "caption": "Тропа восстановления леса, Клаудбридж",
+    "author": "Cephas",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Cloudbridge_21.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-tortuguero-river": {
+    "file": "atlas-tortuguero-river.jpg",
+    "alt": "Влажный лес и мангры в национальном парке Тортугеро",
+    "caption": "Мангровый лес Тортугеро",
+    "author": "Leyo",
+    "license": "CC BY-SA 2.5 ch",
+    "original": "https://commons.wikimedia.org/wiki/File:Tortuguero_Nationalpark.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/ch/deed.en"
+  },
+  "atlas-tortuguero-village": {
+    "file": "atlas-tortuguero-village.jpg",
+    "alt": "Поселение Тортугеро на Карибском побережье",
+    "caption": "Посёлок Тортугеро",
+    "author": "John Menard from Phoenix, USA",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Tortuguero,_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "atlas-cocles-wave": {
+    "file": "atlas-cocles-wave.jpg",
+    "alt": "Волна у Пунта-Коклес на Карибском берегу",
+    "caption": "Пунта-Коклес, Таламанка",
+    "author": "Bernal Saborio from Costa Rica",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Caribbean_wave.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "atlas-cocles-manzanillo": {
+    "file": "atlas-cocles-manzanillo.jpg",
+    "alt": "Побережье у Пунта-Коклес и Мансанильо",
+    "caption": "Южный Карибский берег · Пунта-Коклес и Мансанильо",
+    "author": "Bernal Saborio from Costa Rica",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Caribbean_coast_(44492133022).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "atlas-rincon-pailas": {
+    "file": "atlas-rincon-pailas.jpg",
+    "alt": "Лесной водопад в секторе Лас-Пайлас",
+    "caption": "Водопад в секторе Лас-Пайлас, Ринкон-де-ла-Вьеха",
+    "author": "Olga Saenz",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Waterfall_in_rainforest.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-conchal-point": {
+    "file": "atlas-conchal-point.jpg",
+    "alt": "Вид с Пунта-Кончаль к востоку от пляжа Кончаль",
+    "caption": "Пунта-Кончаль у пляжа Кончаль, Гуанакасте",
+    "author": "Aymatth2",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Punta_Conchal,_Costa_Rica.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-fortuna-catarata": {
+    "file": "atlas-fortuna-catarata.jpg",
+    "alt": "Водопад Ла-Фортуна над каменистой чашей",
+    "caption": "Водопад Río Fortuna, Сан-Карлос",
+    "author": "Scott Robinson from Rockville, MD, USA",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Lafortunawaterfall.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "atlas-tenorio-blue": {
+    "file": "atlas-tenorio-blue.jpg",
+    "alt": "Голубая вода реки Рио-Селесте в парке Тенорио",
+    "caption": "Рио-Селесте в национальном парке Тенорио",
+    "author": "Asequeir at English Wikipedia",
+    "license": "Public domain",
+    "original": "https://commons.wikimedia.org/wiki/File:Rio_celeste.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "atlas-poas-crater": {
+    "file": "atlas-poas-crater.jpg",
+    "alt": "Кратер и кратерное озеро вулкана Поас",
+    "caption": "Кратер Поаса · архивное фото",
+    "author": "Peter Andersen",
+    "license": "CC BY 2.5",
+    "original": "https://commons.wikimedia.org/wiki/File:Poas_crater.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "atlas-hule-crater": {
+    "file": "atlas-hule-crater.jpg",
+    "alt": "Кратерное озеро Лагуна-де-Уле и лес",
+    "caption": "Лагуна-де-Уле, Алахуэла",
+    "author": "Apega71",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Laguna_de_Hule.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-manuel-antonio-shore": {
+    "file": "atlas-manuel-antonio-shore.jpg",
+    "alt": "Берег национального парка Мануэль-Антонио",
+    "caption": "Побережье Мануэль-Антонио",
+    "author": "Rauldmo",
+    "license": "Public domain",
+    "original": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Manuel_Antonio_1.JPG",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "atlas-jaco-shore": {
+    "file": "atlas-jaco-shore.jpg",
+    "alt": "Полоса пляжа Хако в Пунтаренасе",
+    "caption": "Пляж Хако",
+    "author": "Costaricapro",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Jaco_Beach_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "atlas-dominical-shore": {
+    "file": "atlas-dominical-shore.jpg",
+    "alt": "Побережье Доминикаля",
+    "caption": "Доминикаль, южный Тихий океан",
+    "author": "Haakon S. Krohn",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Dominical.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "atlas-ballena-coast": {
+    "file": "atlas-ballena-coast.jpg",
+    "alt": "Берег, видимый из национального парка Марино-Бальена",
+    "caption": "Тихоокеанский берег у Марино-Бальена",
+    "author": "Jorge Antonio Leoni de León",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Parque-Marino-Ballena-Costa-Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "atlas-nauyaca-arch": {
+    "file": "atlas-nauyaca-arch.jpg",
+    "alt": "Каскады водопада Науяка",
+    "caption": "Каскады Науяка · архив 2006 года",
+    "author": "Matthias Bethke",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:2006-08-12_Nauyaca_Waterfalls-Cataratas_Nauyaca_(Costa_Rica).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-nauyaca-pool": {
+    "file": "atlas-nauyaca-pool.jpg",
+    "alt": "Нижняя чаша водопада Науяка",
+    "caption": "Нижний каскад Науяка · архив 2006 года",
+    "author": "Matthias Bethke",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:2006-08-12_Nauyaca_Wasserfall_mit_Becken.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "atlas-sirena-corco": {
+    "file": "atlas-sirena-corco.jpg",
+    "alt": "Станция Сирена в конце бывшей взлётной полосы",
+    "caption": "Станция Сирена в Корковадо",
+    "author": "Julio-César Chávez",
+    "license": "CC BY 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sirena_Station_at_Corcovado_National_Park_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "atlas-sarapiqui-river": {
+    "file": "atlas-sarapiqui-river.jpg",
+    "alt": "Русло реки Сарапики с лесом по берегам",
+    "caption": "Река Сарапики · общий вид",
+    "author": "Victor Quirós A",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Sarapiqu%C3%AD.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "atlas-chirripo-valley-arch": {
+    "file": "atlas-chirripo-valley-arch.jpg",
+    "alt": "Долина Лос-Конехос в районе Чиррипо",
+    "caption": "Долина Лос-Конехос · архив апреля 2005 года",
+    "author": "Asequeir at English Wikipedia",
+    "license": "Public domain",
+    "original": "https://commons.wikimedia.org/wiki/File:Chirripo_valley.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "atlas-puerto-jimenez-arch": {
+    "file": "atlas-puerto-jimenez-arch.jpg",
+    "alt": "Пуэрто-Хименес на полуострове Оса",
+    "caption": "Пуэрто-Хименес, полуостров Оса",
+    "author": "Norbert Utz",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Puerto_jimenez.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 }
