@@ -4,6 +4,11 @@
       "encanto-municipal"
     ]
   },
+  "arenal-pack": {
+    "galleries": [
+      "pack-arenal"
+    ]
+  },
   "aventuras-cafe-puerto-jimenez": {
     "galleries": [
       "aventuras-cafe-osa-direct"
@@ -40,6 +45,24 @@
       "media-barbilla-teletica"
     ]
   },
+  "barra-colorado-fishing-weekend-3": {
+    "videos": [
+      "media-barra-tarpon-fishing-film"
+    ],
+    "galleries": [
+      "kawe-barra-tarpon",
+      "media-barra-tarpon-guest-photo"
+    ]
+  },
+  "barra-colorado-tarpon-boat": {
+    "videos": [
+      "media-barra-tarpon-fishing-film"
+    ],
+    "galleries": [
+      "kawe-barra-tarpon",
+      "media-barra-tarpon-guest-photo"
+    ]
+  },
   "barra-honda": {
     "galleries": [
       "media-barrahonda-album"
@@ -60,6 +83,54 @@
       "media-nauyaca-commons"
     ]
   },
+  "bosque-hoja": {
+    "galleries": [
+      "hoja-2026"
+    ],
+    "videos": [
+      "media-bosque-hoja-montecito-film"
+    ]
+  },
+  "braulio-barva": {
+    "galleries": [
+      "media-braulio-barva-republica",
+      "braulio-sectors-map"
+    ]
+  },
+  "braulio-quebrada": {
+    "galleries": [
+      "media-braulio-gonzalez-photos",
+      "braulio-sectors-map"
+    ],
+    "videos": [
+      "media-braulio-teletica-ruta32",
+      "media-braulio-gonzalez-senderismo"
+    ]
+  },
+  "cabo-blanco-sueco": {
+    "galleries": [
+      "cabo-blanco-qbl-10"
+    ],
+    "videos": [
+      "media-qbl-cabo-blanco-film"
+    ]
+  },
+  "cabo-matapalo-backwash": {
+    "galleries": [
+      "media-osa-matapalo-qbl-beaches"
+    ],
+    "videos": [
+      "media-qbl-cabo-matapalo-film"
+    ]
+  },
+  "canas-rivers-weekend-2": {
+    "galleries": [
+      "media-corobici-traveler-field",
+      "media-canas-ict-field-guide",
+      "rcr-corobici-river-safari",
+      "rcr-tenorio-whitewater-program"
+    ]
+  },
   "cano-negro-lagoon-weekend-2": {
     "photos": [
       "cano-rio-frio-bernard"
@@ -73,6 +144,11 @@
   "caribe-bus-3": {
     "photos": [
       "atlas-cocles-manzanillo"
+    ]
+  },
+  "caribeans-cacao": {
+    "galleries": [
+      "media-cocles-cacao-gallery"
     ]
   },
   "central-bosque-quemado-5": {
@@ -103,6 +179,14 @@
       "tortuguero-acto-sectors"
     ]
   },
+  "chira-fishing-island-2": {
+    "galleries": [
+      "media-chira-ucr-photos"
+    ],
+    "videos": [
+      "media-chira-fishing-communities-film"
+    ]
+  },
   "chirripo": {
     "photos": [
       "atlas-chirripo-valley-arch"
@@ -111,6 +195,28 @@
   "chirripo-3": {
     "photos": [
       "atlas-chirripo-valley-arch"
+    ]
+  },
+  "chirripo-herradura": {
+    "galleries": [
+      "uran-field-report"
+    ]
+  },
+  "chirripo-jeronimo": {
+    "videos": [
+      "media-chirripo-leones-guest-film"
+    ],
+    "galleries": [
+      "media-chirripo-san-jeronimo-qbl"
+    ]
+  },
+  "chirripo-race-34-2027": {
+    "galleries": [
+      "media-chirripo-race-official-archive",
+      "media-chirripo-race-nacion-archive"
+    ],
+    "videos": [
+      "media-chirripo-race-2026-redr"
     ]
   },
   "cloudbridge": {
@@ -141,6 +247,11 @@
       "media-doka-visit"
     ]
   },
+  "cola-ballena-rooftop": {
+    "galleries": [
+      "cola-ballena-camp-listing"
+    ]
+  },
   "conchal": {
     "photos": [
       "atlas-conchal-point"
@@ -156,9 +267,29 @@
       "atlas-conchal-point"
     ]
   },
+  "corcovado-leona": {
+    "galleries": [
+      "media-corcovado-leona-qbl-album"
+    ],
+    "videos": [
+      "media-qbl-la-leona-film"
+    ]
+  },
+  "corcovado-race-2026": {
+    "galleries": [
+      "tcr-corcovado"
+    ]
+  },
   "corcovado-sirena": {
     "photos": [
       "atlas-sirena-corco"
+    ]
+  },
+  "corobici-canas-safari-float": {
+    "galleries": [
+      "media-corobici-traveler-field",
+      "media-canas-ict-field-guide",
+      "rcr-corobici-river-safari"
     ]
   },
   "costa-ballena-rooftop-surf-3": {
@@ -166,14 +297,47 @@
       "atlas-ballena-coast"
     ]
   },
+  "cross-costa-rica-mtb-archive-3": {
+    "galleries": [
+      "media-cross-mtb-teletica-edition"
+    ]
+  },
+  "cross-ochomogo-chicua-mtb-47": {
+    "galleries": [
+      "media-cross-mtb-teletica-edition"
+    ]
+  },
+  "cross-ochomogo-finale-28": {
+    "galleries": [
+      "media-cross-mtb-teletica-edition"
+    ]
+  },
+  "cross-turrubares-mtb-76": {
+    "galleries": [
+      "media-cross-mtb-teletica-edition"
+    ]
+  },
   "curi-cancha": {
     "galleries": [
       "curi-local-guide"
     ]
   },
+  "curu-forest-coves": {
+    "galleries": [
+      "media-curu-official-photos"
+    ]
+  },
   "cusinga": {
     "galleries": [
       "cusinga"
+    ]
+  },
+  "dantica-2026": {
+    "videos": [
+      "media-dantica-trail-previous"
+    ],
+    "galleries": [
+      "tcr-dantica"
     ]
   },
   "diamante": {
@@ -182,9 +346,44 @@
       "diamante-superman-rules"
     ]
   },
+  "diria": {
+    "videos": [
+      "media-diria-uned"
+    ],
+    "galleries": [
+      "media-diria-nacion"
+    ]
+  },
   "dominical-surf": {
     "photos": [
       "atlas-dominical-shore"
+    ]
+  },
+  "dominicalito-surf-family": {
+    "galleries": [
+      "dominicalito-surf-family-direct"
+    ]
+  },
+  "durika": {
+    "videos": [
+      "media-oka-corderos-film"
+    ],
+    "galleries": [
+      "oka-film"
+    ]
+  },
+  "eco-chontales-falls": {
+    "galleries": [
+      "media-chontales-qbl",
+      "qbl-ruta-agua"
+    ],
+    "videos": [
+      "media-qbl-chontales-film"
+    ]
+  },
+  "eco-termales": {
+    "galleries": [
+      "media-eco-termales-pool-pics"
     ]
   },
   "el-camino-102": {
@@ -287,14 +486,38 @@
       "media-camino-urri-gallery"
     ]
   },
+  "elysiana-forest": {
+    "galleries": [
+      "qbl-ruta-agua",
+      "media-elysiana-qbl"
+    ]
+  },
   "encanto-summit-short": {
     "galleries": [
       "encanto-municipal"
     ]
   },
+  "escazu-ventolera-salitral-emtb-15": {
+    "galleries": [
+      "media-ventolera-qbl-bebedero-photos"
+    ],
+    "videos": [
+      "media-ventolera-liga-mtb-ride"
+    ]
+  },
   "esterillos-aloha-surf": {
     "galleries": [
       "aloha-esterillos-family-instructor"
+    ]
+  },
+  "faith-glamp": {
+    "galleries": [
+      "media-faith-caribbean-dome"
+    ]
+  },
+  "flamingo": {
+    "photos": [
+      "flamingo-beach-atlas"
     ]
   },
   "fortuna-falls": {
@@ -320,14 +543,43 @@
       "atlas-puerto-jimenez-arch"
     ]
   },
+  "golfo-dulce-mangrove-kayak": {
+    "galleries": [
+      "osa-mangrove-dreamcatcher"
+    ]
+  },
   "golfo-dulce-weekend-no-car": {
     "photos": [
       "atlas-puerto-jimenez-arch"
     ]
   },
+  "guanacaste-fondo-140": {
+    "galleries": [
+      "media-guanacaste-road-album"
+    ],
+    "videos": [
+      "gfg-2026-video"
+    ]
+  },
+  "guiones": {
+    "galleries": [
+      "media-guiones-marin-albums",
+      "media-guiones-surf-simply-day"
+    ]
+  },
   "hacienda-ceiba": {
     "galleries": [
       "media-monte-claro-trails"
+    ]
+  },
+  "hermosa-jaco": {
+    "photos": [
+      "garabito-hermosa-surf-atlas"
+    ]
+  },
+  "hermosa-uvita-beach": {
+    "videos": [
+      "media-hermosa-osa-film"
     ]
   },
   "iguana-school": {
@@ -402,6 +654,16 @@
   "laguna-rio-cuarto-paddle": {
     "galleries": [
       "finca360-rio-cuarto-lake"
+    ]
+  },
+  "lagunillas-bajamar-gravel-21": {
+    "galleries": [
+      "orotina-bajamar-ebike-report"
+    ]
+  },
+  "lapa-rios": {
+    "galleries": [
+      "laparios"
     ]
   },
   "los-quetzales": {
@@ -480,6 +742,16 @@
       "media-monte-claro-trails"
     ]
   },
+  "nalu-school": {
+    "galleries": [
+      "nalu-surf"
+    ]
+  },
+  "naranjo-surf": {
+    "videos": [
+      "media-naranjo-witch-rock-film"
+    ]
+  },
   "nauyaca-don-lulo": {
     "photos": [
       "atlas-nauyaca-arch",
@@ -504,6 +776,37 @@
       "media-nauyaca-commons"
     ]
   },
+  "ocotal": {
+    "photos": [
+      "ocotal-bay-atlas"
+    ]
+  },
+  "oikoumene": {
+    "galleries": [
+      "oikoumene-walking-trails-owner"
+    ]
+  },
+  "oka-laguna": {
+    "videos": [
+      "media-oka-corderos-film"
+    ],
+    "galleries": [
+      "oka-film"
+    ]
+  },
+  "oka-olan": {
+    "galleries": [
+      "oka-film"
+    ]
+  },
+  "osa-pan-dulce-lesson": {
+    "galleries": [
+      "media-osa-matapalo-qbl-beaches"
+    ],
+    "videos": [
+      "media-qbl-cabo-matapalo-film"
+    ]
+  },
   "pacuare-avesol": {
     "galleries": [
       "media-pacuare-raft-lodge",
@@ -526,9 +829,85 @@
       "media-pacuare-raft-lodge"
     ]
   },
+  "palo-seco-estuary-kayak-fishing": {
+    "galleries": [
+      "palo-seco-angler-kayak-meet"
+    ],
+    "videos": [
+      "media-palo-seco-catch-footage"
+    ]
+  },
+  "palo-verde": {
+    "galleries": [
+      "media-palo-verde-commons"
+    ],
+    "photos": [
+      "palo-verde-caracara-atlas"
+    ]
+  },
+  "palo-verde-cerro-alto": {
+    "galleries": [
+      "camino-stage-11"
+    ]
+  },
   "paquera-bioluminescence-kayak": {
     "galleries": [
       "media-paquera-biolum-eddy"
+    ]
+  },
+  "paquera-ferry-weekend-3": {
+    "galleries": [
+      "media-organs-commons-gallery",
+      "media-curu-official-photos",
+      "bahia-rica-kayak-rental"
+    ]
+  },
+  "paquera-inshore-fishing": {
+    "galleries": [
+      "bahia-rica-inshore"
+    ],
+    "videos": [
+      "media-bahia-rica-inshore-film"
+    ]
+  },
+  "paquera-paddle-sup": {
+    "galleries": [
+      "bahia-rica-kayak-rental"
+    ]
+  },
+  "pato-samara-school": {
+    "galleries": [
+      "pato-surf"
+    ]
+  },
+  "pavones": {
+    "galleries": [
+      "media-punta-banco-tiskita-gallery",
+      "media-pavones-site-qbl"
+    ]
+  },
+  "piedra-angel": {
+    "galleries": [
+      "piedra"
+    ]
+  },
+  "piedras-blancas": {
+    "videos": [
+      "media-piedras-blancas-field"
+    ]
+  },
+  "pinuela-beach": {
+    "galleries": [
+      "rural-osa-ict-municipal-beaches"
+    ]
+  },
+  "playa-organos-paquera": {
+    "galleries": [
+      "media-organs-commons-gallery",
+      "media-paquera-local-organos-pics"
+    ],
+    "photos": [
+      "organos-paquera-atlas"
     ]
   },
   "poas": {
@@ -544,14 +923,72 @@
       "atlas-puerto-jimenez-arch"
     ]
   },
+  "puerto-soley-shore-day": {
+    "galleries": [
+      "media-puerto-soley-infolink"
+    ],
+    "videos": [
+      "media-puerto-soley-film"
+    ]
+  },
   "puerto-viejo-bike-manzanillo": {
     "photos": [
       "atlas-cocles-manzanillo"
     ]
   },
+  "punta-banco-rancho-tiskita": {
+    "galleries": [
+      "media-punta-banco-tiskita-gallery"
+    ]
+  },
+  "quepos-fondo-105-2027": {
+    "galleries": [
+      "gran-fondo-zona-sur-2027"
+    ]
+  },
+  "quepos-fondo-148-2027": {
+    "galleries": [
+      "gran-fondo-zona-sur-2027"
+    ]
+  },
+  "rancho-quemado-el-rancho-gold": {
+    "galleries": [
+      "media-oro-el-rancho-micha-2018"
+    ]
+  },
+  "rancho-quemado-laguna-chocuaco": {
+    "galleries": [
+      "media-chocuaco-canoe-field-photo"
+    ]
+  },
+  "retos-irazu": {
+    "galleries": [
+      "media-retos-irazu-qbl-photo"
+    ],
+    "videos": [
+      "media-retos-irazu-field-mascarada",
+      "media-qbl-retos-irazu-film"
+    ]
+  },
   "rincon-cangreja-10": {
     "galleries": [
       "cangreja-guachipelin"
+    ]
+  },
+  "rincon-mtb": {
+    "videos": [
+      "media-rincon-mtb-curubande-ride"
+    ],
+    "galleries": [
+      "rincon-bike"
+    ]
+  },
+  "rincon-mtb-30": {
+    "videos": [
+      "media-rincon-mtb-curubande-ride"
+    ],
+    "galleries": [
+      "rincon-bike"
     ]
   },
   "rincon-pailas": {
@@ -573,6 +1010,14 @@
       "media-rio-celeste-vimeo"
     ]
   },
+  "rio-del-valle-camp": {
+    "videos": [
+      "media-rio-del-valle-guest-footage"
+    ],
+    "galleries": [
+      "rividal-camp"
+    ]
+  },
   "rio-estrella-babsita-paddle": {
     "galleries": [
       "babsita-paddle-direct"
@@ -581,6 +1026,19 @@
   "rios-lodge-own-kayak": {
     "galleries": [
       "media-rios-lodge-activities"
+    ]
+  },
+  "sabana-leones": {
+    "videos": [
+      "media-chirripo-leones-guest-film"
+    ]
+  },
+  "salsa-brava-reef": {
+    "videos": [
+      "media-salsa-brava-season-2026"
+    ],
+    "galleries": [
+      "media-salsa-brava-image"
     ]
   },
   "sarapiqui-float": {
@@ -642,6 +1100,11 @@
       "media-colon-hiking"
     ]
   },
+  "sierpe-fishing": {
+    "videos": [
+      "media-sierpe-estuary-fishing-film"
+    ]
+  },
   "tabacon": {
     "galleries": [
       "media-tabacon-owner"
@@ -656,6 +1119,17 @@
     ],
     "videos": [
       "media-tapanti-trip"
+    ]
+  },
+  "tempisque-ortega-boat": {
+    "galleries": [
+      "palo-verde-ortega-boat"
+    ]
+  },
+  "tenorio-canas-whitewater-rcr": {
+    "galleries": [
+      "media-canas-ict-field-guide",
+      "rcr-tenorio-whitewater-program"
     ]
   },
   "tenorio-celeste": {
@@ -697,6 +1171,19 @@
       "tortuguero-acto-sectors"
     ]
   },
+  "trail-vulcania": {
+    "galleries": [
+      "media-trail-vulcania-official-media"
+    ]
+  },
+  "treetopia": {
+    "galleries": [
+      "media-treetopia-media"
+    ],
+    "videos": [
+      "media-treetopia-guest-film"
+    ]
+  },
   "turri-irika-mtb": {
     "galleries": [
       "irika-mtb-field"
@@ -711,6 +1198,19 @@
     "galleries": [
       "poc-rent",
       "avesol"
+    ]
+  },
+  "uvita-colonia-surf": {
+    "galleries": [
+      "uvita360-chaman-lesson"
+    ]
+  },
+  "ventanas-shore": {
+    "galleries": [
+      "rural-osa-ict-municipal-beaches"
+    ],
+    "videos": [
+      "media-ventanas-ojochal-film"
     ]
   },
   "vista-suenos": {

@@ -934,5 +934,50 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Puerto_jimenez.JPG",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "flamingo-beach-atlas": {
+    "file": "flamingo-beach-atlas.jpg",
+    "alt": "Берег Плайя-Фламинго в Гуанакасте",
+    "caption": "Плайя-Фламинго. Авторский снимок берега.",
+    "author": "Shiva Shenoy from Flower Mound, United States",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Flamingo,_Costa_Rica_(51771099488).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "ocotal-bay-atlas": {
+    "file": "ocotal-bay-atlas.jpg",
+    "alt": "Плайя-Окоталь на тихоокеанском побережье Коста-Рики",
+    "caption": "Пляж Окоталь в архиве Panoramio.",
+    "author": "Hiram Montiel Calder…",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Ocotal_-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "garabito-hermosa-surf-atlas": {
+    "file": "garabito-hermosa-surf-atlas.jpg",
+    "alt": "Тихоокеанский прибой у Плайя-Эрмоса в Гарабито",
+    "caption": "Сёрфинг на Плайя-Эрмоса, кантон Гарабито.",
+    "author": "Bernal Saborio from Costa Rica",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Surf_paradise_-_Flickr_-_Bernal_Saborio_G._(berkuspic).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "palo-verde-caracara-atlas": {
+    "file": "palo-verde-caracara-atlas.jpg",
+    "alt": "Хохлатая каракара в национальном парке Пало-Верде",
+    "caption": "Хохлатая каракара, снятая в национальном парке Пало-Верде.",
+    "author": "FlightEditor",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Crested_Caracara,_Palo_Verde_Nat%27l._Park,_Costa_Rica_3-11-12.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "organos-paquera-atlas": {
+    "file": "organos-paquera-atlas.jpg",
+    "alt": "Плайя-Органос в Пакере на берегу залива Никоя",
+    "caption": "Плайя-Органос, берег в районе Пакеры.",
+    "author": "Rodtico21",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_%C3%93rganos._Paquera._Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   }
 }

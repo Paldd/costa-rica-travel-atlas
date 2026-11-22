@@ -1,0 +1,32 @@
+name: Verify Published Atlas
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [Deploy Atlas]
+    types: [completed]
+
+permissions:
+  contents: read
+
+jobs:
+  browser:
+    if: github.event_name == 'workflow_dispatch' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main' && github.event.workflow_run.head_repository.full_name == github.repository)
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install Chromium for verification
+        run: |
+          npm install --prefix "$RUNNER_TEMP/atlas-browser" --no-save --no-audit --no-fund playwright@1.58.2
+          "$RUNNER_TEMP/atlas-browser/node_modules/.bin/playwright" install chromium
+      - name: Check the published release in Chromium
+        env:
+          ATLAS_REVISION: ${{ github.event.workflow_run.head_sha || github.sha }}
+        run: |
+          ATLAS_PLAYWRIGHT="$RUNNER_TEMP/atlas-browser/node_modules/playwright" node scripts/check-browser.mjs
