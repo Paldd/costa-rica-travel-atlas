@@ -23,7 +23,7 @@ RECORD_FIELDS = (
     "audience", "access", "sleep", "sources", "summary", "plan", "conditions", "distance",
 )
 LIST_FIELDS = ("activities", "audience", "access", "sleep", "sources")
-REGIONS = {"central", "north", "guanacaste", "nicoya", "centralpac", "mountains", "south", "caribbean"}
+REGIONS = {"central", "north", "guanacaste", "nicoya", "centralpac", "mountains", "south", "caribbean", "ometepe", "chiriqui-coast"}
 
 
 def read_table(path, fields):
@@ -35,6 +35,20 @@ def read_table(path, fields):
             if len(parts) != len(fields):
                 raise ValueError(f"{path.name}:{line} has {len(parts)} cells, expected {len(fields)}")
             yield dict(zip(fields, (x.strip() for x in parts)))
+
+
+def read_records():
+    for path in sorted(DATA.glob("catalog*.tsv")):
+        for record in read_table(path, RECORD_FIELDS):
+            for key in LIST_FIELDS:
+                record[key] = record[key].split(",") if record[key] else []
+            record["days"] = float(record["days"])
+            record["distance"] = float(record["distance"]) if record["distance"] else None
+            yield record
+    for name in ("places-abroad.json", "expeditions.json"):
+        path = DATA / name
+        if path.is_file():
+            yield from json.loads(path.read_text(encoding="utf-8"))
 
 
 def build_social(sources_by_id):
@@ -119,7 +133,12 @@ def main():
             raise ValueError(f"Invalid map point {key}")
         points[key] = {**point, "coords": coords}
 
-    lines = json.loads((DATA / "route-lines.json").read_text())
+    lines = {}
+    for path in sorted(DATA.glob("route-lines*.json")):
+        entries = json.loads(path.read_text(encoding="utf-8"))
+        if overlap := lines.keys() & entries.keys():
+            raise ValueError(f"Duplicate route geometry: {', '.join(sorted(overlap))}")
+        lines.update(entries)
     photos = json.loads((DATA / "photos.json").read_text())
     for key, photo in photos.items():
         file = photo.get("file", "")
@@ -149,17 +168,7 @@ def main():
                     raise ValueError(f"Unknown or repeated {field} source for {key}")
             dossiers[key] = dossier
 
-    records = []
-    for path in sorted(DATA.glob("catalog*.tsv")):
-        for record in read_table(path, RECORD_FIELDS):
-            for key in LIST_FIELDS:
-                record[key] = record[key].split(",") if record[key] else []
-            record["days"] = float(record["days"])
-            record["distance"] = float(record["distance"]) if record["distance"] else None
-            records.append(record)
-    trips_path = DATA / "expeditions.json"
-    if trips_path.exists():
-        records.extend(json.loads(trips_path.read_text()))
+    records = list(read_records())
     social = build_social(sources_by_id)
     social_matches = social.pop("matches")
     guides = [
@@ -167,6 +176,14 @@ def main():
         for feed in json.loads((DATA / "feeds.json").read_text()) if "language" in feed
     ]
     metadata = json.loads((DATA / "snapshot.json").read_text())
+    aliases = metadata.get("recordAliases", {})
+    record_ids = {row["id"] for row in records}
+    if any(legacy in record_ids or target not in record_ids for legacy, target in aliases.items()):
+        raise ValueError("Record aliases must point directly to an existing different record")
+    for legacy, target in aliases.items():
+        if posts := social_matches.get(legacy):
+            current = social_matches.setdefault(target, [])
+            current.extend(post for post in posts if post not in current)
     check_path = DATA / "checks.tsv"
     checked_by_record = {
         check["id"]: check["checked"]
@@ -183,6 +200,8 @@ def main():
         record["checked"] = checked_by_record.get(key, metadata["checked"])
         record["posts"] = social_matches.get(key, [])
         if dossier := dossiers.get(key):
+            if "nearby" in dossier:
+                dossier["nearby"] = [aliases.get(link, link) for link in dossier["nearby"]]
             record["dossier"] = dossier
         if reports := report_sources(record, sources_by_id):
             record["reportSources"] = reports
@@ -192,12 +211,13 @@ def main():
         raise ValueError(f"Unknown records with dossiers: {', '.join(sorted(unknown_dossiers))}")
     for record in records:
         for stage in record.get("stages", []):
-            for stop in stage.get("stops", []):
+            stage["stops"] = [aliases.get(stop, stop) for stop in stage["stops"]]
+            for stop in stage["stops"]:
                 if stop not in known_records or stop == record["id"]:
                     raise ValueError(f"Unknown or circular stop {stop} in {record['id']}")
     out = ROOT / "public" / "atlas.json"
     out.write_text(json.dumps({
-        "checked": metadata["checked"], "records": records,
+        "checked": metadata["checked"], "records": records, "recordAliases": aliases,
         "sources": sources_by_id, "social": social, "lines": lines, "guides": guides,
     }, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
     print(f"{len(records)} records, {len(sources)} sources, {len(social.get('profiles', []))} social profiles")

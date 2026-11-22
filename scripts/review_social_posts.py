@@ -8,7 +8,7 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urlsplit
 
-from build_catalog import DATA, RECORD_FIELDS, read_table
+from build_catalog import DATA, read_records
 from import_social import normalized, recurring_names
 
 
@@ -28,8 +28,16 @@ TOPICS = {
     "hiking": r"sendero\w*|senderismo|caminata\w*|hike|hiking|trekking|trail ?running",
     "cycling": r"ciclismo|bicicleta\w*|gravel|mtb|ebike|e-bike|mountain bik\w*",
     "paddle": r"pack ?raft\w*|rafting|kayak\w*|paddle ?board\w*|sup",
-    "surf": r"surf\w*",
+    "surf": r"surf|surfea\w*|surf(?:ing|ers?|boards?|istas?|ear)",
     "fishing": r"pesca|pescar|fishing",
+    "ebike": r"e[-‐‑ ]?bikes?|e[-‐‑ ]?mtb|bicicletas? electricas?|electric mountain bik\w*",
+    "scuba": r"buce\w*|scuba|diving|dived?|dives|divemasters?|liveaboards?",
+    "snorkel": r"esnorquel|snorkel\w*",
+    "boat": r"lanchas?|embarcaciones?|ferr(?:y|ies|is)|catamaran\w*|boats?|pangas?|liveaboards?",
+    "border": r"fronteras?|puestos? migratorios?|border crossings?|land border",
+    "thermal": r"termales?|aguas calientes|hot springs?",
+    "trailrun": r"trail[- ]?run\w*|carrera(?:s)? de montana",
+    "utv": r"utvs?|side[- ]by[- ]sides?|bugg(?:y|ies)|cuadraciclos?|atvs?",
     "offroad": r"4x4|todo terreno|off[- ]?road\w*",
 }
 HOSTS = {
@@ -173,8 +181,7 @@ def main():
         for row in input_rows(paths, platform):
             add(platform, *row)
 
-    records = [item for path in sorted(DATA.glob("catalog*.tsv")) for item in read_table(path, RECORD_FIELDS)]
-    records.extend(read_json(DATA / "expeditions.json"))
+    records = list(read_records())
     by_name = defaultdict(set)
     for record in records:
         for term in recurring_names(record):

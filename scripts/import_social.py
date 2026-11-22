@@ -7,10 +7,15 @@ import unicodedata
 from collections import defaultdict
 from urllib.parse import urlsplit
 
-from build_catalog import DATA, RECORD_FIELDS, read_table
+from build_catalog import DATA, read_records
 
 
 ALIASES = {
+    "cocos-sea-hunter-11-liveaboard": ("isla del coco", "cocos island"),
+    "murcielago-bat-islands-scuba": ("islas murcielago", "bat islands"),
+    "ometepe-san-jorge-ferry": ("ferry a moyogalpa", "san jorge moyogalpa"),
+    "ometepe-charco-verde-walk": ("reserva natural charco verde", "charco verde"),
+
     "sabana-oka": ("sabanas oka", "sabana oka", "sabanas de oka"),
     "chirripo": ("cerro chirripo", "parque nacional chirripo", "chirripo"),
     "marino-ballena": ("marino ballena", "cola de la ballena"),
@@ -64,7 +69,7 @@ def normalized(value):
 
 def recurring_names(record):
     native = normalized(record["native"].split("·")[0].strip())
-    broad = {"playa", "camping", "costa rica", "arenal", "monteverde", "las catalinas", "hacienda orosi"}
+    broad = {"playa", "camping", "costa rica", "arenal", "monteverde", "las catalinas", "hacienda orosi", "discover scuba diving"}
     terms = ALIASES.get(record["id"], ())
     starting_point_only = record["id"] in {"guiones-samara-carrillo-27", "santa-teresa-nosara-gravel-101"}
     if len(native) >= 12 and native not in broad and not starting_point_only:
@@ -78,8 +83,7 @@ def main():
     config = parser.parse_args()
     with open(config.file, encoding="utf-8") as file:
         sample = json.load(file)
-    records = [row for path in DATA.glob("catalog*.tsv") for row in read_table(path, RECORD_FIELDS)]
-    records.extend(json.loads((DATA / "expeditions.json").read_text()))
+    records = read_records()
     tag_patterns = {
         record["id"]: [re.compile(r"(?<!\w)" + re.escape(term) + r"(?!\w)") for term in recurring_names(record)]
         for record in records

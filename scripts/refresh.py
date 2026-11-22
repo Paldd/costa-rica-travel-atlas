@@ -157,15 +157,28 @@ def inspect(feed, known, publisher_archives=()):
     return result
 
 
+def editorial_feeds(feeds, sources):
+    reviewed = {}
+    for feed in feeds:
+        source_id = feed.get("review")
+        if source_id is None:
+            continue
+        if source_id not in sources or canonical(feed["url"]) != canonical(sources[source_id]):
+            raise ValueError(f"Invalid review source {source_id} for {feed['url']}")
+        reviewed[source_id] = feed["url"]
+    return reviewed
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", type=Path, default=Path(".cache/refresh.json"))
     config = parser.parse_args()
     feeds = [feed for feed in json.loads((DATA / "feeds.json").read_text()) if feed.get("paths") or feed.get("exactPaths")]
-    sources = {row["id"]: canonical(row["url"]) for row in read_table(DATA / "sources.tsv", SOURCE_FIELDS)}
-    known = set(sources.values())
-    publisher_archives = {sources[row["archive"]] for row in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS)
+    sources = {row["id"]: row["url"] for row in read_table(DATA / "sources.tsv", SOURCE_FIELDS)}
+    known = {canonical(url) for url in sources.values()}
+    publisher_archives = {canonical(sources[row["archive"]]) for row in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS)
                           if row["archive"]}
+    publisher_archives.update(canonical(url) for url in editorial_feeds(feeds, sources).values())
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         results = list(pool.map(lambda feed: inspect(feed, known, publisher_archives), feeds))
     summary = {

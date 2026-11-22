@@ -682,7 +682,7 @@
     ],
     "nearby": [
       "la-central-rooftop-camp",
-      "ira-tur-ebike-aquiares",
+      "irazu-la-central-aquiares-emtb",
       "la-central-overland-weekend-2"
     ],
     "line": "la-pastora-central-calle"
@@ -858,79 +858,6 @@
       "central-la-tiendilla-7"
     ]
   },
-  "ira-tur-ebike-aquiares": {
-    "stops": [
-      {
-        "point": "irazu-craters-parking",
-        "role": "Посещение Ирасу · сектор Cráteres",
-        "note": "Уточните точную точку выдачи велосипеда и допуск на смотровую."
-      },
-      {
-        "point": "hacienda-la-central-official-pin",
-        "role": "Пауза на склонах · район La Central",
-        "note": "Координата асьенды; место остановки в туре сообщает оператор."
-      },
-      {
-        "point": "aquiares-cafetal-village",
-        "role": "Финишный район · кофейное селение Aquiares",
-        "note": "Подтвердите точку обеда и порядок возврата."
-      }
-    ],
-    "sections": [
-      {
-        "title": "Ход организованного тура",
-        "text": "У ARA опубликована поездка на весь день. Сначала посещают Ирасу, затем едут к склонам Турриальбы, делают остановку в La Central и спускаются к кофейной общине. Программу могут менять по погоде и дорожному доступу.",
-        "sources": [
-          "ara-irazu-turrialba-aquiares-ebike",
-          "ovsicori-live-volcano-state",
-          "central-turrialba-approaches"
-        ]
-      },
-      {
-        "title": "Выбор e-bike и экипировка",
-        "text": "При согласовании сообщите рост, опыт на спусках и желаемый темп. Уточните минимальный рост или возраст, двигатель, запас аккумулятора, воду, шлем, транспорт обратно и условия остановки тура при закрытии дороги.",
-        "sources": [
-          "ara-irazu-turrialba-aquiares-ebike",
-          "irazu",
-          "sinac-turrialba-official"
-        ]
-      },
-      {
-        "title": "Кофе после катания",
-        "text": "Кофейная община Aquiares проводит собственные экскурсии. В e-bike программе уточняйте, входит ли отдельная экскурсия с дегустацией; по желанию можно запланировать визит на другой день.",
-        "sources": [
-          "ara-irazu-turrialba-aquiares-ebike",
-          "aquiares-coffee-tour-operator"
-        ]
-      }
-    ],
-    "contacts": [
-      {
-        "name": "ARA Tours · дневная программа на e-bike",
-        "source": "ara-irazu-turrialba-aquiares-ebike",
-        "note": "Уточните место сбора, группу, размер велосипеда, актуальный путь, входы в парк и возврат.",
-        "url": "https://www.aratours.com/es/excursiones/bike-e-bike/2104-tour-de-dia-completo-en-e-bike-a-turrialba"
-      },
-      {
-        "name": "Aquiares Coffee · местный кофе",
-        "source": "aquiares-coffee-tour-operator",
-        "note": "Кофейный тур и посещение общины согласуются по форме оператора.",
-        "url": "https://www.aquiares.com/es/coffeetours"
-      },
-      {
-        "name": "Hacienda La Central · хозяйская команда",
-        "source": "central-turrialba-overland",
-        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
-        "phone": "+506 8414 4682",
-        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
-      }
-    ],
-    "nearby": [
-      "irazu-craters",
-      "la-central-rooftop-camp",
-      "central-ruta-pilas-10"
-    ]
-  },
   "la-central-overland-weekend-2": {
     "stops": [
       {
@@ -1015,7 +942,7 @@
     ],
     "nearby": [
       "la-central-calle-pastora",
-      "ira-tur-ebike-aquiares",
+      "irazu-la-central-aquiares-emtb",
       "la-central-rooftop-camp"
     ],
     "line": "la-pastora-central-calle",

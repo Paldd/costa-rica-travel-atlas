@@ -1,0 +1,841 @@
+{
+  "cocos-north-bays-dives": {
+    "stops": [
+      {
+        "point": "cocos-chatham-bay",
+        "role": "Бухта Чатем · северные дайв-сайты",
+        "note": "Точка показывает бухту. Место входа в воду утверждает команда."
+      },
+      {
+        "point": "cocos-wafer-bay",
+        "role": "Бухта Уэйфер · ориентир парка",
+        "note": "Капитан согласует стоянку и возможность высадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Районы по карте парка",
+        "text": "У северного берега выделяются стороны Мануэлиты, Рока-Сусия и другие скальные участки. Карта SINAC отмечает официальные зоны. Дайв-мастер сообщает, куда капитан ведёт малое судно.",
+        "sources": [
+          "cocos-sinac-marine-plan",
+          "cocos-undersea-program"
+        ]
+      },
+      {
+        "title": "Полевой отчёт Sea Hunter",
+        "text": "Сравните свежий ноябрьский отчёт Sea Hunter с сентябрьским рейсом и картой парка. Датированные фото помогают понять характер программы и мест. Состав встреч с животными и доступ к точкам меняются по условиям дня.",
+        "sources": [
+          "cocos-sea-hunter-nov-log",
+          "cocos-sea-hunter-sept-log",
+          "undersea-trip-reports"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Undersea Hunter · бронирование экспедиций",
+        "source": "cocos-undersea-contact",
+        "note": "Запросите подтверждённую каюту, точку трансфера, стоимость всех сборов и список допусков.",
+        "url": "https://underseahunter.com/contacts/",
+        "phone": "+506 8735 2392",
+        "email": "info@underseahunter.com"
+      },
+      {
+        "name": "SINAC · Área de Conservación Marina Coco",
+        "source": "cocos-sinac-visit",
+        "note": "Ведомство публикует правила, разрешения и режим посещения.",
+        "url": "https://demo.sinac.go.cr/ES/ASP/Ficha/pn-isla-del-coco",
+        "email": "acmc.info@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "cocos-sea-hunter-11-liveaboard"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "cocos-sea-hunter-nov-log",
+      "cocos-sea-hunter-sept-log",
+      "undersea-trip-reports"
+    ],
+    "photos": [
+      "cocos-manuelita-commons"
+    ]
+  },
+  "cocos-sea-hunter-11-liveaboard": {
+    "stops": [
+      {
+        "point": "cocos-puntarenas-city",
+        "role": "Пунтаренас · район посадки на судно",
+        "note": "Точку трансфера из Сан-Хосе и место посадки сообщает экипаж."
+      },
+      {
+        "point": "cocos-wafer-bay",
+        "role": "Бухта Уэйфер · ориентир парка",
+        "note": "Капитан согласует стоянку и возможность высадки."
+      },
+      {
+        "point": "cocos-chatham-bay",
+        "role": "Бухта Чатем · северные дайв-сайты",
+        "note": "Точка показывает бухту. Место входа в воду утверждает команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как забронировать",
+        "text": "Оператор публикует рейсы разной длительности. Здесь приведён его стандартный 11-дневный вариант. Запросите цену каюты, сборы за вход и погружения, трансфер и сроки отмены одним расчётом.",
+        "sources": [
+          "cocos-undersea-bookings",
+          "cocos-undersea-terms",
+          "cocos-sinac-visit"
+        ]
+      },
+      {
+        "title": "Подготовка к океанскому выходу",
+        "text": "Экипаж требует страховку, которая покрывает эвакуацию с острова. Сверьте медицинские формы и актуальность сертификатов до бронирования. В списке снаряжения есть дайв-компьютер. Маску, костюм и остальной комплект подберите с гидом по условиям рейса.",
+        "sources": [
+          "cocos-undersea-rules"
+        ]
+      },
+      {
+        "title": "Карта и выход на берег",
+        "text": "Чатем и Уэйфер служат географическими ориентирами. Разрешение выдаёт администрация парка, а заходы на берег и точные участки меняются по волне и распоряжениям рейнджеров. Общая карта помогает изучить зоны.",
+        "sources": [
+          "cocos-sinac-marine-plan",
+          "cocos-sinac-visit",
+          "cocos-undersea-program"
+        ]
+      },
+      {
+        "title": "Что видно в отчётах",
+        "text": "Сравните свежий ноябрьский отчёт Sea Hunter с сентябрьским рейсом и картой парка. Датированные фото помогают понять характер программы и мест. Состав встреч с животными и доступ к точкам меняются по условиям дня.",
+        "sources": [
+          "cocos-sea-hunter-nov-log",
+          "cocos-sea-hunter-sept-log",
+          "undersea-trip-reports"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Undersea Hunter · бронирование экспедиций",
+        "source": "cocos-undersea-contact",
+        "note": "Запросите подтверждённую каюту, точку трансфера, стоимость всех сборов и список допусков.",
+        "url": "https://underseahunter.com/contacts/",
+        "phone": "+506 8735 2392",
+        "email": "info@underseahunter.com"
+      },
+      {
+        "name": "SINAC · Área de Conservación Marina Coco",
+        "source": "cocos-sinac-visit",
+        "note": "Ведомство публикует правила, разрешения и режим посещения.",
+        "url": "https://demo.sinac.go.cr/ES/ASP/Ficha/pn-isla-del-coco",
+        "email": "acmc.info@sinac.go.cr"
+      }
+    ],
+    "nearby": [
+      "cocos-north-bays-dives"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "cocos-sea-hunter-nov-log",
+      "cocos-sea-hunter-sept-log",
+      "undersea-trip-reports"
+    ],
+    "photos": [
+      "cocos-manuelita-commons"
+    ]
+  },
+  "murcielago-bat-islands-scuba": {
+    "stops": [
+      {
+        "point": "playas-coco-harbor-beach",
+        "role": "Плайяс-дель-Коко · район посадки",
+        "note": "Уточните, где находится катер вашей команды."
+      },
+      {
+        "point": "murcielago-islands-area",
+        "role": "Острова Мурсьелаго · район погружений",
+        "note": "Метка обозначает архипелаг. Точки входа и выхода назначают капитан и гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Утренний выезд",
+        "text": "Scuba Dive Costa Rica обычно собирает группу около 06:30 и возвращается около 13:00. Подтвердите расписание, оснащение, одежду от ветра и включённый вход в морской сектор.",
+        "sources": [
+          "muri-scubadive-local"
+        ]
+      },
+      {
+        "title": "Разрешённые места",
+        "text": "ACG называет Сан-Педрильо, известный как Big Scare, и Bajo Negro среди разрешённых точек. Администрация ограничивает высадки на берега полуострова Санта-Элена и архипелага. Проверьте вход у капитана.",
+        "sources": [
+          "muri-acg-allowed",
+          "muri-acg-permit"
+        ]
+      },
+      {
+        "title": "Опыт и переносы",
+        "text": "В обсуждении дайверов описаны предварительные погружения и поездки, зависимые от погоды. Забронируйте с запасным днём и заранее спросите, как меняется программа при сильном ветре.",
+        "sources": [
+          "muri-richcoast-field",
+          "muri-field-divers-log"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Scuba Dive Costa Rica · лодка на Мурсьелаго",
+        "source": "muri-scubadive-local",
+        "note": "Уточните подтверждение выхода, место посадки, сертификат, опыт и включённый допуск в парк.",
+        "url": "https://scubadivecostarica.cr/diving-tours/bat-islands",
+        "phone": "+506 8602 6581",
+        "whatsapp": "https://wa.me/50686026581"
+      }
+    ],
+    "nearby": [
+      "catalina-flamingo-certified-dives"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "muri-scubadive-local",
+      "muri-richcoast-field"
+    ],
+    "videos": [
+      "muri-richcoast-video"
+    ]
+  },
+  "catalina-flamingo-certified-dives": {
+    "stops": [
+      {
+        "point": "flamingo-marina-area",
+        "role": "Марина Фламинго · район посадки",
+        "note": "Время и место встречи подтвердит дайв-центр."
+      },
+      {
+        "point": "catalina-sea-islands-area",
+        "role": "Острова Каталинас · морской ориентир",
+        "note": "Это острова в открытой воде. Конкретный сайт выбирают по погоде и квалификации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор катера и участка",
+        "text": "Основной выезд у оператора на два погружения. В программе могут сменить участок Северного Тихого океана по условиям моря. В день брони узнайте порядок смены маршрута.",
+        "sources": [
+          "catalina-pcdc-tour",
+          "catalina-pcdc-sites"
+        ]
+      },
+      {
+        "title": "Семья с разным опытом",
+        "text": "Оператор предлагает отдельный формат пробного дайвинга и лодочные места для сопровождающих. Уточните, совпадают ли разрешённые точки и какой формат подходит вашей группе.",
+        "sources": [
+          "catalina-pcdc-tours-library",
+          "catalina-pcdc-booking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pacific Coast Dive Center · бронирование во Фламинго",
+        "source": "catalina-pcdc-booking",
+        "note": "Сообщите возраст, подготовку и адрес проживания. Запросите место сбора и условия переноса.",
+        "url": "https://www.pacificcoastdivecenter.com/booking/",
+        "phone": "+506 8827 4515",
+        "email": "reservations@pacificcoastdivecenter.com"
+      }
+    ],
+    "nearby": [
+      "catalina-flamingo-discover-scuba",
+      "murcielago-bat-islands-scuba"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "catalina-pcdc-sites"
+    ]
+  },
+  "catalina-flamingo-discover-scuba": {
+    "stops": [
+      {
+        "point": "flamingo-marina-area",
+        "role": "Марина Фламинго · район посадки",
+        "note": "Время и место встречи подтвердит дайв-центр."
+      },
+      {
+        "point": "catalina-sea-islands-area",
+        "role": "Острова Каталинас · морской ориентир",
+        "note": "Это острова в открытой воде. Конкретный сайт выбирают по погоде и квалификации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит в занятие",
+        "text": "Сначала инструктор знакомит с экипировкой и основными навыками. Центр предоставляет комплект. Место практики и длительность подтверждают с учётом группы.",
+        "sources": [
+          "catalina-pcdc-discover"
+        ]
+      },
+      {
+        "title": "Поездка с семьёй",
+        "text": "Спросите, можно ли младшему ребёнку и взрослому сопровождать группу на лодке или присоединиться к отдельной программе снорклинга. Центральная встреча и трансферы публикуются у отдела бронирования.",
+        "sources": [
+          "catalina-pcdc-tours-library",
+          "catalina-pcdc-booking"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pacific Coast Dive Center · бронирование во Фламинго",
+        "source": "catalina-pcdc-booking",
+        "note": "Сообщите возраст, подготовку и адрес проживания. Запросите место сбора и условия переноса.",
+        "url": "https://www.pacificcoastdivecenter.com/booking/",
+        "phone": "+506 8827 4515",
+        "email": "reservations@pacificcoastdivecenter.com"
+      }
+    ],
+    "nearby": [
+      "catalina-flamingo-certified-dives"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "catalina-pcdc-sites"
+    ]
+  },
+  "punta-uva-caribbean-reef-dive": {
+    "stops": [
+      {
+        "point": "punta-uva-dive-center-area",
+        "role": "Punta Uva Dive Center · район встречи",
+        "note": "Ориентир с карты центра. Подтвердите береговой подход у команды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Форматы и размер группы",
+        "text": "Центр заявляет выезды для сертифицированных участников, Discover Scuba и курсы PADI. Для семьи с разным уровнем попросите объяснить, кто и где сможет участвовать.",
+        "sources": [
+          "punta-uva-dive-owner",
+          "punta-uva-dive-padi"
+        ]
+      },
+      {
+        "title": "Проверка состояния рифа",
+        "text": "Локальный путеводитель отмечает сезонный режим. Узнайте видимость и состояние прибоя непосредственно у центра. При переносе можно обсудить береговую прогулку или спокойный речной каяк по отдельным условиям.",
+        "sources": [
+          "punta-uva-dive-village-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Punta Uva Dive Center · местная команда",
+        "source": "punta-uva-dive-owner",
+        "note": "Спросите о текущей видимости, состоянии моря и доступном варианте по подготовке группы.",
+        "url": "https://puntauvadivecenter.com/",
+        "phone": "+506 8844 4432",
+        "email": "info@puntauvadivecenter.com"
+      }
+    ],
+    "nearby": [
+      "punta-uva",
+      "punta-uva-local-kayak"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "punta-uva-dive-owner"
+    ]
+  },
+  "boca-brava-cabins-forest": {
+    "stops": [
+      {
+        "point": "pa-boca-chica-public-pier",
+        "role": "Бока-Чика · посадка на материке",
+        "note": "Операторы подтверждают точный причал и паркинг."
+      },
+      {
+        "point": "pa-boca-brava-lodge-pin",
+        "role": "Бока-Брава · островной лодж",
+        "note": "Водное такси подходит к подножию лестницы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Старт и ночёвка",
+        "text": "Водное такси обычно идёт около пяти минут. На материке уточняйте парковку и время возвращения, на острове оцените лестницу и расстояние от домика до кафе.",
+        "sources": [
+          "pa-boca-brava-access"
+        ]
+      },
+      {
+        "title": "Тропы и опыт гостей",
+        "text": "Владелец описывает два береговых подхода и короткие прогулки в лесу. Гости в отзывах на странице отмечают тишину и близость троп. Для каяка заранее спросите о ветре, секторах лоцманского прохода и наличии жилета.",
+        "sources": [
+          "pa-boca-brava-cabins",
+          "pa-boca-field-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Boca Brava Lodge · домики и высадка",
+        "source": "pa-boca-brava-access",
+        "note": "Согласуйте лодку туда и обратно, багаж, лестницу от причала и размер семейного домика.",
+        "url": "https://bocabravalodge.com/getting-here.html",
+        "phone": "+507 6216 9710",
+        "whatsapp": "https://wa.me/50762169710",
+        "email": "bocabravalodge@gmail.com"
+      }
+    ],
+    "nearby": [
+      "boca-chica-gamez-bolanos-boat"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "pa-boca-brava-gallery",
+      "pa-boca-brava-cabins"
+    ]
+  },
+  "boca-chica-gamez-bolanos-boat": {
+    "stops": [
+      {
+        "point": "pa-boca-chica-public-pier",
+        "role": "Бока-Чика · посадка на материке",
+        "note": "Операторы подтверждают точный причал и паркинг."
+      },
+      {
+        "point": "pa-bolanos-landing-area",
+        "role": "Остров Боланьос · береговой ориентир",
+        "note": "Заход зависит от волны и текущих правил парка."
+      },
+      {
+        "point": "pa-gamez-landing-area",
+        "role": "Остров Гамес · район высадки",
+        "note": "Капитан подтверждает пляж и место остановки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маски, доска и обед",
+        "text": "У Boca Brava Adventures сверяйте наличие масок отдельно, у Chiriqui Tours заявлен комплект по запросу и SUP. Уточните законную зону для доски, детские жилеты, навес от солнца и наличие воды.",
+        "sources": [
+          "pa-boca-gamez-bolanos-host",
+          "pa-boca-chiriqui-alternative"
+        ]
+      },
+      {
+        "title": "Острова и дни с волнением",
+        "text": "Маршрут идёт через морской парк. У воды много доступных по сезону вариантов, капитан сверяет возможные места высадки и границы. При волнении можно обсудить короткий береговой выход у Бока-Бравы.",
+        "sources": [
+          "pa-golfo-chiriqui-park-plan",
+          "pa-golfo-chiriqui-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Boca Brava Adventures · Гамес и Боланьос",
+        "source": "pa-boca-gamez-bolanos-host",
+        "note": "Согласуйте место посадки, жилеты для детей, маски и место возможного обеда.",
+        "url": "https://www.bocabravaadventures.com/tour/gamez-and-bolanos-islands-tour/"
+      },
+      {
+        "name": "Chiriqui Tours · лодка с SUP по запросу",
+        "source": "pa-boca-chiriqui-alternative",
+        "note": "Сверьте список заходов и включённое снаряжение в вашем выезде.",
+        "url": "https://www.chiriquitours.com/service-page/gulf-of-chiriqui"
+      }
+    ],
+    "nearby": [
+      "boca-brava-cabins-forest"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "pa-boca-chiriqui-alternative",
+      "pa-boca-brava-gallery"
+    ]
+  },
+  "paso-canoas-boca-chica-family-4": {
+    "stops": [
+      {
+        "point": "frontier-paso-canoas-cci",
+        "role": "Пасо-Каноас · контроль со стороны Коста-Рики",
+        "note": "Район оформления выезда."
+      },
+      {
+        "point": "frontier-paso-canoas-pa",
+        "role": "Пасо-Каноас · панамский контроль",
+        "note": "Следуйте инструкциям перевозчика и пограничников."
+      },
+      {
+        "point": "frontier-david",
+        "role": "Давид · пересадка на местный трансфер",
+        "note": "Сверьте время под панамский часовой пояс."
+      },
+      {
+        "point": "pa-boca-chica-public-pier",
+        "role": "Бока-Чика · посадка на материке",
+        "note": "Операторы подтверждают точный причал и паркинг."
+      },
+      {
+        "point": "pa-boca-brava-lodge-pin",
+        "role": "Бока-Брава · островной лодж",
+        "note": "Водное такси подходит к подножию лестницы."
+      },
+      {
+        "point": "pa-bolanos-landing-area",
+        "role": "Остров Боланьос · береговой ориентир",
+        "note": "Заход зависит от волны и текущих правил парка."
+      },
+      {
+        "point": "pa-gamez-landing-area",
+        "role": "Остров Гамес · район высадки",
+        "note": "Капитан подтверждает пляж и место остановки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Стыковка без своей машины",
+        "text": "У Tracopa есть международный автобус до Давида. Оттуда до Бока-Чики лучше заранее согласовать местный трансфер и следующий катер. При позднем приезде остановитесь на материке или в Давиде до следующего утра.",
+        "sources": [
+          "frontier-tracopa-david",
+          "pa-boca-brava-access"
+        ]
+      },
+      {
+        "title": "Резерв по морю и документам",
+        "text": "Океанская часть зависит от ветра, а переход границы занимает переменное время. Подтвердите визовые правила, условия для детей и документы на въезд у официальной миграционной службы. Оставьте время на замену островного тура.",
+        "sources": [
+          "frontier-pa-tourist-faq",
+          "pa-golfo-chiriqui-park-plan"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Boca Brava Lodge · домики и высадка",
+        "source": "pa-boca-brava-access",
+        "note": "Согласуйте лодку туда и обратно, багаж, лестницу от причала и размер семейного домика.",
+        "url": "https://bocabravalodge.com/getting-here.html",
+        "phone": "+507 6216 9710",
+        "whatsapp": "https://wa.me/50762169710",
+        "email": "bocabravalodge@gmail.com"
+      },
+      {
+        "name": "Boca Brava Adventures · Гамес и Боланьос",
+        "source": "pa-boca-gamez-bolanos-host",
+        "note": "Согласуйте место посадки, жилеты для детей, маски и место возможного обеда.",
+        "url": "https://www.bocabravaadventures.com/tour/gamez-and-bolanos-islands-tour/"
+      },
+      {
+        "name": "Chiriqui Tours · лодка с SUP по запросу",
+        "source": "pa-boca-chiriqui-alternative",
+        "note": "Сверьте список заходов и включённое снаряжение в вашем выезде.",
+        "url": "https://www.chiriquitours.com/service-page/gulf-of-chiriqui"
+      }
+    ],
+    "nearby": [
+      "boca-brava-cabins-forest",
+      "boca-chica-gamez-bolanos-boat",
+      "paso-canoas-boquete-coffee-4"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "pa-boca-brava-gallery",
+      "pa-boca-chiriqui-alternative"
+    ]
+  },
+  "ometepe-san-jorge-ferry": {
+    "stops": [
+      {
+        "point": "ni-san-jorge-port",
+        "role": "Сан-Хорхе · порт на материке",
+        "note": "Проверьте название нужного островного порта при посадке."
+      },
+      {
+        "point": "ni-moyogalpa-port",
+        "role": "Мойогальпа · пассажирский причал",
+        "note": "Трансфер и такси организуют от терминала."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как различать два порта острова",
+        "text": "Мойогальпа на западе острова принимает большинство пассажирских рейсов. Сан-Хосе-дель-Сур расположен южнее. На табло и в билете проверьте полное название порта.",
+        "sources": [
+          "ni-ometepe-eaai",
+          "ni-ometepe-ferry-guide"
+        ]
+      },
+      {
+        "title": "Поездка без машины",
+        "text": "Местные размещения публикуют таблицы рейсов и помогают с пересадкой. Спросите о такси от порта и перевозке багажа. Запрос на место для автомобиля оформляют отдельно у перевозчика.",
+        "sources": [
+          "ni-ometepe-soma-ferry",
+          "ni-ometepe-ferry-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Monkeys Travels · местные гиды и ориентиры парома",
+        "source": "ni-ometepe-ferry-guide",
+        "note": "Подтвердите стыковку рейсов и трансфер на стороне Никарагуа.",
+        "url": "https://monkeytravelstours.com/en/guides/san-jorge-ometepe-ferry-schedule",
+        "whatsapp": "https://wa.me/50585061173"
+      },
+      {
+        "name": "Hospedaje Soma · база в Мойогальпе",
+        "source": "ni-ometepe-soma-stay",
+        "note": "Уточните домик, трансфер от порта и время последнего парома в даты поездки.",
+        "url": "https://www.hospedajesoma.com/"
+      }
+    ],
+    "nearby": [
+      "ometepe-charco-verde-walk",
+      "ometepe-ojo-de-agua-swim"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-ometepe-ferry-guide"
+    ],
+    "line": "ni-san-jorge-moyogalpa-open-ferry"
+  },
+  "ometepe-charco-verde-walk": {
+    "stops": [
+      {
+        "point": "ni-charco-verde-access",
+        "role": "Чарко-Верде · вход у гостиницы",
+        "note": "Уточните у входа состояние тропы, особенно после дождя."
+      },
+      {
+        "point": "ni-charco-verde-lagoon",
+        "role": "Район лагуны",
+        "note": "Пешеходная точка. Доступ к воде и места остановок уточняют на входе."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут с детьми",
+        "text": "Тропу можно пройти отдельно по указателям или в местной программе с гидом. Отчёт Along Dusty Roads показывает подход через Hotel Charco Verde и участок у озера.",
+        "sources": [
+          "ni-ometepe-field-charco",
+          "ni-ometepe-intur"
+        ]
+      },
+      {
+        "title": "Связать с купелями",
+        "text": "Рядом в одну поездку можно включить Охо-де-Агуа. Местные гиды публикуют дневной вариант с обоими местами и трансфером от парома.",
+        "sources": [
+          "ni-ometepe-tour-local",
+          "ni-ometepe-intur"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Monkeys Travels · местные гиды и ориентиры парома",
+        "source": "ni-ometepe-ferry-guide",
+        "note": "Подтвердите стыковку рейсов и трансфер на стороне Никарагуа.",
+        "url": "https://monkeytravelstours.com/en/guides/san-jorge-ometepe-ferry-schedule",
+        "whatsapp": "https://wa.me/50585061173"
+      }
+    ],
+    "nearby": [
+      "ometepe-san-jorge-ferry",
+      "ometepe-ojo-de-agua-swim"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-ometepe-field-charco",
+      "ni-ometepe-tour-local"
+    ]
+  },
+  "ometepe-ojo-de-agua-swim": {
+    "stops": [
+      {
+        "point": "ni-ojo-agua-ticket",
+        "role": "Охо-де-Агуа · зона касс",
+        "note": "Возьмите время на покупку входа и переодевание."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Когда ехать",
+        "text": "INTUR включает Охо-де-Агуа в маршрут по острову. Местный организатор Monkeys Travels предлагает отдельную остановку по пути от причала. При самостоятельном визите уточните часы и время обратного транспорта.",
+        "sources": [
+          "ni-ometepe-intur",
+          "ni-ometepe-tour-local"
+        ]
+      },
+      {
+        "title": "Купание и вход",
+        "text": "Глубину и открытые участки лучше узнать у сотрудников. Согласуйте оплату и возрастные условия заранее, если группа больше одной семьи.",
+        "sources": [
+          "ni-ometepe-ojo-intur"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ojo de Agua · контакты из реестра INTUR",
+        "source": "ni-ometepe-ojo-intur",
+        "note": "Подтвердите часы, условия для детей и стоимость входа.",
+        "url": "https://www.visitanicaragua.com/en/establishments/water-eye-8589/",
+        "email": "rnojodeaguaometepe@gmail.com"
+      },
+      {
+        "name": "Monkeys Travels · местные гиды и ориентиры парома",
+        "source": "ni-ometepe-ferry-guide",
+        "note": "Подтвердите стыковку рейсов и трансфер на стороне Никарагуа.",
+        "url": "https://monkeytravelstours.com/en/guides/san-jorge-ometepe-ferry-schedule",
+        "whatsapp": "https://wa.me/50585061173"
+      }
+    ],
+    "nearby": [
+      "ometepe-charco-verde-walk",
+      "ometepe-san-jorge-ferry"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-ometepe-tour-local"
+    ]
+  },
+  "penas-ometepe-ferry-no-car-4": {
+    "stops": [
+      {
+        "point": "frontier-penas-cr",
+        "role": "Пеньяс-Бланкас · миграция Коста-Рики",
+        "note": "Используйте официальный выход."
+      },
+      {
+        "point": "frontier-penas-ni",
+        "role": "Пеньяс-Бланкас · миграция Никарагуа",
+        "note": "Документы для детей и предварительные формы проверьте по вашему гражданству."
+      },
+      {
+        "point": "ni-san-jorge-port",
+        "role": "Сан-Хорхе · порт на материке",
+        "note": "Проверьте название нужного островного порта при посадке."
+      },
+      {
+        "point": "ni-moyogalpa-port",
+        "role": "Мойогальпа · пассажирский причал",
+        "note": "Трансфер и такси организуют от терминала."
+      },
+      {
+        "point": "ni-charco-verde-access",
+        "role": "Чарко-Верде · вход у гостиницы",
+        "note": "Уточните у входа состояние тропы, особенно после дождя."
+      },
+      {
+        "point": "ni-ojo-agua-ticket",
+        "role": "Охо-де-Агуа · зона касс",
+        "note": "Возьмите время на покупку входа и переодевание."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Переход и стыковка",
+        "text": "INTUR указывает официальные режимы въезда. Согласуйте первую пересадку на стороне Никарагуа и спросите про поездку в Сан-Хорхе. Поездка строится пешеходными пересадками и местным транспортом.",
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-ni-land-vehicle",
+          "ni-ometepe-ferry-guide"
+        ]
+      },
+      {
+        "title": "Два порта на Ометепе",
+        "text": "Попросите обратный паром именно из вашего порта. Если на входе в систему Мойогальпа закрыта временно, пересогласуйте транспорт на острове и новый причал с гидом.",
+        "sources": [
+          "ni-ometepe-eaai",
+          "ni-ometepe-soma-ferry"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Monkeys Travels · местные гиды и ориентиры парома",
+        "source": "ni-ometepe-ferry-guide",
+        "note": "Подтвердите стыковку рейсов и трансфер на стороне Никарагуа.",
+        "url": "https://monkeytravelstours.com/en/guides/san-jorge-ometepe-ferry-schedule",
+        "whatsapp": "https://wa.me/50585061173"
+      },
+      {
+        "name": "Hospedaje Soma · база в Мойогальпе",
+        "source": "ni-ometepe-soma-stay",
+        "note": "Уточните домик, трансфер от порта и время последнего парома в даты поездки.",
+        "url": "https://www.hospedajesoma.com/"
+      }
+    ],
+    "nearby": [
+      "ometepe-san-jorge-ferry",
+      "ometepe-charco-verde-walk",
+      "ometepe-ojo-de-agua-swim"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ni-ometepe-tour-local",
+      "ni-ometepe-field-charco"
+    ]
+  },
+  "uvita-ballena-chaman-ebike-loop": {
+    "stops": [
+      {
+        "point": "uvita-el-chaman-camp-entry",
+        "role": "Calle Playa Chamán · район старта",
+        "note": "Метка въезда к действующему кемпингу, рядом с улицей из отчёта. Точный старт на странице трека."
+      },
+      {
+        "point": "marino-uvita-gate",
+        "role": "Сектор Увита · береговой ориентир",
+        "note": "Ориентир рядом с парком. Допуск велосипеда через вход уточняйте у персонала."
+      },
+      {
+        "point": "colonia-chaman-approach",
+        "role": "Сектор Колония · подъезд к берегу",
+        "note": "Улица заканчивается у района входа в парк. Дальше запланируйте посещение по правилам SINAC."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Покрытие и темп",
+        "text": "Автор проехал круг за 39 минут. Маршрут включает грунт, гравий и дорогу с автомобильным движением. После дождя уточните проходимость грязного ответвления, а в час пик выберите короткую поездку по местной улице.",
+        "sources": [
+          "uvita-wikiloc-chaman-ebe",
+          "cr-road-cycle-law"
+        ]
+      },
+      {
+        "title": "Где взять велосипед и закончить выезд",
+        "text": "Местный справочник называет La Casa del Ciclista. Уточните e-bike для конкретного дня, заряд, размер шлема и правила возврата. После катания можно оставить велосипед у проверенного места и отдельно пройти к берегу через вход парка.",
+        "sources": [
+          "uvita-local-bike-rent",
+          "marino",
+          "uvita-colonia-local-beach-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Casa del Ciclista · мастерская в Увите",
+        "source": "uvita-local-bike-rent",
+        "note": "Подтвердите свободный электровелосипед, покрытие и короткий местный вариант.",
+        "url": "https://todouvita.com/c/bikerent",
+        "phone": "+506 8595 2870",
+        "whatsapp": "https://wa.me/50685952870"
+      }
+    ],
+    "nearby": [
+      "marino-ballena",
+      "uvita-el-chaman-colonia-camp",
+      "uvita-casa-viva-forest-camp"
+    ],
+    "track": "uvita-wikiloc-chaman-ebe",
+    "connectStops": false,
+    "galleries": [
+      "uvita-colonia-local-beach-guide"
+    ]
+  }
+}

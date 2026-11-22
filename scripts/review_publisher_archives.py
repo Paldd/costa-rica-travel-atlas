@@ -12,9 +12,9 @@ from urllib.error import URLError
 from urllib.parse import parse_qs, urlsplit
 from urllib.request import build_opener
 
-from build_catalog import DATA, PUBLISHER_FIELDS, RECORD_FIELDS, SOURCE_FIELDS, read_table
+from build_catalog import DATA, PUBLISHER_FIELDS, SOURCE_FIELDS, read_records, read_table
 from import_social import normalized, recurring_names
-from refresh import AGENT, SameSiteRedirect, canonical, host, request, robots_rules, sitemap_date
+from refresh import AGENT, SameSiteRedirect, canonical, editorial_feeds, host, request, robots_rules, sitemap_date
 from review_social_posts import PLACE_NAME, TOPICS, publication
 
 
@@ -156,8 +156,7 @@ def read_archive(archive, urls, analyze):
 
 
 def analyzer():
-    rows = [row for path in sorted(DATA.glob("catalog*.tsv")) for row in read_table(path, RECORD_FIELDS)]
-    rows.extend(json.loads((DATA / "expeditions.json").read_text()))
+    rows = read_records()
     terms = {}
     for row in rows:
         for name in recurring_names(row):
@@ -263,6 +262,9 @@ def main():
     for row in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS):
         if row["archive"]:
             archives.setdefault(row["archive"], []).append(row["profile"])
+    feeds = json.loads((DATA / "feeds.json").read_text())
+    for source_id in editorial_feeds(feeds, catalog):
+        archives.setdefault(source_id, [])
     index = {canonical(row["url"]): row for row in read_json(args.refresh, {})["results"]}
     state = read_json(args.state, {})
     current = []
@@ -298,6 +300,8 @@ def main():
     native_candidates = social_candidates(state, archives, catalog)
     summary = {"dayUtc": day.isoformat(), "archives": len(archives),
                "archivesRead": sum(row["status"] == "read" for row in current),
+               "profileArchives": sum(bool(profiles) for profiles in archives.values()),
+               "independentArchives": sum(not profiles for profiles in archives.values()),
                "pagesChecked": len(pages), "pagesRead": len(pages_read),
                "pagesReadToDate": len(all_pages_read),
                "videoLinks": len({link for row in pages for link in row.get("videoLinks", [])}),

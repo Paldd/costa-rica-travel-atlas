@@ -1,3 +1,5 @@
+import { resolveRecordId } from "./catalog.js";
+
 const storageKey = "cr-atlas-trips-v1";
 const emptyDay = () => ({ note: "", entries: [] });
 
@@ -17,6 +19,21 @@ function read() {
 
 export function initialTripPlans() {
   return read() ?? { trips: [], activeId: "" };
+}
+
+export function resolveTripRoutes(state, aliases = {}) {
+  if (!Object.keys(aliases).length) return state;
+  return {
+    ...state,
+    trips: state.trips.map(trip => ({
+      ...trip,
+      sourceId: resolveRecordId(trip.sourceId, aliases),
+      days: trip.days.map(day => ({
+        ...day,
+        entries: day.entries.map(stop => ({ ...stop, recordId: resolveRecordId(stop.recordId, aliases) })),
+      })),
+    })),
+  };
 }
 
 export function saveTripPlans(fallback, change, useDisk) {

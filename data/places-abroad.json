@@ -1,0 +1,223 @@
+[
+  {
+    "id": "boca-brava-cabins-forest",
+    "kind": "place",
+    "region": "chiriqui-coast",
+    "title": "Бока-Брава · островные домики, тропы и два береговых спуска",
+    "native": "Boca Brava Lodge · Isla Boca Brava · Gulf of Chiriquí, Panamá",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "boat",
+      "kayak",
+      "hiking",
+      "beach",
+      "forest",
+      "wildlife",
+      "cafe",
+      "relax"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "pa-boca-brava-cabins",
+      "pa-boca-brava-access",
+      "pa-golfo-chiriqui-ict"
+    ],
+    "summary": "Домики над заливом Чирики. От причала Бока-Чики до лоджа короткое водное такси, на острове есть лесные проходы к берегу и ресторан.",
+    "plan": "Согласуйте лодку под время приезда. Попросите размеры семейного домика, условия подъёма багажа по лестнице и местные выезды.",
+    "conditions": "От лодочного причала вверх ведёт лестница. Для семей с маленькими детьми уточните подстраховку при посадке, доступ к берегу по приливу и размеры жилетов.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "boca-chica-gamez-bolanos-boat",
+    "kind": "trail",
+    "region": "chiriqui-coast",
+    "title": "Бока-Чика → Гамес и Боланьос · лодка к светлым пляжам Чирики",
+    "native": "Boca Chica · Isla Gámez · Isla Bolaños · Parque Nacional Marino Golfo de Chiriquí",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "boat",
+      "snorkel",
+      "sup",
+      "beach",
+      "white-sand",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "boat",
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "pa-boca-gamez-bolanos-host",
+      "pa-boca-chiriqui-alternative",
+      "pa-golfo-chiriqui-ict",
+      "pa-golfo-chiriqui-park-plan"
+    ],
+    "summary": "С общественного причала в Бока-Чике выходят к светлым пляжам Гамеса и Боланьоса. В некоторых версиях добавляют Париду, маски и SUP.",
+    "plan": "Сверьте два острова и время лодки. Boca Brava Adventures обычно выходит между 08:00 и 09:00. Chiriqui Tours даёт другой список остановок и включает SUP по программе при подходящих условиях.",
+    "conditions": "Маски для варианта Boca Brava Adventures обычно берут с собой. Порядок высадок и доступ к воде капитан подтверждает по ветру, приливу и правилам парка.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "ometepe-san-jorge-ferry",
+    "kind": "trail",
+    "region": "ometepe",
+    "title": "Сан-Хорхе → Мойогальпа · паром на остров Ометепе",
+    "native": "Puerto San Jorge · Ferry a Moyogalpa · Lago Cocibolca · Ometepe, Nicaragua",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "boat",
+      "lake",
+      "volcano",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "public",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-ometepe-eaai",
+      "ni-ometepe-ferry-guide",
+      "ni-ometepe-soma-ferry",
+      "ni-san-jorge-current-map"
+    ],
+    "summary": "Пассажирская переправа из Сан-Хорхе в Мойогальпу через озеро Кокиболька. Государственный справочник указывает около 17 км и один час в пути.",
+    "plan": "Проверьте расписание для выбранного причала и держите запас до последнего выхода. Покупайте билет после проверки порта и рейса.",
+    "conditions": "Сан-Хосе-дель-Сур обслуживается отдельно. При ветре и праздниках время рейсов может меняться. Согласуйте место трансфера в зависимости от порта прибытия.",
+    "distance": 17,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "ometepe-charco-verde-walk",
+    "kind": "trail",
+    "region": "ometepe",
+    "title": "Чарко-Верде · короткая прогулка к лагуне и чёрному пляжу",
+    "native": "Reserva Natural Charco Verde · Ometepe · Lago Cocibolca, Nicaragua",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "wildlife",
+      "forest",
+      "lake",
+      "beach",
+      "dark-sand"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-ometepe-intur",
+      "ni-ometepe-field-charco",
+      "ni-ometepe-tour-local"
+    ],
+    "summary": "Прогулка по хоженой тропе у лагуны с видами на озеро и вулканы. У входа есть гостиница, в заповеднике встречаются лесные участки и берег с вулканическим песком.",
+    "plan": "Начните у входа со стороны Hotel Charco Verde и уточните, какой круг проходит после дождя. Попросите гида подобрать короткий вариант для детей.",
+    "conditions": "Тропа бывает грязной. Вода на берегу зависит от ветра и уровня озера. Перед купанием или арендой каяка спросите на месте о доступном секторе.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "ometepe-ojo-de-agua-swim",
+    "kind": "place",
+    "region": "ometepe",
+    "title": "Охо-де-Агуа · прохладные купели на острове Ометепе",
+    "native": "El Ojo de Agua · Isla de Ometepe · Nicaragua",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "swim",
+      "lake",
+      "relax",
+      "forest"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "ni-ometepe-ojo-intur",
+      "ni-ometepe-intur",
+      "ni-ometepe-tour-local"
+    ],
+    "summary": "Управляемая территория с купелями, которые питаются источником. Удобная остановка между паромом, прогулкой по Чарко-Верде и возвращением в Мойогальпу.",
+    "plan": "Уточните часы работы комплекса, глубину зон, наличие раздевалки и правила захода в воду для детей.",
+    "conditions": "Берите полотенце и обувь с хорошим сцеплением. В выходные просите у местного гида подсказать менее загруженное время.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  }
+]

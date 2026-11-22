@@ -6,9 +6,9 @@ import {
 } from "lucide-react";
 import {
   accessModes, activities, audiences, chosenActivities, countries, difficulty, durationLabel, filters, fold, kinds,
-  lodging, mapsLink, regions, secondaryFilters, sourceKinds, visibleRecords,
+  lodging, mapsLink, regions, resolveRecordId, secondaryFilters, sourceKinds, visibleRecords,
 } from "./catalog.js";
-import { addRouteToTrip, editTrip, initialTripPlans, newTrip, saveTripPlans, selectNewTrip } from "./tripPlans.js";
+import { addRouteToTrip, editTrip, initialTripPlans, newTrip, resolveTripRoutes, saveTripPlans, selectNewTrip } from "./tripPlans.js";
 import "./styles.css";
 
 const AtlasMap = lazy(() => import("./AtlasMap.jsx"));
@@ -568,7 +568,7 @@ function App() {
   const activePlan = tripPlans.trips.find(plan => plan.id === tripPlans.activeId);
 
   function updatePlans(change) {
-    const result = saveTripPlans(tripPlans, change, !storageError);
+    const result = saveTripPlans(tripPlans, current => change(resolveTripRoutes(current, atlas?.recordAliases)), !storageError);
     setTripPlans(result.plans);
     setStorageError(!result.stored);
   }
@@ -583,7 +583,12 @@ function App() {
     fetch(asset("atlas.json"), { cache: "no-cache" }).then(response => {
       if (!response.ok) throw new Error("catalog");
       return response.json();
-    }).then(setAtlas).catch(() => setError(true));
+    }).then(data => {
+      const aliases = data.recordAliases;
+      setSaved(current => new Set([...current].map(id => resolveRecordId(id, aliases))));
+      setTripPlans(current => resolveTripRoutes(current, aliases));
+      setAtlas(data);
+    }).catch(() => setError(true));
   }, []);
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -599,7 +604,8 @@ function App() {
       return next;
     });
   }
-  const record = atlas?.records.find(row => row.id === route.id);
+  const recordId = resolveRecordId(route.id, atlas?.recordAliases);
+  const record = atlas?.records.find(row => row.id === recordId);
   useEffect(() => {
     document.title = record ? record.title + " · Атлас Коста-Рики" : "Атлас Коста-Рики";
   }, [record]);

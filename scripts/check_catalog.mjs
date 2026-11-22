@@ -1,14 +1,28 @@
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import {
-  accessModes, activities, audiences, countries, difficulty, kinds, lodging, regions, visibleRecords,
+  accessModes, activities, audiences, countries, difficulty, kinds, lodging, mapsLink, regions, resolveRecordId, visibleRecords,
 } from "../src/catalog.js";
 import { createGpx } from "../src/gpx.js";
+import { resolveTripRoutes } from "../src/tripPlans.js";
 
 const atlas = JSON.parse(readFileSync(new URL("../public/atlas.json", import.meta.url)));
 const records = atlas.records;
 const known = new Set(records.map(row => row.id));
 assert.equal(known.size, records.length);
+for (const [previous, canonical] of Object.entries(atlas.recordAliases)) {
+  assert.match(previous, /^[a-z0-9]+(?:-[a-z0-9]+)*$/);
+  assert(!known.has(previous) && known.has(canonical), previous);
+}
+const oldIrazu = "ira-tur-ebike-aquiares";
+const irazu = "irazu-la-central-aquiares-emtb";
+assert.equal(resolveRecordId(oldIrazu, atlas.recordAliases), irazu);
+const savedPlan = { activeId: "trip", trips: [{ id: "trip", sourceId: oldIrazu, days: [{
+  note: "Original plan", entries: [{ key: "ride", recordId: oldIrazu, visited: true }],
+}] }] };
+const [resolvedPlan] = resolveTripRoutes(savedPlan, atlas.recordAliases).trips;
+assert.equal(resolvedPlan.sourceId, irazu);
+assert.deepEqual(resolvedPlan.days[0].entries, [{ key: "ride", recordId: irazu, visited: true }]);
 assert.equal(new Set(records.map(row => row.region)).size, Object.keys(regions).length);
 for (const source of Object.values(atlas.sources)) {
   assert.equal(new URL(source.url).protocol, "https:", source.id);
@@ -90,6 +104,15 @@ assert(find({ activity: "packraft", region: "central" }).some(row => row.id === 
 assert(find({ km: "ten", activity: "hiking" }).some(row => row.id === "palo-verde-cerro-alto"));
 assert(find({ km: "hundred", activity: "hiking", detail: "map" }, "expeditions").some(row => row.id === "el-camino-102"));
 assert(find({ activity: "ebike", detail: "map" }).some(row => row.id === "pinilla-emtb"));
+assert(find({ activity: "ebike", region: "south" }).some(row => row.id === "uvita-ballena-chaman-ebike-loop"));
+assert(find({ activity: "scuba", sleep: "liveaboard", duration: "long" }, "expeditions")
+  .some(row => row.id === "cocos-sea-hunter-11-liveaboard"));
+assert(find({ country: "pa", region: "chiriqui-coast", activity: "boat" })
+  .some(row => row.id === "paso-canoas-boca-chica-family-4"));
+const ferry = find({ country: "ni", region: "ometepe", activity: "boat" })
+  .find(row => row.id === "ometepe-san-jorge-ferry");
+assert(ferry && decodeURIComponent(mapsLink(ferry)).endsWith("Nicaragua"));
+assert(atlas.lines[ferry.dossier.line].coords.length > 5);
 assert(find({ activity: "own-craft", detail: "map" }).some(row => row.id === "pacuare-own-craft"));
 assert.equal(find({ region: "caribbean" }, "saved", new Set(["sabana-oka"])).length, 0);
 assert.equal(find({}, "saved", new Set(["sabana-oka"])).length, 1);

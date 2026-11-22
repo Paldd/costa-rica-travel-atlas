@@ -9222,5 +9222,367 @@
         ]
       }
     ]
+  },
+  {
+    "id": "cocos-sea-hunter-11-liveaboard",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Исла-дель-Коко · 11 дней на борту Sea Hunter из Пунтаренаса",
+    "native": "Cocos Island · Sea Hunter · Undersea Hunter · 11 days / 10 nights",
+    "level": "expedition",
+    "days": 11,
+    "activities": [
+      "scuba",
+      "boat",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "liveaboard"
+    ],
+    "sources": [
+      "cocos-undersea-program",
+      "cocos-undersea-bookings",
+      "cocos-undersea-rules",
+      "cocos-undersea-terms",
+      "cocos-sinac-visit",
+      "cocos-sinac-marine-plan",
+      "cocos-sea-hunter-sept-log"
+    ],
+    "summary": "Океанская экспедиция на 11 дней и 10 ночей. Переход из Пунтаренаса занимает примерно 32–36 часов в одну сторону. Типовая программа выделяет семь дней на погружения.",
+    "plan": "Прибудьте в Сан-Хосе накануне и согласуйте трансфер. Подтвердите оплату сборов парка, страховку с эвакуацией именно с Isla del Coco, медицинские формы, сертификаты и полный состав пакета. После возвращения оставьте запас на ночь на материке.",
+    "conditions": "Требуется Advanced Open Water и Nitrox либо Open Water, Deep Diver и Nitrox. Оператор рекомендует как минимум 50 записанных погружений и оценивает готовность участника по условиям каждого дня.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сан-Хосе → Пунтаренас · посадка и выход",
+        "note": "Трансфер от назначенного отеля. Экипаж подтверждает причал или посадку с малого судна в зависимости от прилива.",
+        "stops": [],
+        "sources": [
+          "cocos-undersea-program",
+          "cocos-undersea-rules"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Переход к острову · сбор снаряжения",
+        "note": "День в море. Проверьте размер костюма, дайв-компьютер и документы. Проведите брифинг с командой.",
+        "stops": [],
+        "sources": [
+          "cocos-undersea-program",
+          "cocos-undersea-rules"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Кокос · первый день погружений",
+        "note": "Капитан и дайв-мастер подберут участок для знакомства с местными условиями и оценят подготовку группы.",
+        "stops": [
+          "cocos-north-bays-dives"
+        ],
+        "sources": [
+          "cocos-undersea-program",
+          "cocos-sinac-marine-plan"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Первая часть программы у северных бухт",
+        "note": "Уточните назначенные точки. На карте парка видно положение Мануэлиты относительно бухты Чатем.",
+        "stops": [
+          "cocos-north-bays-dives"
+        ],
+        "sources": [
+          "cocos-undersea-program",
+          "cocos-sinac-marine-plan"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Морские участки по условиям дня",
+        "note": "Команда выбирает места по течению и видимости. Чередуйте выходы с отдыхом на борту по расписанию дайв-мастера.",
+        "stops": [
+          "cocos-north-bays-dives"
+        ],
+        "sources": [
+          "cocos-undersea-program"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Скальные участки и пауза на борту",
+        "note": "Сверьте расписание и допуск на следующий выход. В обычной программе до трёх погружений за день.",
+        "stops": [
+          "cocos-north-bays-dives"
+        ],
+        "sources": [
+          "cocos-undersea-program",
+          "cocos-undersea-rules"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Погружения или согласованная высадка",
+        "note": "Экипаж иногда согласует прогулку по острову. Выбор между ней и погружением сделайте после разрешения на высадку.",
+        "stops": [
+          "cocos-north-bays-dives"
+        ],
+        "sources": [
+          "cocos-undersea-rules",
+          "cocos-sinac-visit"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Последний полный день у острова",
+        "note": "Уточните условия у капитана и время завтрашнего выхода. Сохраните журнал погружений и согласуйте оставшиеся участки.",
+        "stops": [
+          "cocos-north-bays-dives"
+        ],
+        "sources": [
+          "cocos-undersea-program"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Финальные погружения и курс к материку",
+        "note": "Дайв-мастер утверждает финальную программу. Затем экипаж начинает обратный переход.",
+        "stops": [
+          "cocos-north-bays-dives"
+        ],
+        "sources": [
+          "cocos-undersea-program"
+        ]
+      },
+      {
+        "day": 10,
+        "title": "Океанский переход к Пунтаренасу",
+        "note": "Время собрать снаряжение, сверить журнал и подтвердить расписание берегового трансфера.",
+        "stops": [],
+        "sources": [
+          "cocos-undersea-program"
+        ]
+      },
+      {
+        "day": 11,
+        "title": "Пунтаренас → Сан-Хосе · высадка",
+        "note": "Трансфер после выхода на берег. Учитывайте погодный резерв и интервал до перелёта из плана дайв-оператора.",
+        "stops": [],
+        "sources": [
+          "cocos-undersea-program",
+          "cocos-undersea-rules"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paso-canoas-boca-chica-family-4",
+    "kind": "trip",
+    "region": "south",
+    "regions": ["chiriqui-coast"],
+    "title": "Пасо-Каноас → Бока-Чика · четыре дня на островах и берегу",
+    "native": "Paso Canoas · David · Boca Chica · Isla Boca Brava · Isla Gámez · Isla Bolaños",
+    "level": "moderate",
+    "days": 4,
+    "activities": [
+      "border",
+      "boat",
+      "snorkel",
+      "kayak",
+      "beach",
+      "white-sand",
+      "hiking",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "frontier-tracopa-david",
+      "frontier-pa-tourist-faq",
+      "pa-boca-brava-access",
+      "pa-boca-gamez-bolanos-host",
+      "pa-golfo-chiriqui-park-plan"
+    ],
+    "summary": "Поездка из Коста-Рики через Пасо-Каноас и Давид. Две ночи в домиках на острове, отдельный день для лодки к Гамесу и Боланьосу и запас на возвращение.",
+    "plan": "Согласуйте автобус до Давида, местный трансфер до Бока-Чики и водное такси. На каждом плече подтвердите пересадку. Панама использует время на час вперёд относительно Коста-Рики.",
+    "conditions": "Проверяйте документы обеих стран для каждого участника. На островах учитывайте длительную посадку в небольшие лодки, отсутствие тени на части маршрута и условия морского парка.",
+    "distance": null,
+    "countries": [
+      "cr",
+      "pa"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Коста-Рика → Пасо-Каноас → Давид",
+        "note": "Перейдите границу по официальным пунктам. Если катер уже поздний, первую ночь проведите в Давиде.",
+        "stops": [],
+        "sources": [
+          "frontier-tracopa-david",
+          "frontier-pa-tourist-faq"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Давид → Бока-Чика → Бока-Брава",
+        "note": "Местный трансфер к причалу и водное такси. После заселения пройдите к берегу по доступной тропе.",
+        "stops": [
+          "boca-brava-cabins-forest"
+        ],
+        "sources": [
+          "pa-boca-brava-access",
+          "pa-boca-brava-cabins"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Гамес и Боланьос · лодка и остановки на островах",
+        "note": "Сверьте погоду, размеры жилетов, комплектацию и время возвращения. При замене выезда уточните береговую прогулку.",
+        "stops": [
+          "boca-chica-gamez-bolanos-boat",
+          "boca-brava-cabins-forest"
+        ],
+        "sources": [
+          "pa-boca-gamez-bolanos-host",
+          "pa-golfo-chiriqui-park-plan"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Бока-Чика → Давид → Коста-Рика",
+        "note": "Подтвердите раннюю лодку и запас до международного автобуса.",
+        "stops": [
+          "boca-brava-cabins-forest"
+        ],
+        "sources": [
+          "frontier-tracopa-david",
+          "pa-boca-brava-access"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "penas-ometepe-ferry-no-car-4",
+    "kind": "trip",
+    "region": "guanacaste",
+    "regions": ["ometepe"],
+    "title": "Пеньяс-Бланкас → Ометепе · четыре дня без своей машины",
+    "native": "Peñas Blancas · Rivas · San Jorge · Moyogalpa · Charco Verde · Ojo de Agua",
+    "level": "moderate",
+    "days": 4,
+    "activities": [
+      "border",
+      "boat",
+      "lake",
+      "volcano",
+      "hiking",
+      "swim",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "frontier-ni-tourist-req",
+      "frontier-ni-land-vehicle",
+      "ni-ometepe-eaai",
+      "ni-ometepe-ferry-guide",
+      "ni-ometepe-intur",
+      "ni-ometepe-soma-stay"
+    ],
+    "summary": "Из Коста-Рики через Пеньяс-Бланкас к материковому причалу Сан-Хорхе. Затем паром до Мойогальпы, местная база, Чарко-Верде и холодные источники Охо-де-Агуа.",
+    "plan": "Сначала согласуйте транспорт на обеих сторонах границы и уточните паром. Для первого дня оставьте запас на оформление и ночь у материкового порта. На острове заранее договоритесь о местном транспорте.",
+    "conditions": "Документы и предварительное оформление зависят от гражданства. Погодные отмены парома возможны. Международный переезд после обратного рейса планируйте с большим запасом.",
+    "distance": null,
+    "countries": [
+      "cr",
+      "ni"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Коста-Рика → Пеньяс-Бланкас → Сан-Хорхе",
+        "note": "Пройдите официальные пункты. Используйте запасной вариант с ночёвкой на материке, если поздно прибываете к причалу.",
+        "stops": [],
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-ni-land-vehicle"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Сан-Хорхе → Мойогальпа · паром и островная база",
+        "note": "После посадки проверьте время обратного рейса, затем выберите жильё или забронированный трансфер у терминала.",
+        "stops": [
+          "ometepe-san-jorge-ferry"
+        ],
+        "sources": [
+          "ni-ometepe-ferry-guide",
+          "ni-ometepe-soma-stay"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Чарко-Верде → Охо-де-Агуа",
+        "note": "Утром короткая лесная прогулка, после обеда прохладный источник. Согласуйте переходы с местным организатором под темп детей.",
+        "stops": [
+          "ometepe-charco-verde-walk",
+          "ometepe-ojo-de-agua-swim"
+        ],
+        "sources": [
+          "ni-ometepe-intur",
+          "ni-ometepe-tour-local"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Мойогальпа → Сан-Хорхе → Коста-Рика",
+        "note": "Выберите утренний паром и перепроверьте пересадку до границы с учётом погодного резерва.",
+        "stops": [
+          "ometepe-san-jorge-ferry"
+        ],
+        "sources": [
+          "ni-ometepe-ferry-guide",
+          "frontier-ni-tourist-req"
+        ]
+      }
+    ]
   }
 ]

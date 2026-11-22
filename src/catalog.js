@@ -9,6 +9,8 @@ export const regions = {
   mountains: "Южные горы",
   south: "Южный Тихий океан",
   caribbean: "Карибское побережье",
+  ometepe: "Ометепе и озеро Кокиболька",
+  "chiriqui-coast": "Залив Чирики",
 };
 
 export const activities = {
@@ -58,7 +60,8 @@ export const difficulty = {
 
 export const lodging = {
   day: "Без ночёвки", tent: "Наземная палатка", roof: "Палатка на крыше",
-  glamping: "Глэмпинг", lodge: "Лодж, домик или приют", confirm: "Ночёвку уточнить",
+  glamping: "Глэмпинг", lodge: "Лодж, домик или приют", liveaboard: "Каюта на судне",
+  confirm: "Ночёвку уточнить",
 };
 
 export const kinds = {
@@ -176,4 +179,11 @@ export function visibleRecords(records, filters, scope, saves) {
   });
 }
 
-export const mapsLink = record => `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(record.native + " Costa Rica")}`;
+const mapCountryNames = { cr: "Costa Rica", pa: "Panamá", ni: "Nicaragua" };
+
+export const mapsLink = record => {
+  const country = mapCountryNames[record.countries?.[0] || "cr"];
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(record.native + " " + country)}`;
+};
+
+export const resolveRecordId = (id, aliases = {}) => Object.hasOwn(aliases, id) ? aliases[id] : id;

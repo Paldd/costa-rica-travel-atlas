@@ -80,7 +80,7 @@
         "text": "Трансфер из Сан-Хосе к кратерам, велоэтап мимо леса Боске-Кемадо и Ла-Сентраль, спуск в Акиарес и автомобильный возврат. Правила входа в сектор Cráteres публикует SINAC. Уточните у ARA, входит ли билет в программу.",
         "sources": [
           "ara-turrialba-emtb",
-          "ara-turrialba-emtb-es",
+          "ara-irazu-turrialba-aquiares-ebike",
           "irazu"
         ]
       },
@@ -90,6 +90,23 @@
         "sources": [
           "ara-turrialba-emtb",
           "ara-volcanoes-rider-film"
+        ]
+      },
+      {
+        "title": "Открытие секторов и объезд",
+        "text": "Перед бронированием проверьте состояние доступа к кратерам Ирасу и к Ла-Сентраль. У гида запросите погодный объезд и порядок автомобильного возврата, если доступ на горный участок закрыт.",
+        "sources": [
+          "ovsicori-live-volcano-state",
+          "central-turrialba-approaches",
+          "sinac-turrialba-official"
+        ]
+      },
+      {
+        "title": "Кофе после катания",
+        "text": "Кофейная община Aquiares проводит собственные экскурсии. В e-bike программе уточняйте, входит ли отдельная экскурсия с дегустацией; по желанию можно запланировать визит на другой день.",
+        "sources": [
+          "ara-irazu-turrialba-aquiares-ebike",
+          "aquiares-coffee-tour-operator"
         ]
       }
     ],
@@ -101,9 +118,26 @@
         "url": "https://www.aratours.com/en/excursions/bike-e-bike/2102-full-day-e-bike-tour-to-turrialba",
         "phone": "+506 2232 0400",
         "whatsapp": "https://wa.me/50688933863"
+      },
+      {
+        "name": "Aquiares Coffee · местный кофе",
+        "source": "aquiares-coffee-tour-operator",
+        "note": "Кофейный тур и посещение общины согласуются по форме оператора.",
+        "url": "https://www.aquiares.com/es/coffeetours"
+      },
+      {
+        "name": "Hacienda La Central · хозяйская команда",
+        "source": "central-turrialba-overland",
+        "note": "Уточните высоту и длину машины, место под крышную палатку, состояние дороги и время въезда. Дополнительно можно запросить питание и гида.",
+        "phone": "+506 8414 4682",
+        "url": "https://www.haciendalacentral.com/reservas-en-linea.html"
       }
     ],
-    "nearby": [],
+    "nearby": [
+      "irazu-craters",
+      "la-central-rooftop-camp",
+      "central-ruta-pilas-10"
+    ],
     "connectStops": false,
     "galleries": [
       "ara-turrialba-emtb"

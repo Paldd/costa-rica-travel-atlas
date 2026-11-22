@@ -565,5 +565,14 @@
     "license": "CC BY 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Bahia_Culebra_-_panoramio.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  "cocos-manuelita-commons": {
+    "file": "cocos-manuelita-commons.jpg",
+    "alt": "Скалистый островок Мануэлита у острова Кокос",
+    "caption": "Мануэлита у северного берега острова Кокос. Фото 2010 года.",
+    "author": "Axxis10",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Islote_Manuelita_en_Isla_del_Coco.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   }
 }
