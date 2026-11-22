@@ -1,0 +1,427 @@
+[
+  {
+    "id": "los-santos-coffee-ebike-5",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Лос-Сантос · 5 дней, 90 км на e-bike и кофейные фермы",
+    "native": "Go Bike CR · Ruta del Café–Los Santos · León Cortés · Dota",
+    "level": "hard",
+    "days": 5,
+    "activities": [
+      "cycling",
+      "ebike",
+      "road-bike",
+      "coffee",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "car"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ebike-gobike-los-santos",
+      "gobike-emtb-support",
+      "ict-los-santos-rural-coffee"
+    ],
+    "summary": "Пятидневный тур с тремя велоэтапами по кофейным холмам и четырьмя ночёвками. Электровелосипед подбирают по запросу.",
+    "plan": "После дня встречи программа даёт 26, 30 и 34 км. Суммарно +2 198 м. На последнем велоэтапе едут из района Леон-Кортеса в Доту.",
+    "conditions": "Расписание и состав остановок зависят от подтверждения команды. Публичная карточка даёт четыре строки по дням, расписание пятого дня согласуйте при заказе.",
+    "distance": 90,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Встреча и кофейное знакомство",
+        "note": "Заберите велосипед, уточните посадку и зарядку в местах ночёвок.",
+        "stops": [],
+        "sources": [
+          "ebike-gobike-los-santos",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Los Tres Cerros",
+        "note": "26 км и +700 м по программе. Согласуйте места старта, подбора и остановок.",
+        "stops": [],
+        "sources": [
+          "ebike-gobike-los-santos"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Второй велодень в кофейной зоне",
+        "note": "30 км и +763 м. Название этапа в программе связано с местным производством и гастрономией.",
+        "stops": [],
+        "sources": [
+          "ebike-gobike-los-santos"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Леон-Кортес — Дота",
+        "note": "34 км, +735 м. Кофейные адреса и часы работы уточните вместе с гидом.",
+        "stops": [
+          "coopedota-santa-maria-coffee"
+        ],
+        "sources": [
+          "ebike-gobike-los-santos",
+          "ict-los-santos-rural-coffee"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Резерв под завершение программы",
+        "note": "Детали последнего дня и точку окончания сообщит организатор.",
+        "stops": [],
+        "sources": [
+          "ebike-gobike-los-santos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nosara-lagarta-ebike-five-rides-7",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Носара · неделя с e-bike, пять велодней и база Lagarta Lodge",
+    "native": "Bike Tour Costa Rica · Lagarta Lodge · Guiones · Ostional · San Juanillo · Garza",
+    "level": "hard",
+    "days": 7,
+    "activities": [
+      "cycling",
+      "ebike",
+      "mtb",
+      "multi",
+      "views",
+      "forest",
+      "surf",
+      "sup"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "car"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ebike-nosara-bike-tour-schedule",
+      "ebike-nosara-lagarta-gallery",
+      "ebike-nosara-mtb-local-guide",
+      "ebike-nosara-pachamama-visitor"
+    ],
+    "summary": "Недельная программа местной команды с одной базой и пятью выездами, механиком и машиной поддержки. Оператор указывает примерно 150 км.",
+    "plan": "После поездки из Либерии предусмотрены холмы Пачамамы, лесные и прибрежные выезды, подъём Cerro San Juan и ежедневное возвращение в отель.",
+    "conditions": "Группа 4–8 человек, e-bike в списке вариантов пакета. В публикации дни 3 и 4 частично повторяются. Запрашивайте окончательный план, альтернативы бродам и пляжным секциям и раму по росту.",
+    "distance": 150,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Трансфер Либерия — Носара",
+        "note": "Заселение на шесть ночей, настройка велосипеда и план на неделю.",
+        "stops": [],
+        "sources": [
+          "ebike-nosara-bike-tour-schedule",
+          "ebike-nosara-lagarta-gallery"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пачамама",
+        "note": "Базовый вариант через Остиональ и Рио-Монтанья длится около 2,5 часа.",
+        "stops": [
+          "nosara-ostional-pachamama-guided-ebike"
+        ],
+        "sources": [
+          "ebike-nosara-bike-tour-schedule"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Плайя-Венадо, Сан-Хуанильо и Остиональ",
+        "note": "Указан выезд примерно на четыре часа. Время и изменения маршрута уточните у гида.",
+        "stops": [],
+        "sources": [
+          "ebike-nosara-bike-tour-schedule"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Следующий велодень с выбором команды",
+        "note": "Организатор повторяет часть описания предыдущего дня. Попросите отдельное описание и фактический GPX этапа.",
+        "stops": [],
+        "sources": [
+          "ebike-nosara-bike-tour-schedule"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Серро-Сан-Хуан и Плайя-Гарса",
+        "note": "Горный подъём и спуск к Гарсе. Альтернатива от оператора — местная Boquete Route, 28 км, либо заповедник.",
+        "stops": [],
+        "sources": [
+          "ebike-nosara-bike-tour-schedule"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Холмы и речная долина",
+        "note": "В полном варианте много пересечений реки. После ливней согласуйте безопасную замену и способ подбора.",
+        "stops": [],
+        "sources": [
+          "ebike-nosara-bike-tour-schedule",
+          "ebike-nosara-mtb-local-guide"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Возвращение в Либерию",
+        "note": "Трансфер и возврат оборудования по условиям компании.",
+        "stops": [],
+        "sources": [
+          "ebike-nosara-bike-tour-schedule"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guanacaste-arenal-tortuguero-supported-ebike-10",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Гуанакасте — Ареналь — Тортугеро · 10 дней на e-bike, рафте и лодках",
+    "native": "Lizard Head Cycling Guides · Playa Hermosa · Arenal · Orosí · Irazú · Pacuare · Tortuguero",
+    "level": "expedition",
+    "days": 10,
+    "activities": [
+      "cycling",
+      "ebike",
+      "road-bike",
+      "multi",
+      "rafting",
+      "boat",
+      "volcano",
+      "lake",
+      "forest",
+      "river",
+      "views"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "ebike-lizard-pacific-tortuguero",
+      "ebike-tortuguero-pavona-travelogue",
+      "ebike-trainerroad-cr-forum",
+      "pacuare-1"
+    ],
+    "summary": "Сопровождаемая экспедиция с семью днями катания и прокатным e-bike от партнёра. Сухой лес, берег Ареналя, вулканический спуск, рафтинг и каналы.",
+    "plan": "После Либерии маршрут идёт через Эрмосу в Гуанакасте, Ареналь, Ороси, склоны Ирасу и Пакуаре. Затем велосипеды и лодки используются на отдельных участках Тортугеро.",
+    "conditions": "Оператор указывает 170 миль, около 274 км, и доплату $450 за e-bike. Маршрут, набор, трансферы и хранение велосипедов на речных участках подтверждает команда.",
+    "distance": 274,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Либерия — Плайя-Эрмоса",
+        "note": "Встреча в Либерии, трансфер к Плайя-Эрмоса в Гуанакасте, выдача и настройка.",
+        "stops": [
+          "hermosa-pura-paddle"
+        ],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Гуанакасте по просёлкам",
+        "note": "25 миль, около 40 км. Участки сухого леса и скотоводческих районов в программе.",
+        "stops": [],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Северный берег Ареналя",
+        "note": "31 миля, около 50 км, по программе. Согласуйте реальную схему и трафик на дату.",
+        "stops": [],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Ла-Фортуна",
+        "note": "День без обязательного велоэтапа. Можно выбрать прогулку или термальные бассейны.",
+        "stops": [
+          "arenal-coladas",
+          "arenal-paddle"
+        ],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Ороси — возвышенности Турриальбы",
+        "note": "25 миль, около 40 км. Организаторы описывают сельские дороги и участки кофейных долин.",
+        "stops": [
+          "orosi-cachi-224-32"
+        ],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Вулканический спуск с Ирасу",
+        "note": "30 миль, около 48 км. Старт и длительный спуск на велосипеде. Верхний слой и исправные тормоза особенно важны.",
+        "stops": [
+          "irazu-craters"
+        ],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Велопереезд и рафтинг на Пакуаре",
+        "note": "18 миль, около 29 км езды, затем рафтинг. Параметры воды и участие уточняет проводник.",
+        "stops": [
+          "pacuare-day"
+        ],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero",
+          "pacuare-1"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Ла-Павона и лодка в Тортугеро",
+        "note": "20 миль, около 32 км езды, затем лодка. У экипажа уточняйте схему хранения e-bike на материке.",
+        "stops": [
+          "tortuguero-no-car"
+        ],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero",
+          "ebike-tortuguero-pavona-travelogue"
+        ]
+      },
+      {
+        "day": 9,
+        "title": "Каналы и карибский велоэтап",
+        "note": "Прогулка на лодке с натуралистом. Ещё 20 миль, около 32 км, после возвращения на материковую сторону.",
+        "stops": [
+          "tortuguero-canals"
+        ],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      },
+      {
+        "day": 10,
+        "title": "Завершение",
+        "note": "Возврат прокатной техники и выезд из Коста-Рики по согласованной логистике.",
+        "stops": [],
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sarapiqui-venecia-ebike-float-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Сарапики — Венесия · два дня с e-bike, палаткой и речным сплавом",
+    "native": "San Miguel · Venecia · Aguas Zarcas · La Virgen · Sarapiquí Outdoor Center",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "cycling",
+      "ebike",
+      "road-bike",
+      "river",
+      "boat",
+      "camping",
+      "glamping",
+      "views"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "tent",
+      "glamping"
+    ],
+    "sources": [
+      "ebike-north-ict-corridor",
+      "ebike-ict-sarau-activities",
+      "ebike-osm-road-corridors",
+      "sarapiqui-safari-float",
+      "ebike-congos-camping-listing",
+      "tolomuco-glamping-host-listing"
+    ],
+    "summary": "План выходных на своём e-bike. Вначале местные дороги между Сарапики и Сан-Карлосом, затем ночёвка у реки и спокойный сплав с гидом.",
+    "plan": "Оставьте одну машину на финише велоэтапа и возвращайтесь к La Virgen. У ночёвки согласуйте сухое хранение и возможность зарядить батарею.",
+    "conditions": "Быстрые участки Ruta 140 требуют опыта движения с автомобилями. Изменения у реки и формат ночёвки согласуйте на выбранную дату. У водной программы свои требования по возрасту и погоде.",
+    "distance": 23.9,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Велодень между Сан-Мигелем и Агуас-Саркас",
+        "note": "23,9 км в одну сторону. Возможен короткий финиш в Венесии. После велодня переезжайте на подтверждённую площадку в Сарапики.",
+        "stops": [
+          "san-miguel-venecia-aguas-zarcas-ebike-24",
+          "tolomuco-river-glamping",
+          "chilamate-los-congos-camping"
+        ],
+        "sources": [
+          "ebike-north-ict-corridor",
+          "ebike-osm-road-corridors",
+          "ebike-congos-camping-listing",
+          "tolomuco-glamping-host-listing"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Сарапики со стороны воды",
+        "note": "Выберите спокойный сплав с местным оператором. На сильной воде следуйте выбранной им программе или перенесите выезд.",
+        "stops": [
+          "sarapiqui-float"
+        ],
+        "sources": [
+          "sarapiqui-safari-float"
+        ]
+      }
+    ]
+  }
+]

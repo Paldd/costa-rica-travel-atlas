@@ -1,0 +1,793 @@
+{
+  "tamarindo-langosta-pedelec-6": {
+    "stops": [
+      {
+        "point": "tamarindo-estuary-road-reference",
+        "role": "Матапало · начало на улице",
+        "note": "Старт возле Soda Buffet El Estero. Устье остаётся ориентиром."
+      },
+      {
+        "point": "tamarindo-iguana",
+        "role": "Тамариндо · береговой квартал",
+        "note": "Можно остановиться на кофе и пройти к пляжу пешком."
+      },
+      {
+        "point": "ebike-langosta-road-end",
+        "role": "Лангоста · финиш велоучастка и разворот",
+        "note": "Последний участок по Calle España. Через пеший проход идите к берегу без велосипеда, если площадка хранения согласована."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорожная линия и время",
+        "text": "6,45 км в обе стороны по велосипедному расчёту на данных OpenStreetMap. Для спокойного темпа и двух остановок удобно оставить 1–2 часа. Centro Tamarindo — участок с общим трафиком.",
+        "sources": [
+          "ebike-osm-road-corridors",
+          "ebike-tamarindo-local-guide"
+        ]
+      },
+      {
+        "title": "Свой e-bike и условия проката",
+        "text": "Для категории электровелосипеда нужен педальный привод с помощью до 25 км/ч на ровной поверхности. EZ Rides публикует максимальную скорость 45–50 км/ч. Уточните ограничение именно ассистента, условия допуска к улицам и шлем; до подтверждения планируйте свой подходящий велосипед.",
+        "sources": [
+          "cr-law-10651-pedelec",
+          "ebike-tamarindo-ezspec",
+          "ebike-tamarindo-ezrides"
+        ]
+      },
+      {
+        "title": "Берег и остановки",
+        "text": "В Лангосте гуляют вдоль берега и смотрят на закат. Местный путеводитель отмечает камни и тянущие течения у устья. Для занятия с инструктором есть отдельная карточка Тамариндо.",
+        "sources": [
+          "ebike-tamarindo-langosta-guide",
+          "ebike-langosta-official-hotel"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "EZ Rides · спецификация и выдача",
+        "source": "ebike-tamarindo-ezrides",
+        "note": "info@ezrides-cr.com. Попросите данные конкретной модели, письменные условия использования на улице и залог."
+      }
+    ],
+    "nearby": [
+      "tamarindo-surf",
+      "tamarindo-estuary-kayak",
+      "tamarindo-brasilito-gravel-24"
+    ],
+    "connectStops": false,
+    "line": "ebike-langosta-asphalt",
+    "photos": [
+      "tamarindo-aerial-archive",
+      "tamarindo-estuary-matapalo"
+    ],
+    "galleries": [
+      "ebike-tamarindo-langosta-guide",
+      "ebike-langosta-official-hotel"
+    ]
+  },
+  "san-miguel-venecia-aguas-zarcas-ebike-24": {
+    "stops": [
+      {
+        "point": "ebike-north-san-miguel",
+        "role": "Сан-Мигель · начало велолинии",
+        "note": "Ориентир в посёлке. Выехать на Ruta 140 можно после проверки потока."
+      },
+      {
+        "point": "ebike-north-venecia",
+        "role": "Венесия · сквер, вода и короткий финиш",
+        "note": "К этому месту первые примерно 12,6 км. Договоритесь о подборе вне проезжей части."
+      },
+      {
+        "point": "ebike-north-aguas-zarcas",
+        "role": "Агуас-Саркас · район финиша",
+        "note": "Ориентир на торговой площади. Стоянку и точки ожидания выбирайте по местным указателям."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина, направление и покрытие",
+        "text": "Велосипедная линия 23,9 км в одну сторону. Вариант ICT идёт по межрайонному коридору. Расчёт от Венесии использует несколько местных улиц, включая Calle Los Negritos и Calle Los Alpes, затем возвращается на Ruta 140. Степень укатанности местных участков после дождя проверьте у жителей.",
+        "sources": [
+          "ebike-north-ict-corridor",
+          "ebike-osm-road-corridors"
+        ]
+      },
+      {
+        "title": "Трафик, время и выдача велосипеда",
+        "text": "По отзывам райдеров на TrainerRoad загруженность и обочины сильно отличаются от дороги к дороге. Утренний выезд оставляет время для пересмотра маршрута в Венесии. Привозите свой e-bike или заранее забирайте подходящую модель в Сан-Хосе. Для поездки возьмите две бутылки воды, насос, камеру и задний свет.",
+        "sources": [
+          "ebike-trainerroad-cr-forum",
+          "cr-law-10651-pedelec",
+          "puromtb-bike-rent"
+        ]
+      },
+      {
+        "title": "Как провести выходные",
+        "text": "Короткий вариант заканчивается у парка Венесии. На второй день можно поплавать с гидом по Сарапики, посетить лес или остаться с палаткой в Чиламате.",
+        "sources": [
+          "ebike-ict-sarau-activities",
+          "sarapiqui-safari-float",
+          "ebike-congos-camping-listing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sarapiquí Outdoor Center · сплав и ночёвка",
+        "source": "sarapiqui-safari-float",
+        "note": "Запись, класс воды, место сбора и возраст для выбранного сплава."
+      }
+    ],
+    "nearby": [
+      "pozo-azul-sarapiqui",
+      "sarapiqui-float",
+      "chilamate-los-congos-camping",
+      "sarapiqui-venecia-ebike-float-2",
+      "puro-mtb-sabana-ebike-rental"
+    ],
+    "connectStops": false,
+    "line": "ebike-north-route-140",
+    "galleries": [
+      "ebike-north-ict-corridor",
+      "ebike-ict-sarau-activities"
+    ]
+  },
+  "esparza-diablo-penas-blancas-ebike-42": {
+    "stops": [
+      {
+        "point": "ebike-esparza-penas",
+        "role": "Пеньяс-Бланкас · ориентир на карте",
+        "note": "Координата школы. В часы занятий оставляйте проезд свободным."
+      },
+      {
+        "point": "ebike-esparza-mesetas",
+        "role": "Лас-Месетас · дорожный ориентир района",
+        "note": "Южный ориентир для планирования логистики. Старт, финиш и реальный проезд даны у автора трека."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дистанция и характер рельефа",
+        "text": "Первичный отчёт от февраля 2025 года отмечает 42,03 км, набор 1 840 м, высоты 136–799 м, 3:17 движения и 5:56 вместе с остановками. На фото есть открытые склоны и речные точки.",
+        "sources": [
+          "ebike-esparza-diablo-community"
+        ]
+      },
+      {
+        "title": "Покрытие, группа и запас батареи",
+        "text": "Технический горный вариант для уверенных райдеров. На гребне мало тени. Возьмите воду, ремонтный набор, защиту коленей и заранее сохраните маршрут и варианты схода. Отправной точкой для сравнения служит другой архивный трек автора, на 38,14 км и +1 496 м.",
+        "sources": [
+          "ebike-esparza-diablo-community",
+          "ebike-esparza-38-community"
+        ]
+      },
+      {
+        "title": "Подъезд и проходы",
+        "text": "Проверьте брод, ворота и состояние грунта у местных перед поездкой. В карточке показаны публичные ориентиры. Данные о старте, финише и линии доступны на странице автора.",
+        "sources": [
+          "ebike-esparza-division",
+          "ebike-esparza-penas-map",
+          "ebike-esparza-diablo-community"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Эспарсы · район и местные дороги",
+        "source": "ebike-esparza-division",
+        "note": "Уточнение вопросов к дорожной службе и проезжаемых участков."
+      }
+    ],
+    "nearby": [
+      "hacienda-vieja-san-mateo-ebike-40",
+      "miramar-palmar-rio-seco-36",
+      "puro-mtb-sabana-ebike-rental"
+    ],
+    "connectStops": false,
+    "track": "ebike-esparza-diablo-community",
+    "galleries": [
+      "ebike-esparza-diablo-community"
+    ]
+  },
+  "hacienda-vieja-san-mateo-ebike-40": {
+    "stops": [
+      {
+        "point": "ebike-hacienda-vieja",
+        "role": "Асъенда-Вьеха · район старта и сбора",
+        "note": "Спортплощадка даёт ориентир для въезда в посёлок. Проверьте старт по авторской карте."
+      },
+      {
+        "point": "ebike-desmonte",
+        "role": "Десмонте · сельская развилка",
+        "note": "После подъёма к Cerro Chompipe возможен короткий разворот по сухой дороге."
+      },
+      {
+        "point": "ebike-san-mateo-libertad",
+        "role": "Либертад · ориентир перед участком Machuca",
+        "note": "Если брод закрыт или вода выросла, возвращайтесь по проезжаемой дороге."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Опыт местной группы",
+        "text": "40,25 км и +1 328 м по треку от 7 ноября 2025 года. В начале более 400 м набора подряд. На Calle Alegría автор описывает глубокие промоины, после Dulce Nombre — глину. Обратный отрезок от Игуито идёт через Сан-Матео.",
+        "sources": [
+          "ebike-san-mateo-community"
+        ]
+      },
+      {
+        "title": "Реки и согласование доступа",
+        "text": "В одном из предыдущих заездов вода на Río Machuca остановила группу. Перед поездкой спросите про этот брод, Calle Alegría и участок оползня над Río Jesús María. Для сухого дня подготовьте дорожный вариант схода и адрес подбора.",
+        "sources": [
+          "ebike-san-mateo-community",
+          "ebike-orotina-road-plan"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Для крутого спуска нужны исправные тормоза и подходящие грунтовые покрышки. Возьмите шлем, запас воды, ремнабор, насос, дождевик и полностью заряженную батарею. Источник даёт трек и фотографии с реального проезда.",
+        "sources": [
+          "ebike-san-mateo-community"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Оротины · дорожная служба",
+        "source": "ebike-orotina-road-plan",
+        "note": "План сети. Проблемные участки у границы кантонов уточняйте также в Сан-Матео."
+      }
+    ],
+    "nearby": [
+      "esparza-diablo-penas-blancas-ebike-42",
+      "atenas-estanquillos-emtb-42",
+      "puro-mtb-sabana-ebike-rental"
+    ],
+    "connectStops": false,
+    "track": "ebike-san-mateo-community",
+    "galleries": [
+      "ebike-san-mateo-community"
+    ]
+  },
+  "espiritu-santo-chayote-atenas-ebike-53": {
+    "stops": [
+      {
+        "point": "ebike-espiritu-santo-hill",
+        "role": "Серро-Эспириту-Санто · ориентир вершины",
+        "note": "Точный доступ и отметка погрузки у подножия сверяются с авторским треком."
+      },
+      {
+        "point": "chayote-lodge-entry",
+        "role": "Льяно-Бонито · вариант кофе и ожидания",
+        "note": "Гостевой вход в Chayote Lodge. Визит и остановку согласуйте."
+      },
+      {
+        "point": "ebike-atenas-central",
+        "role": "Атенас · ориентир для встречи",
+        "note": "Публичный ориентир в центре. Фактические точка выезда автора и место погрузки могут различаться."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Опыт райдеров и подготовка",
+        "text": "53,45 км, +1 670 м, почти 2 000 м спуска по записи от 31 октября 2025 года. Автор описывает канавы, глину и участки, на которых электровелосипед приходилось толкать. Согласуйте подбор в Атенасе, энергию на вторую половину и проезд коротких связок.",
+        "sources": [
+          "ebike-naranjo-atenas-community",
+          "ebike-trainerroad-cr-forum"
+        ]
+      },
+      {
+        "title": "Проходы и защищённая территория",
+        "text": "План SINAC подтверждает статус зоны Чайоте как охраняемого водосбора. На схеме даны районные ориентиры и ссылка на опыт заезда. Ворота, фермерские участки и возможность проезда по нынешней трассе проверьте у владельцев и в муниципалитете.",
+        "sources": [
+          "chayote-hike-sinac",
+          "ebike-naranjo-tourism-municipal",
+          "ebike-naranjo-atenas-community"
+        ]
+      },
+      {
+        "title": "Кофе и вариант с меньшей нагрузкой",
+        "text": "В районе Льяно-Бонито есть ресторан Quelites с террасой. Пешеходный выезд с местным проводником возможен отдельно от технического катания.",
+        "sources": [
+          "chayote-quelites",
+          "chayote-hike-lodge"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Наранхо · туристическая справка",
+        "source": "ebike-naranjo-tourism-municipal",
+        "note": "Запросите актуальные дорожные ограничения и публичные подъезды."
+      },
+      {
+        "name": "Chayote Lodge и Quelites · остановка и связь",
+        "source": "chayote-hike-contact",
+        "note": "Уточните доступ к кафе, часы и место для хранения велосипеда."
+      }
+    ],
+    "nearby": [
+      "quelites-chayote-cafe",
+      "chayote-cloud-forest-hike",
+      "atenas-estanquillos-emtb-42",
+      "puro-mtb-sabana-ebike-rental"
+    ],
+    "connectStops": false,
+    "track": "ebike-naranjo-atenas-community",
+    "galleries": [
+      "ebike-naranjo-atenas-community",
+      "chayote-quelites"
+    ],
+    "videos": [
+      "chayote-quelites-film"
+    ]
+  },
+  "nosara-ostional-pachamama-guided-ebike": {
+    "stops": [
+      {
+        "point": "guiones-north-area",
+        "role": "Гионес · район старта",
+        "note": "Гид сообщает точное место встречи."
+      },
+      {
+        "point": "ostional-village-road",
+        "role": "Остиональ · дорожный ориентир",
+        "note": "Ехать по дороге, ограждения и правила заповедника действуют отдельно."
+      },
+      {
+        "point": "ebike-nosara-pachamama",
+        "role": "Пачамама · район горной остановки",
+        "note": "Метка поселения. Точку смотровой и возможность посещения подтверждает проводник."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дневной маршрут",
+        "text": "Описанный организатором вариант 2 от Гионеса включает дорогу мимо Остионаля, набор к Пачамаме, спуск через Кулиакан к Рио-Монтанья и возвращение после подвесного моста. Заявлено около 2,5 часа. Публичная страница даёт последовательность точек без километража.",
+        "sources": [
+          "ebike-nosara-bike-tour-schedule"
+        ]
+      },
+      {
+        "title": "Влажный сезон и запасной день",
+        "text": "Соседняя компания Nosara MTB предупреждает о приливах на береговых тропах и сезонном закрытии отдельных лесных троп. Спросите о броде, мосте, форме и размерности e-bike. Общественный проезд и вход в сообщество Пачамама согласуются на месте.",
+        "sources": [
+          "ebike-nosara-mtb-local-guide",
+          "ebike-nosara-pachamama-visitor"
+        ]
+      },
+      {
+        "title": "Опыт в окрестностях Гионеса",
+        "text": "На видео школы показан другой круг от Гионеса с грунтом, грязью и мостом. В обсуждении Gravel Cycling Nicoya райдеры описывают разницу между местными дорогами и участками с трафиком. Конкретную петлю оцените по программе и свежему совету проводника.",
+        "sources": [
+          "ebike-nosara-gopro",
+          "ebike-nicoya-gravel-forum"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bike Tour Costa Rica · местная команда",
+        "source": "ebike-nosara-bike-tour-schedule",
+        "note": "+506 8847-1337, info@biketourcostarica.com. Уточните тип проката, язык и дневные варианты."
+      }
+    ],
+    "nearby": [
+      "nosara-emtb-hills-halfday",
+      "guiones-ostional-30",
+      "nosara-lagarta-ebike-five-rides-7"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-nosara-bike-tour-schedule",
+      "ebike-nosara-mtb-local-guide"
+    ],
+    "videos": [
+      "ebike-nosara-gopro"
+    ]
+  },
+  "puro-mtb-sabana-ebike-rental": {
+    "stops": [
+      {
+        "point": "ebike-puromtb-sabana",
+        "role": "Сабана-Сур · выдача и возврат",
+        "note": "Сверьте часы работы и наличие конкретного размера до заезда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Аренда, залог и доставка",
+        "text": "Опубликованный тариф e-MTB — $125 в день. Магазин выдаёт прокат в Сабана-Сур и требует залог. Перед оплатой попросите условия возврата, комплект, налог и сумму залога.",
+        "sources": [
+          "puromtb-bike-rent",
+          "ebike-puromtb-sabana-contact"
+        ]
+      },
+      {
+        "title": "Проверка перед выездом",
+        "text": "Уточните тип тормозов, размер, состояние колёс и зарядного устройства. Для дорог спросите про максимальную скорость именно электронной помощи. При перевозке на машине проверьте допустимую массу велокрепления.",
+        "sources": [
+          "cr-law-10651-pedelec",
+          "puromtb-bike-rent"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PuroMTB Sabana Sur · прокат",
+        "source": "ebike-puromtb-sabana-contact",
+        "note": "+506 2231-4110, WhatsApp +506 8343-4260, ventas@puromtb.com. Выдача в основном магазине."
+      }
+    ],
+    "nearby": [
+      "san-miguel-venecia-aguas-zarcas-ebike-24",
+      "hacienda-vieja-san-mateo-ebike-40",
+      "esparza-diablo-penas-blancas-ebike-42"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "puromtb-bike-rent"
+    ],
+    "videos": [
+      "ebike-puromtb-shop-video"
+    ]
+  },
+  "los-santos-coffee-ebike-5": {
+    "stops": [
+      {
+        "point": "san-pablo-leon",
+        "role": "Сан-Пабло-де-Леон-Кортес · ориентир района",
+        "note": "Гид подтверждает место начала горного велоэтапа."
+      },
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Санта-Мария-де-Дота · кофейный ориентир этапа",
+        "note": "Экскурсия CoopeDota возможна по собственной брони. Точка встречи тура согласуется отдельно."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три велосипедных этапа",
+        "text": "26 км (+700 м), 30 км (+763 м) и 34 км (+735 м) по публичному расписанию Go Bike CR. Суммарно около 90 км и +2 198 м. Гид подтверждает покрытие, состав группы и остановки на конкретные даты.",
+        "sources": [
+          "ebike-gobike-los-santos",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "title": "Поддержка, ночёвки и подготовка",
+        "text": "Заявлены опытный гид, сопровождающая машина, механик, питание и четыре ночи. e-bike в этой программе предоставляется по запросу. Для длинного спуска возьмите сухую одежду, утепляющий слой и достаточный запас воды.",
+        "sources": [
+          "ebike-gobike-los-santos",
+          "gobike-emtb-support"
+        ]
+      },
+      {
+        "title": "Кофейные остановки",
+        "text": "У кооператива CoopeDota можно отдельно заказать дегустацию и экскурсию. В официальном региональном путеводителе есть также Копей и Санта-Мария. Эти ссылки помогают выбрать дополнительный день.",
+        "sources": [
+          "coopedota-coffee-experiences-direct",
+          "ict-los-santos-rural-coffee"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Go Bike CR · e-bike и машина сопровождения",
+        "source": "gobike-emtb-support",
+        "note": "Свяжитесь с организатором через форму или info@gobikecr.com. Попросите даты, размер и зарядку."
+      },
+      {
+        "name": "CoopeDota · экскурсии",
+        "source": "coopedota-contact-direct",
+        "note": "Связь с кофейным кооперативом и отдельной дегустацией."
+      }
+    ],
+    "nearby": [
+      "coopedota-santa-maria-coffee",
+      "dota-cedral-san-marcos-ebike-39",
+      "dota-coffee-mtb-tent-2"
+    ],
+    "connectStops": false,
+    "photos": [
+      "dota-park"
+    ],
+    "galleries": [
+      "coopedota-coffee-experiences-direct"
+    ]
+  },
+  "nosara-lagarta-ebike-five-rides-7": {
+    "stops": [
+      {
+        "point": "ebike-nosara-lagarta",
+        "role": "Lagarta Lodge · заявленная база",
+        "note": "Шесть ночей по программе, условия одноместного номера уточняются."
+      },
+      {
+        "point": "guiones-north-area",
+        "role": "Гионес · район старта",
+        "note": "Гид сообщает точное место встречи."
+      },
+      {
+        "point": "ostional-village-road",
+        "role": "Остиональ · дорожный ориентир",
+        "note": "Ехать по дороге, ограждения и правила заповедника действуют отдельно."
+      },
+      {
+        "point": "ebike-nosara-pachamama",
+        "role": "Пачамама · район горной остановки",
+        "note": "Метка поселения. Точку смотровой и возможность посещения подтверждает проводник."
+      },
+      {
+        "point": "gravel-san-juanillo",
+        "role": "Сан-Хуанильо · береговой ориентир",
+        "note": "Часть дневного выезда через Playa Venado и Finca Trinidad, детали на дату даёт проводник."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Состав тура и цены",
+        "text": "На семь дней заявлены 150 км, 4–8 участников, пять сопровождаемых велодней, велосипеды e-bike или обычные карбоновые, механик и трансферы из Либерии. Опубликованный календарь содержит выезд 7–13 декабря 2026 года. Наличие мест и точную стоимость уточняет организатор.",
+        "sources": [
+          "ebike-nosara-bike-tour-schedule"
+        ]
+      },
+      {
+        "title": "Грязь, вода и запасные варианты",
+        "text": "Организатор описывает до 32 пересечений реки на одном из вариантов. При высокой воде запрашивайте замену. Для прибрежного участка используйте рекомендации проводника по приливам, разрешённым подходам и поведению в заповедниках.",
+        "sources": [
+          "ebike-nosara-bike-tour-schedule",
+          "ebike-nosara-mtb-local-guide"
+        ]
+      },
+      {
+        "title": "На одной базе",
+        "text": "В программе указаны ночёвки на одной площадке, ежедневный возврат и техника сопровождения. Перерывы удобно совместить с прогулкой по эстуарию или уроком сёрфинга. Фото отеля и полевой ролик из района Гионеса добавлены ниже.",
+        "sources": [
+          "ebike-nosara-lagarta-gallery",
+          "ebike-nosara-gopro"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bike Tour Costa Rica · местная команда",
+        "source": "ebike-nosara-bike-tour-schedule",
+        "note": "+506 8847-1337, info@biketourcostarica.com. Уточните тип проката, язык и дневные варианты."
+      }
+    ],
+    "nearby": [
+      "nosara-ostional-pachamama-guided-ebike",
+      "nosara-electric-estuary-boat",
+      "nosara-emtb-hills-halfday",
+      "garza-el-tiguacal-camp"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-nosara-bike-tour-schedule",
+      "ebike-nosara-lagarta-gallery"
+    ],
+    "videos": [
+      "ebike-nosara-gopro"
+    ]
+  },
+  "guanacaste-arenal-tortuguero-supported-ebike-10": {
+    "stops": [
+      {
+        "point": "hermosa-guanacaste-beach-approach",
+        "role": "Эрмоса в Гуанакасте · западная база",
+        "note": "Аэропорт встречи в Либерии. Точный адрес первого отеля по подтверждению."
+      },
+      {
+        "point": "arenal-dam",
+        "role": "Ареналь · дорожный ориентир озера",
+        "note": "У организатора есть отдельная линия озёрного этапа."
+      },
+      {
+        "point": "orosi",
+        "role": "Ороси · ориентир кофейной долины",
+        "note": "Район старта сельского велодня."
+      },
+      {
+        "point": "irazu-craters-parking",
+        "role": "Ирасу · верхний дорожный ориентир",
+        "note": "Вход в парк зависит от брони и режима SINAC."
+      },
+      {
+        "point": "pacuare-exploradores-exploration-center",
+        "role": "Пакуаре · ориентир у Сикирреса",
+        "note": "Встречу в день рафтинга и высадку подтверждает организатор тура."
+      },
+      {
+        "point": "pavona-dock",
+        "role": "Ла-Павона · переход на лодку",
+        "note": "Для дня в Тортугеро спросите, куда забирают e-bike и как переносят багаж."
+      },
+      {
+        "point": "tortuguero-town",
+        "role": "Тортугеро · посёлок и каналы",
+        "note": "Каналы входят в лодочный день с натуралистом. Велочасть после выхода на материк."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Велоэтапы, аренда и поддержка",
+        "text": "Опубликовано 170 миль за поездку и несколько вариантов дополнительной дистанции. Электровелосипед предоставляется по запросу местным партнёром за $450 сверх опубликованного тарифа. Проверьте наличие размера, запасную батарею и подтверждение выезда.",
+        "sources": [
+          "ebike-lizard-pacific-tortuguero"
+        ]
+      },
+      {
+        "title": "Чередование дорог и воды",
+        "text": "Рафтинг на Пакуаре и лодочные каналы Тортугеро входят в разные дни. Оператор указывает Ла-Павону для входа в Тортугеро. Береговой доступ, вода и класс порогов меняются. Руководство по Ла-Павоне содержит фотографии подхода.",
+        "sources": [
+          "ebike-lizard-pacific-tortuguero",
+          "pacuare-1",
+          "ebike-tortuguero-pavona-travelogue"
+        ]
+      },
+      {
+        "title": "Одежда и подготовка",
+        "text": "На высоте Ирасу берите ветровку и утепление, в низинах — воду и защиту от солнца. Для техники обязательно согласуйте тормоза, дорожные участки и запасной сценарий там, где используется общая проезжая часть.",
+        "sources": [
+          "ebike-lizard-pacific-tortuguero",
+          "ebike-trainerroad-cr-forum"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Lizard Head Cycling Guides · форма поездки",
+        "source": "ebike-lizard-pacific-tortuguero",
+        "note": "Согласуйте дату, e-bike, условия отмены, ночёвки и порядок хранения велосипеда во время лодочных трансферов."
+      }
+    ],
+    "nearby": [
+      "coast-to-coast-ebike-6",
+      "turrialba-full-ebike-7",
+      "tortuguero-no-car",
+      "pacuare-day"
+    ],
+    "connectStops": false,
+    "photos": [
+      "hermosa",
+      "arenal-dam",
+      "irazu-crater-bianco",
+      "tortuguero-cano-harold"
+    ],
+    "galleries": [
+      "ebike-lizard-pacific-tortuguero",
+      "ebike-tortuguero-pavona-travelogue"
+    ]
+  },
+  "sarapiqui-venecia-ebike-float-2": {
+    "stops": [
+      {
+        "point": "ebike-north-san-miguel",
+        "role": "Сан-Мигель · начало велолинии",
+        "note": "Ориентир в посёлке. Выехать на Ruta 140 можно после проверки потока."
+      },
+      {
+        "point": "ebike-north-venecia",
+        "role": "Венесия · сквер, вода и короткий финиш",
+        "note": "К этому месту первые примерно 12,6 км. Договоритесь о подборе вне проезжей части."
+      },
+      {
+        "point": "ebike-north-aguas-zarcas",
+        "role": "Агуас-Саркас · район финиша",
+        "note": "Ориентир на торговой площади. Стоянку и точки ожидания выбирайте по местным указателям."
+      },
+      {
+        "point": "ebike-congos-camping-gate",
+        "role": "Чиламате · заезд в Los Congos",
+        "note": "Собственная палатка или запрос готовой у хозяев."
+      },
+      {
+        "point": "sarapiqui-la-virgen-area",
+        "role": "Ла-Вирхен · район альтернативной ночёвки и воды",
+        "note": "У водной команды уточните точный адрес старта. В Толомуко можно запросить глэмпинг."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первый день на велосипеде",
+        "text": "Межрайонная велолиния 23,9 км на обычных дорогах. У парка в Венесии можно закончить примерно через 12,6 км. Поскольку ночёвка отдельно от веломаршрута, организуйте подбор и переезд до темноты.",
+        "sources": [
+          "ebike-north-ict-corridor",
+          "ebike-osm-road-corridors"
+        ]
+      },
+      {
+        "title": "Две ночёвки на выбор",
+        "text": "В Los Congos по опубликованным условиям можно поставить свою палатку или запросить комплект. В Tolomuco доступен глэмпинг. Тариф, электричество и сухое хранение e-bike проверяйте накануне.",
+        "sources": [
+          "ebike-congos-camping-listing",
+          "tolomuco-glamping-host-listing"
+        ]
+      },
+      {
+        "title": "Речной выезд",
+        "text": "12-километровый сафари-сплав по публикации оператора идёт по более спокойной воде класса I–II. У гида заранее спросите об уровне воды, возрасте участников и поездке после дождя.",
+        "sources": [
+          "sarapiqui-safari-float",
+          "ebike-ict-sarau-activities"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sarapiquí Outdoor Center · сплав и ночёвка",
+        "source": "sarapiqui-safari-float",
+        "note": "Запись, класс воды, место сбора и возраст для выбранного сплава."
+      },
+      {
+        "name": "Camping Los Congos · контакт из справочника",
+        "source": "ebike-congos-camping-listing",
+        "note": "+506 8676-8241. Спросите про текущую цену, парковку, крышную палатку и зарядку велосипеда."
+      }
+    ],
+    "nearby": [
+      "san-miguel-venecia-aguas-zarcas-ebike-24",
+      "chilamate-los-congos-camping",
+      "tolomuco-river-glamping",
+      "sarapiqui-float",
+      "sarapiqui-tirimbina-mtb-34"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-ict-sarau-activities",
+      "ebike-congos-camping-listing",
+      "tolomuco-glamping-host-listing"
+    ]
+  },
+  "chilamate-los-congos-camping": {
+    "stops": [
+      {
+        "point": "ebike-congos-camping-gate",
+        "role": "Чиламате · точка заезда",
+        "note": "Опубликованная ссылка ведёт к площадке около Abastecedor El Dólar."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где поставить палатку",
+        "text": "Справочник Camping.cr указывает кемпинг за ₡6 000 с человека за ночь, воду, душевые и прокат палатки с матрасом. Позвоните для проверки тарифа и наличии места. Nature in Costa Rica показывает локацию и фото территории.",
+        "sources": [
+          "ebike-congos-camping-listing",
+          "ebike-congos-birding-report"
+        ]
+      },
+      {
+        "title": "Транспорт, ночёвка и зарядка",
+        "text": "У хозяев спросите, насколько близко можно поставить машину, можно ли ночевать в крышной палатке, есть ли сухое хранение и доступ к розетке. Доступ к воде для купания проверяйте после осадков.",
+        "sources": [
+          "ebike-congos-camping-listing",
+          "ebike-ict-sarau-activities"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Los Congos · контакт из справочника",
+        "source": "ebike-congos-camping-listing",
+        "note": "+506 8676-8241. Спросите про текущую цену, парковку, крышную палатку и зарядку велосипеда."
+      }
+    ],
+    "nearby": [
+      "sarapiqui-float",
+      "san-miguel-venecia-aguas-zarcas-ebike-24",
+      "sarapiqui-venecia-ebike-float-2",
+      "tolomuco-river-glamping"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ebike-congos-camping-listing",
+      "ebike-congos-birding-report"
+    ],
+    "videos": [
+      "ebike-congos-video"
+    ]
+  }
+}

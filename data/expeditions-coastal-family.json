@@ -1,0 +1,268 @@
+[
+  {
+    "id": "carara-tarcoles-herradura-paddle-1",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Карара, Тарколес и Эррадура · лес и бухта за один день",
+    "native": "Parque Nacional Carara · Tárcoles · Bahía Herradura",
+    "level": "easy",
+    "days": 1,
+    "activities": [
+      "multi",
+      "hiking",
+      "kayak",
+      "sup",
+      "beach",
+      "wildlife",
+      "forest"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "carara-universal-sinac",
+      "tarcoles-crocodile-man-boat",
+      "supherr-operator-water-herradura",
+      "supherr-contacts-costa-rica",
+      "carara-coast-driving-osm"
+    ],
+    "summary": "Короткая доступная тропа в лесу Карары, наблюдение за природой у Тарколеса, затем береговая пауза или SUP с прокатом в Эррадуре.",
+    "plan": "Начните с Карары по выбранному входному слоту. По силам группы добавьте прогулку на лодке по Тарколесу. На бухту оставьте время до усиления ветра и запас на обед.",
+    "conditions": "Минимальный возраст для лодки и размер жилета уточняются у оператора. В Эррадуре решение о выходе зависит от ветра и судового движения. Для отдыха с маленьким ребёнком предусмотрена береговая пауза.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Карара → Тарколес → Эррадура",
+        "note": "На лес отведите 1–2 часа с остановками. Из Карары удобно поехать к разрешённому причалу Тарколеса, затем по Ruta 34 и береговой дороге к SUPHERR. На лодку, прокат и обед закладывайте время отдельно. При ветре оставайтесь у берега.",
+        "stops": [
+          "carara",
+          "tarcoles-mangrove-local-boats",
+          "herradura-supherr-bay-paddle"
+        ],
+        "sources": [
+          "carara-universal-sinac",
+          "tarcoles-crocodile-man-boat",
+          "supherr-operator-water-herradura",
+          "carara-coast-driving-osm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esterillos-bandera-uvita-coastal-camp-3",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Эстерильос — Бандера — Увита · три дня с палаткой и океаном",
+    "native": "Esterillos Oeste · Playa Bandera · Isla Palo Seco · Uvita · Playa Colonia",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "multi",
+      "car",
+      "camping",
+      "rooftent",
+      "beach",
+      "surf",
+      "views",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "esterillos-playa-camp-waze",
+      "bandera-villa-tortuga-camp",
+      "palo-seco-private-roof-camp",
+      "uvita-casa-viva-camp-field",
+      "marino",
+      "mopt-2026-no-vehicles-beach",
+      "esterillos-bandera-uvita-driving-osm"
+    ],
+    "summary": "Выезд по центральному и южному побережью для обычной либо крышной палатки. День в Эстерильосе, остановка у Бандеры и лесная база у Колонии в Увите.",
+    "plan": "Первую ночь забронируйте возле Эстерильоса. Если крышной палатке требуется другая площадка, согласуйте частный автолагерь в Palo Seco. Вторую ночь запланируйте в Casa Viva в Увите. При желании поставьте один урок сёрфинга в первой половине поездки.",
+    "conditions": "Паркуйтесь за пляжной полосой. Для каждой ночи согласуйте габариты, поверхность места и правила огня. Волны и прилив определяют условия прогулок. Линия на карте показывает основной переезд через Бандеру к Увите.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Эстерильос-Оэсте · берег и первая ночь",
+        "note": "Отметьтесь на площадке у Super Sol. Для крышной палатки заранее согласуйте ворота и парковку или выберите частную площадку у Palo Seco. Волны проверяйте у школы. Оставьте запас на переезд до темноты.",
+        "stops": [
+          "esterillos-playa-super-sol-camping",
+          "esterillos-aloha-surf",
+          "palo-seco-roof-camp"
+        ],
+        "sources": [
+          "esterillos-playa-camp-waze",
+          "aloha-esterillos-family-instructor",
+          "palo-seco-private-roof-camp"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Плайя-Бандера → Увита · урок и вторая ночь",
+        "note": "После сборов заедьте к месту встречи Flagside Surf или прогуляйтесь по берегу Бандеры. Через Парриту выезжайте на Ruta 34. Заселитесь в Casa Viva до темноты и уточните правила Колонии на утро.",
+        "stops": [
+          "bandera-flagside-surf",
+          "bandera-tortuga-feliz-camp",
+          "uvita-casa-viva-forest-camp"
+        ],
+        "sources": [
+          "bandera-flagside-school",
+          "uvita-casa-viva-camp-field",
+          "esterillos-bandera-uvita-driving-osm"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Колония и Marino Ballena",
+        "note": "Купите билет в свой сектор и проверьте прилив у береговой службы. День оставьте для прогулки и короткой береговой активности. Длительность выезда меняется с выбранным сектором и количеством остановок.",
+        "stops": [
+          "marino-ballena",
+          "uvita-colonia-surf",
+          "uvita-casa-viva-forest-camp"
+        ],
+        "sources": [
+          "marino",
+          "uvita-casa-viva-nav"
+        ]
+      }
+    ],
+    "regions": [
+      "south"
+    ]
+  },
+  {
+    "id": "junquillal-naranjo-salinas-rooftop-4",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Хункильяль — Санта-Роса — Салинас · четыре дня с автопалаткой",
+    "native": "Bahía Junquillal · Sector Santa Rosa · Playa Naranjo · Bahía Salinas · Tempatal",
+    "level": "hard",
+    "days": 4,
+    "activities": [
+      "multi",
+      "camping",
+      "rooftent",
+      "offroad",
+      "beach",
+      "hiking",
+      "views",
+      "wildlife"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "confirm"
+    ],
+    "sources": [
+      "junquillal",
+      "junquillal-booking",
+      "junquillal-roof-local",
+      "santa-rosa",
+      "naranjo",
+      "acg-playa-naranjo-road-reopening",
+      "soley-casa-camping-contact",
+      "mopt-2026-no-vehicles-beach"
+    ],
+    "summary": "Две ночи у бухты Хункильяль и отдельный экспедиционный день в Santa Rosa. Дополнительную ночь можно провести в разрешённом палаточном лагере Playa Naranjo по брони либо у частной базы Темпаталь.",
+    "plan": "Подберите даты с открытыми секторами. Оформите отдельные резервации для Santa Rosa и Playa Naranjo. Если дорога закрыта или условия аренды исключают сложный грунт, смените третью ночёвку на лагерь у залива Салинас.",
+    "conditions": "Заезд в Наранхо требует подходящего автомобиля и согласованного въезда. Для лагеря берут полный запас воды. Костры здесь запрещены. Для крышной палатки предусмотрена база Junquillal. Тип места в Playa Naranjo уточните у ACG.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Бухта Хункильяль · въезд в сектор кемперов",
+        "note": "Забронируйте место у Aso Junquillal и запросите время заезда с высоким автомобилем. Добавьте прогулку по сухому лесу и береговую паузу. Пользуйтесь выделенным местом и соблюдайте правила мангала.",
+        "stops": [
+          "junquillal"
+        ],
+        "sources": [
+          "junquillal",
+          "junquillal-booking",
+          "junquillal-association"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лес Santa Rosa и возвращение к бухте",
+        "note": "Выберите визит в исторический сектор Casona и короткую тропу утром. Вечером вернитесь к базовой палатке. Подтвердите дорогу в сторону Playa Naranjo и правила вывоза мусора у рейнджеров.",
+        "stops": [
+          "santa-rosa-casona",
+          "junquillal"
+        ],
+        "sources": [
+          "santa-rosa",
+          "junquillal-trails",
+          "naranjo"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Playa Naranjo по резервации либо частный лагерь",
+        "note": "У въезда в Santa Rosa сверят отдельную бронь. Для ночёвки следуйте к выделенному лагерю у Puesto Argelia. Берите воду, свет, запас времени на грунтовку и всё необходимое для готовки в рамках местных правил. В резерве частный лагерь у Темпаталя.",
+        "stops": [
+          "naranjo-4x4",
+          "naranjo-camp",
+          "la-cruz-casa-soley-camp"
+        ],
+        "sources": [
+          "naranjo",
+          "acg-playa-naranjo-road-reopening",
+          "soley-casa-camping-contact"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Залив Салинас и выезд",
+        "note": "Возвращайтесь по согласованному выезду и отметьтесь у рейнджеров при выезде из Santa Rosa. В Салинасе остановитесь на береговой прогулке у Rajada, паркуйтесь вне пляжной полосы и проверьте ветер.",
+        "stops": [
+          "rajada-salinas-beach",
+          "puerto-soley-shore-day"
+        ],
+        "sources": [
+          "teletica-rajada-2026-on-location",
+          "mopt-2026-no-vehicles-beach",
+          "naranjo"
+        ]
+      }
+    ]
+  }
+]

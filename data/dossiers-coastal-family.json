@@ -1,0 +1,660 @@
+{
+  "esterillos-playa-super-sol-camping": {
+    "stops": [
+      {
+        "point": "esterillos-super-sol-camp-area",
+        "role": "Первый въезд · район Camping Playa Esterillos",
+        "note": "Уточните точку ворот у владельцев. Пин Waze находится на дороге у Super Sol."
+      },
+      {
+        "point": "esterillos-oeste-beach-area",
+        "role": "Esterillos Oeste · береговая прогулка",
+        "note": "Берег и прогулки доступны пешком с выбранного въезда. Место урока назначит инструктор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два соседних лагеря",
+        "text": "Camping Playa Esterillos находится у первого въезда и Super Sol. У Las Brisas другая карточка, свои ворота и контакт. Перед оплатой сверяйте название на карте и точную точку парковки.",
+        "sources": [
+          "esterillos-playa-site-directory",
+          "esterillos-playa-camp-waze",
+          "las-brisas-esterillos-camping-local"
+        ]
+      },
+      {
+        "title": "Место под свою палатку",
+        "text": "Спросите, можно ли поставить машину рядом, и получите подтверждение для палатки на крыше. Уточните душ, электричество, мангал и время заселения. Машина остаётся за пределами пляжной полосы.",
+        "sources": [
+          "esterillos-playa-site-directory",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      },
+      {
+        "title": "Вода и План Б",
+        "text": "Урок сёрфинга можно согласовать у Aloha Surf поблизости. Если выезду нужна подтверждённая крыша, у Palo Seco есть отдельная карточка с частной стоянкой. Обе площадки удобно связать с остановкой у Бандеры.",
+        "sources": [
+          "aloha-esterillos-family-instructor",
+          "palo-seco-private-roof-camp",
+          "ict-esterillos-palo-seco-coast"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Playa Esterillos · у первого въезда Oeste",
+        "source": "esterillos-playa-camp-waze",
+        "note": "Попросите пин ворот, возможность парковаться у палатки, ночные правила, электричество и разрешение на крышную палатку.",
+        "phone": "+506 8392 4288"
+      }
+    ],
+    "nearby": [
+      "esterillos-las-brisas-camping",
+      "esterillos-aloha-surf",
+      "palo-seco-roof-camp"
+    ],
+    "galleries": [
+      "esterillos-playa-site-directory"
+    ],
+    "connectStops": false
+  },
+  "cocles-colina-secreta-glamp": {
+    "stops": [
+      {
+        "point": "cocles-beach",
+        "role": "Playa Cocles · ближайший береговой ориентир",
+        "note": "Глэмпинг находится выше по Calle Margarita. Точку ворот отправляет Colina Secreta."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Шатры в лесу",
+        "text": "Участок разбит по высоте. На нижнем уровне проще пройти к главному дому, верхние шатры дают больше уединения. Проверьте по плану участка количество ступеней, кондиционер или вентилятор, душ и парковку.",
+        "sources": [
+          "colina-secreta-host-stay",
+          "colina-secreta-guest-notes"
+        ]
+      },
+      {
+        "title": "С детьми",
+        "text": "Условия брони приветствуют детей старше шести лет и предусматривают согласование младших. Возраст шесть лет и ограничения отдельных номеров проверьте у хозяев. Для коляски уточните уклон и покрытие дорожек.",
+        "sources": [
+          "colina-secreta-child-policy",
+          "colina-secreta-host-stay"
+        ]
+      },
+      {
+        "title": "Как связать с побережьем",
+        "text": "В один день можно съездить к Пунта-Уве, в другой к национальному парку Кауита. Оставьте обеденный перерыв и дождевой запас. По береговым развлечениям договаривайтесь с местными проводниками на конкретный день.",
+        "sources": [
+          "colina-secreta-contact-ict",
+          "colina-secreta-host-stay"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Colina Secreta · размещение",
+        "source": "colina-secreta-contact-ict",
+        "note": "Укажите возраст детей, нужную планировку, лёгкость подхода к шатру и наличие парковки.",
+        "phone": "+506 8350 9066",
+        "email": "info@colinasecreta.com",
+        "whatsapp": "https://wa.me/50683509066"
+      }
+    ],
+    "galleries": [
+      "colina-secreta-host-stay",
+      "colina-secreta-guest-notes"
+    ],
+    "nearby": [
+      "cocles",
+      "cocles-punta-uva-bike-kayak",
+      "cahuita-playa-negra-vargas-ebike"
+    ],
+    "connectStops": false
+  },
+  "hermosa-mistico-amarena-glamp": {
+    "stops": [
+      {
+        "point": "amarena-mistico-hotel-area",
+        "role": "Místico · ориентир комплекса Amarena",
+        "note": "На карте показан район проекта. Откройте именную точку из ссылки хозяев и уточните ворота."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Глэмпинг и озёра",
+        "text": "В Amarena есть палатки на участках у пляжа и в саду. Оператор предлагает прогулки у озёр Místico, каяк, SUP и катание на велосипеде. Сложность, тип велосипеда и наличие инструктора уточняйте заранее.",
+        "sources": [
+          "amarena-mistico-operator",
+          "amarena-mistico-activities"
+        ]
+      },
+      {
+        "title": "Что проверить при бронировании",
+        "text": "Спросите вместимость выбранного шатра, правила с детьми, доступ в Madresal Beach Club, парковку и часы трансфера. Вода рядом с океаном и озёрная программа организуются отдельно.",
+        "sources": [
+          "amarena-ict-listing",
+          "amarena-hotel-contact",
+          "amarena-mistico-map"
+        ]
+      },
+      {
+        "title": "Пляж и запасной день",
+        "text": "Плайя-Эрмоса де Гарабито известна сильной волной. Для первого SUP согласуйте озеро или отдельную бухту Эррадуры. При дожде можно выбрать дневной выезд в Карару по программе или самостоятельно по билету SINAC.",
+        "sources": [
+          "amarena-mistico-map",
+          "amarena-mistico-activities",
+          "carara-universal-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Amarena · шатры, трансфер и активности",
+        "source": "amarena-hotel-contact",
+        "note": "Спросите про размещение с детьми, бассейн, прокат SUP и условия посещения Madresal.",
+        "email": "reservations@amarenabeachhotel.com"
+      }
+    ],
+    "galleries": [
+      "amarena-mistico-operator",
+      "amarena-mistico-activities"
+    ],
+    "nearby": [
+      "herradura-supherr-bay-paddle",
+      "esterillos-playa-super-sol-camping",
+      "carara"
+    ],
+    "connectStops": false
+  },
+  "providencia-senderos-retana-base": {
+    "stops": [
+      {
+        "point": "providencia-dota-locality",
+        "role": "Providencia de Dota · ориентир встречи",
+        "note": "Получите координаты ворот, стоянки и точки выдачи у организатора Senderos Retana."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Техничный MTB",
+        "text": "Для опытных райдеров Trailforks показывает Doña Flora как сложный спуск около двух километров. На дату выезда узнайте, какие ветки открыты, режим подъёма, подброски и экипировку. В отчёте Pionero фигурирует ограничение доступа.",
+        "sources": [
+          "retana-dona-flora-report",
+          "retana-pionero-closure-report",
+          "retana-local-project"
+        ]
+      },
+      {
+        "title": "Свой велосипед и лагерь",
+        "text": "Туристический каталог описывает велосипедные выезды и кемпинг. Согласуйте собственный MTB или e-MTB отдельно, а также заезд к палатке, воду и сохранность велосипеда. Для пешей группы попросите разрешённый нетехнический круг.",
+        "sources": [
+          "retana-local-project",
+          "ict-dota-providencia-4x4"
+        ]
+      },
+      {
+        "title": "Как выглядит рельеф",
+        "text": "Репортажи райдеров показывают мокрый лес, спуски и местные подъезды в районе Провиденсии. Сравните с текущим состоянием у команды. После дождя обсудите сокращение, ручной спуск и доступ к запасной дороге.",
+        "sources": [
+          "retana-first-person-video",
+          "retana-first-person-pinkbike"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Senderos Retana · Providencia",
+        "source": "retana-local-project",
+        "note": "Уточните, какие ветки открыты для прогулки и MTB, режим e-MTB и доступность площадки лагеря.",
+        "phone": "+506 8429 8736"
+      }
+    ],
+    "videos": [
+      "retana-first-person-video"
+    ],
+    "galleries": [
+      "retana-dona-flora-report"
+    ],
+    "nearby": [
+      "providencia-quetzal-trail-11-2027",
+      "providencia-quetzal-trail-22-2027",
+      "dota-providencia-doc-2"
+    ],
+    "connectStops": false
+  },
+  "herradura-supherr-bay-paddle": {
+    "stops": [
+      {
+        "point": "supherr-herradura-base",
+        "role": "SUPHERR · станция на берегу Эррадуры",
+        "note": "Точная точка в карте оператора. Уточните регистрацию и хранение вещей перед выходом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Начальный SUP и каяк",
+        "text": "На берегу работает SUPHERR, есть уроки, прокат и программы с гидом. Для первой поездки согласуйте короткий отрезок обратно к той же базе и место высадки. Вместимость и длительность подбираются с инструктором.",
+        "sources": [
+          "supherr-operator-water-herradura",
+          "supherr-contacts-costa-rica"
+        ]
+      },
+      {
+        "title": "Условия и снаряжение",
+        "text": "Спросите про размер жилета, детское участие и как договориться о выходе на своей доске. На море ориентируйтесь на инструктора, ветер и судовое движение. При неблагоприятных условиях перенесите выход на воду или выберите прогулку по берегу.",
+        "sources": [
+          "supherr-operator-water-herradura",
+          "supherr-herradura-localview"
+        ]
+      },
+      {
+        "title": "Фото и план на день",
+        "text": "Камера показывает участок береговой станции, а публикация местного автора — подход к воде. Полезно открыть обе ссылки перед выездом. Базу легко связать с утренней прогулкой в Караре.",
+        "sources": [
+          "supherr-herradura-localview",
+          "supherr-bay-recent-field",
+          "carara-universal-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SUPHERR · обе береговые станции",
+        "source": "supherr-contacts-costa-rica",
+        "note": "При записи назовите нужную бухту, состав группы, возраст детей и опыт. Подтвердите жилеты, прокат, гида и время по ветру.",
+        "phone": "+506 8597 5000",
+        "whatsapp": "https://wa.me/50685975000"
+      }
+    ],
+    "galleries": [
+      "supherr-bay-recent-field"
+    ],
+    "videos": [
+      "supherr-herradura-localview"
+    ],
+    "nearby": [
+      "carara-tarcoles-herradura-paddle-1",
+      "herradura-tortuga-costa-cat",
+      "tarcoles-mangrove-local-boats"
+    ],
+    "connectStops": false
+  },
+  "nicoya-naranjo-supherr-opacifico": {
+    "stops": [
+      {
+        "point": "supherr-naranjo-nicoya-base",
+        "role": "O’Pacífico · точка воды SUPHERR в заливе Никоя",
+        "note": "Пин у отеля возле прибытия парома. Куда подойти с вещами, скажет прокат."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Заезд от парома",
+        "text": "О’Pacífico находится у терминала Playa Naranjo на стороне залива Никоя. Смотрите рейс Coonatramar из Пунтаренаса и бронирование машины. У SUPHERR есть занятия и прокат по предварительному согласованию.",
+        "sources": [
+          "opacifico-nicoya-ferry-owner",
+          "supherr-contacts-costa-rica",
+          "supherr-operator-water-herradura"
+        ]
+      },
+      {
+        "title": "Гребля и береговая база",
+        "text": "Спросите, можно ли посетить станцию в дневном режиме, где оставить машину, выбрать тандем и выйти на короткий час в пределах согласованной акватории. Лодка, возраст, жилеты, вода и ветер подтверждаются перед стартом.",
+        "sources": [
+          "supherr-operator-water-herradura",
+          "opacifico-nicoya-hotel-ict",
+          "supherr-nicoya-operator-map"
+        ]
+      },
+      {
+        "title": "Одинаковое название на двух берегах страны",
+        "text": "Здесь старт из залива Никоя у парома в Пакере. Для Playa Naranjo в Santa Rosa действует отдельная бронь ACG и подъезд 4×4.",
+        "sources": [
+          "opacifico-nicoya-ferry-owner",
+          "naranjo"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SUPHERR · обе береговые станции",
+        "source": "supherr-contacts-costa-rica",
+        "note": "При записи назовите нужную бухту, состав группы, возраст детей и опыт. Подтвердите жилеты, прокат, гида и время по ветру.",
+        "phone": "+506 8597 5000",
+        "whatsapp": "https://wa.me/50685975000"
+      }
+    ],
+    "videos": [
+      "opacifico-nicoya-video"
+    ],
+    "galleries": [
+      "opacifico-nicoya-ferry-owner"
+    ],
+    "nearby": [
+      "paquera-isla-chiquita-family-glamp",
+      "naranjo-4x4"
+    ],
+    "connectStops": false
+  },
+  "providencia-quetzal-trail-11-2027": {
+    "stops": [
+      {
+        "point": "providencia-dota-locality",
+        "role": "Providencia de Dota · район старта Quetzal",
+        "note": "Точку пакетов, парковку и вход на трассу публикует организатор перед стартом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дата и профиль",
+        "text": "GDM Quetzal Trail Run объявлен на 31 января 2027 года со стартом в 7:30. Дистанция 11 км, набор около 800 м по странице регистрации. Встречаются технические спуски, влажный грунт и мосты.",
+        "sources": [
+          "retana-gdm-quetzal-2027"
+        ]
+      },
+      {
+        "title": "Участие и самостоятельный доступ",
+        "text": "Сверьте допуск, контрольное время и экипировку на сайте события. Паркуйтесь в назначенном месте. Для выезда вне гонки запросите разрешённые секции у Senderos Retana.",
+        "sources": [
+          "retana-gdm-quetzal-2027",
+          "retana-local-project",
+          "ict-dota-providencia-4x4"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "GDM Quetzal Trail Run · информация на A Buen Paso",
+        "source": "retana-gdm-quetzal-2027",
+        "note": "Сверьте дистанцию, условия допуска, адрес выдачи пакетов и состояние подъезда.",
+        "phone": "+506 8816 3333"
+      }
+    ],
+    "galleries": [
+      "retana-gdm-quetzal-2027"
+    ],
+    "nearby": [
+      "providencia-senderos-retana-base",
+      "dota-providencia-doc-2"
+    ],
+    "connectStops": false
+  },
+  "providencia-quetzal-trail-22-2027": {
+    "stops": [
+      {
+        "point": "providencia-dota-locality",
+        "role": "Providencia de Dota · район старта Quetzal",
+        "note": "Точку пакетов, парковку и вход на трассу публикует организатор перед стартом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дата и профиль",
+        "text": "GDM Quetzal Trail Run объявлен на 31 января 2027 года со стартом в 7:30. Дистанция 22 км, набор около 1400 м по странице регистрации. Встречаются технические спуски, влажный грунт и мосты.",
+        "sources": [
+          "retana-gdm-quetzal-2027"
+        ]
+      },
+      {
+        "title": "Участие и самостоятельный доступ",
+        "text": "Сверьте допуск, контрольное время и экипировку на сайте события. Паркуйтесь в назначенном месте. Для выезда вне гонки запросите разрешённые секции у Senderos Retana.",
+        "sources": [
+          "retana-gdm-quetzal-2027",
+          "retana-local-project",
+          "ict-dota-providencia-4x4"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "GDM Quetzal Trail Run · информация на A Buen Paso",
+        "source": "retana-gdm-quetzal-2027",
+        "note": "Сверьте дистанцию, условия допуска, адрес выдачи пакетов и состояние подъезда.",
+        "phone": "+506 8816 3333"
+      }
+    ],
+    "galleries": [
+      "retana-gdm-quetzal-2027"
+    ],
+    "nearby": [
+      "providencia-senderos-retana-base",
+      "dota-providencia-doc-2"
+    ],
+    "connectStops": false
+  },
+  "carara-tarcoles-herradura-paddle-1": {
+    "stops": [
+      {
+        "point": "carara-reception",
+        "role": "Carara · парковка у универсальной тропы",
+        "note": "Главный вход SINAC. Слот и направление петли сверяйте у кассы."
+      },
+      {
+        "point": "tarcoles-jose-private-dock",
+        "role": "Tárcoles · причал местной команды",
+        "note": "Согласуйте время посадки и наличие детских жилетов. Пройдите инструктаж на причале."
+      },
+      {
+        "point": "supherr-herradura-base",
+        "role": "Эррадура · прокат у береговой станции",
+        "note": "Пин оператора. При ветре или волне оставьте береговой план."
+      }
+    ],
+    "line": "carara-tarcoles-herradura-public-road",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Короткая тропа с паузами",
+        "text": "Универсальная лесная тропа Карары длиной около 1,2 км идёт через зоны отдыха. Проверьте свободный слот, состояние покрытия и возможность проезда коляски на момент посещения.",
+        "sources": [
+          "carara-universal-sinac",
+          "sinac"
+        ]
+      },
+      {
+        "title": "Река Тарколес",
+        "text": "Наблюдение за природой удобно совместить с поездкой на лодке от указанного причала. Держитесь разрешённых мест ожидания и запросите у команды жилеты по размеру.",
+        "sources": [
+          "tarcoles-crocodile-man-boat",
+          "tarcoles-jose-boat-dock"
+        ]
+      },
+      {
+        "title": "SUP и автомобильные переезды",
+        "text": "Гид согласует ветер, короткую петлю и место выхода. Карта объединяет три наземные остановки, около 25 км между точками. Время в лесу, на реке и на воде планируется отдельно.",
+        "sources": [
+          "supherr-operator-water-herradura",
+          "carara-coast-driving-osm",
+          "supherr-herradura-localview"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SUPHERR · прокат и сопровождение",
+        "source": "supherr-contacts-costa-rica",
+        "note": "Заранее проверьте часы, прогноз, размеры спасжилетов и подходящий короткий формат.",
+        "phone": "+506 8597 5000",
+        "whatsapp": "https://wa.me/50685975000"
+      }
+    ],
+    "nearby": [
+      "carara",
+      "tarcoles-mangrove-local-boats",
+      "herradura-supherr-bay-paddle",
+      "agujas-bijagual-weekend-2"
+    ],
+    "galleries": [
+      "carara-universal-sinac",
+      "supherr-bay-recent-field"
+    ],
+    "videos": [
+      "supherr-herradura-localview"
+    ]
+  },
+  "esterillos-bandera-uvita-coastal-camp-3": {
+    "stops": [
+      {
+        "point": "esterillos-super-sol-camp-area",
+        "role": "Эстерильос-Оэсте · первый лагерь",
+        "note": "Попросите подтвердить парковку у палатки. Согласованная альтернатива для крыши — Palo Seco."
+      },
+      {
+        "point": "bandera-villa-area",
+        "role": "Плайя-Бандера · подъезд к остановке и школе",
+        "note": "Договоритесь о коротком уроке и парковке на выделенной площадке."
+      },
+      {
+        "point": "parrita-market-centre",
+        "role": "Паррита · остановка на шоссе",
+        "note": "Вода и продукты перед переездом в Увиту."
+      },
+      {
+        "point": "uvita-casa-viva-camp-entry",
+        "role": "Casa Viva · лагерь в Увите",
+        "note": "Подтвердите размер машины, заезд и выход к сектору Colonia."
+      },
+      {
+        "point": "colonia-chaman-approach",
+        "role": "Colonia · район входа к берегу",
+        "note": "На берег идите от разрешённой парковки. Проверьте время прилива и вход в выбранный сектор."
+      }
+    ],
+    "line": "esterillos-bandera-uvita-road",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Первая и вторая ночь",
+        "text": "В Camping Playa Esterillos нужно заранее подтвердить крышную палатку. Если места под машину нет, договоритесь с Palo Seco. На вторую ночь используйте Casa Viva у Колонии и проверьте тип места при брони.",
+        "sources": [
+          "esterillos-playa-site-directory",
+          "palo-seco-private-roof-camp",
+          "uvita-casa-viva-camp-field"
+        ]
+      },
+      {
+        "title": "Карта переезда",
+        "text": "Публичная дорожная линия через Бандеру и Парриту до лагеря в Увите составляет около 115 км. В этот пробег не включены дополнительные заезды к Palo Seco и другим берегам. К океану спускайтесь пешком с согласованной парковки.",
+        "sources": [
+          "esterillos-bandera-uvita-driving-osm",
+          "mopt-2026-no-vehicles-beach",
+          "uvita-casa-viva-nav"
+        ]
+      },
+      {
+        "title": "Два береговых дня",
+        "text": "Уроки в Эстерильосе и Бандере согласуйте с местной школой. В Увите дождитесь подходящего уровня воды и правил сектора Marino Ballena. Время без уроков удобно оставить для пляжа и отдыха между переездами.",
+        "sources": [
+          "aloha-esterillos-family-instructor",
+          "bandera-flagside-school",
+          "marino"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Playa Esterillos · первая ночь",
+        "source": "esterillos-playa-camp-waze",
+        "note": "Проверьте крышную палатку, размеры парковки, электричество и разрешённый гриль.",
+        "phone": "+506 8392 4288"
+      },
+      {
+        "name": "Casa Viva · вторая ночь",
+        "source": "uvita-casa-viva-camp-field",
+        "note": "Проверьте свободную площадку у Колонии, подъезд в дождь и ночные правила."
+      }
+    ],
+    "nearby": [
+      "esterillos-playa-super-sol-camping",
+      "palo-seco-roof-camp",
+      "bejuco-bandera-surf-camp-2",
+      "costa-ballena-rooftop-surf-3"
+    ],
+    "galleries": [
+      "esterillos-playa-site-directory",
+      "uvita-casa-viva-camp-field"
+    ]
+  },
+  "junquillal-naranjo-salinas-rooftop-4": {
+    "stops": [
+      {
+        "point": "junquillal-gate",
+        "role": "Junquillal · лагерь и площадки для кемперов",
+        "note": "Основание маршрута. До поездки подтвердите бронь конкретного места у Aso Junquillal."
+      },
+      {
+        "point": "santa-rosa-casona-point",
+        "role": "Santa Rosa · Casona",
+        "note": "Историческая остановка. Для въезда в удалённый сектор Playa Naranjo нужна отдельная резервация."
+      },
+      {
+        "point": "naranjo-beach",
+        "role": "Playa Naranjo · берег и район Argelia",
+        "note": "Въезд по разрешённому пути. Точная палаточная площадка у поста рейнджеров."
+      },
+      {
+        "point": "rajada-area",
+        "role": "Rajada · дневная остановка у Салинаса",
+        "note": "Парковка за пляжной полосой. Соблюдайте правила доступа и учитывайте ветер."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "На какие ворота бронировать",
+        "text": "У Junquillal, Santa Rosa и Playa Naranjo отдельные условия. В Наранхо ACG требует брони и подходящего автомобиля на сложном участке. На въезде оформляют билет и сверяют данные машины.",
+        "sources": [
+          "junquillal-booking",
+          "naranjo",
+          "santa-rosa"
+        ]
+      },
+      {
+        "title": "Три ночи и правила огня",
+        "text": "В Junquillal есть выделенные места для кемперов. Playa Naranjo даёт ночёвку только на разрешённой площадке около Argelia. Возьмите запас воды и соблюдайте запрет костров в Наранхо. Если заезд или место под вашу машину не подтверждены, бронируйте частную базу.",
+        "sources": [
+          "junquillal",
+          "acg-playa-naranjo-road-reopening",
+          "soley-casa-camping-contact"
+        ]
+      },
+      {
+        "title": "Ветер и подъезд",
+        "text": "Попросите у ACG статус проезда от Santa Rosa, особенно после осадков. Точку стоянки уточнит пост. Для Салинаса проверяйте ветер и оставляйте машину за пределами пляжной полосы.",
+        "sources": [
+          "naranjo",
+          "junquillal-roof-local",
+          "teletica-rajada-2026-on-location",
+          "mopt-2026-no-vehicles-beach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Aso Junquillal · лагерь",
+        "source": "junquillal-association",
+        "note": "Уточните ширину парковки, время заселения, гриль и воду."
+      },
+      {
+        "name": "ACG · Наранхо и состояние дороги",
+        "source": "naranjo",
+        "note": "Уточните бронь, 4×4, допустимость крышной палатки, время въезда и точку Argelia.",
+        "phone": "+506 2666 5051",
+        "whatsapp": "https://wa.me/50688869510"
+      }
+    ],
+    "nearby": [
+      "santa-rosa-junquillal",
+      "junquillal",
+      "naranjo-camp",
+      "la-cruz-casa-soley-camp",
+      "rajada-salinas-beach"
+    ],
+    "photos": [
+      "casona-santa-rosa",
+      "santa-rosa-dry-forest"
+    ]
+  }
+}
