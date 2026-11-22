@@ -149,6 +149,15 @@ assert(profilesWithSites.some(row => row.platform === "Facebook" && row.publishe
 const facebookLinks = atlas.social.profiles.flatMap(row => row.postLinks || []);
 assert.equal(facebookLinks.length, atlas.social.overview.facebookPosts);
 assert.equal(new Set(facebookLinks.map(link => atlas.sources[link.source].url)).size, facebookLinks.length);
+const copiedProfiles = atlas.social.profiles.filter(row => row.copySample);
+assert.equal(atlas.social.overview.facebookWithCopies, copiedProfiles.length);
+assert.equal(atlas.social.overview.facebookCopiedPosts, copiedProfiles.reduce((sum, row) => sum + row.copySample.count, 0));
+for (const row of copiedProfiles) {
+  const { source, count, first, last, checked } = row.copySample;
+  assert.equal(row.platform, "Facebook");
+  assert(source in atlas.sources);
+  assert(Number.isInteger(count) && count > 0 && first <= last && last <= checked);
+}
 assert(atlas.social.overview.instagramUniquePosts <= atlas.social.overview.instagramPosts);
 assert(find({ q: "Bajos del Toro", duration: "two", detail: "map" }, "expeditions").some(row => row.id === "bajos-toro-weekend"));
 assert(find({ region: "nicoya", activity: "gravel", km: "hundred" }).some(row => row.id === "santa-teresa-nosara-gravel-101"));

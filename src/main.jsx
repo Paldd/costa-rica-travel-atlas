@@ -401,6 +401,7 @@ function SourcesPage({ atlas }) {
     (coverage !== "posts" || row.posts > 0) &&
     (coverage !== "missing" || row.posts === 0) &&
     (coverage !== "archive" || row.publisher?.archive) &&
+    (coverage !== "copies" || row.copySample) &&
     fold([row.name, row.url, row.category, row.zone, row.platform, atlas.sources[row.publisher?.site]?.url].join(" ")).includes(needle)
   );
   const withPhotos = atlas.records.filter(row => row.dossier?.photos?.length).length;
@@ -423,6 +424,7 @@ function SourcesPage({ atlas }) {
     <details className="evidence-list">
       <summary>Рейтинг Instagram и Facebook <ChevronDown size={18} /></summary>
       <p>По {overview.instagramProfiles} профилей на каждой платформе с аудиторией свыше 1 000 подписчиков. Замер от <time dateTime={measurementDate}>{measurementDate?.split("-").reverse().join(".")}</time>.</p>
+      {overview.facebookWithCopies > 0 && <p>В открытых копиях лент изучено {overview.facebookCopiedPosts} публикаций для {overview.facebookWithCopies} профилей. Период выборки указан в строке профиля.</p>}
       {overview.publisherLinks > 0 && <p>У {overview.publisherLinks} профилей есть подтверждённый сайт. Для {overview.publisherArchiveLinks} профилей доступны ссылки на разделы статей, маршрутов или программ этого проекта.</p>}
       <div className="profile-filters">
         <label className="search-box"><Search size={19} aria-hidden="true" /><span className="visually-hidden">Поиск соцпрофиля</span>
@@ -439,7 +441,8 @@ function SourcesPage({ atlas }) {
           <select aria-label="Материалы профиля" value={coverage} onChange={event => setCoverage(event.target.value)}>
             <option value="">Любое покрытие</option>
             <option value="posts">Есть выборка постов</option>
-            <option value="missing">Без выборки постов</option>
+            <option value="missing">Без прямой выборки постов</option>
+            <option value="copies">Есть прочитанные копии</option>
             <option value="archive">Есть архив сайта</option>
           </select>
         </div>
@@ -461,6 +464,9 @@ function SourcesPage({ atlas }) {
               : row.about ? "Прочитано описание" : "Подтверждена карточка"}</span>
             {row.postLinks?.map(({ source, checked }) =>
               <External key={source} href={atlas.sources[source].url}>{atlas.sources[source].title} · {checked.split("-").reverse().join(".")}</External>)}
+            {row.copySample && <External href={atlas.sources[row.copySample.source].url}>
+              {row.copySample.count} публикаций в копии ленты · {row.copySample.first} — {row.copySample.last}
+            </External>}
             {row.publisher && <External href={atlas.sources[row.publisher.site].url}>Сайт проекта</External>}
             {row.publisher?.archive && <External href={atlas.sources[row.publisher.archive].url}>Статьи и маршруты проекта</External>}
           </div>

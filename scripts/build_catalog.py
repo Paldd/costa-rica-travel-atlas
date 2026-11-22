@@ -11,6 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 SOURCE_FIELDS = ("id", "kind", "title", "url", "scope")
 POST_FIELDS = ("profile", "source", "checked")
+POST_COPY_FIELDS = ("profile", "source", "count", "first", "last", "checked")
 PUBLISHER_FIELDS = ("profile", "site", "archive", "checked")
 RANK_FIELDS = ("platform", "profile", "rank", "followers", "precision", "checked", "countSource", "category", "zone")
 SOCIAL_DOMAINS = {
@@ -104,6 +105,21 @@ def build_social(sources_by_id):
             "source": source["id"], "checked": date.fromisoformat(post["checked"]).isoformat(),
         })
         seen_posts.add(source["url"])
+    copy_total = 0
+    for sample in read_table(DATA / "public-post-copies.tsv", POST_COPY_FIELDS):
+        profile = profiles.get(sample.pop("profile"))
+        source = sources_by_id.get(sample["source"])
+        if not profile or profile["platform"] != "Facebook" or "copySample" in profile or not source:
+            raise ValueError(f"Invalid public copy sample for {sample['source']}")
+        url = urlsplit(source["url"])
+        first, last, checked = (date.fromisoformat(sample[key]) for key in ("first", "last", "checked"))
+        count = int(sample["count"])
+        if url.scheme != "https" or url.hostname in SOCIAL_DOMAINS["Facebook"] or not (0 < count and first <= last <= checked):
+            raise ValueError(f"Invalid public copy period or source for {sample['source']}")
+        profile["copySample"] = {**sample, "count": count}
+        copy_total += count
+    social["overview"]["facebookCopiedPosts"] = copy_total
+    social["overview"]["facebookWithCopies"] = sum("copySample" in row for row in profiles.values())
     social["overview"]["facebookPosts"] = len(seen_posts)
     social["overview"]["facebookWithPosts"] = sum(bool(row.get("postLinks")) for row in profiles.values())
     social["overview"]["publisherLinks"] = sum("publisher" in row for row in profiles.values())

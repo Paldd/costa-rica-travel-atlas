@@ -1,0 +1,359 @@
+{
+  "miramar-vista-golfo-eleven-waterfalls": {
+    "stops": [
+      {
+        "point": "miramar-town",
+        "role": "Miramar · ориентир на подъезде",
+        "note": "С Ruta 1 сворачивают в Cuatro Cruces к Miramar. Выше посёлка трасса идёт в сторону Тахо-Альто."
+      },
+      {
+        "point": "vista-golfo-main-lodge",
+        "role": "Vista Golfo · въезд и регистрация",
+        "note": "Используйте метку из кнопки Google Maps на странице подъезда. На ней указан въезд у отеля в Тахо-Альто."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Порядок выезда",
+        "text": "У базы проходит инструктаж, затем маршрут ведёт к подвесному мосту, канопи над каскадами и спускам по верёвке. Для полного тура владелец указывает около 2,5 часа. Природная купель зависит от воды и решений команды.",
+        "sources": [
+          "vista-golfo-11-cataratas",
+          "vista-golfo-summer-post-copies"
+        ]
+      },
+      {
+        "title": "Что показали объявления",
+        "text": "В июльской копии ленты описаны трансфер внутри парка на 4×4 и пакет с питанием. В объявлениях упоминаются 18 пролётов, испанская страница описывает 25. Запросите точный состав выбранной экскурсии и время от регистрации до возврата.",
+        "sources": [
+          "vista-golfo-summer-post-copies",
+          "vista-golfo-11-cataratas"
+        ]
+      },
+      {
+        "title": "Допуск и снаряжение",
+        "text": "Заранее сообщите возраст и вес участников. Уточните обувь, страховку, одежду для купели и сухую смену. Программа с мокрыми спусками требует готовности к высоте и согласованного сопровождения.",
+        "sources": [
+          "vista-golfo-11-cataratas",
+          "vista-golfo-contact-en"
+        ]
+      },
+      {
+        "title": "Подъезд и ночёвка",
+        "text": "Владелец указывает въезд через Cuatro Cruces и примерно 12 км в сторону Тахо-Альто. У Google Maps по ссылке самого парка стоит метка севернее Мирамара. Для раннего старта удобно остаться в отеле или лагере парка.",
+        "sources": [
+          "vista-golfo-uphill-approach",
+          "vista-golfo-owner-map",
+          "vista-golfo-camping"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park & Hotel Vista Golfo",
+        "source": "vista-golfo-contact-en",
+        "note": "Уточните открытые программы, ограничения по возрасту и весу, условия заезда и бронирования.",
+        "phone": "+506 8471 9117",
+        "whatsapp": "https://wa.me/50684719117"
+      }
+    ],
+    "nearby": [
+      "miramar-vista-golfo-big-papa",
+      "miramar-vista-golfo-camp",
+      "pura-vista-tajo-rooftent"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "vista-golfo-11-cataratas",
+      "vista-golfo-park-channel"
+    ],
+    "line": "vista-golfo-miramar-road"
+  },
+  "miramar-vista-golfo-big-papa": {
+    "stops": [
+      {
+        "point": "miramar-town",
+        "role": "Miramar · ориентир на подъезде",
+        "note": "С Ruta 1 сворачивают в Cuatro Cruces к Miramar. Выше посёлка трасса идёт в сторону Тахо-Альто."
+      },
+      {
+        "point": "vista-golfo-main-lodge",
+        "role": "Vista Golfo · въезд и регистрация",
+        "note": "Используйте метку из кнопки Google Maps на странице подъезда. На ней указан въезд у отеля в Тахо-Альто."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейный план",
+        "text": "Основная программа содержит 17 верёвочных элементов. Во время общего дня можно выбрать бассейн, лабиринт и прогулку по территории. Для участников, которым высота не подходит, согласуйте дневной вход и наземную часть.",
+        "sources": [
+          "vista-golfo-big-papa",
+          "vista-golfo-big-papa-report"
+        ]
+      },
+      {
+        "title": "Варианты из ленты",
+        "text": "В августовских публикациях открытой копии ленты оператор предлагал Big Papa с короткой связкой из четырёх пролётов и конструктор из двух групповых активностей. Позвоните за составом на нужные даты.",
+        "sources": [
+          "vista-golfo-summer-post-copies",
+          "vista-golfo-contact-en"
+        ]
+      },
+      {
+        "title": "Условия на день",
+        "text": "Проверьте рост и вес по правилам страховочной системы, какие элементы проходят дети и требуется ли взрослый рядом. Возьмите закрытую обувь и спросите, когда бассейн и тропы доступны после дождя.",
+        "sources": [
+          "vista-golfo-big-papa",
+          "vista-golfo-contact-en"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park & Hotel Vista Golfo",
+        "source": "vista-golfo-contact-en",
+        "note": "Уточните открытые программы, ограничения по возрасту и весу, условия заезда и бронирования.",
+        "phone": "+506 8471 9117",
+        "whatsapp": "https://wa.me/50684719117"
+      }
+    ],
+    "nearby": [
+      "miramar-vista-golfo-eleven-waterfalls",
+      "miramar-vista-golfo-camp"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "vista-golfo-big-papa",
+      "vista-golfo-park-channel"
+    ],
+    "line": "vista-golfo-miramar-road"
+  },
+  "miramar-vista-golfo-camp": {
+    "stops": [
+      {
+        "point": "miramar-town",
+        "role": "Miramar · ориентир на подъезде",
+        "note": "С Ruta 1 сворачивают в Cuatro Cruces к Miramar. Выше посёлка трасса идёт в сторону Тахо-Альто."
+      },
+      {
+        "point": "vista-golfo-main-lodge",
+        "role": "Vista Golfo · въезд и регистрация",
+        "note": "Используйте метку из кнопки Google Maps на странице подъезда. На ней указан въезд у отеля в Тахо-Альто."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночь в горах",
+        "text": "Camping Vista Golfo предлагает поставить палатку на воздухе либо под навесом. Страница указывает душ, туалет, зону приготовления на гриле и доступ к общим зонам. При заселении уточните точное место палатки, воду и время тишины.",
+        "sources": [
+          "vista-golfo-camping",
+          "vista-golfo-contact-en"
+        ]
+      },
+      {
+        "title": "Палатка на крыше или на земле",
+        "text": "В опубликованной программе кемпинга описана обычная палатка. Для установки на крыше спросите, можно ли подъехать и выровнять машину у места, и попросите координаты ворот. В районе есть отдельная карточка Camping Pura Vista с подтверждённым форматом крышной палатки.",
+        "sources": [
+          "vista-golfo-camping",
+          "vista-golfo-contact-en",
+          "pura-vista-map-osm"
+        ]
+      },
+      {
+        "title": "Два дня на одной базе",
+        "text": "В день приезда удобно поставить палатку и пройтись по территории. На второе утро выбирайте Big Papa или экскурсию над водопадами. По грилю, открытому огню и совместимости с поздним выездом действуют условия хозяев.",
+        "sources": [
+          "vista-golfo-camping",
+          "vista-golfo-big-papa",
+          "vista-golfo-11-cataratas"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Park & Hotel Vista Golfo",
+        "source": "vista-golfo-contact-en",
+        "note": "Уточните открытые программы, ограничения по возрасту и весу, условия заезда и бронирования.",
+        "phone": "+506 8471 9117",
+        "whatsapp": "https://wa.me/50684719117"
+      }
+    ],
+    "nearby": [
+      "miramar-vista-golfo-big-papa",
+      "miramar-vista-golfo-eleven-waterfalls",
+      "pura-vista-tajo-rooftent",
+      "domos-tajo-alto"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "vista-golfo-camping"
+    ],
+    "line": "vista-golfo-miramar-road"
+  },
+  "herradura-vista-horse-buggy-combo": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Vista Los Sueños · старт и регистрация",
+        "note": "Уточните подвоз из Хако или Los Sueños и выдачу ключей. Частный водопад и береговые остановки показывает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два формата за полдня",
+        "text": "В описании конная часть начинается в лесу и включает около 45 минут верхом до короткого пешего спуска к купелям. Затем багги проходит через Pacific Sky Deck, береговой сектор и частный водопад. Порядок зависит от погоды и работы группы.",
+        "sources": [
+          "vista-herradura-buggy-horse-combo"
+        ]
+      },
+      {
+        "title": "С детьми и за рулём",
+        "text": "Организатор публикует возраст пассажира от четырёх лет для обеих частей. Ребёнок 4–5 лет едет верхом со взрослым. Свой скакун для 6+ зависит от навыка. Для водителя нужны водительские права и карта под депозит.",
+        "sources": [
+          "vista-herradura-buggy-horse-combo"
+        ]
+      },
+      {
+        "title": "Экипировка и длительность",
+        "text": "Страница указывает около пяти часов, один из абзацев — четыре. Уточните время с трансфером и перерывами. Возьмите закрытую обувь для багги, длинные брюки для седла, купальник и сухую смену.",
+        "sources": [
+          "vista-herradura-buggy-horse-combo",
+          "vista-herradura-experience-video"
+        ]
+      },
+      {
+        "title": "Поездка на место",
+        "text": "В независимом отчёте гости описывают посещение других активностей той же площадки. На сайте парка есть фотографии купели и конной части. Для короткого дня доступны отдельные багги или квадроцикл.",
+        "sources": [
+          "vista-herradura-traveler-report",
+          "vista-herradura-buggy-horse-combo"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Vista Los Sueños · бронирование комбинированного тура",
+        "source": "vista-herradura-buggy-horse-combo",
+        "note": "Уточните возраст каждого ребёнка, количество мест, права, депозит, порядок экскурсий и трансфер."
+      }
+    ],
+    "nearby": [
+      "herradura-vista-buggy-waterfalls",
+      "herradura-vista-buggy-coastal",
+      "herradura-vista-atv-two",
+      "herradura-vista-canyoning"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "vista-herradura-buggy-horse-combo"
+    ],
+    "videos": [
+      "vista-herradura-experience-video"
+    ]
+  },
+  "punta-islita-ora-mangrove-kayak": {
+    "stops": [
+      {
+        "point": "gravel-punta-islita-area",
+        "role": "Punta Islita · район встречи с трансфером",
+        "note": "Отсюда оператор может организовать подвоз. Точку сбора назначают при бронировании."
+      },
+      {
+        "point": "islita-rio-ora-sector",
+        "role": "Río Ora · географический ориентир у Камароналя",
+        "note": "Ориентир речного сектора на карте. Старт, разворот и место посадки определяет гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что увидите с лодки",
+        "text": "Организованная поездка проходит из лесного речного участка через мангры к прибрежной зоне. В рассказе участников из Пунта-Ислиты описана гребля к устью. Спросите о возврате и фактической дистанции при вашем уровне воды.",
+        "sources": [
+          "islita-rio-ora-guided-kayak",
+          "islita-rio-ora-kayak-report"
+        ]
+      },
+      {
+        "title": "Подвоз и детские размеры",
+        "text": "Организатор указывает подвоз из Самары, Пунта-Ислиты или Носары, лодку и экипировку. Уточните место встречи, рост и возраст детей, двухместный каяк, размеры спасжилетов, питьевую воду и время гребли.",
+        "sources": [
+          "islita-rio-ora-guided-kayak",
+          "islita-operator-guide-2026"
+        ]
+      },
+      {
+        "title": "Свой каяк или пакрафт",
+        "text": "В устье рядом с Refugio Camaronal действуют режим охраняемого сектора и прилив. Запросите разрешённую точку спуска и доступ у управляющих. Для поездки с детьми выберите согласованный речной маршрут с проводником.",
+        "sources": [
+          "islita-camaronal-ora-boundary",
+          "islita-rio-ora-map",
+          "islita-rio-ora-guided-kayak"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Enter Costa Rica · River Kayaking on the Río Ora",
+        "source": "islita-rio-ora-guided-kayak",
+        "note": "Запросите подтверждение места выдачи, приливного окна, загрузки воды и условий для детей."
+      }
+    ],
+    "nearby": [
+      "punta-islita-art-walk",
+      "punta-islita-resort-ebike"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "islita-rio-ora-kayak-report"
+    ]
+  },
+  "punta-islita-resort-ebike": {
+    "stops": [
+      {
+        "point": "gravel-punta-islita-area",
+        "role": "Punta Islita · посёлок и район базы",
+        "note": "Общий ориентир деревни. Точный пункт выдачи и встречу согласуйте с Hotel Punta Islita."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какой формат подтверждён",
+        "text": "Брошюра Hotel Punta Islita на 2026–2027 указывает e-bike среди активностей в этом районе. При запросе уточните, есть ли гид, самостоятельная выдача, ограничение по весу и размер рамы. Дистанция зависит от программы.",
+        "sources": [
+          "islita-operator-guide-2026"
+        ]
+      },
+      {
+        "title": "Для короткой поездки",
+        "text": "Попросите круг с возвратом в район отеля, понятным разворотом и покрытием в сухую и дождливую погоду. Истории гостей описывают горную местность и местные дороги. Условия допуска и зарядку проверяйте у выдачи.",
+        "sources": [
+          "islita-operator-guide-2026",
+          "islita-flyertalk-ride-context"
+        ]
+      },
+      {
+        "title": "Пешая часть и ара",
+        "text": "После поездки добавьте музей под открытым небом у деревни. Для визита в центр восстановления популяции ара у Macaw Recovery Network отдельный порядок посещения.",
+        "sources": [
+          "islita-hotel-art-trails-guide",
+          "islita-mrn-tours"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Punta Islita · программа активностей",
+        "source": "islita-operator-guide-2026",
+        "note": "Уточните маршрут на e-bike, возраст, размер, проводника, аренду и доступ без проживания."
+      }
+    ],
+    "nearby": [
+      "punta-islita-art-walk",
+      "punta-islita-ora-mangrove-kayak"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "islita-operator-guide-2026",
+      "islita-hotel-art-trails-guide"
+    ]
+  }
+}
