@@ -1,0 +1,781 @@
+{
+  "bagaces-llanos-cortes-waterfall": {
+    "stops": [
+      {
+        "point": "llanos-approach-turn",
+        "role": "Ориентир после съезда с Ruta 1",
+        "note": "Дальше следуйте указателям муниципального проекта. Не въезжайте по лесным или частным объездам."
+      },
+      {
+        "point": "llanos-project-parking",
+        "role": "Парковка и пеший вход",
+        "note": "У кассы уточните время последнего входа, состояние лестницы и разрешённую зону купания."
+      },
+      {
+        "point": "llanos-falls-view",
+        "role": "Водопад и купель",
+        "note": "Метка водопада служит ориентиром. Маркировку временной тропы и указания спасателей проверяйте на месте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Заезд с Ruta 1",
+        "text": "От трассы дорога идёт в сторону Llanos del Cortés. На автомобильной карте отмечены заезд и парковка, а у пешей части своя метка. На остановку заложите 1–2 часа. Приезжайте с запасом до 15:30 и заранее спросите, когда продают последний билет.",
+        "sources": [
+          "llanos-municipal-visit",
+          "llanos-main-approach-map",
+          "llanos-parking-osm",
+          "llanos-aguaepipa-november"
+        ]
+      },
+      {
+        "title": "Лестница и временный проход",
+        "text": "В опубликованном 22 сентября 2026 сообщении проект объявил временный путь с 29 сентября из-за работ на лестнице. Позвоните в проект перед выездом, особенно если едете с коляской или с человеком, которому трудно идти по ступеням.",
+        "sources": [
+          "llanos-municipal-facebook-copy",
+          "llanos-municipal-contact"
+        ]
+      },
+      {
+        "title": "Купель и экипировка",
+        "text": "В дождь увеличивается расход воды и меняется видимость. Пользуйтесь только зоной, которую открывает персонал. Возьмите обувь с устойчивой подошвой, сухую смену и воду. Для наземного визита остаются обзор и фото. Стекло, домашние животные и угольные грили запрещены.",
+        "sources": [
+          "llanos-aguaepipa-november",
+          "llanos-municipal-visit"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Proyecto Ecoturístico · Municipalidad de Bagaces",
+        "source": "llanos-municipal-contact",
+        "note": "Уточните лестницу, парковку, тариф и открытую зону купания.",
+        "phone": "+506 8777 3014",
+        "whatsapp": "https://wa.me/50687773014",
+        "email": "cataratallanosdelcortes@bagaces.go.cr",
+        "url": "https://linktr.ee/CatarataLlanosdelCortes"
+      }
+    ],
+    "nearby": [
+      "ponderosa-teekisia-premium-day",
+      "panama-culebra-beach",
+      "papagayo-bagaces-waterfall-2"
+    ],
+    "connectStops": false,
+    "photos": [
+      "llanos-cortes-commons"
+    ],
+    "videos": [
+      "llanos-waterfall-video"
+    ]
+  },
+  "conchal-reserva-five-trails": {
+    "stops": [
+      {
+        "point": "conchal-reserva-area",
+        "role": "Reserva Conchal · район стойки комплекса",
+        "note": "Координата обозначает район комплекса. Нужный вход, парковку и начало тропы получите у консьержа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршруты по карте комплекса",
+        "text": "Venado 1,186 км и Congo 1,055 км идут по мягким уклонам. Cangrejo 3,147 км имеет умеренные уклоны. Iguana 2,045 км и Pizote 0,622 км помечены крутыми. Длины относятся к отдельным линиям карты. На возврат и переход от жилья отведите время отдельно.",
+        "sources": [
+          "conchal-reserva-program",
+          "conchal-reserva-trail-pdf"
+        ]
+      },
+      {
+        "title": "Ходьба и велосипед",
+        "text": "По схеме видны значки пешеходных и велосипедных участков. Перед поездкой согласуйте у консьержа вход, пропуск для велосипеда или e-bike, шлем и открытые участки. Для семейной прогулки в жару разумно начать с одного короткого отрезка.",
+        "sources": [
+          "conchal-reserva-trail-pdf",
+          "conchal-reserva-concierge"
+        ]
+      },
+      {
+        "title": "Запасной маршрут у берега",
+        "text": "Если вход внутрь территории закрыт или группа с детьми устала, выберите общественный пеший подход из Брасилито к пляжу. Он вынесен на отдельную карту.",
+        "sources": [
+          "brasilito-coast-field",
+          "conchal-reserva-beach-club"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Reserva Conchal · Concierge",
+        "source": "conchal-reserva-concierge",
+        "note": "Запросите доступ на конкретную тропу, место встречи и часы программы.",
+        "phone": "+506 2654 3000"
+      }
+    ],
+    "nearby": [
+      "conchal",
+      "conchal-refugio-visit",
+      "conchal-essence-family-kayak"
+    ],
+    "connectStops": false,
+    "track": "conchal-reserva-trail-pdf"
+  },
+  "conchal-refugio-visit": {
+    "stops": [
+      {
+        "point": "conchal-reserva-area",
+        "role": "Reserva Conchal · район стойки комплекса",
+        "note": "Координата обозначает район комплекса. Нужный вход, парковку и начало тропы получите у консьержа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Запись и вход",
+        "text": "Смешанный заповедник находится в районе Cabo Velas. Сначала запросите у консьержа место встречи, самостоятельный или сопровождаемый формат, дату и длительность. На странице проекта указаны часы связи по будням. Тариф уточняйте у управляющих выбранной программы.",
+        "sources": [
+          "conchal-refugio-sinac",
+          "conchal-refugio-conservation",
+          "conchal-reserva-concierge"
+        ]
+      },
+      {
+        "title": "Что можно увидеть",
+        "text": "Сухой лес и мангры различаются по месту и сезону. На организованной прогулке по записи могут показать питомник и безжалых пчёл Melipona. Для детей сразу уточните формат образовательного визита. К встречам с обезьянами или птицами относитесь как к возможности.",
+        "sources": [
+          "conchal-refugio-conservation",
+          "conchal-refugio-plan",
+          "conchal-reserva-program"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Понадобятся вода, лёгкая обувь для лесных дорожек и защита от насекомых. Администраторы показывают допустимые участки и ограждения. Схема зонирования помогает выбрать экскурсию до приезда.",
+        "sources": [
+          "conchal-refugio-plan",
+          "conchal-refugio-conservation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Reserva Conchal · Concierge",
+        "source": "conchal-reserva-concierge",
+        "note": "Запросите доступ на конкретную тропу, место встречи и часы программы.",
+        "phone": "+506 2654 3000"
+      }
+    ],
+    "nearby": [
+      "conchal",
+      "conchal-reserva-five-trails",
+      "conchal-essence-family-kayak"
+    ],
+    "connectStops": false,
+    "track": "conchal-refugio-plan"
+  },
+  "conchal-essence-family-kayak": {
+    "stops": [
+      {
+        "point": "conchal-reserva-area",
+        "role": "Reserva Conchal · район стойки комплекса",
+        "note": "Координата обозначает район комплекса. Нужный вход, парковку и начало тропы получите у консьержа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Допуск по брони",
+        "text": "Conchal Essence подтверждает вход в Beach Club для своих объектов. Сверьте имена гостей, выдачу пропуска, часы шаттла и доступ в день выезда. У клуба есть бассейны и ресторан. Сам пляж связан общественным подходом с Брасилито.",
+        "sources": [
+          "conchal-essence-faq",
+          "conchal-reserva-beach-club",
+          "brasilito-coast-field"
+        ]
+      },
+      {
+        "title": "На воду до усиления ветра",
+        "text": "У клуба указано оборудование для каяка, SUP и снорклинга. Заранее спросите, входят ли занятия в стоимость, можно ли закрепить слот и есть ли детские жилеты и двухместный каяк. Короткий выход согласуйте по состоянию прибоя и судовому движению.",
+        "sources": [
+          "conchal-essence-faq",
+          "conchal-reserva-program",
+          "guanacaste-tides"
+        ]
+      },
+      {
+        "title": "Что подсказала местная публикация",
+        "text": "В сентябрьской копии Descubre Costa Rica описано проживание и каяк у клуба. Текущий допуск подтверждает FAQ агентства. Фото и отзывы относятся к разным объектам, поэтому смотрите карточку именно своей виллы или квартиры.",
+        "sources": [
+          "descubre-conchal-facebook-copy",
+          "conchal-essence-stays",
+          "conchal-essence-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Reserva Conchal · Concierge",
+        "source": "conchal-reserva-concierge",
+        "note": "Запросите доступ на конкретную тропу, место встречи и часы программы.",
+        "phone": "+506 2654 3000"
+      },
+      {
+        "name": "Conchal Essence · бронирование жилья",
+        "source": "conchal-essence-faq",
+        "note": "Попросите письменное подтверждение доступа семьи, проката и внутреннего шаттла.",
+        "phone": "+506 8449 6643",
+        "whatsapp": "https://wa.me/50684496643",
+        "email": "hello@conchalessence.com"
+      }
+    ],
+    "nearby": [
+      "conchal",
+      "conchal-refugio-visit",
+      "conchal-reserva-five-trails"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "conchal-essence-stays"
+    ]
+  },
+  "ostional-turtle-guides": {
+    "stops": [
+      {
+        "point": "ostional-village-road",
+        "role": "Остиональ · дорожный ориентир в посёлке",
+        "note": "Вход на охраняемый пляж и точку встречи подтвердите у гида."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Arribada и обычный выход",
+        "text": "Следите за объявлениями управляющих о массовом выходе черепах. Вне него Osti Tours предлагает отдельную прогулку примерно на час. В копии Descubre Costa Rica описана конкретная сентябрьская arribada. Дата и масштаб не повторяются по расписанию.",
+        "sources": [
+          "ostional-sinac-adio",
+          "ostional-osti-solitarias",
+          "descubre-conchal-facebook-copy"
+        ]
+      },
+      {
+        "title": "Как согласовать визит",
+        "text": "До выезда свяжитесь с ADIO или AGLO. Спросите точку встречи, часы, входной билет, стоимость гида и последние новости дороги со стороны Носары. У выхода с детьми уточните возраст и возможность вернуться раньше.",
+        "sources": [
+          "ostional-sinac-adio",
+          "ostional-association-local",
+          "ostional-wca-booking"
+        ]
+      },
+      {
+        "title": "Свет, одежда и фото",
+        "text": "Уточните правила съёмки и допустимый свет до выхода. Не подходите к животным самостоятельно. По условиям возьмите лёгкую обувь, дождевик и воду. У берега оставайтесь там, где ведёт группа.",
+        "sources": [
+          "ostional-sinac-adio",
+          "ostional-osti-solitarias"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ADIO · Asociación de Desarrollo Integral de Ostional",
+        "source": "ostional-sinac-adio",
+        "note": "Уточните выход, билет, точку встречи и дорогу.",
+        "phone": "+506 6108 1681"
+      },
+      {
+        "name": "AGLO · Asociación de Guías Locales de Ostional",
+        "source": "ostional-sinac-adio",
+        "note": "Подтвердите наличие местного гида и действующее расписание.",
+        "phone": "+506 6252 7412"
+      }
+    ],
+    "nearby": [
+      "guiones-ostional-30",
+      "nosara-ostional-pachamama-guided-ebike"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ostional-osti-solitarias"
+    ]
+  },
+  "arenal-fuego-forest-thermal": {
+    "stops": [
+      {
+        "point": "fuego-hotel-ruta-142",
+        "role": "Montaña de Fuego · стойка отеля",
+        "note": "Подъезд по Ruta 142 к западу от Ла-Фортуны. Для регистрации в Go Adventure уточните отдельную точку напротив."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лес с утра, термы после прогулки",
+        "text": "Начните с короткой тропы к водопаду внутри территории и уточните доступ после дождя. На сайте отеля указаны термоминеральные бассейны. Продолжительность прогулки у кассы уточняют по доступному кругу. Оставьте 2–4 часа на спокойное сочетание тропы, воды и еды.",
+        "sources": [
+          "publisher-montanadefuego-com",
+          "fuego-activities-official"
+        ]
+      },
+      {
+        "title": "Дети, температура и снаряжение",
+        "text": "Уточните, куда допускают ребёнка, какова температура воды и есть ли прохладный бассейн. Возьмите обувь для влажной тропы, купальный комплект, воду и сухую смену.",
+        "sources": [
+          "fuego-activities-official",
+          "fuego-owner-contact"
+        ]
+      },
+      {
+        "title": "Культурная программа как отдельное занятие",
+        "text": "Архивная майская публикация упоминает Villa Maleku. Если интересует посещение, спросите о ведущем, времени и составе именно выбранного пакета. Фото и видео базы доступны у владельца.",
+        "sources": [
+          "fuego-social-copy-may-jun",
+          "fuego-owner-film",
+          "fuego-owner-gallery"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Montaña de Fuego · бронирование и активности",
+        "source": "fuego-activities-official",
+        "note": "Уточните правила своего пакета, дневной вход, время и подтверждение тура.",
+        "phone": "+506 2479 1220",
+        "whatsapp": "https://wa.me/50662402490",
+        "url": "https://montanadefuego.com/activities/"
+      }
+    ],
+    "nearby": [
+      "arenal-fuego-go-adventure-tubing",
+      "arenal-fuego-go-adventure-canopy"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "fuego-owner-gallery"
+    ],
+    "videos": [
+      "fuego-owner-film"
+    ]
+  },
+  "arenal-fuego-go-adventure-tubing": {
+    "stops": [
+      {
+        "point": "fuego-park-registration",
+        "role": "Go Adventure · ориентир у Mini Market El Mirador",
+        "note": "Оператор сообщит время регистрации, транспорт к месту старта и правила возвращения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Старт и водный участок",
+        "text": "У Go Adventure согласуйте сбор около Mini Market El Mirador, трансфер и обратную точку. Описан сплав около 2 км с инструкторами. Длительность от регистрации до возвращения и условия воды уточняются перед выездом.",
+        "sources": [
+          "fuego-activities-official",
+          "fuego-arenal-tubing-package",
+          "fuego-go-adventure-meeting"
+        ]
+      },
+      {
+        "title": "Допуск на выбранную программу",
+        "text": "Одна продажная карточка указывает возраст 12–85 лет. Сверьте ограничения именно своего билета, плавательные навыки, размеры шлема и жилета и правила при отмене из-за воды.",
+        "sources": [
+          "fuego-arenal-tubing-package",
+          "fuego-activities-official"
+        ]
+      },
+      {
+        "title": "Что взять и чем заменить",
+        "text": "Нужны закрытая обувь для воды, купальный комплект и сухая сумка. Договоритесь о хранении вещей. Если инструкторы отменили выход, у отеля есть отдельная программа лесной прогулки и терм.",
+        "sources": [
+          "fuego-activities-official",
+          "publisher-montanadefuego-com"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Montaña de Fuego · бронирование и активности",
+        "source": "fuego-activities-official",
+        "note": "Уточните правила своего пакета, дневной вход, время и подтверждение тура.",
+        "phone": "+506 2479 1220",
+        "whatsapp": "https://wa.me/50662402490",
+        "url": "https://montanadefuego.com/activities/"
+      }
+    ],
+    "nearby": [
+      "arenal-fuego-forest-thermal",
+      "arenal-fuego-go-adventure-canopy"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "fuego-activities-official"
+    ],
+    "videos": [
+      "fuego-owner-film"
+    ]
+  },
+  "arenal-fuego-go-adventure-canopy": {
+    "stops": [
+      {
+        "point": "fuego-park-registration",
+        "role": "Go Adventure · ориентир у Mini Market El Mirador",
+        "note": "Оператор сообщит время регистрации, транспорт к месту старта и правила возвращения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Порядок занятия",
+        "text": "После инструктажа проходит серия из 9 зиплайнов и 13 платформ. В описании указан финальный спуск около 30 м. Запросите длительность, набор пролётов на день и возможность закончить раньше без спуска.",
+        "sources": [
+          "fuego-activities-official",
+          "fuego-go-adventure-meeting"
+        ]
+      },
+      {
+        "title": "Семейный формат",
+        "text": "Сообщите возраст, рост и вес всех участников и узнайте об ограничениях после дождя. Для группы с детьми можно оставить одну активность на утро и встретиться к обеду в термальной зоне при действующем пропуске.",
+        "sources": [
+          "fuego-activities-official",
+          "fuego-owner-contact"
+        ]
+      },
+      {
+        "title": "Конная прогулка или термы",
+        "text": "У оператора есть отдельная конная часть. В личном отчёте описано сочетание приключений и терм, но оплату, подвоз и участие в разных занятиях согласуйте по действующей программе.",
+        "sources": [
+          "fuego-horseback-visitor",
+          "fuego-activities-official"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Montaña de Fuego · бронирование и активности",
+        "source": "fuego-activities-official",
+        "note": "Уточните правила своего пакета, дневной вход, время и подтверждение тура.",
+        "phone": "+506 2479 1220",
+        "whatsapp": "https://wa.me/50662402490",
+        "url": "https://montanadefuego.com/activities/"
+      }
+    ],
+    "nearby": [
+      "arenal-fuego-forest-thermal",
+      "arenal-fuego-go-adventure-tubing"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "fuego-activities-official"
+    ],
+    "videos": [
+      "fuego-owner-film"
+    ]
+  },
+  "panama-azul-ocean-boat": {
+    "stops": [
+      {
+        "point": "el-mangroove-panama-area",
+        "role": "El Mangroove · береговой район сбора",
+        "note": "Въезд по дороге Vía 159. В заявке попросите отдельное место встречи для выхода на воду."
+      },
+      {
+        "point": "panama-culebra-beach-access",
+        "role": "Playa Panamá · общественный берег",
+        "note": "Точка для тех, кто остаётся на суше. Место посадки определяет экипаж."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Четыре часа или целый день",
+        "text": "Azul публикует частные программы на 4 или 8 часов вдоль Папагайо. Для первого выхода с семьёй просите спокойные бухты и одну остановку со снорклингом. Капитан подтверждает маршрут, посадку и варианты при ветре.",
+        "sources": [
+          "mangroove-azul-experience",
+          "mangroove-azul-fleet"
+        ]
+      },
+      {
+        "title": "С малышами и новичками",
+        "text": "Уточните, как садятся в лодку, оснащение трапа, детские жилеты, тент, туалет и запас питьевой воды. Для тех, кто не плавает, договоритесь о наблюдении с борта. При отмене остаётся Плайя-Панама или наземная прогулка.",
+        "sources": [
+          "mangroove-azul-experience",
+          "mangroove-azul-fleet"
+        ]
+      },
+      {
+        "title": "База и впечатления",
+        "text": "В отзывах у Marriott есть опыт заказа морской прогулки через консьержа. Отдельная открытая копия сообщений отеля описывает кофе и гастрономию на базе. Сверьте, какие услуги доступны без проживания.",
+        "sources": [
+          "mangroove-marriott-guest-stay",
+          "mangroove-copies-sep-oct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Mangroove · Azul Ocean Adventures",
+        "source": "mangroove-azul-experience",
+        "note": "Уточните маршрут, выход без проживания, возраст, размещение на борту и отмену из-за моря.",
+        "phone": "+506 2105 7575",
+        "url": "https://www.marriott.com/en-us/hotels/lirel-el-mangroove-autograph-collection/experiences/"
+      }
+    ],
+    "nearby": [
+      "panama-culebra-beach",
+      "panama-azul-sport-fishing",
+      "hermosa-condovac-family-kayak"
+    ],
+    "connectStops": false,
+    "photos": [
+      "panama"
+    ],
+    "galleries": [
+      "mangroove-marriott-photo"
+    ]
+  },
+  "panama-azul-sport-fishing": {
+    "stops": [
+      {
+        "point": "el-mangroove-panama-area",
+        "role": "El Mangroove · береговой район сбора",
+        "note": "Въезд по дороге Vía 159. В заявке попросите отдельное место встречи для выхода на воду."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подбор выхода с капитаном",
+        "text": "Попросите прибрежный вариант, если важны короткий переход или первый выезд с подростком. Для дальней воды уточните время на переход и план по ветру. В меню флота есть несколько форматов, состав выбранной услуги подтверждается при записи.",
+        "sources": [
+          "mangroove-azul-experience",
+          "mangroove-azul-fleet"
+        ]
+      },
+      {
+        "title": "Документы и рыбалка",
+        "text": "Уточните у капитана оформление лицензий по участникам и действующие правила INCOPESCA. На берегу согласуйте снасти, приманку, воду, питание и правила выпуска. Встреча с заявленными видами зависит от сезона.",
+        "sources": [
+          "incopesca-sport-fishing",
+          "mangroove-azul-experience"
+        ]
+      },
+      {
+        "title": "Ориентир старта",
+        "text": "База у Playa Panamá. Время и вход с дороги Vía 159 согласуйте при бронировании. Координата указывает место встречи на берегу. Точки на воде зависят от маршрута капитана.",
+        "sources": [
+          "mangroove-azul-experience",
+          "mangroove-azul-fleet"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Mangroove · Azul Ocean Adventures",
+        "source": "mangroove-azul-experience",
+        "note": "Уточните маршрут, выход без проживания, возраст, размещение на борту и отмену из-за моря.",
+        "phone": "+506 2105 7575",
+        "url": "https://www.marriott.com/en-us/hotels/lirel-el-mangroove-autograph-collection/experiences/"
+      }
+    ],
+    "nearby": [
+      "panama-culebra-beach",
+      "panama-azul-ocean-boat",
+      "hermosa-julio-local-boat"
+    ],
+    "connectStops": false,
+    "photos": [
+      "panama"
+    ],
+    "galleries": [
+      "mangroove-marriott-photo"
+    ]
+  },
+  "hermosa-condovac-family-kayak": {
+    "stops": [
+      {
+        "point": "condovac-main-approach",
+        "role": "Condovac · схематичный ориентир отеля",
+        "note": "Подтвердите точный въезд у рецепции и способ спуска с территории к пляжу."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и услуги",
+        "text": "В модуле Condovac указаны каяки, парковка, детская игровая зона и бассейн. Выберите номер и спросите о пешем пути или подвозе со склона до воды. Отдельно проверьте еду и условия без проживания.",
+        "sources": [
+          "condovac-family-services",
+          "condovac-location-rci"
+        ]
+      },
+      {
+        "title": "Короткая гребля",
+        "text": "Каяк лучше согласовать на первую половину спокойного дня. Уточните детские жилеты, модель каяка, цену или включение и место выдачи. При ветре используйте берег или бассейн. Пляж — Эрмоса у Сардиналя, в Гуанакасте.",
+        "sources": [
+          "condovac-family-services",
+          "purapaddle-papagayo-operator",
+          "guanacaste-tides"
+        ]
+      },
+      {
+        "title": "Что сохранила копия ленты",
+        "text": "В описании страницы есть каякинг и рыбалка. Датированные акции в копии истекли. Условия поездки подтверждаются в модуле бронирования.",
+        "sources": [
+          "condovac-facebook-public-copy",
+          "condovac-family-services"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Club y Hotel Condovac La Costa · бронирование",
+        "source": "condovac-family-services",
+        "note": "Проверьте каяк, жилеты, спуск к воде и доступ гостей.",
+        "phone": "+506 4001 1182",
+        "whatsapp": "https://wa.me/50662971504"
+      }
+    ],
+    "nearby": [
+      "hermosa-pura-paddle",
+      "hermosa-julio-local-boat",
+      "panama-culebra-beach"
+    ],
+    "connectStops": false,
+    "photos": [
+      "hermosa"
+    ]
+  },
+  "oreamuno-tocuma-glamp": {
+    "stops": [
+      {
+        "point": "tocuma-oreamuno-dome",
+        "role": "Tocuma · карта хозяев",
+        "note": "Следуйте метке размещения в Ореамуно. Описание адреса в Booking использует другой дорожный ориентир."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Размещение",
+        "text": "У Tocuma два купола. Уточните вместимость, работу джакузи, отопление или объём тёплых одеял, что входит в завтрак и правила заезда.",
+        "sources": [
+          "tocuma-rooms-oreamuno",
+          "tocuma-guest-report"
+        ]
+      },
+      {
+        "title": "Последний участок дороги",
+        "text": "Карта хозяев показывает точку 9.88316, −83.90571. Если едете после дождя, уточните последние метры, уклон и доступ для своей машины. Оставьте запас времени до темноты.",
+        "sources": [
+          "tocuma-location-pin",
+          "tocuma-guest-report"
+        ]
+      },
+      {
+        "title": "Прогулка на утро",
+        "text": "Для длинного выхода отдельно согласуйте маршрут Ночебуэна у Ирасу. Короткий день удобно начать с завтрака и дороги к Картаго. Фото и отзывы жилья доступны в бронировании.",
+        "sources": [
+          "tocuma-guest-report",
+          "tocuma-location-pin"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tocuma Glamping · контакт хозяев",
+        "source": "tocuma-location-pin",
+        "note": "Уточните подъезд, наличие купола и время заселения.",
+        "phone": "+506 7082 9520",
+        "url": "https://www.tocumaglamping.com/en/location"
+      }
+    ],
+    "nearby": [
+      "irazu-nochebuena-guided-8"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "tocuma-guest-report"
+    ]
+  },
+  "papagayo-bagaces-waterfall-2": {
+    "stops": [
+      {
+        "point": "panama-culebra-beach-access",
+        "role": "Плайя-Панама · общественный берег",
+        "note": "Ориентир для дня у моря с детьми и на случай отмены рейса."
+      },
+      {
+        "point": "el-mangroove-panama-area",
+        "role": "El Mangroove · береговой район сбора",
+        "note": "Въезд по дороге Vía 159. В заявке попросите отдельное место встречи для выхода на воду."
+      },
+      {
+        "point": "condovac-main-approach",
+        "role": "Плайя-Эрмоса · вариант ночёвки",
+        "note": "Для старта из Эрмосы рассчитайте отдельный подъезд к основной линии."
+      },
+      {
+        "point": "llanos-approach-turn",
+        "role": "Ориентир после съезда с Ruta 1",
+        "note": "Дальше следуйте указателям муниципального проекта. Не въезжайте по лесным или частным объездам."
+      },
+      {
+        "point": "llanos-project-parking",
+        "role": "Парковка и пеший вход",
+        "note": "У кассы уточните время последнего входа, состояние лестницы и разрешённую зону купания."
+      },
+      {
+        "point": "llanos-falls-view",
+        "role": "Водопад и купель",
+        "note": "Метка водопада служит ориентиром. Маркировку временной тропы и указания спасателей проверяйте на месте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Берег в первый день",
+        "text": "Начните с общественной Плайя-Панама или предварительного морского выхода Azul. При сильном ветре оставьте Плайя-Панама и Эрмосу для прогулки и обеда. Для ночи подходит размещение в одной из соседних бухт.",
+        "sources": [
+          "mangroove-azul-experience",
+          "condovac-family-services"
+        ]
+      },
+      {
+        "title": "Льянос-дель-Кортес во второй день",
+        "text": "Утром выезжайте из Playa Panamá на Ruta 1. Расчёт от района El Mangroove до парковки около 51,3 км. Перед выездом проверьте часы, текущую лестницу и купание. Днём оставьте время для обеда в Багасесе или обратной дороги.",
+        "sources": [
+          "papagayo-llanos-car-osm",
+          "llanos-municipal-visit",
+          "llanos-municipal-facebook-copy"
+        ]
+      },
+      {
+        "title": "Что пригодится",
+        "text": "Для воды нужны жилеты от оператора и обувь, которая не скользит. Для водопада возьмите сухую смену, еду и воду. На маршрут заложите отдельный резерв времени после сильного ливня.",
+        "sources": [
+          "mangroove-azul-experience",
+          "llanos-aguaepipa-november"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Mangroove · Azul Ocean Adventures",
+        "source": "mangroove-azul-experience",
+        "note": "Уточните маршрут, выход без проживания, возраст, размещение на борту и отмену из-за моря.",
+        "phone": "+506 2105 7575",
+        "url": "https://www.marriott.com/en-us/hotels/lirel-el-mangroove-autograph-collection/experiences/"
+      },
+      {
+        "name": "Proyecto Ecoturístico · Municipalidad de Bagaces",
+        "source": "llanos-municipal-contact",
+        "note": "Уточните лестницу, парковку, тариф и открытую зону купания.",
+        "phone": "+506 8777 3014",
+        "whatsapp": "https://wa.me/50687773014",
+        "email": "cataratallanosdelcortes@bagaces.go.cr",
+        "url": "https://linktr.ee/CatarataLlanosdelCortes"
+      }
+    ],
+    "nearby": [
+      "panama-culebra-beach",
+      "hermosa-condovac-family-kayak",
+      "bagaces-llanos-cortes-waterfall"
+    ],
+    "connectStops": false,
+    "line": "papagayo-bagaces-llanos-drive",
+    "photos": [
+      "panama",
+      "llanos-cortes-commons"
+    ],
+    "videos": [
+      "llanos-waterfall-video"
+    ]
+  }
+}

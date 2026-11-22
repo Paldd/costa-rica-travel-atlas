@@ -227,15 +227,19 @@ function DossierContacts({ contacts, sources }) {
   return <section className="dossier-contacts">
     <h2>Гиды, прокат и контакты</h2>
     <ul>
-      {contacts.map(contact => <li key={contact.name}>
-        <strong>{contact.name}</strong>
-        <p>{contact.note}</p>
-        <div className="dossier-links">
-          <External href={contact.url || sources[contact.source].url}>{contact.url?.startsWith("https://wa.me/") ? "WhatsApp" : "Сайт / условия"}</External>
-          {contact.phone && <a href={`tel:${contact.phone.replace(/[^\d+]/g, "")}`}>{contact.phone}</a>}
-          {contact.email && <a href={`mailto:${contact.email}`}>{contact.email}</a>}
-        </div>
-      </li>)}
+      {contacts.map(contact => {
+        const href = contact.url || sources[contact.source].url;
+        return <li key={contact.name}>
+          <strong>{contact.name}</strong>
+          <p>{contact.note}</p>
+          <div className="dossier-links">
+            <External href={href}>{href.startsWith("https://wa.me/") ? "WhatsApp" : "Сайт / условия"}</External>
+            {contact.whatsapp && contact.whatsapp !== href && <External href={contact.whatsapp}>WhatsApp</External>}
+            {contact.phone && <a href={`tel:${contact.phone.replace(/[^\d+]/g, "")}`}>{contact.phone}</a>}
+            {contact.email && <a href={`mailto:${contact.email}`}>{contact.email}</a>}
+          </div>
+        </li>;
+      })}
     </ul>
   </section>;
 }

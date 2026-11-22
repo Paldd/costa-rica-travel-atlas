@@ -73,7 +73,7 @@ for (const row of records) {
     }
     assert(sections.length > 0 && sections.every(section => section.title && section.text && section.sources.length && section.sources.every(id => id in atlas.sources)), row.id);
     assert(contacts.every(contact => contact.name && contact.note && contact.source in atlas.sources), row.id);
-    assert(contacts.every(contact => !contact.url || new URL(contact.url).protocol === "https:"), row.id);
+    assert(contacts.every(contact => [contact.url, contact.whatsapp].every(link => !link || new URL(link).protocol === "https:")), row.id);
     assert(nearby.every(id => id !== row.id && known.has(id)), row.id);
     assert(new Set([...row.sources, ...sections.flatMap(section => section.sources)]).size >= 2, row.id);
   }

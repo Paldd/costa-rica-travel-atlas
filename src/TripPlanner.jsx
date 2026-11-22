@@ -17,6 +17,7 @@ function renderStop(record, sources, visited = false) {
   const contacts = (record.dossier?.contacts || []).map(contact => {
     const link = contact.url || sources[contact.source]?.url;
     return '<li><a href="' + escapeHtml(link) + '">' + escapeHtml(contact.name) + "</a>"
+      + (contact.whatsapp && contact.whatsapp !== link ? ' · <a href="' + escapeHtml(contact.whatsapp) + '">WhatsApp</a>' : "")
       + (contact.phone ? " · " + escapeHtml(contact.phone) : "")
       + (contact.email ? " · " + escapeHtml(contact.email) : "") + "</li>";
   }).join("");

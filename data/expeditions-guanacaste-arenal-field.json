@@ -1,0 +1,73 @@
+[
+  {
+    "id": "papagayo-bagaces-waterfall-2",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Папагайо и Багасес · два дня с бухтой и водопадом",
+    "native": "Playa Panamá · Bahía Culebra · Playa Hermosa · Catarata Llanos del Cortés",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "multi",
+      "car",
+      "beach",
+      "boat",
+      "waterfall",
+      "views",
+      "forest"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "mangroove-azul-experience",
+      "condovac-family-services",
+      "papagayo-llanos-car-osm",
+      "llanos-municipal-visit",
+      "llanos-municipal-facebook-copy"
+    ],
+    "summary": "Один день на берегу Плайя-Панама или на лодке в заливе Папагайо. На второе утро выезд к водопаду Багасеса с лесным спуском.",
+    "plan": "Первую ночь проведите в районе Плайя-Эрмоса или Плайя-Панама. По морю решение принимается с экипажем утром. На второй день выезжайте к муниципальному входу в Llanos del Cortés.",
+    "conditions": "Около 51,3 км по дорожной линии от берега Плайя-Панама до водопада. Капитан уточняет морской маршрут. Статус пешей тропы и купели подтверждает муниципальный проект.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Плайя-Панама и ночёвка у Папагайо",
+        "note": "Оставьте утро для берега или 4-часового рейса. По погоде замените его на прогулку и семейное время в Плайя-Эрмоса. Вечером проверьте утренний маршрут до Багасеса.",
+        "stops": [
+          "panama-culebra-beach",
+          "panama-azul-ocean-boat",
+          "hermosa-condovac-family-kayak"
+        ],
+        "sources": [
+          "mangroove-azul-experience",
+          "condovac-family-services"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Льянос-дель-Кортес и лесная купель",
+        "note": "Двигайтесь по Ruta 1 до дорожного ориентира муниципального проекта. На парковке узнайте актуальный пеший путь. На сам водопад и отдых у берега отведите 1–2 часа до дальнейшей дороги.",
+        "stops": [
+          "bagaces-llanos-cortes-waterfall"
+        ],
+        "sources": [
+          "llanos-municipal-visit",
+          "llanos-aguaepipa-november",
+          "papagayo-llanos-car-osm"
+        ]
+      }
+    ]
+  }
+]
