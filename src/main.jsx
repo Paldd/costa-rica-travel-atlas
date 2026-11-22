@@ -5,7 +5,7 @@ import {
   Map as MapIcon, MapPin, Mountain, Plus, Search, Users, CarFront, ChevronDown, X,
 } from "lucide-react";
 import {
-  accessModes, activities, audiences, countries, difficulty, durationLabel, filters, fold, kinds,
+  accessModes, activities, audiences, chosenActivities, countries, difficulty, durationLabel, filters, fold, kinds,
   lodging, mapsLink, regions, secondaryFilters, sourceKinds, visibleRecords,
 } from "./catalog.js";
 import { addRouteToTrip, editTrip, initialTripPlans, newTrip, saveTripPlans, selectNewTrip } from "./tripPlans.js";
@@ -124,12 +124,26 @@ function SelectFilter({ filter, query, change }) {
 }
 
 function SearchFilters({ query, setQuery, active }) {
+  const [activityOpen, setActivityOpen] = useState(false);
+  const activityButton = useRef(null);
   const search = query.get("q") || "";
+  const picked = chosenActivities(query);
   function change(key, value) {
     const next = new URLSearchParams(query);
     if (value) next.set(key, value);
     else next.delete(key);
     setQuery(next);
+  }
+  function toggleActivity(id) {
+    const next = new URLSearchParams(query);
+    const selected = picked.includes(id) ? picked.filter(item => item !== id) : [...picked, id];
+    next.delete("activity");
+    for (const value of selected) next.append("activity", value);
+    setQuery(next);
+  }
+  function closeActivities() {
+    setActivityOpen(false);
+    activityButton.current?.focus();
   }
   return <section className="search-area" aria-label="Фильтры каталога">
     <label className="search-box" htmlFor="route-search">
@@ -139,8 +153,32 @@ function SearchFilters({ query, setQuery, active }) {
         value={search} onChange={event => change("q", event.target.value)} />
     </label>
     <div className="filter-row">
-      {filters.map(filter => <SelectFilter key={filter.key} filter={filter} query={query} change={change} />)}
+      {filters.map(filter => filter.key === "activity"
+        ? <button key={filter.key} ref={activityButton} type="button" className="select-filter activity-filter"
+            aria-expanded={activityOpen} aria-controls="activity-options" onClick={() => setActivityOpen(open => !open)}>
+            <span>{filter.label}{picked.length > 0 && ` (${picked.length})`}</span>
+            <ChevronDown size={16} aria-hidden="true" />
+          </button>
+        : <SelectFilter key={filter.key} filter={filter} query={query} change={change} />)}
     </div>
+    <div id="activity-options" className="activity-options" hidden={!activityOpen}
+      onKeyDown={event => { if (event.key === "Escape") closeActivities(); }}>
+      {activityOpen && <><div className="activity-options-header">
+        <p id="activity-instructions">В подборку войдут места и маршруты со всеми выбранными активностями.</p>
+        <button type="button" className="quiet-button" onClick={closeActivities}>Готово</button>
+      </div>
+      <div className="activity-choices" role="group" aria-label="Выбрать активности" aria-describedby="activity-instructions">
+        {Object.entries(activities).map(([id, label]) => <label key={id}>
+          <input type="checkbox" checked={picked.includes(id)} onChange={() => toggleActivity(id)} />
+          <span>{label}</span>
+        </label>)}
+      </div></>}
+    </div>
+    {picked.length > 0 && <ul className="activity-selection" aria-label="Выбранные активности">
+      {picked.map(id => <li key={id}><button type="button" aria-label={`Убрать активность ${activities[id]}`} onClick={() => toggleActivity(id)}>
+        {activities[id]}<X size={14} aria-hidden="true" />
+      </button></li>)}
+    </ul>}
     <div className="filter-subrow">
       <details className="extra-filters" open={secondaryFilters.some(filter => query.has(filter.key)) ? true : undefined}>
         <summary>Расстояние, ночёвка, карта и материалы <ChevronDown size={14} aria-hidden="true" /></summary>
@@ -299,7 +337,7 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
       </div>)}
     </dl>
     {Boolean(dossier?.stops.length) && <Suspense fallback={<p role="status">Загружаем карту…</p>}>
-      <RouteMap key={row.id} stops={dossier.stops} track={atlas.sources[dossier.track]} line={line}
+      <RouteMap key={row.id} record={row} stops={dossier.stops} track={atlas.sources[dossier.track]} line={line}
         lines={atlas.lines} sources={atlas.sources} connectStops={dossier.connectStops} />
     </Suspense>}
     <div className="detail-body">

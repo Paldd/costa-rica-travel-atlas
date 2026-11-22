@@ -3,6 +3,7 @@ import { readFileSync } from "node:fs";
 import {
   accessModes, activities, audiences, countries, difficulty, kinds, lodging, regions, visibleRecords,
 } from "../src/catalog.js";
+import { createGpx } from "../src/gpx.js";
 
 const atlas = JSON.parse(readFileSync(new URL("../public/atlas.json", import.meta.url)));
 const records = atlas.records;
@@ -66,6 +67,18 @@ for (const row of records) {
 }
 
 const find = (query, view = "catalog", saves = new Set()) => visibleRecords(records, new URLSearchParams(query), view, saves);
+const combined = find([["activity", "rooftent"], ["activity", "kayak"]]);
+assert(combined.some(row => row.id === "miramar-punta-morales-roof-2"));
+assert(combined.length < find({ activity: "rooftent" }).length);
+assert(combined.every(row => row.activities.includes("rooftent") && row.activities.includes("kayak")));
+const weekend = records.find(row => row.id === "miramar-punta-morales-roof-2");
+const gpx = createGpx("План <гора> & берег", [{ title: weekend.title, line: atlas.lines[weekend.dossier.line], stops: weekend.dossier.stops }], atlas);
+assert(gpx.includes("План &lt;гора&gt; &amp; берег"));
+assert(gpx.includes("<trkseg>") && gpx.includes("https://www.openstreetmap.org/copyright"));
+assert.equal((gpx.match(/<wpt /g) || []).length, weekend.dossier.stops.length);
+const camino = records.find(row => atlas.lines[row.dossier?.line]?.source === "camino-maram-gpx-library");
+const waypointOnly = createGpx(camino.title, [{ title: camino.title, line: atlas.lines[camino.dossier.line], stops: camino.dossier.stops }], atlas);
+assert(waypointOnly.includes("<wpt ") && !waypointOnly.includes("<trk>"));
 assert(find({ q: "sabanas oka" }).some(row => row.id === "sabana-oka"));
 assert(find({ activity: "rooftent", transport: "4x4" }).some(row => row.id === "ganadito-roof"));
 assert(find({ transport: "noCar", region: "caribbean", duration: "three" }, "expeditions").some(row => row.id === "tortuguero-no-car"));

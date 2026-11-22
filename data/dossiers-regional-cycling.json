@@ -1,0 +1,433 @@
+{
+  "dota-es-dota-mtb": {
+    "stops": [
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Санта-Мария · район стадиона и CoopeDota",
+        "note": "Офис гидов у южной стороны площадки. Попросите точку сбора вашей группы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор выезда",
+        "text": "ICT указывает городские и горные поездки. Рохер Наварро начал с выездов местных велосипедистов. Договоритесь о наборе высоты, длительности и поверхности до бронирования.",
+        "sources": [
+          "dota-bike-ict",
+          "dota-bike-seca-report",
+          "dota-bike-catursantos"
+        ]
+      },
+      {
+        "title": "Подготовка",
+        "text": "Нужны подогнанный шлем, свет, вода, запасная камера и средства от холода и дождя. В Копее можно совместить утренний выезд с ночёвкой на ферме.",
+        "sources": [
+          "dota-bike-ict",
+          "finca-san-antonio-copey-camping"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dota es Dota · Рохер Наварро",
+        "source": "dota-bike-catursantos",
+        "note": "Запросите MTB по уровню, километраж и возможности проката.",
+        "url": "https://wa.me/50688025560",
+        "phone": "+506 8802 5560",
+        "email": "infodotaesdota@gmail.com"
+      }
+    ],
+    "nearby": [
+      "santa-maria-copey-road-bike",
+      "coopedota-santa-maria-coffee",
+      "finca-san-antonio-copey",
+      "dota-coffee-mtb-tent-2"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "dota-bike-seca-report"
+    ],
+    "videos": [
+      "dota-bike-local-video"
+    ],
+    "photos": [
+      "dota-park"
+    ]
+  },
+  "santa-maria-copey-road-bike": {
+    "stops": [
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Начало · кофейный кооператив",
+        "note": ""
+      },
+      {
+        "point": "copey-town-center",
+        "role": "Копей · дорожный ориентир для разворота или встречи с машиной",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина и покрытие",
+        "text": "Линия по OSM даёт около 7,2 км в одну сторону. Участок связан дорогой 315. Здесь стоит рассчитывать на общий трафик, повороты и уклон. Линия показывает дорожную связку, пригодность которой нужно сверить по погоде.",
+        "sources": [
+          "dota-315-open-map",
+          "dota-315-ict-guide"
+        ]
+      },
+      {
+        "title": "Темп и экипировка",
+        "text": "Выезжайте при дневном свете. Возьмите яркий задний фонарь, шлем и воду. Обратную дорогу и место для остановки уточните у гида при тумане и после дождя.",
+        "sources": [
+          "dota-bike-catursantos",
+          "dota-315-ict-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "CoopeDota · кофейная программа",
+        "source": "coopedota-contact-direct",
+        "note": "Подтвердите начало тура и парковку для машины с велосипедами.",
+        "url": "https://www.coopedota.com/contacto/"
+      },
+      {
+        "name": "Dota es Dota · Рохер Наварро",
+        "source": "dota-bike-catursantos",
+        "note": "Запросите MTB по уровню, километраж и возможности проката.",
+        "url": "https://wa.me/50688025560",
+        "phone": "+506 8802 5560",
+        "email": "infodotaesdota@gmail.com"
+      }
+    ],
+    "nearby": [
+      "dota-es-dota-mtb",
+      "coopedota-santa-maria-coffee",
+      "finca-san-antonio-copey",
+      "dota-coffee-mtb-tent-2"
+    ],
+    "connectStops": false,
+    "line": "santa-maria-copey-open-road",
+    "photos": [
+      "dota-park"
+    ]
+  },
+  "osa-dos-brazos-guided-mtb": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · район начала и выдачи велосипеда",
+        "note": ""
+      },
+      {
+        "point": "osa-dos-brazos-centro",
+        "role": "Дос-Брасос-де-Рио-Тигре · деревня",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Программа местной команды",
+        "text": "Оператор публикует ориентир около 20 км за 2,5–3 часа и рекомендует старт в 06:30. В программе заявлены горный велосипед и проводник. Уточните условия проката, шлем и снабжение водой.",
+        "sources": [
+          "osa-bike-tour-direct",
+          "osa-bike-catuosa-ict"
+        ]
+      },
+      {
+        "title": "Дорога для подстраховки",
+        "text": "Дорожная линия показывает около 14 км между Пуэрто-Хименесом и Дос-Брасос. Она пригодится для подъезда или встречи с машиной. У гида уточняйте действующий велотрек, состояние грунта и места, где можно остановиться у реки.",
+        "sources": [
+          "osa-dos-brazos-road-osm",
+          "osa-tigre-community-route",
+          "osa-cycling-backroads-report"
+        ]
+      },
+      {
+        "title": "Экипировка и погода",
+        "text": "Возьмите закрытую обувь, защиту от солнца, воду и смену одежды. Начало утром даёт больше времени до жары. При сильном дожде согласуйте сокращение выезда или прогулку по посёлку.",
+        "sources": [
+          "osa-bike-tour-direct",
+          "osa-tigre-community-route"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Bike Tours · Альберто",
+        "source": "osa-bike-tour-direct",
+        "note": "Уточните размер велосипеда, детский допуск, время и точный пин встречи.",
+        "url": "https://wa.me/50685447507",
+        "phone": "+506 8544 7507",
+        "email": "osabiketours@gmail.com"
+      }
+    ],
+    "nearby": [
+      "osa-rio-verde-rooftent",
+      "puerto-jimenez-inshore-boat",
+      "osa-roof-mtb-golfo-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "osa-bike-tour-direct",
+      "osa-cycling-backroads-report"
+    ],
+    "line": "osa-dos-brazos-road"
+  },
+  "talamanca-community-guide-mtb": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо-де-Таламанка · район организации выезда",
+        "note": "Адрес клуба в секторе Playa Negra. Точку старта на день сообщает проводник."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сопровождение и территория",
+        "text": "Программа включает выезд с местным проводником и обед в общине. При записи уточните, входит ли велосипед в цену, а также сложность, длительность и точку встречи. Фотосъёмку согласуйте с хозяевами.",
+        "sources": [
+          "talamanca-mtb-pvclub",
+          "talamanca-mtb-contact",
+          "talamanca-bikes-ict-guide"
+        ]
+      },
+      {
+        "title": "Вариант рядом с побережьем",
+        "text": "Если лесной маршрут не подходит группе, у клуба есть сопровождаемый велосипедный выезд к Мансанильо. На 256 движение общее. Уточняйте выбор участка и формат перевозки велосипедов.",
+        "sources": [
+          "talamanca-mtb-pvclub",
+          "cocles-carib-transport-observations"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Puerto Viejo Club · MTB в Таламанке",
+        "source": "talamanca-mtb-contact",
+        "note": "Получите точку старта, подтверждённое сопровождение, расписание, обед и перечень проката.",
+        "url": "https://www.puertoviejoclub.com/en/contact/",
+        "phone": "+506 7226 9712",
+        "email": "info@puertoviejoclub.com"
+      }
+    ],
+    "nearby": [
+      "puerto-viejo-bike-manzanillo",
+      "punta-uva-local-kayak",
+      "maria-cahuita-roof",
+      "cahuita-roof-mtb-kayak-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "talamanca-mtb-pvclub"
+    ],
+    "videos": [
+      "talamanca-bikes-cocles-report"
+    ]
+  },
+  "dota-coffee-mtb-tent-2": {
+    "stops": [
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Санта-Мария · кофе и начало велодороги",
+        "note": ""
+      },
+      {
+        "point": "copey-town-center",
+        "role": "Копей · ориентир для ночёвки",
+        "note": "Точную точку въезда на ферму подтвердите у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Велочасть",
+        "text": "На карте отмечена связка Santa María — Copey по Ruta 315, около 7,2 км в одну сторону. Местная MTB-программа на второй день строится по составу и погоде.",
+        "sources": [
+          "dota-315-open-map",
+          "dota-bike-ict"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Для прохладной ночи пригодятся тёплые вещи, коврик, налобник и защита от дождя. Велосипеды перевозите на согласованном креплении. Уточняйте финальный подъезд к ферме после дождей.",
+        "sources": [
+          "finca-san-antonio-copey-camping",
+          "dota-bike-catursantos"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dota es Dota · Рохер Наварро",
+        "source": "dota-bike-catursantos",
+        "note": "Запросите MTB по уровню, километраж и возможности проката.",
+        "url": "https://wa.me/50688025560",
+        "phone": "+506 8802 5560",
+        "email": "infodotaesdota@gmail.com"
+      },
+      {
+        "name": "CoopeDota · кофейная программа",
+        "source": "coopedota-contact-direct",
+        "note": "Подтвердите начало тура и парковку для машины с велосипедами.",
+        "url": "https://www.coopedota.com/contacto/"
+      }
+    ],
+    "nearby": [
+      "dota-es-dota-mtb",
+      "santa-maria-copey-road-bike",
+      "finca-san-antonio-copey",
+      "coopedota-santa-maria-coffee"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "finca-san-antonio-copey-camping",
+      "dota-bike-seca-report"
+    ],
+    "videos": [
+      "dota-bike-local-video"
+    ],
+    "line": "santa-maria-copey-open-road",
+    "photos": [
+      "dota-park"
+    ]
+  },
+  "osa-roof-mtb-golfo-3": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Город · встреча с велокомандой",
+        "note": ""
+      },
+      {
+        "point": "osa-dos-brazos-centro",
+        "role": "Дос-Брасос · район лагеря Río Verde",
+        "note": "Координаты площадки под машину подтвердите у хозяев."
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Муниципальный причал · ориентир лодочного выхода",
+        "note": "Точку посадки сообщит капитан."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Карту используйте для наземного перегона",
+        "text": "Линия показывает примерно 14 км по дороге от Пуэрто-Хименеса к Дос-Брасос. Гид определяет веломаршрут. На выход в залив согласуйте конкретный причал и возможность рыбалки.",
+        "sources": [
+          "osa-dos-brazos-road-osm",
+          "osa-bike-tour-direct",
+          "osa-tigre-community-route"
+        ]
+      },
+      {
+        "title": "Формат поездки",
+        "text": "На ферме проверьте место под крышную палатку и сухой подход. Оставьте одно утро для велосипедного выезда и одно для лодки. Заменить воду можно кофейной экскурсией в Pueblo Viejo.",
+        "sources": [
+          "osa-rio-verde-camping-field",
+          "osa-bike-catuosa-ict",
+          "osa-green-fishing",
+          "incopesca-angling-card"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Bike Tours · Альберто",
+        "source": "osa-bike-tour-direct",
+        "note": "Уточните размер велосипеда, детский допуск, время и точный пин встречи.",
+        "url": "https://wa.me/50685447507",
+        "phone": "+506 8544 7507",
+        "email": "osabiketours@gmail.com"
+      },
+      {
+        "name": "Camping Río Verde · ночёвка на Осе",
+        "source": "osa-rio-verde-camping-field",
+        "note": "Согласуйте точку въезда, условия для крышной палатки и последних километров дороги.",
+        "url": "https://costaricacampsites.com/camp-sites/camping-rio-tigre-osa/"
+      }
+    ],
+    "nearby": [
+      "osa-rio-verde-rooftent",
+      "osa-dos-brazos-guided-mtb",
+      "puerto-jimenez-inshore-boat",
+      "aventuras-cafe-puerto-jimenez"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "osa-bike-tour-direct",
+      "osa-rio-verde-camping-field",
+      "osa-cycling-backroads-report"
+    ],
+    "line": "osa-dos-brazos-road",
+    "photos": [
+      "golfito-dulce-commons"
+    ]
+  },
+  "cahuita-roof-mtb-kayak-3": {
+    "stops": [
+      {
+        "point": "camping-maria-cahuita-pitch",
+        "role": "Плайя-Негра в Кауите · палаточная стоянка",
+        "note": ""
+      },
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо · район встречи с велогидом",
+        "note": ""
+      },
+      {
+        "point": "punta-uva-shore-area",
+        "role": "Пунта-Ува · встреча с речным проводником",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Карта и ночёвка",
+        "text": "Дорожный перегон между лагерем, Пуэрто-Вьехо и берегом Пунта-Ува составляет около 27,2 км по карте. Лагерь подтверждает длину машины, доступ и место под лестницу. Пешие, водные и велоучастки выбираются в отдельных карточках.",
+        "sources": [
+          "cahuita-punta-uva-road-osm",
+          "maria-cahuita-roof-capacity",
+          "maria-cahuita-camper-local"
+        ]
+      },
+      {
+        "title": "Варианты по погоде",
+        "text": "Гиду MTB сообщите тип велосипеда и опыт группы. Каяк оставьте на отдельное утро с условиями, подходящими у реки. При сильном ветре или высокой воде можно выбрать общинную какао-экскурсию в другой день.",
+        "sources": [
+          "talamanca-mtb-pvclub",
+          "punta-uva-caribesur-kayak",
+          "cocles-carib-transport-observations"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Puerto Viejo Club · MTB в Таламанке",
+        "source": "talamanca-mtb-contact",
+        "note": "Получите точку старта, подтверждённое сопровождение, расписание, обед и перечень проката.",
+        "url": "https://www.puertoviejoclub.com/en/contact/",
+        "phone": "+506 7226 9712",
+        "email": "info@puertoviejoclub.com"
+      }
+    ],
+    "nearby": [
+      "maria-cahuita-roof",
+      "talamanca-community-guide-mtb",
+      "punta-uva-local-kayak",
+      "gandoca-punta-mona-hike-boat"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "talamanca-mtb-pvclub"
+    ],
+    "videos": [
+      "talamanca-bikes-cocles-report"
+    ],
+    "line": "cahuita-cocles-punta-uva-road",
+    "photos": [
+      "caribe-cahuita",
+      "caribe-punta-uva"
+    ]
+  }
+}

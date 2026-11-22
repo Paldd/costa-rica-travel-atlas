@@ -78,6 +78,21 @@ p + p { margin-top: 12px; }
 .select-filter { position: relative; display: flex; align-items: center; }
 .select-filter select { width: 100%; min-width: 0; height: 44px; appearance: none; border: 0; border-radius: 10px; padding: 0 30px 0 13px; text-overflow: ellipsis; color: var(--deep); background: transparent; }
 .select-filter svg { position: absolute; right: 10px; pointer-events: none; }
+.activity-filter { min-height: 46px; padding: 0 30px 0 13px; text-align: left; color: var(--deep); }
+.activity-filter span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.activity-filter[aria-expanded="true"] { border-color: var(--forest); background: #e9eee5; }
+.activity-filter[aria-expanded="true"] svg { transform: rotate(180deg); }
+.activity-options { padding: 10px 14px 12px; border: 1px solid var(--border); border-radius: 10px; background: var(--white); }
+.activity-options-header { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 8px; }
+.activity-options-header p { color: var(--muted); font-size: .88rem; }
+.activity-options-header button { min-height: 40px; padding-inline: 8px; }
+.activity-choices { display: grid; grid-template-columns: repeat(auto-fill, minmax(165px, 1fr)); gap: 4px 9px; max-height: min(240px, 48dvh); overflow-y: auto; padding: 2px; }
+.activity-choices label { display: flex; align-items: center; gap: 8px; min-height: 40px; padding: 4px 5px; color: var(--deep); font-size: .87rem; cursor: pointer; }
+.activity-choices label:hover { background: #e9eee5; }
+.activity-choices input { accent-color: var(--forest); flex: none; width: 16px; height: 16px; }
+.activity-selection { display: flex; flex-wrap: wrap; gap: 7px; list-style: none; margin: 0; padding: 0; }
+.activity-selection button { display: flex; gap: 7px; align-items: center; min-height: 36px; border: 1px solid #a9b9ab; padding: 3px 9px; border-radius: 8px; background: #e9eee5; color: var(--deep); font-size: .85rem; text-align: left; }
+.activity-selection button:hover { background: #dce8db; }
 .filter-subrow { display: flex; justify-content: space-between; align-items: start; gap: 16px; }
 .extra-filters summary, .quiet-button { padding: 4px 2px; font-size: .83rem; color: var(--forest); }
 .extra-filters summary { cursor: pointer; display: flex; align-items: center; gap: 6px; list-style: none; }
@@ -185,7 +200,9 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .route-map-stage label { display: grid; gap: 5px; flex: 1 1 280px; max-width: 460px; min-width: 0; font-size: .9rem; }
 .route-map-stage select { width: 100%; padding: 9px 10px; font: inherit; color: inherit; background: var(--white); border: 1px solid var(--border); border-radius: 8px; }
 .route-map-stage a { color: var(--forest); font-size: .85rem; padding-bottom: 9px; }
-.route-map h2 { font-size: clamp(1.85rem, 3vw, 2.75rem); margin-bottom: 13px; }
+.route-map-heading { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 14px; margin-bottom: 13px; }
+.route-map-heading h2 { font-size: clamp(1.85rem, 3vw, 2.75rem); margin: 0; }
+.route-map-heading .button { min-height: 40px; padding: 7px 11px; font-size: .87rem; }
 .route-map-layout { display: grid; grid-template-columns: minmax(0, 2fr) minmax(235px, 1fr); border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
 .route-map-canvas { width: 100%; height: 360px; isolation: isolate; background: #e4ece0; }
 .route-map-marker, .stop-number { display: grid; place-items: center; border-radius: 50%; background: var(--forest); color: white; font: 600 .79rem var(--body); }
@@ -272,6 +289,7 @@ footer > div { display: flex; flex-wrap: wrap; gap: 14px; color: var(--muted); f
   .hero-actions { gap: 18px; margin-top: 12px; }
   .filter-row { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; }
   .select-filter select { padding-left: 8px; padding-right: 23px; font-size: .86rem; }
+  .activity-filter { padding: 0 23px 0 8px; font-size: .86rem; }
   .select-filter svg { right: 5px; width: 14px; }
   .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 11px; }
   .card-body { padding: 11px 12px; }
@@ -299,6 +317,7 @@ footer > div { display: flex; flex-wrap: wrap; gap: 14px; color: var(--muted); f
   .source-summary { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .hero .text-link { font-size: 1rem; }
   .filter-row { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .activity-choices { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .search-box input { font-size: .92rem; }
   .site-header nav { gap: 7px 13px; }
   .site-header nav a { font-size: .9rem; }

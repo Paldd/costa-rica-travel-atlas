@@ -82,7 +82,7 @@ export const sourceKinds = {
 export const filters = [
   { key: "country", label: "Страна", options: countries },
   { key: "region", label: "Регион", options: regions },
-  { key: "activity", label: "Активность", options: activities },
+  { key: "activity", label: "Активности", options: activities },
   { key: "audience", label: "С кем", options: audiences },
   { key: "transport", label: "Транспорт", options: { noCar: "Без машины", ...accessModes } },
   { key: "duration", label: "Длительность", options: durations },
@@ -125,6 +125,10 @@ export function searchText(record) {
   ].join(" "));
 }
 
+export function chosenActivities(query) {
+  return [...new Set(query.getAll("activity").filter(id => Object.hasOwn(activities, id)))];
+}
+
 function hasMaterial(record, material) {
   const dossier = record.dossier;
   switch (material) {
@@ -140,7 +144,7 @@ export function visibleRecords(records, filters, scope, saves) {
   const tokens = fold(filters.get("q") || "").trim().split(/\s+/).filter(Boolean);
   const region = filters.get("region");
   const country = filters.get("country");
-  const activity = filters.get("activity");
+  const activity = chosenActivities(filters);
   const audience = filters.get("audience");
   const transport = filters.get("transport");
   const duration = filters.get("duration");
@@ -155,7 +159,7 @@ export function visibleRecords(records, filters, scope, saves) {
     if (scope === "saved" && !saves.has(record.id)) return false;
     if (country && !(record.countries || ["cr"]).includes(country)) return false;
     if (region && record.region !== region && !record.regions?.includes(region)) return false;
-    if (activity && !record.activities.includes(activity)) return false;
+    if (!activity.every(item => record.activities.includes(item))) return false;
     if (audience && !record.audience.includes(audience)) return false;
     if (transport === "noCar" && !record.access.some(item => ["public", "transfer"].includes(item))) return false;
     if (transport && transport !== "noCar" && !record.access.includes(transport)) return false;

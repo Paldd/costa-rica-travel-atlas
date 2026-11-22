@@ -2,9 +2,8 @@ import React, { useMemo } from "react";
 import { ArrowDown, ArrowUp, CalendarDays, Download, MapPin, Plus, X } from "lucide-react";
 import { appendTripDay, dateForDay } from "./tripPlans.js";
 import { durationLabel } from "./catalog.js";
-
-const escapeHtml = value => String(value ?? "").replace(/[&<>"']/g, char =>
-  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[char]));
+import { downloadFile, escapeMarkup as escapeHtml } from "./downloads.js";
+import { downloadGpx } from "./gpx.js";
 const cardUrl = id => new URL("#place/" + encodeURIComponent(id), window.location.href).href;
 
 function renderStop(record, sources, visited = false) {
@@ -50,15 +49,7 @@ function downloadTrip(trip, records, sources) {
     + "</style><body><main><h1>" + name + "</h1>"
     + (overview ? "<section><h2>Маршрут и условия</h2>" + overview + "</section>" : "")
     + sections + "</main></body></html>";
-  const url = URL.createObjectURL(new Blob([html], { type: "text/html;charset=utf-8" }));
-  const link = document.createElement("a");
-  link.href = url;
-  link.download = "costa-rica-trip.html";
-  link.hidden = true;
-  document.body.append(link);
-  link.click();
-  link.remove();
-  window.setTimeout(() => URL.revokeObjectURL(url), 30_000);
+  downloadFile("costa-rica-trip.html", "text/html;charset=utf-8", html);
 }
 
 export default function TripPlanner({ atlas, plans, create, select, edit, remove, storageError, linkTo }) {
@@ -75,6 +66,14 @@ export default function TripPlanner({ atlas, plans, create, select, edit, remove
       <a className="text-link" href="#expeditions">Выбрать экспедицию</a>
     </div>
   </section>;
+
+  const navigation = trip.days.flatMap((day, index) => day.entries.map(entry => ({
+    record: records.get(entry.recordId), prefix: `День ${index + 1}`,
+  })));
+  if (trip.sourceId) navigation.unshift({ record: records.get(trip.sourceId), prefix: "Основа поездки" });
+  const routes = navigation.filter(({ record }) => record?.dossier?.stops.length).map(({ record, prefix }) => ({
+    title: record.title, stops: record.dossier.stops, line: atlas.lines[record.dossier.line], prefix,
+  }));
 
   const change = transform => edit(trip.id, transform);
   function updateDay(dayIndex, transform) {
@@ -133,6 +132,10 @@ export default function TripPlanner({ atlas, plans, create, select, edit, remove
         <button type="button" className="button primary" onClick={() => downloadTrip(trip, records, atlas.sources)}>
           <Download size={18} aria-hidden="true" /> Скачать план
         </button>
+        {routes.length > 0 && <button type="button" className="button secondary"
+          onClick={() => downloadGpx("costa-rica-trip.gpx", trip.name.trim() || "Поездка", routes, atlas)}>
+          <Download size={18} aria-hidden="true" /> Скачать GPX поездки
+        </button>}
         <a href="#catalog" className="text-link">Найти остановки</a>
         {trip.sourceId && <a href={linkTo(trip.sourceId)} className="text-link">Карта и условия экспедиции</a>}
         <button type="button" className="quiet-button trip-remove" onClick={() => {

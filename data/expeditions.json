@@ -8541,5 +8541,249 @@
         ]
       }
     ]
+  },
+  {
+    "id": "dota-coffee-mtb-tent-2",
+    "region": "mountains",
+    "title": "Дота и Копей · кофе, MTB и ночёвка на ферме",
+    "native": "CoopeDota · Santa María de Dota · Copey · Finca San Antonio",
+    "kind": "trip",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "mtb",
+      "cycling",
+      "coffee",
+      "camping",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "dota-bike-ict",
+      "dota-315-open-map",
+      "finca-san-antonio-copey-camping",
+      "coopedota-coffee-experiences-direct"
+    ],
+    "summary": "Два дня в кофейной долине. Короткий дорожный переезд на велосипеде и ночь в лагере, затем горный выезд с местным велосипедистом.",
+    "plan": "Выберите короткую дорожную прогулку в первый день. На второй закажите MTB по уровню группы. Ночуйте в Копее на подтверждённом месте для наземной палатки.",
+    "conditions": "Уточните подъезд к ферме и маршрут для велосипедов. В дождь или туман используйте кофе и короткую прогулку в долине как запасной вариант.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Кофе, Копей и палатка на ферме",
+        "note": "После кофейной остановки выберите велодорогу до Копея или доезжайте на машине. Поставьте палатку при свете и сверьте выезд гида.",
+        "stops": [
+          "coopedota-santa-maria-coffee",
+          "santa-maria-copey-road-bike",
+          "finca-san-antonio-copey"
+        ],
+        "sources": [
+          "coopedota-coffee-experiences-direct",
+          "dota-315-open-map",
+          "finca-san-antonio-copey-camping"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Горный велосипед из Санта-Марии",
+        "note": "Соберите группу у стадиона. Договоритесь о маршруте, времени, воде и точке возвращения в город.",
+        "stops": [
+          "dota-es-dota-mtb"
+        ],
+        "sources": [
+          "dota-bike-ict",
+          "dota-bike-catursantos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "osa-roof-mtb-golfo-3",
+    "region": "south",
+    "title": "Оса · палатка на крыше, MTB и лодка в Гольфо-Дульсе",
+    "native": "Río Verde · Dos Brazos de Río Tigre · Puerto Jiménez · Golfo Dulce",
+    "kind": "trip",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "rooftent",
+      "camping",
+      "mtb",
+      "cycling",
+      "boat",
+      "fishing",
+      "river",
+      "wildlife",
+      "forest"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "osa-rio-verde-camping-field",
+      "osa-bike-tour-direct",
+      "osa-tigre-community-route",
+      "osa-green-fishing",
+      "osa-dos-brazos-road-osm"
+    ],
+    "summary": "Два вечера на ферме у Рио-Тигре. На отдельное утро запланирован MTB, на другое — лодочный выход из Пуэрто-Хименеса.",
+    "plan": "Заезжайте в лагерь днём, выберите место для машины. Велочасть и лодку бронируйте с запасом по погоде.",
+    "conditions": "Подтвердите крышную палатку, съезд на грунт и места встреч. Для рыбалки сверяйте карне, разрешённый участок и действующие ограничения.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Речной лагерь Río Verde",
+        "note": "Закупитесь в Пуэрто-Хименесе, заезжайте в Дос-Брасос при свете. Узнайте у лагеря точный въезд.",
+        "stops": [
+          "osa-rio-verde-rooftent"
+        ],
+        "sources": [
+          "osa-rio-verde-camping-field",
+          "osa-tigre-community-route"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Утренний MTB в Дос-Брасос",
+        "note": "Уточните, где брать велосипеды и сколько закладывать на подъезд к старту. Если точка старта в городе, выезжайте из лагеря заранее.",
+        "stops": [
+          "osa-dos-brazos-guided-mtb"
+        ],
+        "sources": [
+          "osa-bike-tour-direct",
+          "osa-bike-catuosa-ict"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Капитан и залив Дульсе",
+        "note": "Уточните условия утреннего рейса с капитаном. Для рыбалки подготовьте разрешение. После возвращения оставьте время на выезд с полуострова.",
+        "stops": [
+          "puerto-jimenez-inshore-boat"
+        ],
+        "sources": [
+          "osa-green-fishing",
+          "incopesca-angling-card"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cahuita-roof-mtb-kayak-3",
+    "region": "caribbean",
+    "title": "Кауита — Таламанка · крыша, горный велосипед и каяк",
+    "native": "Camping María · Puerto Viejo · MTB en territorios indígenas · Punta Uva",
+    "kind": "trip",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "rooftent",
+      "camping",
+      "mtb",
+      "cycling",
+      "kayak",
+      "river",
+      "beach",
+      "forest"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "maria-cahuita-roof-capacity",
+      "maria-cahuita-camper-local",
+      "talamanca-mtb-pvclub",
+      "punta-uva-caribesur-kayak",
+      "cahuita-punta-uva-road-osm"
+    ],
+    "summary": "Три дня на южном Карибском берегу. Площадка под машину в Кауите, велоэкскурсия с проводником и отдельное утро для каяка.",
+    "plan": "Выберите дневной заезд в Кауиту. Выезд на велосипедах и утро на воде держите раздельно, чтобы перенести их при перемене погоды.",
+    "conditions": "Место в кемпинге, выезд на территории общины и речные условия подтверждаются отдельно у каждого организатора.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Берег Кауиты и место для машины",
+        "note": "Днём заезжайте в Camping María. Уточните ширину под крышу и где удобно готовить. Вечером прогуляйтесь по Плайя-Негра.",
+        "stops": [
+          "maria-cahuita-roof"
+        ],
+        "sources": [
+          "maria-cahuita-roof-capacity",
+          "maria-cahuita-camper-local"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "MTB с проводником в Таламанке",
+        "note": "Подтвердите подготовку группы, гидов, прокат и время возвращения. Из Кауиты подъезжайте к согласованной точке.",
+        "stops": [
+          "talamanca-community-guide-mtb"
+        ],
+        "sources": [
+          "talamanca-mtb-pvclub",
+          "talamanca-mtb-contact"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Пунта-Ува и гребля у берега",
+        "note": "Выйдите с местной командой на подходящий участок реки, если вода позволяет. Если прогулку отменят, оставьте время на берег или кафетерий у Коклес.",
+        "stops": [
+          "punta-uva-local-kayak"
+        ],
+        "sources": [
+          "punta-uva-caribesur-kayak",
+          "cahuita-punta-uva-road-osm"
+        ]
+      }
+    ]
   }
 ]

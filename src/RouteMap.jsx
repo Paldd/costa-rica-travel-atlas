@@ -1,10 +1,12 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import L from "leaflet";
+import { Download } from "lucide-react";
 import { createOsmMap, routePathStyle } from "./osmMap.js";
+import { downloadGpx, openMapLines } from "./gpx.js";
 
 const mapUrl = ([lat, lon]) => `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
 
-export default function RouteMap({ stops, track, line, lines, sources, connectStops = true }) {
+export default function RouteMap({ record, stops, track, line, lines, sources, connectStops = true }) {
   const container = useRef(null);
   const markers = useRef([]);
   const mapView = useRef(null);
@@ -18,6 +20,9 @@ export default function RouteMap({ stops, track, line, lines, sources, connectSt
     : numberedStops;
   const lineSource = sources[line?.source];
   const stageSource = sources[activeStage?.stageSource];
+  const exportLine = activeStage || line;
+  const exportTitle = activeStage?.title || record.title;
+  const hasTracks = openMapLines(exportLine, lines, sources).length > 0;
 
   useEffect(() => {
     const map = createOsmMap(container.current);
@@ -90,7 +95,14 @@ export default function RouteMap({ stops, track, line, lines, sources, connectSt
   }
 
   return <section className="route-map" aria-label="Карта маршрута">
-    <h2>{stops.length === 1 ? "Точка на карте" : line || connectStops ? "Карта маршрута" : "Ориентиры на карте"}</h2>
+    <div className="route-map-heading">
+      <h2>{stops.length === 1 ? "Точка на карте" : line || connectStops ? "Карта маршрута" : "Ориентиры на карте"}</h2>
+      <button type="button" className="button secondary" onClick={() => {
+        const suffix = activeStage ? `-${activeStage.id}` : "";
+        downloadGpx(`${record.id}${suffix}.gpx`, exportTitle,
+          [{ title: exportTitle, line: exportLine, stops: visibleStops.map(({ stop }) => stop) }], { lines, sources });
+      }}><Download size={16} aria-hidden="true" /> {hasTracks ? "Скачать GPX" : "Скачать точки GPX"}</button>
+    </div>
     {stages.length > 0 && <div className="route-map-stage">
       <label>Участок на карте
         <select value={stageId} onChange={event => focusStage(event.target.value)}>
