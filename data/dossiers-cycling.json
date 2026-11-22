@@ -234,14 +234,25 @@
           "vuelta-arenal-event",
           "vuelta-arenal-faq"
         ]
+      },
+      {
+        "title": "Видео заезда и запас батареи",
+        "text": "В видео Bikers Costa Rica съёмка с выпуска 2026. Для издания 2027 используйте официальный маршрут с новой частью по Finca Chiripa. Перед длинным стартом проверьте реальный расход батареи на более короткой поездке с похожими подъёмами и дистанцией между остановками.",
+        "sources": [
+          "arenal-vuelta-2026-rider",
+          "vuelta-arenal-map",
+          "tq-hpr60-manual"
+        ]
       }
     ],
     "contacts": [
       {
         "name": "Vuelta al Lago Arenal",
-        "source": "vuelta-arenal-faq",
+        "source": "arenal-vuelta-contact",
         "note": "Регистрация, старт, контрольные точки и правила допуска.",
-        "email": "alaeventos@gmail.com"
+        "email": "alaeventos@gmail.com",
+        "phone": "+506 6315 7151",
+        "whatsapp": "https://wa.me/50663157151"
       }
     ],
     "nearby": [
@@ -251,6 +262,9 @@
     ],
     "photos": [
       "arenal-open-aerial"
+    ],
+    "videos": [
+      "arenal-vuelta-2026-rider"
     ]
   },
   "pinilla-emtb": {

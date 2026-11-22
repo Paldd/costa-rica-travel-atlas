@@ -183,6 +183,12 @@ const instagramCodes = instagramLinks.map(link => {
 assert.equal(instagramLinks.length, atlas.social.overview.instagramOpenedPosts);
 assert.equal(new Set(instagramCodes).size, instagramLinks.length);
 assert.equal(instagramWithOriginals.length, atlas.social.overview.instagramWithOpenedPosts);
+assert.equal(atlas.social.overview.instagramWithMultipleOpenedPosts,
+  instagramWithOriginals.filter(row => row.postLinks.length > 1).length);
+for (const row of instagramWithOriginals) {
+  const dates = row.postLinks.flatMap(link => link.published ? [link.published] : []).sort();
+  if (dates.length) assert.deepEqual(row.postPeriod, { first: dates[0], last: dates.at(-1) }, row.name);
+}
 const checkedFeeds = atlas.social.profiles.flatMap(row => row.liveCheck ? [row.liveCheck] : []);
 assert.equal(atlas.social.overview.browserChecks, checkedFeeds.length);
 assert.equal(atlas.social.overview.visibleBrowserFeeds, checkedFeeds.filter(receipt => receipt.status === "feed-visible").length);

@@ -411,6 +411,7 @@ function SourcesPage({ atlas }) {
     (coverage !== "posts" || row.posts > 0 || row.postLinks?.length) &&
     (coverage !== "missing" || row.posts === 0 && !row.postLinks?.length) &&
     (coverage !== "originals" || row.postLinks?.length) &&
+    (coverage !== "multiple-originals" || row.postLinks?.length > 1) &&
     (coverage !== "archive" || row.publisher?.archive) &&
     (coverage !== "copies" || row.copySample) &&
     (coverage !== "live" || row.liveCheck) &&
@@ -439,6 +440,7 @@ function SourcesPage({ atlas }) {
       <summary>Рейтинг Instagram и Facebook <ChevronDown size={18} /></summary>
       <p>По {overview.instagramProfiles} профилей на каждой платформе с аудиторией свыше 1 000 подписчиков. Замер от <time dateTime={measurementDate}>{measurementDate?.split("-").reverse().join(".")}</time>.</p>
       {overview.browserChecks > 0 && <p>Результат открытия профиля в браузере отмечен у {overview.browserChecks} страниц. Текст авторских публикаций был виден у {overview.visibleBrowserFeeds} из них.</p>}
+      {overview.instagramWithMultipleOpenedPosts > 0 && <p>У {overview.instagramWithMultipleOpenedPosts} профилей Instagram прочитано по несколько оригиналов. Период в строке профиля показывает крайние даты среди прочитанных публикаций с видимой датой.</p>}
       {overview.facebookWithCopies > 0 && <p>В открытых копиях лент изучено {overview.facebookCopiedPosts} публикаций для {overview.facebookWithCopies} профилей. Период выборки указан в строке профиля.</p>}
       {overview.publisherLinks > 0 && <p>У {overview.publisherLinks} профилей есть подтверждённый сайт. Для {overview.publisherArchiveLinks} профилей доступны ссылки на разделы статей, маршрутов или программ этого проекта.</p>}
       <div className="profile-filters">
@@ -457,6 +459,7 @@ function SourcesPage({ atlas }) {
             <option value="">Любое покрытие</option>
             <option value="posts">Есть выборка постов</option>
             <option value="originals">Открыты прямые публикации</option>
+            <option value="multiple-originals">Прочитано несколько оригиналов</option>
             <option value="missing">Без прямой выборки постов</option>
             <option value="copies">Есть прочитанные копии</option>
             <option value="archive">Есть архив сайта</option>
@@ -481,8 +484,10 @@ function SourcesPage({ atlas }) {
             <span>{row.posts > 0
               ? row.platform === "Instagram" ? `Подписей в выборке: ${row.posts}` : `Публикаций открыто: ${row.posts}`
               : row.about ? "Прочитано описание" : "Подтверждена карточка"}</span>
-            {row.postLinks?.map(({ source, checked }) =>
-              <External key={source} href={atlas.sources[source].url}>{atlas.sources[source].title} · {checked.split("-").reverse().join(".")}</External>)}
+            {row.postLinks?.length > 1 && <span>Оригиналов прочитано {row.postLinks.length}{row.postPeriod && <> · <time dateTime={row.postPeriod.first}>{row.postPeriod.first.split("-").reverse().join(".")}</time>
+              {row.postPeriod.first !== row.postPeriod.last && <>–<time dateTime={row.postPeriod.last}>{row.postPeriod.last.split("-").reverse().join(".")}</time></>}</>}</span>}
+            {row.postLinks?.map(({ source, checked, published }) =>
+              <External key={source} href={atlas.sources[source].url}>{atlas.sources[source].title} · {published ? "опубликовано " : "проверено "}<time dateTime={published || checked}>{(published || checked).split("-").reverse().join(".")}</time></External>)}
             {row.liveCheck && <span>{browserCheckLabels[row.liveCheck.status]} · <time dateTime={row.liveCheck.checked}>{row.liveCheck.checked.split("-").reverse().join(".")}</time>. {row.liveCheck.detail}</span>}
             {row.copySample && <External href={atlas.sources[row.copySample.source].url}>
               {row.copySample.count} публикаций в копии ленты · {row.copySample.first} — {row.copySample.last}

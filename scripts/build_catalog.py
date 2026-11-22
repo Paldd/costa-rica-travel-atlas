@@ -10,7 +10,7 @@ from urllib.parse import urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 SOURCE_FIELDS = ("id", "kind", "title", "url", "scope")
-POST_FIELDS = ("profile", "source", "checked")
+POST_FIELDS = ("profile", "source", "checked", "published")
 POST_COPY_FIELDS = ("profile", "source", "count", "first", "last", "checked")
 POST_COPY_ITEM_FIELDS = ("profile", "published", "summary", "record")
 PUBLISHER_FIELDS = ("profile", "site", "archive", "checked")
@@ -122,12 +122,23 @@ def build_social(sources_by_id, record_ids, aliases):
         key = (platform, identity)
         if url.scheme != "https" or url.hostname not in SOCIAL_DOMAINS[platform] or not valid_path or key in seen_posts:
             raise ValueError(f"Expected a distinct direct {platform} publication for {post['source']}")
+        checked = date.fromisoformat(post["checked"])
+        link = {"source": source["id"], "checked": checked.isoformat()}
+        if post["published"]:
+            published = date.fromisoformat(post["published"])
+            if published > checked:
+                raise ValueError(f"Publication date after check for {source['id']}")
+            link["published"] = published.isoformat()
         if platform == "Facebook":
             profile["posts"] += 1
-        profile.setdefault("postLinks", []).append({
-            "source": source["id"], "checked": date.fromisoformat(post["checked"]).isoformat(),
-        })
+        profile.setdefault("postLinks", []).append(link)
         seen_posts.add(key)
+    for profile in profiles.values():
+        links = profile.get("postLinks", [])
+        links.sort(key=lambda link: link.get("published", ""), reverse=True)
+        dated = [link["published"] for link in links if "published" in link]
+        if dated:
+            profile["postPeriod"] = {"first": dated[-1], "last": dated[0]}
     copy_total = 0
     for sample in read_table(DATA / "public-post-copies.tsv", POST_COPY_FIELDS):
         profile = profiles.get(sample.pop("profile"))
@@ -179,6 +190,9 @@ def build_social(sources_by_id, record_ids, aliases):
     social["overview"]["instagramOpenedPosts"] = sum(platform == "Instagram" for platform, _ in seen_posts)
     social["overview"]["instagramWithOpenedPosts"] = sum(
         row["platform"] == "Instagram" and bool(row.get("postLinks")) for row in profiles.values()
+    )
+    social["overview"]["instagramWithMultipleOpenedPosts"] = sum(
+        row["platform"] == "Instagram" and len(row.get("postLinks", [])) > 1 for row in profiles.values()
     )
     social["overview"]["publisherLinks"] = sum("publisher" in row for row in profiles.values())
     social["overview"]["publisherArchiveLinks"] = sum(bool(row.get("publisher", {}).get("archive")) for row in profiles.values())

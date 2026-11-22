@@ -1,0 +1,47 @@
+[
+  {
+    "id":"tres-equis-pacuare-ebike-3",
+    "kind":"trip",
+    "region":"central",
+    "title":"Трес-Экис и Пакуаре · три дня с крышной палаткой, рафтингом и e-MTB",
+    "native":"Finca Tres Equis · Turrialba · Río Pacuare · Ebiking Costa Rica",
+    "level":"hard",
+    "days":3,
+    "activities":["camping","rooftent","glamping","campfire","hiking","rafting","ebike","mtb","cycling","river","forest"],
+    "audience":["family-teen","family-adults","friends","mens"],
+    "access":["car","4x4","confirm"],
+    "sleep":["tent","roof","glamping","lodge"],
+    "sources":["tres-equis-camp-field","tres-equis-chamber","tres-equis-contact","pacuare-1","ebiking-turrialba-day-tour"],
+    "summary":"Три дня с двумя ночёвками на ферме. Пешая прогулка на территории, отдельный выезд с рафтинговым экипажем и катание с велогидом в районе Турриальбы.",
+    "plan":"Забронируйте площадку и две отдельные активности. В первый день оставьте время на заезд до темноты. Во второй сходите на рафтинг, в третий подберите полудневный веломаршрут и уезжайте после возврата велосипеда.",
+    "conditions":"У хозяев уточните проходимость нижних площадок, разрешённый костёр и зарядку велосипеда. Водный участок, возрастной допуск, возврат к базе и разрешение привезти свой e-MTB подтверждают соответствующие проводники.",
+    "distance":null,
+    "stages":[
+      {"day":1,"title":"Семейная финка и лесные тропы","note":"Заезжайте днём с Ruta 10. При влажной погоде подберите верхнюю площадку. Если останется время, договоритесь о коротком походе к водопаду или прогулке по хозяйству.","stops":["tres-equis-pacuare-farm-camp"],"sources":["tres-equis-chamber","tres-equis-camp-field"]},
+      {"day":2,"title":"Рафтинг на Пакуаре с экипажем","note":"При записи проверьте, возможна ли посадка на территории финки, где находится финиш и кто возвращает людей и багаж. Если вода или возраст группы исключают рафтинг, предусмотрите наземную программу с хозяевами.","stops":["tres-equis-pacuare-farm-camp","pacuare-day"],"sources":["tres-equis-camp-field","pacuare-1"]},
+      {"day":3,"title":"e-MTB вокруг Турриальбы и возвращение","note":"Согласуйте утреннюю петлю с местным гидом под опыт группы. Проверьте покрытие, набор и размер рамы. Для самостоятельной поездки попросите актуальный разрешённый маршрут и уточните объезд закрытых частных участков из старого трека.","stops":["turrialba-ebike-halfday"],"sources":["ebiking-turrialba-day-tour","pacuare-peralta-ebike-historical"]}
+    ]
+  },
+  {
+    "id":"bajos-toro-littles-2",
+    "kind":"trip",
+    "region":"central",
+    "title":"Бахос-дель-Торо с малышами · домик и короткая прогулка за два дня",
+    "native":"Higuerón Lodge · Oropéndola · Dinoland · Río Agrio",
+    "level":"easy",
+    "days":2,
+    "activities":["car","relax","forest","views","hiking","waterfall"],
+    "audience":["family-small","family-mid","family-teen"],
+    "access":["car","confirm"],
+    "sleep":["lodge"],
+    "sources":["ig-depth-deqfdt8dg4z","ig-depth-dex9p07ozyc","higueron-oropendola-owner","higueron-toro-drive","dino-faq","dino-sarchi"],
+    "summary":"Поездка с маленькими детьми по мотивам местного семейного отчёта. Кухня в домике, запас на дневной сон и короткая остановка в наземной зоне Dinoland.",
+    "plan":"Приезжайте днём в долину, заселитесь и оставьте прогулку на территории хозяев по погоде. Утром проверьте работу Dinoland и выберите подходящую наземную часть либо проведите спокойное утро у домика.",
+    "conditions":"Уточните дорогу у владельца на день поездки. Для ребёнка возьмите тёплый сухой комплект и переноску, если планируете лесную тропу. В сырой день оставьте крутые водопадные спуски и купание на другой выезд.",
+    "distance":null,
+    "stages":[
+      {"day":1,"title":"Спокойный заезд и домик Oropéndola","note":"Сделайте закупку перед горным участком. Заселитесь, приготовьте еду и спросите хозяев, можно ли пройти по сухой части тропы на территории.","stops":["higueron-toro"],"sources":["higueron-oropendola-owner","ig-depth-deqfdt8dg4z","higueron-toro-drive"]},
+      {"day":2,"title":"Dinoland по погоде и дорога домой","note":"Позвоните на площадку перед выездом. Для малышей оставьте время на наземную зону с фигурами и на отдых. Лесной спуск к водопаду зависит от возраста, состояния тропы и правил владельца.","stops":["dinoland-rio-agrio"],"sources":["dino-faq","dino-sarchi","ig-depth-dex9p07ozyc"]}
+    ]
+  }
+]

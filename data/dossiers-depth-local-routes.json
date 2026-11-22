@@ -1,0 +1,516 @@
+{
+  "oka-piedra-guided-8": {
+    "stops": [
+      {
+        "point": "oka-ujarras",
+        "role": "Район Ухарраса",
+        "note": "Метка посёлка помогает выбрать направление. Координаты сбора и въезд выдаёт организатор короткого маршрута."
+      },
+      {
+        "point": "oka-grassland",
+        "role": "Район саванны",
+        "note": "Метка показывает общий район Саванас-Ока. Точку Пьедра-де-Ока и очередность смотровых уточняют у проводника."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два варианта от одной команды",
+        "text": "В посте от 3 ноября 2026 организатор описал короткую тропу на 8 км до Piedra de Oka. Отдельный ролик указывает 22 км для опытной группы. Восемь километров всё ещё требуют готовности к подъёму, неровной тропе и ветру. Запросите полный набор высоты и обычный темп группы.",
+        "sources": [
+          "ig-depth-dfts5npjrsn",
+          "ig-depth-de-yxmtot2a"
+        ]
+      },
+      {
+        "title": "Маршрут в коренной территории Ухаррас",
+        "text": "Местные проводники напоминают о значении территории для общины. Согласуйте сопровождение и правила съёмки или ночёвки. Отдельное разрешение потребуется, если хотите привезти e-MTB. Рассветный выезд планируйте с налобником и ветровкой.",
+        "sources": [
+          "ig-full-trekkingtom-cr",
+          "oka-film",
+          "oka",
+          "ig-depth-dfa2avzu43i"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hiking y Aventura Costa Rica",
+        "source": "ig-depth-dfts5npjrsn",
+        "url": "https://www.instagram.com/hikingtourscr/",
+        "note": "Вариант 8 км, встреча, минимальный возраст, трансфер и актуальные даты. В анонсе был ранний выход под метеорный поток."
+      }
+    ],
+    "galleries": [
+      "ig-depth-dfts5npjrsn"
+    ],
+    "videos": [
+      "ig-depth-dfa2avzu43i",
+      "ig-depth-de-yxmtot2a"
+    ],
+    "nearby": [
+      "sabana-oka",
+      "oka-olan",
+      "oka-laguna",
+      "durika"
+    ]
+  },
+  "zapotal-angel-gabriel-36": {
+    "stops": [
+      {
+        "point": "san-ramon-central-area",
+        "role": "Старт автомобильного подъезда",
+        "note": "Пополните воду и заправьтесь перед выездом в западные холмы Сан-Рамона."
+      },
+      {
+        "point": "san-ramon-piedades-sur-area",
+        "role": "Пьедадес-Сур",
+        "note": "Промежуточный ориентир. Дальше используйте согласованный маршрут в Сан-Антонио."
+      },
+      {
+        "point": "zapotal-angel-road-pin",
+        "role": "Дорожный ориентир фермы",
+        "note": "Из карты репортажа Qué Buen Lugar. Запросите у приёма актуальный пин ворот и парковку."
+      }
+    ],
+    "line": "zapotal-angel-from-san-ramon",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "От пастбищ к водопаду",
+        "text": "Поход из отчёта Qué Buen Lugar шёл от фермы через пастбища и посадки. Ближе к каскаду спуск становится круче, а финальный подход идёт вдоль ручья. В работе UTN указан отдельный 5-километровый вариант для двух каскадов и купели. При записи уточните программу и расстояние.",
+        "sources": [
+          "zapotal-angel-qbl",
+          "zapotal-angel-utn"
+        ]
+      },
+      {
+        "title": "Дорога и условия у хозяев",
+        "text": "Сеть OSM даёт 26,2 км автоподъезда от Сан-Рамона. Авторы весной 2026 года отмечали плохое состояние грунта. Для компании с детьми проверьте спуск, обувь, дождь и возможность заказать обед на финке. Исторический ценник из блога относился к поездке 2020 года.",
+        "sources": [
+          "zapotal-angel-road-line",
+          "zapotal-angel-film",
+          "zapotal-angel-qbl",
+          "zapotal-rural-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Ángel Gabriel · Мануэль",
+        "source": "zapotal-angel-utn",
+        "phone": "+506 8535 3195",
+        "note": "Опубликованный контакт фермы. Уточните день, машину, цену, встречу и сопровождение."
+      }
+    ],
+    "galleries": [
+      "zapotal-angel-qbl"
+    ],
+    "videos": [
+      "zapotal-angel-film",
+      "zapotal-mono-film"
+    ],
+    "nearby": [
+      "zapotal-salto-mono-canyon-52",
+      "quetzal-miramar-san-ramon-4x4"
+    ]
+  },
+  "zapotal-salto-mono-canyon-52": {
+    "stops": [
+      {
+        "point": "san-ramon-central-area",
+        "role": "Начало подъезда из Сан-Рамона",
+        "note": "От маркированной дороги до фактических ворот может быть частный отрезок."
+      },
+      {
+        "point": "san-antonio-zapotal-quetzal",
+        "role": "Сан-Антонио-де-Сапоталь",
+        "note": "Локализация по отчёту Aventuras 506 и интервью муниципального специалиста."
+      },
+      {
+        "point": "zapotal-angel-road-pin",
+        "role": "Ориентир у соседнего водопада на той же финке",
+        "note": "Вход именно в каньон, стоянку и обратный путь согласуйте с местным проводником."
+      }
+    ],
+    "line": "zapotal-angel-from-san-ramon",
+    "track": "zapotal-mono-track",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Каньон и три водопада",
+        "text": "У автора записи на Wikiloc основная часть 5,21 км идёт по Барранкилье. Видео Aventuras 506 показывает сочетание Сальто-дель-Моно, Catarata La Cueva и Ángel Gabriel в одной поездке. Короткий фотоотчёт Trekking Tom даёт представление о скальных стенах. Уточните, какие водопады входят в выбранный выход.",
+        "sources": [
+          "zapotal-mono-track",
+          "zapotal-mono-film",
+          "ig-depth-dzewdreeave"
+        ]
+      },
+      {
+        "title": "Договоритесь о входе и прохождении",
+        "text": "В полевом видео апреля 2026 указан подход через хозяйство Ángel Gabriel. В декабрьском календаре Hiking Tiquicia есть выход к Сальто-дель-Моно. Попросите у принимающей стороны подобрать дату по воде, согласовать спуск и обозначить условия отмены. Возьмите сухой мешок, закрытую обувь с протектором и сменное.",
+        "sources": [
+          "zapotal-angel-film",
+          "zapotal-rural-2026",
+          "ig-full-hikingtiquicia"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Ángel Gabriel",
+        "source": "zapotal-angel-utn",
+        "phone": "+506 8535 3195",
+        "note": "Согласование доступа к финке и контакт подходящего проводника для каньона."
+      },
+      {
+        "name": "Hiking Tiquicia",
+        "source": "ig-full-hikingtiquicia",
+        "url": "https://www.instagram.com/hikingtiquicia/",
+        "note": "Групповые походы по опубликованному календарю. Уточните начало, трансфер и условия переноса."
+      }
+    ],
+    "galleries": [
+      "ig-depth-dzewdreeave",
+      "zapotal-mono-track"
+    ],
+    "videos": [
+      "zapotal-mono-film"
+    ],
+    "nearby": [
+      "zapotal-angel-gabriel-36",
+      "quetzal-miramar-san-ramon-4x4"
+    ]
+  },
+  "marsella-quebrada-gata-atv": {
+    "stops": [
+      {
+        "point": "toro-marsella-village",
+        "role": "Марселья-де-Венесия",
+        "note": "Район сбора по программе Costa Rica Ecotours. Перед выездом получите у них точку парковки и встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пешком или с ATV",
+        "text": "Местный оператор описывает примерно два часа на ATV по территории финок плюс четыре часа пешком. Для пешей версии перевозку и начало согласуют отдельно. Сбор в Марселье. Каньон заканчивается водопадом. По дороге гид выбирает места перехода реки.",
+        "sources": [
+          "toro-quebrada-gata-ecotours",
+          "toro-ecotours-contact"
+        ]
+      },
+      {
+        "title": "Стоимость и впечатления участников",
+        "text": "На странице заявлено от $45 за пеший вариант, $79 с ATV и $89 при добавлении обеда, по условиям минимум два человека и возможны сборы при записи. В отзывах, которые приводит оператор, участники отдельно отмечают сложность спуска и помощь гида Абеля на мокрых участках.",
+        "sources": [
+          "toro-quebrada-gata-ecotours",
+          "toro-ecotours-adventures"
+        ]
+      },
+      {
+        "title": "Когда идти",
+        "text": "Нужны обувь для речных переходов с хорошим сцеплением, запас воды, сменный комплект и гермомешок. Оператор оставляет за собой решение о переносе при высокой воде. Уточните возраст, страховку и правила выдачи квадроцикла для конкретной записи.",
+        "sources": [
+          "toro-quebrada-gata-ecotours",
+          "pozo-toro-ig"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Rica Ecotours",
+        "source": "toro-ecotours-contact",
+        "phone": "+506 8851 1209",
+        "whatsapp": "https://wa.me/50688511209",
+        "email": "info@crecotours.com",
+        "note": "Пеший или комбинированный выезд, пин встречи в Марселье, состояние реки и наличие проводника."
+      }
+    ],
+    "galleries": [
+      "toro-quebrada-gata-ecotours"
+    ],
+    "videos": [
+      "pozo-toro-ig"
+    ],
+    "nearby": [
+      "toro-gata-media-canyoning",
+      "toro-vuelta-canyon",
+      "toro-gemelas-fantasticas-10",
+      "bajos-finca-dos-rios-cascades"
+    ]
+  },
+  "toro-gemelas-fantasticas-10": {
+    "stops": [
+      {
+        "point": "ebike-bajos-toro-town",
+        "role": "Бахос-дель-Торо · долина",
+        "note": "Ближайшая база с домиками и местными кафе. Уточните разрешённый подход к пастбищам."
+      },
+      {
+        "point": "toro-gemelas-field-pin",
+        "role": "Координата из отчёта Qué Buen Lugar",
+        "note": "Перед выездом спросите, где сейчас оставляют машины и где начинать пешую часть."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два каскада и спуск по мокрому склону",
+        "text": "Местные авторы описывают 10 км туда и обратно. Основная часть подхода проходит по открытым пастбищам, затем тропа резко спускается в лес. В дождливый день группе пришлось долго идти по грязи. Для первого выхода договоритесь с проводником и выберите устойчивую погоду.",
+        "sources": [
+          "toro-gemelas-fantasticas-qbl",
+          "toro-gemelas-fantasticas-pin"
+        ]
+      },
+      {
+        "title": "Выберите нужные Хемелас",
+        "text": "В этом отчёте сливаются два каскада на Quebrada Gata и Quebrada Gatita. В соседнем Blue Falls есть другой посещаемый комплекс с названием Las Gemelas. У каждой тропы свой вход, правила и проверка воды.",
+        "sources": [
+          "toro-gemelas-fantasticas-qbl",
+          "toro-ticket-blue"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Хорхе Саласар · опубликованный контакт тропы",
+        "source": "toro-gemelas-fantasticas-qbl",
+        "phone": "+506 8780 7504",
+        "note": "Позвоните перед выездом для проверки оплаты, парковки, состояния спуска и доступа у воды."
+      }
+    ],
+    "galleries": [
+      "toro-gemelas-fantasticas-qbl"
+    ],
+    "nearby": [
+      "marsella-quebrada-gata-atv",
+      "blue-falls-toro",
+      "higueron-toro",
+      "toro-vuelta-canyon"
+    ]
+  },
+  "tres-equis-pacuare-farm-camp": {
+    "stops": [
+      {
+        "point": "tres-equis",
+        "role": "Вход к Finca Tres Equis",
+        "note": "Въезд с Ruta 10. Пин стоянки у реки или выше по склону лучше запросить у хозяев."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Куда поставить машину с палаткой",
+        "text": "Региональный кемпинговый путеводитель описывает площадки на территории хозяйства, в том числе у реки, и возможность стоянки с крышной палаткой. Спросите, назначат ли площадку повыше на случай дождя и какой клиренс нужен для выбранного места. Душ и туалеты описаны в отчёте. Действующие условия костра уточните у владельца.",
+        "sources": [
+          "tres-equis-camp-field",
+          "tres-equis-contact"
+        ]
+      },
+      {
+        "title": "Поездка с детьми и тихая прогулка",
+        "text": "Туристическая палата описывает прогулки в лесу, водопад, конные программы и знакомство с кофе и какао. С малышами спросите о коротком подходе, перилах и времени до воды. Вдоль берега придерживайтесь границ, обозначенных хозяевами.",
+        "sources": [
+          "tres-equis-chamber",
+          "tres-equis-camp-field"
+        ]
+      },
+      {
+        "title": "Рафтинг и поездка на e-MTB",
+        "text": "Путеводитель упоминает рафтинг по записи и посадку с берега хозяйства по договорённости. За день до выхода получите участок, минимальный возраст и конкретную точку сбора. Велопоездку можно поставить на отдельное утро с гидом из Турриальбы. Для своего велосипеда спросите об обычной розетке и разрешённых дорогах. Автомобильная зарядка в реестре ASOMOVE имеет другой разъём.",
+        "sources": [
+          "tres-equis-camp-field",
+          "tres-equis-contact",
+          "ebiking-turrialba-day-tour"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Tres Equis",
+        "source": "tres-equis-contact",
+        "phone": "+506 8834 5199",
+        "email": "info@fincatresequis.com",
+        "note": "Заезд, точное место, палатка на крыше, площадка у реки, кострище и бронирование местных активностей."
+      }
+    ],
+    "galleries": [
+      "tres-equis-camp-field",
+      "tres-equis-chamber"
+    ],
+    "nearby": [
+      "pacuare-day",
+      "el-camino-etapa-4",
+      "el-camino-etapa-5",
+      "turrialba-ebike-halfday",
+      "tres-equis-pacuare-ebike-3"
+    ]
+  },
+  "tres-equis-pacuare-ebike-3": {
+    "stops": [
+      {
+        "point": "tres-equis",
+        "role": "Две ночи на Finca Tres Equis",
+        "note": "Крышная или наземная палатка либо жильё у хозяев по записи."
+      },
+      {
+        "point": "turrialba-city-anchor",
+        "role": "Район встречи с велогидом в Турриальбе",
+        "note": "Точный старт, дистанцию и легальный маршрут выбирает велогид по уровню группы."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Проверка своего e-MTB на знакомом покрытии",
+        "text": "Если привозите собственный лёгкий велосипед с отключаемой помощью, спросите, возьмёт ли его гид и может ли выбрать маршрут с удобным разворотом. На первой петле оцените расход батареи, темп и управляемость с выключенной поддержкой на спокойном участке. Для поездки с ребёнком отдельно согласуйте маршрут, способ перевозки и допуск оборудования.",
+        "sources": [
+          "ebiking-turrialba-day-tour",
+          "tq-hpr60-manual"
+        ]
+      },
+      {
+        "title": "Исторический районный трек",
+        "text": "Отчёт райдера о 67,9 км между Пакуаре, Перальтой и Ла-Алегрией относится к 2017 году. Он описывает разворот у закрытых частных ворот, грязный подход к мосту и пешую переноску велосипеда. Для этой поездки выберите текущий маршрут, подтверждённый местным велогидом.",
+        "sources": [
+          "pacuare-peralta-ebike-historical",
+          "ebiking-turrialba-home"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Tres Equis",
+        "source": "tres-equis-contact",
+        "phone": "+506 8834 5199",
+        "email": "info@fincatresequis.com",
+        "note": "Ночёвки, место стоянки, прогулка по хозяйству и речная логистика."
+      },
+      {
+        "name": "Ebiking Costa Rica",
+        "source": "ebiking-turrialba-ict",
+        "phone": "+506 8311 2282",
+        "url": "https://ebikingcostarica.com/ebike-tours-costa-rica/",
+        "note": "Прокат, свой велосипед, размер рамы, сопровождаемая полудневная петля и место встречи."
+      }
+    ],
+    "galleries": [
+      "tres-equis-camp-field",
+      "ebiking-turrialba-day-tour"
+    ],
+    "nearby": [
+      "tres-equis-pacuare-farm-camp",
+      "pacuare-day",
+      "turrialba-ebike-halfday"
+    ]
+  },
+  "bajos-toro-littles-2": {
+    "stops": [
+      {
+        "point": "higueron-toro-pin",
+        "role": "Ночь в Higuerón Lodge",
+        "note": "Согласуйте размер домика, кроватку или ступени и время заселения."
+      },
+      {
+        "point": "rio-agrio-dino-entry",
+        "role": "Dinoland · входная зона",
+        "note": "Различайте территорию с фигурами и дальнейшие тропы к Рио-Агрио. В дождь уточните доступ у оператора."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как поездку спланировали местные родители",
+        "text": "Семья Qué Buen Lugar ездила с двумя малышами и выбрала Oropéndola с кухней и двумя спальнями. В дождь они поменяли план и сократили выезды. Этот сценарий оставляет время на сон и еду в домике. К реке на участке спускайтесь с подходящей обувью и переноской только при хорошей погоде.",
+        "sources": [
+          "ig-depth-deqfdt8dg4z",
+          "ig-depth-dex9p07ozyc",
+          "higueron-oropendola-owner"
+        ]
+      },
+      {
+        "title": "Вариант при закрытой тропе",
+        "text": "Проверьте текущую работу наземной зоны Dinoland и дорогу из долины. В семейном отчёте указан сектор Volcán Viejo парка Juan Castro Blanco. Страница ICT отмечает ограничение посещения, поэтому до подтверждения SINAC оставьте этот участок за пределами программы.",
+        "sources": [
+          "dino-faq",
+          "higueron-toro-drive",
+          "juan-castro-access-ict",
+          "ig-depth-deqfdt8dg4z"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Higuerón Lodge",
+        "source": "higueron-toro-owner",
+        "phone": "+506 8942 4600",
+        "note": "Oropéndola, время заезда, удобства для малышей и состояние дороги."
+      },
+      {
+        "name": "Dinoland y Río Agrio",
+        "source": "dino-contact",
+        "url": "https://dinolandcostarica.com/contacto/",
+        "note": "Открытые наземные зоны, семейные условия и правила при дожде."
+      }
+    ],
+    "galleries": [
+      "higueron-oropendola-owner",
+      "dino-activities"
+    ],
+    "videos": [
+      "ig-depth-dex9p07ozyc",
+      "dino-visit-film"
+    ],
+    "nearby": [
+      "higueron-toro",
+      "dinoland-rio-agrio",
+      "bajos-toro-weekend"
+    ]
+  },
+  "toro-gata-media-canyoning": {
+    "stops": [
+      {
+        "point": "ebike-bajos-toro-town",
+        "role": "Район Бахос-дель-Торо",
+        "note": "Гид выдаёт фактические координаты встречи. Начало каньонинга зависит от выбранной программы и условий воды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Снаряжение и сопровождение",
+        "text": "В опубликованном туре есть сертифицированный проводник, каска, система и верёвочное снаряжение. Группа от двух человек. Нужна физическая готовность к мокрым скалам, перепадам и участкам в воде. Попросите перечень личных вещей и действующую цену.",
+        "sources": [
+          "toro-gata-media-guided",
+          "toro-ecotours-contact"
+        ]
+      },
+      {
+        "title": "Уточните название и уровень каньона",
+        "text": "У местного сообщества есть отдельные описания Gata Media и Gata Fiera. Попросите именно Gata Media, согласуйте старт и условия переноса при подъёме воды. В качестве альтернативы можно запросить пешую прогулку с гидом или выбрать сухой день.",
+        "sources": [
+          "toro-gata-media-local-notes",
+          "toro-gata-media-guided",
+          "toro-quebrada-gata-ecotours"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Rica Ecotours",
+        "source": "toro-ecotours-contact",
+        "phone": "+506 8851 1209",
+        "whatsapp": "https://wa.me/50688511209",
+        "email": "info@crecotours.com",
+        "note": "Уровень воды, состав группы, требования, цена и координаты сбора."
+      }
+    ],
+    "galleries": [
+      "toro-gata-media-guided",
+      "toro-gata-media-local-notes"
+    ],
+    "nearby": [
+      "marsella-quebrada-gata-atv",
+      "higueron-toro",
+      "toro-vuelta-canyon"
+    ]
+  }
+}

@@ -29,11 +29,14 @@
       },
       {
         "title": "Выезд с детьми",
-        "text": "В семейном ролике Qué Buen Lugar ночевали с двумя маленькими детьми и использовали домик как базу у местных водопадов. На короткое утро выберите сад и верхние площадки Catarata Del Toro. Для Blue Falls выделите отдельное утро, если сотрудники подтверждают спокойный доступ.",
+        "text": "Qué Buen Lugar рассказывает о поездке с двумя малышами и двух спальнях с кухней в Oropéndola. В дождливый день можно остаться на территории и выбрать короткую часть прогулки. Перед выходом к реке уточните состояние спуска. Для субботы–воскресенья добавьте наземную зону Dinoland к удобному времени сна и еды.",
         "sources": [
           "fb-qbl-higueron",
           "toro-garden-trails",
-          "toro-ticket-blue"
+          "toro-ticket-blue",
+          "ig-depth-deqfdt8dg4z",
+          "higueron-oropendola-owner",
+          "dino-faq"
         ]
       },
       {
@@ -72,6 +75,7 @@
       }
     ],
     "nearby": [
+      "bajos-toro-littles-2",
       "bajos-toro-weekend",
       "catarata-del-toro",
       "blue-falls-toro",
@@ -80,9 +84,13 @@
       "pozo-azul-toro-falls"
     ],
     "videos": [
-      "fb-qbl-higueron"
+      "fb-qbl-higueron",
+      "ig-depth-dex9p07ozyc"
     ],
-    "track": "higueron-toro-drive"
+    "track": "higueron-toro-drive",
+    "galleries": [
+      "higueron-oropendola-owner"
+    ]
   },
   "catarata-del-toro": {
     "stops": [
@@ -640,11 +648,14 @@
     "nearby": [
       "higueron-toro",
       "bajos-toro-weekend",
-      "catarata-del-toro"
+      "catarata-del-toro",
+      "toro-gemelas-fantasticas-10",
+      "marsella-quebrada-gata-atv"
     ],
     "videos": [
       "toro-vuelta-vlog",
-      "toro-vuelta-teletica"
+      "toro-vuelta-teletica",
+      "ig-depth-df0paw2reyj"
     ]
   }
 }

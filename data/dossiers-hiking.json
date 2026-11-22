@@ -183,11 +183,13 @@
     "sections": [
       {
         "title": "20 км с местным проводником",
-        "text": "У Wild Adventure Experience опубликован вариант примерно 10 км подъёма и 20 км суммарно. Начало и прохождение согласовывают в Ухаррасе-де-Буэнос-Айрес, провинция Пунтаренас. Семье без горной подготовки лучше найти короткую альтернативу.",
+        "text": "У Wild Adventure Experience опубликован вариант примерно на 20 км. Hiking y Aventura указывает 22 км для своего длинного варианта и 8 км до Piedra de Oka. Согласуйте вход и сопровождение в общине Ухаррас, конкретный трек и фактический набор высоты.",
         "sources": [
           "oka",
           "oka-film",
-          "oka-osm"
+          "oka-osm",
+          "ig-depth-dfts5npjrsn",
+          "ig-depth-de-yxmtot2a"
         ]
       },
       {
@@ -218,9 +220,13 @@
       }
     ],
     "nearby": [
+      "oka-piedra-guided-8",
       "oka-olan",
       "oka-laguna",
       "durika"
+    ],
+    "videos": [
+      "ig-depth-dfa2avzu43i"
     ]
   },
   "oka-olan": {
