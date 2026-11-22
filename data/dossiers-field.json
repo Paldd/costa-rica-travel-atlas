@@ -611,6 +611,15 @@
           "ict-prusia-trail-names-visitor-guide",
           "irazu-map"
         ]
+      },
+      {
+        "title": "Лесной выход из местного отчёта",
+        "text": "Vamos a Turistear показывает лесную прогулку. ICT описывает подход к Árbol Encantado через El Roble, El Puma и Los Abuelos. Перед входом проверьте актуальную схему, цвет маркировки и отдельно выбирайте длину пешего круга под семью.",
+        "sources": [
+          "fb-archive-vamos-prusia",
+          "prusia-ict-visitor-guide",
+          "irazu-map"
+        ]
       }
     ],
     "contacts": [
@@ -629,7 +638,10 @@
       "rio-loro-cartago-forest",
       "oikoumene"
     ],
-    "track": "irazu-map"
+    "track": "irazu-map",
+    "galleries": [
+      "fb-archive-vamos-prusia"
+    ]
   },
   "irazu-craters": {
     "stops": [

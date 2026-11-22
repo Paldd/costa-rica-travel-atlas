@@ -169,6 +169,16 @@ assert.equal(atlas.social.overview.publisherLinks, profilesWithSites.length);
 assert.equal(atlas.social.overview.publisherArchiveLinks, profilesWithSites.filter(row => row.publisher.archive).length);
 assert(profilesWithSites.some(row => row.platform === "Instagram" && row.publisher.archive));
 assert(profilesWithSites.some(row => row.platform === "Facebook" && row.publisher.archive));
+const publisherReview = atlas.social.publisherReview;
+assert.match(publisherReview.dayUtc, /^\d{4}-\d{2}-\d{2}$/);
+assert(publisherReview.pagesRead > 0 && publisherReview.pagesReadToDate >= publisherReview.pagesRead);
+const coveredPublishers = profilesWithSites.filter(row => row.publisher.coverage);
+assert(coveredPublishers.some(row => row.platform === "Facebook"));
+for (const row of coveredPublishers) {
+  const { read, indexed } = row.publisher.coverage;
+  assert(Number.isInteger(read) && Number.isInteger(indexed) && 0 <= read && read <= indexed, row.name);
+  assert(row.publisher.archive in atlas.sources, row.name);
+}
 const facebookLinks = atlas.social.profiles.filter(row => row.platform === "Facebook").flatMap(row => row.postLinks || []);
 assert.equal(facebookLinks.length, atlas.social.overview.facebookPosts);
 assert.equal(new Set(facebookLinks.map(link => atlas.sources[link.source].url)).size, facebookLinks.length);

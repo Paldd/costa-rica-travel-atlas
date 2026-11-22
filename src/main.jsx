@@ -396,7 +396,7 @@ function SourcesPage({ atlas }) {
   const [query, setQuery] = useState("");
   const [platform, setPlatform] = useState("");
   const [coverage, setCoverage] = useState("");
-  const overview = atlas.social.overview;
+  const { overview, publisherReview } = atlas.social;
   const measurementDate = atlas.social.profiles[0]?.countChecked;
   const needle = fold(query.trim());
   const followerFormat = new Intl.NumberFormat("ru-RU");
@@ -443,6 +443,12 @@ function SourcesPage({ atlas }) {
       {overview.instagramWithMultipleOpenedPosts > 0 && <p>У {overview.instagramWithMultipleOpenedPosts} профилей Instagram прочитано по несколько оригиналов. Период в строке профиля показывает крайние даты среди прочитанных публикаций с видимой датой.</p>}
       {overview.facebookWithCopies > 0 && <p>В открытых копиях лент изучено {overview.facebookCopiedPosts} публикаций для {overview.facebookWithCopies} профилей. Период выборки указан в строке профиля.</p>}
       {overview.publisherLinks > 0 && <p>У {overview.publisherLinks} профилей есть подтверждённый сайт. Для {overview.publisherArchiveLinks} профилей доступны ссылки на разделы статей, маршрутов или программ этого проекта.</p>}
+      {publisherReview && <p>
+        Уникальные страницы издателей, прочитанные за проход от{" "}
+        <time dateTime={publisherReview.dayUtc}>{publisherReview.dayUtc.split("-").reverse().join(".")}</time> — {publisherReview.pagesRead}.
+        {" "}Всего прочитанных страниц — {publisherReview.pagesReadToDate}.{" "}
+        <External href={publisherReview.runUrl}>Отчёт обхода</External>
+      </p>}
       <div className="profile-filters">
         <label className="search-box"><Search size={19} aria-hidden="true" /><span className="visually-hidden">Поиск соцпрофиля</span>
           <input type="search" value={query} placeholder="Профиль, сайт, регион или категория" onChange={event => setQuery(event.target.value)} />
@@ -494,6 +500,7 @@ function SourcesPage({ atlas }) {
             </External>}
             {row.publisher && <External href={atlas.sources[row.publisher.site].url}>Сайт проекта</External>}
             {row.publisher?.archive && <External href={atlas.sources[row.publisher.archive].url}>Статьи и маршруты проекта</External>}
+            {row.publisher?.coverage && <span>В архиве прочитано {row.publisher.coverage.read} из {row.publisher.coverage.indexed} обнаруженных страниц</span>}
           </div>
           {row.copySample?.items?.length > 0 && <details className="profile-copy-items">
             <summary>Что было в просмотренных публикациях</summary>

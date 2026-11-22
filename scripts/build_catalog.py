@@ -100,6 +100,28 @@ def build_social(sources_by_id, record_ids, aliases):
             raise ValueError(f"Invalid publisher link for {site}")
         publisher["checked"] = date.fromisoformat(publisher["checked"]).isoformat()
         profile["publisher"] = publisher
+    review_path = DATA / "publisher-review-coverage.json"
+    if review_path.exists():
+        review = json.loads(review_path.read_text(encoding="utf-8"))
+        archives = review.pop("bySource")
+        run = urlsplit(review["runUrl"])
+        if (
+            run.scheme != "https" or run.hostname != "github.com"
+            or not run.path.startswith("/Paldd/costa-rica-travel-atlas/actions/runs/")
+            or not (0 <= review["pagesRead"] <= review["pagesChecked"])
+            or review["pagesReadToDate"] < review["pagesRead"]
+            or not (0 <= review["archivesRead"] <= review["archives"])
+        ):
+            raise ValueError("Invalid publisher archive review receipt")
+        review["dayUtc"] = date.fromisoformat(review["dayUtc"]).isoformat()
+        for source, coverage in archives.items():
+            if source not in sources_by_id or not (0 <= coverage["read"] <= coverage["indexed"]):
+                raise ValueError(f"Invalid publisher archive coverage for {source}")
+        for profile in profiles.values():
+            publisher = profile.get("publisher")
+            if publisher and publisher["archive"] in archives:
+                publisher["coverage"] = archives[publisher["archive"]]
+        social["publisherReview"] = review
     seen_posts = set()
     for post in read_table(DATA / "public-posts.tsv", POST_FIELDS):
         profile = profiles.get(post["profile"])

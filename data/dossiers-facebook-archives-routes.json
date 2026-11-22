@@ -1,0 +1,728 @@
+{
+  "cinchona-san-fernando-34": {
+    "stops": [
+      {
+        "point": "cinchona-trails-road-pin",
+        "role": "Въезд к семейной финке",
+        "note": "Касса возле Soda Madera y Maíz. Координата относится к району входа из карты справочника."
+      },
+      {
+        "point": "cinchona-soda-pin",
+        "role": "Дополнительная остановка на Ruta 126",
+        "note": "Кафе и придорожная смотровая. Автомобильный отрезок на карте соединяет два дорожных ориентира."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Короткая дистанция с ощутимым набором",
+        "text": "В треке посетителя 2,14 мили, около 3,4 км, и 1 145 футов подъёма, примерно 350 м. Часть пути проходит по мокрому склону с верёвочными поручнями. На месте проверьте открытие веток к Сан-Фернандо, Пауле и другим водопадам.",
+        "sources": [
+          "cinchona-san-fernando-track",
+          "cinchona-trails-operator"
+        ]
+      },
+      {
+        "title": "Вход, часы и посадка",
+        "text": "Финка указывает парковку, туалеты и душ. В справочнике в будни требуется запись. В копии объявления хозяев указан последний вход в 15:00 в выходные. В справочнике опубликованы ₡5 000 для местных, $20 для иностранцев и детская льгота. Перед выездом уточните актуальные правила и часы.",
+        "sources": [
+          "cinchona-trails-operator",
+          "cinchona-trails-public-copy",
+          "cinchona-trails-entry-map"
+        ]
+      },
+      {
+        "title": "Два разных места с видом на водопад",
+        "text": "Мирадор и кафе у дороги подходят для короткой остановки. У тропы к основанию свой въезд, карта, оплата и заметно больше нагрузки. Оцените спуск при дожде и уточните у принимающей стороны состояние переходов.",
+        "sources": [
+          "fb-archive-conocedores-cinchona",
+          "cinchona-san-fernando-track",
+          "cinchona-soda-road-route"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cinchona Waterfall Trails",
+        "source": "cinchona-trails-operator",
+        "note": "График, вход, касса, однодневные погодные ограничения и подход к водопадам.",
+        "phone": "+506 8518 9442",
+        "whatsapp": "https://wa.me/50685189442"
+      }
+    ],
+    "nearby": [
+      "cinchona-soda",
+      "poas-caprina-roof-camp"
+    ],
+    "line": "cinchona-two-stops-drive",
+    "track": "cinchona-san-fernando-track",
+    "galleries": [
+      "cinchona-trails-operator",
+      "cinchona-san-fernando-track",
+      "cinchona-trails-public-copy"
+    ],
+    "videos": [
+      "cinchona-san-fernando-video"
+    ]
+  },
+  "rio-perdido-blanco-mtb-4": {
+    "stops": [
+      {
+        "point": "bagaces-centre",
+        "role": "Район старта подъезда из Багасеса",
+        "note": "Маркер у Ruta 1. До приезда согласуйте с лоджем актуальное состояние последних участков."
+      },
+      {
+        "point": "rio-perdido-lodge-pin",
+        "role": "База Río Perdido",
+        "note": "На схеме у стойки отмечены тропы, речные участки, купели и выходы. Старт водной или велопрограммы назначает оператор."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Первый круг с гидом",
+        "text": "По схеме базы Río Blanco средний по сложности, 4 км. В описании указан набор около 120 м и значительная часть под деревьями. Оператор требует первый круг с гидом и заранее подтверждает время. Отведите на сопровождаемое катание один–три часа в зависимости от программы.",
+        "sources": [
+          "rio-perdido-mtb-owner",
+          "rio-perdido-property-map"
+        ]
+      },
+      {
+        "title": "Другие линии и свой велосипед",
+        "text": "На опубликованной схеме Bosque 4 км, Rocas 4,5 км, Tumbas Norte 1 км и Quebrada 1,5 км. Первые две средней сложности, последние две продвинутые. Со своим e-MTB заранее проверьте допуск, парковку, мойку, зарядку и право самостоятельного выезда. Каменное покрытие меняется после дождя.",
+        "sources": [
+          "rio-perdido-property-map",
+          "rio-perdido-mtb-owner",
+          "rio-perdido-mtb-trailforks"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Río Perdido",
+        "source": "rio-perdido-ict-directory",
+        "note": "Время заезда, маршрут под уровень, допуск без ночёвки и погода. По велосипедам уточните прокат, размер, собственный e-MTB и обязательного гида.",
+        "phone": "+506 2673 3600",
+        "url": "https://www.rioperdido.com/contact-and-location"
+      }
+    ],
+    "nearby": [
+      "rio-perdido-las-tumbas-hike",
+      "rio-perdido-whitewater-tubing",
+      "rio-perdido-ziplines-hot-river-3"
+    ],
+    "line": "bagaces-rio-perdido-drive",
+    "track": "rio-perdido-property-map",
+    "galleries": [
+      "rio-perdido-mtb-owner",
+      "rio-perdido-mtb-trailforks"
+    ],
+    "videos": [
+      "rio-perdido-mtb-film"
+    ]
+  },
+  "rio-perdido-las-tumbas-hike": {
+    "stops": [
+      {
+        "point": "bagaces-centre",
+        "role": "Район старта подъезда из Багасеса",
+        "note": "Маркер у Ruta 1. До приезда согласуйте с лоджем актуальное состояние последних участков."
+      },
+      {
+        "point": "rio-perdido-lodge-pin",
+        "role": "База Río Perdido",
+        "note": "На схеме у стойки отмечены тропы, речные участки, купели и выходы. Старт водной или велопрограммы назначает оператор."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Гребень, панорама и лёгкий вариант",
+        "text": "Лас-Тумбас выходит из лесистого ущелья на скальные плиты. У Volcanes оператор отмечает последние 250 м крутого подъёма и виды на Миравальес, Тенорио и Ринкон-де-ла-Вьеха. Более ровный вариант Carbonatadas идёт в сторону Yurro и минерального источника.",
+        "sources": [
+          "rio-perdido-hiking-owner",
+          "rio-perdido-property-map"
+        ]
+      },
+      {
+        "title": "Что получает гость базы",
+        "text": "Оператор описывает ежедневную прогулку с гидом до восьми человек и возможность получить карту для самостоятельной прогулки. Уточните действующие условия для незаселяющихся гостей и план по жаре или дождю.",
+        "sources": [
+          "rio-perdido-hiking-owner",
+          "rio-perdido-hot-river"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Río Perdido",
+        "source": "rio-perdido-ict-directory",
+        "note": "Время заезда, маршрут под уровень, допуск без ночёвки и погода. По велосипедам уточните прокат, размер, собственный e-MTB и обязательного гида.",
+        "phone": "+506 2673 3600",
+        "url": "https://www.rioperdido.com/contact-and-location"
+      }
+    ],
+    "nearby": [
+      "rio-perdido-blanco-mtb-4",
+      "rio-perdido-canyon-canopy",
+      "rio-perdido-ziplines-hot-river-3"
+    ],
+    "line": "bagaces-rio-perdido-drive",
+    "track": "rio-perdido-property-map",
+    "galleries": [
+      "rio-perdido-hiking-owner"
+    ]
+  },
+  "rio-perdido-whitewater-tubing": {
+    "stops": [
+      {
+        "point": "bagaces-centre",
+        "role": "Район старта подъезда из Багасеса",
+        "note": "Маркер у Ruta 1. До приезда согласуйте с лоджем актуальное состояние последних участков."
+      },
+      {
+        "point": "rio-perdido-lodge-pin",
+        "role": "База Río Perdido",
+        "note": "На схеме у стойки отмечены тропы, речные участки, купели и выходы. Старт водной или велопрограммы назначает оператор."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Миля воды и смена сложности",
+        "text": "Программа проходит по каньону длиной около мили. Оператор характеризует сухой сезон как среднюю сложность, а дождливый как продвинутый. Попросите актуальный старт и высадку, время на воде, правила движения и условия переноса.",
+        "sources": [
+          "rio-perdido-tubing-owner",
+          "rio-perdido-property-map"
+        ]
+      },
+      {
+        "title": "Ограничения для семьи",
+        "text": "На дату публикации от 12 лет, плавать нужно уметь. В источнике указаны рост от 130 см в сухой и от 140 см в дождливый сезон, вес до 130 кг. Семье с более младшими детьми можно проверить канопи или прогулку по короткой наземной тропе.",
+        "sources": [
+          "rio-perdido-tubing-owner",
+          "rio-perdido-three-day-owner",
+          "rio-perdido-canyon-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Río Perdido",
+        "source": "rio-perdido-ict-directory",
+        "note": "Время заезда, маршрут под уровень, допуск без ночёвки и погода. По велосипедам уточните прокат, размер, собственный e-MTB и обязательного гида.",
+        "phone": "+506 2673 3600",
+        "url": "https://www.rioperdido.com/contact-and-location"
+      }
+    ],
+    "nearby": [
+      "rio-perdido-canyon-canopy",
+      "rio-perdido-las-tumbas-hike",
+      "rio-perdido-ziplines-hot-river-3"
+    ],
+    "line": "bagaces-rio-perdido-drive",
+    "track": "rio-perdido-property-map",
+    "galleries": [
+      "rio-perdido-tubing-owner"
+    ],
+    "videos": [
+      "rio-perdido-activity-film"
+    ]
+  },
+  "rio-perdido-canyon-canopy": {
+    "stops": [
+      {
+        "point": "bagaces-centre",
+        "role": "Район старта подъезда из Багасеса",
+        "note": "Маркер у Ruta 1. До приезда согласуйте с лоджем актуальное состояние последних участков."
+      },
+      {
+        "point": "rio-perdido-lodge-pin",
+        "role": "База Río Perdido",
+        "note": "На схеме у стойки отмечены тропы, речные участки, купели и выходы. Старт водной или велопрограммы назначает оператор."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Канопи над Рио-Бланко",
+        "text": "На официальной странице пятнадцать платформ, в том числе девять подвесных. Перед программой гиду сообщают возраст участников и уточняют правила подгонки снаряжения. Сам подъём к месту старта и время восхождения зависят от формата.",
+        "sources": [
+          "rio-perdido-canyon-owner",
+          "rio-perdido-property-map"
+        ]
+      },
+      {
+        "title": "Минимальный возраст по программе",
+        "text": "В пакете на три дня указан возраст от 8 лет для Canyon Adventure. Перед бронированием уточняйте актуальные правила, условия переноса и долю прогулки к точке старта. Можно выделить время для термальных купелей на территории лоджа.",
+        "sources": [
+          "rio-perdido-three-day-owner",
+          "rio-perdido-hot-river"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Río Perdido",
+        "source": "rio-perdido-ict-directory",
+        "note": "Время заезда, маршрут под уровень, допуск без ночёвки и погода. По велосипедам уточните прокат, размер, собственный e-MTB и обязательного гида.",
+        "phone": "+506 2673 3600",
+        "url": "https://www.rioperdido.com/contact-and-location"
+      }
+    ],
+    "nearby": [
+      "rio-perdido-whitewater-tubing",
+      "rio-perdido-las-tumbas-hike",
+      "rio-perdido-ziplines-hot-river-3"
+    ],
+    "line": "bagaces-rio-perdido-drive",
+    "track": "rio-perdido-property-map",
+    "galleries": [
+      "rio-perdido-canyon-owner"
+    ],
+    "videos": [
+      "rio-perdido-activity-film"
+    ]
+  },
+  "maquenque-tres-amigos-safari-float": {
+    "stops": [
+      {
+        "point": "north-maquenque-parking",
+        "role": "Парковка перед переправой",
+        "note": "Спросите о часах, багаже и порядке посадки на лодку до заезда."
+      },
+      {
+        "point": "north-maquenque-lodge",
+        "role": "Лодж и район встречи",
+        "note": "Причал или место прогулки назначает гид. Маркер показывает базу на другом берегу."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Гребля под руководством натуралиста",
+        "text": "В программе сафари-сплава натуралист показывает, где грести и где удобнее наблюдать за животными на берегу. Договоритесь о месте спуска и встрече на финише. Прокат и допуск собственного пакрафта проверяются отдельно.",
+        "sources": [
+          "north-maquenque-experiences",
+          "maquenque-contact-public"
+        ]
+      },
+      {
+        "title": "Три разных водных выезда из базы",
+        "text": "Сафари в рафте и каяк идут по Трес-Амигос. Моторная лодка из программы Maquenque идёт по Сан-Карлосу к пограничному поселению Бока-Сан-Карлос. На разный формат могут действовать разные возрастные условия.",
+        "sources": [
+          "north-maquenque-experiences",
+          "north-maquenque-lodge-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Maquenque Lodge",
+        "source": "maquenque-contact-public",
+        "note": "Место переправы, размеры жилетов, лодж, время гида и условия для детей.",
+        "phone": "+506 2479 8200",
+        "whatsapp": "https://wa.me/50671473860"
+      }
+    ],
+    "nearby": [
+      "maquenque-tres-amigos-guided-kayak",
+      "maquenque-san-carlos-river-boat",
+      "maquenque-dawn-birding-walk",
+      "boca-tapada-maquenque-wildlife-2"
+    ],
+    "galleries": [
+      "north-maquenque-experiences"
+    ],
+    "videos": [
+      "north-maquenque-youtube"
+    ]
+  },
+  "maquenque-dawn-birding-walk": {
+    "stops": [
+      {
+        "point": "north-maquenque-parking",
+        "role": "Парковка перед переправой",
+        "note": "Спросите о часах, багаже и порядке посадки на лодку до заезда."
+      },
+      {
+        "point": "north-maquenque-lodge",
+        "role": "Лодж и район встречи",
+        "note": "Причал или место прогулки назначает гид. Маркер показывает базу на другом берегу."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Ранний выход с биноклем",
+        "text": "Гид выходит в 06:00 по программе базы. Тропа идёт по садам, к лагунам и в лес, где возможны ара, туканы и водоплавающие птицы. Зарядите аппаратуру и возьмите защиту от росы и дождя.",
+        "sources": [
+          "north-maquenque-experiences",
+          "maquenque-local-services"
+        ]
+      },
+      {
+        "title": "Что ещё сделать у лоджа",
+        "text": "Вечерний выход идёт по территории с натуралистом. Для семей с детьми от семи лет хозяева описывают также конную программу, а для наземного дня есть знакомство с какао, кофе и хозяйством. Запишите заранее час переправы и возвращения.",
+        "sources": [
+          "north-maquenque-experiences",
+          "maquenque-contact-public",
+          "fb-archive-maquenque-wildlife"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Maquenque Lodge",
+        "source": "maquenque-contact-public",
+        "note": "Место переправы, размеры жилетов, лодж, время гида и условия для детей.",
+        "phone": "+506 2479 8200",
+        "whatsapp": "https://wa.me/50671473860"
+      }
+    ],
+    "nearby": [
+      "maquenque-tres-amigos-safari-float",
+      "maquenque-san-carlos-river-boat",
+      "boca-tapada-maquenque-wildlife-2"
+    ],
+    "galleries": [
+      "north-maquenque-publisher",
+      "north-maquenque-experiences"
+    ],
+    "videos": [
+      "fb-archive-maquenque-wildlife",
+      "north-maquenque-youtube"
+    ]
+  },
+  "dota-santa-maria-canon-guarco-10": {
+    "stops": [
+      {
+        "point": "transtica-santa-maria-dota",
+        "role": "Санта-Мария-де-Дота",
+        "note": "Район старта линейного маршрута. Точную точку встречи сообщит гид."
+      },
+      {
+        "point": "copey-canon-village",
+        "role": "Район финиша возле Cumbres de Copey",
+        "note": "Согласуйте финишный подвоз или место, где оставят вторую машину."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Подъём из кофейной долины",
+        "text": "План Ticos A Pata предлагает около 10 км и 4–5 часов через окрестности Санта-Марии, лес и горные тропы к Cumbres de Copey. В горной части финиш примерно на 2 290 м. Для группы с разным темпом уточните набор и участок по грунту.",
+        "sources": [
+          "ticas-dota-guarco-10-program",
+          "copey-canon-geo"
+        ]
+      },
+      {
+        "title": "Сверьте статус программы",
+        "text": "Страница помечена Borrador, поэтому расписание, цену, точки входа и право пройти следует подтвердить у команды. Для холодного и сырого леса пригодятся ветровка, дождевик, треккинговая обувь и вода.",
+        "sources": [
+          "ticas-dota-guarco-10-program",
+          "ticosapata-public-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ticos A Pata",
+        "source": "ticos-a-pata-oct-2026-mirror",
+        "note": "Подтвердите опубликованную программу, дату открытия набора, легальные входы и трансфер.",
+        "phone": "+506 8841 8076",
+        "whatsapp": "https://wa.me/50688418076",
+        "url": "https://ticosapata.com/contact/"
+      }
+    ],
+    "nearby": [
+      "copey-cumbres-local-loop-10",
+      "copey-geminids-2026-night",
+      "san-pablo-las-mercedes-roof"
+    ],
+    "galleries": [
+      "ticas-dota-guarco-10-program"
+    ]
+  },
+  "tres-rios-la-carpintera-12": {
+    "stops": [
+      {
+        "point": "carpintera-tres-rios-area",
+        "role": "Ориентир жилого района La Carpintera",
+        "note": "Начало согласуется под открытую тропу. Маркер показывает центр жилой зоны, от которой строится поиск места встречи."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Сельские дороги и крутая часть",
+        "text": "Ticos A Pata описывает около 12 км. Вначале грунт до скалы Piedra Encantada, дальше крутой подъём по лесу. Участники могут выйти на верхний технический склон, если разрешают погода и состояние тропы. Планируйте около четырёх–пяти часов.",
+        "sources": [
+          "ticas-carpintera-12-program",
+          "ticas-carpintera-sinac"
+        ]
+      },
+      {
+        "title": "Охранная зона и согласование доступа",
+        "text": "Опубликованная программа имеет статус Borrador. Охранная зона включает участки с разными землепользователями. До выезда подтвердите маршрут, оплату, фигуру проводника и фактическую точку возврата.",
+        "sources": [
+          "ticas-carpintera-sinac",
+          "ticas-carpintera-12-program"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ticos A Pata",
+        "source": "ticos-a-pata-oct-2026-mirror",
+        "note": "Подтвердите опубликованную программу, дату открытия набора, легальные входы и трансфер.",
+        "phone": "+506 8841 8076",
+        "whatsapp": "https://wa.me/50688418076",
+        "url": "https://ticosapata.com/contact/"
+      }
+    ],
+    "nearby": [
+      "prusia-el-roble-loop-75",
+      "irazu-craters"
+    ],
+    "galleries": [
+      "ticas-carpintera-12-program"
+    ]
+  },
+  "talamanca-playa-chiquita-path": {
+    "stops": [
+      {
+        "point": "chiquita-shawandha-road-area",
+        "role": "Ориентир у прибрежной дороги",
+        "note": "По местному путеводителю пешеходная дорожка начинается напротив Shawandha. Метка показывает район отеля, а не автомобильное парковочное место."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Пеший подход с Ruta 256",
+        "text": "От Пуэрто-Вьехо до района пляжа около шести километров. Есть автобус по побережью и возможность приехать на велосипеде. От Shawandha до моря оператор указывает около 150 м. Для коляски или короткого захода оцените покрытие на месте.",
+        "sources": [
+          "playa-chiquita-pv-map",
+          "playa-chiquita-shawandha-location"
+        ]
+      },
+      {
+        "title": "Как выбрать бухту и время",
+        "text": "Местные авторы описывают несколько небольших бухт. Во время прилива проход вдоль кромки берега меняется. Выберите остановку на сухой части пляжа и оцените течение перед любым заходом в воду. Воду и перекус удобно взять на прибрежной дороге.",
+        "sources": [
+          "vamos-playa-chiquita-local",
+          "playa-chiquita-pv-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Shawandha · ориентир у пляжа",
+        "source": "playa-chiquita-shawandha-location",
+        "note": "Адрес и ориентир на главной дороге. Для своих гостей отель отдельно указывает условия парковки.",
+        "url": "https://shawandha.com/contact/"
+      }
+    ],
+    "nearby": [
+      "cocles",
+      "cocles-punta-uva-bike-kayak",
+      "punta-uva"
+    ],
+    "galleries": [
+      "vamos-playa-chiquita-local",
+      "playa-chiquita-pv-map"
+    ]
+  },
+  "rio-perdido-ziplines-hot-river-3": {
+    "stops": [
+      {
+        "point": "bagaces-centre",
+        "role": "Район старта подъезда из Багасеса",
+        "note": "Маркер у Ruta 1. До приезда согласуйте с лоджем актуальное состояние последних участков."
+      },
+      {
+        "point": "rio-perdido-lodge-pin",
+        "role": "База Río Perdido",
+        "note": "На схеме у стойки отмечены тропы, речные участки, купели и выходы. Старт водной или велопрограммы назначает оператор."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что в пакете и что нужно добавить",
+        "text": "Официальная трёхдневная программа с двумя ночёвками включает доступ к термальной реке и выбор между тюбингом и канопи. Пешая прогулка или отдельный круг MTB согласуются по времени и условиям размещения.",
+        "sources": [
+          "rio-perdido-three-day-owner",
+          "rio-perdido-mtb-owner",
+          "rio-perdido-hiking-owner"
+        ]
+      },
+      {
+        "title": "Дорожные и погодные условия",
+        "text": "Водоёмы и каньон находятся на частной территории Río Perdido. На месте уточните время последнего входа, доступный участок реки, допустимую нагрузку и частные ограничения на тропах.",
+        "sources": [
+          "rio-perdido-hot-river",
+          "rio-perdido-access-road-route",
+          "rio-perdido-three-day-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Río Perdido",
+        "source": "rio-perdido-ict-directory",
+        "note": "Время заезда, маршрут под уровень, допуск без ночёвки и погода. По велосипедам уточните прокат, размер, собственный e-MTB и обязательного гида.",
+        "phone": "+506 2673 3600",
+        "url": "https://www.rioperdido.com/contact-and-location"
+      }
+    ],
+    "nearby": [
+      "rio-perdido-blanco-mtb-4",
+      "rio-perdido-las-tumbas-hike",
+      "rio-perdido-canyon-canopy",
+      "rio-perdido-whitewater-tubing"
+    ],
+    "line": "bagaces-rio-perdido-drive",
+    "track": "rio-perdido-property-map",
+    "galleries": [
+      "rio-perdido-three-day-owner",
+      "rio-perdido-hot-river"
+    ],
+    "videos": [
+      "rio-perdido-activity-film"
+    ]
+  },
+  "boca-tapada-maquenque-wildlife-2": {
+    "stops": [
+      {
+        "point": "north-maquenque-parking",
+        "role": "Парковка перед переправой",
+        "note": "Спросите о часах, багаже и порядке посадки на лодку до заезда."
+      },
+      {
+        "point": "north-maquenque-lodge",
+        "role": "Лодж и район встречи",
+        "note": "Причал или место прогулки назначает гид. Маркер показывает базу на другом берегу."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Переправа и береговые активности",
+        "text": "У лоджа парковка находится перед переправой. Уточните, куда прибыть, способ перевозки багажа и доступ к концу дня. Для первого знакомства с рекой выберите натуралиста в рафте либо лодку по Сан-Карлосу.",
+        "sources": [
+          "north-maquenque-river-park",
+          "maquenque-contact-public",
+          "north-maquenque-experiences"
+        ]
+      },
+      {
+        "title": "Дети и погодный запас",
+        "text": "Перед выездом подтвердите детские жилеты, ограничения по возрасту и изменение программы при высокой воде. Пеший вариант по территории и прогулка с натуралистом дают возможность провести день в том же месте.",
+        "sources": [
+          "north-maquenque-experiences",
+          "maquenque-local-services"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Maquenque Lodge",
+        "source": "maquenque-contact-public",
+        "note": "Место переправы, размеры жилетов, лодж, время гида и условия для детей.",
+        "phone": "+506 2479 8200",
+        "whatsapp": "https://wa.me/50671473860"
+      }
+    ],
+    "nearby": [
+      "maquenque-dawn-birding-walk",
+      "maquenque-tres-amigos-safari-float",
+      "maquenque-san-carlos-river-boat"
+    ],
+    "galleries": [
+      "north-maquenque-publisher",
+      "maquenque-local-services"
+    ],
+    "videos": [
+      "fb-archive-maquenque-wildlife",
+      "north-maquenque-youtube"
+    ]
+  },
+  "olan-utyum-camp-3": {
+    "stops": [
+      {
+        "point": "olan-buenos-aires-town",
+        "role": "Буэнос-Айрес · район пересадки на 4×4",
+        "note": "Согласуйте место стоянки, вещи для лагеря и перевозчика на следующие дни."
+      },
+      {
+        "point": "olan-tours-village",
+        "role": "Олан · деревня и база",
+        "note": "Пеший старт, точка лагеря и поход к вершине определяются проводником."
+      },
+      {
+        "point": "olan-capilla-building",
+        "role": "Capilla de las Nubes · ориентир первого дня",
+        "note": "Полевой отчёт отмечает приют рядом с часовней. У Valhalla это остановка после спуска. Согласуйте время и возможное жильё отдельно."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "25 км с палаткой по программе Valhalla",
+        "text": "В программе Valhalla поздний выезд из Центральной долины, пересадка на 4×4 утром в Буэнос-Айресе, набор к лагерю из Олана и подъём к вершине до рассвета. Местные авторы Qué Buen Lugar тоже сообщают об общей дистанции 25 км, холоде, грязи и серьёзном наборе. Запросите у гида фактическую разбивку этапов.",
+        "sources": [
+          "utyum-valhalla-camp-owner",
+          "utyum-qbl-field-report"
+        ]
+      },
+      {
+        "title": "Альтернативная программа Ticos A Pata",
+        "text": "У Ticos A Pata опубликован черновик на 22 км с другим планом ночёвок. В нём отличаются даты в шапке и тексте. У каждого организатора уточняйте дату, точку лагеря и доступ в горный район.",
+        "sources": [
+          "ticas-utyum-draft-program",
+          "utyum-valhalla-camp-owner"
+        ]
+      },
+      {
+        "title": "Снаряжение для прохладного мокрого высокогорья",
+        "text": "Возьмите тёплые сухие слои, налобный фонарь с запасным питанием, дождевик, гермомешок и подходящую систему сна. Заранее согласуйте воду, питание, перенос снаряжения, возможность костра только на разрешённой площадке и разворот при плохой видимости.",
+        "sources": [
+          "utyum-valhalla-camp-owner",
+          "utyum-qbl-field-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Valhalla Mountains Tours",
+        "source": "utyum-valhalla-camp-owner",
+        "note": "Сбор в Буэнос-Айресе, 4×4, ночёвки, высокогорный лагерь, вещи и актуальные даты.",
+        "url": "https://valhallamodotapir.com/tours/express-cerro-utyum/"
+      },
+      {
+        "name": "Ticos A Pata",
+        "source": "ticos-a-pata-oct-2026-mirror",
+        "note": "Подтвердите опубликованную программу, дату открытия набора, легальные входы и трансфер.",
+        "phone": "+506 8841 8076",
+        "whatsapp": "https://wa.me/50688418076",
+        "url": "https://ticosapata.com/contact/"
+      }
+    ],
+    "nearby": [
+      "olan-capilla-cloud-walk",
+      "olan-el-sitio-local-waterfalls",
+      "olan-tinuk-summit-waterfall-24"
+    ],
+    "galleries": [
+      "utyum-valhalla-camp-owner",
+      "utyum-qbl-field-report"
+    ],
+    "videos": [
+      "utyum-summit-video"
+    ]
+  }
+}

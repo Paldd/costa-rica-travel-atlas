@@ -1,0 +1,241 @@
+[
+  {
+    "id": "rio-perdido-ziplines-hot-river-3",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Рио-Пердидо · три дня с термальной рекой, каньоном и MTB",
+    "native": "Río Perdido · Río Blanco · Adventure Package · San Bernardo de Bagaces",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "thermal",
+      "hiking",
+      "mtb",
+      "cycling",
+      "tubing",
+      "canopy",
+      "river",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "rio-perdido-three-day-owner",
+      "rio-perdido-hot-river",
+      "rio-perdido-hiking-owner",
+      "rio-perdido-mtb-owner",
+      "rio-perdido-access-road-route"
+    ],
+    "summary": "Две ночи в сухолесье возле Багасеса. Сценарий на основе программы Río Perdido с термальными купелями, выбором канопи или тюбинга и возможностью согласовать отдельный велокруг.",
+    "plan": "Приезжайте днём и выделите время на лёгкий выход у каньона. На полный день выберите одну приключенческую программу. На выезде оставьте утро для короткого MTB-круга или прогулки.",
+    "conditions": "Тюбинг заявлен с 12 лет при соблюдении ростовых и других условий. Канопи у оператора с 8 лет. Велокруг, прокат, тип своего велосипеда и доступ в него согласовываются отдельно.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Заезд и термальная река",
+        "note": "Запросите состояние подъезда перед выездом. Заберите схему территории и уточните режим доступа к купелям и наземным дорожкам.",
+        "stops": [
+          "rio-perdido-las-tumbas-hike"
+        ],
+        "sources": [
+          "rio-perdido-access-road-route",
+          "rio-perdido-hot-river",
+          "rio-perdido-three-day-owner"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Каньон Рио-Бланко или тюбинг",
+        "note": "Выберите одну программу по погоде и возрастным условиям. Для группы, которая остаётся на земле, посмотрите лёгкую прогулку Carbonatadas.",
+        "stops": [
+          "rio-perdido-canyon-canopy",
+          "rio-perdido-whitewater-tubing"
+        ],
+        "sources": [
+          "rio-perdido-three-day-owner",
+          "rio-perdido-canyon-owner",
+          "rio-perdido-tubing-owner"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Утренний Río Blanco на велосипеде",
+        "note": "Согласуйте первый круг с проводником и время возврата перед выездом. Для приезда со своим лёгким e-MTB уточните актуальный допуск. При мокром покрытии выберите прогулку по согласованной тропе.",
+        "stops": [
+          "rio-perdido-blanco-mtb-4",
+          "rio-perdido-las-tumbas-hike"
+        ],
+        "sources": [
+          "rio-perdido-mtb-owner",
+          "rio-perdido-hiking-owner"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "boca-tapada-maquenque-wildlife-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Бока-Тапада · два дня с речным сафари и тропами Макенке",
+    "native": "Maquenque Lodge · Boca Tapada · Río Tres Amigos · Río San Carlos",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "hiking",
+      "wildlife",
+      "forest",
+      "river",
+      "boat",
+      "kayak",
+      "rafting",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "maquenque-contact-public",
+      "north-maquenque-experiences",
+      "maquenque-local-services",
+      "north-maquenque-river-park",
+      "fb-archive-maquenque-wildlife"
+    ],
+    "summary": "Семейный выезд с переправой к лоджу, прогулками с натуралистом и выбором речной программы. Раннее утро удобно отвести для наблюдения птиц.",
+    "plan": "Доберитесь до переправы засветло и согласуйте первый короткий выход по территории. На второй день начните с птиц, затем при подходящих условиях выберите рафт, каяк или моторную лодку.",
+    "conditions": "До заезда уточните часы переправы, перевозку багажа и запасную программу при подъёме воды. Для маленьких детей нужны подтверждённый допуск, жилеты подходящего размера и выбранная с гидом продолжительность.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Переправа к Maquenque и ночёвка",
+        "note": "По прибытии свяжитесь с базой, согласуйте лодку от парковки, часы ужина и прогулку по саду. При наличии места на вечерней прогулке запишитесь у гида.",
+        "stops": [
+          "maquenque-dawn-birding-walk"
+        ],
+        "sources": [
+          "north-maquenque-river-park",
+          "maquenque-contact-public",
+          "maquenque-local-services"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Птицы на рассвете и речной выезд",
+        "note": "Выход около 06:00 уточняется у натуралиста. Дальше выберите один подходящий формат на Трес-Амигос либо на Сан-Карлосе. Согласуйте время лодки обратно к парковке.",
+        "stops": [
+          "maquenque-dawn-birding-walk",
+          "maquenque-tres-amigos-safari-float",
+          "maquenque-san-carlos-river-boat"
+        ],
+        "sources": [
+          "north-maquenque-experiences",
+          "maquenque-contact-public"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "olan-utyum-camp-3",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Утьюм из Олана · три дня, 4×4 и ночёвка в горной палатке",
+    "native": "Cerro Utyum · Olán · Buenos Aires de Puntarenas · Valhalla Mountains Tours",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "multi",
+      "hiking",
+      "summit",
+      "camping",
+      "offroad",
+      "forest",
+      "savanna",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "utyum-valhalla-camp-owner",
+      "utyum-qbl-field-report",
+      "ticas-utyum-draft-program",
+      "utyum-summit-video"
+    ],
+    "summary": "Ночной выезд из Центральной долины, пересадка на 4×4 и высокогорный палаточный лагерь. В программе Valhalla и отчёте Qué Buen Lugar около 25 км пешком.",
+    "plan": "Сядьте на вечерний трансфер. Ночью или утром пересядьте на 4×4 в Буэнос-Айресе и начните подъём из Олана. Разбейте палатки на указанной площадке, выйдите к вершине до рассвета и вернитесь через Олан.",
+    "conditions": "У Valhalla и Ticos A Pata разная разбивка дистанции и лагерей. Уточните трек, участок для палаток, питание, воду, минимальный возраст и транспорт на выбранную дату. Ночью в горах нужны тёплый и сухой комплект, налобный фонарь и подходящий спальник.",
+    "distance": 25,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Вечерний выезд из Центральной долины",
+        "note": "Программа Valhalla описывает ночной переезд из Сан-Хосе через Картаго. Подтвердите точку посадки, багаж и время пересадки на 4×4.",
+        "stops": [],
+        "sources": [
+          "utyum-valhalla-camp-owner",
+          "utyum-qbl-field-report"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пересадка на 4×4, Олан и подъём к лагерю",
+        "note": "После раннего завтрака в Олане начните пеший набор. Гид выбирает остановки и точку ночёвки. На стоянке подготовьте сухие вещи и фонарь к утреннему выходу.",
+        "stops": [],
+        "sources": [
+          "utyum-valhalla-camp-owner",
+          "ticas-utyum-draft-program"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Вершина Утьюма и спуск в Олан",
+        "note": "Утренний выход зависит от ветра и видимости. Вернитесь к палаткам и спускайтесь в Олан. Подтвердите время обратного 4×4, чтобы учесть состояние горной дороги.",
+        "stops": [
+          "olan-capilla-cloud-walk"
+        ],
+        "sources": [
+          "utyum-valhalla-camp-owner",
+          "utyum-qbl-field-report",
+          "utyum-summit-video"
+        ]
+      }
+    ]
+  }
+]

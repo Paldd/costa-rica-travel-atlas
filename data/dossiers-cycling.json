@@ -409,6 +409,13 @@
           "catalinas-ride",
           "catalinas-forum-flow"
         ]
+      },
+      {
+        "title": "Полевые заметки местного проката",
+        "text": "Команда Pura Vida Ride описывает регулярные велопрогулки по сети Лас-Каталинас и прокат у Плайя-Данта для гребли в хорошую погоду. В ленте есть фотографии. Для своего велосипеда или спуска с воды уточните текущие местные правила.",
+        "sources": [
+          "catalinas-pvr-public-2026"
+        ]
       }
     ],
     "contacts": [
@@ -424,6 +431,9 @@
       "catalinas-sup",
       "pinilla-emtb",
       "catalinas-old-school-waterfall-emtb"
+    ],
+    "galleries": [
+      "catalinas-pvr-public-2026"
     ]
   },
   "cafe-1743-orosi": {

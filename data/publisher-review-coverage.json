@@ -1,0 +1,219 @@
+{
+  "dayUtc": "2026-11-22",
+  "archives": 74,
+  "archivesRead": 73,
+  "pagesChecked": 130,
+  "pagesRead": 121,
+  "pagesReadToDate": 665,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45032507743",
+  "bySource": {
+    "aguas-claras-activity-index": {
+      "indexed": 6,
+      "read": 6
+    },
+    "arenas-del-mar-activity-index": {
+      "indexed": 9,
+      "read": 9
+    },
+    "caribe-publisher-almonds-articles": {
+      "indexed": 3,
+      "read": 2
+    },
+    "caribe-publisher-banana-routes": {
+      "indexed": 2,
+      "read": 2
+    },
+    "caribe-publisher-cameleon-experiences": {
+      "indexed": 2,
+      "read": 2
+    },
+    "club-rio-activity-index": {
+      "indexed": 10,
+      "read": 9
+    },
+    "costarica-guide-stories-index": {
+      "indexed": 14,
+      "read": 14
+    },
+    "gilded-surf-journal": {
+      "indexed": 12,
+      "read": 12
+    },
+    "north-maquenque-experiences": {
+      "indexed": 2,
+      "read": 2
+    },
+    "pacuare-adventure-index": {
+      "indexed": 10,
+      "read": 7
+    },
+    "parador-manuel-antonio-journal": {
+      "indexed": 10,
+      "read": 10
+    },
+    "pinilla-activity-index": {
+      "indexed": 5,
+      "read": 5
+    },
+    "publisher-adondeircr-guanacaste": {
+      "indexed": 207,
+      "read": 50
+    },
+    "publisher-archive-arenal-rafting": {
+      "indexed": 6,
+      "read": 6
+    },
+    "publisher-archive-arenalmanoa-com": {
+      "indexed": 15,
+      "read": 15
+    },
+    "publisher-archive-artvillas-experiences": {
+      "indexed": 2,
+      "read": 2
+    },
+    "publisher-archive-buena-experience": {
+      "indexed": 5,
+      "read": 3
+    },
+    "publisher-archive-cariblue-activities": {
+      "indexed": 5,
+      "read": 4
+    },
+    "publisher-archive-cool-cr-com": {
+      "indexed": 1,
+      "read": 1
+    },
+    "publisher-archive-copa-drake": {
+      "indexed": 10,
+      "read": 5
+    },
+    "publisher-archive-costaricaexperts-com": {
+      "indexed": 26,
+      "read": 26
+    },
+    "publisher-archive-diamanteecoadventurepark-com": {
+      "indexed": 12,
+      "read": 12
+    },
+    "publisher-archive-guachipelin-com": {
+      "indexed": 10,
+      "read": 10
+    },
+    "publisher-archive-hacienda-orosi": {
+      "indexed": 6,
+      "read": 6
+    },
+    "publisher-archive-hotelbelmar-net": {
+      "indexed": 6,
+      "read": 6
+    },
+    "publisher-archive-jaguar-rescue": {
+      "indexed": 78,
+      "read": 10
+    },
+    "publisher-archive-maverick-reports": {
+      "indexed": 4,
+      "read": 4
+    },
+    "publisher-archive-misticopark-com": {
+      "indexed": 17,
+      "read": 17
+    },
+    "publisher-archive-museo-exhibitions": {
+      "indexed": 33,
+      "read": 5
+    },
+    "publisher-archive-oxygen-adventures": {
+      "indexed": 10,
+      "read": 5
+    },
+    "publisher-archive-ponderosa": {
+      "indexed": 9,
+      "read": 9
+    },
+    "publisher-archive-quebuenlugar-com": {
+      "indexed": 26,
+      "read": 26
+    },
+    "publisher-archive-rescate-sanctuary": {
+      "indexed": 6,
+      "read": 5
+    },
+    "publisher-archive-selvatura-com": {
+      "indexed": 6,
+      "read": 6
+    },
+    "publisher-archive-sky-arenal": {
+      "indexed": 5,
+      "read": 5
+    },
+    "publisher-archive-surfsimply-com": {
+      "indexed": 6,
+      "read": 6
+    },
+    "publisher-archive-ticosapata-com": {
+      "indexed": 67,
+      "read": 65
+    },
+    "publisher-archive-tulemar-experiences": {
+      "indexed": 3,
+      "read": 3
+    },
+    "publisher-archive-vacationscostarica-com": {
+      "indexed": 34,
+      "read": 34
+    },
+    "publisher-archive-vamosaturistear-com": {
+      "indexed": 175,
+      "read": 62
+    },
+    "publisher-archive-visitcostarica-com": {
+      "indexed": 1,
+      "read": 1
+    },
+    "publisher-lafiebre-blog": {
+      "indexed": 7,
+      "read": 7
+    },
+    "publisher-lascatalinas-blog": {
+      "indexed": 6,
+      "read": 6
+    },
+    "publisher-marinapezvela-news": {
+      "indexed": 4,
+      "read": 4
+    },
+    "publisher-site-archive-rioceleste-hideaway": {
+      "indexed": 13,
+      "read": 13
+    },
+    "publisher-site-archive-senderos-toro": {
+      "indexed": 4,
+      "read": 4
+    },
+    "publisher-site-archive-specialplaces": {
+      "indexed": 24,
+      "read": 24
+    },
+    "publisher-site-costa-tours": {
+      "indexed": 14,
+      "read": 13
+    },
+    "rio-perdido-activity-index": {
+      "indexed": 15,
+      "read": 15
+    },
+    "silencio-cloud-forest-journal": {
+      "indexed": 17,
+      "read": 17
+    },
+    "tabacon-fortuna-journal": {
+      "indexed": 12,
+      "read": 12
+    },
+    "undersea-trip-reports": {
+      "indexed": 14,
+      "read": 14
+    }
+  }
+}

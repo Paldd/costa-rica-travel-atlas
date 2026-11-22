@@ -252,6 +252,15 @@
           "cinchona-municipal",
           "cinchona-birds-pin"
         ]
+      },
+      {
+        "title": "Виды с дороги и отдельная тропа к водопаду",
+        "text": "Ролик Conocedores отмечает Mirador Cinchona. Для спуска к основанию Сан-Фернандо проверьте соседнюю частную тропу Cinchona Waterfall Trails. У пешего маршрута отдельный билет и более крутой рельеф.",
+        "sources": [
+          "fb-archive-conocedores-cinchona",
+          "cinchona-trails-operator",
+          "cinchona-soda-road-route"
+        ]
       }
     ],
     "contacts": [
@@ -264,9 +273,13 @@
     ],
     "nearby": [
       "la-paz-waterfalls",
-      "poas"
+      "poas",
+      "cinchona-san-fernando-34"
     ],
-    "track": "cinchona-geo"
+    "track": "cinchona-geo",
+    "videos": [
+      "fb-archive-conocedores-cinchona"
+    ]
   },
   "domos-tajo-alto": {
     "stops": [
