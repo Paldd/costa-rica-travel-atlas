@@ -1,0 +1,536 @@
+{
+  "rio-general-25-guided": {
+    "stops": [
+      {
+        "point": "general-juntas-public-area",
+        "role": "Хунтас-де-Пакуар · район встречи перед посадкой",
+        "note": "Маркер в районе посёлка. Оператор отдельно назначает место встречи и безопасный подъезд к реке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Посадка, финиш и трансфер",
+        "text": "Тур начинается в районе Хунтас-де-Пакуар и заканчивается у Финка-Хенераль. На схеме оператора показано русло участка. В программе перечислены выезды из Сан-Исидро, Доминикаля, Увиты и Мануэль-Антонио. Точный адрес выбирают при бронировании.",
+        "sources": [
+          "general-rafter-25",
+          "general-25-river-guide-map",
+          "ict-autentico-adventures-operator"
+        ]
+      },
+      {
+        "title": "Как провести день",
+        "text": "Оператор приводит расчётную длительность около четырёх с половиной часов и включает экипировку, обед и транспорт. Закладывайте время на инструктаж, оба переезда и возможное ожидание. Архивный дневник другого сплава показывает характер реки при иных условиях.",
+        "sources": [
+          "general-rafter-25",
+          "general-river-paddler-archive",
+          "general-river-high-water-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Autentico Adventures · местная команда",
+        "source": "ict-autentico-adventures-operator",
+        "phone": "+506 2770 2923",
+        "note": "Сверьте участок, уровень воды в день старта, возраст, размер жилета, точный трансфер и требования к участникам."
+      }
+    ],
+    "nearby": [
+      "rio-general-camp-60km-3"
+    ],
+    "galleries": [
+      "general-rafter-25",
+      "general-25-river-guide-map",
+      "general-river-paddler-archive"
+    ],
+    "connectStops": false
+  },
+  "rio-general-camp-60km-3": {
+    "stops": [
+      {
+        "point": "general-juntas-public-area",
+        "role": "Хунтас-де-Пакуар · район встречи перед посадкой",
+        "note": "Маркер в районе посёлка. Оператор отдельно назначает место встречи и безопасный подъезд к реке."
+      },
+      {
+        "point": "olan-buenos-aires-town",
+        "role": "Буэнос-Айрес · дорожный ориентир финишного района",
+        "note": "Место выхода ниже по течению у Брухо. Автомобильный трансфер ждёт в согласованном пункте на реке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Один маршрут в три этапа",
+        "text": "Программа оператора выделяет Хунтас-де-Пакуар, береговые ночёвки и выход у Брухо-де-Буэнос-Айрес. По общей схеме можно увидеть реку и дорожный коридор. Номера точек посадки и лагерей получайте у гида на дату выезда.",
+        "sources": [
+          "general-rafter-60",
+          "general-60-river-guide-map"
+        ]
+      },
+      {
+        "title": "Кемпинг и экипировка",
+        "text": "У оператора заявлены палаточное и рафтинговое снаряжение, питание и переезды. Уточните, что входит в личный комплект, какие спальники есть на базе и сколько объёма можно взять на рафт. Для ночей пригодится сухой комплект одежды, репеллент и налобный фонарь.",
+        "sources": [
+          "general-rafter-60",
+          "ict-autentico-adventures-operator"
+        ]
+      },
+      {
+        "title": "Выбор между 25 и 60 км",
+        "text": "Для 25 км выход находится у Финка-Хенераль. Трёхдневный сплав продолжается значительно дальше, до района Буэнос-Айреса. Технический класс у этих программ заявлен III–IV. Состояние участка проводник определяет по текущему уровню и силе течения.",
+        "sources": [
+          "general-rafter-25",
+          "general-rafter-60"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Autentico Adventures · местная команда",
+        "source": "ict-autentico-adventures-operator",
+        "phone": "+506 2770 2923",
+        "note": "Сверьте участок, уровень воды в день старта, возраст, размер жилета, точный трансфер и требования к участникам."
+      }
+    ],
+    "nearby": [
+      "rio-general-25-guided"
+    ],
+    "galleries": [
+      "general-rafter-60",
+      "general-60-river-guide-map",
+      "general-river-paddler-archive"
+    ],
+    "connectStops": false
+  },
+  "coto-brus-rafting-advanced": {
+    "stops": [
+      {
+        "point": "dominical-eco-feria-stop",
+        "role": "Доминикаль · ориентир для согласования трансфера",
+        "note": "Фактические время и место отправления подтверждает выбранный оператор."
+      },
+      {
+        "point": "frontier-san-vito",
+        "role": "Сан-Вито · снабжение и встреча",
+        "note": "Запаситесь водой, едой и наличными до выезда по местной дороге."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сколько времени заложить",
+        "text": "Enjoy Osa перечисляет первую часть сплава примерно на полтора часа, остановку на обед и ещё около двух часов на воде. Фактическое время зависит от уровня реки. Отдельный оператор продаёт выход из Доминикаля или Увиты.",
+        "sources": [
+          "coto-enjoy-osa-raft-owner",
+          "coto-river-rafting-second-provider"
+        ]
+      },
+      {
+        "title": "Подъезд и требования",
+        "text": "Точку входа и выхода выдаёт команда, поэтому спланируйте трансфер заранее. Уточните наличие шлема, жилета, места для сухого пакета и возврата к машине. Закрытая обувь и запас сухой одежды пригодятся после высадки.",
+        "sources": [
+          "coto-enjoy-osa-raft-owner",
+          "south-coto-catuosa-partner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Enjoy Osa · выход на Coto Brus",
+        "source": "coto-enjoy-osa-raft-owner",
+        "phone": "+506 8946 7134",
+        "whatsapp": "https://wa.me/50689467134",
+        "note": "Уточните фактический выезд, встречу, возраст, сезон, уровень воды и входящий в программу транспорт."
+      }
+    ],
+    "nearby": [
+      "rio-guabo-baru-14-raft",
+      "coto-brus-metaponto-5km"
+    ],
+    "galleries": [
+      "coto-enjoy-osa-raft-owner",
+      "south-coto-catuosa-partner"
+    ],
+    "connectStops": false
+  },
+  "rio-guabo-baru-14-raft": {
+    "stops": [
+      {
+        "point": "platanillo",
+        "role": "Платанильо · ориентир района Бару",
+        "note": "Вход El Guabo и выход Puente División Barú подтверждают у проводника. Пин помогает выбрать район базы."
+      },
+      {
+        "point": "dominical-eco-feria-stop",
+        "role": "Доминикаль · ориентир для согласования трансфера",
+        "note": "Фактические время и место отправления подтверждает выбранный оператор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Длина и где встречаться",
+        "text": "Оператор указывает названия El Guabo и Puente División Barú в текстовой программе. Схема на той же странице подписана Río Savegre. Для встречи используйте координаты от команды и подтверждённое название выбранной реки.",
+        "sources": [
+          "general-autentico-guabo-14",
+          "baru-platanillo-regional-news"
+        ]
+      },
+      {
+        "title": "Уровень группы и снаряжение",
+        "text": "Уточните правила для ребёнка от 12 лет и участников первого сплава. Попросите объяснить, какие пороги предстоят при текущей воде. Из личного снаряжения возьмите закрытую обувь, питьё и сухой комплект на обратный путь.",
+        "sources": [
+          "general-autentico-guabo-14",
+          "guabo-actual-rider-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Autentico Adventures · местная команда",
+        "source": "ict-autentico-adventures-operator",
+        "phone": "+506 2770 2923",
+        "note": "Сверьте участок, уровень воды в день старта, возраст, размер жилета, точный трансфер и требования к участникам."
+      }
+    ],
+    "nearby": [
+      "coto-brus-rafting-advanced",
+      "savegre-abajo-family-14"
+    ],
+    "galleries": [
+      "guabo-actual-rider-video",
+      "baru-platanillo-regional-news"
+    ],
+    "connectStops": false
+  },
+  "coto-brus-metaponto-5km": {
+    "stops": [
+      {
+        "point": "frontier-san-vito",
+        "role": "Сан-Вито · снабжение и встреча",
+        "note": "Запаситесь водой, едой и наличными до выезда по местной дороге."
+      },
+      {
+        "point": "rural-agua-buena-road-end",
+        "role": "Агуа-Буэна · дорожный ориентир",
+        "note": "Свяжитесь с командой до финального подъезда к тропе."
+      },
+      {
+        "point": "south-metaponto-waterfall-reference",
+        "role": "Метапонто · ориентир из отчёта Que Buen Lugar",
+        "note": "Точка показывает водопад. Дорогу до старта тропы и порядок входа сообщает проводник."
+      }
+    ],
+    "sections": [
+      {
+        "title": "5 км с техническим спуском",
+        "text": "У Qué Buen Lugar описан мокрый и крутой трек. После дождя оценка темпа обычного семейного похода неприменима. Перед поездкой спросите гида об открытой точке разворота и варианте с видом без спуска под водопад.",
+        "sources": [
+          "south-metaponto-qbl-notes",
+          "south-metaponto-qbl-english"
+        ]
+      },
+      {
+        "title": "Где встречаться и что проверить",
+        "text": "Из Сан-Вито до Агуа-Буэны показывает маршрут района. Пин водопада из отчёта служит географическим ориентиром. Гид назначает начальную точку тропы и последнюю часть подъезда. В статье и видео есть фото и вид подхода.",
+        "sources": [
+          "south-metaponto-qbl-notes",
+          "south-metaponto-agua-buena-video",
+          "south-coto-catuosa-partner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Descubriendo Coto Brus · местный проводник",
+        "source": "south-metaponto-qbl-notes",
+        "phone": "+506 8985 7939",
+        "whatsapp": "https://wa.me/50689857939",
+        "note": "Контакт опубликован в отчёте. Подтвердите действующий номер, допуск к тропе, состояние моста или переправы, время встречи и автомобиль."
+      }
+    ],
+    "nearby": [
+      "finca-palo-hueco-coto-brus",
+      "san-vito-agua-buena-cycling",
+      "coto-brus-camp-ride-metaponto-3"
+    ],
+    "galleries": [
+      "south-metaponto-qbl-notes",
+      "south-metaponto-qbl-english",
+      "south-metaponto-agua-buena-video"
+    ],
+    "connectStops": false
+  },
+  "finca-palo-hueco-coto-brus": {
+    "stops": [
+      {
+        "point": "south-mellizas-region-reference",
+        "role": "Лас-Мельисас · ориентир района фермы",
+        "note": "Точный въезд к палаточной площадке запросите по телефону перед выездом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка и местная прогулка",
+        "text": "На ферме описаны тропы, природные виды и места для палаточного отдыха. Уточните длительность открытого круга, наличие навеса и порядок использования воды.",
+        "sources": [
+          "south-coto-muni-palo-hueco",
+          "south-coto-camping-palo-hueco"
+        ]
+      },
+      {
+        "title": "Что нужно от машины",
+        "text": "Дорога к ферме требует согласования, особенно после нескольких дождливых дней. Пин относится к посёлку, а точку въезда хозяева дают отдельно. Для машины с палаткой на крыше спросите про ширину последнего подъезда, разворот и ровное место.",
+        "sources": [
+          "south-mellizas-town-sector",
+          "south-coto-muni-palo-hueco",
+          "south-coto-camping-palo-hueco"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Palo Hueco · ферма и палаточные места",
+        "source": "south-coto-muni-palo-hueco",
+        "phone": "+506 8729 7461",
+        "whatsapp": "https://wa.me/50687297461",
+        "note": "Запросите точку заезда, манёвры для машины, воду, допустимость крыши или горелки и условия в дождь."
+      }
+    ],
+    "nearby": [
+      "coto-brus-metaponto-5km",
+      "coto-brus-camp-ride-metaponto-3"
+    ],
+    "galleries": [
+      "south-coto-muni-palo-hueco",
+      "south-coto-camping-palo-hueco"
+    ],
+    "connectStops": false
+  },
+  "coto-brus-camp-ride-metaponto-3": {
+    "stops": [
+      {
+        "point": "frontier-san-vito",
+        "role": "Сан-Вито · снабжение и встреча",
+        "note": "Запаситесь водой, едой и наличными до выезда по местной дороге."
+      },
+      {
+        "point": "south-mellizas-region-reference",
+        "role": "Лас-Мельисас · ориентир района фермы",
+        "note": "Точный въезд к палаточной площадке запросите по телефону перед выездом."
+      },
+      {
+        "point": "rural-agua-buena-road-end",
+        "role": "Агуа-Буэна · дорожный ориентир",
+        "note": "Свяжитесь с командой до финального подъезда к тропе."
+      },
+      {
+        "point": "south-metaponto-waterfall-reference",
+        "role": "Метапонто · ориентир из отчёта Que Buen Lugar",
+        "note": "Точка показывает водопад. Дорогу до старта тропы и порядок входа сообщает проводник."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сколько ехать и где оставить лагерь",
+        "text": "Кемпинг в Лас-Мельисас и велостарт в Сан-Вито находятся в разных районах кантона. На велодень нужен перенос велосипедов на машине или согласованный трансфер. В отдельной велокарточке есть дорожный GPX.",
+        "sources": [
+          "south-coto-muni-palo-hueco",
+          "south-coto-catuosa-partner",
+          "rural-south-osm-roads"
+        ]
+      },
+      {
+        "title": "Семья и запас на непогоду",
+        "text": "Метапонто требует устойчивости на крутой тропе. Для семейного варианта выберите меньшую группу с проводником либо ограничьтесь открытой прогулкой вокруг фермы. Уточняйте место и подъезд до выезда с основной дороги.",
+        "sources": [
+          "south-metaponto-qbl-notes",
+          "south-coto-camping-palo-hueco"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Palo Hueco · ферма и палаточные места",
+        "source": "south-coto-muni-palo-hueco",
+        "phone": "+506 8729 7461",
+        "whatsapp": "https://wa.me/50687297461",
+        "note": "Запросите точку заезда, манёвры для машины, воду, допустимость крыши или горелки и условия в дождь."
+      },
+      {
+        "name": "Descubriendo Coto Brus · местный проводник",
+        "source": "south-metaponto-qbl-notes",
+        "phone": "+506 8985 7939",
+        "whatsapp": "https://wa.me/50689857939",
+        "note": "Контакт опубликован в отчёте. Подтвердите действующий номер, допуск к тропе, состояние моста или переправы, время встречи и автомобиль."
+      }
+    ],
+    "nearby": [
+      "finca-palo-hueco-coto-brus",
+      "san-vito-agua-buena-cycling",
+      "coto-brus-metaponto-5km",
+      "san-vito-fila-guinea-gravel"
+    ],
+    "galleries": [
+      "south-coto-muni-palo-hueco",
+      "south-metaponto-qbl-notes",
+      "south-metaponto-agua-buena-video"
+    ],
+    "connectStops": false
+  },
+  "tilaran-tronadora-ebike-road": {
+    "stops": [
+      {
+        "point": "tilaran",
+        "role": "Тиларан · старт в центре",
+        "note": "Проверка велосипеда, воды и батареи перед подъёмами."
+      },
+      {
+        "point": "tronadora-town",
+        "role": "Тронадора · остановка в посёлке",
+        "note": "Здесь легко укоротить поездку, развернуться или сверить подъезд к берегу."
+      },
+      {
+        "point": "north-tronadora-peninsula-road-end",
+        "role": "Подъезд к берегу Тронадоры · разворот GPX",
+        "note": "Конец дорожной линии вблизи кемпинга. Заезд на саму площадку согласуйте с хозяевами."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Куда ведёт линия",
+        "text": "GPX соединяет Тиларан, Тронадору и дорожный конец у кемпинга через Santa Rosa, Calle Santa Marta и местные улицы. В центре Тронадоры можно закончить поездку раньше. Карта показывает основной проезд и место разворота возле берега.",
+        "sources": [
+          "north-tilaran-road-e-bike-map",
+          "tilaran-tronadora",
+          "north-tilaran-road-926-report"
+        ]
+      },
+      {
+        "title": "Свой e-bike или подбор у оператора",
+        "text": "Для самостоятельного выезда привезите подходящий велосипед, замок, фонари, камеру и насос. Quercus Travel публикует частные e-bike-программы в разных секторах озера. Для этого выезда согласуйте доставку или размер рамы отдельно.",
+        "sources": [
+          "quercus-arenal-ebike",
+          "quercus-travel-contact",
+          "north-tilaran-local-town-guide"
+        ]
+      },
+      {
+        "title": "Местный отчёт и более длинный вариант",
+        "text": "В Wikiloc есть отдельный круг Tronadora/Tilarán на 23,16 км. Его фотографии помогают оценить характер окрестностей. Для проезда по этому кругу отдельно сверяйте участки и доступ.",
+        "sources": [
+          "north-tilaran-rider-tronadora",
+          "north-tilaran-lake-access-directions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Quercus Travel · e-bike в районе озера",
+        "source": "quercus-travel-contact",
+        "phone": "+506 8986 2299",
+        "email": "reservas@quercustravel.com",
+        "note": "Согласуйте западный сектор, раму, батарею, комплект и получение либо доставку велосипеда. Этот дорожный маршрут в атласе можно пройти и на своём велосипеде."
+      },
+      {
+        "name": "Campamento La Tronadora · подъезд и палатки",
+        "source": "camp-tronadora",
+        "note": "Сверьте место для машины с крышей, сезон, заезд с прицепом и возможность зарядить батарею на площадке."
+      }
+    ],
+    "nearby": [
+      "tronadora-roof",
+      "arenal-roof-ebike-own-paddle-3",
+      "arenal-private-ebike-2-6"
+    ],
+    "galleries": [
+      "north-tilaran-rider-tronadora",
+      "north-tilaran-local-town-guide"
+    ],
+    "photos": [
+      "arenal-open-aerial"
+    ],
+    "line": "north-tilaran-tronadora-cycle-road"
+  },
+  "arenal-roof-ebike-own-paddle-3": {
+    "stops": [
+      {
+        "point": "tronadora-camp",
+        "role": "Campamento La Tronadora · палатка на крыше",
+        "note": "Подтвердите место и часы заезда. Зарядку батареи согласуйте отдельно."
+      },
+      {
+        "point": "tilaran",
+        "role": "Тиларан · старт в центре",
+        "note": "Проверка велосипеда, воды и батареи перед подъёмами."
+      },
+      {
+        "point": "tronadora-town",
+        "role": "Тронадора · остановка в посёлке",
+        "note": "Здесь легко укоротить поездку, развернуться или сверить подъезд к берегу."
+      },
+      {
+        "point": "north-tronadora-peninsula-road-end",
+        "role": "Подъезд к берегу Тронадоры · разворот GPX",
+        "note": "Конец дорожной линии вблизи кемпинга. Заезд на саму площадку согласуйте с хозяевами."
+      },
+      {
+        "point": "nuevo-arenal-parque-lago-ramp",
+        "role": "Parque del Lago · рампа для спуска лодки",
+        "note": "Проверьте ветер, уровень, местный допуск и возможность оставить машину у рампы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кемпинг и подвоз снаряжения",
+        "text": "У кемпинга оставьте крышную палатку на подтверждённом месте. Велосипеды и лодку перевозите закреплёнными отдельно. Если нужен электропрокат, согласуйте приём у базы или подвоз к Тиларану раньше дня выезда.",
+        "sources": [
+          "camp-tronadora",
+          "quercus-travel-contact",
+          "north-tilaran-lake-access-directions"
+        ]
+      },
+      {
+        "title": "Где выйти на воду",
+        "text": "У Parque del Lago есть береговая рампа. Её состояние, парковку и правила спуска уточняйте по условиям дня. На воде пригодятся жилет, сухой мешок, питьё и защита от солнца. Береговой участок выбирайте вместе с опытным участником.",
+        "sources": [
+          "nuevo-arenal-ramp-locals-day",
+          "nuevo-arenal-ramp-town-field",
+          "tilaran-lago-arenal-visitor-conditions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Campamento La Tronadora · подъезд и палатки",
+        "source": "camp-tronadora",
+        "note": "Сверьте место для машины с крышей, сезон, заезд с прицепом и возможность зарядить батарею на площадке."
+      },
+      {
+        "name": "Quercus Travel · e-bike в районе озера",
+        "source": "quercus-travel-contact",
+        "phone": "+506 8986 2299",
+        "email": "reservas@quercustravel.com",
+        "note": "Согласуйте западный сектор, раму, батарею, комплект и получение либо доставку велосипеда. Этот дорожный маршрут в атласе можно пройти и на своём велосипеде."
+      },
+      {
+        "name": "Муниципалитет Тиларана · район озера",
+        "source": "tilaran-water-access-contact",
+        "note": "Запросите актуальные условия у площадки и правила для спуска своей доски или каяка."
+      }
+    ],
+    "nearby": [
+      "tronadora-roof",
+      "tilaran-tronadora-ebike-road",
+      "nuevo-arenal-parque-lago-own",
+      "arenal-local-roof-paddle-2"
+    ],
+    "galleries": [
+      "camp-tronadora",
+      "north-tilaran-rider-tronadora",
+      "nuevo-arenal-ramp-locals-day"
+    ],
+    "photos": [
+      "arenal-open-aerial"
+    ],
+    "line": "north-tilaran-tronadora-cycle-road"
+  }
+}

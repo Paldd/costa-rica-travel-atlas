@@ -15,6 +15,9 @@ ALIASES = {
     "murcielago-bat-islands-scuba": ("islas murcielago", "bat islands"),
     "ometepe-san-jorge-ferry": ("ferry a moyogalpa", "san jorge moyogalpa"),
     "ometepe-charco-verde-walk": ("reserva natural charco verde", "charco verde"),
+    "rio-general-25-guided": ("finca general",),
+    "rio-general-camp-60km-3": ("brujo de buenos aires",),
+    "rio-guabo-baru-14-raft": ("puente division baru",),
 
     "sabana-oka": ("sabanas oka", "sabana oka", "sabanas de oka"),
     "chirripo": ("cerro chirripo", "parque nacional chirripo", "chirripo"),

@@ -1,0 +1,246 @@
+[
+  {
+    "id": "rio-general-camp-60km-3",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Рио-Хенераль · 60 км рафтинга и две ночёвки за три дня",
+    "native": "Río General · Juntas de Pacuar · Brujo de Buenos Aires · Campamento",
+    "level": "expedition",
+    "days": 3,
+    "activities": [
+      "multi",
+      "rafting",
+      "boat",
+      "camping",
+      "river",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "general-rafter-60",
+      "general-60-river-guide-map",
+      "ict-autentico-adventures-operator",
+      "general-juntas-public-landmark",
+      "general-river-paddler-archive"
+    ],
+    "summary": "Экспедиция от Хунтас-де-Пакуар до сектора Брухо-де-Буэнос-Айрес. Оператор указывает 60 км по реке, пороги III–IV, три ходовых дня и береговые ночёвки.",
+    "plan": "Договоритесь о месте встречи, возрасте и опыте каждого участника. Подтвердите комплект палаток, спальников и гермомешков. Разложите личные лекарства и одежду для лагеря в сухие пакеты.",
+    "conditions": "Возраст у оператора от 14 лет. Размещение лагерей и безопасный формат определяет проводник по текущей воде и доступу к берегу. Надувное снаряжение и комплект спасения проверяют перед посадкой.",
+    "distance": 60,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Хунтас-де-Пакуар · первый день на реке",
+        "note": "Инструктаж, стартовый участок и первый береговой лагерь. Оператор ориентируется примерно на 20 км первого выхода.",
+        "stops": [],
+        "sources": [
+          "general-rafter-60",
+          "general-juntas-public-landmark"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пороги и переход ко второй стоянке",
+        "note": "Разобрать лагерь, пройти второй участок около 20 км по программе и встать на согласованную ночёвку.",
+        "stops": [],
+        "sources": [
+          "general-rafter-60"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Нижний участок и встреча трансфера у Брухо",
+        "note": "Собрать лагерь, пройти нижний участок, встретить машину в согласованной точке. Время возвращения зависит от воды и транспорта.",
+        "stops": [],
+        "sources": [
+          "general-rafter-60",
+          "general-60-river-guide-map"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coto-brus-camp-ride-metaponto-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Кото-Брус за три дня · палатка, веломаршрут и поход к Метапонто",
+    "native": "San Vito · Las Mellizas · Finca Palo Hueco · Agua Buena · Catarata Metaponto",
+    "level": "hard",
+    "days": 3,
+    "activities": [
+      "multi",
+      "camping",
+      "cycling",
+      "mtb",
+      "hiking",
+      "waterfall",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "south-coto-muni-palo-hueco",
+      "south-coto-camping-palo-hueco",
+      "south-metaponto-qbl-notes",
+      "south-metaponto-qbl-english",
+      "south-coto-catuosa-partner",
+      "rural-south-osm-roads"
+    ],
+    "summary": "Три дня по сельским дорогам и тропам Кото-Бруса. Палаточная база на ферме Лас-Мельисас, 26,1 км на велосипеде от Сан-Вито до Агуа-Буэны и дневной поход к Метапонто.",
+    "plan": "Согласуйте лагерный заезд и проводника отдельно. В первый день обустройте лагерь. На велодень перевозите велосипеды к Сан-Вито. Перед походом перепроверьте дорогу и прогноз вместе с проводником.",
+    "conditions": "После ливней последние дороги к кемпингу и спуск к водопаду могут закрыть. Держите возможность остаться на основной дороге и сократить поход. Палатка на крыше и использование огня требуют подтверждения хозяина.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сан-Вито и палаточный лагерь у Лас-Мельисас",
+        "note": "Купить продукты и питьевую воду. Получить точку въезда, поставить палатку и пройти открытую короткую тропу фермы.",
+        "stops": [
+          "finca-palo-hueco-coto-brus"
+        ],
+        "sources": [
+          "south-coto-muni-palo-hueco",
+          "south-coto-camping-palo-hueco"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Велопоездка Сан-Вито — Агуа-Буэна",
+        "note": "Довезти велосипеды до старта. Проехать дорожный маршрут 26,1 км с возвратом, затем вернуться к лагерю на машине.",
+        "stops": [
+          "san-vito-agua-buena-cycling"
+        ],
+        "sources": [
+          "rural-south-osm-roads",
+          "south-coto-catuosa-partner"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Поход к Метапонто и выезд",
+        "note": "Встретиться с местным проводником. Пройти доступный участок тропы и выехать днём с запасом времени на дорогу.",
+        "stops": [
+          "coto-brus-metaponto-5km"
+        ],
+        "sources": [
+          "south-metaponto-qbl-notes",
+          "south-metaponto-qbl-english"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arenal-roof-ebike-own-paddle-3",
+    "kind": "trip",
+    "region": "north",
+    "title": "Запад Ареналя · три дня с крышной палаткой, e-bike и своим SUP или каяком",
+    "native": "Campamento La Tronadora · Tilarán · Tronadora · Parque del Lago Nuevo Arenal",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "multi",
+      "camping",
+      "rooftent",
+      "cycling",
+      "ebike",
+      "kayak",
+      "sup",
+      "own-craft",
+      "lake",
+      "views",
+      "relax"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof"
+    ],
+    "sources": [
+      "camp-tronadora",
+      "tilaran-tronadora",
+      "north-tilaran-road-e-bike-map",
+      "tilaran-lago-arenal-visitor-conditions",
+      "nuevo-arenal-ramp-town-field",
+      "nuevo-arenal-ramp-locals-day"
+    ],
+    "summary": "База в Campamento La Tronadora, велодень на 16,9 км и гребля с собственной доской или каяком у рампы Parque del Lago. Три дня дают время дождаться подходящих условий на воде.",
+    "plan": "Уточните два места для ночёвки и зарядку батареи. В велодень довезите велосипеды к старту либо начните у Тронадоры и закончите на той же стороне. К рампе Нуэво-Ареналя переезжайте по береговой дороге.",
+    "conditions": "Ветер и волна на водохранилище меняются. Проверяйте допуск, рампу и условия на месте. Для неопытных гребцов выбирайте спокойный выход около берега либо перенесите старт. Линия GPX в карточке относится к велодню.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Заезд в La Tronadora",
+        "note": "Подтвердить ровное место для машины с крышей, порядок выезда к озеру и пригодность розетки. Прогуляться по берегу при подходящей воде.",
+        "stops": [
+          "tronadora-roof"
+        ],
+        "sources": [
+          "camp-tronadora",
+          "tilaran-tronadora"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Тиларан — Тронадора на e-bike",
+        "note": "Перевезти велосипеды к удобному старту. Проехать 16,9 км в составе опытной для общей дороги группы или развернуться у посёлка.",
+        "stops": [
+          "tilaran-tronadora-ebike-road"
+        ],
+        "sources": [
+          "north-tilaran-road-e-bike-map",
+          "north-tilaran-rider-tronadora"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Утро со своей лодкой или доской",
+        "note": "Переехать к Parque del Lago. Надеть жилеты, проверить уровень и ветер. При спокойной воде грести вдоль берега у рампы и закончить до усиления ветра.",
+        "stops": [
+          "nuevo-arenal-parque-lago-own"
+        ],
+        "sources": [
+          "tilaran-lago-arenal-visitor-conditions",
+          "nuevo-arenal-ramp-town-field"
+        ]
+      }
+    ]
+  }
+]

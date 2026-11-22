@@ -24,8 +24,10 @@ SKIP = {
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
 SECTION_PATH = re.compile(r"/(?:author|authors|category|categoria|tag|tags|page|search)(?:/|$)", re.I)
 MIN_BODY_CHARS = 350
-ARTICLE_BODY_CLASSES = {"blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg"}
-EXTRACTOR_VERSION = 5
+ARTICLE_BODY_CLASSES = {
+    "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg",
+}
+EXTRACTOR_VERSION = 6
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
 
