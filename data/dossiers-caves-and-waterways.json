@@ -523,6 +523,11 @@
   "cedros-playa-luminosa-island-camp": {
     "stops": [
       {
+        "point": "cedros-sitios-ticos-departure",
+        "role": "Пунтаренас · точка встречи Sitios Ticos",
+        "note": "Пин из программы Sitios Ticos. Для другой компании запросите её собственную точку сбора."
+      },
+      {
         "point": "cedros-island-reference-point",
         "role": "Седрос · островной ориентир",
         "note": "Лагерь находится на Плайя-Луминоса. Экипаж подтверждает точку высадки и возврата."
@@ -551,6 +556,15 @@
           "costa-tours-luminosa-overnight",
           "incopesca-angling-card"
         ]
+      },
+      {
+        "title": "Две программы и место посадки",
+        "text": "Costa Tours описывает трансфер и оснащённую палатку, свободные даты уточняйте напрямую. Sitios Ticos указывает посадку с Пунтаренаса, палатку с матрасом, питание и выход на биолюминесценцию на лодке. В ноябре 2026 на странице было 60 500 CRC плюс IVA при отправлении с причала. Попросите написать итоговую сумму для каждого ребёнка: возрастные условия в тексте и тарифной таблице расходятся.",
+        "sources": [
+          "costa-tours-luminosa-overnight",
+          "cedros-sitios-ticos-camp",
+          "cedros-vamos-photoessay"
+        ]
       }
     ],
     "contacts": [
@@ -559,11 +573,21 @@
         "source": "costa-tours-luminosa-overnight",
         "note": "Уточните город сбора, трансфер, детский возраст, место высадки и наличие палаток.",
         "url": "https://costatourscr.com/es/tour/camping-bioluminiscente-2-dias/"
+      },
+      {
+        "name": "Sitios Ticos · Седрос",
+        "source": "cedros-sitios-ticos-camp",
+        "note": "Уточните подтверждённые даты, место в лодке, детский тариф с налогом и посадку с берега.",
+        "url": "https://wa.me/50688713401",
+        "phone": "+506 8871 3401",
+        "email": "info@SitiosTicos.cr"
       }
     ],
     "galleries": [
       "costa-tours-luminosa-overnight",
-      "costa-tours-luminosa-day"
+      "costa-tours-luminosa-day",
+      "cedros-vamos-photoessay",
+      "cedros-sitios-ticos-camp"
     ],
     "videos": [
       "cedros-luminosa-field-video"
@@ -835,6 +859,11 @@
         "point": "cedros-island-reference-point",
         "role": "Седрос · ориентир острова",
         "note": "Точный береговой вход даёт оператор."
+      },
+      {
+        "point": "cedros-sitios-ticos-departure",
+        "role": "Пунтаренас · точка встречи Sitios Ticos",
+        "note": "Пин из программы Sitios Ticos. Для другой компании запросите её собственную точку сбора."
       }
     ],
     "sections": [
@@ -860,6 +889,15 @@
           "costa-tours-luminosa-day",
           "cedros-ict-nicoya-tourism"
         ]
+      },
+      {
+        "title": "Две программы и место посадки",
+        "text": "Costa Tours описывает трансфер и оснащённую палатку, свободные даты уточняйте напрямую. Sitios Ticos указывает посадку с Пунтаренаса, палатку с матрасом, питание и выход на биолюминесценцию на лодке. В ноябре 2026 на странице было 60 500 CRC плюс IVA при отправлении с причала. Попросите написать итоговую сумму для каждого ребёнка: возрастные условия в тексте и тарифной таблице расходятся.",
+        "sources": [
+          "costa-tours-luminosa-overnight",
+          "cedros-sitios-ticos-camp",
+          "cedros-vamos-photoessay"
+        ]
       }
     ],
     "contacts": [
@@ -868,10 +906,20 @@
         "source": "costa-tours-luminosa-overnight",
         "note": "Уточните город сбора, трансфер, детский возраст, место высадки и наличие палаток.",
         "url": "https://costatourscr.com/es/tour/camping-bioluminiscente-2-dias/"
+      },
+      {
+        "name": "Sitios Ticos · Седрос",
+        "source": "cedros-sitios-ticos-camp",
+        "note": "Уточните подтверждённые даты, место в лодке, детский тариф с налогом и посадку с берега.",
+        "url": "https://wa.me/50688713401",
+        "phone": "+506 8871 3401",
+        "email": "info@SitiosTicos.cr"
       }
     ],
     "galleries": [
-      "costa-tours-luminosa-overnight"
+      "costa-tours-luminosa-overnight",
+      "cedros-vamos-photoessay",
+      "cedros-sitios-ticos-camp"
     ],
     "videos": [
       "cedros-luminosa-field-video"

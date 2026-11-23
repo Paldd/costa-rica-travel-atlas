@@ -174,7 +174,7 @@ punta-uva-view-point	Punta Uva · ориентир мирадора	9.6411138	-8
 punta-uva-shore-area	Punta Uva · береговой ориентир	9.641637	-82.688293	osm-cr-points
 manzanillo-refugio-entry	Manzanillo · подход в сектор заказника	9.6358327	-82.6526309	osm-cr-points
 manzanillo-viewpoint	Mirador de Manzanillo · береговой ориентир	9.6398702	-82.6492766	osm-cr-points
-jaguar-rescue-gate	Jaguar Rescue Center · вход в Cocles	9.642115	-82.723328	osm-cr-points
+jaguar-rescue-gate	Jaguar Rescue Center · ориентир от центра	9.641894	-82.723729	jaguar-arrival-contact
 avesol-river-lodge	Ave Sol River Sanctuary · база у реки	9.997703	-83.538057	osm-cr-points
 avellanas-camp-area	Playa Avellanas · дорожный ориентир	10.231272	-85.833733	osm-cr-points
 barra-honda-ranger-area	Barra Honda · ориентир зоны парка	10.176011	-85.37215	osm-cr-points
@@ -982,3 +982,4 @@ pelada-forest-street-exit	Выход из леса к улицам Пелады	
 garza-bay-water-reference	Bahía Garza · ориентир акватории	9.9043973	-85.6431909	osm-cr-points
 garza-route160-approach	Ruta 160 · подъезд к береговому сектору Гарсы	9.910365	-85.642429	nosara-pelada-garza-road-osm
 garza-mirella-property	Camping Mirella · пин участка у бухты	9.9100368	-85.6417523	garza-mirella-road-map
+cedros-sitios-ticos-departure	Puntarenas · точка сбора Sitios Ticos	9.979418	-84.834412	cedros-sitios-ticos-camp

@@ -1291,7 +1291,6 @@
         {
           "checked": "2026-11-23",
           "published": "2023-02-16",
-          "readThisRun": true,
           "title": "KAIA SMART FOOD",
           "url": "https://adondeircr.com/san-jose/kaia-smart-food/?c1"
         },
@@ -1304,30 +1303,61 @@
         {
           "checked": "2026-11-23",
           "published": "2023-02-15",
-          "readThisRun": true,
           "title": "GIVEAWAY",
           "url": "https://adondeircr.com/cartago/giveaway/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-02-14",
-          "readThisRun": true,
           "title": "En Costa Rica hay playas en las que puedes apreciar la Biolomuniscencia y durante todo el año",
           "url": "https://adondeircr.com/puntarenas/en-costa-rica-hay-playas-en-las-que-puedes-apreciar-la-biolomuniscencia-y-durante-todo-el-ano/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-12-29",
-          "readThisRun": true,
           "title": "Municipalidad de Curridabat prohíbe uso y venta de pólvora sonora",
           "url": "https://adondeircr.com/san-jose/municipalidad-de-curridabat-prohibe-uso-y-venta-de-polvora-sonora/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-12-28",
-          "readThisRun": true,
           "title": "Al mejor estilo de Disney: Parque de diversión inauguró mega atracción",
           "url": "https://adondeircr.com/san-jose/al-mejor-estilo-de-disney-parque-de-diversion-inauguro-mega-atraccion/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-12-03",
+          "readThisRun": true,
+          "title": "Ya salieron a la venta las entradas para Palmares y estos son los precios",
+          "url": "https://adondeircr.com/alajuela/ya-salieron-a-la-venta-las-entradas-para-palmares-y-estos-son-los-precios/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-12-03",
+          "readThisRun": true,
+          "title": "Parque de diversiones saca el nuevo “pase estelar” y cuesta solo 5750 colones",
+          "url": "https://adondeircr.com/san-jose/parque-de-diversiones-saca-el-nuevo-pase-estelar-y-cuesta-solo-5750-colones/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-11-20",
+          "readThisRun": true,
+          "title": "Atención: Tras dos años de suspensión, San Joaquín se volverá a llenar de luz y magia navideña",
+          "url": "https://adondeircr.com/heredia/atencion-tras-dos-anos-de-suspension-san-joaquin-se-volvera-a-llenar-de-luz-y-magia-navidena/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-11-04",
+          "readThisRun": true,
+          "title": "¿Va para Parque Diversiones? Ya no puede llevar los siguientes alimentos",
+          "url": "https://adondeircr.com/san-jose/va-para-parque-diversiones-ya-no-puede-llevar-los-siguientes-alimentos/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-10-26",
+          "readThisRun": true,
+          "title": "Para este miércoles, expertos prevén que lluvias disminuirán en algunos sectores del país",
+          "url": "https://adondeircr.com/heredia/para-este-miercoles-expertos-preven-que-lluvias-disminuiran-en-algunos-sectores-del-pais/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -1630,7 +1660,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 75
+      "read": 80
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
@@ -2314,7 +2344,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Why Saving the Rainforest Matters",
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/124/WhySavingRainforestMatters"
         },
@@ -2325,8 +2354,26 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Public Tour - 2 Hour",
+          "url": "https://www.jaguarrescue.foundation/en-us/SupportUs/Tours/PublicTour"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Private Tour",
+          "url": "https://www.jaguarrescue.foundation/en-us/SupportUs/Tours/PrivateTour"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "More than 700 Wild Animals Rescued So Far in 2026",
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/127/More700WildAnimalsRescuedSoFar2026"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "La Ceiba Primary Forest Foundation",
+          "url": "https://www.jaguarrescue.foundation/en-us/AboutJRC/LaCeibaPrimaryForestFoundation"
         },
         {
           "checked": "2026-11-23",
@@ -2344,12 +2391,24 @@
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/129/RescueToTheWildJourneyMonkeyBackToFreedom"
         },
         {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "From Fragile Baby to Fearless Monkey: Kembi’s Journey",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/123/FromFragileBabyToFearlessMokeyKembiJourney"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "An Ocelot’s Journey Back to the Wild",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/122/OcelotJourneyBackToTheWild"
+        },
+        {
           "checked": "2026-11-22",
           "title": "Planting Trees, Restoring Habitats: Rewilding Playa Manzanillo",
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/130/PlantingTreesRestoringHabitatsRewildingPlayaManzanillo"
         }
       ],
-      "read": 7
+      "read": 12
     },
     "publisher-archive-kstr-rescue-news": {
       "indexed": 2,
@@ -2369,8 +2428,15 @@
     },
     "publisher-archive-makanda-travel": {
       "indexed": 30,
-      "pages": [],
-      "read": 0
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Tours from Makanda | All Within 45 Min | Manuel Antonio",
+          "url": "https://makanda.com/en/tours"
+        }
+      ],
+      "read": 1
     },
     "publisher-archive-maverick-reports": {
       "indexed": 4,
@@ -2508,6 +2574,27 @@
       "pages": [
         {
           "checked": "2026-11-23",
+          "published": "2024-09-28",
+          "readThisRun": true,
+          "title": "Mucho más que verde « Exhibiciones « Museo Nacional de Costa Rica",
+          "url": "https://www.museocostarica.go.cr/exhibiciones/mucho-mas-que-verde/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2023-07-05",
+          "readThisRun": true,
+          "title": "Memoria Brunca « Exhibiciones « Museo Nacional de Costa Rica",
+          "url": "https://www.museocostarica.go.cr/exhibiciones/memoria-brunca/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2023-04-17",
+          "readThisRun": true,
+          "title": "Páramos de Costa Rica « Exhibiciones « Museo Nacional de Costa Rica",
+          "url": "https://www.museocostarica.go.cr/exhibiciones/paramos-de-costa-rica/"
+        },
+        {
+          "checked": "2026-11-23",
           "published": "2023-02-13",
           "title": "De Cuartel a Museo « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/de-cuartel-a-museo/"
@@ -2515,7 +2602,6 @@
         {
           "checked": "2026-11-23",
           "published": "2022-08-24",
-          "readThisRun": true,
           "title": "Naturanima « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/naturanima/"
         },
@@ -2528,28 +2614,24 @@
         {
           "checked": "2026-11-23",
           "published": "2022-04-06",
-          "readThisRun": true,
           "title": "Manglares: barrera y libertad « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/manglares-barrera-y-libertad/"
         },
         {
           "checked": "2026-11-23",
           "published": "2021-06-03",
-          "readThisRun": true,
           "title": "Blanco, azul y rojo « Exhibiciones Anteriores « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/anteriores/blanco-azul-y-rojo/"
         },
         {
           "checked": "2026-11-23",
           "published": "2021-03-26",
-          "readThisRun": true,
           "title": "Legado en Piedra « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/legado-en-piedra/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-12-16",
-          "readThisRun": true,
           "title": "Nidos y Huevos « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/nidos-y-huevos/"
         },
@@ -2689,7 +2771,7 @@
           "url": "https://www.museocostarica.go.cr/exhibiciones/actuales/"
         }
       ],
-      "read": 30
+      "read": 33
     },
     "publisher-archive-museocr-family-events": {
       "indexed": 14,
@@ -3728,7 +3810,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "¿Qué actividades puedo hacer en el Lago de Arenal?",
           "url": "https://vamosaturistear.com/actividades/que-actividades-puedo-hacer-en-el-lago-de-arenal/"
         },
@@ -3759,18 +3840,34 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Refugio Nacional de Vida Silvestre Ostional",
+          "url": "https://vamosaturistear.com/actividades/refugio-nacional-de-vida-silvestre-ostional/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Recorré la Isla Uvita en el Caribe",
           "url": "https://vamosaturistear.com/actividades/recorre-la-isla-uvita-en-el-caribe/"
         },
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "Playa Sámara: un destino vacacional perfecto - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-samara-un-destino-vacacional-perfecto/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Playa Santa Teresa: el paraíso de la arena blanca y el surf - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-santa-teresa-el-paraiso-de-la-arena-blanca-y-el-surf/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Playa Pelada: Un paraíso en Nosara - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-pelada-un-paraiso-en-nosara/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Playa Conchal: Santa Cruz, Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-conchal-santa-cruz-guanacaste/"
         },
@@ -3783,6 +3880,12 @@
           "checked": "2026-11-23",
           "title": "Parque Nahomi: Quepos - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/parque-nahomi-quepos/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Laguna de Río Cuarto: la más profunda del país",
+          "url": "https://vamosaturistear.com/actividades/laguna-de-rio-cuarto-la-mas-profunda-del-pais/"
         },
         {
           "checked": "2026-11-23",
@@ -3806,7 +3909,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Golfo Dulce: Un Refugio Natural - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/golfo-dulce-un-refugio-natural/"
         },
@@ -3822,9 +3924,14 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubrí la magia de Playa Grande - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/descubri-la-magia-de-playa-grande/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubrí la magia de Isla Cedros - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/descubri-la-magia-de-isla-cedros/"
         },
         {
           "checked": "2026-11-23",
@@ -4167,7 +4274,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 87
+      "read": 92
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5453,8 +5560,8 @@
   },
   "dayUtc": "2026-11-23",
   "history": true,
-  "pagesChecked": 25,
-  "pagesRead": 16,
-  "pagesReadToDate": 890,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45120883396"
+  "pagesChecked": 23,
+  "pagesRead": 19,
+  "pagesReadToDate": 909,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45123577371"
 }
