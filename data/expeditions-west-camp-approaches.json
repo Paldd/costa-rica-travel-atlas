@@ -1,0 +1,78 @@
+[
+  {
+    "id": "san-lorenzo-ranchito-wildcamp-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Сан-Лоренсо · квадроциклы и выходные с палаткой на крыше в Wildcamp",
+    "native": "San Ramón · El Ranchito Mío · Wildcamp · Bajo Rodríguez · La Colonia",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "atv",
+      "camping",
+      "rooftent",
+      "hiking",
+      "forest",
+      "river",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "ranchito-mio-official",
+      "ranchito-mio-sanramon-municipality",
+      "wildcamp-camp-host-listing",
+      "wildcamp-yoko",
+      "source-3f1-ranchito-wildcamp-road"
+    ],
+    "summary": "Первый день в местном хозяйстве на трассе 702, одна ночь в лесном лагере Wildcamp и утренняя прогулка к смотровой. Квадроциклы можно заменить дневным семейным билетом.",
+    "plan": "Стартуйте из Сан-Рамона, согласуйте встречу с гидом и разместитесь в Wildcamp до темноты. Утром выберите 6 или 12 км по совету хозяев и по силам группы.",
+    "conditions": "Сверьте возрастные условия на квадроциклах и последний проезд к площадке Wildcamp. Тюбинг и купель зависят от решения местной команды и состояния воды.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сан-Рамон, El Ranchito Mío и установка лагеря",
+        "note": "Из центра Сан-Рамона до встречи около 37,8 км. После экскурсии и обеда проведите второй переезд засветло. До дорожной отметки у Wildcamp около 19,5 км от хозяйства.",
+        "stops": [
+          "bajo-rodriguez-ranchito-atv-3h",
+          "bajo-rodriguez-ranchito-family-day-pass",
+          "san-lorenzo-wildcamp-roof"
+        ],
+        "sources": [
+          "ranchito-mio-official",
+          "ranchito-mio-basalt-expedia",
+          "wildcamp-camp-host-listing",
+          "source-3f1-ranchito-wildcamp-road"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лесная прогулка у Wildcamp и возвращение",
+        "note": "На выбор тропа к смотровой около 6 км или прогулка на 12 км. Возьмите закрытую обувь с протектором, дождевик, воду и перекус. Согласуйте старт и разворот до выхода.",
+        "stops": [
+          "san-lorenzo-wildcamp-roof"
+        ],
+        "sources": [
+          "wildcamp-camp-host-listing",
+          "wildcamp-yoko"
+        ]
+      }
+    ]
+  }
+]

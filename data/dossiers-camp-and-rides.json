@@ -104,6 +104,16 @@
         "point": "san-lorenzo-wildcamp-pin",
         "role": "Подъезд к Wildcamp",
         "note": "Подтвердите клиренс и попросите ориентир последнего поворота до потери сигнала."
+      },
+      {
+        "point": "san-ramon-central-area",
+        "role": "Сан-Рамон · центр и сбор на выезд",
+        "note": "Пополните воду, продукты и топливо до переезда по дороге 702."
+      },
+      {
+        "point": "wildcamp-la-forestal-road-end",
+        "role": "Calle La Forestal · конец линии подъезда",
+        "note": "До метки кемпинга около 300 м по прямой. Получите подробный последний подъезд у хозяев."
       }
     ],
     "sections": [
@@ -129,6 +139,14 @@
           "wildcamp-camp-host-listing",
           "wildcamp-yoko"
         ]
+      },
+      {
+        "title": "Подъезд от Сан-Рамона",
+        "text": "Опубликовано 34 км по дорогам до отметки на Calle La Forestal. До метки хозяйства остаётся около 300 метров по прямой. Узнайте у команды, как пройти последний участок на вашей машине.",
+        "sources": [
+          "source-3f1-wildcamp-road",
+          "wildcamp-camp-host-listing"
+        ]
       }
     ],
     "contacts": [
@@ -142,13 +160,16 @@
     ],
     "track": "wildcamp-camp-host-listing",
     "nearby": [
-      "sanramon-roca-vista-fire-camp"
+      "sanramon-roca-vista-fire-camp",
+      "san-lorenzo-ranchito-wildcamp-2",
+      "bajo-rodriguez-ranchito-atv-3h"
     ],
     "galleries": [
       "wildcamp-yoko",
       "wildcamp-social-copy"
     ],
-    "connectStops": false
+    "connectStops": false,
+    "line": "san-ramon-wildcamp-road"
   },
   "vara-blanca-donde-lalo-tipis": {
     "stops": [
@@ -888,6 +909,16 @@
         "point": "san-lorenzo-wildcamp-pin",
         "role": "Въезд, ночёвка и начало маршрутов",
         "note": "Схему троп и точки разворота выдают хозяева."
+      },
+      {
+        "point": "san-ramon-central-area",
+        "role": "Сан-Рамон · центр и сбор на выезд",
+        "note": "Пополните воду, продукты и топливо до переезда по дороге 702."
+      },
+      {
+        "point": "wildcamp-la-forestal-road-end",
+        "role": "Calle La Forestal · конец линии подъезда",
+        "note": "До метки кемпинга около 300 м по прямой. Получите подробный последний подъезд у хозяев."
       }
     ],
     "sections": [
@@ -905,6 +936,14 @@
           "wildcamp-yoko",
           "wildcamp-social-copy"
         ]
+      },
+      {
+        "title": "Подъезд от Сан-Рамона",
+        "text": "Опубликовано 34 км по дорогам до отметки на Calle La Forestal. До метки хозяйства остаётся около 300 метров по прямой. Узнайте у команды, как пройти последний участок на вашей машине.",
+        "sources": [
+          "source-3f1-wildcamp-road",
+          "wildcamp-camp-host-listing"
+        ]
       }
     ],
     "contacts": [
@@ -919,13 +958,16 @@
     "track": "wildcamp-camp-host-listing",
     "nearby": [
       "san-lorenzo-wildcamp-roof",
-      "sanramon-roca-vista-fire-camp"
+      "sanramon-roca-vista-fire-camp",
+      "san-lorenzo-ranchito-wildcamp-2",
+      "bajo-rodriguez-ranchito-atv-3h"
     ],
     "galleries": [
       "wildcamp-yoko",
       "wildcamp-social-copy"
     ],
-    "connectStops": false
+    "connectStops": false,
+    "line": "san-ramon-wildcamp-road"
   },
   "garza-rosada-low-tide": {
     "stops": [

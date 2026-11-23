@@ -1123,5 +1123,77 @@
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Museo_de_los_Ni%C3%B1os,_San_Jos%C3%A9,_Costa_Rica.JPG",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "monte-de-la-cruz-rquesada": {
+    "file": "monte-de-la-cruz-rquesada.jpg",
+    "alt": "Вид на Центральную долину из парка Монте-де-ла-Крус",
+    "caption": "Смотровая Монте-де-ла-Крус, март 2012 года · уменьшенная копия",
+    "author": "Rquesada",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Vista_desde_el_Montes_de_la_Cruz.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "bosque-hoja-trail-rquesada": {
+    "file": "bosque-hoja-trail-rquesada.jpg",
+    "alt": "Лесная тропа в парке Боске-де-ла-Оха",
+    "caption": "Пешеходная тропа Боске-де-ла-Оха, март 2012 года · уменьшенная копия",
+    "author": "Rquesada",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sendero_en_Bosque_de_la_Hoja.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "marino-ballena-panoramio": {
+    "file": "marino-ballena-panoramio.jpg",
+    "alt": "Пляж и лесистый берег Марино-Бальена",
+    "caption": "Берег национального парка Марино-Бальена, архивный снимок опубликован в 2010 году · уменьшенная копия",
+    "author": "Federico Mata",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Parque_Maritimo_Ballena_-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  "playa-pochote-berrocal": {
+    "file": "playa-pochote-berrocal.jpg",
+    "alt": "Берег Плайя-Почоте у залива Тамбор",
+    "caption": "Плайя-Почоте, октябрь 2009 года · уменьшенная копия",
+    "author": "Andrés Berrocal Soto",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Pochote..._-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "macacona-sunset-berrocal": {
+    "file": "macacona-sunset-berrocal.jpg",
+    "alt": "Закат над районом Макакона в Эспарсе",
+    "caption": "Пейзаж окрестностей Макаконы, февраль 2008 года · уменьшенная копия",
+    "author": "Andrés Berrocal Soto",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Atardecer_en_Macacona_-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "rio-barranca-berrocal": {
+    "file": "rio-barranca-berrocal.jpg",
+    "alt": "Рио-Барранка между лесистыми склонами у Макаконы",
+    "caption": "Река Барранка у Макаконы, июнь 2009 года · уменьшенная копия",
+    "author": "Andrés Berrocal Soto",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:El_Barranca_color_chocolate_-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "puerto-jimenez-sunrise-badilla": {
+    "file": "puerto-jimenez-sunrise-badilla.jpg",
+    "alt": "Рассвет над заливом Гольфо-Дульсе от причала Пуэрто-Хименеса",
+    "caption": "Вид с причала Пуэрто-Хименеса, март 2018 года · уменьшенная копия",
+    "author": "MarioBadilla",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Amanecer_desde_el_muelle_de_Puerto_Jim%C3%A9nez.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "zarcero-park-peloy": {
+    "file": "zarcero-park-peloy.jpg",
+    "alt": "Мозаика в парке Сарсеро и церковь в тумане",
+    "caption": "Парк Сарсеро, сентябрь 2011 года · уменьшенная копия",
+    "author": "Peloy (Allan H.M.)",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Parque_de_Zarcero,_Alajuela,_Costa_Rica_-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   }
 }

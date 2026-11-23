@@ -846,6 +846,15 @@
           "naranjo-ucr-coffee-2026",
           "chayote-quelites"
         ]
+      },
+      {
+        "title": "Переезды между остановками",
+        "text": "По дорожной карте от рыболовного пруда до лагеря около 26 км. От Alto del Rualdo до кафе Quelites ещё 3,3 км. Уточните у кемпинга проезд по последнему горному подъёму.",
+        "sources": [
+          "source-3f1-naranjo-rualdo-chayote-road",
+          "rualdo-family-camp",
+          "chayote-quelites"
+        ]
       }
     ],
     "contacts": [
@@ -877,7 +886,8 @@
     ],
     "galleries": [
       "rualdo-family-camp"
-    ]
+    ],
+    "line": "naranjo-rualdo-chayote-road"
   },
   "paquera-inshore-fishing": {
     "stops": [

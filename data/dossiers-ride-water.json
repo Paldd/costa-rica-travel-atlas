@@ -440,6 +440,11 @@
         "point": "rualdo-entry",
         "role": "Alto del Rualdo · район въезда и смотровой",
         "note": "Адрес Llano Bonito, Cirrí Sur de Naranjo. Конкретную площадку для машины покажет семья, которая управляет кемпингом."
+      },
+      {
+        "point": "los-arroyos-pond",
+        "role": "Лос-Арройос · ориентир начала автоподъезда",
+        "note": "От семейного пруда к кемпингу около 26 км по дорожной сети."
       }
     ],
     "sections": [
@@ -474,6 +479,14 @@
           "rualdo-family-camp",
           "rualdo-camping-cr"
         ]
+      },
+      {
+        "title": "Подъезд с запада",
+        "text": "Семейный пруд Лос-Арройос отмечен как начало автоподъезда. Линия заканчивается у Calle La Reserva. Узнайте у хозяев о состоянии подъёма после дождя и свободных местах для крышной палатки.",
+        "sources": [
+          "source-3f1-los-arroyos-rualdo-road",
+          "rualdo-family-camp"
+        ]
       }
     ],
     "contacts": [
@@ -495,7 +508,8 @@
     "galleries": [
       "rualdo-family-camp",
       "rualdo-camping-cr"
-    ]
+    ],
+    "line": "los-arroyos-rualdo-road"
   },
   "guanacaste-fondo-90": {
     "stops": [

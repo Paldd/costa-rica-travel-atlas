@@ -18,6 +18,9 @@
   "aventuras-cafe-puerto-jimenez": {
     "galleries": [
       "aventuras-cafe-osa-direct"
+    ],
+    "photos": [
+      "puerto-jimenez-sunrise-badilla"
     ]
   },
   "avesol-pacuare-3": {
@@ -46,6 +49,9 @@
   "balsa-rafting": {
     "galleries": [
       "balsa-operator-program"
+    ],
+    "videos": [
+      "balsa-arenal-operator-field-film"
     ]
   },
   "barbilla": {
@@ -100,6 +106,9 @@
     ],
     "videos": [
       "media-bosque-hoja-montecito-film"
+    ],
+    "photos": [
+      "bosque-hoja-trail-rquesada"
     ]
   },
   "braulio-barva": {
@@ -289,6 +298,9 @@
   "cola-ballena-rooftop": {
     "galleries": [
       "cola-ballena-camp-listing"
+    ],
+    "photos": [
+      "marino-ballena-panoramio"
     ]
   },
   "conchal": {
@@ -317,6 +329,9 @@
   "corcovado-race-2026": {
     "galleries": [
       "tcr-corcovado"
+    ],
+    "photos": [
+      "puerto-jimenez-sunrise-badilla"
     ]
   },
   "corcovado-sirena": {
@@ -372,6 +387,10 @@
   "curu-forest-coves": {
     "galleries": [
       "media-curu-official-photos"
+    ],
+    "videos": [
+      "curu-vamos-field-film",
+      "curu-soycrecu-field-film"
     ]
   },
   "cusinga": {
@@ -385,6 +404,9 @@
     ],
     "galleries": [
       "tcr-dantica"
+    ],
+    "photos": [
+      "monte-de-la-cruz-rquesada"
     ]
   },
   "diamante": {
@@ -593,7 +615,8 @@
   },
   "golfito-jimenez-passenger-boat": {
     "photos": [
-      "atlas-puerto-jimenez-arch"
+      "atlas-puerto-jimenez-arch",
+      "puerto-jimenez-sunrise-badilla"
     ],
     "videos": [
       "film-qbl-golfito-marina"
@@ -605,7 +628,8 @@
       "gallery-aventuras-tropicales-catalog"
     ],
     "photos": [
-      "atlas-puerto-jimenez-arch"
+      "atlas-puerto-jimenez-arch",
+      "puerto-jimenez-sunrise-badilla"
     ],
     "videos": [
       "film-aventuras-tropicales-drinktea"
@@ -828,6 +852,9 @@
     ],
     "videos": [
       "media-monte-cruz-visit"
+    ],
+    "photos": [
+      "monte-de-la-cruz-rquesada"
     ]
   },
   "morpho-azul": {
@@ -1091,7 +1118,8 @@
   },
   "puerto-jimenez-inshore-boat": {
     "photos": [
-      "atlas-puerto-jimenez-arch"
+      "atlas-puerto-jimenez-arch",
+      "puerto-jimenez-sunrise-badilla"
     ]
   },
   "puerto-soley-shore-day": {
@@ -1436,6 +1464,9 @@
   "uvita-colonia-surf": {
     "galleries": [
       "uvita360-chaman-lesson"
+    ],
+    "photos": [
+      "marino-ballena-panoramio"
     ]
   },
   "ventanas-shore": {
@@ -1664,6 +1695,9 @@
   "junquillal-malinches-rooftent": {
     "videos": [
       "film-araya-malinches-rooftent"
+    ],
+    "photos": [
+      "junquillal-pacific-gaendalf"
     ]
   },
   "junquillal-verdiazul-malinches-blanca-4": {
@@ -1904,6 +1938,78 @@
     ],
     "galleries": [
       "gallery-379-colina-secreta"
+    ]
+  },
+  "uvita-casa-viva-forest-camp": {
+    "photos": [
+      "marino-ballena-panoramio"
+    ]
+  },
+  "uvita-el-tecal-family-base": {
+    "photos": [
+      "marino-ballena-panoramio"
+    ]
+  },
+  "uvita-ballena-chaman-ebike-loop": {
+    "photos": [
+      "marino-ballena-panoramio"
+    ]
+  },
+  "pochote-don-trino-beach-camp": {
+    "photos": [
+      "playa-pochote-berrocal"
+    ]
+  },
+  "pochote-muertos-local-lancha": {
+    "photos": [
+      "playa-pochote-berrocal"
+    ]
+  },
+  "pochote-los-vivos-boat-stay": {
+    "photos": [
+      "playa-pochote-berrocal"
+    ]
+  },
+  "paquera-mango-pochote-vivos-water-3": {
+    "photos": [
+      "playa-pochote-berrocal"
+    ]
+  },
+  "piedra-fuego-esparza-local-trails": {
+    "photos": [
+      "macacona-sunset-berrocal",
+      "rio-barranca-berrocal"
+    ]
+  },
+  "piedra-fuego-tecolote-10": {
+    "photos": [
+      "macacona-sunset-berrocal",
+      "rio-barranca-berrocal"
+    ]
+  },
+  "junquillal-guacamaya-surf-lesson": {
+    "photos": [
+      "junquillal-pacific-gaendalf"
+    ]
+  },
+  "junquillal-verdiazul-hatchery": {
+    "photos": [
+      "junquillal-pacific-gaendalf"
+    ]
+  },
+  "junquillal-mundo-milo-family-base": {
+    "photos": [
+      "junquillal-pacific-gaendalf"
+    ]
+  },
+  "bajos-toro-weekend": {
+    "photos": [
+      "zarcero-park-peloy"
+    ]
+  },
+  "arenal-balsa-adrenaline-12": {
+    "videos": [
+      "balsa-arenal-adrenaline-film"
     ]
   }
 }

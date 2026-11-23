@@ -140,6 +140,16 @@
         "point": "pelon-zapotal-lookout",
         "role": "Сапоталь · ориентир Серро-Пелон",
         "note": "Авторская метка местности. Точку въезда на частную дорогу и места парковки узнавайте у хозяев."
+      },
+      {
+        "point": "san-ramon-central-area",
+        "role": "Сан-Рамон · центр и сбор на выезд",
+        "note": "Пополните воду, продукты и топливо до переезда по дороге 702."
+      },
+      {
+        "point": "san-ramon-la-paz-area",
+        "role": "Ла-Пас · район промежуточного проезда",
+        "note": "После Ла-Паса продолжайте к Сапоталю по карте и подтверждённым указаниям хозяев."
       }
     ],
     "sections": [
@@ -167,6 +177,15 @@
           "pelon-zapotal-qbl",
           "pelon-zapotal-rural"
         ]
+      },
+      {
+        "title": "Карта подъезда и видео",
+        "text": "Автомобильная линия показывает 26,7 км от Сан-Рамона через Ла-Пас до отметки на Calle Varela. Хозяйство укажет ворота, подъём на полноприводной машине или место, где начинается пешая часть.",
+        "sources": [
+          "source-3f1-san-ramon-pelon-road",
+          "pelon-zapotal-qbl-film",
+          "pelon-zapotal-qbl"
+        ]
       }
     ],
     "contacts": [
@@ -183,6 +202,10 @@
     "track": "pelon-zapotal-map",
     "galleries": [
       "pelon-zapotal-qbl"
+    ],
+    "line": "san-ramon-cerro-pelon-road",
+    "videos": [
+      "pelon-zapotal-qbl-film"
     ]
   },
   "poza-blanca-roof": {

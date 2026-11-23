@@ -10,6 +10,11 @@
         "point": "miramar-town",
         "role": "Мирамар · продукты и сбор перед подъёмом",
         "note": ""
+      },
+      {
+        "point": "pura-vista-calle-pavones-road",
+        "role": "Calle Pavones · дорожная точка у лагеря",
+        "note": "Сверьте точку нужных ворот с хозяевами, поскольку карты дают разные ориентиры."
       }
     ],
     "sections": [
@@ -36,6 +41,15 @@
           "miramar-mina-qbl",
           "pura-vista-map-osm"
         ]
+      },
+      {
+        "title": "Подъём от Мирамара",
+        "text": "На карте отмечен автомобильный подъезд на 6,8 км через дорогу 615 и Calle Pavones. Последний поворот на стоянку уточните по пину от хозяев. После дождя полезно заранее обсудить клиренс и возможность въезда с палаткой на крыше.",
+        "sources": [
+          "source-3f1-miramar-pavones-road",
+          "tajo-alto-municipal-route-615",
+          "pura-vista-campsites"
+        ]
       }
     ],
     "contacts": [
@@ -59,7 +73,8 @@
     ],
     "videos": [
       "miramar-mina-qbl-video"
-    ]
+    ],
+    "line": "miramar-puravista-road"
   },
   "punta-morales-blanca-kayak": {
     "stops": [

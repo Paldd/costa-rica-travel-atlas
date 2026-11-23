@@ -942,6 +942,14 @@
           "piedra-fuego-rural-directory",
           "piedra-fuego-crhoy-visit"
         ]
+      },
+      {
+        "title": "Трек одного круга",
+        "text": "На Wikiloc доступен пройденный вариант около 10 км у Серро-Теколоте. Для короткого визита проверьте на входе разметку петель 2,5 и 5 км. Сезонная длинная тропа открывается по решению хозяев.",
+        "sources": [
+          "piedra-fuego-10-wikiloc",
+          "piedra-fuego-rural-directory"
+        ]
       }
     ],
     "galleries": [
@@ -953,8 +961,10 @@
       "miramar-palmar-rio-seco-36"
     ],
     "videos": [
-      "piedra-fuego-local-mtb-video"
-    ]
+      "piedra-fuego-local-mtb-video",
+      "piedra-fuego-10-te-recomiendo"
+    ],
+    "track": "piedra-fuego-10-wikiloc"
   },
   "piedra-fuego-tecolote-10": {
     "stops": [

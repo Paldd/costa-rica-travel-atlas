@@ -1,0 +1,255 @@
+{
+  "bajo-rodriguez-ranchito-atv-3h": {
+    "stops": [
+      {
+        "point": "ranchito-mio-arrival",
+        "role": "Бахо-Родригес · встреча у El Ranchito Mío",
+        "note": "Въезд на Calle Pavas. Здесь встречает гид и начинается инструктаж."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сухая программа и дождливый вариант",
+        "text": "Трёхчасовая программа поставщика включает тренировку, сопровождение, обед и остановки у реки. В сухую погоду после переезда к плотине участники проходят к базальтовым скалам пешком. В дождливые дни команда заменяет этот участок более длинной трассой на квадроциклах.",
+        "sources": [
+          "ranchito-mio-official",
+          "ranchito-mio-basalt-expedia",
+          "ranchito-mio-filmcommission-basalt"
+        ]
+      },
+      {
+        "title": "Что взять на квадроциклы",
+        "text": "Закрытая обувь, лёгкая куртка от дождя, вода и сухой комплект для возвращения. Уточните, какую экипировку и страховку включают, нужны ли водительские права и сколько пассажиров разрешено на технике.",
+        "sources": [
+          "ranchito-mio-official",
+          "ranchito-mio-sanramon-municipality"
+        ]
+      },
+      {
+        "title": "После выезда",
+        "text": "Сайт хозяйства показывает бассейн, рыбалку на территории и кафе с casado. У семей есть дневной билет и отдельная экскурсия на квадроциклах. В отзывах на сайте отмечают пробный круг и подробный инструктаж.",
+        "sources": [
+          "ranchito-mio-official",
+          "ranchito-mio-basalt-expedia"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Ranchito Mío · хозяева и гид",
+        "source": "ranchito-mio-official",
+        "note": "Время встречи, возраст водителя и пассажиров, состояние маршрута и дневной билет.",
+        "url": "https://elranchitomio.com/",
+        "phone": "+506 8569 7134",
+        "whatsapp": "https://wa.me/50685697134"
+      }
+    ],
+    "nearby": [
+      "bajo-rodriguez-ranchito-family-day-pass",
+      "san-lorenzo-wildcamp-roof",
+      "san-lorenzo-ranchito-wildcamp-2"
+    ],
+    "galleries": [
+      "ranchito-mio-official",
+      "ranchito-mio-filmcommission-basalt"
+    ],
+    "videos": [
+      "ranchito-mio-owner-film"
+    ],
+    "connectStops": false
+  },
+  "bajo-rodriguez-ranchito-family-day-pass": {
+    "stops": [
+      {
+        "point": "ranchito-mio-arrival",
+        "role": "Бахо-Родригес · встреча у El Ranchito Mío",
+        "note": "Въезд на Calle Pavas. Здесь встречает гид и начинается инструктаж."
+      }
+    ],
+    "sections": [
+      {
+        "title": "План с детьми",
+        "text": "Бассейн, рыбалка и канопи длиной 100 м включены в Day Pass вместе с обедом. Для маленьких детей подберите время в бассейне и прогулку, а рост и допуск к канопи семья уточняет у команды.",
+        "sources": [
+          "ranchito-mio-official"
+        ]
+      },
+      {
+        "title": "Расписание и связь",
+        "text": "Хозяева указывают субботу и воскресенье с 7:00 до 17:00. В будни обслуживают группы по предварительной записи. Запросите тарифы для вашей семьи перед приездом.",
+        "sources": [
+          "ranchito-mio-official",
+          "ranchito-mio-sanramon-municipality"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Ranchito Mío · хозяева и гид",
+        "source": "ranchito-mio-official",
+        "note": "Время встречи, возраст водителя и пассажиров, состояние маршрута и дневной билет.",
+        "url": "https://elranchitomio.com/",
+        "phone": "+506 8569 7134",
+        "whatsapp": "https://wa.me/50685697134"
+      }
+    ],
+    "nearby": [
+      "bajo-rodriguez-ranchito-atv-3h",
+      "san-lorenzo-wildcamp-roof",
+      "san-lorenzo-ranchito-wildcamp-2"
+    ],
+    "galleries": [
+      "ranchito-mio-official"
+    ],
+    "videos": [
+      "ranchito-mio-owner-film"
+    ],
+    "connectStops": false
+  },
+  "toro-amarillo-finca-san-rafael-25": {
+    "stops": [
+      {
+        "point": "finca-san-rafael-toro-road-pin",
+        "role": "Торо-Амарильо · ориентир въезда на финку",
+        "note": "Опубликованная авторами метка. На месте хозяева объясняют тропу, спуск и обратный проход."
+      },
+      {
+        "point": "ebike-bajos-toro-town",
+        "role": "Бахос-дель-Торо · остановка в посёлке",
+        "note": "В отчёте здесь останавливались на завтрак перед последними километрами к финке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что видно по пути",
+        "text": "По описанию Qué Buen Lugar сначала идут по лесу примерно километр, затем из района смотровой спускаются к первой купели. К водопаду ведёт сухой обход. Второй автор показывает отдельные смотровые, лес и глубину воды.",
+        "sources": [
+          "san-rafael-qbl-field",
+          "san-rafael-jota-film"
+        ]
+      },
+      {
+        "title": "Обувь и условия у воды",
+        "text": "Возьмите закрытую обувь с протектором, воду, лёгкий слой от дождя и сменную одежду. После подъёма воды спуски выбирает хозяин. Глубокие купели и скользкие камни требуют осторожности, для семей с маленькими детьми подходит прогулка до смотровой только после уточнения доступа.",
+        "sources": [
+          "san-rafael-qbl-field",
+          "san-rafael-jota-film"
+        ]
+      },
+      {
+        "title": "Когда видели маршрут",
+        "text": "Первый полевой отчёт основан на поездке августа 2023 года, второй ролик опубликован в январе 2024 года. Авторы указали вход ₡3 000 на человека. Доступность, время и сумму подтвердите по опубликованному телефону.",
+        "sources": [
+          "san-rafael-qbl-field",
+          "san-rafael-jota-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Хозяйство Finca San Rafael",
+        "source": "san-rafael-qbl-field",
+        "note": "Публичный телефон из репортажа. Уточните, открыт ли спуск и где оставить машину.",
+        "phone": "+506 8831 0170",
+        "url": "https://waze.com/ul/hd1u46s8uu"
+      }
+    ],
+    "nearby": [
+      "bajos-toro-weekend",
+      "toro-vuelta-canyon",
+      "catarata-del-toro"
+    ],
+    "galleries": [
+      "san-rafael-qbl-field"
+    ],
+    "videos": [
+      "san-rafael-qbl-film",
+      "san-rafael-jota-film"
+    ],
+    "connectStops": false
+  },
+  "san-lorenzo-ranchito-wildcamp-2": {
+    "stops": [
+      {
+        "point": "san-ramon-central-area",
+        "role": "Сан-Рамон · центр и сбор на выезд",
+        "note": "Пополните воду, продукты и топливо до переезда по дороге 702."
+      },
+      {
+        "point": "ranchito-mio-arrival",
+        "role": "Бахо-Родригес · встреча у El Ranchito Mío",
+        "note": "Въезд на Calle Pavas. Здесь встречает гид и начинается инструктаж."
+      },
+      {
+        "point": "wildcamp-la-forestal-road-end",
+        "role": "Calle La Forestal · конец линии подъезда",
+        "note": "До метки кемпинга около 300 м по прямой. Получите подробный последний подъезд у хозяев."
+      },
+      {
+        "point": "san-lorenzo-wildcamp-pin",
+        "role": "Wildcamp · точка из объявления хозяев",
+        "note": "Хозяева присылают проезд к конкретной площадке и указывают место для машины с палаткой."
+      }
+    ],
+    "line": "san-lorenzo-ranchito-wildcamp-road",
+    "sections": [
+      {
+        "title": "Как распределить два дня",
+        "text": "Выезд начинается в Сан-Рамоне. После квадроциклов или дневной программы съездите в Wildcamp и заселитесь засветло. Оставьте лесную тропу на утро. Хозяева описывают прогулку до смотровой 6 км и более длинный вариант на 12 км.",
+        "sources": [
+          "ranchito-mio-official",
+          "wildcamp-camp-host-listing",
+          "source-3f1-ranchito-wildcamp-road"
+        ]
+      },
+      {
+        "title": "Автоподъезд и ночёвка",
+        "text": "На карте 57,3 км до дорожной отметки у лагеря. Последние примерно 300 м по прямой до метки хозяйства отсутствуют в дорожной линии. Хозяева подтвердят проезд, место для палатки на крыше и вариант спальни в домике.",
+        "sources": [
+          "source-3f1-ranchito-wildcamp-road",
+          "wildcamp-camp-host-listing",
+          "wildcamp-yoko"
+        ]
+      },
+      {
+        "title": "Осадки и семейный вариант",
+        "text": "У квадроциклов маршрут меняют после дождя. В Wildcamp уточните состояние береговых троп и доступность отдельного тюбинга. С детьми можно выбрать бассейн, обед и короткую прогулку вместо квадроциклов.",
+        "sources": [
+          "ranchito-mio-official",
+          "wildcamp-camp-host-listing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Ranchito Mío · хозяева и гид",
+        "source": "ranchito-mio-official",
+        "note": "Время встречи, возраст водителя и пассажиров, состояние маршрута и дневной билет.",
+        "url": "https://elranchitomio.com/",
+        "phone": "+506 8569 7134",
+        "whatsapp": "https://wa.me/50685697134"
+      },
+      {
+        "name": "Wildcamp Costa Rica · стоянка и проводники",
+        "source": "wildcamp-camp-host-listing",
+        "url": "https://camping.cr/listing/wildcamp-costa-rica/",
+        "phone": "+506 8735 0485",
+        "note": "Спросите про место для крышной палатки, последний подъезд, ходьбу 6 или 12 км и доступ к реке."
+      }
+    ],
+    "nearby": [
+      "bajo-rodriguez-ranchito-atv-3h",
+      "bajo-rodriguez-ranchito-family-day-pass",
+      "san-lorenzo-wildcamp-roof",
+      "san-lorenzo-wildcamp-6-12-2"
+    ],
+    "galleries": [
+      "ranchito-mio-official",
+      "wildcamp-yoko"
+    ],
+    "videos": [
+      "ranchito-mio-owner-film"
+    ],
+    "connectStops": false
+  }
+}
