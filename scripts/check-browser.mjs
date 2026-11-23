@@ -114,8 +114,22 @@ async function checkViewport(browser, width) {
     await firstTripVideo.getByRole("button", { name: "Смотреть в карточке" }).click();
     await firstTripVideo.locator('iframe[src="https://www.youtube-nocookie.com/embed/4JXi8OMG6Gc"]').waitFor();
     const fieldMap = page.getByRole("region", { name: "Карта маршрута" });
-    await fieldMap.locator('a[href="https://ridewithgps.com/routes/5717460"]').waitFor();
+    const itineraryTrack = fieldMap.getByRole("link", { name: /карта перехода по Никое/ });
+    await itineraryTrack.waitFor();
+    assert.equal(await itineraryTrack.getAttribute("href"), "https://ridewithgps.com/routes/5717460");
     assert.equal(await fieldMap.locator(".route-map-stops li").count(), fieldTrip.dossier.stops.length);
+    await checkWidth();
+
+    const waterfall = records.get("oropendola-guachipelin-walk");
+    await open("place/" + waterfall.id);
+    await heading(waterfall);
+    await page.waitForFunction(() => Array.from(document.images).some(img =>
+      img.src.endsWith("/oropendola-guachipelin-commons.jpg") && img.naturalWidth > 0));
+    const waterfallMap = page.getByRole("region", { name: "Карта маршрута" });
+    const waterfallTrack = waterfallMap.getByRole("link", { name: /авторский трек к Оропендоле/ });
+    await waterfallTrack.waitFor();
+    assert.equal(await waterfallTrack.getAttribute("href"), atlas.sources[waterfall.dossier.track].url);
+    assert.equal(await waterfallMap.locator(".route-map-stops li").count(), 3);
     await checkWidth();
 
     const trip = atlas.records.find(record => record.dossier.stageCover);
