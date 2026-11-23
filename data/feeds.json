@@ -2438,5 +2438,37 @@
     ],
     "language": "es-en",
     "focus": "Открытие трассы квадроциклов, сезонный маршрут к базальтовым скалам, дневной билет и контакты хозяйства."
+  },
+  {
+    "name": "Finca Koki · схемы и правила",
+    "url": "https://www.fincakoki.com/mapa-finca-koki",
+    "language": "es",
+    "focus": "Карты троп и палаточных зон, обновления правил каяков, SUP и обоих каналов tubing.",
+    "paths": [
+      "/_files/ugd/"
+    ],
+    "exactPaths": [
+      "/mapa-finca-koki"
+    ]
+  },
+  {
+    "name": "ICODER · информация о Лагуне-Фрайханес",
+    "url": "https://www.icoder.go.cr/parques-recreativos/parque-fraijanes",
+    "language": "es",
+    "focus": "Действующие часы, рыбалка, оборудованные лагеря, домики и контакты парка.",
+    "exactPaths": [
+      "/parques-recreativos/parque-fraijanes"
+    ]
+  },
+  {
+    "name": "Parque Diversiones · календарь Ла-Уруки",
+    "url": "https://parquediversiones.com/visitantes/horario-y-calendario",
+    "language": "es",
+    "focus": "Дни открытия, даты специальных часов и ссылки на актуальные правила посещения.",
+    "exactPaths": [
+      "/visitantes/horario-y-calendario",
+      "/visitantes/ayuda-y-reglamento",
+      "/visitantes/atracciones-y-experiencias"
+    ]
   }
 ]
