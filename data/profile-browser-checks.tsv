@@ -1,6 +1,6 @@
 # profile, date, observation, visible result
-https://www.instagram.com/vistalossuenos/	2026-11-23	login-required	При повторном гостевом просмотре Instagram показал кнопку входа перед лентой.
-https://www.instagram.com/hotelpuntaislita/	2026-11-23	login-required	При повторном гостевом просмотре Instagram показал кнопку входа перед лентой.
+https://www.instagram.com/vistalossuenos/	2026-11-23	login-required	Instagram запросил вход для проверки возрастного ограничения страницы.
+https://www.instagram.com/hotelpuntaislita/	2026-11-23	profile-only	Доступны описание и ссылка на сайт. При переходе к публикациям Instagram запросил вход.
 https://www.facebook.com/VamosaTuristear	2026-11-22	feed-visible	Открыт текст и оригинал ролика о сплаве на Пакуаре.
 https://www.facebook.com/quebuenlugar	2026-11-22	feed-visible	Повторно открыт ролик с наблюдениями автора о Rancho Rana Roja.
 https://www.facebook.com/descubrecostarica	2026-11-22	feed-visible	Открыта опубликованная подборка условий проживания и отдыха в Reserva Conchal.
@@ -50,7 +50,7 @@ https://www.instagram.com/costaricaexperts/	2026-11-22	feed-visible	Открыт
 https://www.instagram.com/ponderosaadventurepark/	2026-11-22	feed-visible	Прочитан пост парка, где перечислены сафари, водопад, ленивый сплав и канопи.
 https://www.instagram.com/fscostarica/	2026-11-22	feed-visible	Открыта подпись гостиницы о вилле Casa del Mar.
 https://www.instagram.com/toucanrescueranch/	2026-11-23	feed-visible	Прочитана авторская публикация о ревунах и работе центра с животными.
-https://www.instagram.com/hotelmakanda/	2026-11-23	login-required	При повторном гостевом просмотре Instagram показал кнопку входа перед лентой.
+https://www.instagram.com/hotelmakanda/	2026-11-23	grid-visible	В открытой сетке найдена собственная запись. Открылись оригинал от 2 октября, дата, автор и подпись о Guía MICHELIN.
 https://www.instagram.com/ticosmochileros/	2026-11-22	feed-visible	Открыта подпись о виде с вершины. Название вершины требует отдельной сверки.
 https://www.instagram.com/vamosaturistear/	2026-11-22	feed-visible	Отобразилась авторская подпись о вечернем выезде на пляж.
 https://www.instagram.com/costaricacool/	2026-11-22	feed-visible	Прочитана подборка, в которой автор назвал пять пейзажей от Рио-Селесте до залива Никоя.
@@ -74,7 +74,7 @@ https://www.instagram.com/nayaratentedcamp/	2026-11-22	feed-visible	Подпис
 https://www.instagram.com/deviajecostarica/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — ресторан с готовкой за столом.
 https://www.instagram.com/haciendaguachipelin/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — день пастуха на ферме Гуачипелин.
 https://www.instagram.com/las_catalinas_/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — жильё у пляжа в Лас-Каталинас.
-https://www.instagram.com/toptravelcostarica/	2026-11-23	grid-visible	Сетка доступна. Проверена ссылка на совместный ролик с другим издателем.
+https://www.instagram.com/toptravelcostarica/	2026-11-23	grid-visible	В доступной части профиля видны рекомендованные публикации других авторов. Просмотр собственной подписи потребовал входа.
 https://www.instagram.com/shanabythebeach/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — размещение в Мануэль-Антонио.
 https://www.instagram.com/planethollywoodcostarica/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — сезонное предложение размещения.
 https://www.instagram.com/montanadefuegohotel/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — вид на озеро из гостиницы.
@@ -84,7 +84,7 @@ https://www.instagram.com/casachameleonhotels/	2026-11-22	feed-visible	Подп�
 https://www.instagram.com/lecameleonhotel/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — сезонное предложение в Коклесе.
 https://www.instagram.com/specialplacescostarica/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — подборка поездок по Гуанакасте.
 https://www.instagram.com/elsilenciolodge/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — гостиница в отзывах путешественников.
-https://www.instagram.com/kuracostarica/	2026-11-23	login-required	При повторном гостевом просмотре Instagram показал кнопку входа перед лентой.
+https://www.instagram.com/kuracostarica/	2026-11-23	grid-visible	Из открывшейся части сетки подтверждены три оригинальных материала Kurà с датами.
 https://www.instagram.com/stuartsrojas/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — авторская заметка о переменах.
 https://www.instagram.com/dreamseasurfcampcostarica/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — участники школы сёрфа.
 https://www.instagram.com/peacelodgeandwaterfallgardens/	2026-11-22	feed-visible	Подпись автора открылась. Тема публикации — виды у Peace Lodge и акция.

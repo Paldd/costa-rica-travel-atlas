@@ -2608,5 +2608,39 @@
     ],
     "language": "en",
     "focus": "Официальные программы Монтеверде, экипировка и расписание лесных прогулок."
+  },
+  {
+    "name": "Rancho Mastatal · ферма, тропы и дорога",
+    "url": "https://ranchomastatal.com/tours",
+    "review": "mastatal-rancho-tours-owner",
+    "paths": [
+      "/blognewsletter/"
+    ],
+    "exactPaths": [
+      "/tours",
+      "/activities",
+      "/directions",
+      "/faqs"
+    ],
+    "language": "en",
+    "focus": "Локальный организатор в Пурискале, местные проводники, тропы, какао, условия въезда."
+  },
+  {
+    "name": "Playa Cativo · береговые экскурсии и трансфер",
+    "url": "https://www.playacativo.com/es/experiencias",
+    "review": "cativo-activities-direct",
+    "paths": [
+      "/experiences/",
+      "/es/experiencias/"
+    ],
+    "exactPaths": [
+      "/faq",
+      "/about/destination",
+      "/experiences/boat-transfers",
+      "/es/experiencias",
+      "/experiences"
+    ],
+    "language": "es-en",
+    "focus": "Официальные описания лодочных выездов, условий проживания и маршрутов леса в Гольфо-Дульсе."
   }
 ]

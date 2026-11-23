@@ -730,6 +730,15 @@
           "coopedota-coffee-experiences-direct",
           "coopedota-contact-direct"
         ]
+      },
+      {
+        "title": "Пять чувств и часть поездки по долине",
+        "text": "Местный фотоотчёт показывает, как гости сравнивают ароматы и вкусы в CoopeDota. У кооператива уточните, какой вариант дегустации сейчас записывают и можно ли успеть к Провиденсии засветло.",
+        "sources": [
+          "coopedota-vamos-five-senses",
+          "coopedota-coffee-experiences-direct",
+          "coopedota-contact-direct"
+        ]
       }
     ],
     "contacts": [
@@ -746,7 +755,11 @@
       "selva-madre-rooftent-trout",
       "finca-san-antonio-copey",
       "laguna-don-manuel-camp",
-      "dota-roof-trout-coffee-2"
+      "dota-roof-trout-coffee-2",
+      "dota-coffee-poceron-glamping-2"
+    ],
+    "galleries": [
+      "coopedota-vamos-five-senses"
     ]
   },
   "dota-roof-trout-coffee-2": {

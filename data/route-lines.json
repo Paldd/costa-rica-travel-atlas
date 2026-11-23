@@ -115836,6 +115836,9 @@
     ]
   },
   "providencia-4x4-osm-road": {
+    "title": "Los Quetzales → Провиденсия · горная дорога",
+    "points": ["quetzales-entry", "providencia-dota-locality"],
+    "stageSource": "ict-dota-providencia-4x4",
     "source": "osm-providencia-mountain-road",
     "note": "Около 11,5 км по схеме между развилкой Los Quetzales и выбранным ориентиром в Провиденсии. ICT и местный каталог приводят 13–14 км до разных конечных пунктов. Действующий проезд уточняют у хозяев.",
     "coords": [

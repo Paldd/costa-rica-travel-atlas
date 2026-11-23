@@ -1429,5 +1429,32 @@
     "license": "CC BY 2.0",
     "original": "https://commons.wikimedia.org/wiki/File:Paso_Guabito-Sixaola.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "outings-dota-hills": {
+    "file": "outings-dota-hills.jpg",
+    "alt": "Зелёные склоны и долина Лос-Сантос",
+    "caption": "Дота · ландшафт Лос-Сантос, 2015",
+    "author": "Rodtico21",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Zona_de_los_Santos._Dota._Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "outings-cangreja-cascade": {
+    "file": "outings-cangreja-cascade.jpg",
+    "alt": "Каскад у скал в национальном парке Ла-Кангреха",
+    "caption": "Пурискаль · каскад в соседнем национальном парке Ла-Кангреха",
+    "author": "Gabriel P Chacon",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Catarata_Parque_Nacional_La_Cangreja._Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "outings-golfo-dulce": {
+    "file": "outings-golfo-dulce.jpg",
+    "alt": "Залив Гольфо-Дульсе и зелёные склоны",
+    "caption": "Залив Гольфо-Дульсе у Гольфито · архивный снимок, 2004",
+    "author": "sussexbirder",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Golfo_Dulce%2C_Golfito.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   }
 }

@@ -283,7 +283,7 @@ def video_source(source):
     url = urlsplit(source["url"])
     host = (url.hostname or "").removeprefix("www.").removeprefix("m.")
     if host == "instagram.com":
-        return bool(re.fullmatch(r"/reels?/[\w-]+/?", url.path))
+        return bool(re.fullmatch(r"/(?:[\w.]+/)?reels?/[\w-]+/?", url.path))
     if host == "facebook.com":
         return bool(re.fullmatch(r"/(?:reel/|[^/]+/videos/)\d+/?", url.path))
     return host in {"youtube.com", "youtu.be"} and (

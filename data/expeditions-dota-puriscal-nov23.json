@@ -1,0 +1,161 @@
+[
+  {
+    "id": "dota-coffee-poceron-glamping-2",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Дота на два дня · кофе, Посерон и лесной глэмпинг",
+    "native": "Santa María · CoopeDota · Providencia de Dota · El Pocerón · Tamí Lodge",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "coffee",
+      "glamping",
+      "hiking",
+      "river",
+      "waterfall",
+      "views",
+      "forest",
+      "cycling"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "4x4",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "glamping",
+      "lodge"
+    ],
+    "sources": [
+      "coopedota-coffee-experiences-direct",
+      "coopedota-vamos-five-senses",
+      "poceron-qbl-field",
+      "tami-santos-tour-ict",
+      "tami-lodge-local-conditions",
+      "osm-providencia-mountain-road"
+    ],
+    "summary": "Выходные из Центральной долины с дегустацией в Санта-Марии, ночёвкой в Провиденсии и короткой прогулкой к Посерону.",
+    "plan": "В первый день приезжайте в CoopeDota и проезжайте горный подъезд засветло. Во второй день подберите короткую тропу, дополнительный лесной выход с гидом или спокойную прогулку к лагуне Дон-Мануэль.",
+    "conditions": "В сезон дождей уточните подъезд и время запасного выезда у базы. Место ночёвки, формат дегустации и доступность берега подтверждают отдельно.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Санта-Мария · кофе и горный подъезд",
+        "note": "В первой половине дня экскурсия или дегустация. Затем горный подъезд в Провиденсию и заселение в Tamí Lodge. Для опытной группы есть отдельный вариант по Ruta 315 до Копея, 7,2 км в одну сторону.",
+        "sources": [
+          "coopedota-coffee-experiences-direct",
+          "coopedota-vamos-five-senses",
+          "tami-lodge-local-conditions",
+          "osm-providencia-mountain-road",
+          "dota-315-open-map"
+        ],
+        "stops": [
+          "coopedota-santa-maria-coffee",
+          "santa-maria-copey-road-bike",
+          "dota-providencia-road-4x4",
+          "dota-tami-forest-glamping"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Посерон · короткая прогулка или лагуна",
+        "note": "Утром оцените воду и дорогу. При спокойных условиях пройдите к водопаду по короткой тропе. Вариант с более спокойной прогулкой есть у лагуны Дон-Мануэль.",
+        "sources": [
+          "poceron-vamos-field",
+          "poceron-qbl-field",
+          "don-manuel-vamos-weekend"
+        ],
+        "stops": [
+          "providencia-poceron-calle-la-piedra",
+          "laguna-don-manuel-camp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mastatal-permaculture-el-indio-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Пурискаль на два дня · Rancho Mastatal и водопад Эль-Индио",
+    "native": "Puriscal · Rancho Mastatal · San Miguel · Finca Siempre Verde · Río Turbio",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "coffee",
+      "hiking",
+      "forest",
+      "river",
+      "waterfall",
+      "wildlife"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "high",
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "mastatal-rancho-tours-owner",
+      "mastatal-rancho-directions-owner",
+      "mastatal-rancho-stay-faq",
+      "puriscal-el-indio-vamos-field",
+      "puriscal-el-indio-qbl-field",
+      "mastatal-siempre-verde-lodge-operator",
+      "puriscal-national-park-visit-ict"
+    ],
+    "summary": "Первый день на ферме в Мастатале. Второй день — 7 км с местными проводниками к Эль-Индио или более спокойная замена по состоянию воды.",
+    "plan": "Приезжайте засветло. Согласуйте ночёвку около Мастаталя и две точки встречи. После ночного дождя перепроверьте подъезд и выбранную тропу у команды.",
+    "conditions": "У длинного выхода есть крутые каменистые места у реки. Для младших участников выбирайте короткую экскурсию по ферме и доступную прогулку с сопровождающим.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Мастаталь · ферма, какао и знакомство с долиной",
+        "note": "По дороге из Пурискаля следуйте инструкции хозяев. Забронируйте экскурсию, позже — короткую лесную прогулку или местный ужин.",
+        "sources": [
+          "mastatal-rancho-tours-owner",
+          "mastatal-rancho-directions-owner",
+          "mastatal-rancho-stay-faq"
+        ],
+        "stops": [
+          "rancho-mastatal-permaculture-tour"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Сан-Мигель · водопад с проводником",
+        "note": "Встреча у Siempre Verde и затем короткий переезд до частной финки. При опасном уровне воды оставайтесь на ферме или выбирайте сухой маршрут у местной команды.",
+        "sources": [
+          "puriscal-el-indio-vamos-field",
+          "puriscal-el-indio-qbl-field",
+          "mastatal-rancho-hikes-owner",
+          "puriscal-national-park-visit-ict"
+        ],
+        "stops": [
+          "mastatal-salto-el-indio-7",
+          "rancho-mastatal-permaculture-tour"
+        ]
+      }
+    ]
+  }
+]

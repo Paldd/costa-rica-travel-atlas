@@ -351,6 +351,25 @@ assert(find({ region: "caribbean", activity: "own-craft" }).some(row => row.id =
 assert(find({ region: "north", activity: "rooftent", duration: "two", detail: "map" }).some(row => row.id === "cano-negro-poponjoche-rooftent"));
 assert(find({ region: "central", activity: "ebike", duration: "seven", km: "long" }, "expeditions").some(row => row.id === "turrialba-full-ebike-7"));
 assert(find({ region: "south", activity: "rooftent", transport: "4x4", duration: "three" }, "expeditions").some(row => row.id === "osa-two-camps-roof-3"));
+const poceron = records.find(row => row.id === "providencia-poceron-calle-la-piedra");
+const poceronLong = find({ region: "mountains", activity: "hiking", km: "thirty", detail: "track" })
+  .find(row => row.id === "dota-quebrada-arroyo-poceron-26");
+assert(poceron.distance < 0.2 && poceronLong.distance === 26.3);
+assert.equal(poceronLong.dossier.accessNotice.title, "Проход по согласованию");
+const dotaWaterfallTrip = find({ region: "mountains", activity: "glamping", duration: "two", detail: "line" }, "expeditions")
+  .find(row => row.id === "dota-coffee-poceron-glamping-2");
+assert(dotaWaterfallTrip.stages[1].stops.includes(poceron.id));
+assert.equal(atlas.lines[dotaWaterfallTrip.dossier.line].stages.length, 2);
+const elIndio = records.find(row => row.id === "mastatal-salto-el-indio-7");
+assert(elIndio.dossier.accessNotice.sources.includes("mastatal-siempre-verde-lodge-operator"));
+assert(!elIndio.dossier.line && elIndio.dossier.stops.every(stop => stop.point === "mastatal-siempre-verde-meeting"));
+const kura = records.find(row => row.id === "uvita-kura-adults-forest-bay");
+assert(kura.access.includes("4x4") && !kura.audience.includes("family-small"));
+assert(kura.dossier.videos.includes("ig-kura-sunset-reel-original"));
+for (const handle of ["hotelmakanda", "kuracostarica"]) {
+  const profile = atlas.social.profiles.find(row => row.url === `https://www.instagram.com/${handle}/`);
+  assert(profile.postLinks.length && profile.postLinks.every(post => atlas.sources[post.source].url.includes(`/${handle}/`)));
+}
 const farm = records.find(row => row.id === "monteverde-finca-madre-tierra");
 assert(farm.posts?.some(post => post.url === "https://www.instagram.com/p/DfmxPxDFybR/"));
 assert(find({ activity: "utv", material: "gallery", detail: "map" }).some(row => row.id === "herradura-bijagual-buggy-4"));

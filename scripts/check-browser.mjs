@@ -346,6 +346,33 @@ async function checkViewport(browser, width) {
     await open("place/monteverde-savia-ficus-nightfall");
     await page.getByRole("link", { name: "Hotel Belmar · Facebook", exact: true }).waitFor();
     await checkWidth();
+
+    const dota = records.get("dota-coffee-poceron-glamping-2");
+    await open("expeditions?region=mountains&activity=glamping&duration=two&detail=line");
+    await page.getByRole("link", { name: dota.title, exact: true }).click();
+    await heading(dota);
+    await page.waitForFunction(() => Array.from(document.images).some(img =>
+      img.src.endsWith("/outings-dota-hills.jpg") && img.naturalWidth > 0));
+    const dotaMap = page.getByRole("region", { name: "Карта маршрута" });
+    await dotaMap.getByLabel("Участок на карте").selectOption("dota-providencia-poceron-osm-road");
+    const dotaGpx = await exportText(dotaMap.getByRole("button", { name: "Скачать GPX", exact: true }));
+    assert.equal((dotaGpx.match(/<wpt /g) || []).length, 2);
+    assert.equal((dotaGpx.match(/<trkpt /g) || []).length, atlas.lines["dota-providencia-poceron-osm-road"].coords.length);
+    await checkWidth();
+
+    await open("place/mastatal-salto-el-indio-7");
+    await page.getByText("Частный проход с местной командой", { exact: true }).waitFor();
+    const indioMap = page.getByRole("region", { name: "Карта маршрута" });
+    const indioGpx = await exportText(indioMap.getByRole("button", { name: "Скачать точки GPX" }));
+    assert.equal((indioGpx.match(/<wpt /g) || []).length, 1);
+    assert(!indioGpx.includes("<trk>"));
+    await checkWidth();
+
+    await open("place/uvita-kura-adults-forest-bay");
+    const kuraPosts = page.getByRole("link", { name: "Kurà Boutique Hotel · Instagram", exact: true });
+    await kuraPosts.first().waitFor();
+    assert.equal(await kuraPosts.count(), 3);
+    await checkWidth();
     assert.deepEqual(errors, []);
     console.log(width + " px: catalog, media, route and stage GPX, published sources and access notices passed.");
   } finally {

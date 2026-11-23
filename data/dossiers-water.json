@@ -1243,6 +1243,14 @@
           "selva-madre-roof-camp",
           "don-manuel-owner"
         ]
+      },
+      {
+        "title": "Поездка на один день",
+        "text": "Отдельный репортаж показывает дневную прогулку и места отдыха. Уточните часы, режим парковки и ночёвку у площадки. Лагуна подходит как запасной вариант после горной прогулки в Провиденсии.",
+        "sources": [
+          "don-manuel-vamos-weekend",
+          "don-manuel-report"
+        ]
       }
     ],
     "contacts": [
@@ -1267,11 +1275,13 @@
       "cafe-1743-orosi",
       "coopedota-santa-maria-coffee",
       "selva-madre-rooftent-trout",
-      "dota-roof-trout-coffee-2"
+      "dota-roof-trout-coffee-2",
+      "dota-coffee-poceron-glamping-2"
     ],
     "galleries": [
       "don-manuel-owner",
-      "don-manuel-report"
+      "don-manuel-report",
+      "don-manuel-vamos-weekend"
     ]
   },
   "finca-koki": {

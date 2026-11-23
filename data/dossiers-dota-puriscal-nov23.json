@@ -1,0 +1,731 @@
+{
+  "providencia-poceron-calle-la-piedra": {
+    "stops": [
+      {
+        "point": "providencia-dota-locality",
+        "role": "Центр Провиденсии",
+        "note": "Отсюда спуститесь к Calle La Piedra. После дождя уточните состояние дороги у места ночёвки.",
+        "activity": "car"
+      },
+      {
+        "point": "dota-poceron-road",
+        "role": "Деревянный указатель перед мостом",
+        "note": "От точки у дороги начинается короткая прогулка. Паркуйтесь там, где разрешено.",
+        "activity": "hiking"
+      },
+      {
+        "point": "dota-poceron-waterfall",
+        "role": "El Pocerón · водопад и каменная чаша",
+        "note": "Ближайшая береговая площадка. При подъёме воды оставайтесь у подхода или перенесите выезд.",
+        "activity": "waterfall"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Где остановить машину",
+        "text": "Открытая карта даёт 1,7 км от деревни до пина перед мостом. Дорожная линия заканчивается до воды. Узнайте, где можно остановиться, если обочина занята после дождя.",
+        "sources": [
+          "poceron-vamos-field",
+          "poceron-qbl-field",
+          "poceron-providencia-road-osm"
+        ]
+      },
+      {
+        "title": "Прогулка с семьёй",
+        "text": "Береговой путь короткий и в сухую погоду подходит для спокойного знакомства с местом. Возьмите воду, закрытую обувь и сухой комплект. Сразу после ливня выбирайте береговые виды, не выходя на мокрые камни и в течение.",
+        "sources": [
+          "poceron-vamos-field",
+          "poceron-qbl-field"
+        ]
+      },
+      {
+        "title": "Соседи и более длинный день",
+        "text": "Фотоотчёт описывает местного проводника и отдельный выход на Эль-Салитре. Спросите заранее, доступен ли длинный вариант. Для ночёвки полезно связаться с Tamí Lodge или сверить условия стоянки в другой карточке.",
+        "sources": [
+          "poceron-qbl-field",
+          "tami-lodge-local-conditions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Провиденсия · местная семья из отчёта Qué Buen Lugar",
+        "source": "poceron-qbl-field",
+        "note": "Публичный контакт из отчёта. Спросите, доступна ли прогулка с гидом и где встречаться.",
+        "phone": "+506 8707 1102"
+      }
+    ],
+    "galleries": [
+      "poceron-vamos-field",
+      "poceron-qbl-field"
+    ],
+    "videos": [
+      "poceron-provincia-field-video"
+    ],
+    "nearby": [
+      "dota-quebrada-arroyo-poceron-26",
+      "dota-tami-forest-glamping",
+      "dota-providencia-road-4x4",
+      "dota-coffee-poceron-glamping-2"
+    ],
+    "line": "dota-providencia-poceron-osm-road"
+  },
+  "dota-quebrada-arroyo-poceron-26": {
+    "stops": [
+      {
+        "point": "dota-poceron-waterfall",
+        "role": "El Pocerón · водопад и каменная чаша",
+        "note": "Ближайшая береговая площадка. При подъёме воды оставайтесь у подхода или перенесите выезд.",
+        "activity": "waterfall"
+      },
+      {
+        "point": "providencia-dota-locality",
+        "role": "Центр Провиденсии",
+        "note": "Отсюда спуститесь к Calle La Piedra. После дождя уточните состояние дороги у места ночёвки.",
+        "activity": "car"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как использовать трек",
+        "text": "Запись путешественника показывает линейную связку и несколько водных точек. Начальную геометку и запасной выход проверьте в разговоре с проводником. В атласе отмечены каскад и район финиша.",
+        "sources": [
+          "poceron-quebrada-arroyo-wikiloc",
+          "poceron-providencia-armonia-field",
+          "poceron-qbl-field"
+        ]
+      },
+      {
+        "title": "Разрешение и гид",
+        "text": "Уточните частные ворота и броды до заказа транспорта. Сохраняйте пины выезда и связь с водителем офлайн. Когда состояние воды спорное, выберите короткий Посерон с подъездом через Провиденсию.",
+        "sources": [
+          "poceron-quebrada-arroyo-wikiloc",
+          "poceron-qbl-field",
+          "poceron-vamos-field"
+        ]
+      },
+      {
+        "title": "Экипировка и время",
+        "text": "Начните утром. Возьмите фонарь, запас еды, воду и защиту от дождя. Подход с остановками после сильного ливня может потребовать полного дня и отдельного решения гида.",
+        "sources": [
+          "poceron-quebrada-arroyo-wikiloc",
+          "poceron-providencia-armonia-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Провиденсия · местная семья из отчёта Qué Buen Lugar",
+        "source": "poceron-qbl-field",
+        "note": "Публичный контакт из отчёта. Спросите, доступна ли прогулка с гидом и где встречаться.",
+        "phone": "+506 8707 1102"
+      }
+    ],
+    "galleries": [
+      "poceron-quebrada-arroyo-wikiloc",
+      "poceron-qbl-field"
+    ],
+    "videos": [
+      "poceron-provincia-field-video"
+    ],
+    "nearby": [
+      "providencia-poceron-calle-la-piedra",
+      "dota-tami-forest-glamping",
+      "dota-coffee-poceron-glamping-2"
+    ],
+    "track": "poceron-quebrada-arroyo-wikiloc",
+    "accessNotice": {
+      "title": "Проход по согласованию",
+      "text": "Уточните частные ворота, воду и старт поездки у местной команды до выезда.",
+      "sources": [
+        "poceron-quebrada-arroyo-wikiloc",
+        "poceron-qbl-field"
+      ]
+    }
+  },
+  "mastatal-salto-el-indio-7": {
+    "stops": [
+      {
+        "point": "mastatal-siempre-verde-meeting",
+        "role": "Место встречи из отчёта",
+        "note": "Уточните геометку у гида. Затем короткий переезд к воротам другой финки в Сан-Мигеле.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Подъезд к частной финке",
+        "text": "Репортажи описывают встречу в Siempre Verde и короткий переезд частным транспортом до конца дороги. Пин в атласе показывает встречу. Проезд по последнему грунту зависит от дождя и состояния машины.",
+        "sources": [
+          "puriscal-el-indio-vamos-field",
+          "puriscal-el-indio-qbl-field",
+          "mastatal-siempre-verde-meeting-map"
+        ]
+      },
+      {
+        "title": "Характер пути",
+        "text": "Верхняя и нижняя часть подходят к водопаду по разным участкам. Ранчо публикует ориентир около пяти часов от Сан-Мигеля. У маршрута с отдельным авторским треком больше километров. Он помогает оценить рельеф района.",
+        "sources": [
+          "puriscal-el-indio-qbl-field",
+          "mastatal-rancho-hikes-owner",
+          "mastatal-longer-terrain-report"
+        ]
+      },
+      {
+        "title": "Что уточнить при записи",
+        "text": "Назовите возраст и опыт участников, запросите точную дистанцию, обед, положение ворот, допустимость купания и резерв при подъёме реки. Рядом есть отдельный национальный парк Ла-Кангреха со своим режимом.",
+        "sources": [
+          "mastatal-siempre-verde-lodge-operator",
+          "puriscal-el-indio-vamos-field",
+          "puriscal-national-park-visit-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Siempre Verde · поход через финку",
+        "source": "mastatal-siempre-verde-lodge-operator",
+        "note": "Уточните разрешение, координаты ворот, цену, наличие проводника и питание.",
+        "phone": "+506 8404 8770",
+        "whatsapp": "https://wa.me/50684048770"
+      },
+      {
+        "name": "Rancho Mastatal · экскурсии и выезды",
+        "source": "mastatal-rancho-contact-owner",
+        "note": "Согласуйте группу, язык экскурсии, время, условия ночёвки и дорогу.",
+        "phone": "+506 8539 1404",
+        "whatsapp": "https://wa.me/50685391404"
+      }
+    ],
+    "galleries": [
+      "puriscal-el-indio-vamos-field",
+      "puriscal-el-indio-qbl-field"
+    ],
+    "videos": [
+      "mastatal-el-indio-san-miguel-video",
+      "mastatal-el-indio-hiking-video"
+    ],
+    "nearby": [
+      "rancho-mastatal-permaculture-tour",
+      "mastatal-permaculture-el-indio-2"
+    ],
+    "accessNotice": {
+      "title": "Частный проход с местной командой",
+      "text": "Точку пешего старта и разрешение уточняйте после договорённости с проводником.",
+      "sources": [
+        "puriscal-el-indio-qbl-field",
+        "mastatal-siempre-verde-lodge-operator"
+      ]
+    }
+  },
+  "rancho-mastatal-permaculture-tour": {
+    "stops": [
+      {
+        "point": "mastatal-rancho-reception",
+        "role": "Ранчо · экскурсии и местная связь",
+        "note": "Вход, парковка, ночёвка и встреча с проводником подтверждаются в письме или по телефону.",
+        "activity": "coffee"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как провести несколько часов",
+        "text": "На экскурсии можно обсудить сад, биостроительство, местную еду и устройство фермы. Шоколадный визит и выезды к водопадам оформляют отдельно через местных хозяев.",
+        "sources": [
+          "mastatal-rancho-tours-owner",
+          "mastatal-rancho-hikes-owner"
+        ]
+      },
+      {
+        "title": "Куда ехать из Сан-Хосе",
+        "text": "Пин соответствует приблизительным координатам, опубликованным Rancho Mastatal. Владелец просит сверять навигатор с описанием маршрута. Если едете на обычной машине, сообщите об этом заранее.",
+        "sources": [
+          "mastatal-rancho-directions-owner",
+          "mastatal-rancho-contact-owner",
+          "puriscal-national-park-visit-ict"
+        ]
+      },
+      {
+        "title": "Семья, лес и сложность",
+        "text": "У команды есть лёгкие варианты и полудневные тропы. Уточните подъём, язык гида и время возврата. Лас-Хемелас и Эль-Индио отличают по старту и физической нагрузке.",
+        "sources": [
+          "mastatal-rancho-hikes-owner",
+          "mastatal-rancho-stay-faq",
+          "puriscal-el-indio-qbl-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rancho Mastatal · экскурсии и выезды",
+        "source": "mastatal-rancho-contact-owner",
+        "note": "Согласуйте группу, язык экскурсии, время, условия ночёвки и дорогу.",
+        "phone": "+506 8539 1404",
+        "whatsapp": "https://wa.me/50685391404"
+      }
+    ],
+    "galleries": [
+      "mastatal-rancho-tours-owner",
+      "mastatal-rancho-hikes-owner"
+    ],
+    "videos": [
+      "mastatal-permaculture-visit-video"
+    ],
+    "nearby": [
+      "mastatal-salto-el-indio-7",
+      "mastatal-permaculture-el-indio-2"
+    ]
+  },
+  "golfito-playa-cativo-lodge-boat": {
+    "stops": [
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Гольфито · ориентир в районе причалов",
+        "note": "По точке можно сориентироваться в городе. Место отправления вашей лодки сообщает команда.",
+        "activity": "boat"
+      },
+      {
+        "point": "cativo-lodge-gps",
+        "role": "Плайя-Кативо · береговой лодж",
+        "note": "Район высадки и лоджа. Сверьте доступ к берегу и время возвращения у капитана.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Посадка в Гольфито и возвращение",
+        "text": "В городе несколько терминалов и причалов. Оператор сообщает точную посадку в подтверждении. Узнайте правила багажа, высадки на берег и резерв при заметном волнении.",
+        "sources": [
+          "playa-cativo-lodge-faq-owner",
+          "playa-cativo-contact-location-owner",
+          "cativo-boat-transfer-contact",
+          "playa-cativo-osm-golfito-terminal"
+        ]
+      },
+      {
+        "title": "Лес, пляж и каяк",
+        "text": "Поездку на каяке к манграм Río Esquinas планируйте отдельно с гидом. Вода у берега и дикая природа требуют соблюдать режим национального парка. Для прогулки у воды пригодятся аквашузы.",
+        "sources": [
+          "playa-cativo-vamos-field",
+          "playa-cativo-lodge-faq-owner",
+          "cativo-activities-direct",
+          "piedras"
+        ]
+      },
+      {
+        "title": "Питание и ночёвка",
+        "text": "На удалённой базе заранее укажите возраст, диетические пожелания и ожидаемую активность. Узнайте условия питания для однодневных гостей, если рассматриваете заезд без ночёвки.",
+        "sources": [
+          "playa-cativo-lodge-faq-owner",
+          "playa-cativo-contact-location-owner",
+          "playa-cativo-vamos-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Cativo · лодка и размещение",
+        "source": "playa-cativo-contact-location-owner",
+        "note": "Попросите точный причал в Гольфито или Пуэрто-Хименесе, жилеты, график и групповой расчёт."
+      }
+    ],
+    "galleries": [
+      "playa-cativo-vamos-field",
+      "cativo-activities-direct"
+    ],
+    "videos": [
+      "playa-cativo-lodge-original-video"
+    ],
+    "photos": [
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "golfito-cativo-rio-esquinas-kayak"
+    ]
+  },
+  "manuel-antonio-makanda-adults-beach": {
+    "stops": [
+      {
+        "point": "makanda-manuel-antonio-hotel",
+        "role": "Makanda · рецепция и спуск к берегу",
+        "note": "К частной тропе на территории ведёт отель. Часы, допуск и подъём обратно уточняют у рецепции.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Береговой спуск",
+        "text": "По FAQ хозяев отель ведёт к пляжу по крутой тропе на территории. По необходимости они подсказывают транспорт. Сверяйте состояние выхода, время возврата и световой день.",
+        "sources": [
+          "makanda-adults-admission-beach-owner",
+          "makanda-reception-contacts"
+        ]
+      },
+      {
+        "title": "Размещение, еда и визит на день",
+        "text": "Pool Lounge подтверждает отель. Для ресторана уточните отдельную запись и часы работы. Место есть в актуальном путеводителе MICHELIN, а владелец опубликовал сообщение о выборе отеля в октябре.",
+        "sources": [
+          "makanda-adults-admission-beach-owner",
+          "makanda-arbol-restaurant-owner",
+          "makanda-michelin-guide-2026",
+          "ig-makanda-michelin-2026-original"
+        ]
+      },
+      {
+        "title": "Сочетание с Кепосом",
+        "text": "Для отдельного семейного дня откройте карточку Бьесанса. Маршрут по частной территории Makanda подтверждает оператор. Возьмите обувь с протектором для крутого подхода и оставьте вещи наверху, если ожидается дождь.",
+        "sources": [
+          "makanda-adults-admission-beach-owner",
+          "makanda-manu-antonio-gallery"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Makanda · рецепция",
+        "source": "makanda-reception-contacts",
+        "note": "Уточните минимальный возраст, допуск на день и состояние спуска к берегу.",
+        "phone": "+506 4010 4337",
+        "whatsapp": "https://wa.me/50688651985",
+        "email": "reception@makanda.com"
+      },
+      {
+        "name": "Árbol · ресторан при Makanda",
+        "source": "makanda-arbol-restaurant-owner",
+        "note": "Уточните столик, меню и условия посещения территории."
+      }
+    ],
+    "galleries": [
+      "makanda-manu-antonio-gallery",
+      "makanda-michelin-guide-2026"
+    ],
+    "videos": [
+      "makanda-owner-tour-video"
+    ],
+    "nearby": [
+      "biesanz-beach",
+      "biesanz-kayak"
+    ]
+  },
+  "uvita-kura-adults-forest-bay": {
+    "stops": [
+      {
+        "point": "kura-uvita-town",
+        "role": "Увита · ориентир у подножия",
+        "note": "Точка городского района. Адрес стоянки пришлёт отель после согласования.",
+        "activity": "car"
+      },
+      {
+        "point": "kura-uvita-hotel",
+        "role": "Kurà · в горах над Увитой",
+        "note": "Подъезд крутой, владелец требует 4×4. Трансфер и нижнюю парковку согласовывают отдельно.",
+        "activity": "views"
+      },
+      {
+        "point": "marino-uvita-gate",
+        "role": "Marino Ballena · сектор Увита",
+        "note": "Если планируете пляж или лодку, сверяйте вход, приливы и режим парка отдельно.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Машина или трансфер",
+        "text": "Владелец предлагает нижнюю парковку и около 15 минут на своём 4×4. Картографический пин в Увите показывает общий район пересадки. Точный адрес стоянки узнают у команды.",
+        "sources": [
+          "uvita-kura-drive-owner",
+          "uvita-kura-4x4-directions-pdf",
+          "uvita-kura-osm-villas"
+        ]
+      },
+      {
+        "title": "Какие виды видны у базы",
+        "text": "Оригинальные публикации показывают террасу и строения в лесу, а ролик даёт вечерние кадры. Сильный дождь и облачность влияют на видимость побережья.",
+        "sources": [
+          "ig-kura-uvita-terrace-original",
+          "ig-kura-sunset-reel-original",
+          "ig-kura-site-photo-original",
+          "publisher-kuracostarica-com"
+        ]
+      },
+      {
+        "title": "Отдельный день у воды",
+        "text": "Из Увиты можно купить экскурсию на наблюдение за морскими животными или пройти к косе по графику прилива. Спросите о сезонной программе и выберите береговую замену при сильном волнении.",
+        "sources": [
+          "uvita-kura-owner-wildlife",
+          "publisher-kuracostarica-com",
+          "uvita-kura-region-visit-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Kurà · рецепция и парковка",
+        "source": "uvita-kura-drive-owner",
+        "note": "Сверьте точку внизу горы, время трансфера и требование к машине.",
+        "phone": "+506 8521 3407",
+        "email": "reservations@kuracostarica.com"
+      }
+    ],
+    "galleries": [
+      "publisher-kuracostarica-com",
+      "uvita-kura-region-visit-report"
+    ],
+    "videos": [
+      "uvita-kura-traveler-tour-video",
+      "ig-kura-sunset-reel-original"
+    ],
+    "photos": [
+      "atlas-ballena-coast"
+    ],
+    "nearby": [
+      "marino-ballena"
+    ]
+  },
+  "dota-coffee-poceron-glamping-2": {
+    "stops": [
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "CoopeDota · кофе и экскурсия",
+        "note": "Сначала запланируйте дегустацию, затем пересадку на горный подъезд.",
+        "activity": "coffee"
+      },
+      {
+        "point": "quetzales-entry",
+        "role": "Развилка у Los Quetzales",
+        "note": "Ориентир перехода к горной дороге. Точный подъезд сообщит хозяин базы.",
+        "activity": "offroad"
+      },
+      {
+        "point": "providencia-dota-locality",
+        "role": "Центр Провиденсии",
+        "note": "Отсюда спуститесь к Calle La Piedra. После дождя уточните состояние дороги у места ночёвки.",
+        "activity": "car"
+      },
+      {
+        "point": "dota-tami-lodge-map",
+        "role": "Tamí Lodge · глэмпинг",
+        "note": "Уточните состояние горного подъезда, условия размещения и варианты троп.",
+        "activity": "glamping"
+      },
+      {
+        "point": "dota-poceron-road",
+        "role": "Деревянный указатель перед мостом",
+        "note": "От точки у дороги начинается короткая прогулка. Паркуйтесь там, где разрешено.",
+        "activity": "hiking"
+      },
+      {
+        "point": "dota-poceron-waterfall",
+        "role": "El Pocerón · водопад и каменная чаша",
+        "note": "Ближайшая береговая площадка. При подъёме воды оставайтесь у подхода или перенесите выезд.",
+        "activity": "waterfall"
+      },
+      {
+        "point": "don-manuel",
+        "role": "Лагуна Дон-Мануэль",
+        "note": "Запасной спокойный выезд с проверкой режима у площадки.",
+        "activity": "lake"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Темп с детьми",
+        "text": "Оставьте первый день под кофе и заселение. На водопаде важнее короткий безопасный подход, чем количество остановок. Для подростков длинную тропу обсуждают как отдельный согласованный выезд.",
+        "sources": [
+          "coopedota-coffee-experiences-direct",
+          "poceron-vamos-field",
+          "poceron-quebrada-arroyo-wikiloc"
+        ]
+      },
+      {
+        "title": "Как выбрать подъезд",
+        "text": "От Ruta 2 горная дорога требует проверки погоды и состояния покрытия. На карте две отдельные линии. При ливнях запросите трансфер или альтернативу в той же долине.",
+        "sources": [
+          "osm-providencia-mountain-road",
+          "tami-lodge-local-conditions",
+          "poceron-providencia-road-osm"
+        ]
+      },
+      {
+        "title": "Ночь и запасной день",
+        "text": "Глэмпинг планируйте у Tamí. Утренние и вечерние температуры различаются, пригодятся тёплый слой и сухая обувь. Лагуна Дон-Мануэль доступна отдельной поездкой с проверкой режима.",
+        "sources": [
+          "tami-lodge-local-conditions",
+          "don-manuel-vamos-weekend",
+          "tami-santos-tour-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "CoopeDota · дегустация и тур",
+        "source": "coopedota-contact-direct",
+        "note": "Подтвердите день, вариант дегустации и длительность экскурсии."
+      },
+      {
+        "name": "Провиденсия · местная семья из отчёта Qué Buen Lugar",
+        "source": "poceron-qbl-field",
+        "note": "Публичный контакт из отчёта. Спросите, доступна ли прогулка с гидом и где встречаться.",
+        "phone": "+506 8707 1102"
+      },
+      {
+        "name": "Tamí Lodge · дорога и ночёвка",
+        "source": "tami-lodge-local-conditions",
+        "note": "Уточните горный подъезд, ночёвку, погоду и время приезда."
+      }
+    ],
+    "galleries": [
+      "coopedota-vamos-five-senses",
+      "poceron-qbl-field"
+    ],
+    "videos": [
+      "poceron-provincia-field-video"
+    ],
+    "photos": [
+      "outings-dota-hills"
+    ],
+    "nearby": [
+      "dota-quebrada-arroyo-poceron-26"
+    ],
+    "line": "dota-coffee-waterfall-two-map"
+  },
+  "mastatal-permaculture-el-indio-2": {
+    "stops": [
+      {
+        "point": "mastatal-rancho-reception",
+        "role": "Ранчо · экскурсии и местная связь",
+        "note": "Вход, парковка, ночёвка и встреча с проводником подтверждаются в письме или по телефону.",
+        "activity": "coffee"
+      },
+      {
+        "point": "mastatal-siempre-verde-meeting",
+        "role": "Место встречи из отчёта",
+        "note": "Уточните геометку у гида. Затем короткий переезд к воротам другой финки в Сан-Мигеле.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Ночёвка и еда",
+        "text": "Сначала подтвердите размещение у Rancho Mastatal либо хозяев в деревне. Уточните, можно ли включить местный обед и вернуться к машине засветло.",
+        "sources": [
+          "mastatal-rancho-stay-faq",
+          "mastatal-rancho-contact-owner",
+          "puriscal-el-indio-qbl-field"
+        ]
+      },
+      {
+        "title": "Местный проводник",
+        "text": "Пин Rancho Mastatal отличается от встречи с Siempre Verde. Пешие ворота хозяин подтверждает отдельно. Перед походом проверьте возможные речные переходы.",
+        "sources": [
+          "mastatal-rancho-hikes-owner",
+          "mastatal-siempre-verde-lodge-operator",
+          "puriscal-el-indio-qbl-field"
+        ]
+      },
+      {
+        "title": "Когда полезен запасной план",
+        "text": "После ливня выберите короткое посещение фермы или тропу с проводником по открытой зоне. Доступ в отдельный национальный парк подтверждает SINAC.",
+        "sources": [
+          "mastatal-rancho-hikes-owner",
+          "puriscal-la-cangreja-sinac",
+          "puriscal-national-park-visit-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rancho Mastatal · экскурсии и выезды",
+        "source": "mastatal-rancho-contact-owner",
+        "note": "Согласуйте группу, язык экскурсии, время, условия ночёвки и дорогу.",
+        "phone": "+506 8539 1404",
+        "whatsapp": "https://wa.me/50685391404"
+      },
+      {
+        "name": "Siempre Verde · поход через финку",
+        "source": "mastatal-siempre-verde-lodge-operator",
+        "note": "Уточните разрешение, координаты ворот, цену, наличие проводника и питание.",
+        "phone": "+506 8404 8770",
+        "whatsapp": "https://wa.me/50684048770"
+      }
+    ],
+    "galleries": [
+      "mastatal-rancho-tours-owner",
+      "puriscal-el-indio-qbl-field"
+    ],
+    "videos": [
+      "mastatal-permaculture-visit-video",
+      "mastatal-el-indio-san-miguel-video"
+    ],
+    "photos": [
+      "outings-cangreja-cascade"
+    ],
+    "nearby": [
+      "mastatal-salto-el-indio-7",
+      "rancho-mastatal-permaculture-tour"
+    ]
+  },
+  "monteverde-savia-canopy-lunch-breakfast": {
+    "stops": [
+      {
+        "point": "savia-belmar-entry",
+        "role": "Hotel Belmar · встреча с проводником",
+        "note": "Лесной трансфер и высотный участок подтверждаются организатором.",
+        "activity": "cafe"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Формат обеда",
+        "text": "Canopy Lunch проходит в дневном лесу с проводником. Организатор указывает подвесной мост и площадку примерно в 22 м над землёй. Спросите, как добраться до неё без отдельной верёвочной секции.",
+        "sources": [
+          "savia-canopy-lunch-owner",
+          "savia-monteverde-owner"
+        ]
+      },
+      {
+        "title": "Формат завтрака",
+        "text": "Частная утренняя программа сочетает обзор леса, завтрак и возможное восхождение по верёвке. Уточните время встречи, длительность и состав группы.",
+        "sources": [
+          "savia-canopy-breakfast-owner",
+          "savia-hotel-belmar-photo-story"
+        ]
+      },
+      {
+        "title": "Организация выезда",
+        "text": "Согласуйте аллергии, выбор еды, детский допуск и возможность переноса при ветре или ливне. Возьмите закрытую обувь, дождевик и тёплый слой.",
+        "sources": [
+          "savia-canopy-lunch-owner",
+          "savia-canopy-breakfast-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SAVIA / Hotel Belmar · бронирование программ",
+        "source": "savia-canopy-lunch-owner",
+        "note": "Сверьте меню, длительность, маршрут и трансфер.",
+        "phone": "+506 2645 5201",
+        "whatsapp": "https://wa.me/50685043231"
+      }
+    ],
+    "galleries": [
+      "savia-canopy-lunch-owner",
+      "savia-canopy-breakfast-owner",
+      "savia-hotel-belmar-photo-story"
+    ],
+    "nearby": [
+      "monteverde-savia-ficus-nightfall"
+    ]
+  }
+}
