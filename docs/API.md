@@ -260,8 +260,10 @@ python3 scripts/review_social_posts.py \
 
 Посты связаны с карточками после сверки программ и точек у владельцев и на открытой карте. Из рекомендации Dúo Viajero получилась карточка Blue Morpho и поездка на два дня с вариантами подъезда. У Buena Vista del Rincón есть две отдельные карточки для пешего и конного выхода к трём водопадам. Для курса Surf Simply использованы календарь, условия заезда и координаты площадки с сайта школы. [Blue Morpho](https://paldd.github.io/costa-rica-travel-atlas/#place/blue-morpho-bajos-lodge) · [Пеший маршрут](https://paldd.github.io/costa-rica-travel-atlas/#place/buena-vista-three-falls-hike) · [Курс Surf Simply](https://paldd.github.io/costa-rica-travel-atlas/#place/nosara-surf-simply-week)
 
-## Проверка лент и местных программ, 23 ноября 2026 года вечером
+## Новые оригиналы и местные программы, 23 ноября 2026 года
 
 Открыты 14 оригиналов Facebook из 13 ранее непокрытых страниц рейтинга. В реестре 53 публикации от 49 страниц Facebook и 151 оригинал Instagram из 97 профилей. Для пляжной фотовикторины сохранена публикация. Точная привязка к пляжу требует подтверждения названия. Счётчик карточек с публикациями рассчитывается при сборке по фактическим связям. [Реестр и счётчики](https://paldd.github.io/costa-rica-travel-atlas/#sources)
 
 Расписание и доступ проверены на сайтах операторов. В дневной обход добавлены пять разделов с программами Hacienda AltaGracia, El Silencio, Rescate Wildlife, Kids Saving the Rainforest и Arenal Manoa. Для закрытой станции Rescate нанесены Ла-Гарита и Гольфито как ориентиры трансфера. У MyA добавлена метка участка и дорожный подъезд через Calle El Tucán. [Полевой курс](https://paldd.github.io/costa-rica-travel-atlas/#place/golfo-dulce-rescate-conservation-course) · [Какао-ферма](https://paldd.github.io/costa-rica-travel-atlas/#place/perez-zeledon-marvin-cacao-tour) · [Карта MyA](https://paldd.github.io/costa-rica-travel-atlas/#place/cocles-villas-mya-glamping)
+
+В полном прогоне открылись 142 из 148 отслеживаемых архивов. Сборщик прочитал 20 из 21 выбранной страницы, включая все десять страниц в пяти новых источниках. Накопленная история содержит 1 185 разных прочитанных страниц. [Актуальный прогон](https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45253578738)

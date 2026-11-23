@@ -1,6 +1,6 @@
 {
-  "archives": 143,
-  "archivesRead": 135,
+  "archives": 148,
+  "archivesRead": 142,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -60,6 +60,18 @@
       ],
       "read": 2
     },
+    "altagracia-marvin-experience": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Finca de Cacao de Marvin",
+          "url": "https://auberge.com/es/altagracia/experiences/marvins-finca-cacao/"
+        }
+      ],
+      "read": 1
+    },
     "amarena-mistico-activities": {
       "indexed": 4,
       "pages": [
@@ -117,6 +129,31 @@
         }
       ],
       "read": 2
+    },
+    "arenal-manoa-thermal-areas": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "published": "2026-09-16",
+          "readThisRun": true,
+          "title": "Frequently Asked Questions | Arenal Manoa Hot Springs Resort",
+          "url": "https://arenalmanoa.com/frequently-asked-questions/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Hot springs | Arenal Manoa Hot Springs Resort",
+          "url": "https://arenalmanoa.com/hot-springs/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Contact | Arenal Manoa Hot Springs Resort",
+          "url": "https://arenalmanoa.com/contact/"
+        }
+      ],
+      "read": 3
     },
     "arenas-del-mar-activity-index": {
       "indexed": 9,
@@ -216,7 +253,7 @@
       "read": 1
     },
     "bocas-visit-classic-boat": {
-      "indexed": null,
+      "indexed": 14,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -301,7 +338,7 @@
           "url": "https://go.bocasdeltoro.travel/es/recommended/cayo-coral-restaurante/"
         }
       ],
-      "read": null
+      "read": 14
     },
     "buen-camino-owner-ride": {
       "indexed": 4,
@@ -405,7 +442,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -413,7 +450,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "catalina-pcdc-tours-library": {
       "indexed": 13,
@@ -513,7 +550,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Golfo Dulce Activities - CR Travel - Playa Cativo Lodge",
           "url": "https://www.playacativo.com/experiences"
         },
@@ -672,13 +708,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Villas y Glampings - Villasmya",
           "url": "https://villasmya.com/villas-y-glampings/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Quienes Somos - Villasmya",
           "url": "https://villasmya.com/quienes-somos/"
         }
@@ -686,7 +720,7 @@
       "read": 2
     },
     "colina-secreta-host-stay": {
-      "indexed": null,
+      "indexed": 15,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -766,7 +800,7 @@
           "url": "https://colinasecreta.com/es/stay/belvedere-house/"
         }
       ],
-      "read": null
+      "read": 15
     },
     "conchal-reserva-program": {
       "indexed": 4,
@@ -1100,6 +1134,18 @@
       ],
       "read": 12
     },
+    "golfo-rescate-course-2027": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Certified field training course in Tropical Conservation & Wildlife Rehabilitation in Costa Rica",
+          "url": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/"
+        }
+      ],
+      "read": 1
+    },
     "guayabo-visit-ict": {
       "indexed": 2,
       "pages": [
@@ -1131,6 +1177,24 @@
       "indexed": 2,
       "pages": [],
       "read": 0
+    },
+    "kstr-naranjito-day-volunteer": {
+      "indexed": 2,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Volunteer & Intern Opportunities | KSTR WILDLIFE RESCUE",
+          "url": "https://www.kidssavingtherainforest.org/volunteer"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Contact Us for Volunteering & Info | KSTR WILDLIFE RESCUE",
+          "url": "https://www.kidssavingtherainforest.org/contact"
+        }
+      ],
+      "read": 2
     },
     "las-mercedes-farm-owner": {
       "indexed": 1,
@@ -2125,7 +2189,6 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-26",
-          "readThisRun": true,
           "title": "Esta es la lista completa de establecimientos que podrán operar la próxima semana en cantones naranja",
           "url": "https://adondeircr.com/heredia/esta-es-la-lista-completa-de-establecimientos-que-podran-operar-la-proxima-semana-en-cantones-naranja/?c1"
         },
@@ -2138,21 +2201,18 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-26",
-          "readThisRun": true,
           "title": "Así funcionará la fase de apertura de establecimientos durante septiembre",
           "url": "https://adondeircr.com/heredia/asi-funcionara-la-fase-de-apertura-de-establecimientos-durante-septiembre/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-25",
-          "readThisRun": true,
           "title": "Parque Nacional Barra Honda",
           "url": "https://adondeircr.com/guanacaste/parque-nacional-barra-honda/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-25",
-          "readThisRun": true,
           "title": "El mágico bosque de Prusia",
           "url": "https://adondeircr.com/cartago/el-magico-bosque-de-prusia/?c1"
         },
@@ -2160,8 +2220,42 @@
           "checked": "2026-11-23",
           "published": "2020-08-24",
           "readThisRun": true,
+          "title": "Refugio Natural de Vida Silvestre Caño Negro",
+          "url": "https://adondeircr.com/alajuela/refugio-natural-de-vida-silvestre-cano-negro/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-24",
+          "readThisRun": true,
+          "title": "Costa Rica registra hoy 2.240 pacientes recuperados",
+          "url": "https://adondeircr.com/heredia/costa-rica-registra-hoy-2-240-pacientes-recuperados/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-24",
           "title": "Así funcionará la restricción vehicular durante esta semana y hasta el 30 de agosto",
           "url": "https://adondeircr.com/san-jose/asi-funcionara-la-restriccion-vehicular-durante-esta-semana-y-hasta-el-30-de-agosto/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-23",
+          "readThisRun": true,
+          "title": "La Leyenda del Árbol Embrujado en Prusia",
+          "url": "https://adondeircr.com/cartago/la-leyenda-del-arbol-embrujado-en-prusia/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-22",
+          "readThisRun": true,
+          "title": "Conozca la espectacular mano mantra en Hacienda La Chimba",
+          "url": "https://adondeircr.com/san-jose/conozca-la-espectacular-mano-mantra-en-hacienda-la-chimba/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-20",
+          "readThisRun": true,
+          "title": "Parque Nacional Tortuguero",
+          "url": "https://adondeircr.com/limon/parque-nacional-tortuguero/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2464,7 +2558,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 145
+      "read": 150
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -2640,7 +2734,7 @@
       "read": 2
     },
     "publisher-archive-bccr-exhibitions": {
-      "indexed": null,
+      "indexed": 13,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -2708,7 +2802,7 @@
           "url": "https://museosdelbancocentral.org/exhibiciones/alcancias-historias-y-tesoros/"
         }
       ],
-      "read": null
+      "read": 13
     },
     "publisher-archive-buena-experience": {
       "indexed": 5,
@@ -4199,6 +4293,13 @@
         {
           "checked": "2026-11-23",
           "published": "2026-08-31",
+          "readThisRun": true,
+          "title": "Volcanes Tajumulco y Tacaná",
+          "url": "https://ticosapata.com/2026/08/30/volcanes-tajumulco-y-tacana/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-08-31",
           "title": "El Camino del Inca",
           "url": "https://ticosapata.com/2026/08/30/el-camino-del-inca/"
         },
@@ -4459,12 +4560,6 @@
           "published": "2026-08-31",
           "title": "Volcán Barú",
           "url": "https://ticosapata.com/2026/08/30/volcan-baru/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-31",
-          "title": "Volcanes Tajumulco y Tacaná",
-          "url": "https://ticosapata.com/2026/08/30/volcanes-tajumulco-y-tacana/"
         },
         {
           "checked": "2026-11-21",
@@ -4746,7 +4841,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "¿Un cafecito en el corazón del Teatro Nacional?",
           "url": "https://vamosaturistear.com/actividades/un-cafecito-en-el-corazon-del-teatro-nacional/"
         },
@@ -4757,7 +4851,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "¿Qué hacer cerca de Playa Herradura?",
           "url": "https://vamosaturistear.com/actividades/que-hacer-cerca-de-playa-herradura/"
         },
@@ -4813,7 +4906,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Visitá la Catarata Volio",
           "url": "https://vamosaturistear.com/actividades/visita-la-catarata-volio/"
         },
@@ -4831,6 +4923,12 @@
           "checked": "2026-11-23",
           "title": "Visitá Isla Venado",
           "url": "https://vamosaturistear.com/actividades/visita-isla-venado/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Una catarata ácida en medio de dinosaurios",
+          "url": "https://vamosaturistear.com/actividades/una-catarata-acida-en-medio-de-dinosaurios/"
         },
         {
           "checked": "2026-11-23",
@@ -5054,6 +5152,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Explorá la Catarata El Santuario",
+          "url": "https://vamosaturistear.com/actividades/explora-la-catarata-el-santuario/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Estos son los parques nacionales que tenés que conocer en San José",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-san-jose/"
         },
@@ -5084,7 +5188,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Estación Biológica La Selva",
           "url": "https://vamosaturistear.com/actividades/estacion-biologica-la-selva/"
         },
@@ -5155,7 +5258,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Conocé la historia de la Sirena de Esterillos",
           "url": "https://vamosaturistear.com/actividades/conoce-la-historia-de-la-sirena-de-esterillos/"
         },
@@ -5241,8 +5343,20 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Bienvenidos a la Catarata El Rey",
+          "url": "https://vamosaturistear.com/actividades/bienvenidos-a-catarata-el-rey/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Aventurate en bote por el río Sarapiquí",
           "url": "https://vamosaturistear.com/actividades/aventurate-en-bote-por-el-rio-sarapiqui/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Arrecife: una piscina natural en el Caribe",
+          "url": "https://vamosaturistear.com/actividades/arrecife-una-piscina-natural-en-el-caribe/"
         },
         {
           "checked": "2026-11-23",
@@ -5560,7 +5674,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 162
+      "read": 166
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5837,7 +5951,7 @@
       "read": 13
     },
     "publisher-site-archive-senderos-toro": {
-      "indexed": 4,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -5864,7 +5978,7 @@
           "url": "https://senderosdeltoro.com/pozo-azul-waterfall-and-rio-seco-waterfall/"
         }
       ],
-      "read": 4
+      "read": null
     },
     "publisher-site-archive-specialplaces": {
       "indexed": 24,
@@ -6331,7 +6445,7 @@
       "read": 2
     },
     "rural-caturcochi-valle-chirripo": {
-      "indexed": 3,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6349,7 +6463,7 @@
           "url": "https://valledelchirripo.com/acampe-a-los-pies-de-los-gigantes/"
         }
       ],
-      "read": 3
+      "read": null
     },
     "rural-osa-jimenez-current-transport": {
       "indexed": 3,
@@ -6454,6 +6568,30 @@
         }
       ],
       "read": 6
+    },
+    "silencio-bajos-night-program": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Waterfall magic | El Silencio Lodge & Spa",
+          "url": "https://www.elsilenciolodge.com/experiences/waterfall-magic"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Night walk | El Silencio Lodge & Spa",
+          "url": "https://www.elsilenciolodge.com/experiences/night-walk"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Frequently Asked Questions | El Silencio Lodge & Spa",
+          "url": "https://www.elsilenciolodge.com/faqs"
+        }
+      ],
+      "read": 3
     },
     "silencio-cloud-forest-journal": {
       "indexed": 17,
@@ -7233,6 +7371,20 @@
       "url": "https://www.instagram.com/p/C6T67AJuPyv/"
     },
     {
+      "article": "https://adondeircr.com/limon/parque-nacional-tortuguero/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Parque Nacional Tortuguero",
+      "url": "https://www.instagram.com/p/CEFC0WUJUCJ/"
+    },
+    {
+      "article": "https://adondeircr.com/alajuela/refugio-natural-de-vida-silvestre-cano-negro/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Refugio Natural de Vida Silvestre Caño Negro",
+      "url": "https://www.instagram.com/p/CEIiD1qptY2/"
+    },
+    {
       "article": "https://adondeircr.com/guanacaste/parque-nacional-palo-verde/?c1",
       "checked": "2026-11-23",
       "platform": "Instagram",
@@ -7464,10 +7616,10 @@
       "url": "https://www.instagram.com/p/Derv5lBjiAs/"
     },
     {
-      "article": "https://rescatewildlife.org/educational-group-tours/",
+      "article": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/",
       "checked": "2026-11-23",
       "platform": "Instagram",
-      "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+      "title": "Certified field training course in Tropical Conservation & Wildlife Rehabilitation in Costa Rica",
       "url": "https://www.instagram.com/p/Df-SptNvLUu/"
     },
     {
@@ -7478,17 +7630,17 @@
       "url": "https://www.instagram.com/p/Df0xxWjnP3p/"
     },
     {
-      "article": "https://rescatewildlife.org/educational-group-tours/",
+      "article": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/",
       "checked": "2026-11-23",
       "platform": "Instagram",
-      "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+      "title": "Certified field training course in Tropical Conservation & Wildlife Rehabilitation in Costa Rica",
       "url": "https://www.instagram.com/p/Df5RBwpvATA/"
     },
     {
-      "article": "https://rescatewildlife.org/educational-group-tours/",
+      "article": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/",
       "checked": "2026-11-23",
       "platform": "Instagram",
-      "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+      "title": "Certified field training course in Tropical Conservation & Wildlife Rehabilitation in Costa Rica",
       "url": "https://www.instagram.com/p/Df7c-q-ix0c/"
     },
     {
@@ -7534,10 +7686,10 @@
       "url": "https://www.instagram.com/p/DfnHP1UCT8J/"
     },
     {
-      "article": "https://rescatewildlife.org/educational-group-tours/",
+      "article": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/",
       "checked": "2026-11-23",
       "platform": "Instagram",
-      "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+      "title": "Certified field training course in Tropical Conservation & Wildlife Rehabilitation in Costa Rica",
       "url": "https://www.instagram.com/p/DgDhoFzjw0B/"
     },
     {
@@ -7660,8 +7812,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 13,
-  "pagesRead": 13,
-  "pagesReadToDate": 1166,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45230618045"
+  "pagesChecked": 21,
+  "pagesRead": 20,
+  "pagesReadToDate": 1185,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45253578738"
 }
