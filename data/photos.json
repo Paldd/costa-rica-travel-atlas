@@ -1729,5 +1729,125 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Sendero_universal_Carara_Costa_Rica_(1).JPG",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "junquillal-bay-capelli": {
+    "file": "junquillal-bay-capelli.jpg",
+    "alt": "Песчаный берег, риф на мелководье и островок Муниекос в северной бухте",
+    "caption": "Баия-Хункильяль у Куахиникиля, вдали Исла-Муньекос · уменьшенная копия",
+    "author": "Luciano Capelli / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-junquillal",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "junquillal-kayak-espinoza": {
+    "file": "junquillal-kayak-espinoza.jpg",
+    "alt": "Каяк на воде между пляжем северной бухты Хункильяль и островом",
+    "caption": "Прокат каяков в Баия-Хункильяль · архив ACG · уменьшенная копия",
+    "author": "Melissa Espinoza / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-junquillal",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "junquillal-shore-espinoza": {
+    "file": "junquillal-shore-espinoza.jpg",
+    "alt": "Дневная зона на песчаном пляже Баия-Хункильяль",
+    "caption": "Пляж заказника Баия-Хункильяль у Ла-Крус · 2024 год · уменьшенная копия",
+    "author": "Melissa Espinoza / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/noticias/noticias-programa-de-ecoturismo/6574-informacion-importante-sitios-turisticos-de-acg-diciembre-2024-enero-2026",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "junquillal-refuge-matarrita": {
+    "file": "junquillal-refuge-matarrita.jpg",
+    "alt": "Дуга пляжа и спокойный берег заказника Баия-Хункильяль",
+    "caption": "Северная бухта Хункильяль · уменьшенная копия",
+    "author": "Federico Matarrita / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-junquillal",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "naranjo-forest-capelli": {
+    "file": "naranjo-forest-capelli.jpg",
+    "alt": "Вид сверху на лес, эстуарий и пляж Наранхо в Санта-Росе",
+    "caption": "Плайя-Наранхо у Рока-Бруха, сектор Санта-Роса · уменьшенная копия",
+    "author": "Luciano Capelli / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-santa-rosa/playa-naranjo-sector-santa-rosa",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "naranjo-shore-espinoza": {
+    "file": "naranjo-shore-espinoza.jpg",
+    "alt": "С воздуха видны песчаная коса, устье и скала Рока-Бруха",
+    "caption": "Плайя-Наранхо и Рока-Бруха · съёмка 2024 года · уменьшенная копия",
+    "author": "Melissa Espinoza / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/noticias/noticias-programa-de-ecoturismo/6574-informacion-importante-sitios-turisticos-de-acg-diciembre-2024-enero-2026",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "point": "naranjo-beach"
+  },
+  "murcielago-hachal-acg": {
+    "file": "murcielago-hachal-acg.jpg",
+    "alt": "Каменистый берег бухты Эль-Ачаль и сухой тропический лес",
+    "caption": "Бухта Эль-Ачаль, материковый сектор Мурсьелаго · уменьшенная копия",
+    "author": "Melissa Espinoza / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-murcielago",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "point": "murcielago-hachal-shore-end"
+  },
+  "murcielago-peninsula-pucci": {
+    "file": "murcielago-peninsula-pucci.jpg",
+    "alt": "Сухолесье и холмы на противоположном берегу бухты полуострова Санта-Элена",
+    "caption": "Берег полуострова Санта-Элена, сектор Мурсьелаго · 2023 год · уменьшенная копия",
+    "author": "Juan José Pucci / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/noticias/noticias-programa-de-ecoturismo/6574-informacion-importante-sitios-turisticos-de-acg-diciembre-2024-enero-2026",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "horizontes-forest-espinoza": {
+    "file": "horizontes-forest-espinoza.jpg",
+    "alt": "Поляны станции Орисонтес, окружённые сухим тропическим лесом",
+    "caption": "Лесная станция Орисонтес с воздуха · 2024 год · уменьшенная копия",
+    "author": "Melissa Espinoza / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/noticias/noticias-programa-de-ecoturismo/6574-informacion-importante-sitios-turisticos-de-acg-diciembre-2024-enero-2026",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "point": "horizontes-acg-visitor-pin"
+  },
+  "horizontes-lagoon-gonzalez": {
+    "file": "horizontes-lagoon-gonzalez.jpg",
+    "alt": "Лагуна Агуа-Кальенте среди деревьев сухого леса",
+    "caption": "Лагуна Агуа-Кальенте на станции Орисонтес · уменьшенная копия",
+    "author": "Marlon González / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-horizontes",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "horizontes-arboretum-acg": {
+    "file": "horizontes-arboretum-acg.jpg",
+    "alt": "Вход в дендрарий сухого леса на станции Орисонтес",
+    "caption": "Вход в Arboretum del Bosque Seco · фотоматериалы ACG · уменьшенная копия",
+    "author": "Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-horizontes",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "tres-amigos-river-commons": {
+    "file": "tres-amigos-river-commons.jpg",
+    "alt": "Лесные берега реки Трес-Амигос в округе Сан-Карлос",
+    "caption": "Трес-Амигос в Сан-Карлосе · архив 2012 года · уменьшенная копия",
+    "author": "m.prinke",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Tres_Amigos_(Tree_Friends)_river,_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "savegre-upstream-dota-rod": {
+    "file": "savegre-upstream-dota-rod.jpg",
+    "alt": "Каменистый ручей Савегре в высокогорном лесу Сан-Херардо-де-Дота",
+    "caption": "Верхнее течение Савегре в Сан-Херардо-де-Дота · октябрь 2014 года · уменьшенная копия",
+    "author": "Rodtico21",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Savegre_river._Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   }
 }

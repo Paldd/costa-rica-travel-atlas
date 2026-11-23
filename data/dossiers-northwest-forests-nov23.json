@@ -1,0 +1,441 @@
+{
+  "horizontes-dry-forest-trails": {
+    "stops": [
+      {
+        "point": "horizontes-acg-visitor-pin",
+        "role": "Регистрация и схема троп",
+        "note": "Здесь определите вариант под возраст детей и температуру."
+      },
+      {
+        "point": "horizontes-sombra-start",
+        "role": "Начало нанесённой части короткой прогулки",
+        "note": ""
+      },
+      {
+        "point": "horizontes-sombra-end",
+        "role": "Конец нанесённой части Bajo Sombra",
+        "note": ""
+      },
+      {
+        "point": "horizontes-coyotes-map-start",
+        "role": "Начало нанесённой линии к лагуне",
+        "note": ""
+      },
+      {
+        "point": "horizontes-coyotes-map-end",
+        "role": "Выход петли из леса",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Bajo Sombra и дендрарий",
+        "text": "ACG указывает круг Bajo Sombra длиной 800 м, примерно 30 минут, и круг Arboretum около 2 км. В дендрарии смотрят местные деревья сухого тропического леса. Длины сверены по тексту парка. На схеме 2018 года для Arboretum указана меньшая длина.",
+        "sources": [
+          "horizontes-acg-visitor-nov23",
+          "horizontes-station-acg-map-nov23"
+        ]
+      },
+      {
+        "title": "Лес у лагуны",
+        "text": "Los Coyotes проходит у лагуны Агуа-Кальенте. Здесь наблюдают водоплавающих птиц. Тропа около 2 км, но ACG относит её к высокой сложности. Спросите о состоянии лесного грунта и времени возвращения.",
+        "sources": [
+          "horizontes-acg-visitor-nov23",
+          "horizontes-coyotes-osm-nov23"
+        ]
+      },
+      {
+        "title": "Снаряжение и время",
+        "text": "Возьмите питьевую воду, закрытую обувь и защиту от солнца. Бинокль пригодится у лагуны. После дождя уточните покрытие дороги через Cabuyal и какие тропы открыты.",
+        "sources": [
+          "horizontes-acg-visitor-nov23",
+          "horizontes-acg-2026-booking-nov23"
+        ]
+      }
+    ],
+    "line": "horizontes-forest-walk-options",
+    "track": "horizontes-station-acg-map-nov23",
+    "contacts": [
+      {
+        "name": "Estación Experimental Forestal Horizontes · ACG",
+        "source": "horizontes-acg-visitor-nov23",
+        "note": "Билет на день, актуальная схема, контакт по велосипедам и условия ночёвки в albergue.",
+        "phone": "+506 8997 3341",
+        "email": "reservaciones.horizontes@acguanacaste.ac.cr",
+        "url": "https://explore-horizontes.com/"
+      }
+    ],
+    "photos": [
+      "horizontes-arboretum-acg",
+      "horizontes-lagoon-gonzalez",
+      "horizontes-forest-espinoza"
+    ],
+    "galleries": [
+      "horizontes-acg-visitor-nov23",
+      "acg-northwest-season-photo-report-2026"
+    ],
+    "nearby": [
+      "horizontes-el-saltillo-6",
+      "horizontes-mtb-station",
+      "junquillal-carao-estero-laguna"
+    ]
+  },
+  "horizontes-el-saltillo-6": {
+    "stops": [
+      {
+        "point": "horizontes-acg-visitor-pin",
+        "role": "Регистрация и проверка открытого маршрута",
+        "note": ""
+      },
+      {
+        "point": "horizontes-saltillo-mapped-start",
+        "role": "Начало линии GPX",
+        "note": ""
+      },
+      {
+        "point": "horizontes-saltillo-ford",
+        "role": "Переправа на нанесённой линии",
+        "note": "Проверяйте состояние у рейнджеров. При высоком уровне воды выбирайте короткую тропу у станции."
+      },
+      {
+        "point": "horizontes-saltillo-mapped-end",
+        "role": "Конец нанесённой линии",
+        "note": "Возврат к станции сверяйте с указателями."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сезонная вода и подвесной мост",
+        "text": "Парк относит тропу к сложным и указывает около трёх часов. Она идёт по сухому лесу с понижениями и ручьями. В дождливую часть года вода у водопада выше. До выхода узнайте состояние подхода и моста.",
+        "sources": [
+          "horizontes-acg-visitor-nov23",
+          "horizontes-saltillo-osm-nov23"
+        ]
+      },
+      {
+        "title": "Длина и открыт ли круг",
+        "text": "Нынешнее описание ACG даёт 6 км, схема 2018 года показывает 5,5 км, а GPX включает 4,3 км нанесённых дорожек. Возьмите воду, репеллент и обувь с цепкой подошвой. Следуйте по разрешённой на день визита схеме станции.",
+        "sources": [
+          "horizontes-acg-visitor-nov23",
+          "horizontes-station-acg-map-nov23",
+          "horizontes-saltillo-osm-nov23"
+        ]
+      }
+    ],
+    "line": "horizontes-saltillo-mapped-section",
+    "track": "horizontes-station-acg-map-nov23",
+    "contacts": [
+      {
+        "name": "Estación Experimental Forestal Horizontes · ACG",
+        "source": "horizontes-acg-visitor-nov23",
+        "note": "Билет на день, актуальная схема, контакт по велосипедам и условия ночёвки в albergue.",
+        "phone": "+506 8997 3341",
+        "email": "reservaciones.horizontes@acguanacaste.ac.cr",
+        "url": "https://explore-horizontes.com/"
+      }
+    ],
+    "photos": [
+      "horizontes-forest-espinoza"
+    ],
+    "videos": [
+      "horizontes-saltillo-acg-film-nov23"
+    ],
+    "galleries": [
+      "horizontes-acg-visitor-nov23",
+      "acg-northwest-season-photo-report-2026"
+    ],
+    "nearby": [
+      "horizontes-dry-forest-trails",
+      "horizontes-mtb-station"
+    ]
+  },
+  "horizontes-mtb-station": {
+    "stops": [
+      {
+        "point": "horizontes-cabuyal-road-turn",
+        "role": "Поворот на подъезд от Cabuyal",
+        "note": ""
+      },
+      {
+        "point": "horizontes-mtb-road-end",
+        "role": "Конец дорожной линии",
+        "note": ""
+      },
+      {
+        "point": "horizontes-acg-visitor-pin",
+        "role": "Регистрация и начало разрешённой велопрограммы",
+        "note": ""
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два варианта MTB",
+        "text": "ACG описывает два размеченных маршрута с разной сложностью. Перед выездом запросите длину, состояние покрытия, необходимость гида и допуск электровелосипеда. Для велосипеда придерживайтесь схемы, которую выдаёт станция.",
+        "sources": [
+          "horizontes-acg-visitor-nov23",
+          "horizontes-acg-2026-booking-nov23"
+        ]
+      },
+      {
+        "title": "Как добраться и что взять",
+        "text": "После Guardia ориентируйтесь на поворот к Cabuyal, дальше около 4 км по Calle Horizontes. Уточните, нужен ли высокий клиренс. Возьмите воду, шлем, средство от солнца, ремкомплект и телефон с сохранённой картой.",
+        "sources": [
+          "horizontes-acg-visitor-nov23",
+          "horizontes-cabuyal-road-osm-nov23"
+        ]
+      },
+      {
+        "title": "Если остаться на ночь",
+        "text": "У станции есть albergue. Ночёвку и питание бронируют через администрацию. Её наличие и вместимость проверяйте на выбранную дату.",
+        "sources": [
+          "horizontes-acg-visitor-nov23",
+          "horizontes-acg-2026-booking-nov23",
+          "horizontes-reservations-nov23"
+        ]
+      }
+    ],
+    "line": "horizontes-road-approach-gpx",
+    "track": "horizontes-station-acg-map-nov23",
+    "contacts": [
+      {
+        "name": "Estación Experimental Forestal Horizontes · ACG",
+        "source": "horizontes-acg-visitor-nov23",
+        "note": "Билет на день, актуальная схема, контакт по велосипедам и условия ночёвки в albergue.",
+        "phone": "+506 8997 3341",
+        "email": "reservaciones.horizontes@acguanacaste.ac.cr",
+        "url": "https://explore-horizontes.com/"
+      }
+    ],
+    "photos": [
+      "horizontes-forest-espinoza",
+      "horizontes-arboretum-acg"
+    ],
+    "galleries": [
+      "horizontes-acg-visitor-nov23",
+      "acg-northwest-season-photo-report-2026"
+    ],
+    "nearby": [
+      "horizontes-dry-forest-trails",
+      "horizontes-el-saltillo-6",
+      "junquillal"
+    ]
+  },
+  "murcielago-hachal-walk-12": {
+    "stops": [
+      {
+        "point": "junquillal-cuajiniquil",
+        "role": "Куахиникиль · съезд к материковому сектору",
+        "note": ""
+      },
+      {
+        "point": "murcielago-mainland-acg-pin",
+        "role": "Рейнджерский пост и билет",
+        "note": ""
+      },
+      {
+        "point": "murcielago-mainland-road-start",
+        "role": "Начало GPX",
+        "note": ""
+      },
+      {
+        "point": "murcielago-hachal-path-fork",
+        "role": "Развилка на лесную тропу",
+        "note": ""
+      },
+      {
+        "point": "murcielago-hachal-shore-end",
+        "role": "Конец тропы у бухты",
+        "note": "Пляжная часть доступна для дневного визита по правилам сектора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пеший выход в бухту",
+        "text": "ACG даёт ориентир около полутора часов пешком в одну сторону. GPX показывает 5,8 км от нанесённой точки у поста до конца тропы. Планируйте обратный выход с запасом до закрытия сектора.",
+        "sources": [
+          "murcielago-mainland-acg-nov23",
+          "murcielago-hachal-osm-nov23"
+        ]
+      },
+      {
+        "title": "Доступ и вода",
+        "text": "Текущая страница ACG указывает вход в сектор пешком или на велосипеде. На тропу выходите после сообщения рейнджерам, особенно по дождям. Возьмите воду, закрытую обувь, шляпу, репеллент и офлайн-карту.",
+        "sources": [
+          "murcielago-mainland-acg-nov23",
+          "murcielago-mainland-book-nov23"
+        ]
+      },
+      {
+        "title": "Бронь и короткая замена",
+        "text": "Форма сектора указывает работу с четверга по вторник, предельный вход в 14:00. Для короткой прогулки у рейнджерской станции ACG описывает El Nance на 800 м с уклонами и участками без тени.",
+        "sources": [
+          "murcielago-mainland-acg-nov23",
+          "murcielago-mainland-book-nov23"
+        ]
+      }
+    ],
+    "line": "murcielago-el-hachal-foot-gpx",
+    "track": "murcielago-mainland-acg-nov23",
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste · Murciélago",
+        "source": "murcielago-mainland-book-nov23",
+        "note": "Бронь и подтверждение открытого подхода, допуска MTB и правил на день.",
+        "phone": "+506 2666 5051",
+        "email": "ecoturismo@acguanacaste.ac.cr",
+        "url": "https://wa.me/50688869510"
+      }
+    ],
+    "photos": [
+      "murcielago-hachal-acg",
+      "murcielago-peninsula-pucci"
+    ],
+    "galleries": [
+      "murcielago-mainland-acg-nov23",
+      "acg-northwest-season-photo-report-2026"
+    ],
+    "nearby": [
+      "murcielago-santa-elena-mtb",
+      "junquillal",
+      "cuajiniquil-local-mangrove-boat"
+    ]
+  },
+  "murcielago-santa-elena-mtb": {
+    "stops": [
+      {
+        "point": "murcielago-mainland-acg-pin",
+        "role": "Бронь, регистрация и проверка воды",
+        "note": ""
+      },
+      {
+        "point": "murcielago-mainland-road-start",
+        "role": "Начало нанесённого пути",
+        "note": ""
+      },
+      {
+        "point": "murcielago-santa-elena-road-fork",
+        "role": "Поворот на Calle Santa Elena",
+        "note": ""
+      },
+      {
+        "point": "murcielago-santa-elena-road-end",
+        "role": "Конец нанесённой дороги у бухты",
+        "note": "Дальнейший подход уточняйте у сотрудников сектора."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расстояние и ранний старт",
+        "text": "Официальное описание даёт около 8 км и до трёх часов пешком в одну сторону. На карте 9,9 км по соединённой дорожной сети. Выбирайте время возврата по более длинной оценке и открытым участкам.",
+        "sources": [
+          "murcielago-mainland-acg-nov23",
+          "murcielago-santa-elena-road-osm-nov23",
+          "murcielago-mainland-book-nov23"
+        ]
+      },
+      {
+        "title": "Подходит для обычного MTB после проверки",
+        "text": "Сайт ACG допускает велосипедный вход в сектор. Уточните у рейнджеров открытые ветки, переправы и условия для e-bike. Нужны вода, шлем, ремкомплект, офлайн-навигация и запас времени до закрытия.",
+        "sources": [
+          "murcielago-mainland-acg-nov23",
+          "murcielago-mainland-book-nov23"
+        ]
+      },
+      {
+        "title": "Бухта и сухой лес",
+        "text": "Лесные дороги ведут между массивами полуострова. В сухую погоду здесь меньше тени, в дождливую поднимается вода в реках. Запланируйте дневной визит. Для короткой версии можно выбрать пеший выход к El Hachal.",
+        "sources": [
+          "murcielago-mainland-acg-nov23",
+          "acg-northwest-season-photo-report-2026"
+        ]
+      }
+    ],
+    "line": "murcielago-santa-elena-land-gpx",
+    "track": "murcielago-mainland-acg-nov23",
+    "contacts": [
+      {
+        "name": "Área de Conservación Guanacaste · Murciélago",
+        "source": "murcielago-mainland-book-nov23",
+        "note": "Бронь и подтверждение открытого подхода, допуска MTB и правил на день.",
+        "phone": "+506 2666 5051",
+        "email": "ecoturismo@acguanacaste.ac.cr",
+        "url": "https://wa.me/50688869510"
+      }
+    ],
+    "photos": [
+      "murcielago-peninsula-pucci"
+    ],
+    "galleries": [
+      "murcielago-mainland-acg-nov23",
+      "acg-northwest-season-photo-report-2026"
+    ],
+    "nearby": [
+      "murcielago-hachal-walk-12",
+      "junquillal",
+      "murcielago-bat-islands-scuba"
+    ]
+  },
+  "junquillal-carao-estero-laguna": {
+    "connectStops": false,
+    "stops": [
+      {
+        "point": "junquillal-gate",
+        "role": "Въезд в заказник со стороны Куахиникиля",
+        "note": ""
+      },
+      {
+        "point": "junquillal-acg-day-area",
+        "role": "Прибрежный ориентир по схеме ACG",
+        "note": "Схему каждой тропы и паркование покажут сотрудники."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткие дорожки",
+        "text": "El Carao — круг около 600 м по сухому лесу. Estero Seco — около 800 м в одну сторону от дневного сектора к эстуарию. La Laguna — около 800 м от края кемпинга. Береговая прогулка зависит от прилива и дождей.",
+        "sources": [
+          "junquillal-trails",
+          "junquillal-acg-schematic-nov23"
+        ]
+      },
+      {
+        "title": "Доступный вход и отдых у воды",
+        "text": "У заказника есть оборудованный пляжный доступ. У ассоциации уточните часы помощи и наличие оборудования на дату. Для прогулки возьмите воду, головной убор и закрытую обувь. Открытые зоны купания обозначены на берегу.",
+        "sources": [
+          "junquillal-trails",
+          "junquillal-accessible-acg-nov23",
+          "junquillal-association"
+        ]
+      }
+    ],
+    "track": "junquillal-acg-schematic-nov23",
+    "contacts": [
+      {
+        "name": "Aso Junquillal",
+        "source": "junquillal-association",
+        "note": "Прокат, поддержка доступного визита, дневные зоны и бронь кемпинга.",
+        "phone": "+506 6133 0349",
+        "email": "info@junquillallacruz.com",
+        "url": "https://www.junquillallacruz.com/contacto/"
+      }
+    ],
+    "photos": [
+      "junquillal-refuge-matarrita",
+      "junquillal-bay-capelli",
+      "junquillal-kayak-espinoza"
+    ],
+    "videos": [
+      "film-qbl-bahia-junquillal"
+    ],
+    "galleries": [
+      "junquillal-trails",
+      "gallery-qbl-bahia-junquillal"
+    ],
+    "nearby": [
+      "junquillal",
+      "cuajiniquil-local-mangrove-boat",
+      "murcielago-hachal-walk-12",
+      "horizontes-dry-forest-trails"
+    ]
+  }
+}

@@ -1119,3 +1119,20 @@ el-millon-via936-turn	Эль-Мильон · поворот с Vía 936	10.42776
 el-millon-camp-road-end	Эль-Мильон · дорожная точка рядом с кемпингом	10.411769	-84.7586051	el-millon-camp-approach-osm-nov23
 el-millon-volcanoes-photo-point	Эль-Мильон · точка архивного снимка вулканов	10.4193	-84.7542	el-millon-road-photo-geotag
 tronadora-ebike-road-finish	Тронадора · конец дорожного велоучастка	10.500347	-84.923068	rio-chiquito-tronadora-osm-pretour
+horizontes-acg-visitor-pin	Horizontes · точка приезда по карте ACG	10.71293	-85.5978747	horizontes-acg-visitor-nov23
+horizontes-coyotes-map-start	Horizontes · начало линии Los Coyotes	10.7148079	-85.5945547	horizontes-coyotes-osm-nov23
+horizontes-coyotes-map-end	Horizontes · выход линии Los Coyotes	10.7148395	-85.5946674	horizontes-coyotes-osm-nov23
+horizontes-sombra-start	Horizontes · начало линии Bajo Sombra	10.7051126	-85.5983691	horizontes-sombra-osm-nov23
+horizontes-sombra-end	Horizontes · конец линии Bajo Sombra	10.7035989	-85.5986047	horizontes-sombra-osm-nov23
+horizontes-saltillo-mapped-start	Эль-Сальтийо · начало нанесённой тропы	10.7143748	-85.5959153	horizontes-saltillo-osm-nov23
+horizontes-saltillo-ford	Эль-Сальтийо · отмеченная переправа	10.7279951	-85.6018854	horizontes-saltillo-osm-nov23
+horizontes-saltillo-mapped-end	Эль-Сальтийо · конец нанесённой тропы	10.7147943	-85.5969537	horizontes-saltillo-osm-nov23
+horizontes-cabuyal-road-turn	Calle Cabuyal · поворот на дорогу к Horizontes	10.6838603	-85.6072253	horizontes-cabuyal-road-osm-nov23
+horizontes-mtb-road-end	Calle Horizontes · конец линии подъезда	10.7126026	-85.5959872	horizontes-cabuyal-road-osm-nov23
+murcielago-mainland-acg-pin	Мурсьелаго · точка въезда из указаний ACG	10.9013	-85.72926	murcielago-mainland-acg-nov23
+murcielago-mainland-road-start	Мурсьелаго · начало линии у поста	10.9010475	-85.728849	murcielago-hachal-osm-nov23
+murcielago-hachal-path-fork	Мурсьелаго · развилка лесной тропы	10.9012469	-85.732681	murcielago-hachal-osm-nov23
+murcielago-hachal-shore-end	Эль-Ачаль · конец тропы у берега	10.9340059	-85.7291252	murcielago-hachal-osm-nov23
+murcielago-santa-elena-road-fork	Мурсьелаго · съезд на Calle Santa Elena	10.9093798	-85.7990259	murcielago-santa-elena-road-osm-nov23
+murcielago-santa-elena-road-end	Санта-Элена · конец нанесённой дороги	10.8966859	-85.8055608	murcielago-santa-elena-road-osm-nov23
+junquillal-acg-day-area	Баия-Хункильяль · точка приезда у берега	10.96767	-85.68716	junquillal-trails

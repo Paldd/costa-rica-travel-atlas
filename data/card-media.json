@@ -1057,7 +1057,9 @@
       "gallery-witch-rock-guanacaste-commons"
     ],
     "photos": [
-      "roca-bruja-naranjo-commons"
+      "roca-bruja-naranjo-commons",
+      "naranjo-forest-capelli",
+      "naranjo-shore-espinoza"
     ],
     "videos": [
       "film-santa-rosa-ed-leahy-road"
@@ -1068,10 +1070,12 @@
       "gallery-witch-rock-guanacaste-commons"
     ],
     "photos": [
-      "roca-bruja-naranjo-commons"
+      "roca-bruja-naranjo-commons",
+      "naranjo-shore-espinoza"
     ],
     "videos": [
-      "film-santa-rosa-ed-leahy-road"
+      "film-santa-rosa-ed-leahy-road",
+      "naranjo-acg-camp-archive-nov23"
     ]
   },
   "naranjo-surf": {
@@ -1083,7 +1087,8 @@
       "naranjo-info"
     ],
     "photos": [
-      "roca-bruja-naranjo-commons"
+      "roca-bruja-naranjo-commons",
+      "naranjo-shore-espinoza"
     ]
   },
   "nauyaca-don-lulo": {
@@ -1515,13 +1520,17 @@
   "savegre": {
     "photos": [
       "atlas-dota-sav",
-      "savegre-dota-river-commons"
+      "savegre-dota-river-commons",
+      "savegre-upstream-dota-rod"
     ]
   },
   "savegre-abajo-family-14": {
     "galleries": [
       "rafiki-savegre-rafting-family",
       "media-finca-savegre-pics"
+    ],
+    "videos": [
+      "savegre-amigos-field-film-nov23"
     ]
   },
   "selva-madre-rooftent-trout": {
@@ -1596,6 +1605,9 @@
     "galleries": [
       "media-canas-ict-field-guide",
       "rcr-tenorio-whitewater-program"
+    ],
+    "videos": [
+      "tenorio-upper-pozo-azul-film-nov23"
     ]
   },
   "tenorio-celeste": {
@@ -1912,7 +1924,14 @@
       "film-qbl-bahia-junquillal"
     ],
     "galleries": [
-      "gallery-qbl-bahia-junquillal"
+      "gallery-qbl-bahia-junquillal",
+      "junquillal-accessible-acg-nov23"
+    ],
+    "photos": [
+      "junquillal-refuge-matarrita",
+      "junquillal-bay-capelli",
+      "junquillal-kayak-espinoza",
+      "junquillal-shore-espinoza"
     ]
   },
   "santa-rosa-junquillal": {
@@ -1921,6 +1940,10 @@
     ],
     "galleries": [
       "gallery-qbl-bahia-junquillal"
+    ],
+    "photos": [
+      "junquillal-refuge-matarrita",
+      "junquillal-bay-capelli"
     ]
   },
   "junquillal-malinches-rooftent": {
@@ -2131,7 +2154,8 @@
   "rafiki-savegre-river-glamping": {
     "videos": [
       "film-379-rafiki-qbl",
-      "film-379-rafiki-frog"
+      "film-379-rafiki-frog",
+      "rafiki-mtb-fuentes-archive-nov23"
     ],
     "galleries": [
       "gallery-379-rafiki-field"
@@ -2258,7 +2282,9 @@
   },
   "arenal-balsa-adrenaline-12": {
     "videos": [
-      "balsa-arenal-adrenaline-film"
+      "balsa-arenal-adrenaline-film",
+      "rio-balsa-arenal-rafting-field-film-nov23",
+      "arenal-rafting-balsa-company-film-nov23"
     ]
   },
   "guachipelin": {
@@ -2521,6 +2547,9 @@
   "tres-amigos-packraft-fortuna": {
     "videos": [
       "tres-amigos-host-packraft-video"
+    ],
+    "photos": [
+      "tres-amigos-river-commons"
     ]
   },
   "la-angelina-trail-11": {
@@ -2646,6 +2675,75 @@
     "galleries": [
       "carara-commons-gallery-nov23",
       "carara-qbl-field-report-nov23"
+    ]
+  },
+  "finca-colasa-view-campfire": {
+    "videos": [
+      "colasa-qbl-2022-camp-film"
+    ]
+  },
+  "finca-koki": {
+    "videos": [
+      "koki-naodetour-field-film"
+    ]
+  },
+  "finca-koki-venado-33": {
+    "videos": [
+      "koki-naodetour-field-film"
+    ]
+  },
+  "santa-rosa-casona": {
+    "videos": [
+      "santa-rosa-acg-site-film-nov23"
+    ]
+  },
+  "junquillal-naranjo-salinas-rooftop-4": {
+    "photos": [
+      "junquillal-refuge-matarrita",
+      "naranjo-shore-espinoza"
+    ],
+    "videos": [
+      "film-qbl-bahia-junquillal",
+      "naranjo-acg-camp-archive-nov23"
+    ]
+  },
+  "cuajiniquil-local-mangrove-boat": {
+    "photos": [
+      "junquillal-bay-capelli",
+      "murcielago-peninsula-pucci"
+    ],
+    "galleries": [
+      "junquillal-accessible-acg-nov23",
+      "murcielago-mainland-acg-nov23"
+    ]
+  },
+  "maquenque-tres-amigos-safari-float": {
+    "photos": [
+      "tres-amigos-river-commons"
+    ],
+    "videos": [
+      "maquenque-traveltweet-safari-float-nov23",
+      "maquenque-activities-own-film-nov23"
+    ]
+  },
+  "arenal-balsa-raft-atv": {
+    "videos": [
+      "rio-balsa-arenal-rafting-field-film-nov23"
+    ]
+  },
+  "savegre-medio-20-rapids": {
+    "videos": [
+      "savegre-amigos-field-film-nov23"
+    ]
+  },
+  "angostura-atirro-flatwater-sup": {
+    "videos": [
+      "casa-turire-hotel-grounds-film-nov23"
+    ]
+  },
+  "turrialba-angostura-atirro-weekend-2": {
+    "videos": [
+      "casa-turire-hotel-grounds-film-nov23"
     ]
   }
 }
