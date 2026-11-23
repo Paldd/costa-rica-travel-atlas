@@ -10,6 +10,31 @@
         "point": "cocos-wafer-bay",
         "role": "Бухта Уэйфер · ориентир парка",
         "note": "Капитан согласует стоянку и возможность высадки."
+      },
+      {
+        "point": "cocos-manuelita-somera",
+        "role": "Manuelita Somera · мелководная зона",
+        "note": "Мелководная сторона Мануэлиты на официальной схеме. Вход согласуйте с экипажем."
+      },
+      {
+        "point": "cocos-manuelita-canal",
+        "role": "Manuelita Canal · зона погружений",
+        "note": "Канал на карте парка. Дайв-мастер проверяет течение до выхода."
+      },
+      {
+        "point": "cocos-manuelita-profunda",
+        "role": "Manuelita Profunda · глубокая зона",
+        "note": "Глубокий сектор на северной стороне. Программу назначает дайв-мастер."
+      },
+      {
+        "point": "cocos-roca-sucia-dive",
+        "role": "Roca Sucia · зона погружений Dirty Rock",
+        "note": "Отдельный сектор к западу от бухты Уэйфер. Выходят на лодке экипажа."
+      },
+      {
+        "point": "cocos-chatham-este-dive",
+        "role": "Chatham Este · восточная зона погружений",
+        "note": "Восточный сектор Чатема с карты национального парка."
       }
     ],
     "sections": [
@@ -17,17 +42,20 @@
         "title": "Районы по карте парка",
         "text": "У северного берега выделяются стороны Мануэлиты, Рока-Сусия и другие скальные участки. Карта SINAC отмечает официальные зоны. Дайв-мастер сообщает, куда капитан ведёт малое судно.",
         "sources": [
+          "cocos-faico-diving-map",
           "cocos-sinac-marine-plan",
           "cocos-undersea-program"
         ]
       },
       {
         "title": "Полевой отчёт Sea Hunter",
-        "text": "Сравните свежий ноябрьский отчёт Sea Hunter с сентябрьским рейсом и картой парка. Датированные фото помогают понять характер программы и мест. Состав встреч с животными и доступ к точкам меняются по условиям дня.",
+        "text": "Сравните свежий ноябрьский отчёт Sea Hunter с сентябрьским рейсом и картой парка. Датированные фото помогают понять характер программы и мест. Состав встреч с животными и доступ к точкам меняются по условиям дня. Июньское видео снято экипажем. В ролике участника из 2025 года отдельно видны переход от берега, кадры с борта и погружения.",
         "sources": [
           "cocos-sea-hunter-nov-log",
           "cocos-sea-hunter-sept-log",
-          "undersea-trip-reports"
+          "undersea-trip-reports",
+          "cocos-sea-hunter-june-2026-film",
+          "cocos-dive-hard-sea-hunter-film"
         ]
       }
     ],
@@ -59,6 +87,11 @@
     ],
     "photos": [
       "cocos-manuelita-commons"
+    ],
+    "track": "cocos-faico-diving-map",
+    "videos": [
+      "cocos-sea-hunter-june-2026-film",
+      "cocos-dive-hard-sea-hunter-film"
     ]
   },
   "cocos-sea-hunter-11-liveaboard": {
@@ -77,6 +110,21 @@
         "point": "cocos-chatham-bay",
         "role": "Бухта Чатем · северные дайв-сайты",
         "note": "Точка показывает бухту. Место входа в воду утверждает команда."
+      },
+      {
+        "point": "cocos-manuelita-somera",
+        "role": "Manuelita Somera · мелководная зона",
+        "note": "Один из возможных участков программы возле Мануэлиты."
+      },
+      {
+        "point": "cocos-roca-sucia-dive",
+        "role": "Roca Sucia · зона погружений Dirty Rock",
+        "note": "Скальный дайв-сайт у северо-западного берега."
+      },
+      {
+        "point": "cocos-bajo-alcyone-dive",
+        "role": "Bajo Alcyone · зона погружений",
+        "note": "Юго-восточная зона на схеме FAICO. Доступ определяет экипаж по условиям."
       }
     ],
     "sections": [
@@ -100,6 +148,7 @@
         "title": "Карта и выход на берег",
         "text": "Чатем и Уэйфер служат географическими ориентирами. Разрешение выдаёт администрация парка, а заходы на берег и точные участки меняются по волне и распоряжениям рейнджеров. Общая карта помогает изучить зоны.",
         "sources": [
+          "cocos-faico-diving-map",
           "cocos-sinac-marine-plan",
           "cocos-sinac-visit",
           "cocos-undersea-program"
@@ -107,11 +156,13 @@
       },
       {
         "title": "Что видно в отчётах",
-        "text": "Сравните свежий ноябрьский отчёт Sea Hunter с сентябрьским рейсом и картой парка. Датированные фото помогают понять характер программы и мест. Состав встреч с животными и доступ к точкам меняются по условиям дня.",
+        "text": "Сравните свежий ноябрьский отчёт Sea Hunter с сентябрьским рейсом и картой парка. Датированные фото помогают понять характер программы и мест. Состав встреч с животными и доступ к точкам меняются по условиям дня. Июньское видео снято экипажем. В ролике участника из 2025 года отдельно видны переход от берега, кадры с борта и погружения.",
         "sources": [
           "cocos-sea-hunter-nov-log",
           "cocos-sea-hunter-sept-log",
-          "undersea-trip-reports"
+          "undersea-trip-reports",
+          "cocos-sea-hunter-june-2026-film",
+          "cocos-dive-hard-sea-hunter-film"
         ]
       }
     ],
@@ -143,6 +194,11 @@
     ],
     "photos": [
       "cocos-manuelita-commons"
+    ],
+    "track": "cocos-faico-diving-map",
+    "videos": [
+      "cocos-sea-hunter-june-2026-film",
+      "cocos-dive-hard-sea-hunter-film"
     ]
   },
   "murcielago-bat-islands-scuba": {

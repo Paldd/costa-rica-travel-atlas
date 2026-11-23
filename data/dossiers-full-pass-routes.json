@@ -173,6 +173,15 @@
           "fb-full-museo-weekends",
           "museum-national-entry"
         ]
+      },
+      {
+        "title": "Архив музея · остров Кокос",
+        "text": "На сайте музея доступен архив завершённой выставки об острове Кокос. В видеоматериалах сотрудники CIMAR объясняют научный контекст, а команда Fab Lab Veritas показывает изготовление макета.",
+        "sources": [
+          "museum-coco-archived-exhibition",
+          "museum-coco-cimar-exhibition-film",
+          "museum-coco-veritas-model-film"
+        ]
       }
     ],
     "contacts": [

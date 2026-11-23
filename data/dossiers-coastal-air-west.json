@@ -247,7 +247,8 @@
         "source": "sj-kids-museum-visit",
         "url": "https://museocr.org/ninos/tu-visita/",
         "email": "reservaciones@museocr.org",
-        "note": "Обычные часы, выставки и условия доступа."
+        "note": "Обычные часы, выставки и условия доступа.",
+        "phone": "+506 2258 4929"
       }
     ],
     "sections": [
@@ -266,6 +267,14 @@
           "sj-kids-museum-visit",
           "publisher-archive-museocr-family-events"
         ]
+      },
+      {
+        "title": "Билеты и занятия с детьми",
+        "text": "На странице посещения указаны 2 500 колонов для детей старше шести месяцев и 3 000 для посетителей старше 15 лет. Музей рекомендует брать билеты онлайн из-за дневного лимита. Для полного круга по залам закладывайте примерно три с половиной часа. Среди интерактивных заданий есть станции проекта Misión Empatía о совместных решениях и общении.",
+        "sources": [
+          "sj-kids-museum-visit",
+          "sj-kids-museum-empathy-program"
+        ]
       }
     ],
     "galleries": [
@@ -274,6 +283,12 @@
     ],
     "nearby": [
       "san-jose-museo-ninos-lighting-2026"
+    ],
+    "photos": [
+      "museo-ninos-facade-commons"
+    ],
+    "videos": [
+      "sj-kids-museum-empathy-film"
     ]
   },
   "san-jose-museo-ninos-lighting-2026": {
@@ -321,7 +336,10 @@
     "nearby": [
       "san-jose-museo-ninos-interactive"
     ],
-    "connectStops": false
+    "connectStops": false,
+    "photos": [
+      "museo-ninos-facade-commons"
+    ]
   },
   "mora-ermitas-llano-camp-2": {
     "stops": [

@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  Activity, Bike, Bird, CarFront, Coffee, Compass, Fish, Flame, Footprints,
+  Bike, Bird, CarFront, Coffee, Compass, Fish, Flame, Footprints,
   House, Landmark, Mountain, Plane, Route, Sailboat, Ship, Sun,
   TentTree, TreePine, Truck, Waves, Wind, Zap,
 } from "lucide-react";
@@ -52,6 +52,24 @@ const Quad = sportIcon(<>
   <path d="M3 15v-2h6l3 3h4l2-3h4v2m-10 1 2-7h5m-3 0V6M7 11h4M8 18h8" />
 </>);
 
+const Scuba = sportIcon(<>
+  <path d="M3 8h18v5c0 2-2 4-4 4h-2l-3-3-3 3H7c-2 0-4-2-4-4V8ZM2 10h1m18 0h1M7 11h2m6 0h2m-5 7c-2 0-3 1-3 2s1 2 3 2 3-1 3-2-1-2-3-2Z" />
+</>);
+
+const Canyoning = sportIcon(<>
+  <path d="m2 6 4-3 6 3-4 5-2 6H2m10-11v4m0 0-2 4 2 3-2 4m2-4 4 2 3-3m-7-6 5 3h3" />
+  <circle cx="15" cy="7" r="1.5" />
+</>);
+
+const Waterfall = sportIcon(<>
+  <path d="M2 6h12l4 4h4M6 7v7m4-7v10m4-8v4m4-2v5M2 21l3-2 3 2 4-2 4 2 3-2 3 2" />
+</>);
+
+const TrailRun = sportIcon(<>
+  <circle cx="15" cy="4" r="1.8" />
+  <path d="m6 10 4-3 4 1 2 4h4m-7-4-3 6 5 3-1 4m-4-7-3 5H3M2 14h3m13 5h4" />
+</>);
+
 const groups = [
   ["rides", Zap, "ebike"],
   ["rides", Mtb, "mtb"],
@@ -71,13 +89,15 @@ const groups = [
   ["water", Packraft, "packraft"],
   ["water", Paddleboard, "sup"],
   ["water", Kayak, "kayak"],
-  ["water", Waves, "tubing", "snorkel", "scuba", "swim"],
+  ["water", Scuba, "scuba"],
+  ["water", Waves, "tubing", "snorkel", "swim"],
   ["water", Sailboat, "catamaran"],
   ["water", Ship, "boat", "own-craft"],
   ["land", Plane, "scenic-flight"],
   ["land", Flame, "thermal"],
-  ["nature", Mountain, "summit", "volcano", "cave", "canyoning"],
-  ["nature", Activity, "trailrun"],
+  ["nature", Canyoning, "canyoning"],
+  ["nature", Mountain, "summit", "volcano", "cave"],
+  ["nature", TrailRun, "trailrun"],
   ["nature", Footprints, "hiking", "multi"],
   ["land", CarFront, "car", "border"],
   ["land", Coffee, "coffee", "cafe"],
@@ -85,7 +105,8 @@ const groups = [
   ["nature", Bird, "wildlife"],
   ["nature", TreePine, "forest", "canopy", "horseback"],
   ["water", Sun, "beach", "white-sand", "dark-sand", "relax"],
-  ["water", Waves, "waterfall", "lake", "river"],
+  ["water", Waterfall, "waterfall"],
+  ["water", Waves, "lake", "river"],
   ["nature", Route, "views", "savanna"],
 ];
 

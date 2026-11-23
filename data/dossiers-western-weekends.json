@@ -108,7 +108,8 @@
         "sources": [
           "lasmusas-visit-report",
           "lasmusas-local-video",
-          "lasmusas-attractions"
+          "lasmusas-attractions",
+          "lasmusas-adondeir-field-report"
         ]
       }
     ],
