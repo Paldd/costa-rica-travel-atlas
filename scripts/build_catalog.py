@@ -406,6 +406,9 @@ def attach_stop_media(records, dossiers):
                 if photo := next(iter(dossiers[stop].get("photos", [])), None):
                     dossier["stageCover"] = {**photo, "caption": f"Остановка · {photo['caption']}", "record": stop}
                     break
+        if not dossier.get("photos") and not dossier.get("stageCover"):
+            if photo := next((stop["photo"] for stop in stops if "photo" in stop), None):
+                dossier["stageCover"] = {**photo, "caption": f"Остановка · {photo['caption']}"}
 
 
 def main():
@@ -432,6 +435,7 @@ def main():
             raise ValueError(f"Duplicate route geometry: {', '.join(sorted(overlap))}")
         lines.update(entries)
     photos = json.loads((DATA / "photos.json").read_text())
+    point_photos = {}
     for key, photo in photos.items():
         file = photo.get("file", "")
         if (
@@ -441,6 +445,12 @@ def main():
             or any(urlsplit(photo.get(field, "")).scheme != "https" for field in ("original", "licenseUrl"))
         ):
             raise ValueError(f"Missing image or photo credit for {key}")
+        if point := photo.get("point"):
+            if point not in points or point in point_photos:
+                raise ValueError(f"Unknown or repeated photo assignment for {point}")
+            point_photos[point] = photo
+    for point, photo in point_photos.items():
+        points[point]["photo"] = photo
     media_path = DATA / "card-media.json"
     media_edits = json.loads(media_path.read_text(encoding="utf-8")) if media_path.exists() else {}
     dossiers = {}

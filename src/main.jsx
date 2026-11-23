@@ -449,7 +449,8 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
     </dl>
     {Boolean(dossier?.stops.length) && <Suspense fallback={<p role="status">Загружаем карту…</p>}>
       <RouteMap key={row.id} record={row} stops={dossier.stops} track={atlas.sources[dossier.track]} line={line}
-        lines={atlas.lines} sources={atlas.sources} connectStops={dossier.connectStops} />
+        lines={atlas.lines} sources={atlas.sources} connectStops={dossier.connectStops}
+        renderPhoto={photo => <RoutePhoto photo={photo} className="stop-photo" loading="lazy" />} />
     </Suspense>}
     <div className="detail-body">
       <section>

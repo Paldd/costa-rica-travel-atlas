@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import L from "leaflet";
-import { Download } from "lucide-react";
+import { Camera, Download } from "lucide-react";
 import { createOsmMap, routePathStyle } from "./osmMap.js";
 import { downloadGpx, openMapLines } from "./gpx.js";
 import ActivityIcon from "./ActivityIcon.jsx";
@@ -8,7 +8,7 @@ import ActivityIcon from "./ActivityIcon.jsx";
 const mapUrl = ([lat, lon]) => `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
 const osmPointUrl = ([lat, lon]) => `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=16/${lat}/${lon}`;
 
-export default function RouteMap({ record, stops, track, line, lines, sources, connectStops = true }) {
+export default function RouteMap({ record, stops, track, line, lines, sources, renderPhoto, connectStops = true }) {
   const container = useRef(null);
   const markers = useRef([]);
   const mapView = useRef(null);
@@ -140,8 +140,10 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
             <span className="stop-number" aria-hidden="true">{index + 1}</span>
             {stop.activity && <ActivityIcon activity={stop.activity} size={15} />}
             <span><strong>{stop.name}</strong><small>{stop.role}</small></span>
+            {stop.photo && <Camera className="point-photo-icon" size={16} aria-hidden="true" />}
           </button>
           {stop.note && <p>{stop.note}</p>}
+          {selected === index && stop.photo && renderPhoto(stop.photo)}
           <div className="point-links">
             <a href={mapUrl(stop.coords)} target="_blank" rel="noopener noreferrer">Открыть точку</a>
             <a href={stop.source === "osm-cr-points" ? osmPointUrl(stop.coords) : sources[stop.source].url}

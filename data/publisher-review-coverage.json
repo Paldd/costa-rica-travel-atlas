@@ -1,9 +1,9 @@
 {
   "archives": 143,
-  "archivesRead": 134,
+  "archivesRead": 135,
   "bySource": {
     "aguas-claras-activity-index": {
-      "indexed": null,
+      "indexed": 6,
       "pages": [
         {
           "checked": "2026-11-22",
@@ -42,7 +42,7 @@
           "url": "https://hotelaguasclaras.com/puerto-viejo/"
         }
       ],
-      "read": null
+      "read": 6
     },
     "alta-emtb-programs": {
       "indexed": 2,
@@ -216,7 +216,7 @@
       "read": 1
     },
     "bocas-visit-classic-boat": {
-      "indexed": 14,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -301,7 +301,7 @@
           "url": "https://go.bocasdeltoro.travel/es/recommended/cayo-coral-restaurante/"
         }
       ],
-      "read": 14
+      "read": null
     },
     "buen-camino-owner-ride": {
       "indexed": 4,
@@ -513,6 +513,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Golfo Dulce Activities - CR Travel - Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/experiences"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Descubra Uso de Kayaks & Paddleboards en Bahía Cativo |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/uso-de-kayaks-tabla-remo-en-bahia-cativo"
         },
@@ -588,7 +594,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Buceo (Golfo Dulce) |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/buceo-golfo-dulce"
         },
@@ -603,7 +608,7 @@
           "url": "https://www.playacativo.com/es/experiencias/aventura-a-caballo-en-puerto-jimenez"
         }
       ],
-      "read": 19
+      "read": 20
     },
     "cinchona-trails-operator": {
       "indexed": 1,
@@ -662,8 +667,26 @@
       ],
       "read": 9
     },
+    "cocles-mya-villas-glamping-formats": {
+      "indexed": 2,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Villas y Glampings - Villasmya",
+          "url": "https://villasmya.com/villas-y-glampings/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Quienes Somos - Villasmya",
+          "url": "https://villasmya.com/quienes-somos/"
+        }
+      ],
+      "read": 2
+    },
     "colina-secreta-host-stay": {
-      "indexed": 15,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -743,7 +766,7 @@
           "url": "https://colinasecreta.com/es/stay/belvedere-house/"
         }
       ],
-      "read": 15
+      "read": null
     },
     "conchal-reserva-program": {
       "indexed": 4,
@@ -1233,7 +1256,7 @@
       "read": 2
     },
     "ni-rivas-casaoro-maderas": {
-      "indexed": null,
+      "indexed": 2,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -1246,7 +1269,7 @@
           "url": "https://casaorogroup.com/en/experiencias/surf/"
         }
       ],
-      "read": null
+      "read": 2
     },
     "ni-rivas-sail-charter": {
       "indexed": 1,
@@ -1525,19 +1548,16 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Planet Hollywood Costa Rica | 5-Star All-Inclusive Resort",
           "url": "https://www.planethollywoodhotels.com/resorts/costa-rica"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Costa Rica All-Inclusive Family Resort - Planet Hollywood CR",
           "url": "https://www.planethollywoodhotels.com/costa-rica-allinclusive-family-resort"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Attractions | Planet Hollywood Costa Rica",
           "url": "https://www.planethollywoodhotels.com/resorts/costa-rica/our-resort/attractions"
         }
@@ -2081,28 +2101,24 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-28",
-          "readThisRun": true,
           "title": "Parque Nacional Palo Verde",
           "url": "https://adondeircr.com/guanacaste/parque-nacional-palo-verde/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-27",
-          "readThisRun": true,
           "title": "Hospedarse en una burbuja, una experiencia que se puede vivir en Nosara",
           "url": "https://adondeircr.com/guanacaste/hospedarse-en-una-burbuja-una-experiencia-que-se-puede-vivir-en-nosara/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-27",
-          "readThisRun": true,
           "title": "Costa Rica aplicará mayor apertura de comercios durante septiembre",
           "url": "https://adondeircr.com/alajuela/costa-rica-aplicara-mayor-apertura-de-comercios-durante-septiembre/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-27",
-          "readThisRun": true,
           "title": "Así se iluminó el cielo esta noche para dar un mensaje de esperanza en tiempos de Covid-19",
           "url": "https://adondeircr.com/heredia/asi-se-ilumino-el-cielo-esta-noche-para-dar-un-mensaje-de-esperanza-en-tiempos-de-covid-19/?c1"
         },
@@ -2110,8 +2126,42 @@
           "checked": "2026-11-23",
           "published": "2020-08-26",
           "readThisRun": true,
+          "title": "Esta es la lista completa de establecimientos que podrán operar la próxima semana en cantones naranja",
+          "url": "https://adondeircr.com/heredia/esta-es-la-lista-completa-de-establecimientos-que-podran-operar-la-proxima-semana-en-cantones-naranja/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-26",
           "title": "Atención: Así funcionará la restricción vehicular a partir del 31 de agosto",
           "url": "https://adondeircr.com/heredia/atencion-asi-funcionara-la-restriccion-vehicular-a-partir-del-31-de-agosto/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-26",
+          "readThisRun": true,
+          "title": "Así funcionará la fase de apertura de establecimientos durante septiembre",
+          "url": "https://adondeircr.com/heredia/asi-funcionara-la-fase-de-apertura-de-establecimientos-durante-septiembre/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-25",
+          "readThisRun": true,
+          "title": "Parque Nacional Barra Honda",
+          "url": "https://adondeircr.com/guanacaste/parque-nacional-barra-honda/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-25",
+          "readThisRun": true,
+          "title": "El mágico bosque de Prusia",
+          "url": "https://adondeircr.com/cartago/el-magico-bosque-de-prusia/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-24",
+          "readThisRun": true,
+          "title": "Así funcionará la restricción vehicular durante esta semana y hasta el 30 de agosto",
+          "url": "https://adondeircr.com/san-jose/asi-funcionara-la-restriccion-vehicular-durante-esta-semana-y-hasta-el-30-de-agosto/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2414,7 +2464,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 140
+      "read": 145
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -2422,21 +2472,18 @@
         {
           "checked": "2026-11-23",
           "published": "2025-07-30",
-          "readThisRun": true,
           "title": "Casa de Playa - Andaz | Pura Vida",
           "url": "https://andazpuravida.com/casa-de-playa/"
         },
         {
           "checked": "2026-11-23",
           "published": "2024-10-10",
-          "readThisRun": true,
           "title": "Activities - Andaz | Pura Vida",
           "url": "https://andazpuravida.com/activities/"
         },
         {
           "checked": "2026-11-23",
           "published": "2024-10-03",
-          "readThisRun": true,
           "title": "Active Programming - Andaz | Pura Vida",
           "url": "https://andazpuravida.com/active-programming-andaz/"
         }
@@ -2593,7 +2640,7 @@
       "read": 2
     },
     "publisher-archive-bccr-exhibitions": {
-      "indexed": 13,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -2661,7 +2708,7 @@
           "url": "https://museosdelbancocentral.org/exhibiciones/alcancias-historias-y-tesoros/"
         }
       ],
-      "read": 13
+      "read": null
     },
     "publisher-archive-buena-experience": {
       "indexed": 5,
@@ -4699,8 +4746,20 @@
       "pages": [
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "¿Un cafecito en el corazón del Teatro Nacional?",
+          "url": "https://vamosaturistear.com/actividades/un-cafecito-en-el-corazon-del-teatro-nacional/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "¿Sabés cuántos símbolos nacionales tiene Costa Rica?",
           "url": "https://vamosaturistear.com/actividades/sabes-cuantos-simbolos-nacionales-tiene-costa-rica/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "¿Qué hacer cerca de Playa Herradura?",
+          "url": "https://vamosaturistear.com/actividades/que-hacer-cerca-de-playa-herradura/"
         },
         {
           "checked": "2026-11-23",
@@ -4714,7 +4773,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "¿Por qué no debemos llevarnos las conchas del mar?",
           "url": "https://vamosaturistear.com/actividades/por-que-no-debemos-llevarnos-las-conchas-del-mar/"
         },
@@ -4755,6 +4813,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Visitá la Catarata Volio",
+          "url": "https://vamosaturistear.com/actividades/visita-la-catarata-volio/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Visitá el Museo de Cultura Popular",
           "url": "https://vamosaturistear.com/actividades/visita-el-museo-de-cultura-popular/"
         },
@@ -4770,7 +4834,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Un fenómeno natural te espera en Monteverde",
           "url": "https://vamosaturistear.com/actividades/un-fenomeno-natural-te-espera-en-monteverde/"
         },
@@ -4896,7 +4959,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Península de Papagayo: Playa Cabuyal",
           "url": "https://vamosaturistear.com/actividades/peninsula-de-papagayo-playa-cabuyal/"
         },
@@ -5022,12 +5084,17 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Estación Biológica La Selva",
+          "url": "https://vamosaturistear.com/actividades/estacion-biologica-la-selva/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Enamorate de la increíble Catarata Del Toro - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/enamorate-de-la-increible-catarata-del-toro/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "En lo alto del Cerro Tinajitas",
           "url": "https://vamosaturistear.com/actividades/en-lo-alto-del-cerro-tinajitas/"
         },
@@ -5038,7 +5105,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "En el paraíso de playa Virador",
           "url": "https://vamosaturistear.com/actividades/en-el-paraiso-de-playa-virador/"
         },
@@ -5086,6 +5152,12 @@
           "checked": "2026-11-23",
           "title": "Conocé la refrescante Catarata la Cangreja",
           "url": "https://vamosaturistear.com/actividades/conoce-la-refrescante-catarata-la-cangreja/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Conocé la historia de la Sirena de Esterillos",
+          "url": "https://vamosaturistear.com/actividades/conoce-la-historia-de-la-sirena-de-esterillos/"
         },
         {
           "checked": "2026-11-23",
@@ -5488,7 +5560,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 157
+      "read": 162
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5511,25 +5583,21 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "How to get here? – Hotel Bosque del Mar",
           "url": "https://www.bosquedelmar.com/how-to-get-here/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
           "url": "https://www.bosquedelmar.com/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Contact – Hotel Bosque del Mar",
           "url": "https://www.bosquedelmar.com/contact/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "About Us – Hotel Bosque del Mar",
           "url": "https://www.bosquedelmar.com/about-us/"
         }
@@ -5562,7 +5630,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Experiencias | JW Marriott Guanacaste Beach Resort",
           "url": "https://www.marriott.com/es/hotels/sjojw-jw-marriott-guanacaste-resort-and-spa/experiences/"
         }
@@ -6021,7 +6088,7 @@
       "read": 13
     },
     "publisher-toucan-onsite-tours": {
-      "indexed": null,
+      "indexed": 7,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6059,7 +6126,7 @@
           "url": "https://toucanrescueranch.org/tours/classrooms/"
         }
       ],
-      "read": null
+      "read": 7
     },
     "punta-uva-dive-owner": {
       "indexed": 7,
@@ -7593,8 +7660,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 26,
-  "pagesRead": 22,
-  "pagesReadToDate": 1153,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45226075503"
+  "pagesChecked": 13,
+  "pagesRead": 13,
+  "pagesReadToDate": 1166,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45230618045"
 }

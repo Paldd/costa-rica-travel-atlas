@@ -78,10 +78,19 @@ for (const row of records) {
       assert(id !== row.id && (media?.photos?.length || media?.galleries?.length || media?.videos?.length || media?.videoCollections?.length), id);
       assert(stageIds.has(id) || nearby.includes(id) && stops.some(stop => stop.point === media.stops[0]?.point), row.id);
     }
+    for (const stop of stops.filter(stop => stop.photo)) {
+      assert.equal(stop.photo.point, stop.point, row.id);
+      assert(stop.photo.file && stop.photo.author && stop.photo.original && stop.photo.licenseUrl, row.id);
+    }
     if (row.dossier.stageCover) {
-      const { record, file, caption } = row.dossier.stageCover;
-      assert(mediaStops.includes(record) && caption.startsWith("Остановка · "), row.id);
-      assert(records.find(place => place.id === record).dossier.photos.some(photo => photo.file === file), row.id);
+      const { record, point, file, caption } = row.dossier.stageCover;
+      assert(caption.startsWith("Остановка · "), row.id);
+      if (record) {
+        assert(mediaStops.includes(record), row.id);
+        assert(records.find(place => place.id === record).dossier.photos.some(photo => photo.file === file), row.id);
+      } else {
+        assert(stops.some(stop => stop.point === point && stop.photo?.file === file), row.id);
+      }
     }
     assert(!track || track in atlas.sources, row.id);
     assert(!line || line in atlas.lines && stops.length > 1, row.id);

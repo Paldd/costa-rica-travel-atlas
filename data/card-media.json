@@ -293,6 +293,9 @@
     "photos": [
       "atlas-cocles-wave",
       "atlas-cocles-manzanillo"
+    ],
+    "videos": [
+      "film-puerto-viejo-araya-beaches"
     ]
   },
   "coffee-britt": {
@@ -966,6 +969,9 @@
   "lucha-camping": {
     "galleries": [
       "lucha"
+    ],
+    "videos": [
+      "film-lucha-tika-viajes-family"
     ]
   },
   "lucha-walk": {
@@ -973,7 +979,8 @@
       "lucha"
     ],
     "videos": [
-      "lucha-qbl-roof-film"
+      "lucha-qbl-roof-film",
+      "film-lucha-tika-viajes-family"
     ]
   },
   "lucha-weekend": {
@@ -981,7 +988,8 @@
       "lucha"
     ],
     "videos": [
-      "lucha-qbl-roof-film"
+      "lucha-qbl-roof-film",
+      "film-lucha-tika-viajes-family"
     ]
   },
   "manuel-antonio": {
@@ -1227,6 +1235,9 @@
     "videos": [
       "media-bahia-rica-inshore-film",
       "bahia-rica-night-kayak-video"
+    ],
+    "photos": [
+      "paquera-ferry-approach-archive"
     ]
   },
   "paquera-inshore-fishing": {
@@ -1641,7 +1652,8 @@
   },
   "turrialba": {
     "photos": [
-      "atlas-turri-volcano-cone"
+      "atlas-turri-volcano-cone",
+      "turrialba-la-central-volcano-archive"
     ]
   },
   "turrialba-packraft-3": {
@@ -2137,6 +2149,9 @@
     ],
     "galleries": [
       "gallery-379-isla-chiquita-official"
+    ],
+    "photos": [
+      "paquera-ferry-approach-archive"
     ]
   },
   "chira-glamp": {
@@ -2312,7 +2327,8 @@
   },
   "arenal-dam-el-castillo-mtb": {
     "photos": [
-      "arenal-dam"
+      "arenal-dam",
+      "arenal-el-millon-volcanoes"
     ]
   },
   "arenal-tumbas-guided-mtb-24": {
@@ -2571,6 +2587,38 @@
   "conchal-essence-family-kayak": {
     "videos": [
       "conchal-beachclub-kayak-site-video"
+    ]
+  },
+  "turrialba-peralta-34": {
+    "photos": [
+      "turrialba-antigua-station"
+    ],
+    "videos": [
+      "film-turrialba-diego-bikepacking"
+    ]
+  },
+  "turrialba-full-ebike-7": {
+    "photos": [
+      "turrialba-park-kiosk-archive",
+      "turrialba-antigua-station"
+    ],
+    "videos": [
+      "film-turrialba-diego-bikepacking"
+    ]
+  },
+  "el-castillo-fogata-camp": {
+    "photos": [
+      "arenal-el-millon-volcanoes"
+    ]
+  },
+  "sarchi-carreta-central-park": {
+    "photos": [
+      "sarchi-parque-central-portrait"
+    ]
+  },
+  "cocles-villas-mya-glamping": {
+    "videos": [
+      "film-cocles-mya-owner-review"
     ]
   }
 }

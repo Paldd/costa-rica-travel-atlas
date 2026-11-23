@@ -42,7 +42,8 @@
     "author": "Dquesada17",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Playa-Dantita.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "point": "dantita-beach-low-trail"
   },
   "san-lucas": {
     "file": "water-san-lucas.jpg",
@@ -690,7 +691,8 @@
     "author": "LeafLanguages",
     "license": "CC0 1.0",
     "original": "https://commons.wikimedia.org/wiki/File:Costa_Rica_Sarchi_ox_drawn_cart.jpg",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "point": "sarchi-central-park"
   },
   "atlas-tapanti-rio": {
     "file": "atlas-tapanti-rio.jpg",
@@ -771,7 +773,8 @@
     "author": "John Menard from Phoenix, USA",
     "license": "CC BY-SA 2.0",
     "original": "https://commons.wikimedia.org/wiki/File:Tortuguero,_Costa_Rica.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "point": "tortuguero-dock"
   },
   "atlas-cocles-wave": {
     "file": "atlas-cocles-wave.jpg",
@@ -780,7 +783,8 @@
     "author": "Bernal Saborio from Costa Rica",
     "license": "CC BY-SA 2.0",
     "original": "https://commons.wikimedia.org/wiki/File:Caribbean_wave.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "point": "cocles-beach"
   },
   "atlas-cocles-manzanillo": {
     "file": "atlas-cocles-manzanillo.jpg",
@@ -798,7 +802,8 @@
     "author": "Olga Saenz",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Waterfall_in_rainforest.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "point": "pailas-visitor-point"
   },
   "atlas-conchal-point": {
     "file": "atlas-conchal-point.jpg",
@@ -978,7 +983,8 @@
     "author": "Rodtico21",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Playa_%C3%93rganos._Paquera._Costa_Rica.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "point": "playa-organos-road-end"
   },
   "pacuare-rafting-river-commons": {
     "file": "pacuare-rafting-river-commons.jpg",
@@ -996,7 +1002,8 @@
     "author": "Jsfouche",
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Playa_Negra,_Puerto_Viejo.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "point": "puertoviejo-negra-shore"
   },
   "roca-bruja-naranjo-commons": {
     "file": "roca-bruja-naranjo-commons.jpg",
@@ -1014,7 +1021,8 @@
     "author": "Hanay",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Quepos_Marina_(1).jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "point": "quepos-marina"
   },
   "oropendola-guachipelin-commons": {
     "file": "oropendola-guachipelin-commons.jpg",
@@ -1113,7 +1121,8 @@
     "author": "ArquiWHAT",
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:IglesiaMiramarMontesDeOro.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "point": "miramar-town"
   },
   "museo-ninos-facade-commons": {
     "file": "museo-ninos-facade-commons.jpg",
@@ -1185,7 +1194,8 @@
     "author": "MarioBadilla",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Amanecer_desde_el_muelle_de_Puerto_Jim%C3%A9nez.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "point": "puerto-jimenez-port"
   },
   "zarcero-park-peloy": {
     "file": "zarcero-park-peloy.jpg",
@@ -1293,7 +1303,8 @@
     "author": "Rodtico21",
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Orosi.JPG",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "point": "orosi-iglesia-colonial"
   },
   "orosi-church-garden-rodtico": {
     "file": "orosi-church-garden-rodtico.jpg",
@@ -1473,7 +1484,8 @@
     "author": "Hobbitschuster",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:El_castillo_fortress.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "point": "frontier-el-castillo-ni"
   },
   "riosanjuan-elcastillo-river": {
     "file": "riosanjuan-elcastillo-river.jpg",
@@ -1527,7 +1539,8 @@
     "author": "Suna no onna",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Tortuguero-Cerro-Tortugeurotik-hartuta.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "point": "cerro-mirador"
   },
   "cerro-tortuguero-hill-tellurian": {
     "file": "cerro-tortuguero-hill-tellurian.jpg",
@@ -1545,7 +1558,8 @@
     "author": "Michael James O’Connor",
     "license": "CC BY 2.5",
     "original": "https://commons.wikimedia.org/wiki/File:Isla_del_Cano_beach_mjo.JPG",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "point": "cano-island-reserve-orientation"
   },
   "teatro-nacional-facade-mariordo": {
     "file": "teatro-nacional-facade-mariordo.jpg",
@@ -1554,7 +1568,8 @@
     "author": "Mariordo (Mario Roberto Durán Ortiz)",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional_CRI_07_2019_8963.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "point": "san-jose-teatro-nacional-building"
   },
   "teatro-nacional-boxes-borman": {
     "file": "teatro-nacional-boxes-borman.jpg",
@@ -1564,5 +1579,100 @@
     "license": "CC BY 2.0",
     "original": "https://commons.wikimedia.org/wiki/File:Inside_National_Theatre_of_Costa_Rica.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "turrialba-park-kiosk-archive": {
+    "file": "turrialba-park-kiosk-archive.jpg",
+    "alt": "Музыкальный павильон в центральном парке Турриальбы",
+    "caption": "Центральный парк Турриальбы · архивный снимок февраля 2015 года · уменьшенная копия",
+    "author": "Dalabulu",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Kiosco_del_parque_central_de_Turrialba.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "point": "turrialba-city-anchor"
+  },
+  "turrialba-antigua-station": {
+    "file": "turrialba-antigua-station.jpg",
+    "alt": "Бывшая железнодорожная станция в городе Турриальба",
+    "caption": "Бывшая станция Турриальбы, ориентир рядом со стартом веломаршрута · архивная съёмка 2015 года · уменьшенная копия",
+    "author": "Dalabulu",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Antigua_estaci%C3%B3n_del_ferrocarril..JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "turrialba-la-central-volcano-archive": {
+    "file": "turrialba-la-central-volcano-archive.jpg",
+    "alt": "Вулкан Турриальба из деревни Ла-Сентраль",
+    "caption": "Вулкан Турриальба со стороны Ла-Сентраль · июль 2013 года · уменьшенная копия",
+    "author": "Coliner",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Volc%C3%A1n_Turrialba_desde_La_Central.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "san-ramon-central-park-archive": {
+    "file": "san-ramon-central-park-archive.jpg",
+    "alt": "Тенистые дорожки центрального парка Сан-Рамона",
+    "caption": "Центральный парк Сан-Рамона · архивный снимок мая 2007 года · уменьшенная копия",
+    "author": "Steve Stevens",
+    "license": "CC BY-SA 2.5",
+    "original": "https://commons.wikimedia.org/wiki/File:SanRamonParque.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "point": "san-ramon-central-area"
+  },
+  "san-vito-town-panorama": {
+    "file": "san-vito-town-panorama.jpg",
+    "alt": "Горный вид в районе Сан-Вито, Кото-Брус",
+    "caption": "Панорама окрестностей Сан-Вито · архивная съёмка марта 2012 года · уменьшенная копия",
+    "author": "Eric T Gunther",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:San_Vito_Costa_Rica.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "point": "frontier-san-vito"
+  },
+  "paquera-port-mata-dawn": {
+    "file": "paquera-port-mata-dawn.jpg",
+    "alt": "Небольшие лодки у берега Пакеры на рассвете",
+    "caption": "Рассвет в портовой бухте Пакеры · архивная фотография · уменьшенная копия",
+    "author": "Federico Mata",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Early_morning_at_Paquera_-_panoramio_-_Federico_Mata.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "point": "paquera-port-point"
+  },
+  "paquera-ferry-approach-archive": {
+    "file": "paquera-ferry-approach-archive.jpg",
+    "alt": "Залив Никоя и лесистые берега на подходе к Пакере",
+    "caption": "Акватория у подхода к Пакере · архивная фотография · уменьшенная копия",
+    "author": "latforum",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:(Llegando_a-Reaching)_Paquera_2_-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "puntarenas-ferry-port-archive": {
+    "file": "puntarenas-ferry-port-archive.jpg",
+    "alt": "Паромы у причалов в Пунтаренасе",
+    "caption": "Паромный терминал Пунтаренаса в январе 2026 года · уменьшенная копия",
+    "author": "kitmasterbloke",
+    "license": "CC BY 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Puntarenas_Ferry_port_with_Tambour_II_and_St_Lucas_II.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "point": "puntarenas-terminal-point"
+  },
+  "arenal-el-millon-volcanoes": {
+    "file": "arenal-el-millon-volcanoes.jpg",
+    "alt": "Вид на Ареналь из окрестностей Эль-Кастильо",
+    "caption": "Пейзаж в районе Эль-Мильон и Эль-Кастильо у Ареналя · май 2018 года · уменьшенная копия",
+    "author": "Asdfjrjjj",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Alajuela_Costa_Rica_volcanoes_view_May_2018.png",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "sarchi-parque-central-portrait": {
+    "file": "sarchi-parque-central-portrait.jpg",
+    "alt": "Центральный парк Сарчи, вид с улицы",
+    "caption": "Городская площадь Сарчи · архивная фотография 2005 года · уменьшенная копия",
+    "author": "Wikipedro",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sarch%C3%AD_Parque_Central.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 }

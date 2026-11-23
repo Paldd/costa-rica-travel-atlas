@@ -232,6 +232,10 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .route-map-stops p, .point-links { margin-left: 37px; font-size: .83rem; }
 .point-links { display: flex; flex-wrap: wrap; gap: 4px 10px; }
 .route-map-stops a { color: var(--forest); }
+.route-map-stops .point-photo-icon { margin-left: auto; flex: none; color: var(--forest); }
+.stop-photo { margin: 8px 0 8px 37px; }
+.stop-photo img { display: block; width: 100%; height: auto; max-height: 190px; object-fit: cover; border-radius: 6px; }
+.stop-photo figcaption { padding-top: 4px; color: var(--muted); font-size: .8rem; line-height: 1.4; }
 .route-map-links { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 8px; color: var(--muted); font-size: .83rem; }
 .route-map-links a { color: var(--forest); }
 .dossier-section { margin-top: 19px; padding-top: 12px; border-top: 1px solid var(--border); }

@@ -194,6 +194,24 @@ async function checkViewport(browser, width) {
     assert.equal(await lodgeVideo.getAttribute("href"), "https://www.youtube.com/watch?v=_EQG_vyFaB0");
     await checkWidth();
 
+    const parkRoute = records.get("san-lorenzo-wildcamp-roof");
+    const parkPoint = parkRoute.dossier.stops.find(stop => stop.point === "san-ramon-central-area");
+    await open("place/" + parkRoute.id);
+    await heading(parkRoute);
+    await page.locator(".detail-photo figcaption").getByText(/Остановка · Центральный парк Сан-Рамона/).waitFor();
+    const parkStop = page.locator(".route-map-stops li").filter({ hasText: parkPoint.name });
+    await parkStop.locator(".point-photo-icon").waitFor();
+    assert.equal(await parkStop.locator(".stop-photo").count(), 0);
+    await parkStop.getByRole("button").click();
+    const parkPhoto = parkStop.locator(".stop-photo");
+    await parkPhoto.locator("img").scrollIntoViewIfNeeded();
+    await page.waitForFunction(file => [...document.querySelectorAll(".stop-photo img")].some(
+      photo => photo.src.endsWith("/" + file) && photo.naturalWidth > 0
+    ), parkPoint.photo.file);
+    assert.equal(await parkPhoto.getByRole("link", { name: parkPoint.photo.author }).getAttribute("href"), parkPoint.photo.original);
+    assert.equal(await parkPhoto.getByRole("link", { name: parkPoint.photo.license }).getAttribute("href"), parkPoint.photo.licenseUrl);
+    await checkWidth();
+
     const localRide = records.get("senderos-rodeo-picagres-mtb-37");
     await open("catalog?q=Picagres");
     const localCard = page.locator(".route-card").filter({

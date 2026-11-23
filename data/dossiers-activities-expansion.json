@@ -546,6 +546,12 @@
         "url": "https://camping.cr/listing/camping-y-mirador-el-castillo/",
         "note": "Место под навесом, последние подъёмы, очаг и габариты палатки.",
         "phone": "+506 8310 0223"
+      },
+      {
+        "name": "Minisúper El Capiro · Эль-Мильон",
+        "source": "el-millon-capiro-local-directory",
+        "note": "Магазин, который указывают хозяева. Бронь и получение ключа согласуйте с кемпингом.",
+        "phone": "+506 2479 1793"
       }
     ],
     "sections": [
@@ -555,6 +561,14 @@
         "sources": [
           "el-castillo-camp-host-listing",
           "el-castillo-camp-photo-host"
+        ]
+      },
+      {
+        "title": "Бронь, ключ от ворот и подъём",
+        "text": "Хозяева просят заранее подтвердить ночёвку и описывают выдачу ключа в Minisúper El Capiro. Получите пин магазина и порядок заезда у кемпинга. Перед дождём спросите о грунтовой части дороги. Для машины с палаткой на крыше уточните открытую ровную площадку и свободное место для разворота.",
+        "sources": [
+          "el-castillo-camp-host-listing",
+          "el-millon-capiro-local-directory"
         ]
       },
       {
