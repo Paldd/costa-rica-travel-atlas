@@ -507,6 +507,14 @@
           "lapaz-operator-contact",
           "lapaz-park-overview"
         ]
+      },
+      {
+        "title": "Что можно добавить при ночёвке в Peace Lodge",
+        "text": "В ноябрьском объявлении хозяева описывают бассейны с подогревом, ресторан и дополнительные семейные занятия для постояльцев. Срок акции закончился. Текущие условия доступа из гостиницы к водопадам подтверждает стойка бронирования.",
+        "sources": [
+          "fb-peace-lodge-nov-facilities",
+          "waterfall"
+        ]
       }
     ],
     "contacts": [
@@ -1138,7 +1146,10 @@
       "tabacon",
       "family-arenal-5"
     ],
-    "track": "baldi-day-pass"
+    "track": "baldi-day-pass",
+    "videos": [
+      "fb-baldi-operator-november-reel"
+    ]
   },
   "balsa-rafting": {
     "stops": [

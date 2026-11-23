@@ -313,6 +313,15 @@
           "dino-contact",
           "dino-visit-film"
         ]
+      },
+      {
+        "title": "Где стартовал местный трейл",
+        "text": "22 ноября 2026 года у Dino Land стартовали беговые дистанции 7, 12 и 21 км. Фото площадки опубликовано после финиша. Обычный парк по-прежнему предлагает отдельное посещение водопада.",
+        "sources": [
+          "dino-columbia-trail-official-2026",
+          "ig-dino-columbia-after",
+          "dino-activities"
+        ]
       }
     ],
     "contacts": [
@@ -328,14 +337,17 @@
     "nearby": [
       "higueron-toro",
       "blue-falls-toro",
-      "bajos-toro-weekend"
+      "bajos-toro-weekend",
+      "bajos-toro-columbia-trail-2026"
     ],
     "videos": [
-      "dino-visit-film"
+      "dino-visit-film",
+      "ig-dino-rio-agrio-visits"
     ],
     "track": "dino-pin",
     "galleries": [
-      "dino-activities"
+      "dino-activities",
+      "ig-dino-columbia-after"
     ]
   },
   "diamante-baru-day": {

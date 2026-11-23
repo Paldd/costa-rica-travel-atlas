@@ -85,7 +85,7 @@ eco-chontales	Catarata Eco Chontales	9.363725	-83.843009	osm-cr-points
 tamarindo-beach	Tamarindo · район пляжной посадки	10.301188	-85.840264	osm-cr-points
 tamarindo-iguana	Tamarindo · ориентир центра у пляжа	10.298412	-85.839951	osm-cr-points
 don-manuel	Laguna Don Manuel · район кемпинга	9.68959	-83.978648	osm-cr-points
-finca-koki	Finca Koki · вход	10.074184	-84.237306	koki
+finca-koki	Finca Koki · подход к въезду по карте парка	10.0759735	-84.2371374	koki-official-arrival-pin
 oka-olan	Olán · восточный ориентир перехода	9.278423	-83.208852	osm-cr-points
 oka-ujarras	Guanacaste de Ujarrás · посёлок	9.264022	-83.283683	osm-cr-points
 fortuna-park	Центральный парк La Fortuna	10.471718	-84.645061	osm-cr-points
@@ -968,3 +968,8 @@ pura-vista-calle-pavones-road	Calle Pavones · дорожная отметка �
 finca-san-rafael-toro-road-pin	Finca San Rafael · опубликованный ориентир въезда	10.2648139	-84.2639139	san-rafael-author-waze
 rio-cuarto-goout-published-location	Go Out Tours · координаты организатора у Laguna Río Cuarto	10.356062	-84.217705	rio-cuarto-goout-atv
 rio-cuarto-west-mapped-road	Calle Laguna Río Cuarto · ориентир начала автомобильной линии	10.356388	-84.22082	rio-cuarto-finca-car-map
+fraijanes-icoder-parking	Laguna de Fraijanes · стоянка у Calle Laguna	10.1240545	-84.1905284	fraijanes-parking-osm-exact
+fraijanes-icoder-water	Laguna de Fraijanes · ориентир озера	10.1252	-84.1912	fraijanes-lagoon-osm
+toucan-rescue-san-josecito-entry	Toucan Rescue Ranch · центр на Calle Gemelo	10.0257724	-84.0351068	toucan-san-josecito-osm
+san-jose-parque-diversiones-zone	Parque Diversiones · территория в Ла-Уруке	9.96007	-84.12967	san-jose-parque-park-osm
+san-jose-parque-diversiones-bus	Parada Parque de Diversiones · остановка	9.96103	-84.12844	san-jose-parque-bus-osm

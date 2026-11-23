@@ -1,0 +1,406 @@
+{
+  "finca-koki-venado-33": {
+    "stops": [
+      {
+        "point": "finca-koki",
+        "role": "Касса и карта открытых троп",
+        "note": "Покажите авторскую запись и узнайте, по какой ветке можно вернуться в этот день."
+      }
+    ],
+    "track": "koki-venado-author-wikiloc",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что показывает трек",
+        "text": "В записи января 2024 года 3,3 км в одну сторону, 135 м набора и примерно 54 минуты движения. С остановками автор провёл более трёх часов. Фотографии помогают опознать отворот к Presa 1 и развилку Венадо — Толедо.",
+        "sources": [
+          "koki-venado-author-wikiloc",
+          "koki-park-pdf-layout"
+        ]
+      },
+      {
+        "title": "Доступ на дату и возврат",
+        "text": "Парк просит оставаться на размеченных открытых тропах. У кассы уточните начало и выход Венадо. Если ветка закрыта, выберите короткую дорожку к озеру или открытую тропу к водопаду.",
+        "sources": [
+          "koki-rules-walking-2026",
+          "koki-virtual-trails"
+        ]
+      },
+      {
+        "title": "Подготовка",
+        "text": "Возьмите воду, дождевик и закрытую обувь с протектором. Склоны и переходы мокрые после дождя. Для самостоятельной прогулки сообщите хозяевам, куда идёте.",
+        "sources": [
+          "koki-rules-walking-2026",
+          "koki-venado-author-wikiloc"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Koki · посещение и кемпинг",
+        "source": "koki",
+        "url": "https://www.fincakoki.com/",
+        "whatsapp": "https://wa.me/50687475889",
+        "phone": "+506 8747 5889",
+        "email": "info@fincakoki.com",
+        "note": "Уточните номер места, правила въезда вашей машины, доступ детских жилетов и открытые тропы."
+      }
+    ],
+    "galleries": [
+      "koki-venado-author-wikiloc",
+      "koki"
+    ],
+    "videos": [
+      "koki-dondevoy-field-video"
+    ],
+    "nearby": [
+      "finca-koki",
+      "poas-koki-fraijanes-2",
+      "laguna-fraijanes-icoder"
+    ]
+  },
+  "laguna-fraijanes-icoder": {
+    "stops": [
+      {
+        "point": "fraijanes-icoder-parking",
+        "role": "Парковка у начала прогулки",
+        "note": "Сверьте часы въезда и подберите подъезд к выбранному домику или навесу."
+      },
+      {
+        "point": "fraijanes-icoder-water",
+        "role": "Озеро · ориентир на карте",
+        "note": "С берега выберите открытый участок для прогулки или пикника. Выход на воду уточняет администрация."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Режим, пикник и дети",
+        "text": "Парк расположен примерно на 1650 м. ICODER указывает парковку, площадки, спортивные зоны и навесы. Гости обсуждают, что у парковки удобные места могут занять рано. Возьмите плед, тёплый слой и дождевик.",
+        "sources": [
+          "fraijanes-icoder-management",
+          "fraijanes-teletica-nov13-report",
+          "fraijanes-weekend-field-note"
+        ]
+      },
+      {
+        "title": "Домики и палатки",
+        "text": "ICODER описывает пять домиков и отдельную зону кемпинга. У двух шале есть варианты до пяти гостей в базовой конфигурации. При звонке проверьте постель, кухню, время ключей, бронирование и удалённость парковки. В зоне палаток питомцев не допускают.",
+        "sources": [
+          "fraijanes-icoder-management",
+          "fraijanes-teletica-nov13-report"
+        ]
+      },
+      {
+        "title": "Прогулка и рыбалка",
+        "text": "Утром пройдите по обозначенным тропам, пока погода стабильна. Рыбалку могут разрешать при подходящем уровне озера и отсутствии запрета. Спросите о действующих условиях, снастях и пригодных участках до поездки.",
+        "sources": [
+          "fraijanes-icoder-management",
+          "fraijanes-teletica-nov13-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ICODER · парк Фрайханес",
+        "source": "fraijanes-icoder-management",
+        "url": "https://www.icoder.go.cr/parques-recreativos/parque-fraijanes",
+        "whatsapp": "https://wa.me/50688865858",
+        "phone": "+506 2549 0840",
+        "note": "Подтвердите часы въезда, наличие домика или палаточного участка и текущие условия рыбалки."
+      }
+    ],
+    "galleries": [
+      "fraijanes-icoder-management",
+      "fraijanes-teletica-nov13-report"
+    ],
+    "videos": [
+      "fraijanes-teletica-nov13-video",
+      "fraijanes-local-2025-video"
+    ],
+    "nearby": [
+      "finca-koki",
+      "poas-koki-fraijanes-2",
+      "coffee-doka",
+      "poas"
+    ]
+  },
+  "toucan-rescue-san-josecito": {
+    "stops": [
+      {
+        "point": "toucan-rescue-san-josecito-entry",
+        "role": "Toucan Rescue Ranch · центр посещения",
+        "note": "На Calle Gemelo сверяйте точку встречи из подтверждения записи."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Сколько времени и что увидите",
+        "text": "Classic Ranch Walk рассчитан примерно на два часа. Проводники объясняют, как животные попали в центр и как работает реабилитация. Туканы, попугаи, обезьяны и ленивцы представлены в материалах проекта. Состав остановок зависит от условий центра.",
+        "sources": [
+          "toucan-ranch-classic",
+          "publisher-toucan-onsite-tours",
+          "toucan-ranch-teletica-nov"
+        ]
+      },
+      {
+        "title": "Запись, дети и погода",
+        "text": "Посещение начинается в назначенное время. При бронировании уточните язык, условия для детей и проходимость влажных дорожек. Возьмите воду, лёгкий дождевик и закрытую обувь.",
+        "sources": [
+          "toucan-ranch-visitor-faq",
+          "toucan-ranch-classic",
+          "toucan-ranch-ict"
+        ]
+      },
+      {
+        "title": "Что почитать и посмотреть заранее",
+        "text": "Центр публикует короткие образовательные материалы о местных животных. В ноябрьской подборке разобрано, как ревуны используют хвост. В репортаже и видео авторов можно посмотреть формат прогулки с гидом.",
+        "sources": [
+          "ig-toucan-howler-edu",
+          "toucan-ranch-teletica-nov",
+          "toucan-ranch-heredia-field-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Toucan Rescue Ranch · запись на экскурсию",
+        "source": "toucan-ranch-ict",
+        "url": "https://toucanrescueranch.org/services/the-classic-ranch/",
+        "phone": "+506 2268 4041",
+        "email": "info@toucanrescueranch.org",
+        "note": "Запросите время, язык, доступность для детей и колясок. Вход по записи."
+      }
+    ],
+    "galleries": [
+      "toucan-ranch-classic",
+      "ig-toucan-howler-edu",
+      "toucan-ranch-teletica-nov"
+    ],
+    "videos": [
+      "toucan-ranch-heredia-field-video"
+    ],
+    "nearby": [
+      "san-jose-parque-diversiones",
+      "coffee-doka",
+      "la-paz-waterfalls"
+    ]
+  },
+  "bajos-toro-columbia-trail-2026": {
+    "stops": [
+      {
+        "point": "rio-agrio-dino-entry",
+        "role": "Старт на площадке Dino Land",
+        "note": "Подтверждённый ориентир прошедшего забега. Это также входная зона парка Рио-Агрио."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как различались дистанции",
+        "text": "На 7 км организатор описывает короткие крутые подъёмы и заход у Рио-Агрио. В 12 км входят лесные тропы, пастбища и четыре частные фермы. На 21 км предусмотрены более длинные подъёмы и проход к водопаду Tesoro Escondido через выделенные участки.",
+        "sources": [
+          "dino-columbia-trail-official-2026",
+          "ig-dino-columbia-after"
+        ]
+      },
+      {
+        "title": "Когда можно повторить",
+        "text": "Парк опубликовал фотографии после финиша и выразил надежду на выпуск 2027 года. У организатора спросите дату, разрешённые подходы и точную карту. Для самостоятельного выхода выберите открытые тропы в парке Рио-Агрио или другой согласованный маршрут.",
+        "sources": [
+          "ig-dino-columbia-after",
+          "dino-columbia-organizer-contact",
+          "dino-faq"
+        ]
+      },
+      {
+        "title": "Особенности площадки",
+        "text": "Мокрые камни и узкие тропы требуют цепкой обуви. На длинную дистанцию планируйте запас жидкости и непромокаемый слой по регламенту старта. Видео посещения Dino Land показывает район и водопад в обычный день.",
+        "sources": [
+          "dino-columbia-trail-official-2026",
+          "dino-visit-film",
+          "dino-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "The Trail Running CR · организатор Columbia Trail Run",
+        "source": "dino-columbia-organizer-contact",
+        "url": "https://thetrailrunningcr.com/bajos-del-toro/",
+        "whatsapp": "https://wa.me/50685188732",
+        "phone": "+506 8518 8732",
+        "note": "Запросите дату новой гонки, правила частных участков, карту своей дистанции и список снаряжения."
+      }
+    ],
+    "galleries": [
+      "ig-dino-columbia-after",
+      "dino-activities"
+    ],
+    "videos": [
+      "dino-visit-film"
+    ],
+    "nearby": [
+      "dinoland-rio-agrio",
+      "blue-falls-toro",
+      "bajos-toro-weekend"
+    ]
+  },
+  "san-jose-parque-diversiones": {
+    "stops": [
+      {
+        "point": "san-jose-parque-diversiones-bus",
+        "role": "Остановка у парка",
+        "note": "Оператор публикует направления автобусов из города. Перед выездом проверьте обратный рейс."
+      },
+      {
+        "point": "san-jose-parque-diversiones-zone",
+        "role": "Parque Diversiones · территория",
+        "note": "Пункт назначения на карте. Место входа, парковку и кассы сверяйте по указателям."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Выбор для разного роста",
+        "text": "Сначала откройте актуальный список аттракционов и фильтр детской зоны. У части площадок есть верхняя граница роста, у других минимальная. Для Play Parke проверьте условия и возьмите нескользящие носки.",
+        "sources": [
+          "san-jose-parque-official-attractions",
+          "san-jose-parque-height-rules"
+        ]
+      },
+      {
+        "title": "Календарь и заезд",
+        "text": "У парка бывают закрытые дни и особые часы. Дату проверьте по календарю. При поездке на автобусе посмотрите опубликованные направления из центра через La Uruca. На машине ориентируйтесь на адрес к западу от Hospital México.",
+        "sources": [
+          "san-jose-parque-hours-calendar",
+          "san-jose-parque-arrival-bus",
+          "san-jose-parque-bus-osm"
+        ]
+      },
+      {
+        "title": "Что посмотреть заранее",
+        "text": "Авторский ролик января 2026 года показывает аттракционы на месте. Сам парк публикует сезонные идеи для визита. Проверьте список закрытых аттракционов в выбранный день.",
+        "sources": [
+          "san-jose-parque-chozza-video",
+          "fb-parque-diversiones-season-post",
+          "san-jose-parque-official-attractions"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Parque Diversiones · информационный центр",
+        "source": "san-jose-parque-contact",
+        "url": "https://parquediversiones.com/cont%C3%A1ctanos",
+        "phone": "+506 2242 9205",
+        "email": "info@parquediversiones.com",
+        "note": "Уточните календарь, выбранный тип билета, ограничения по росту и работу детской зоны."
+      }
+    ],
+    "photos": [
+      "san-jose-bocaraca-commons"
+    ],
+    "galleries": [
+      "san-jose-parque-official-attractions",
+      "fb-parque-diversiones-season-post"
+    ],
+    "videos": [
+      "san-jose-parque-chozza-video"
+    ],
+    "nearby": [
+      "san-jose-museo-bellavista",
+      "toucan-rescue-san-josecito"
+    ]
+  },
+  "poas-koki-fraijanes-2": {
+    "stops": [
+      {
+        "point": "finca-koki",
+        "role": "День 1 · озеро и кемпинг Finca Koki",
+        "note": "Согласуйте место ночёвки и доступность водных занятий у регистрации."
+      },
+      {
+        "point": "fraijanes-icoder-parking",
+        "role": "День 2 · парковка парка Фрайханес",
+        "note": "Открытие и время входа сверяйте с ICODER."
+      },
+      {
+        "point": "fraijanes-icoder-water",
+        "role": "День 2 · озеро Фрайханес",
+        "note": "Ориентир для прогулки по парку. Путь к берегу выбирайте по местным указателям."
+      }
+    ],
+    "line": "poas-koki-fraijanes-drive",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "День на воде в нескольких темпах",
+        "text": "Утром выберите каяк или SUP с подходящим жилетом. Младшим подойдёт короткий береговой выход и ферма при согласовании с персоналом. Для tubing отдельно сверяйте правила двух каналов и условия допуска.",
+        "sources": [
+          "koki",
+          "koki-rules-paddle-2026",
+          "koki-rules-tubing-one-2026",
+          "koki-rules-tubing-two-2026"
+        ]
+      },
+      {
+        "title": "Ночь и переезд",
+        "text": "Поставьте палатку в заранее подтверждённой зоне Finca Koki до темноты. На карте 14,2 км автомобильного переезда до Фрайханес. Если нужен домик, узнайте время получения ключей у ICODER и перенесите дорожную часть на первый день.",
+        "sources": [
+          "koki-rules-camping-2026",
+          "koki-camp-site-map",
+          "fraijanes-icoder-management",
+          "koki-fraijanes-drive-osm"
+        ]
+      },
+      {
+        "title": "Пикник и вещи на прохладный день",
+        "text": "На следующий день оставьте запас на береговую прогулку, пикник и игры. Возьмите тёплый слой, дождевик, сухую одежду и фонарь. При сильном дожде замените выход на воду на короткую прогулку по открытым секторам.",
+        "sources": [
+          "fraijanes-teletica-nov13-report",
+          "fraijanes-weekend-field-note",
+          "koki-rules-paddle-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Koki · посещение и кемпинг",
+        "source": "koki",
+        "url": "https://www.fincakoki.com/",
+        "whatsapp": "https://wa.me/50687475889",
+        "phone": "+506 8747 5889",
+        "email": "info@fincakoki.com",
+        "note": "Уточните номер места, правила въезда вашей машины, доступ детских жилетов и открытые тропы."
+      },
+      {
+        "name": "ICODER · парк Фрайханес",
+        "source": "fraijanes-icoder-management",
+        "url": "https://www.icoder.go.cr/parques-recreativos/parque-fraijanes",
+        "whatsapp": "https://wa.me/50688865858",
+        "phone": "+506 2549 0840",
+        "note": "Подтвердите часы въезда, наличие домика или палаточного участка и текущие условия рыбалки."
+      }
+    ],
+    "galleries": [
+      "koki-camp-site-map",
+      "fraijanes-icoder-management",
+      "fraijanes-teletica-nov13-report"
+    ],
+    "videos": [
+      "ig-adonde-koki-nov16",
+      "koki-caminando-field-video",
+      "fraijanes-local-2025-video",
+      "fraijanes-teletica-nov13-video"
+    ],
+    "nearby": [
+      "finca-koki",
+      "finca-koki-venado-33",
+      "laguna-fraijanes-icoder",
+      "poas-caprina-roof-camp",
+      "coffee-doka"
+    ]
+  }
+}

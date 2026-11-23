@@ -173,11 +173,10 @@ def build_social(sources_by_id, record_ids, aliases):
             valid_path = len(parts) in {2, 3} and parts[-2] in {"p", "reel"} and (
                 len(parts) == 2 or parts[0].lower() == owner.lower()
             )
-            identity = parts[-1]
         else:
             valid_path = len(parts) >= 2 and parts[-2] in {"posts", "reel", "videos"}
-            identity = path
-        key = (platform, identity)
+        # Facebook can present the same video under either /videos/ or /reel/.
+        key = (platform, parts[-1])
         if url.scheme != "https" or url.hostname not in SOCIAL_DOMAINS[platform] or not valid_path or key in seen_posts:
             raise ValueError(f"Expected a distinct direct {platform} publication for {post['source']}")
         checked = date.fromisoformat(post["checked"])

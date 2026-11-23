@@ -470,6 +470,15 @@
           "gandoca-plan-sinac-2026",
           "pv-bike-electric"
         ]
+      },
+      {
+        "title": "Лесная площадка и прогулки у моря",
+        "text": "В фото от 19 ноября хозяева показывают дорожку к Shala, где предлагают йогу, пилатес и массаж. Есть и ролик с собакой на берегу. Уточните правила размещения с питомцем и часы занятий при бронировании.",
+        "sources": [
+          "ig-almonds-shala-walkway",
+          "ig-almonds-manzanillo-pets",
+          "caribe-almonds-contact"
+        ]
       }
     ],
     "contacts": [
@@ -488,11 +497,15 @@
     ],
     "galleries": [
       "caribe-almonds-rooms",
-      "caribe-publisher-almonds-articles"
+      "caribe-publisher-almonds-articles",
+      "ig-almonds-shala-walkway"
     ],
     "connectStops": false,
     "photos": [
       "caribe-manzanillo-shore-archive"
+    ],
+    "videos": [
+      "ig-almonds-manzanillo-pets"
     ]
   },
   "maquenque-tres-amigos-guided-kayak": {

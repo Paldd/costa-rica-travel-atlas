@@ -1268,6 +1268,14 @@
           "jaguar-booking-public",
           "mepe"
         ]
+      },
+      {
+        "title": "Локальная работа центра с морскими черепахами",
+        "text": "В ноябрьском ролике команда показала две истории реабилитации морских черепах и возвращение животных в море в Кауите с участием SINAC. Для семейного визита смотрите расписание обычной экскурсии в Коклес.",
+        "sources": [
+          "ig-jaguar-cahuita-turtles",
+          "jaguar-booking-public"
+        ]
       }
     ],
     "contacts": [
@@ -1284,7 +1292,10 @@
       "playa-negra-caribe",
       "punta-uva"
     ],
-    "track": "jaguar-booking-public"
+    "track": "jaguar-booking-public",
+    "videos": [
+      "ig-jaguar-cahuita-turtles"
+    ]
   },
   "barbilla": {
     "stops": [

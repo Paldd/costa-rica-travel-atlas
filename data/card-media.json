@@ -756,6 +756,10 @@
   "la-paz-waterfalls": {
     "galleries": [
       "media-la-paz-report"
+    ],
+    "videos": [
+      "lapaz-tkelly-waterfall-path-film",
+      "lapaz-five-falls-vlog"
     ]
   },
   "laguna-hule-paddle-visit": {
@@ -2082,6 +2086,17 @@
     ],
     "galleries": [
       "arenal-azucar-tvn-nov17-report"
+    ]
+  },
+  "ponderosa": {
+    "videos": [
+      "ponderosa-garitravels-safari-film",
+      "ponderosa-field-safari-vlog"
+    ]
+  },
+  "ponderosa-teekisia-premium-day": {
+    "videos": [
+      "ponderosa-garitravels-safari-film"
     ]
   }
 }

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "poas-koki-fraijanes-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Выходные у Поаса · каяк и палатка в Коки, лесной пикник во Фрайханес",
+    "native": "Finca Koki · San Pedro de Poás · Parque Recreativo Laguna de Fraijanes",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "camping",
+      "kayak",
+      "sup",
+      "hiking",
+      "lake",
+      "forest",
+      "fishing",
+      "car"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "koki",
+      "koki-rules-paddle-2026",
+      "koki-rules-camping-2026",
+      "fraijanes-icoder-management",
+      "fraijanes-teletica-nov13-report",
+      "koki-fraijanes-drive-osm"
+    ],
+    "summary": "Семейные выходные недалеко от Алахуэлы. Озеро и короткая тропа на ферме, ночёвка в согласованной палаточной зоне и второй день в прохладном парке Фрайханес.",
+    "plan": "На первый день оставьте активности Finca Koki и ночёвку. Во второй день переезжайте к Лагуне-Фрайханес, где есть береговые прогулки, пикниковые навесы и площадка для детей.",
+    "conditions": "Сверьте время регистрации, прогноз, доступность детских жилетов и заезд к палаточной зоне. Фрайханес обычно принимает дневных гостей со вторника по воскресенье. Рыбалку уточняйте у администратора.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Вода и лес на Finca Koki",
+        "note": "Начните у озера. Если места открыты, добавьте короткую прогулку или тропу Венадо с подтверждённым возвратом. Зарегистрируйте ночёвку заранее.",
+        "stops": [
+          "finca-koki",
+          "finca-koki-venado-33"
+        ],
+        "sources": [
+          "koki-rules-paddle-2026",
+          "koki-rules-camping-2026",
+          "koki-virtual-trails"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Переезд к озеру Фрайханес",
+        "note": "Оставьте 14,2 км на автомобильный участок и утро на озеро. По погоде выберите береговую прогулку, игры или крытый навес. Для рыбалки спросите разрешение на этот день.",
+        "stops": [
+          "laguna-fraijanes-icoder"
+        ],
+        "sources": [
+          "koki-fraijanes-drive-osm",
+          "fraijanes-icoder-management",
+          "fraijanes-teletica-nov13-report"
+        ]
+      }
+    ]
+  }
+]
