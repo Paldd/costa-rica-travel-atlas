@@ -1,0 +1,511 @@
+{
+  "the-springs-arenal-hot-springs": {
+    "stops": [
+      {
+        "point": "springs-arenal-resort-reception",
+        "role": "Стойка The Springs · регистрация",
+        "note": "Координаты отеля на его странице контактов. Внутреннюю встречу у реки уточните при записи.",
+        "activity": "car"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как работает пропуск",
+        "text": "Дневной пропуск действует два дня в опубликованные часы 08:00–22:00. На странице продажи отмечены исключения на пиковые даты Рождества, недели Presidents’ Day и Пасхи. В календаре выберите доступные даты и условия на состав группы.",
+        "sources": [
+          "springs-two-day-thermal-pass",
+          "springs-resort-terms-menus"
+        ]
+      },
+      {
+        "title": "День с детьми",
+        "text": "Уточните глубину детских бассейнов, раздевалку, наличие полотенец и питание. Отдельные туры, спа и спуск к реке согласовываются по составу билета. На горной дороге учитывайте время на возвращение при дожде.",
+        "sources": [
+          "springs-two-day-thermal-pass",
+          "club-rio-activity-index",
+          "springs-arenal-resort-gps"
+        ]
+      },
+      {
+        "title": "Вид и обед",
+        "text": "Утренний пост гостиницы даёт представление о виде на Ареналь с площадки. В испанском справочнике площадки есть меню и информация о ресторанах. Для семейного визита полезно заранее выяснить время работы выбранной кухни.",
+        "sources": [
+          "fb-springs-arenal-morning-oct21",
+          "springs-resort-terms-menus"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "The Springs Resort · бронирование и Club Río",
+        "source": "springs-arenal-resort-gps",
+        "note": "Уточните даты, детскую часть, доступ к шаттлу и условия пропуска.",
+        "phone": "+506 2401 3300",
+        "email": "reservations@thespringscostarica.com"
+      }
+    ],
+    "nearby": [
+      "club-rio-arenal-tubing",
+      "club-rio-arenal-inflatable-kayak",
+      "fortuna-casa-luna-forest-luna-grill",
+      "arenal-fuego-forest-thermal"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "publisher-thespringscostarica-com",
+      "springs-two-day-thermal-pass"
+    ],
+    "videos": [
+      "club-rio-owner-tour-film"
+    ]
+  },
+  "club-rio-arenal-tubing": {
+    "stops": [
+      {
+        "point": "springs-arenal-resort-reception",
+        "role": "Стойка The Springs · регистрация",
+        "note": "Координаты отеля на его странице контактов. Внутреннюю встречу у реки уточните при записи.",
+        "activity": "car"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два варианта по длине",
+        "text": "На странице тюбинга указаны примерно 800 м для основной линии и около 180 м для нижнего Bunny Run. Попросите команду сверить объём выбранной программы, место выхода и порядок формирования групп.",
+        "sources": [
+          "club-rio-dedicated-tubing",
+          "club-rio-activity-index"
+        ]
+      },
+      {
+        "title": "Возраст и экипировка",
+        "text": "Для тюбинга указываются 8 лет, с гидом возможен вариант с 7 лет. На дату спрашивайте о размере жилета и каски, обуви, погоде и доступе короткой секции. Шаттл к реке отправляется от комплекса.",
+        "sources": [
+          "club-rio-dedicated-tubing",
+          "springs-resort-terms-menus",
+          "club-rio-rider-review"
+        ]
+      },
+      {
+        "title": "Семейный формат",
+        "text": "Договоритесь об общем времени встречи после спуска, особенно если часть семьи остаётся у зоны наблюдения. Если в группе разные уровни, обсудите, кто идёт на короткий участок и кто сопровождает детей по берегу.",
+        "sources": [
+          "club-rio-dedicated-tubing",
+          "club-rio-activity-index"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "The Springs Resort · бронирование и Club Río",
+        "source": "springs-arenal-resort-gps",
+        "note": "Спросите о записи в Club Río, формате Bunny Run, возрасте и времени спуска.",
+        "phone": "+506 2401 3300",
+        "email": "reservations@thespringscostarica.com"
+      }
+    ],
+    "nearby": [
+      "the-springs-arenal-hot-springs",
+      "club-rio-arenal-inflatable-kayak",
+      "arenal-fuego-go-adventure-tubing"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "club-rio-activity-index",
+      "club-rio-rider-review"
+    ],
+    "videos": [
+      "club-rio-owner-tour-film",
+      "club-rio-faucher-field-film"
+    ]
+  },
+  "club-rio-arenal-inflatable-kayak": {
+    "stops": [
+      {
+        "point": "springs-arenal-resort-reception",
+        "role": "Стойка The Springs · регистрация",
+        "note": "Координаты отеля на его странице контактов. Внутреннюю встречу у реки уточните при записи.",
+        "activity": "car"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Чем отличается выход",
+        "text": "Club Río описывает управление надувным каяком на порогах I–II, с короткими спокойными участками. Длина фактического выхода и трудность зависят от воды и навыков группы.",
+        "sources": [
+          "club-rio-activity-index",
+          "club-rio-rider-review"
+        ]
+      },
+      {
+        "title": "Посадка и возврат",
+        "text": "Сначала приезжайте к главной стойке, затем спускайтесь на шаттле. Время встречи и место окончания определяет команда. Запросите размер жилета, требования к плаванию и возможность двухместной лодки.",
+        "sources": [
+          "club-rio-activity-index",
+          "springs-arenal-resort-gps"
+        ]
+      },
+      {
+        "title": "Что комбинировать",
+        "text": "На площадке есть лесные дорожки, горячие купели и ресторан Rancho Club Río. Доступ к ним зависит от выбранной экскурсии или пропуска. Для отдельного выхода на пакрафте с Ла-Фортуны смотрите программу Packraft Costa Rica.",
+        "sources": [
+          "club-rio-activity-index",
+          "springs-two-day-thermal-pass",
+          "pack-arenal"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "The Springs Resort · бронирование и Club Río",
+        "source": "springs-arenal-resort-gps",
+        "note": "Уточните каячный выезд, экипировку, текущую воду и формат возврата.",
+        "phone": "+506 2401 3300",
+        "email": "reservations@thespringscostarica.com"
+      }
+    ],
+    "nearby": [
+      "club-rio-arenal-tubing",
+      "the-springs-arenal-hot-springs",
+      "arenal-pack",
+      "tres-amigos-packraft-fortuna"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "club-rio-activity-index",
+      "club-rio-rider-review"
+    ],
+    "videos": [
+      "club-rio-owner-tour-film"
+    ]
+  },
+  "fortuna-casa-luna-forest-luna-grill": {
+    "stops": [
+      {
+        "point": "casa-luna-fortuna-property",
+        "role": "Casa Luna · стойка и вход на участок",
+        "note": "Попросите провод к выходу на внутреннюю лесную тропу.",
+        "activity": "hiking"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пешая часть",
+        "text": "Сайт Casa Luna описывает около 800 м вдоль галерейного и восстановленного леса. Попросите у стойки схему с растениями. Уточните уклон, ступени и состояние земли после дождя, если приехали с маленькими детьми.",
+        "sources": [
+          "casa-luna-own-forest-trail",
+          "casa-luna-ict-listing"
+        ]
+      },
+      {
+        "title": "Обед и отдых",
+        "text": "Luna Grill использует продукты из собственного сада. На сайте владельца есть отдельные предложения спа и проживания. Забронируйте нужную часть и выясните, как совмещаются посещение ресторана и доступ на территорию.",
+        "sources": [
+          "casa-luna-luna-grill-garden",
+          "casa-luna-own-forest-trail"
+        ]
+      },
+      {
+        "title": "Где остановиться",
+        "text": "Casa Luna находится южнее центра Ла-Фортуны. Рядом по дорожной сети расположен независимый водопад ADIFORT. Историческая публикация отеля о проживании полезна как ссылка на профиль хозяев.",
+        "sources": [
+          "casa-luna-own-forest-trail",
+          "casa-luna-mapcarta-osm",
+          "fb-casa-luna-archival-reservation-post"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Luna · стойка, Luna Grill и WhatsApp",
+        "source": "casa-luna-luna-grill-garden",
+        "note": "Проверьте прогулку без проживания, столик, детские условия и отдельно посещение спа.",
+        "whatsapp": "https://wa.me/50684375673",
+        "phone": "+506 8437 5673"
+      }
+    ],
+    "nearby": [
+      "fortuna-falls",
+      "arenal-fuego-forest-thermal",
+      "the-springs-arenal-hot-springs"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "casa-luna-luna-grill-garden",
+      "casa-luna-own-forest-trail"
+    ],
+    "videos": [
+      "casa-luna-owner-film"
+    ]
+  },
+  "parador-punta-quepos-monkey-trail": {
+    "stops": [
+      {
+        "point": "parador-punta-quepos-property",
+        "role": "Parador · начало выезда с натуралистом",
+        "note": "Метка показывает гостиничный комплекс. Точную встречу назначает Quepos Verde Aventura.",
+        "activity": "wildlife"
+      },
+      {
+        "point": "biesanz-pathhead",
+        "role": "Бьесанс · дополнительная общественная тропа",
+        "note": "Добавьте посещение бухты после отдельного выезда на Monkey Trail. Сверьте место парковки.",
+        "activity": "beach"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Тропа с натуралистом",
+        "text": "Quepos Verde Aventura указывает 90 минут с гидом и зрительной трубой. Спросите о детском темпе, крутых участках и вариантах раннего выхода. На природе ориентируйтесь на расстояние, которое задаёт гид.",
+        "sources": [
+          "parador-monkey-trail-qva",
+          "parador-operator-amenities"
+        ]
+      },
+      {
+        "title": "Сочетание с бухтой",
+        "text": "Общественная тропа на Бьесанс начинается отдельно от поездки в Parador. Уточните парковку, грязь у спуска и условия у берега. Бухту можно оставить на следующий день вместе с семейной ночёвкой.",
+        "sources": [
+          "parador-operator-contacts",
+          "biesanz-path-osm",
+          "biesanz-ict"
+        ]
+      },
+      {
+        "title": "Впечатление от базы",
+        "text": "Видео владельца связано с семейными прогулками в Мануэле-Антонио. У программы Monkey Trail свои условия, стоимость и место встречи у проводника.",
+        "sources": [
+          "parador-monkey-trail-qva",
+          "fb-parador-family-manuel-antonio"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Quepos Verde Aventura / Parador",
+        "source": "parador-monkey-trail-qva",
+        "note": "Спросите о времени, допуске без проживания, детском тарифе и месте начала тропы.",
+        "phone": "+506 2777 1414"
+      }
+    ],
+    "nearby": [
+      "biesanz-beach",
+      "biesanz-kayak"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "parador-operator-amenities",
+      "parador-monkey-trail-qva"
+    ],
+    "videos": [
+      "fb-parador-family-manuel-antonio"
+    ]
+  },
+  "danta-dantita-own-kayak": {
+    "stops": [
+      {
+        "point": "pura-vida-ride",
+        "role": "Pura Vida Ride · прокат и согласование спуска",
+        "note": "Время, парковку и путь для переноски лодки узнайте до выезда.",
+        "activity": "kayak"
+      },
+      {
+        "point": "playa-danta",
+        "role": "Плайя-Данта · береговая отправная точка",
+        "note": "Выбирайте безопасную часть берега по совету местной команды.",
+        "activity": "beach"
+      },
+      {
+        "point": "dantita-beach-low-trail",
+        "role": "Плайя-Дантита · возможный ориентир вдоль берега",
+        "note": "Гид уточняет, доступен ли берег при приливе. Пункт обозначает ориентир бухты.",
+        "activity": "views"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Со своим каяком",
+        "text": "Управляющие Лас-Каталинас разрешают привозить собственное каячное снаряжение. Перед поездкой предупредите прокат или администрацию, узнайте место разгрузки и участок пляжа для спуска.",
+        "sources": [
+          "danta-doorway-own-kayak",
+          "catalinas-contact"
+        ]
+      },
+      {
+        "title": "Короткая гребля и снорклинг",
+        "text": "С бухты Данта можно запланировать короткий выход к соседней Дантите или экскурсию по бухте. Островные участки и места остановки выбирайте с местной командой. Похожая прогулка со снорклингом описана в репортаже владельца.",
+        "sources": [
+          "danta-doorway-own-kayak",
+          "danta-kayak-operator-gallery",
+          "dantita-low-path-firsthand"
+        ]
+      },
+      {
+        "title": "Условия воды",
+        "text": "Начните с проверки ветра и прилива. Со своими детьми согласуйте двухместную лодку, жилеты, простой возврат и береговую альтернативу. Для пакрафта уточните допустимость на море у организатора и по характеристикам модели.",
+        "sources": [
+          "imn-tides-table",
+          "mio-cimar-sea",
+          "catalinas-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pura Vida Ride · пляжный прокат и гиды",
+        "source": "catalinas-contact",
+        "note": "Уточните правила спуска собственной лодки, аренду экипировки и экскурсию по бухте."
+      }
+    ],
+    "nearby": [
+      "catalinas-sup",
+      "dantita-shore-walk",
+      "flamingo-catalinas-water-2"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "danta-doorway-own-kayak",
+      "danta-kayak-operator-gallery"
+    ],
+    "videos": []
+  },
+  "bribri-dos-aguas-waterfall": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо · ориентир отправления",
+        "note": "Утром выезжайте по направлению к Брибри и Сиксаоле.",
+        "activity": "car"
+      },
+      {
+        "point": "bribri-quebrada-dos-aguas-reference",
+        "role": "Ручей Дос-Агуас · район подъезда",
+        "note": "Картографический ориентир ручья. Указатель, парковку и тропу уточните у местных хозяев.",
+        "activity": "waterfall"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Поездка на полдня",
+        "text": "Отчёты Vamos a Turistear и Qué Buen Lugar описывают подъезд со стороны дороги на Сиксаолу, указатель и спуск по лесу. В отчёте Qué Buen Lugar первая купель заняла меньше десяти минут от площадки. Программу с Volio планируйте как отдельный выезд.",
+        "sources": [
+          "bribri-falls-vamos-visit",
+          "bribri-falls-qbl-field"
+        ]
+      },
+      {
+        "title": "Две остановки на воде",
+        "text": "Местные авторы описывают небольшой каскад у первой купели и основную чашу дальше. Спрашивайте смотрителя о доступе после дождя, дне, скользких камнях и том, где можно стоять у воды.",
+        "sources": [
+          "bribri-falls-vamos-visit",
+          "bribri-dos-aguas-guard-report"
+        ]
+      },
+      {
+        "title": "Полезно перед поездкой",
+        "text": "Возьмите денежный резерв для входа и обувь с цепкой подошвой. Рядом с границей телефон может показать время Панамы. Для уточнения дороги и местных экскурсий есть офис туристической ассоциации в Пуэрто-Вьехо.",
+        "sources": [
+          "bribri-falls-vamos-visit",
+          "bribri-dos-aguas-mapcarta",
+          "atec-puerto-viejo-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ATEC · справочная туристической ассоциации Таламанки",
+        "source": "atec-puerto-viejo-contact",
+        "note": "Спросите действующее место входа, плату у смотрителя и варианты местного гида."
+      }
+    ],
+    "nearby": [
+      "hone-creek-bribri-sixaola-cycling",
+      "yorkin-bribri-canoe-3"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "bribri-falls-vamos-visit",
+      "bribri-falls-qbl-field"
+    ],
+    "videos": [
+      "bribri-jamvill-falls-film"
+    ]
+  },
+  "arenal-springs-club-rio-family-2": {
+    "stops": [
+      {
+        "point": "fortuna-park",
+        "role": "Ла-Фортуна · ориентир начала подъезда",
+        "note": "При размещении на другом участке стройте подъезд от места ночёвки.",
+        "activity": "car"
+      },
+      {
+        "point": "springs-arenal-resort-reception",
+        "role": "Стойка The Springs · регистрация",
+        "note": "Координаты отеля на его странице контактов. Внутреннюю встречу у реки уточните при записи.",
+        "activity": "car"
+      },
+      {
+        "point": "casa-luna-fortuna-property",
+        "role": "Casa Luna · стойка и вход на участок",
+        "note": "Попросите провод к выходу на внутреннюю лесную тропу.",
+        "activity": "hiking"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как распределить два дня",
+        "text": "Первый день посвятите термам и обеду. На второй заранее согласуйте с Club Río тюбинг или каяк по возрасту и воде. Если у группы разные планы, есть варианты прогулки и купелей по правилам выбранного билета.",
+        "sources": [
+          "springs-two-day-thermal-pass",
+          "club-rio-dedicated-tubing",
+          "club-rio-activity-index"
+        ]
+      },
+      {
+        "title": "Дорога и встреча",
+        "text": "На карте показан подъезд от центрального парка Ла-Фортуны. На речные занятия регистрация и шаттл организуются от The Springs. Casa Luna отмечена как возможная база южнее города.",
+        "sources": [
+          "springs-arenal-resort-gps",
+          "springs-fortuna-road-osm",
+          "casa-luna-own-forest-trail"
+        ]
+      },
+      {
+        "title": "Билеты и отдых",
+        "text": "Проверьте содержание двухдневного пропуска и посчитайте отдельные экскурсии, обед и ночёвку. На пиковые даты календарь может закрывать дневной доступ. Возьмите воду, сухую смену и подходящую обувь.",
+        "sources": [
+          "springs-two-day-thermal-pass",
+          "springs-resort-terms-menus",
+          "club-rio-rider-review"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "The Springs Resort · бронирование и Club Río",
+        "source": "springs-arenal-resort-gps",
+        "note": "Проверьте две даты, стоимость полного плана и подходящий речной выезд для группы.",
+        "phone": "+506 2401 3300",
+        "email": "reservations@thespringscostarica.com"
+      }
+    ],
+    "nearby": [
+      "the-springs-arenal-hot-springs",
+      "club-rio-arenal-tubing",
+      "club-rio-arenal-inflatable-kayak",
+      "fortuna-casa-luna-forest-luna-grill",
+      "arenal-pack"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "club-rio-activity-index",
+      "publisher-thespringscostarica-com"
+    ],
+    "videos": [
+      "club-rio-owner-tour-film"
+    ],
+    "line": "arenal-springs-club-rio-family-2",
+    "track": "springs-fortuna-road-osm"
+  }
+}

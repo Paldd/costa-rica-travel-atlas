@@ -616,6 +616,14 @@
           "pochote-playa-muertos-local",
           "pochote-playa-muertos-visitors"
         ]
+      },
+      {
+        "title": "Как описывает поездку местный автор",
+        "text": "Vamos a Turistear показывает берег Муэртос и короткую лодочную прогулку. До выезда согласуйте лодочника, часы возврата, цену и максимальную загрузку. Посадку фиксирует хозяин причала.",
+        "sources": [
+          "paquera-muertos-vamos-report",
+          "pochote-los-vivos-contacts"
+        ]
       }
     ],
     "contacts": [

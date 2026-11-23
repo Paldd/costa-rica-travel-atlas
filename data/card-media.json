@@ -2255,6 +2255,9 @@
   "pochote-muertos-local-lancha": {
     "photos": [
       "playa-pochote-berrocal"
+    ],
+    "galleries": [
+      "paquera-muertos-vamos-report"
     ]
   },
   "pochote-los-vivos-boat-stay": {
@@ -2962,6 +2965,38 @@
   "ostional-turtle-hatchling-dawn": {
     "photos": [
       "ostional-refuge-volunteers"
+    ]
+  },
+  "arenal-fuego-forest-thermal": {
+    "videos": [
+      "fb-fuego-rest-after-arenal-evening"
+    ]
+  },
+  "golfito-cacao-shore-water-taxi": {
+    "videos": [
+      "cacao-golfito-abby-kayak-film"
+    ]
+  },
+  "cinchona-san-fernando-34": {
+    "galleries": [
+      "cinchona-san-fernando-vamos-report"
+    ]
+  },
+  "bagaces-llanos-cortes-waterfall": {
+    "galleries": [
+      "fb-llanos-owner-archive-gallery"
+    ]
+  },
+  "danta-dantita-own-kayak": {
+    "photos": [
+      "dantita"
+    ]
+  },
+  "parador-punta-quepos-monkey-trail": {
+    "photos": [
+      "parador-punta-quepos-view",
+      "parador-punta-quepos-garden",
+      "parador-punta-quepos-pools"
     ]
   }
 }

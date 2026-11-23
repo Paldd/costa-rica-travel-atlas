@@ -957,7 +957,12 @@
       "/club-rio-adventure-center/"
     ],
     "language": "en",
-    "focus": "Речные каяки и тюбинг, верховые прогулки, ночная тропа и наблюдение птиц."
+    "focus": "Речные каяки и тюбинг, верховые прогулки, ночная тропа и наблюдение птиц.",
+    "exactPaths": [
+      "/club-rio-adventure-center/",
+      "/club-rio-adventure-center/river-tubing/",
+      "/day-pass/"
+    ]
   },
   {
     "name": "Pacuare Lodge · программы в речном каньоне",
@@ -2897,6 +2902,37 @@
     "review": "caturcochi-perezzeledon-directory",
     "exactPaths": [
       "/directorios/caturcochi/"
+    ]
+  },
+  {
+    "name": "Casa Luna · тропа и услуги отеля",
+    "url": "https://casalunahotel.com/es/hotel/",
+    "language": "es",
+    "focus": "Лесная тропа, ресторан, семейные условия и связь с Casa Luna.",
+    "exactPaths": [
+      "/es/hotel/",
+      "/es/casa-luna-hotel/"
+    ]
+  },
+  {
+    "name": "Parador · программы Quepos Verde Aventura",
+    "url": "https://hotelparador.com/tours/nature-hike/",
+    "language": "en",
+    "review": "parador-monkey-trail-qva",
+    "focus": "Мониторинг частной лесной тропы, длительности, цены и допуска на семейные прогулки.",
+    "exactPaths": [
+      "/tours/nature-hike/",
+      "/amenities/"
+    ]
+  },
+  {
+    "name": "Las Catalinas Doorway · каяк и собственное снаряжение",
+    "url": "https://www.lascatalinasdoorway.com/en/explore-the-magic-of-las-catalinas/kayaking",
+    "language": "en",
+    "review": "danta-doorway-own-kayak",
+    "focus": "Условия спуска со своим каяком, береговые варианты и контакты операторов.",
+    "exactPaths": [
+      "/en/explore-the-magic-of-las-catalinas/kayaking"
     ]
   }
 ]

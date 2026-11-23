@@ -1986,5 +1986,32 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Lac_Arenal_Costa_Rica_Barrage.JPG",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "parador-punta-quepos-view": {
+    "file": "parador-punta-quepos-view.jpg",
+    "alt": "Океан и прибрежный лес с территории Parador",
+    "caption": "Вид с мыса Пунта-Кепос от Hotel Parador · архивный кадр мая 2005 года, уменьшенная копия",
+    "author": "S. Rae",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Hotel_Parador_-_Flickr_-_S._Rae_(5).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "parador-punta-quepos-garden": {
+    "file": "parador-punta-quepos-garden.jpg",
+    "alt": "Тропический сад на территории Hotel Parador",
+    "caption": "Сад Hotel Parador на мысе Пунта-Кепос · архивный кадр мая 2005 года, уменьшенная копия",
+    "author": "S. Rae",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Hotel_Parador_-_Flickr_-_S._Rae_(1).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "parador-punta-quepos-pools": {
+    "file": "parador-punta-quepos-pools.jpg",
+    "alt": "Бассейны Parador над лесистым берегом",
+    "caption": "Бассейны Hotel Parador и зелёный склон Пунта-Кепос · архивный кадр мая 2005 года, уменьшенная копия",
+    "author": "S. Rae",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Hotel_Parador_-_Flickr_-_S._Rae_(9).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
   }
 }

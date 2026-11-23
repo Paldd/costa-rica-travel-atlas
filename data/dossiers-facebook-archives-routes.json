@@ -39,6 +39,14 @@
           "cinchona-san-fernando-track",
           "cinchona-soda-road-route"
         ]
+      },
+      {
+        "title": "Местный фотоотчёт",
+        "text": "Vamos a Turistear показывает водопад и влажное лесное окружение Сан-Фернандо. Состояние настилов, вход и последнюю подходящую группу сверяйте у тропы.",
+        "sources": [
+          "cinchona-san-fernando-vamos-report",
+          "cinchona-trails-operator"
+        ]
       }
     ],
     "contacts": [

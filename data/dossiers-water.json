@@ -535,6 +535,13 @@
           "source-379-packraft-tres-amigos",
           "source-379-packraft-tres-amigos-tourscr"
         ]
+      },
+      {
+        "title": "Текущая программа Alexandro",
+        "text": "Организатор описывает около двух часов на реке и около четырёх часов от сбора до возврата. На странице указан класс II–II+, возраст 8–65 лет и подвоз от зоны рядом с парком Ла-Фортуны. Точку спуска, водность и фактический участок подтверждает гид.",
+        "sources": [
+          "pack-arenal"
+        ]
       }
     ],
     "contacts": [
@@ -543,7 +550,8 @@
         "source": "pack-arenal",
         "note": "Бронирование водной программы и условия участия.",
         "phone": "+506 8961 7884",
-        "url": "https://wa.me/50689617884"
+        "url": "https://wa.me/50689617884",
+        "whatsapp": "https://wa.me/50689617884"
       }
     ],
     "nearby": [
@@ -728,6 +736,14 @@
         "sources": [
           "catalinas-pvr-public-2026"
         ]
+      },
+      {
+        "title": "С собственным снаряжением",
+        "text": "Управляющие Лас-Каталинас прямо указывают, что в бухту Данта можно привезти собственное каячное снаряжение. До выезда уточните разгрузку и место спуска у Pura Vida Ride. Для собственного маршрута вдоль берега смотрите отдельную карточку.",
+        "sources": [
+          "danta-doorway-own-kayak",
+          "catalinas-contact"
+        ]
       }
     ],
     "contacts": [
@@ -742,7 +758,8 @@
       "catalinas-mtb-25",
       "dantita-shore-walk",
       "flamingo-marina-catamarans",
-      "flamingo-catalinas-water-2"
+      "flamingo-catalinas-water-2",
+      "danta-dantita-own-kayak"
     ],
     "galleries": [
       "catalinas-pvr-public-2026"

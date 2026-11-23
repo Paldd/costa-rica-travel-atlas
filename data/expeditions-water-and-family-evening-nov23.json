@@ -1,0 +1,87 @@
+[
+  {
+    "id": "arenal-springs-club-rio-family-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Ареналь с детьми · два дня в термах The Springs и Club Río",
+    "native": "La Fortuna · The Springs Resort & Spa · Club Río Outdoor Center",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "thermal",
+      "swim",
+      "tubing",
+      "kayak",
+      "forest",
+      "views",
+      "cafe",
+      "multi"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "springs-two-day-thermal-pass",
+      "club-rio-activity-index",
+      "club-rio-dedicated-tubing",
+      "springs-arenal-resort-gps",
+      "springs-fortuna-road-osm",
+      "springs-resort-terms-menus",
+      "fb-springs-arenal-morning-oct21"
+    ],
+    "summary": "Двухдневная семейная поездка. В первый день купели и вид на вулкан, на второй по условиям вода в Club Río или лесная прогулка и отдых.",
+    "plan": "Приедьте к The Springs из Ла-Фортуны. Утром следующего дня отведите время речной программе, затем вернитесь на базу. Ночёвку и обед оформляйте отдельно.",
+    "conditions": "Проверьте доступность пропуска на обе даты. Тюбинг и каяк требуют согласования возраста и уровня воды. Подъезд показан по открытой карте.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Термы, обед и вид на Ареналь",
+        "note": "Выложите вещи в раздевалке и выберите удобный бассейн. Уточните детские зоны и часы кухни. В Casa Luna или другой гостинице ночёвка согласуется отдельно.",
+        "stops": [
+          "the-springs-arenal-hot-springs",
+          "fortuna-casa-luna-forest-luna-grill"
+        ],
+        "points": [
+          "fortuna-park",
+          "springs-arenal-resort-reception",
+          "casa-luna-fortuna-property"
+        ],
+        "sources": [
+          "springs-two-day-thermal-pass",
+          "springs-fortuna-road-osm",
+          "springs-resort-terms-menus"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Club Río и возвращение в Ла-Фортуну",
+        "note": "Свяжитесь с командой о воде и шаттле. Если речные занятия отменены, проверьте доступ к лесной части клуба и горячим бассейнам.",
+        "stops": [
+          "club-rio-arenal-tubing",
+          "club-rio-arenal-inflatable-kayak"
+        ],
+        "points": [
+          "springs-arenal-resort-reception",
+          "fortuna-park"
+        ],
+        "sources": [
+          "club-rio-activity-index",
+          "club-rio-dedicated-tubing",
+          "springs-arenal-resort-gps"
+        ]
+      }
+    ]
+  }
+]

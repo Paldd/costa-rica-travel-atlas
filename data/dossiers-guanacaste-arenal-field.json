@@ -43,6 +43,15 @@
           "llanos-aguaepipa-november",
           "llanos-municipal-visit"
         ]
+      },
+      {
+        "title": "Архив и актуальные часы",
+        "text": "На странице Catarata Llanos de Cortés открыт архивный визуальный материал о водопаде. Часы, действующий вход и условия для купания проверьте по ссылке муниципального проекта.",
+        "sources": [
+          "fb-llanos-owner-archive-gallery",
+          "llanos-municipal-visit",
+          "llanos-municipal-contact"
+        ]
       }
     ],
     "contacts": [
@@ -353,6 +362,15 @@
           "fuego-social-copy-may-jun",
           "fuego-owner-film",
           "fuego-owner-gallery"
+        ]
+      },
+      {
+        "title": "Где остаться поесть",
+        "text": "В исходном видео отель показывает вечернюю часть поездки и предлагает пиццу после осмотра Ареналя. Уточните отдельно доступ в ресторан, время кухни и посещение терм.",
+        "sources": [
+          "fb-fuego-rest-after-arenal-evening",
+          "fuego-activities-official",
+          "fuego-owner-contact"
         ]
       }
     ],

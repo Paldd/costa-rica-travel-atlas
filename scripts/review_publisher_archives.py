@@ -25,10 +25,10 @@ VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "met
 SECTION_PATH = re.compile(r"/(?:author|authors|category|categoria|tag|tags|page|search|searchtag)(?:/|$)", re.I)
 MIN_BODY_CHARS = 350
 ARTICLE_BODY_CLASSES = {
-    "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content",
+    "ContentSideBySide", "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content",
     "full-description", "section-gutenberg",
 }
-EXTRACTOR_VERSION = 10
+EXTRACTOR_VERSION = 11
 CATALOG_MATCH_VERSION = 1
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
