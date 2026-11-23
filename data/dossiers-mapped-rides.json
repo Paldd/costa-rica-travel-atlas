@@ -497,7 +497,8 @@
         "sources": [
           "senderos-colon",
           "senderos-colon-la-laja-bosque-field",
-          "senderos-colon-reference-30k"
+          "senderos-colon-reference-30k",
+          "senderos-colon-lajas-trail-video"
         ]
       },
       {
@@ -533,7 +534,7 @@
     ],
     "line": "senderos-colon-mtb-laja-11",
     "videos": [
-      "senderos-colon-lajas-trail-video"
+      "senderos-colon-laja-avimil-original"
     ]
   }
 }

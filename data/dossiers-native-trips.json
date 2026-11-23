@@ -24,7 +24,8 @@
         "sources": [
           "upala-water-inventory",
           "upala-santuario-iguana",
-          "upala-water-community"
+          "upala-water-community",
+          "upala-santuario-film"
         ]
       },
       {
@@ -80,7 +81,7 @@
     ],
     "videos": [
       "upala-santuario-cave-video",
-      "upala-santuario-film"
+      "upala-soycrecu-santuario-original"
     ],
     "connectStops": false
   },
