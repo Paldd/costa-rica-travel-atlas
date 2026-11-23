@@ -1,6 +1,6 @@
 {
-  "archives": 152,
-  "archivesRead": 147,
+  "archives": 155,
+  "archivesRead": 152,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -447,6 +447,42 @@
         }
       ],
       "read": 1
+    },
+    "carrillotours-costa-rica-activities": {
+      "indexed": 30,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Carrillo Sea Turtle Tour - Samara and Carrillo - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/tourtletour/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Carrillo Night Adventure - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/carrillo-night-adventure/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Belén Waterfall Tour - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/belen-waterfall/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "BARRA HONDA NATIONAL PARK - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/barra-honda-national-park/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Arenal Volcano Day Trip - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/arenalvolcano/"
+        }
+      ],
+      "read": 5
     },
     "casa-luna-own-forest-trail": {
       "indexed": 2,
@@ -977,6 +1013,42 @@
       ],
       "read": 2
     },
+    "divine-dolphin-public-field-blog": {
+      "indexed": 83,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Whale song mystery solved by scientists",
+          "url": "https://divinedolphin.com/blog/2024/02/25/whale-song-mystery-solved-by-scientists/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Humpback whales are organizing in huge numbers, and no one knows why",
+          "url": "https://divinedolphin.com/blog/2024/05/18/humpback-whales-are-organizing-in-huge-numbers-and-no-one-knows-why/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "How Whales Could Help Us Speak to Aliens",
+          "url": "https://divinedolphin.com/blog/2024/05/18/how-whales-could-help-us-speak-to-aliens/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Dolphins learn the ‘names’ of their friends to form teams—a first in animal kingdom | Science | AAAS",
+          "url": "https://divinedolphin.com/blog/2023/08/09/dolphins-learn-the-names-of-their-friends-to-form-teams-a-first-in-animal-kingdom-science-aaas/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Dolphin mothers use ‘baby talk’ with their calves, recordings show",
+          "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
+        }
+      ],
+      "read": 5
+    },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
       "pages": [
@@ -1456,6 +1528,11 @@
         }
       ],
       "read": 3
+    },
+    "osa-wild-golfo-dulce-programs": {
+      "indexed": 6,
+      "pages": [],
+      "read": 0
     },
     "pa-boquete-soul-tour-details": {
       "indexed": 2,
@@ -2372,14 +2449,12 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-18",
-          "readThisRun": true,
           "title": "Conozca el Parque Nacional Tapantí",
           "url": "https://adondeircr.com/cartago/conozca-el-parque-nacional-tapanti-2/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-18",
-          "readThisRun": true,
           "title": "3 Volcanes nacionales que deberías visitar",
           "url": "https://adondeircr.com/cartago/3-volcanes-nacionales-que-deberias-visitar/?c1"
         },
@@ -2387,8 +2462,42 @@
           "checked": "2026-11-23",
           "published": "2020-08-17",
           "readThisRun": true,
+          "title": "Más de 70 mil tortugas han sido liberadas en el país",
+          "url": "https://adondeircr.com/limon/mas-de-70-mil-tortugas-han-sido-liberadas-en-el-pais/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-17",
+          "readThisRun": true,
+          "title": "Hoy es feriado, pero la restricción vehicular continúa en todo el país",
+          "url": "https://adondeircr.com/san-jose/hoy-es-feriado-pero-la-restriccion-vehicular-continua-en-todo-el-pais/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-17",
           "title": "Espectacular fenómeno de bioluminiscencia se podrá disfrutar en Puntarenas",
           "url": "https://adondeircr.com/puntarenas/espectacular-fenomeno-de-bioluminiscencia-se-podra-disfrutar-en-puntarenas/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-17",
+          "readThisRun": true,
+          "title": "COVID-19: Hoy se reportan 619 casos nuevos y 10 fallecimientos",
+          "url": "https://adondeircr.com/san-jose/covid-19-hoy-se-reportan-619-casos-nuevos-y-10-fallecimientos/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-14",
+          "readThisRun": true,
+          "title": "Las 5 mejores playas de Limón",
+          "url": "https://adondeircr.com/limon/las-5-mejores-playas-de-limon/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-14",
+          "readThisRun": true,
+          "title": "La espectacular Laguna Don Manuel",
+          "url": "https://adondeircr.com/san-jose/la-espectacular-laguna-don-manuel/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2691,7 +2800,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 163
+      "read": 168
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -3294,7 +3403,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Guanacaste Lookout Point: Mirador 360° at Guachipelín",
           "url": "https://www.guachipelin.com/blog/en/mirador-360-between-the-gulf-of-papagayo-and-rincon-de-la-vieja/"
         },
@@ -5089,6 +5197,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Turismo inclusivo en Costa Rica: explorá más áreas protegidas accesibles - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/turismo-inclusivo-en-costa-rica-explora-mas-areas-protegidas-accesibles/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Turismo en comunidades indígenas - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/turismo-en-comunidades-indigenas/"
         },
@@ -5114,7 +5228,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Temporada de tortugas en Costa Rica: dónde y cuándo ver este espectáculo natural",
           "url": "https://vamosaturistear.com/actividades/temporada-de-tortugas-en-costa-rica-donde-y-cuando-ver-este-espectaculo-natural/"
         },
@@ -5140,7 +5253,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Río Peñas Blancas: aventura natural entre pozas y bosque nuboso - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/rio-penas-blancas-aventura-natural-entre-pozas-y-bosque-nuboso/"
         },
@@ -5148,6 +5260,12 @@
           "checked": "2026-11-23",
           "title": "Reserva Bosque Nuboso Santa Elena",
           "url": "https://vamosaturistear.com/actividades/reserva-bosque-nuboso-santa-elena/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Refugio de Vida Silvestre La Marta: un tesoro escondido en Cartago - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/refugio-de-vida-silvestre-la-marta-un-tesoro-escondida-en-cartago/"
         },
         {
           "checked": "2026-11-23",
@@ -5306,7 +5424,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Isla Murciélago: viví una aventurasalvaje en el Pacífico Norte - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/isla-murcielago-vivi-una-aventurasalvaje-en-el-pacifico-norte/"
         },
@@ -5432,6 +5549,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubrí 5 destinos para disfrutar el avistamiento de aves - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/descubri-5-destinos-para-disfrutar-el-avistamiento-de-aves/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Conocé playa Matapalo - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/conoce-playa-matapalo/"
         },
@@ -5482,7 +5605,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Cerro Paraguas: donde el cielo toca la montaña - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/cerro-paraguas-donde-el-cielo-toca-la-montana/"
         },
@@ -5548,7 +5670,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Bahía Salinas: playa y aventura en uno de los rincones más ventosos de Costa Rica - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/bahia-salinas-playa-y-aventura-en-uno-de-los-rincones-mas-ventosos-de-costa-rica/"
         },
@@ -5569,8 +5690,20 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "6 lugares mágicos para ver atardeceres en Costa Rica - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/6-lugares-magicos-para-ver-atardeceres-en-costa-rica/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "5 lugares para conocer en Sarchí - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/5-lugares-para-conocer-en-sarchi/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "5 Tours perfectos en Costa Rica para adultos mayores - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/5-tours-perfectos-en-costa-rica-para-adultos-mayores/"
         },
         {
           "checked": "2026-11-22",
@@ -5659,11 +5792,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Turismo inclusivo en Costa Rica: explorá más áreas protegidas accesibles - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/turismo-inclusivo-en-costa-rica-explora-mas-areas-protegidas-accesibles/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Restaurante Flotante de Isla Venado: Golfo de Nicoya - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/restaurante-flotante-de-isla-venado-golfo-de-nicoya/"
         },
@@ -5671,11 +5799,6 @@
           "checked": "2026-11-21",
           "title": "Reserva Natural Montaña Sagrada: senderos, laguna y biodiversidad - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/reserva-natural-montana-sagrada-senderos-laguna-y-biodiversidad/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "Refugio de Vida Silvestre La Marta: un tesoro escondido en Cartago - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/refugio-de-vida-silvestre-la-marta-un-tesoro-escondida-en-cartago/"
         },
         {
           "checked": "2026-11-21",
@@ -5729,11 +5852,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Descubrí 5 destinos para disfrutar el avistamiento de aves - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/descubri-5-destinos-para-disfrutar-el-avistamiento-de-aves/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Catarata Morpho Azul: Un paseo en medio de la naturaleza de Upala - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-morpho-azul-un-paseo-en-medio-de-la-naturaleza-de-upala/"
         },
@@ -5769,11 +5887,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "6 lugares mágicos para ver atardeceres en Costa Rica - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/6-lugares-magicos-para-ver-atardeceres-en-costa-rica/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "6 cerros para hacer hiking",
           "url": "https://vamosaturistear.com/actividades/6-cerros-para-hacer-hiking/"
         },
@@ -5791,11 +5904,6 @@
           "checked": "2026-11-21",
           "title": "5 destinos perfectos para disfrutar de Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/5-destinos-perfectos-para-disfrutar-de-guanacaste/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "5 Tours perfectos en Costa Rica para adultos mayores - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/5-tours-perfectos-en-costa-rica-para-adultos-mayores/"
         },
         {
           "checked": "2026-11-21",
@@ -6621,7 +6729,7 @@
       "read": 2
     },
     "rural-caturcochi-valle-chirripo": {
-      "indexed": null,
+      "indexed": 3,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6639,7 +6747,7 @@
           "url": "https://valledelchirripo.com/acampe-a-los-pies-de-los-gigantes/"
         }
       ],
-      "read": null
+      "read": 3
     },
     "rural-osa-jimenez-current-transport": {
       "indexed": 3,
@@ -6964,7 +7072,7 @@
       "read": 3
     },
     "south-water-sea-kayaking-8-day-owner": {
-      "indexed": null,
+      "indexed": 3,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6983,7 +7091,7 @@
           "url": "https://seakayakingcostarica.com/8-day-lodge-to-lodge-golfo-dulce-sea-kayaking-trip-november-may/"
         }
       ],
-      "read": null
+      "read": 3
     },
     "supherr-operator-water-herradura": {
       "indexed": 3,
@@ -8076,8 +8184,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 18,
-  "pagesRead": 9,
-  "pagesReadToDate": 1213,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45278445797"
+  "pagesChecked": 30,
+  "pagesRead": 20,
+  "pagesReadToDate": 1228,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45288635603"
 }
