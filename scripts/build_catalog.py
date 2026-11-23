@@ -525,6 +525,7 @@ def main():
             reusable_media(record, sources_by_id, gallery_ids)
         if reports := report_sources(record, sources_by_id):
             record["reportSources"] = reports
+    social["overview"]["placesWithPostLinks"] = sum(bool(record["posts"]) for record in records)
     if unknown_checks := checked_by_record.keys() - known_records:
         raise ValueError(f"Unknown records with check dates: {', '.join(sorted(unknown_checks))}")
     if unknown_dossiers := dossiers.keys() - known_records:

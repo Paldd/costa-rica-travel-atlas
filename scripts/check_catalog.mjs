@@ -335,6 +335,7 @@ for (const row of coveredPublishers) {
 }
 const facebookLinks = atlas.social.profiles.filter(row => row.platform === "Facebook").flatMap(row => row.postLinks || []);
 assert.equal(facebookLinks.length, atlas.social.overview.facebookPosts);
+assert.equal(records.filter(row => row.posts?.length).length, atlas.social.overview.placesWithPostLinks);
 assert.equal(new Set(facebookLinks.map(link => atlas.sources[link.source].url)).size, facebookLinks.length);
 const instagramWithOriginals = atlas.social.profiles.filter(row => row.platform === "Instagram" && row.postLinks?.length);
 const instagramLinks = instagramWithOriginals.flatMap(row => row.postLinks);

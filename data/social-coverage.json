@@ -6,8 +6,7 @@
     "instagramWithPosts": 98,
     "instagramUniquePosts": 579,
     "instagramPosts": 582,
-    "facebookAbout": 100,
-    "placesWithPostLinks": 34
+    "facebookAbout": 100
   },
   "profiles": [
     {
@@ -2064,6 +2063,88 @@
       {
         "profile": "Surf Simply",
         "url": "https://www.facebook.com/reel/2950016272020247"
+      }
+    ],
+    "jaguar-rescue": [
+      {
+        "profile": "Jaguar Rescue Center",
+        "url": "https://www.facebook.com/JaguarRescueCenter/posts/pfbid02dFJ7RdYYq6HFyxk2xkwnpDuUFVjjmJ9FErku4anUANQNYZczuJQpmKTafqzHpPsxl"
+      },
+      {
+        "profile": "Jaguar Rescue Center",
+        "url": "https://www.facebook.com/JaguarRescueCenter/posts/pfbid0CYgKGFq9ufnYUgSr8SnT2a88fvbdrDigjMznc2c69Mz9C6UWv6RaqzVcAasAHAJ4l"
+      }
+    ],
+    "diamante": [
+      {
+        "profile": "Diamante Eco Adventure Park",
+        "url": "https://www.facebook.com/reel/1152044767825409"
+      }
+    ],
+    "conchal-reserva-five-trails": [
+      {
+        "profile": "Reserva Conchal",
+        "url": "https://www.facebook.com/reel/1032903272517198"
+      }
+    ],
+    "cocles-villas-mya-glamping": [
+      {
+        "profile": "Villas y Glampings MyA",
+        "url": "https://www.facebook.com/reel/1763395971607663"
+      }
+    ],
+    "naranjito-kstr-day-volunteer": [
+      {
+        "profile": "Kids Saving the Rainforest",
+        "url": "https://www.facebook.com/reel/1152551720669838"
+      }
+    ],
+    "naranjito-kstr-rescue-tour": [
+      {
+        "profile": "Kids Saving the Rainforest",
+        "url": "https://www.facebook.com/reel/1152551720669838"
+      }
+    ],
+    "bajos-el-silencio-night-walk": [
+      {
+        "profile": "El Silencio Lodge & Spa",
+        "url": "https://www.facebook.com/ElSilencioLodgeCostaRica/posts/pfbid02Pgey5pBunVLZNPxJRmN7NUBfuxTjzRCBXeRFjNFLwggADgv51t1uFYiTEYqJ9EWal"
+      }
+    ],
+    "perez-zeledon-marvin-cacao-tour": [
+      {
+        "profile": "Hacienda AltaGracia",
+        "url": "https://www.facebook.com/AltaGraciaAuberge/posts/pfbid0eoqDEs7st7UQQAu2kxzJNxzqsqB9jJ36oBqbo1N6DdpbRkaBsvtonqsj9RnXTBVjl"
+      }
+    ],
+    "golfo-dulce-rescate-conservation-course": [
+      {
+        "profile": "Rescate Wildlife Rescue Center",
+        "url": "https://www.facebook.com/rescatewildlifecr/posts/pfbid02oNC4418Vj8Fr1FDgLLyXVhbsL8mQrxJuxPijaK7DRUWr9Y1HG7RkNSCNNuHRd1nml"
+      }
+    ],
+    "eco-termales": [
+      {
+        "profile": "Ecotermales Fortuna",
+        "url": "https://www.facebook.com/ecotermalesfortuna/posts/pfbid0uD54vsLE3uaEmWtyFRQorZEyscA4bdeYwBK9SEHxndHUWJHj3RcAeUKhcnNJeqgvl"
+      }
+    ],
+    "san-jose-teatro-plaza-cultura": [
+      {
+        "profile": "Teatro Nacional de Costa Rica",
+        "url": "https://www.facebook.com/tn.mcj.cr/posts/pfbid0329cquv2SRrh8Yrdxhp4PCY9AZbRq7zaAL1NyuDbqg4JRVcEfZA1ddCAh1H4wVYzkl"
+      }
+    ],
+    "arenal-manoa-thermal-lodge": [
+      {
+        "profile": "Arenal Manoa",
+        "url": "https://www.facebook.com/reel/1616643369538034"
+      }
+    ],
+    "san-jose-museo-ninos-lighting-2026": [
+      {
+        "profile": "Museo de los Niños de Costa Rica",
+        "url": "https://www.facebook.com/museodelosninoscr/posts/pfbid02sGh8Z6oyKyeGTJcvLEaT8VfFUL7GTwmvtocnaXuik3EcrvHMEV7N8QFNSkmqBCVcl"
       }
     ]
   }

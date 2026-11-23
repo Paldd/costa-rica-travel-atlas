@@ -212,8 +212,14 @@
       {
         "point": "cocles-cariblue-road",
         "role": "Ruta 256 · береговая дорога в Коклесе",
-        "note": "Ориентир района при езде от Пуэрто-Вьехо. Для поворота на Calle El Tucán получите пин MyA.",
+        "note": "Начальный дорожный ориентир у Ruta 256. Линия показывает подъезд к участку через Calle El Tucán.",
         "activity": "car"
+      },
+      {
+        "point": "cocles-mya-tucan-lodge-pin",
+        "role": "MyA · адрес размещения",
+        "activity": "glamping",
+        "note": "Метка участка по туристической карте. Точные ворота и возможность въезда после дождя подтвердите у хозяев."
       }
     ],
     "connectStops": false,
@@ -228,10 +234,12 @@
       },
       {
         "title": "Заезд и расстояние до берега",
-        "text": "Отель указывает Calle El Tucán в Коклесе. Береговой пин показывает район. Попросите координату входа, состояние дороги в дождь и место для велосипеда. По отзывам смотрите, как гости добирались до пляжа.",
+        "text": "Хозяева указывают Calle El Tucán. На карте есть метка участка и около 2,2 км дороги от ориентира на Calle Cariblue через Ruta 256. Линия заканчивается на дороге у участка. Получите у хозяев точку ворот и уточните состояние подъезда после ливней.",
         "sources": [
           "cocles-mya-calle-tucan-location",
-          "cocles-mya-public-guest-reviews"
+          "cocles-mya-public-guest-reviews",
+          "cocles-mya-property-pin",
+          "cocles-mya-approach-osm"
         ]
       },
       {
@@ -241,6 +249,14 @@
           "cocles-mya-calle-tucan-location",
           "cocles-mya-public-guest-reviews"
         ]
+      },
+      {
+        "title": "Как выглядит утро в Коклес",
+        "text": "В видео владельца показана карибская обстановка у MyA и указана связь для бронирования. У менеджера попросите точную точку своего номера, возможность подъезда и правила размещения на выбранную дату.",
+        "sources": [
+          "fb-mya-caribbean-morning-nov23",
+          "cocles-mya-villas-glamping-formats"
+        ]
       }
     ],
     "contacts": [
@@ -249,7 +265,8 @@
         "source": "publisher-villas-y-glampings-mya",
         "note": "Спросите пин ворот, доступ детей в выбранную категорию, парковку, бассейн и подъезд на дату.",
         "url": "https://villasmya.com/quienes-somos/",
-        "phone": "+506 6351 7444"
+        "phone": "+506 6351 7444",
+        "whatsapp": "https://wa.me/50663517444"
       }
     ],
     "galleries": [
@@ -265,7 +282,8 @@
       "cocles-colina-secreta-glamp",
       "cocles-punta-uva-bike-kayak",
       "punta-uva-local-kayak"
-    ]
+    ],
+    "line": "cocles-mya-el-tucan-approach"
   },
   "dominical-cuna-del-angel-la-palapa": {
     "stops": [

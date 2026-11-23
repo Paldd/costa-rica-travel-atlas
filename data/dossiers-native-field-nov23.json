@@ -1,0 +1,399 @@
+{
+  "bajos-el-silencio-night-walk": {
+    "stops": [
+      {
+        "point": "silencio-bajos-onsite-base",
+        "role": "El Silencio Lodge · встреча с проводником",
+        "activity": "hiking",
+        "note": "Метка базы из карты лоджа. Старт конкретной петли показывает проводник."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что смотрят в темноте",
+        "text": "Гид ведёт по лесу после заката и помогает заметить ночных бабочек, земноводных и мелких рептилий. В оригинальном посте владелец отдельно рассказывает о пауках и их сетях. Какие животные попадутся, зависит от погоды и состояния троп.",
+        "sources": [
+          "silencio-bajos-night-program",
+          "fb-silencio-night-cloud-forest-nov23"
+        ]
+      },
+      {
+        "title": "Встреча и дорога обратно",
+        "text": "У лоджа попросите время сбора, длительность и условия для семьи. Для вечернего приезда хозяева рекомендуют добираться к 18:00, советуют 4×4 и предлагают частный трансфер. Если вы живёте в другом лодже, согласуйте место высадки и возвращение после прогулки.",
+        "sources": [
+          "silencio-bajos-vehicle-faq",
+          "silencio-bajos-approach"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Влажный лес и перемены погоды требуют закрытой обуви и дождевика. Уточните наличие фонаря у гида. Согласуйте правила подсветки и съёмки животных перед выходом.",
+        "sources": [
+          "silencio-bajos-night-program",
+          "silencio-bajos-approach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Silencio Lodge & Spa · Night Walk",
+        "source": "silencio-bajos-approach",
+        "phone": "+506 4070 1100",
+        "whatsapp": "https://wa.me/50689361222",
+        "email": "guestservice@elsilenciolodge.com",
+        "note": "Подтвердите возраст, длительность, погоду и возможность экскурсии без проживания."
+      }
+    ],
+    "galleries": [
+      "silencio-bajos-night-program",
+      "fb-silencio-night-cloud-forest-nov23"
+    ],
+    "nearby": [
+      "bajos-el-silencio-waterfall-magic",
+      "blue-morpho-bajos-lodge",
+      "catarata-del-toro"
+    ]
+  },
+  "bajos-el-silencio-waterfall-magic": {
+    "stops": [
+      {
+        "point": "silencio-bajos-onsite-base",
+        "role": "El Silencio Lodge · начало программы",
+        "activity": "waterfall",
+        "note": "Владелец назначает место сбора и даёт схему подхода к водопадам."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дневной маршрут вдоль ручья",
+        "text": "Программа Waterfall Magic проходит по частному лесному участку лоджа. Проводник ведёт вдоль ручья к трём водопадам. В отчёте Pedal My Way есть фотографии и описание поездки по территории. Длину, перепад высот и порядок остановок уточните при бронировании.",
+        "sources": [
+          "silencio-bajos-waterfall-magic",
+          "silencio-bajos-property-walk-report"
+        ]
+      },
+      {
+        "title": "Как учесть интересы всей семьи",
+        "text": "Сообщите возраст детей и попросите подтвердить доступность укороченного выхода. Уточните, сколько времени занимает прогулка по состоянию троп, входит ли она в дневное посещение и можно ли добавить обед. Проверяйте условия у ручья и места скользких переходов вместе с гидом.",
+        "sources": [
+          "silencio-bajos-waterfall-magic",
+          "silencio-bajos-vehicle-faq"
+        ]
+      },
+      {
+        "title": "Подъезд и экипировка",
+        "text": "Лодж рекомендует 4×4 или организованный трансфер. Для прогулки возьмите воду, дождевик и закрытую обувь с цепкой подошвой. Гостевой отчёт помогает представить подъём и виды. Транспорт и время возвращения подтверждаются у координатора.",
+        "sources": [
+          "silencio-bajos-property-walk-report",
+          "silencio-bajos-vehicle-faq",
+          "silencio-bajos-approach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Silencio Lodge & Spa · Waterfall Magic",
+        "source": "silencio-bajos-approach",
+        "phone": "+506 4070 1100",
+        "whatsapp": "https://wa.me/50689361222",
+        "email": "guestservice@elsilenciolodge.com",
+        "note": "Уточните тропу, размер группы, вход в парк и подъезд после дождя."
+      }
+    ],
+    "galleries": [
+      "silencio-bajos-waterfall-magic",
+      "silencio-bajos-property-walk-report"
+    ],
+    "nearby": [
+      "bajos-el-silencio-night-walk",
+      "bajos-finca-dos-rios-cascades",
+      "catarata-del-toro",
+      "blue-falls-toro"
+    ]
+  },
+  "perez-zeledon-marvin-cacao-tour": {
+    "stops": [
+      {
+        "point": "altagracia-marvin-meeting-base",
+        "role": "Hacienda AltaGracia · ориентир для встречи",
+        "activity": "coffee",
+        "note": "Эта метка обозначает организатора. Адрес посадки и подъезд к ферме подтвердите при записи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Хозяин, посадки и дегустация",
+        "text": "Марвин сам показывает хозяйство. По тропам гости проходят к посадкам какао и кофе, знакомятся с перцем, сахарным тростником и патасте. В мастерской ферментации он объясняет обработку плодов и предлагает попробовать свои шоколадные изделия.",
+        "sources": [
+          "altagracia-marvin-experience",
+          "fb-altagracia-marvin-cacao-nov23"
+        ]
+      },
+      {
+        "title": "Сколько времени выделить",
+        "text": "Организатор указывает 4–4,5 часа на выезд. Вопросы о транспорте, месте встречи и посещении без проживания решает Hacienda AltaGracia. Хозяйство частное. Перед выездом попросите у координатора точку ворот и актуальную проходимость троп вдоль ручья.",
+        "sources": [
+          "altagracia-marvin-experience",
+          "alta-emtb-contact",
+          "altagracia-marvin-meeting-map"
+        ]
+      },
+      {
+        "title": "Сочетание с местными маршрутами",
+        "text": "В другой день можно выбрать e-MTB по окрестным деревням Кахона. Для посещения фермы пригодятся закрытые кроссовки, лёгкий дождевик и бутылка воды. До бронирования согласуйте пищевые ограничения и допустимый возраст детей.",
+        "sources": [
+          "altagracia-marvin-experience",
+          "alta-emtb-programs"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda AltaGracia · тур на ферму Марвина",
+        "source": "alta-emtb-contact",
+        "phone": "+506 2105 3000",
+        "note": "Попросите Marvin’s Finca de Cacao, место сбора, цену и время в пути."
+      }
+    ],
+    "galleries": [
+      "fb-altagracia-marvin-cacao-nov23",
+      "altagracia-marvin-experience"
+    ],
+    "nearby": [
+      "altagracia-santa-teresa-emtb",
+      "altagracia-entre-pueblos-emtb",
+      "rancho-rana-roja"
+    ]
+  },
+  "golfo-dulce-rescate-conservation-course": {
+    "stops": [
+      {
+        "point": "la-garita-rescate-sanctuary-point",
+        "role": "Ла-Гарита · знакомство с центром",
+        "activity": "wildlife",
+        "note": "Программа начинается в районе Алахуэлы. Аэропортовый трансфер и время регистрации согласует координатор."
+      },
+      {
+        "point": "golfito-rescate-course-town",
+        "role": "Гольфито · город на пути к биостанции",
+        "activity": "boat",
+        "note": "Показан городской ориентир. Оператор предоставляет участникам точную точку посадки на частную лодку."
+      }
+    ],
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Полевой курс по предварительному зачислению",
+      "text": "Участие с 18 лет, требуется английский. Территория станции закрыта для самостоятельных посещений. Анкета и сведения о местах у организатора.",
+      "sources": [
+        "golfo-rescate-course-2027",
+        "golfo-rescate-release-context"
+      ]
+    },
+    "sections": [
+      {
+        "title": "Даты и объём программы",
+        "text": "Оператор называет четыре учебные недели и 140 часов. В календаре опубликованы заезды 13 января – 15 февраля, 7 марта – 9 апреля, 19 апреля – 21 мая и 13 июня – 15 июля 2027 года. Попросите подтвердить даты всех трансферов и наличие места. В оригинальном посте отдельно упомянут апрельский набор.",
+        "sources": [
+          "golfo-rescate-course-2027",
+          "fb-rescate-golfo-course-nov23"
+        ]
+      },
+      {
+        "title": "Лес, мангры и выход на воду",
+        "text": "Программа включает полевые наблюдения, знакомство с экосистемами и работой центра. Среди выездов заявлены поход в Piedras Blancas, посещение мангров и снорклинг на рифе. Доступность каяка на свободное время и допуск к занятиям на воде уточняет команда с учётом погоды.",
+        "sources": [
+          "golfo-rescate-course-2027",
+          "golfo-rescate-release-context"
+        ]
+      },
+      {
+        "title": "Трансфер, проживание и экипировка",
+        "text": "В пакете указаны встреча в SJO, переезд через Гольфито, лодка к станции, проживание и питание. До покупки билетов запросите точный план переездов, комплект одежды и оборудование у координатора. Для удалённой базы согласуйте страховку и медицинские условия.",
+        "sources": [
+          "golfo-rescate-course-2027",
+          "golfo-rescate-city-orientation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rescate Wildlife · координатор полевой программы",
+        "source": "golfo-rescate-course-2027",
+        "email": "conservationcourse@rescatewildlife.org",
+        "note": "Уточните набор, требования, цену, даты трансферов и список снаряжения."
+      }
+    ],
+    "galleries": [
+      "golfo-rescate-course-2027",
+      "golfo-rescate-release-context"
+    ],
+    "nearby": [
+      "golfito-cacao-shore-water-taxi",
+      "golfito-rio-leon-mangroves-boat",
+      "golfito-banana-bay-reef-wreck-diving"
+    ],
+    "videos": [
+      "fb-rescate-golfo-course-nov23"
+    ]
+  },
+  "naranjito-kstr-rescue-tour": {
+    "stops": [
+      {
+        "point": "kstr-naranjito-sanctuary-point",
+        "role": "Kids Saving the Rainforest · приют и экскурсия",
+        "activity": "wildlife",
+        "note": "Ориентир территории. Точные ворота и парковку подтвердите при бронировании."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Экскурсия с детьми",
+        "text": "На сайте указано около 1,5 часа с гидом, есть обычный и частный форматы. На маршруте сотрудники рассказывают о лесовосстановлении и о животных, которым нужна постоянная помощь. На 23 ноября 2026 года у оператора указан вход $60 для взрослого и $45 для ребёнка младше 12 лет. Дети младше трёх лет проходят бесплатно.",
+        "sources": [
+          "kstr-naranjito-wildlife-guided",
+          "fb-kstr-volunteer-episode3-nov23"
+        ]
+      },
+      {
+        "title": "Приезд и оснащение",
+        "text": "Центр находится в Наранхито, в стороне от пляжей Мануэль-Антонио. Спросите о подъезде в дождь, доступности прогулки с коляской и правилах посещения соседнего бассейна Blue Banyan Inn. Возьмите лёгкую закрытую обувь, воду и защиту от насекомых.",
+        "sources": [
+          "kstr-naranjito-connect",
+          "kstr-naranjito-wildlife-guided",
+          "kstr-naranjito-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "KSTR · экскурсии по приюту",
+        "source": "kstr-naranjito-wildlife-guided",
+        "phone": "+506 8568 5335",
+        "whatsapp": "https://wa.me/50685685335",
+        "note": "Уточните тип экскурсии, время старта и детские билеты."
+      }
+    ],
+    "galleries": [
+      "kstr-naranjito-wildlife-guided"
+    ],
+    "videos": [
+      "fb-kstr-volunteer-episode3-nov23",
+      "kstr-naranjito-projects-video"
+    ],
+    "nearby": [
+      "naranjito-kstr-day-volunteer",
+      "manuel-antonio",
+      "quepos-boat"
+    ]
+  },
+  "naranjito-kstr-day-volunteer": {
+    "stops": [
+      {
+        "point": "kstr-naranjito-sanctuary-point",
+        "role": "KSTR · встреча с координатором",
+        "activity": "wildlife",
+        "note": "Сообщите при записи, кто из группы взрослый сопровождающий."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроен день",
+        "text": "После экскурсии по приюту участники выполняют задание с сотрудником центра. После обеда помогают с подготовкой корма и другими разрешёнными работами. Активности организуются командой и зависят от потребностей животных в конкретный день.",
+        "sources": [
+          "kstr-naranjito-day-volunteer",
+          "fb-kstr-volunteer-episode3-nov23"
+        ]
+      },
+      {
+        "title": "Возраст, одежда и запись",
+        "text": "Публичная карточка программы указывает около семи часов. В ней указано, что дети 7–17 лет могут участвовать со взрослым, а без сопровождающего требуется возраст от 18 лет. Подтвердите ограничения у центра. Возьмите рабочую одежду, закрытую обувь и дождевик.",
+        "sources": [
+          "kstr-naranjito-day-booking",
+          "kstr-naranjito-connect"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "KSTR · координатор дневных волонтёров",
+        "source": "kstr-naranjito-day-volunteer",
+        "email": "volunteer@kstr.org",
+        "phone": "+506 8568 5335",
+        "whatsapp": "https://wa.me/50685685335",
+        "note": "Уточните возраст, продолжительность, питание и допустимые задания для участников."
+      }
+    ],
+    "galleries": [
+      "kstr-naranjito-day-volunteer",
+      "kstr-naranjito-wildlife-guided"
+    ],
+    "videos": [
+      "fb-kstr-volunteer-episode3-nov23",
+      "kstr-naranjito-projects-video"
+    ],
+    "nearby": [
+      "naranjito-kstr-rescue-tour",
+      "manuel-antonio",
+      "quepos-boat"
+    ]
+  },
+  "arenal-manoa-thermal-lodge": {
+    "stops": [
+      {
+        "point": "arenal-manoa-main-entrance",
+        "role": "Arenal Manoa · въезд к термальному лоджу",
+        "activity": "thermal",
+        "note": "Координаты по карте, на которую ссылается отель."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор термальной зоны",
+        "text": "У лоджа есть открытая зона бассейнов с видами на вулкан и три уединённые купели для взрослых в лесу. Обе зоны на странице владельца открыты с 10:00 до 22:00. Для ребёнка уточните температуру основной зоны и условия сопровождения.",
+        "sources": [
+          "arenal-manoa-thermal-areas",
+          "arenal-manoa-thermal-faq"
+        ]
+      },
+      {
+        "title": "Ночёвка и дневное посещение",
+        "text": "При бронировании уточните вместимость номера и детские тарифы. Оператор сообщает, что проживающим предоставляются полотенца у бассейнов. Если отдыхаете в другом отеле, отдельно спросите о дневном входе и составе услуг.",
+        "sources": [
+          "arenal-manoa-thermal-faq",
+          "arenal-manoa-contact"
+        ]
+      },
+      {
+        "title": "Как поставить в семейный план",
+        "text": "Отель в Ла-Пальма удобно сочетать с лесной прогулкой утром и бассейнами после возвращения. Местный туристический справочник даёт ориентир около 15 минут на машине от центра Ла-Фортуны. На сайте владельца есть зоны, фотографии и карта подъезда.",
+        "sources": [
+          "arenal-manoa-regional-guide",
+          "arenal-manoa-main-map",
+          "fb-arenal-manoa-lodge-nov23"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Arenal Manoa · приёмная лоджа",
+        "source": "arenal-manoa-contact",
+        "phone": "+506 2479 1111",
+        "whatsapp": "https://wa.me/50624791111",
+        "email": "info@arenalmanoa.com",
+        "note": "Согласуйте номер, возраст детей, доступ к бассейнам и время приезда."
+      }
+    ],
+    "galleries": [
+      "arenal-manoa-thermal-areas",
+      "arenal-manoa-regional-guide"
+    ],
+    "videos": [
+      "fb-arenal-manoa-lodge-nov23"
+    ],
+    "nearby": [
+      "eco-termales",
+      "mistico",
+      "el-silencio-del-campo"
+    ]
+  }
+}

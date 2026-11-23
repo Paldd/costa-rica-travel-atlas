@@ -2820,5 +2820,60 @@
     ],
     "language": "es",
     "focus": "Занятия с детьми, локальные экскурсии и контакты курорта."
+  },
+  {
+    "name": "El Silencio Lodge · походы в облачном лесу",
+    "url": "https://www.elsilenciolodge.com/experiences/night-walk",
+    "review": "silencio-bajos-night-program",
+    "exactPaths": [
+      "/experiences/night-walk",
+      "/experiences/waterfall-magic",
+      "/faqs"
+    ],
+    "language": "en",
+    "focus": "Ночная прогулка с проводником, частные водопады и условия подъезда к лоджу."
+  },
+  {
+    "name": "Hacienda AltaGracia · ферма Марвина",
+    "url": "https://auberge.com/es/altagracia/experiences/marvins-finca-cacao/",
+    "review": "altagracia-marvin-experience",
+    "exactPaths": [
+      "/es/altagracia/experiences/marvins-finca-cacao/"
+    ],
+    "language": "es",
+    "focus": "Выезды на какао-ферму, длительность и состав прогулки в Перес-Селедоне."
+  },
+  {
+    "name": "Rescate Wildlife · полевой курс Гольфо-Дульсе",
+    "url": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/",
+    "review": "golfo-rescate-course-2027",
+    "exactPaths": [
+      "/tropical-conservation-and-wildlife-rehabilitation-course/"
+    ],
+    "language": "en",
+    "focus": "Даты набора, требования к участникам, выходы на воду и условия трансфера."
+  },
+  {
+    "name": "Kids Saving the Rainforest · волонтёрство в Наранхито",
+    "url": "https://www.kidssavingtherainforest.org/volunteer",
+    "review": "kstr-naranjito-day-volunteer",
+    "exactPaths": [
+      "/volunteer",
+      "/contact"
+    ],
+    "language": "en",
+    "focus": "Требования для однодневного участия, виды работ и контакты координатора."
+  },
+  {
+    "name": "Arenal Manoa · условия термальных зон",
+    "url": "https://arenalmanoa.com/hot-springs/",
+    "review": "arenal-manoa-thermal-areas",
+    "exactPaths": [
+      "/hot-springs/",
+      "/frequently-asked-questions/",
+      "/contact/"
+    ],
+    "language": "en",
+    "focus": "Часы бассейнов, семейный доступ к термам и контакты лоджа."
   }
 ]

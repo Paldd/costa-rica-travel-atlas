@@ -561,7 +561,8 @@ function SourcesPage({ atlas }) {
       <article><strong>{overview.facebookPosts}</strong><span>постов Facebook открыто</span></article>
       <article><strong>{Object.keys(atlas.sources).length}</strong><span>источников каталога</span></article>
     </div>
-    <p>Подключённый коннектор Meta читает управляемые аккаунты. В рейтинге указаны образцы подписей, оригиналы, открытые копии и результат проверки браузером. {overview.instagramOpenedPosts > 0 && `Сейчас по прямым ссылкам проверено ${overview.instagramOpenedPosts} публикаций Instagram из ${overview.instagramWithOpenedPosts} профилей.`}</p>
+    <p>Подключённый коннектор Meta читает управляемые аккаунты. В рейтинге указаны образцы подписей, оригиналы, открытые копии и результат проверки браузером.</p>
+    <p>По прямым ссылкам проверено {overview.instagramOpenedPosts} публикаций из {overview.instagramWithOpenedPosts} профилей Instagram и {overview.facebookPosts} публикаций из {overview.facebookWithPosts} страниц Facebook. Публикации с подтверждённой привязкой видны в {overview.placesWithPostLinks} карточках.</p>
     <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/API.md">Проверка доступов и методика</External>{" · "}
       <External href="https://github.com/Paldd/costa-rica-travel-atlas/actions/workflows/refresh.yml">Ежедневное чтение открытых архивов</External></p>
     <details className="evidence-list">
