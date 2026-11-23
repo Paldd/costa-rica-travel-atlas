@@ -99,6 +99,25 @@ async function checkViewport(browser, width) {
     await page.waitForFunction(alt => Array.from(document.images).some(img => img.alt === alt && img.naturalWidth > 0), beachPhoto.alt);
     await checkWidth();
 
+    const fieldTrip = records.get("nicoya-bikepack-6");
+    await open("expeditions?q=Nicoya&detail=track&material=video");
+    const tripCard = page.locator(".route-card").filter({
+      has: page.locator('h3 a[href*="place/nicoya-bikepack-6"]'),
+    });
+    await tripCard.getByRole("link", { name: fieldTrip.title }).click();
+    await heading(fieldTrip);
+    await page.waitForFunction(src => Array.from(document.images).some(img =>
+      img.src.endsWith("/" + src) && img.naturalWidth > 0), fieldTrip.dossier.photos[0].file);
+    await page.getByRole("list", { name: "Галереи и фотоотчёты" })
+      .getByRole("link", { name: /BIKEPACKING.com · Nicoya Peninsula Traverse/ }).waitFor();
+    const firstTripVideo = page.getByRole("list", { name: "Видео", exact: true }).locator("li").first();
+    await firstTripVideo.getByRole("button", { name: "Смотреть в карточке" }).click();
+    await firstTripVideo.locator('iframe[src="https://www.youtube-nocookie.com/embed/4JXi8OMG6Gc"]').waitFor();
+    const fieldMap = page.getByRole("region", { name: "Карта маршрута" });
+    await fieldMap.locator('a[href="https://ridewithgps.com/routes/5717460"]').waitFor();
+    assert.equal(await fieldMap.locator(".route-map-stops li").count(), fieldTrip.dossier.stops.length);
+    await checkWidth();
+
     const trip = atlas.records.find(record => record.dossier.stageCover);
     await open("place/" + trip.id);
     await heading(trip);

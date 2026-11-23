@@ -512,6 +512,8 @@ function SourcesPage({ atlas }) {
   const withVideos = atlas.records.filter(row => row.dossier?.videos?.length).length;
   const withGalleries = atlas.records.filter(row => row.dossier?.galleries?.length).length;
   const withMaps = atlas.records.filter(row => row.dossier?.stops.length).length;
+  const withRouteLines = atlas.records.filter(row => row.dossier?.line).length;
+  const withExternalTracks = atlas.records.filter(row => row.dossier?.track).length;
   const withReports = atlas.records.filter(row => row.reportSources?.length || row.posts?.length).length;
   const guideLanguages = { es: "На испанском", en: "На английском", "es-en": "На испанском и английском" };
   return <section className="sources-page">
@@ -630,7 +632,7 @@ function SourcesPage({ atlas }) {
     </details>
     <details className="evidence-list"><summary>Фото, видео и отзывы <ChevronDown size={18} /></summary>
       <p>Фотографии с указанием автора есть в {withPhotos} из {atlas.records.length} карточек, ссылки на видео — в {withVideos}.</p>
-      <p>Точки с источниками координат есть в {withMaps} карточках.</p>
+      <p>Точки с источниками координат есть в {withMaps} карточках. Линия маршрута есть в {withRouteLines}, ссылка на внешний трек или карту — в {withExternalTracks}.</p>
       {withGalleries > 0 && <p>Ссылки на фотографии авторов и операторов есть в {withGalleries} карточках.</p>}
       {withReports > 0 && <p>Отзывы, отчёты или прямые упоминания собраны в {withReports} карточках.</p>}
       <p><External href="https://github.com/Paldd/costa-rica-travel-atlas/blob/main/docs/MEDIA.md">Авторы, лицензии и иллюстрации</External></p>

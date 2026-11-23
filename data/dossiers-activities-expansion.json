@@ -1499,6 +1499,11 @@
         "point": "pailas-visitor-point",
         "role": "Las Pailas · район водопада",
         "note": "Регистрацию к водопаду и вход в парк размечают отдельно. Гид выбирает сегодняшний подход."
+      },
+      {
+        "point": "oropendola-waterfall-osm",
+        "role": "Водопад и смотровая над Рио-Бланко",
+        "note": "Последний подход по лестнице и мосту проходят пешком."
       }
     ],
     "contacts": [
@@ -1534,8 +1539,10 @@
     ],
     "nearby": [
       "rio-negro-guachipelin-tubing",
-      "rincon-mtb"
-    ]
+      "rincon-mtb",
+      "oropendola-guachipelin-walk"
+    ],
+    "connectStops": false
   },
   "drake-cano-guided-scuba": {
     "stops": [

@@ -43,12 +43,23 @@ const Mtb = sportIcon(<>
   <path d="m5 17 4-8 4 8h6l-3-8h3M7 9h5m-4-3 4-4 3 3m-4-2 1 3 1-1" />
 </>);
 
+const Buggy = sportIcon(<>
+  <circle cx="5" cy="18" r="2.5" /><circle cx="19" cy="18" r="2.5" />
+  <path d="M2 16v-4h4L9 6h7l4 6h2v4M8 18h8M6 12h14M13 6v6" />
+</>);
+const Quad = sportIcon(<>
+  <circle cx="5" cy="18" r="2.5" /><circle cx="19" cy="18" r="2.5" />
+  <path d="M3 15v-2h6l3 3h4l2-3h4v2m-10 1 2-7h5m-3 0V6M7 11h4M8 18h8" />
+</>);
+
 const groups = [
   ["rides", Zap, "ebike"],
   ["rides", Mtb, "mtb"],
   ["rides", Gravel, "gravel"],
   ["rides", Bike, "road-bike", "cycling"],
-  ["land", Truck, "offroad", "utv", "atv"],
+  ["land", Truck, "offroad"],
+  ["land", Buggy, "utv"],
+  ["land", Quad, "atv"],
   ["land", RoofTent, "rooftent"],
   ["land", TentTree, "camping"],
   ["land", Flame, "campfire"],
@@ -86,6 +97,7 @@ const bikeActivities = ["ebike", "mtb", "gravel", "road-bike"];
 export function mainActivity(row) {
   const [activity] = row.activities;
   if (activity === "cycling") return bikeActivities.find(id => row.activities.includes(id)) || activity;
+  if (activity === "offroad") return row.activities.find(id => id === "utv" || id === "atv") || activity;
   return activity;
 }
 

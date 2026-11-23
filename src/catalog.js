@@ -99,7 +99,9 @@ export const secondaryFilters = [
   { key: "km", label: "Расстояние", options: distances },
   { key: "sleep", label: "Ночёвка", options: lodging },
   { key: "kind", label: "Вид записи", options: kinds },
-  { key: "detail", label: "Карта и детали", options: { map: "С точками на карте" } },
+  { key: "detail", label: "Карта и треки", options: {
+    map: "С точками на карте", line: "С линией маршрута", track: "С внешним треком",
+  } },
   { key: "material", label: "Материалы", options: { photo: "Фото в карточке", gallery: "Фотогалереи", video: "Видео", report: "Отзывы и отчёты" } },
 ];
 
@@ -157,7 +159,7 @@ export function visibleRecords(records, filters, scope, saves) {
   const level = filters.get("level");
   const sleep = filters.get("sleep");
   const kind = filters.get("kind");
-  const detailed = filters.get("detail") === "map";
+  const detail = filters.get("detail");
   const material = filters.get("material");
   const km = distanceLimits[filters.get("km")];
   return records.filter(record => {
@@ -173,7 +175,9 @@ export function visibleRecords(records, filters, scope, saves) {
     if (level && record.level !== level) return false;
     if (sleep && !record.sleep.includes(sleep)) return false;
     if (kind && record.kind !== kind) return false;
-    if (detailed && !record.dossier?.stops.length) return false;
+    if (detail === "map" && !record.dossier?.stops.length) return false;
+    if (detail === "line" && !record.dossier?.line) return false;
+    if (detail === "track" && !record.dossier?.track) return false;
     if (!hasMaterial(record, material)) return false;
     if (km && (record.distance === null || record.distance < km[0] || record.distance >= km[1])) return false;
     if (!tokens.length) return true;

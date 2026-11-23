@@ -213,6 +213,9 @@
   "chirripo-herradura": {
     "galleries": [
       "uran-field-report"
+    ],
+    "videos": [
+      "film-qbl-cerro-uran"
     ]
   },
   "chirripo-jeronimo": {
@@ -318,6 +321,9 @@
   "costa-ballena-rooftop-surf-3": {
     "photos": [
       "atlas-ballena-coast"
+    ],
+    "videos": [
+      "media-hermosa-osa-film"
     ]
   },
   "cross-costa-rica-mtb-archive-3": {
@@ -531,6 +537,9 @@
   "esterillos-aloha-surf": {
     "galleries": [
       "aloha-esterillos-family-instructor"
+    ],
+    "videos": [
+      "film-qbl-esterillos-oeste"
     ]
   },
   "faith-glamp": {
@@ -541,6 +550,9 @@
   "flamingo": {
     "photos": [
       "flamingo-beach-atlas"
+    ],
+    "videos": [
+      "panache-flamingo-two-weeks-video"
     ]
   },
   "fortuna-falls": {
@@ -564,11 +576,21 @@
   "golfito-jimenez-passenger-boat": {
     "photos": [
       "atlas-puerto-jimenez-arch"
+    ],
+    "videos": [
+      "film-qbl-golfito-marina"
     ]
   },
   "golfo-dulce-mangrove-kayak": {
     "galleries": [
-      "osa-mangrove-dreamcatcher"
+      "osa-mangrove-dreamcatcher",
+      "gallery-aventuras-tropicales-catalog"
+    ],
+    "photos": [
+      "atlas-puerto-jimenez-arch"
+    ],
+    "videos": [
+      "film-aventuras-tropicales-drinktea"
     ]
   },
   "golfo-dulce-weekend-no-car": {
@@ -592,7 +614,15 @@
   "guiones": {
     "galleries": [
       "media-guiones-marin-albums",
-      "media-guiones-surf-simply-day"
+      "media-guiones-surf-simply-day",
+      "gallery-surf-simply-guiones-coaching"
+    ],
+    "photos": [
+      "guiones-shore",
+      "guiones-sunset-commons"
+    ],
+    "videos": [
+      "film-surf-simply-guiones"
     ]
   },
   "hacienda-ceiba": {
@@ -612,7 +642,14 @@
   },
   "iguana-school": {
     "galleries": [
-      "iguana-surf"
+      "iguana-surf",
+      "gallery-iguana-camp-tamarindo"
+    ],
+    "photos": [
+      "tamarindo-aerial-archive"
+    ],
+    "videos": [
+      "film-iguana-surf-tamarindo"
     ]
   },
   "jaco-pastor-diaz-ebike-4": {
@@ -772,7 +809,11 @@
   },
   "nalu-school": {
     "galleries": [
-      "nalu-surf"
+      "nalu-surf",
+      "gallery-nalu-santa-teresa-school"
+    ],
+    "photos": [
+      "santa-teresa-shore-archive"
     ]
   },
   "naranjo-4x4": {
@@ -1047,6 +1088,9 @@
     ],
     "photos": [
       "quepos-marina-commons"
+    ],
+    "videos": [
+      "film-ocean-king-joel"
     ]
   },
   "quepos-fondo-105-2027": {
@@ -1311,7 +1355,8 @@
     ],
     "videos": [
       "media-tortuguero-film",
-      "film-tortuguero-ronny-lupita-canoe"
+      "film-tortuguero-ronny-lupita-canoe",
+      "film-costa-rica-guide-tortuguero"
     ],
     "galleries": [
       "tortuguero-acto-sectors"
@@ -1466,6 +1511,199 @@
     ],
     "videos": [
       "museo-nacional-bellavista-butterflies-film"
+    ]
+  },
+  "nicoya-bikepack-6": {
+    "photos": [
+      "atlas-conchal-point",
+      "samara-beach-commons",
+      "santa-teresa-shore-archive"
+    ],
+    "videos": [
+      "film-nicoya-cyclingabout-traverse",
+      "paquera-ferry-mytanfeet-video"
+    ],
+    "galleries": [
+      "nicoya-bikepacking-ride"
+    ]
+  },
+  "golfo-dulce-kayak-camp-3": {
+    "photos": [
+      "atlas-puerto-jimenez-arch"
+    ],
+    "videos": [
+      "film-aventuras-tropicales-drinktea"
+    ],
+    "galleries": [
+      "pelago-golfo-dulce-kayak-camp",
+      "gallery-aventuras-tropicales-catalog"
+    ]
+  },
+  "talamanca-reef-surf-3": {
+    "photos": [
+      "caribe-cahuita",
+      "atlas-cocles-wave",
+      "caribe-punta-uva"
+    ],
+    "videos": [
+      "film-ict-cahuita-reef",
+      "punta-uva-kayak-video"
+    ],
+    "galleries": [
+      "gallery-cahuita-experience-team"
+    ]
+  },
+  "cahuita-trail": {
+    "videos": [
+      "film-ict-cahuita-reef"
+    ],
+    "galleries": [
+      "gallery-cahuita-experience-team"
+    ]
+  },
+  "cahuita-reef-snorkel": {
+    "videos": [
+      "film-ict-cahuita-reef",
+      "film-jamvill-cahuita-reef"
+    ],
+    "galleries": [
+      "gallery-cahuita-experience-team"
+    ]
+  },
+  "cahuita-rooftent-ebike-2": {
+    "videos": [
+      "film-ict-cahuita-reef"
+    ]
+  },
+  "tamarindo-surf": {
+    "videos": [
+      "film-iguana-surf-tamarindo"
+    ],
+    "galleries": [
+      "gallery-iguana-camp-tamarindo"
+    ]
+  },
+  "junquillal": {
+    "videos": [
+      "film-qbl-bahia-junquillal"
+    ],
+    "galleries": [
+      "gallery-qbl-bahia-junquillal"
+    ]
+  },
+  "santa-rosa-junquillal": {
+    "videos": [
+      "film-qbl-bahia-junquillal"
+    ],
+    "galleries": [
+      "gallery-qbl-bahia-junquillal"
+    ]
+  },
+  "junquillal-malinches-rooftent": {
+    "videos": [
+      "film-araya-malinches-rooftent"
+    ]
+  },
+  "junquillal-verdiazul-malinches-blanca-4": {
+    "videos": [
+      "film-araya-malinches-rooftent"
+    ]
+  },
+  "eolicos-santa-ana-campfire": {
+    "videos": [
+      "film-sanchez-eolicos-bike-camp"
+    ]
+  },
+  "quepos-catamaran": {
+    "photos": [
+      "quepos-marina-commons"
+    ],
+    "videos": [
+      "film-ocean-king-joel"
+    ]
+  },
+  "esterillos-sirena-shore": {
+    "videos": [
+      "film-qbl-esterillos-oeste"
+    ],
+    "galleries": [
+      "gallery-qbl-esterillos-oeste"
+    ]
+  },
+  "esterillos-palo-seco-roof-2": {
+    "videos": [
+      "film-qbl-esterillos-oeste"
+    ],
+    "galleries": [
+      "gallery-qbl-esterillos-oeste"
+    ]
+  },
+  "esterillos-bandera-uvita-coastal-camp-3": {
+    "videos": [
+      "film-qbl-esterillos-oeste"
+    ],
+    "galleries": [
+      "gallery-qbl-esterillos-oeste"
+    ]
+  },
+  "miramar-vista-golfo-big-papa": {
+    "videos": [
+      "film-vista-golfo-big-papa"
+    ],
+    "galleries": [
+      "vista-golfo-big-papa"
+    ]
+  },
+  "miramar-vista-golfo-eleven-waterfalls": {
+    "videos": [
+      "film-vista-golfo-waterfalls"
+    ],
+    "galleries": [
+      "vista-golfo-11-cataratas"
+    ]
+  },
+  "miramar-vista-golfo-camp": {
+    "videos": [
+      "film-vista-golfo-big-papa",
+      "film-vista-golfo-waterfalls"
+    ],
+    "galleries": [
+      "vista-golfo-camping"
+    ]
+  },
+  "uran-herradura-camp-3": {
+    "videos": [
+      "film-qbl-cerro-uran"
+    ]
+  },
+  "drake-without-car-3": {
+    "photos": [
+      "drake"
+    ],
+    "videos": [
+      "film-qbl-drake-coast",
+      "film-qbl-drake-expedition"
+    ]
+  },
+  "osa-expedition-6": {
+    "videos": [
+      "film-qbl-drake-expedition"
+    ]
+  },
+  "samara-carrillo-ebike-camp-2": {
+    "videos": [
+      "carrillo-hojancha-video"
+    ]
+  },
+  "guachipelin-oropendola-horseback": {
+    "photos": [
+      "oropendola-guachipelin-commons"
+    ],
+    "videos": [
+      "oropendola-visit-film"
+    ],
+    "galleries": [
+      "oropendola-qbl-visit"
     ]
   }
 }

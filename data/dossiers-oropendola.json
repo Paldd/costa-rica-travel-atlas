@@ -1,0 +1,79 @@
+{
+  "oropendola-guachipelin-walk": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Билеты и ориентир на подъезде",
+        "note": "Hacienda Guachipelín. Подтвердите место получения билета и точный заезд ко входу Оропендолы."
+      },
+      {
+        "point": "pailas-visitor-point",
+        "role": "Район начала пешей части",
+        "note": "Сверьте указатели на частную тропу к водопаду с сотрудниками. Вход в национальный парк Las Pailas оформляют отдельно."
+      },
+      {
+        "point": "oropendola-waterfall-osm",
+        "role": "Водопад и ущелье Рио-Бланко",
+        "note": "Точка обозначает водопад. Подход к смотровой идёт по размеченной тропе и мосту."
+      }
+    ],
+    "track": "oropendola-wikiloc-2024",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Пешая дорожка и дневной план",
+        "text": "Авторская запись показывает 1,3 км туда и обратно и около 28 м набора. Хозяева отводят 15 минут на переход в каждую сторону и до часа на площадке у водопада. В карте открыт полный авторский трек.",
+        "sources": [
+          "oropendola-wikiloc-2024",
+          "oropendola-entrance-guachipelin"
+        ]
+      },
+      {
+        "title": "Вход, возраст и два соседних посещения",
+        "text": "На странице самостоятельного посещения заявлены $25 для гостей от 13 лет, $20 для детей 4–12 лет и бесплатный вход для детей до 3 лет включительно. Билет на водопад оформляет Hacienda Guachipelín. Если хотите пройти геотермальный круг Лас-Пайлас в тот же день, проверьте расписание парка и возьмите отдельный билет SINAC.",
+        "sources": [
+          "oropendola-entrance-guachipelin",
+          "rincon",
+          "reservas"
+        ]
+      },
+      {
+        "title": "Экипировка и обстановка у воды",
+        "text": "Тропа узкая у лестницы и подвесного моста. Подойдут закрытая обувь с рельефной подошвой, бутылка воды, дождевик и сухой пакет для телефона. При высоком уровне реки или ограничении купания оставайтесь на смотровой.",
+        "sources": [
+          "oropendola-park-guide",
+          "oropendola-qbl-visit",
+          "oropendola-wikiloc-2024"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Guachipelín · Adventure Center",
+        "source": "oropendola-entrance-guachipelin",
+        "url": "https://www.guachipelin.com/es/tours-de-naturaleza/catarata-oropendola/",
+        "note": "Уточните доступные часы, состояние воды, заезд к парковке и условия для детей.",
+        "phone": "+506 2690 2900",
+        "whatsapp": "https://wa.me/50626902900",
+        "email": "info@guachipelin.com"
+      }
+    ],
+    "photos": [
+      "oropendola-guachipelin-commons"
+    ],
+    "videos": [
+      "oropendola-visit-film"
+    ],
+    "galleries": [
+      "oropendola-entrance-guachipelin",
+      "oropendola-qbl-visit",
+      "oropendola-wikiloc-2024"
+    ],
+    "nearby": [
+      "rincon-pailas",
+      "guachipelin",
+      "guachipelin-oropendola-horseback",
+      "guachipelin-rincon-cafe"
+    ]
+  }
+}

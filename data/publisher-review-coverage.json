@@ -1,60 +1,183 @@
 {
-  "dayUtc": "2026-11-22",
-  "archives": 74,
-  "archivesRead": 73,
-  "pagesChecked": 130,
-  "pagesRead": 121,
-  "pagesReadToDate": 665,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45032507743",
+  "dayUtc": "2026-11-23",
+  "archives": 118,
+  "archivesRead": 112,
+  "pagesChecked": 169,
+  "pagesRead": 126,
+  "pagesReadToDate": 790,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45103306319",
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
       "read": 6
     },
+    "alta-emtb-programs": {
+      "indexed": 2,
+      "read": 2,
+      "pages": [
+        {
+          "url": "https://auberge.com/altagracia/experiences/mountain-biking/",
+          "title": "Electric Mountain Biking"
+        },
+        {
+          "url": "https://auberge.com/altagracia/contact-us/",
+          "title": "Contact Us"
+        }
+      ]
+    },
+    "amarena-mistico-activities": {
+      "indexed": 4,
+      "read": 4,
+      "pages": [
+        {
+          "url": "https://amarenabeachhotel.com/location/",
+          "title": "Location - Amarena"
+        },
+        {
+          "url": "https://amarenabeachhotel.com/es/",
+          "title": "Inicio - Amarena"
+        },
+        {
+          "url": "https://amarenabeachhotel.com/es/activities/",
+          "title": "Cosas que hacer - Amarena"
+        },
+        {
+          "url": "https://amarenabeachhotel.com/contact/",
+          "title": "Contact Us - Amarena"
+        }
+      ]
+    },
+    "ara-pura-vida-ebike-itinerary": {
+      "indexed": 2,
+      "read": 2,
+      "pages": [
+        {
+          "url": "https://www.aratours.com/es/excursiones/pura-vida-e-biking",
+          "title": "Pura Vida E-Bike Tour en Bicicleta"
+        },
+        {
+          "url": "https://www.aratours.com/es/excursiones/bike-e-bike",
+          "title": "Bike + E-Bike"
+        }
+      ]
+    },
+    "arenal-balsa-atv-owner": {
+      "indexed": 2,
+      "read": 2,
+      "pages": [
+        {
+          "url": "https://arenalrafting.com/es/combo-rafting-atv/",
+          "title": "Rafting + Aventura en Quads"
+        },
+        {
+          "url": "https://arenalrafting.com/es/preguntas-frecuentes/",
+          "title": "Preguntas frecuentes - %"
+        }
+      ]
+    },
     "arenas-del-mar-activity-index": {
       "indexed": 9,
       "read": 9
     },
-    "caribe-publisher-almonds-articles": {
-      "indexed": 3,
-      "read": 2,
+    "bike-outlet-electric-collection": {
+      "indexed": 4,
+      "read": 4,
       "pages": [
         {
-          "url": "https://almondsandcorals.com/why-you-should-not-miss-costa-rica-caribbean-coast/",
-          "title": "Why You Shouldn't Miss Costa Rica's Caribbean Coast | Almonds & Corals",
-          "published": "2026-10-28"
+          "url": "https://bikeoutletcr.com/products/s-works-kenevo-sl",
+          "title": "S-Works Kenevo SL | GRN/BLCK T=L"
         },
         {
-          "url": "https://almondsandcorals.com/the-hotel/",
-          "title": "The hotel - Almonds & Corals"
+          "url": "https://bikeoutletcr.com/collections/e-bike",
+          "title": "E-Bike"
+        },
+        {
+          "url": "https://bikeoutletcr.com/products/cannondale-moterra",
+          "title": "Cannondale Moterra | YLLW/BLCK T=L"
+        },
+        {
+          "url": "https://bikeoutletcr.com/products/cannondale-moterra-neo-carbon-se",
+          "title": "Cannondale Moterra Neo Carbon SE | GRY/BLUE T=L"
         }
       ]
+    },
+    "buen-camino-owner-ride": {
+      "indexed": 4,
+      "read": 0
+    },
+    "camino-ticos-a-pata": {
+      "indexed": 1,
+      "read": 1,
+      "pages": [
+        {
+          "url": "https://ticosapata.com/el-camino-de-costa-rica/",
+          "title": "El Camino de Costa Rica"
+        }
+      ]
+    },
+    "caribe-publisher-almonds-articles": {
+      "indexed": 3,
+      "read": 2
     },
     "caribe-publisher-banana-routes": {
       "indexed": 2,
-      "read": 2,
-      "pages": [
-        {
-          "url": "https://www.bananaazul.com/contact",
-          "title": "Contact · Hotel Banana Azul Puerto Viejo, Costa Rica"
-        },
-        {
-          "url": "https://www.bananaazul.com/activities",
-          "title": "Tours & Activities · Hotel Banana Azul Puerto Viejo, Costa Rica"
-        }
-      ]
+      "read": 2
     },
     "caribe-publisher-cameleon-experiences": {
       "indexed": 2,
+      "read": 2
+    },
+    "caribe-ride-del-caribe-2027": {
+      "indexed": 1,
+      "read": 1
+    },
+    "catalina-pcdc-tours-library": {
+      "indexed": 13,
+      "read": 10,
+      "pages": [
+        {
+          "url": "https://www.pacificcoastdivecenter.com/tour/private-snorkel-beach-sunset/",
+          "title": "Private Snorkel - Beach - Sunset tours Tamarindo, Costa Rica"
+        },
+        {
+          "url": "https://www.pacificcoastdivecenter.com/tour/private-party/",
+          "title": "Private Party Tamarindo, Costa Rica"
+        },
+        {
+          "url": "https://www.pacificcoastdivecenter.com/tour/private-night-diving/",
+          "title": "Private Night Diving Tamarindo, Costa Rica"
+        },
+        {
+          "url": "https://www.pacificcoastdivecenter.com/tour/private-diving/",
+          "title": "Private Diving Tamarindo, Costa Rica"
+        },
+        {
+          "url": "https://www.pacificcoastdivecenter.com/booking/",
+          "title": "Book Your Diving Adventure in Costa Rica"
+        }
+      ]
+    },
+    "catalinas-emtb-rent": {
+      "indexed": 4,
       "read": 2,
       "pages": [
         {
-          "url": "https://www.lecameleonhotel.com/contact-location",
-          "title": "Hotels in Puerto Viejo Costa Rica | Le Cameleon"
+          "url": "https://www.puravidaride.com/rentals-legacy",
+          "title": "Rental Rates - Pura Vida Ride | Guanacaste Costa Rica - Mountain Biking, Yeti, Pelagic, Patagonia"
         },
         {
-          "url": "https://www.lecameleonhotel.com/experiences",
-          "title": "Unique Experiences | Le Cameleon Puerto Viejo"
+          "url": "https://www.puravidaride.com/world-class-mountain-biking",
+          "title": "Costa Rica's World Class Mountain Biking in Las Catalinas - Pura Vida Ride | Guanacaste Costa Rica - Mountain Biking, Yeti, Pelagic, Patagonia"
+        }
+      ]
+    },
+    "cinchona-trails-operator": {
+      "indexed": 1,
+      "read": 1,
+      "pages": [
+        {
+          "url": "https://www.descubramoscostarica.com/es/destino/cinchona-waterfall-trails",
+          "title": "Cinchona Waterfall Trails | Descubramos Juntos Costa Rica"
         }
       ]
     },
@@ -62,31 +185,221 @@
       "indexed": 10,
       "read": 9
     },
+    "colina-secreta-host-stay": {
+      "indexed": 15,
+      "read": 5,
+      "pages": [
+        {
+          "url": "https://colinasecreta.com/es/elementor-8682/",
+          "title": "Paquetes - colinasecreta",
+          "published": "2026-08-17"
+        },
+        {
+          "url": "https://colinasecreta.com/es/preguntas-frecuentes/",
+          "title": "Preguntas Frecuentes | Colina Secreta Puerto Viejo Costa Rica",
+          "published": "2025-11-05"
+        },
+        {
+          "url": "https://colinasecreta.com/es/stay/",
+          "title": "Luxury Stays in Puerto Viejo | Colina Secreta Glamping & Villas"
+        },
+        {
+          "url": "https://colinasecreta.com/es/stay/frida-glamping-tent/",
+          "title": "Frida Glamping – Dos Pisos & Selva | Colina Secreta"
+        },
+        {
+          "url": "https://colinasecreta.com/es/stay/casa-picasso/",
+          "title": "Casa Picasso | colinasecreta Puerto Viejo Costa Rica"
+        }
+      ]
+    },
+    "conchal-reserva-program": {
+      "indexed": 4,
+      "read": 0
+    },
     "costarica-guide-stories-index": {
       "indexed": 14,
       "read": 14
+    },
+    "coto-enjoy-osa-raft-owner": {
+      "indexed": 1,
+      "read": 1
+    },
+    "ebike-coco-electricbike-catalog": {
+      "indexed": 6,
+      "read": 5,
+      "pages": [
+        {
+          "url": "https://www.electricbikecostarica.com/las-pilas-ebike-tour",
+          "title": "Las Pilas | Guided E-bike Tour | Electric Bike Costa Rica"
+        }
+      ]
+    },
+    "ebike-costaricamtb-guide-trips": {
+      "indexed": 3,
+      "read": 3
+    },
+    "ebike-samara-explorers-rent": {
+      "indexed": 3,
+      "read": 3
+    },
+    "flywithus-day-tours-operator": {
+      "indexed": 4,
+      "read": 4,
+      "pages": [
+        {
+          "url": "https://www.flywithus.aero/tamarindo",
+          "title": "Gyrocopter Tours & Scenic Flights in Tamarindo | Fly With Us"
+        },
+        {
+          "url": "https://www.flywithus.aero/samara",
+          "title": "Gyrocopter Tours & Scenic Flights in Sámara | Fly With Us"
+        },
+        {
+          "url": "https://www.flywithus.aero/day-tours",
+          "title": "Gyrocopter Day Tours to Arenal & Santa Teresa | Fly With Us"
+        },
+        {
+          "url": "https://www.flywithus.aero/contact",
+          "title": "Contact — Sámara & Tamarindo Flight Bases | Fly With Us"
+        }
+      ]
+    },
+    "fortuna-bogarin-guided": {
+      "indexed": 3,
+      "read": 0
     },
     "gilded-surf-journal": {
       "indexed": 12,
       "read": 12
     },
-    "north-maquenque-experiences": {
+    "guayabo-visit-ict": {
       "indexed": 2,
       "read": 2,
       "pages": [
         {
-          "url": "https://maquenquelodge.com/experiences/",
-          "title": "Experience"
+          "url": "https://es.visitcostarica.com/where-to-go/protected-areas/guayabo-national-archeological-monument",
+          "title": "Monumento Arqueológico Nacional Guayabo"
         },
         {
-          "url": "https://maquenquelodge.com/sustainability/",
-          "title": "Sustainability"
+          "url": "https://es.visitcostarica.com/blog/learn-history-guayabo-monument",
+          "title": "Conozca la historia del Monumento al Guayabo"
         }
       ]
+    },
+    "jaco-pedal-rentals-list": {
+      "indexed": 2,
+      "read": 1,
+      "pages": [
+        {
+          "url": "https://todojaco.com/c/bikerent",
+          "title": "Bike Rentals in Jacó, Costa Rica — Directory & Guide | Todo Jacó"
+        }
+      ]
+    },
+    "junquillal-verdiazul-home": {
+      "indexed": 2,
+      "read": 0
+    },
+    "las-mercedes-farm-owner": {
+      "indexed": 1,
+      "read": 0
+    },
+    "mistico-official-night": {
+      "indexed": 3,
+      "read": 0
+    },
+    "museum-national-entry": {
+      "indexed": 3,
+      "read": 3,
+      "pages": [
+        {
+          "url": "https://www.museocostarica.go.cr/visitar/visitas-guiadas/",
+          "title": "Visitas Guiadas « Museo Nacional de Costa Rica"
+        },
+        {
+          "url": "https://www.museocostarica.go.cr/visitar/",
+          "title": "Visitar « Museo Nacional de Costa Rica"
+        },
+        {
+          "url": "https://www.museocostarica.go.cr/visitar/plano-interactivo/",
+          "title": "Plano del Museo « Museo Nacional de Costa Rica"
+        }
+      ]
+    },
+    "ni-istian-kayak-caballitos": {
+      "indexed": 2,
+      "read": 2
+    },
+    "ni-istian-zopilote-booking": {
+      "indexed": 1,
+      "read": 1
+    },
+    "ni-ometepe-ferry-guide": {
+      "indexed": 3,
+      "read": 3
+    },
+    "ni-puesta-bikes-cooperative": {
+      "indexed": 2,
+      "read": 2
+    },
+    "ni-rivas-casaoro-maderas": {
+      "indexed": 2,
+      "read": 2,
+      "pages": [
+        {
+          "url": "https://casaorogroup.com/en/experiencias/tortugas-la-flor/",
+          "title": "Turtle tour at La Flor, San Juan del Sur · Casa Oro"
+        },
+        {
+          "url": "https://casaorogroup.com/en/experiencias/surf/",
+          "title": "Surf lessons in San Juan del Sur · Casa Oro"
+        }
+      ]
+    },
+    "ni-rivas-sail-charter": {
+      "indexed": 1,
+      "read": 1,
+      "pages": [
+        {
+          "url": "https://www.nicasail.com/charters/",
+          "title": "Our Charters - Sailing in Nicaragua with Nica Sail Catamaran"
+        }
+      ]
+    },
+    "north-maquenque-experiences": {
+      "indexed": 2,
+      "read": 2
+    },
+    "osa-blanca-gulf-boat": {
+      "indexed": 1,
+      "read": 1,
+      "pages": [
+        {
+          "url": "https://www.jaguarcorcovadotourscr.com/islands",
+          "title": "Golfo Dulce & Caño Island — Whale Watching, Snorkeling & Kayaking"
+        }
+      ]
+    },
+    "pa-boquete-soul-tour-details": {
+      "indexed": 2,
+      "read": 2
+    },
+    "pa-chiriqui-tours-catalog": {
+      "indexed": 1,
+      "read": 1
+    },
+    "pa-lerida-trails-owner": {
+      "indexed": 1,
+      "read": 1
     },
     "pacuare-adventure-index": {
       "indexed": 10,
       "read": 7
+    },
+    "palmares-explorers-planning": {
+      "indexed": 3,
+      "read": 0
     },
     "parador-manuel-antonio-journal": {
       "indexed": 10,
@@ -96,46 +409,58 @@
       "indexed": 5,
       "read": 5
     },
-    "publisher-adondeircr-guanacaste": {
-      "indexed": 207,
-      "read": 50,
+    "pochote-los-vivos-boarding": {
+      "indexed": 3,
+      "read": 3,
       "pages": [
         {
-          "url": "https://adondeircr.com/puntarenas/sin-miedo-a-nada-periodista-deportiva-gabriela-jimenez-se-lanza-en-paracaidas-en-sus-vacaciones/?c1",
-          "title": "¿Sin miedo a nada? Periodista deportiva Gabriela Jiménez se lanza en paracaídas en sus vacaciones",
-          "published": "2023-04-07"
+          "url": "https://playalosvivos.com/",
+          "title": "Los Vivos Beachfront Experience · Boat-access beach hotel in Costa Rica"
         },
         {
-          "url": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1",
-          "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
-          "published": "2023-04-07"
+          "url": "https://playalosvivos.com/getting-here",
+          "title": "Getting here · Los Vivos Beachfront Experience"
         },
         {
-          "url": "https://adondeircr.com/guanacaste/preparate-para-el-beach-fest-descubre-todo-lo-que-necesitas-saber-antes-de-asistir-al-festival-de-playa-mas-esperado-del-ano/?c1",
-          "title": "¡Prepárate para el Beach Fest! Descubre todo lo que necesitas saber antes de asistir al festival de playa más esperado del año",
-          "published": "2023-04-06"
-        },
+          "url": "https://playalosvivos.com/contact",
+          "title": "Contact · Los Vivos Beachfront Experience"
+        }
+      ]
+    },
+    "publisher-adondeircr-guanacaste": {
+      "indexed": 207,
+      "read": 55,
+      "pages": [
         {
-          "url": "https://adondeircr.com/limon/el-eclipse-anular-solar-atrae-a-turistas-al-caribe-costarricense-en-octubre/?c1",
-          "title": "El eclipse anular solar atrae a turistas al Caribe costarricense en octubre",
-          "published": "2023-04-06"
-        },
-        {
-          "url": "https://adondeircr.com/alajuela/descubre-la-magia-de-poza-la-arcilla-un-lugar-perfecto-para-disfrutar-en-familia-durante-semana-santa/?c1",
-          "title": "Descubre la Magia de Poza la Arcilla: Un Lugar Perfecto para Disfrutar en Familia durante Semana Santa",
+          "url": "https://adondeircr.com/cartago/descubre-una-experiencia-culinaria-unica-en-el-restaurante-los-coyotes-en-cervantes/?c1",
+          "title": "Descubre una experiencia culinaria única en el Restaurante Los Coyotes en Cervantes",
           "published": "2023-04-05"
+        },
+        {
+          "url": "https://adondeircr.com/san-jose/cabana-kawalulu-un-paraiso-en-dota-para-disfrutar-de-la-naturaleza-y-la-diversion/?c1",
+          "title": "CABAÑA KAWALULU: Un Paraíso en Dota para Disfrutar de la Naturaleza y la Diversión",
+          "published": "2023-04-05"
+        },
+        {
+          "url": "https://adondeircr.com/guanacaste/preparate-para-el-calor-temperaturas-en-semana-santa-alcanzaran-los-37-grados-en-guanacaste-segun-imn/?c1",
+          "title": "¡Prepárate para el calor! Temperaturas en Semana Santa alcanzarán los 37 grados en Guanacaste, según IMN",
+          "published": "2023-04-04"
+        },
+        {
+          "url": "https://adondeircr.com/puntarenas/descubriendo-la-misteriosa-sirena-de-esterillos-oeste-una-escultura-unica-en-la-costa-del-pacifico-de-costa-rica/?c1",
+          "title": "Descubriendo la misteriosa sirena de Esterillos Oeste: una escultura única en la costa del Pacífico de Costa Rica.",
+          "published": "2023-04-02"
+        },
+        {
+          "url": "https://adondeircr.com/guanacaste/descubre-la-majestuosidad-de-oro-pendola-una-de-las-cataratas-mas-hermosas-de-guanacaste/?c1",
+          "title": "Descubre la majestuosidad de Oro Péndola: una de las cataratas más hermosas de Guanacaste",
+          "published": "2023-04-02"
         }
       ]
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
-      "read": 6,
-      "pages": [
-        {
-          "url": "https://arenalrafting.com/arenal-rafting-tours-la-fortuna/rio-sarapiqui-river/",
-          "title": "Rio Sarapiqui Class IV. The best rafting tours near Arenal Volcano."
-        }
-      ]
+      "read": 6
     },
     "publisher-archive-arenalmanoa-com": {
       "indexed": 15,
@@ -143,53 +468,41 @@
     },
     "publisher-archive-artvillas-experiences": {
       "indexed": 2,
-      "read": 2,
+      "read": 2
+    },
+    "publisher-archive-bccr-exhibitions": {
+      "indexed": 13,
+      "read": 5,
       "pages": [
         {
-          "url": "https://artvillas.com/experiences",
-          "title": "Experiences – ArtVillas"
+          "url": "https://museosdelbancocentral.org/exhibiciones/repetir-para-recordar/",
+          "title": "Repetir para recordar"
+        },
+        {
+          "url": "https://museosdelbancocentral.org/exhibiciones/reflejos-en-ojos-ajenos/",
+          "title": "Reflejos en ojos ajenos"
+        },
+        {
+          "url": "https://museosdelbancocentral.org/exhibiciones/primero-fuimos-musica/",
+          "title": "Primero fuimos música"
+        },
+        {
+          "url": "https://museosdelbancocentral.org/exhibiciones/losterritoriosquehabitamos/",
+          "title": "Los territorios que habitamos"
+        },
+        {
+          "url": "https://museosdelbancocentral.org/exhibiciones/delafabricaalbolsillo/",
+          "title": "De la fábrica al bolsillo"
         }
       ]
     },
     "publisher-archive-buena-experience": {
       "indexed": 5,
-      "read": 3,
-      "pages": [
-        {
-          "url": "https://www.buenavistadelrincon.com/experiences/culture",
-          "title": "Cultural Tours in Guanacaste, Costa Rica | Buena Vista Del Rincon"
-        },
-        {
-          "url": "https://www.buenavistadelrincon.com/day-pass",
-          "title": "One day Experience | Buena Vista Lodge Costa Rica"
-        },
-        {
-          "url": "https://www.buenavistadelrincon.com/experiences/wellness",
-          "title": "Wellness Tours in Guanacaste Costa Rica | Buena Vista del Rincon"
-        }
-      ]
+      "read": 3
     },
     "publisher-archive-cariblue-activities": {
       "indexed": 5,
-      "read": 4,
-      "pages": [
-        {
-          "url": "https://cariblue.com/en/actividades-caribe/",
-          "title": "Activities in the Caribbean | Puerto Viejo Adventure Tours"
-        },
-        {
-          "url": "https://cariblue.com/como-llegar",
-          "title": "Cómo Llegar | Cariblue Resort Puerto Viejo Costa Rica"
-        },
-        {
-          "url": "https://cariblue.com/day-pass",
-          "title": "Day Pass | Cariblue Beach & Jungle Resort Costa Rica"
-        },
-        {
-          "url": "https://cariblue.com/preguntas-frecuentes",
-          "title": "Preguntas Frecuentes | Cariblue Resort Costa Rica"
-        }
-      ]
+      "read": 4
     },
     "publisher-archive-cool-cr-com": {
       "indexed": 1,
@@ -197,32 +510,32 @@
     },
     "publisher-archive-copa-drake": {
       "indexed": 10,
-      "read": 5,
+      "read": 10,
       "pages": [
         {
-          "url": "https://www.copadearbol.com/copa-de-arbol-guided-wildlife-hike/",
-          "title": "Guided Wildlife Hike in Drake Bay, Costa Rica | Copa de Arbol",
-          "published": "2026-09-02"
+          "url": "https://www.copadearbol.com/sunset-boat-cruise/",
+          "title": "Sunset Boat Cruise - Copa De Arbol",
+          "published": "2023-08-16"
         },
         {
-          "url": "https://www.copadearbol.com/transportation/",
-          "title": "How to get to Copa De Arbol | Copa De Arbol",
-          "published": "2023-10-02"
+          "url": "https://www.copadearbol.com/nagualafalls/",
+          "title": "Naguala Waterfall Tours Drake Bay Costa Rica | Copa De Arbol",
+          "published": "2023-08-14"
         },
         {
-          "url": "https://www.copadearbol.com/mangrove-sierpe-river/",
-          "title": "Sierpe Mangrove Tours & Wildlife Adventures | Copa De Arbol",
-          "published": "2023-08-11"
+          "url": "https://www.copadearbol.com/drake-bay-horseback/",
+          "title": "Horseback Riding Drake Bay | Waterfalls & Jungle Tours | Copa De Arbol",
+          "published": "2023-08-14"
         },
         {
-          "url": "https://www.copadearbol.com/faq/",
-          "title": "Frequently Asked Questions about Drake Bay & Copa De Arbol",
-          "published": "2023-08-01"
+          "url": "https://www.copadearbol.com/rio-claro-river-drake-bay/",
+          "title": "Rio Claro River Waterfall Tours & Nature Hike Costa Rica | Copa De Arbol",
+          "published": "2023-08-13"
         },
         {
-          "url": "https://www.copadearbol.com/location/",
-          "title": "Location of Copa De Arbol",
-          "published": "2023-07-31"
+          "url": "https://www.copadearbol.com/trillo-de-la-danta-drake-bay/",
+          "title": "Trillo De La Danta Hiking Tour Costa Rica | Copa De Arbol",
+          "published": "2023-08-12"
         }
       ]
     },
@@ -238,121 +551,134 @@
       "indexed": 10,
       "read": 10
     },
-    "publisher-archive-hacienda-orosi": {
-      "indexed": 6,
-      "read": 6
-    },
     "publisher-archive-hotelbelmar-net": {
       "indexed": 6,
       "read": 6
     },
     "publisher-archive-jaguar-rescue": {
-      "indexed": 78,
-      "read": 10,
+      "indexed": 75,
+      "read": 15,
       "pages": [
         {
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/CoastalConservation",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/SouthCaribbean",
           "title": "Latest News about JRC"
         },
         {
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/WildlifeProtection",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/CommunityConservation",
           "title": "Latest News about JRC"
         },
         {
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/Biodiversity",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/howlermonkey",
           "title": "Latest News about JRC"
         },
         {
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/JaguarRescueCenter",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/babymonkey",
           "title": "Latest News about JRC"
         },
         {
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/GlobalRewildingAlliance",
-          "title": "Latest News about JRC"
+          "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/129/RescueToTheWildJourneyMonkeyBackToFreedom",
+          "title": "From Rescue to the Wild: The Journey of a Monkey Back to Freedom"
         }
       ]
+    },
+    "publisher-archive-kstr-rescue-news": {
+      "indexed": 2,
+      "read": 2,
+      "pages": [
+        {
+          "url": "https://www.kidssavingtherainforest.org/news",
+          "title": "General 2 | KSTR WILDLIFE RESCUE"
+        },
+        {
+          "url": "https://www.kidssavingtherainforest.org/tour",
+          "title": "Costa Rica's Wildlife Sanctuary Tour | KSTR WILDLIFE RESCUE"
+        }
+      ]
+    },
+    "publisher-archive-makanda-travel": {
+      "indexed": 30,
+      "read": 0
     },
     "publisher-archive-maverick-reports": {
       "indexed": 4,
-      "read": 4,
-      "pages": [
-        {
-          "url": "https://www.mavericksportfish.com/los-suenos-fishing-report-october-2026/",
-          "title": "Los Sueños Fishing Report: October 2026 - Maverick Sportfishing Costa Rica",
-          "published": "2026-11-09"
-        },
-        {
-          "url": "https://www.mavericksportfish.com/los-sueos-fishing-report-september-2026/",
-          "title": "Los Sueños Fishing Report: September 2026 - Maverick Sportfishing Costa Rica",
-          "published": "2026-10-13"
-        },
-        {
-          "url": "https://www.mavericksportfish.com/los-sueos-fishing-report-august-2026/",
-          "title": "Los Sueños Fishing Report: August 2026 - Maverick Sportfishing Costa Rica",
-          "published": "2026-09-04"
-        },
-        {
-          "url": "https://www.mavericksportfish.com/los-sueos-fishing-report-june-2026-196-sailfish-released-marlin-goes-airborne/",
-          "title": "Los Sueños Fishing Report — June 2026: 196 Sailfish Released, and a Marlin Goes Airborne - Maverick Sportfishing Costa Rica",
-          "published": "2026-07-14"
-        }
-      ]
+      "read": 4
     },
     "publisher-archive-misticopark-com": {
-      "indexed": 17,
-      "read": 17
+      "indexed": 0,
+      "read": 0
     },
     "publisher-archive-museo-exhibitions": {
       "indexed": 33,
-      "read": 5,
+      "read": 10,
       "pages": [
         {
-          "url": "https://www.museocostarica.go.cr/exhibiciones/san-jose-patrimonio/",
-          "title": "San José + Patrimonio « Exhibiciones « Museo Nacional de Costa Rica",
-          "published": "2025-12-18"
+          "url": "https://www.museocostarica.go.cr/exhibiciones/de-cuartel-a-museo/",
+          "title": "De Cuartel a Museo « Exhibiciones « Museo Nacional de Costa Rica",
+          "published": "2023-02-13"
         },
         {
-          "url": "https://www.museocostarica.go.cr/exhibiciones/secretos-del-jardin/",
-          "title": "Los Secretos del Jardín « Exhibiciones « Museo Nacional de Costa Rica",
-          "published": "2023-11-02"
+          "url": "https://www.museocostarica.go.cr/exhibiciones/memorias-en-piedra/",
+          "title": "Memorias en Piedra « Exhibiciones « Museo Nacional de Costa Rica",
+          "published": "2022-06-03"
         },
         {
-          "url": "https://www.museocostarica.go.cr/exhibiciones/actuales/",
-          "title": "Exhibiciones Actuales « Museo Nacional de Costa Rica"
+          "url": "https://www.museocostarica.go.cr/exhibiciones/jardin-de-mariposas/",
+          "title": "Jardín de Mariposas « Exhibiciones « Museo Nacional de Costa Rica",
+          "published": "2019-10-11"
         },
         {
-          "url": "https://www.museocostarica.go.cr/exhibiciones/anteriores/",
-          "title": "Exhibiciones Anteriores « Museo Nacional de Costa Rica"
+          "url": "https://www.museocostarica.go.cr/exhibiciones/historia-de-costa-rica-siglos-xvi-al-xxi/",
+          "title": "Historia de Costa Rica – Siglos XVI al XXI « Exhibiciones « Museo Nacional de Costa Rica",
+          "published": "2019-10-11"
         },
         {
-          "url": "https://www.museocostarica.go.cr/visitar/plano-interactivo/",
-          "title": "Plano del Museo « Museo Nacional de Costa Rica"
+          "url": "https://www.museocostarica.go.cr/exhibiciones/signum/",
+          "title": "Signum « Exhibiciones « Museo Nacional de Costa Rica",
+          "published": "2018-11-30"
+        }
+      ]
+    },
+    "publisher-archive-museocr-family-events": {
+      "indexed": 14,
+      "read": 3,
+      "pages": [
+        {
+          "url": "https://museocr.org/ninos/tu-visita/",
+          "title": "Tu Visita - Museo de los Niños"
+        },
+        {
+          "url": "https://museocr.org/ninos/salas-interactivas/",
+          "title": "Salas Interactivas - Museo de los Niños"
+        },
+        {
+          "url": "https://museocr.org/ninos/grupos/",
+          "title": "Grupos - Museo de los Niños"
         }
       ]
     },
     "publisher-archive-oxygen-adventures": {
       "indexed": 10,
-      "read": 5,
+      "read": 10,
       "pages": [
         {
-          "url": "https://oxygenjunglevillas.com/bird-watching-hikes/",
-          "title": "Bird Watching Hikes - Oxygen Villas"
+          "url": "https://oxygenjunglevillas.com/white-water-rafting/",
+          "title": "WHITE WATER RAFTING - Oxygen Villas"
         },
         {
-          "url": "https://oxygenjunglevillas.com/contact/",
-          "title": "Contact - Oxygen Villas"
+          "url": "https://oxygenjunglevillas.com/whale-dolphin-tour/",
+          "title": "WHALE / DOLPHIN TOUR - Oxygen Villas"
         },
         {
-          "url": "https://oxygenjunglevillas.com/kayaking/",
-          "title": "KAYAKING - Oxygen Villas"
+          "url": "https://oxygenjunglevillas.com/waterfall-rappelling/",
+          "title": "WATERFALL RAPPELLING - Oxygen Villas"
         },
         {
-          "url": "https://oxygenjunglevillas.com/paddle-boarding/",
-          "title": "PADDLE BOARDING - Oxygen Villas"
+          "url": "https://oxygenjunglevillas.com/surfing/",
+          "title": "SURFING - Oxygen Villas"
         },
         {
-          "url": "https://oxygenjunglevillas.com/ziplining-canopy-tours/",
-          "title": "ZIPLINING (CANOPY) TOURS - Oxygen Villas"
+          "url": "https://oxygenjunglevillas.com/snorkeling-and-diving/",
+          "title": "SNORKELING AND DIVING - Oxygen Villas"
         }
       ]
     },
@@ -366,31 +692,7 @@
     },
     "publisher-archive-rescate-sanctuary": {
       "indexed": 6,
-      "read": 5,
-      "pages": [
-        {
-          "url": "https://rescatewildlife.org/capybara-rescue-story/",
-          "title": "Capybara Rescue Story at Rescate Wildlife Rescue Center - Rescate Wildlife Rescue Center - Zoave",
-          "published": "2025-06-13"
-        },
-        {
-          "url": "https://rescatewildlife.org/the-story-of-guapo-our-jaguar/",
-          "title": "The Story of Guapo, our Jaguar. - Rescate Wildlife Rescue Center - Zoave",
-          "published": "2020-11-06"
-        },
-        {
-          "url": "https://rescatewildlife.org/directions/",
-          "title": "Directions - Rescate Wildlife Rescue Center - Zoave"
-        },
-        {
-          "url": "https://rescatewildlife.org/sanctuary-map/",
-          "title": "Sanctuary Map - Rescate Wildlife Rescue Center - Zoave"
-        },
-        {
-          "url": "https://rescatewildlife.org/tickets-tours/",
-          "title": "Tickets and Tours - Rescate Wildlife Rescue Center - Zoave"
-        }
-      ]
+      "read": 5
     },
     "publisher-archive-selvatura-com": {
       "indexed": 6,
@@ -398,29 +700,7 @@
     },
     "publisher-archive-sky-arenal": {
       "indexed": 5,
-      "read": 5,
-      "pages": [
-        {
-          "url": "https://skyadventures.travel/aerial-tram/",
-          "title": "Aerial Tram Breathtaking Views | Sky Adventures"
-        },
-        {
-          "url": "https://skyadventures.travel/hand-of-arenal/",
-          "title": "Aerial Tram Breathtaking Views | Sky Adventures"
-        },
-        {
-          "url": "https://skyadventures.travel/faqs/",
-          "title": "Frequently Asked Questions | Sky Adventures"
-        },
-        {
-          "url": "https://skyadventures.travel/hanging-bridges/",
-          "title": "Nature Based Hanging Bridges | Sky Adventures"
-        },
-        {
-          "url": "https://skyadventures.travel/ziplines/",
-          "title": "Unmatched Zipline Adventures | Sky Adventures"
-        }
-      ]
+      "read": 5
     },
     "publisher-archive-surfsimply-com": {
       "indexed": 6,
@@ -428,55 +708,23 @@
     },
     "publisher-archive-ticosapata-com": {
       "indexed": 67,
-      "read": 65,
+      "read": 67,
       "pages": [
         {
-          "url": "https://ticosapata.com/2026/10/24/cerro-la-carpintera/",
-          "title": "Cerro la Carpintera",
-          "published": "2026-10-24"
+          "url": "https://ticosapata.com/2026/08/30/el-camino-del-inca/",
+          "title": "El Camino del Inca",
+          "published": "2026-08-31"
         },
         {
-          "url": "https://ticosapata.com/2026/10/24/cerro-utyum/",
-          "title": "Cerro Utyum",
-          "published": "2026-10-24"
-        },
-        {
-          "url": "https://ticosapata.com/2026/10/24/de-santa-maria-a-canon-del-guarco/",
-          "title": "De Santa María a Cañón del Guarco",
-          "published": "2026-10-24"
-        },
-        {
-          "url": "https://ticosapata.com/2026/10/24/ruta-entre-volcanes/",
-          "title": "Ruta entre Volcanes",
-          "published": "2026-10-24"
-        },
-        {
-          "url": "https://ticosapata.com/2026/08/30/nevado-del-cocuy/",
-          "title": "Nevado del Cocuy",
-          "published": "2026-08-30"
+          "url": "https://ticosapata.com/2026/08/30/el-camino-de-salkantay/",
+          "title": "El Camino de Salkantay",
+          "published": "2026-08-31"
         }
       ]
     },
     "publisher-archive-tulemar-experiences": {
       "indexed": 3,
-      "read": 3,
-      "pages": [
-        {
-          "url": "https://www.tulemar.com/map/",
-          "title": "Map | Tulemar",
-          "published": "2025-06-10"
-        },
-        {
-          "url": "https://www.tulemar.com/activities/dining/",
-          "title": "Private Chefs & Dining | Tulemar",
-          "published": "2025-03-14"
-        },
-        {
-          "url": "https://www.tulemar.com/things-to-do/",
-          "title": "Explore the Best Things to Do in Manuel Antonio | Tulemar",
-          "published": "2025-02-05"
-        }
-      ]
+      "read": 3
     },
     "publisher-archive-vacationscostarica-com": {
       "indexed": 34,
@@ -484,33 +732,55 @@
     },
     "publisher-archive-vamosaturistear-com": {
       "indexed": 175,
-      "read": 62,
+      "read": 67,
       "pages": [
         {
-          "url": "https://vamosaturistear.com/actividades/descubri-5-playas-para-hacer-snorkeling/",
-          "title": "Descubrí 5 playas para hacer snorkeling - Vamos a Turistear"
+          "url": "https://vamosaturistear.com/actividades/visita-el-museo-de-cultura-popular/",
+          "title": "Visitá el Museo de Cultura Popular"
         },
         {
-          "url": "https://vamosaturistear.com/actividades/paseos-gratuitos-museo-de-arte-costarricense/",
-          "title": "Paseos gratuitos: Museo de Arte Costarricense"
+          "url": "https://vamosaturistear.com/actividades/taller-de-carretas-de-don-eloy-alfaro-tradicion-viva-de-sarchi/",
+          "title": "Taller de Carretas de Don Eloy Alfaro: Tradición viva de Sarchí - Vamos a Turistear"
         },
         {
-          "url": "https://vamosaturistear.com/actividades/playa-chiquita-un-paraiso-escondido-en-talamanca/",
-          "title": "Playa Chiquita: Un paraíso escondido en Talamanca - Vamos a Turistear"
+          "url": "https://vamosaturistear.com/actividades/la-majestuosa-eco-chontales/",
+          "title": "La majestuosa Eco Chontales"
         },
         {
-          "url": "https://vamosaturistear.com/actividades/poza-de-la-arcilla-un-spa-natural/",
-          "title": "Poza de la Arcilla: Un spa natural - Vamos a Turistear"
+          "url": "https://vamosaturistear.com/actividades/el-bosque-quemado-del-volcan-turrialba/",
+          "title": "El bosque quemado del Volcán Turrialba - Vamos a Turistear"
         },
         {
-          "url": "https://vamosaturistear.com/actividades/visita-un-jardin-de-mariposas-en-medio-del-museo-nacional/",
-          "title": "Visitá un jardín de mariposas en medio del Museo Nacional"
+          "url": "https://vamosaturistear.com/actividades/cocalito-una-catarata-con-vista-al-mar/",
+          "title": "Cocalito: una catarata con vista al mar - Vamos a Turistear"
         }
       ]
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
       "read": 1
+    },
+    "publisher-archive-vistalossuenosadventurepark-com": {
+      "indexed": 0,
+      "read": 0
+    },
+    "publisher-dreamsea-experience": {
+      "indexed": 3,
+      "read": 3,
+      "pages": [
+        {
+          "url": "https://dreamseacostarica.com/surf-camp-rates/",
+          "title": "Our Rates at Dreamsea Surf Camp Costa Rica - Glamping, Surfing, & Yoga."
+        },
+        {
+          "url": "https://dreamseacostarica.com/experience-dreamsea-surf-camp/",
+          "title": "Experience Dreamsea Surf Camp Costa Rica - Glamping, Surfing, & Yoga."
+        },
+        {
+          "url": "https://dreamseacostarica.com/contact-dreamsea-surf-camp/",
+          "title": "Contact Dreamsea Surf Camp - Glamping, Surfing, and Yoga."
+        }
+      ]
     },
     "publisher-lafiebre-blog": {
       "indexed": 7,
@@ -520,9 +790,29 @@
       "indexed": 6,
       "read": 6
     },
+    "publisher-lossuenos-deepsea": {
+      "indexed": 1,
+      "read": 1,
+      "pages": [
+        {
+          "url": "https://lossuenos.com/deepsea-fishing/",
+          "title": "Deep Sea Fishing - Los Suenos Resort & Marina"
+        }
+      ]
+    },
     "publisher-marinapezvela-news": {
       "indexed": 4,
       "read": 4
+    },
+    "publisher-shana-tours-naturales": {
+      "indexed": 1,
+      "read": 1,
+      "pages": [
+        {
+          "url": "https://shanabythebeach.com/tours/",
+          "title": "SHANA By THE BEACH - Tours"
+        }
+      ]
     },
     "publisher-site-archive-rioceleste-hideaway": {
       "indexed": 13,
@@ -540,345 +830,247 @@
       "indexed": 14,
       "read": 13
     },
-    "rio-perdido-activity-index": {
-      "indexed": 15,
-      "read": 15
-    },
-    "silencio-cloud-forest-journal": {
-      "indexed": 17,
-      "read": 17
-    },
-    "tabacon-fortuna-journal": {
-      "indexed": 12,
-      "read": 12
-    },
-    "undersea-trip-reports": {
-      "indexed": 14,
-      "read": 14,
-      "pages": [
-        {
-          "url": "https://underseahunter.com/faq/",
-          "title": "Cocos Island Liveaboard FAQ | FREQUENTLY ASKED QUESTIONS"
-        },
-        {
-          "url": "https://underseahunter.com/cocos-island/",
-          "title": "Discover the sharks of Cocos Island | Undersea Hunter | Costa Rica"
-        },
-        {
-          "url": "https://underseahunter.com/schedule-and-rates/",
-          "title": "Schedule and Rates - Welcome Aboard Undersea Hunter"
-        },
-        {
-          "url": "https://underseahunter.com/terms-conditions/",
-          "title": "Terms & Conditions - Enjoy your Diving trip with Undersea Hunter"
-        }
-      ]
-    },
-    "caribe-ride-del-caribe-2027": {
-      "indexed": 1,
-      "read": 1,
-      "pages": [
-        {
-          "url": "https://ridedelcaribe.com/",
-          "title": "Ride del Caribe Davivienda 2026"
-        }
-      ]
-    },
-    "catalina-pcdc-tours-library": {
-      "indexed": 13,
+    "publisher-toucan-onsite-tours": {
+      "indexed": 7,
       "read": 5,
       "pages": [
         {
-          "url": "https://www.pacificcoastdivecenter.com/tour/boat-rider/",
-          "title": "Boat Rider Tamarindo, Costa Rica"
+          "url": "https://toucanrescueranch.org/tours/virtual-tours/",
+          "title": "Virtual Tours"
         },
         {
-          "url": "https://www.pacificcoastdivecenter.com/tour/discover-scuba-diving/",
-          "title": "Discover Scuba Diving Tamarindo, Costa Rica"
+          "url": "https://toucanrescueranch.org/tours/private-tours/",
+          "title": "Private Tours"
         },
         {
-          "url": "https://www.pacificcoastdivecenter.com/tour/scuba-diving/",
-          "title": "Scuba Diving Tamarindo, Costa Rica"
+          "url": "https://toucanrescueranch.org/tours/overnight-ranch-experiences/",
+          "title": "Overnight Ranch Experiences"
         },
         {
-          "url": "https://www.pacificcoastdivecenter.com/tour/scuba-refresher-tour/",
-          "title": "Scuba Refresher Tamarindo, Costa Rica"
+          "url": "https://toucanrescueranch.org/tours/onsite-tours/",
+          "title": "Onsite Tours"
         },
         {
-          "url": "https://www.pacificcoastdivecenter.com/tour/snorkel-tour/",
-          "title": "Snorkel Tamarindo, Costa Rica - Pacific Coast Dive Center"
-        }
-      ]
-    },
-    "coto-enjoy-osa-raft-owner": {
-      "indexed": 1,
-      "read": 1,
-      "pages": [
-        {
-          "url": "https://enjoyosa.com/trip/white-water-rafting/",
-          "title": "Rafting"
-        }
-      ]
-    },
-    "ebike-coco-electricbike-catalog": {
-      "indexed": 6,
-      "read": 4,
-      "pages": [
-        {
-          "url": "https://www.electricbikecostarica.com/guided-tours",
-          "title": "Guided Tours with Electric Bike Costa Rica | Electric Bike Costa Rica"
-        },
-        {
-          "url": "https://www.electricbikecostarica.com/palo-verde-ebike-tour",
-          "title": "Palo Verde | Guided E-bike Tour | Electric Bike Costa Rica"
-        },
-        {
-          "url": "https://www.electricbikecostarica.com/rentals",
-          "title": "Rental Electric Bike Costa Rica | Electric Bike Costa Rica"
-        },
-        {
-          "url": "https://www.electricbikecostarica.com/rincon-de-le-vieja-e-bike-tour",
-          "title": "Rincon de la Vieja | Guided E-bike Tour | Electric Bike Costa Rica"
-        }
-      ]
-    },
-    "ebike-costaricamtb-guide-trips": {
-      "indexed": 3,
-      "read": 3,
-      "pages": [
-        {
-          "url": "https://www.costaricamtb.com/mtb-guide-trip-costa-rica",
-          "title": "Costa Rica Mountain Bike Tours"
-        },
-        {
-          "url": "https://www.costaricamtb.com/mountain-bike-trips/trail-surfing-week",
-          "title": "Costa Rica Mountain Bike Tours"
-        },
-        {
-          "url": "https://www.costaricamtb.com/emtb-singletrack-tours",
-          "title": "Costa Rica Mountain Bike Tours"
-        }
-      ]
-    },
-    "ebike-samara-explorers-rent": {
-      "indexed": 3,
-      "read": 3,
-      "pages": [
-        {
-          "url": "https://www.samaraexplorers.com/rentals/bikes",
-          "title": "Electric Bikes & Bikes Rental | Samara Explorers"
-        },
-        {
-          "url": "https://www.samaraexplorers.com/rentals",
-          "title": "Rentals | Samara Explorers"
-        },
-        {
-          "url": "https://www.samaraexplorers.com/transportation",
-          "title": "transportation | Samara Explorers"
-        }
-      ]
-    },
-    "general-raft-programs-library": {
-      "indexed": 4,
-      "read": 3,
-      "pages": [
-        {
-          "url": "https://www.autenticoadventures.com/rio-general.php",
-          "title": "Rio General 1-Day Rafting Trip | Autentico Adventures"
-        },
-        {
-          "url": "https://www.autenticoadventures.com/rio-general-3.php",
-          "title": "Rio General 3-Day Rafting & Camping | Autentico Adventures"
-        },
-        {
-          "url": "https://www.autenticoadventures.com/savegre-guabo.php",
-          "title": "Rio Guabo 14 km Rafting Trip | Autentico Adventures"
-        }
-      ]
-    },
-    "ni-istian-kayak-caballitos": {
-      "indexed": 2,
-      "read": 2,
-      "pages": [
-        {
-          "url": "https://www.caballitosmar.com/contact",
-          "title": "Caballito's Mar | Ometepe Island | Contact us"
-        },
-        {
-          "url": "https://www.caballitosmar.com/kayak",
-          "title": "Caballito's Mar | Ometepe Island | kayak tour"
-        }
-      ]
-    },
-    "ni-istian-zopilote-booking": {
-      "indexed": 1,
-      "read": 1,
-      "pages": [
-        {
-          "url": "https://ometepezopilote.net/rio-istian-kayak-tour-ometepe/",
-          "title": "Rio Istian Kayak Tour Ometepe | Wildlife, Price & Booking",
-          "published": "2026-11-02"
-        }
-      ]
-    },
-    "ni-ometepe-ferry-guide": {
-      "indexed": 3,
-      "read": 3,
-      "pages": [
-        {
-          "url": "https://monkeytravelstours.com/en/guides/ometepe-legends-chico-largo-charco-verde",
-          "title": "Chico Largo Legend of Ometepe and the Charco Verde Lagoon"
-        },
-        {
-          "url": "https://monkeytravelstours.com/en/guides/ometepe-in-one-day-from-san-juan-del-sur",
-          "title": "Ometepe Day Tour from San Juan del Sur: Realistic Itinerary"
-        },
-        {
-          "url": "https://monkeytravelstours.com/en/tours/ometepe-island",
-          "title": "Ometepe Island Full Day (Charco Verde, Ojo de Agua & Volcanoes) | US$74 pp for 2"
-        }
-      ]
-    },
-    "ni-puesta-bikes-cooperative": {
-      "indexed": 2,
-      "read": 2,
-      "pages": [
-        {
-          "url": "https://www.puestadelsol.org/contact.php",
-          "title": "Puesta del Sol - Contáctenos"
-        },
-        {
-          "url": "https://www.puestadelsol.org/services.php",
-          "title": "Puesta del Sol - Servicios"
-        }
-      ]
-    },
-    "pa-boquete-soul-tour-details": {
-      "indexed": 2,
-      "read": 2,
-      "pages": [
-        {
-          "url": "https://www.soulplanetcycles.com/",
-          "title": "Soul Planet Cycles | Experience Boquete by E-Bike"
-        },
-        {
-          "url": "https://www.soulplanetcycles.com/tours",
-          "title": "Tours | Explore, Taste, Enjoy — Soul Planet Cycles"
-        }
-      ]
-    },
-    "pa-chiriqui-tours-catalog": {
-      "indexed": 1,
-      "read": 1,
-      "pages": [
-        {
-          "url": "https://www.chiriquitours.com/service-page/gulf-of-chiriqui",
-          "title": "Gulf of Chiriqui | Chiriqui Tours"
-        }
-      ]
-    },
-    "pa-lerida-trails-owner": {
-      "indexed": 1,
-      "read": 1,
-      "pages": [
-        {
-          "url": "https://hotelfincalerida.com/cloud-forest-trails-boquete/",
-          "title": "Stay at the Coffee Estate That Changed Coffee Forever - Finca Lérida",
-          "published": "2025-04-18"
+          "url": "https://toucanrescueranch.org/tours/classrooms/",
+          "title": "Classroom Field Trips"
         }
       ]
     },
     "punta-uva-dive-owner": {
       "indexed": 7,
-      "read": 5,
+      "read": 7,
       "pages": [
         {
-          "url": "https://puntauvadivecenter.com/advanced-open-water-diver/",
-          "title": "Advanced Open Water Diver | Punta Uva Dive Center - Scuba Dive & Snorkel in the Caribbean sea"
+          "url": "https://puntauvadivecenter.com/rescue-diver/",
+          "title": "Rescue Diver | Punta Uva Dive Center - Scuba Dive & Snorkel in the Caribbean sea"
         },
         {
-          "url": "https://puntauvadivecenter.com/discover-scuba-diving/",
-          "title": "Discover scuba diving | Punta Uva Dive Center - Scuba Dive & Snorkel in the Caribbean sea"
-        },
-        {
-          "url": "https://puntauvadivecenter.com/divemaster/",
-          "title": "Divemaster | Punta Uva Dive Center - Scuba Dive & Snorkel in the Caribbean sea"
-        },
-        {
-          "url": "https://puntauvadivecenter.com/open-water/",
-          "title": "Open Water | Punta Uva Dive Center - Scuba Dive & Snorkel in the Caribbean sea"
-        },
-        {
-          "url": "https://puntauvadivecenter.com/padi-courses/",
-          "title": "Padi Courses | Punta Uva Dive Center - Scuba Dive & Snorkel in the Caribbean sea"
+          "url": "https://puntauvadivecenter.com/emergency-first-response/",
+          "title": "Emergency First Response | Punta Uva Dive Center - Scuba Dive & Snorkel in the Caribbean sea"
         }
       ]
     },
-    "rural-caturcochi-valle-chirripo": {
+    "puromtb-lumen-905-spec": {
       "indexed": 3,
       "read": 3,
       "pages": [
         {
-          "url": "https://valledelchirripo.com/acampe-a-los-pies-de-los-gigantes/",
-          "title": "Acampe a los pies de Los Gigantes"
+          "url": "https://puromtb.com/products/rent-a-bicycle",
+          "title": "Rent a Bicycle"
         },
         {
-          "url": "https://valledelchirripo.com/entrenamiento-para-conquistar-la-cima-del-chirripo/",
-          "title": "Entrenamiento para conquistar la cima del Chirripó"
+          "url": "https://puromtb.com/pages/contact",
+          "title": "Contacto"
         },
         {
-          "url": "https://valledelchirripo.com/experiencia-chirripo/",
-          "title": "Experiencia Chirripó"
+          "url": "https://puromtb.com/products/e-bike-scott-lumen-905-bateria-tq-hpr50-33-km-h",
+          "title": "Bicicleta eléctrica Scott Lumen 905 Batería TQ HPR50 33 KM-H"
         }
       ]
     },
-    "rural-osa-jimenez-current-transport": {
+    "rafiki-journey-road-required": {
       "indexed": 3,
-      "read": 3,
-      "pages": [
-        {
-          "url": "https://www.osatourism.com/osa-peninsula-specialized-tours/",
-          "title": "Osa Peninsula Specialized Tours | Osa Tourism, Costa Rica"
-        },
-        {
-          "url": "https://www.osatourism.com/osa-whatsapp-directory/",
-          "title": "Osa Peninsula WhatsApp Directory | TOURISM INFO CENTER"
-        },
-        {
-          "url": "https://www.osatourism.com/puerto-jimenez/",
-          "title": "Puerto Jimenez Osa Peninsula | TOURISM INFO CENTER"
-        }
-      ]
-    },
-    "rural-rivas-perezzeledon-district": {
-      "indexed": 4,
-      "read": 4,
-      "pages": [
-        {
-          "url": "https://perezzeledon.com/es/things-to-do",
-          "title": "Qué hacer en Pérez Zeledón, Costa Rica"
-        },
-        {
-          "url": "https://perezzeledon.com/es/rivas",
-          "title": "Rivas: el distrito más grande de Pérez Zeledón — y mucho más que el Chirripó"
-        },
-        {
-          "url": "https://perezzeledon.com/es/sendero-los-gigantes-rivas-perez-zeledon",
-          "title": "Sendero Los Gigantes: bosque de musgo, quebradas y un mirador sobre el valle"
-        },
-        {
-          "url": "https://perezzeledon.com/es/chirripo",
-          "title": "Subir el Chirripó: permisos, reservas, precios y ruta"
-        }
-      ]
-    },
-    "south-coto-visitor-index": {
-      "indexed": 1,
       "read": 1,
       "pages": [
         {
-          "url": "https://www.visitacotobrus.com/turismo/atractivos/parque-la-amistad-pittier",
-          "title": "Parque Internacional La Amistad – Sector Pittier | Coto Brus | Visita Coto Brus"
+          "url": "https://rafikisafari.com/wp/stay/",
+          "title": "Safari Tents in Costa Rica | Stay at Rafiki Safari Lodge"
+        }
+      ]
+    },
+    "rio-perdido-activity-index": {
+      "indexed": 15,
+      "read": 15
+    },
+    "rural-caturcochi-valle-chirripo": {
+      "indexed": 3,
+      "read": 3
+    },
+    "rural-osa-jimenez-current-transport": {
+      "indexed": 3,
+      "read": 3
+    },
+    "rural-rivas-perezzeledon-district": {
+      "indexed": 4,
+      "read": 4
+    },
+    "rural-trail-adventure-series": {
+      "indexed": 1,
+      "read": 0
+    },
+    "sarchi-kientzler-owner": {
+      "indexed": 3,
+      "read": 2,
+      "pages": [
+        {
+          "url": "https://www.elsegarden.com/",
+          "title": "Jardín Else Kientzler"
+        },
+        {
+          "url": "https://www.elsegarden.com/cafe.html",
+          "title": "Jardín Else Kientzler"
+        }
+      ]
+    },
+    "silencio-cloud-forest-journal": {
+      "indexed": 17,
+      "read": 17
+    },
+    "south-coto-visitor-index": {
+      "indexed": 1,
+      "read": 1
+    },
+    "supherr-operator-water-herradura": {
+      "indexed": 3,
+      "read": 3,
+      "pages": [
+        {
+          "url": "https://www.supherr.com/servicios-sup-y-kayak-una-experiencia-para-todos-los-niveles/",
+          "title": "Servicios, SUP Y Kayak Una experiencia para todos los niveles",
+          "published": "2026-02-24"
+        },
+        {
+          "url": "https://www.supherr.com",
+          "title": "Vive la experiencia SUPHERR",
+          "published": "2023-10-25"
+        },
+        {
+          "url": "https://www.supherr.com/contacto/",
+          "title": "contacto - Vive la experiencia SUPHERR",
+          "published": "2023-06-25"
+        }
+      ]
+    },
+    "tabacon-fortuna-journal": {
+      "indexed": 12,
+      "read": 12
+    },
+    "toro-ecotours-adventures": {
+      "indexed": 19,
+      "read": 5,
+      "pages": [
+        {
+          "url": "https://crecotours.com/adventure-tours-costa-rica/quebrada-gata-waterfall/",
+          "title": "Quebrada Gata Waterfall Hike + ATV | Costa Rica Ecotours",
+          "published": "2026-09-27"
+        },
+        {
+          "url": "https://crecotours.com/contact/",
+          "title": "Contact Costa Rica Ecotours | Book Tours on WhatsApp",
+          "published": "2026-09-27"
+        },
+        {
+          "url": "https://crecotours.com/adventure-tours-costa-rica/catarata-del-toro/",
+          "title": "Catarata del Toro: Waterfall Hike & ATV | Costa Rica Ecotours",
+          "published": "2026-09-27"
+        },
+        {
+          "url": "https://crecotours.com/adventure-tours-costa-rica/blue-falls-costa-rica/",
+          "title": "Blue Falls Costa Rica: Waterfalls & ATV | Costa Rica Ecotours",
+          "published": "2026-09-27"
+        },
+        {
+          "url": "https://crecotours.com/adventure-tours-costa-rica/atv-tour-costa-rica/",
+          "title": "ATV Tour Costa Rica: Private Farm Trails | Costa Rica Ecotours",
+          "published": "2026-09-27"
+        }
+      ]
+    },
+    "trophy-fly-maverick": {
+      "indexed": 3,
+      "read": 3,
+      "pages": [
+        {
+          "url": "https://www.mavericksportfish.com/fishing-reports/",
+          "title": "Los Sueños Fishing Reports & Catch Log - Maverick",
+          "published": "2026-08-19"
+        },
+        {
+          "url": "https://www.mavericksportfish.com/team/",
+          "title": "Meet the Maverick Captains and Crews - Los Sueños",
+          "published": "2026-08-09"
+        },
+        {
+          "url": "https://www.mavericksportfish.com/fishing-charters/trophy-fly/",
+          "title": "Trophy Fly - Maverick Sportfishing Costa Rica"
+        }
+      ]
+    },
+    "undersea-trip-reports": {
+      "indexed": 14,
+      "read": 14
+    },
+    "upala-blue-river-day": {
+      "indexed": 2,
+      "read": 2,
+      "pages": [
+        {
+          "url": "https://www.blueriverresort.com/day-tours",
+          "title": "Day Tours | Blue River Resort & Spa | Costa Rica"
+        },
+        {
+          "url": "https://www.blueriverresort.com/contact-us",
+          "title": "Contact Us | Blue River Resort & Spa | Costa Rica"
+        }
+      ]
+    },
+    "upala-water-community": {
+      "indexed": 3,
+      "read": 2,
+      "pages": [
+        {
+          "url": "https://www.vivedosrios.com/directorio",
+          "title": "Directorio | Vive Dos Ríos"
+        },
+        {
+          "url": "https://www.vivedosrios.com/ruta-del-agua",
+          "title": "Del agua | Vive Dos Ríos"
+        }
+      ]
+    },
+    "vista-golfo-spanish-blog": {
+      "indexed": 12,
+      "read": 5,
+      "pages": [
+        {
+          "url": "https://adventureparkcostarica.net/tours/tour-de-cataratas/",
+          "title": "Tour de Cataratas | Adventure Park Costa Rica"
+        },
+        {
+          "url": "https://adventureparkcostarica.net/tours/mix-adventure/",
+          "title": "Tour Mix Adventure | Adventure Park Costa Rica"
+        },
+        {
+          "url": "https://adventureparkcostarica.net/tours/tour-big-papa/",
+          "title": "Tour Big Papa | Adventure Park Costa Rica"
+        },
+        {
+          "url": "https://adventureparkcostarica.net/tours/mega-mix-adventure/",
+          "title": "Mega Mix Adventure | Adventure Park Costa Rica"
+        },
+        {
+          "url": "https://adventureparkcostarica.net/tours/finca-daniel-canopy-tour/",
+          "title": "Finca Daniel Canopy Tour | Adventure Park Costa Rica"
         }
       ]
     }

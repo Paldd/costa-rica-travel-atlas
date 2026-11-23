@@ -106,6 +106,17 @@ assert(find({ activity: "packraft", region: "central" }).some(row => row.id === 
 assert(find({ km: "ten", activity: "hiking" }).some(row => row.id === "palo-verde-cerro-alto"));
 assert(find({ km: "hundred", activity: "hiking", detail: "map" }, "expeditions").some(row => row.id === "el-camino-102"));
 assert(find({ activity: "ebike", detail: "map" }).some(row => row.id === "pinilla-emtb"));
+const routesWithLines = find({ detail: "line" });
+const routesWithTracks = find({ detail: "track" });
+assert.equal(routesWithLines.length, records.filter(row => row.dossier.line).length);
+assert.equal(routesWithTracks.length, records.filter(row => row.dossier.track).length);
+assert(routesWithLines.some(row => row.id === "talamanca-reef-surf-3"));
+assert(routesWithTracks.some(row => row.id === "nicoya-bikepack-6"));
+for (const id of ["nicoya-bikepack-6", "golfo-dulce-kayak-camp-3", "talamanca-reef-surf-3"]) {
+  const dossier = records.find(row => row.id === id).dossier;
+  assert(dossier.photos.length > 0 && dossier.galleries.length > 0 && dossier.videos.length > 0, id);
+  assert(dossier.photos.every(photo => photo.author && photo.original && photo.licenseUrl), id);
+}
 assert(find({ activity: "ebike", region: "south" }).some(row => row.id === "uvita-ballena-chaman-ebike-loop"));
 const jacoRide = find({ country: "cr", activity: "ebike", region: "centralpac", km: "short", detail: "map" })
   .find(row => row.id === "jaco-pastor-diaz-ebike-4");
