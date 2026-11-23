@@ -1222,5 +1222,32 @@
     "license": "CC BY 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Playa_San_Miguel_view_from_B.Kobelts_property_-_panoramio.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  "gulf-chira-bryan-fallas": {
+    "file": "gulf-chira-bryan-fallas.jpg",
+    "alt": "Лодки и берег острова Чира в заливе Никоя",
+    "caption": "Берег Чиры со стороны залива Никоя · декабрь 2021 года",
+    "author": "Bryan Fallas",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Isla_de_Chira.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "gulf-jrc-wawewo-sloth": {
+    "file": "cocles-jrc-wawewo-sloth.jpg",
+    "alt": "Двупалый ленивец на ветке в Jaguar Rescue Center",
+    "caption": "Двупалый ленивец в центре Jaguar Rescue Center · январь 2023 года",
+    "author": "Wawewo",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Two-toed_sloth_at_JRC%2C_Costa_Rica_01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "gulf-jrc-wawewo-sign": {
+    "file": "cocles-jrc-wawewo-sign.jpg",
+    "alt": "Вывеска Jaguar Rescue Center в Коклесе",
+    "caption": "Вывеска у Jaguar Rescue Center в Коклесе",
+    "author": "Wawewo",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Jaguar_Rescue_Center_sign_in_Colcles.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   }
 }

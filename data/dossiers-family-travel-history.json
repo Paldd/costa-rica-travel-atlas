@@ -457,7 +457,12 @@
       {
         "point": "paquera-port-point",
         "role": "Пакера · пересадка для пассажиров без машины",
-        "note": "Водителям организатор выдаёт другой пин парковки."
+        "note": "Пассажиров без машины по договорённости встречают на платформе для пересадки на лодку."
+      },
+      {
+        "point": "isla-chiquita-punta-cuchillo-parking",
+        "role": "Пунта-Кучильо · пересадка с машины",
+        "note": "Оставьте автомобиль на материковой гостевой стоянке и сядьте на лодку отеля."
       },
       {
         "point": "paquera-isla-chiquita-lodge",
@@ -481,6 +486,15 @@
           "paquera-isla-chiquita-faq",
           "paquera-isla-chiquita-transport"
         ]
+      },
+      {
+        "title": "Два варианта пересадки с парома",
+        "text": "Пассажиров без машины встречают у паромной платформы в Пакере. Водители едут на гостевую стоянку Пунта-Кучильо. От обеих точек организуют водное такси. В расписании на 23 ноября последнее окно заселения указано на 16:45. Подтвердите его в брони и сверяйте запас между паромом и лодкой.",
+        "sources": [
+          "paquera-isla-chiquita-transport",
+          "gulf-jesusita-guest-parking-qbl",
+          "paquera-ferry-live"
+        ]
       }
     ],
     "contacts": [
@@ -496,11 +510,14 @@
     "track": "paquera-isla-chiquita-transport",
     "nearby": [
       "paquera-bioluminescence-kayak",
-      "curu-forest-coves"
+      "curu-forest-coves",
+      "paquera-jesusita-family-day-pass"
     ],
     "galleries": [
       "paquera-isla-chiquita-gallery",
-      "paquera-isla-chiquita-faq"
+      "paquera-isla-chiquita-faq",
+      "gulf-jesusita-guest-parking-qbl",
+      "gulf-jesusita-ict-overview"
     ],
     "connectStops": false
   },

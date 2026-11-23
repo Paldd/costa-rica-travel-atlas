@@ -2,9 +2,14 @@
   "chira-fishing-island-2": {
     "stops": [
       {
-        "point": "costa-pajaros-pier-area",
-        "role": "День 1 · район причала Costa de Pájaros",
-        "note": "Подтвердите точку посадки и парковку у местного перевозчика."
+        "point": "chira-costa-pajaros-ict-dock",
+        "role": "День 1 · посадка в Costa de Pájaros",
+        "note": "Уточните у перевозчика автобус, время лодки и возвращение."
+      },
+      {
+        "point": "chira-puntarenas-mercado-dock",
+        "role": "Альтернативная посадка · рынок Пунтаренаса",
+        "note": "Пин пассажирской лодки на Чиру у эстуария."
       },
       {
         "point": "chira-bocana-town",
@@ -27,10 +32,10 @@
         ]
       },
       {
-        "title": "Местное размещение и еда",
-        "text": "Posada Rural La Amistad приводится в исследовании UNA как проект сельского туризма с экскурсиями. Уточните действующий режим и готовность принять вашу группу через портал. Местный репортаж рассказывает о проекте по выращиванию устриц, который ведут женщины острова. Уточняйте возможность визита или обеда заранее.",
+        "title": "Местный ночлег, кухня и палатка",
+        "text": "Хозяева Campo Bocana подтверждают площадку для палаток и отдельные домики. Проект сельского туризма La Amistad описан Университетом UNA. Режим обеих площадок и обед с местными согласуйте заранее.",
         "sources": [
-          "isla-chira-local",
+          "gulf-chira-bocana-host",
           "una-chira-la-amistad",
           "yo-amo-puntarenas-chira"
         ]
@@ -76,7 +81,17 @@
       }
     ],
     "nearby": [
-      "paquera-ferry-weekend-3"
+      "paquera-ferry-weekend-3",
+      "chira-campo-bocana-camping",
+      "chira-bocana-palito-cycle-10",
+      "isla-venado-local-boat-day"
+    ],
+    "connectStops": false,
+    "photos": [
+      "gulf-chira-bryan-fallas"
+    ],
+    "videos": [
+      "gulf-chira-public-boat-film"
     ]
   },
   "cano-negro-local-boat": {
@@ -993,6 +1008,14 @@
           "bahia-rica-night-kayak",
           "bahia-rica-contact"
         ]
+      },
+      {
+        "title": "Где искать свечение в заливе",
+        "text": "Путеводитель ICT описывает биолюминесценцию в районах Пакеры и Тамбора. В темноте вспышки легче заметить. Видимость меняется от вечера к вечеру. Заблаговременно согласуйте с гидом место выхода, возвращение и запасной вариант при ветре.",
+        "sources": [
+          "gulf-bioluminescence-ict-guide",
+          "bahia-rica-night-kayak"
+        ]
       }
     ],
     "contacts": [
@@ -1013,7 +1036,9 @@
     ],
     "nearby": [
       "paquera-paddle-sup",
-      "paquera-ferry-weekend-3"
+      "paquera-ferry-weekend-3",
+      "paquera-jesusita-family-day-pass",
+      "paquera-isla-chiquita-family-glamp"
     ]
   },
   "paquera-paddle-sup": {

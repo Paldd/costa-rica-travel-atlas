@@ -1,0 +1,318 @@
+{
+  "chira-campo-bocana-camping": {
+    "stops": [
+      {
+        "point": "chira-costa-pajaros-ict-dock",
+        "role": "Посадка · Costa de Pájaros",
+        "note": "Пин из путеводителя ICT. Подтвердите расписание на дату."
+      },
+      {
+        "point": "chira-puntarenas-mercado-dock",
+        "role": "Альтернативная посадка · рынок Пунтаренаса",
+        "note": "Место посадки у эстуария, на стороне рынка."
+      },
+      {
+        "point": "chira-bocana-town",
+        "role": "Бокана · район кемпинга",
+        "note": "Метка населённого пункта. Получите у хозяев точку входа и договоритесь о встрече."
+      }
+    ],
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Лодку и высадку согласуйте заранее",
+      "text": "На остров ходят пассажирские лодки из Costa de Pájaros и от рынка Пунтаренаса. Для перевоза машины островной портал указывает отдельную погрузку через Puerto San Pablo. Сверьте габариты машины с палаткой, места стоянки и возврат. У Campo Bocana уточните, куда прибыть и можно ли поставить машину рядом с местом ночёвки.",
+      "sources": [
+        "isla-chira-embarkation",
+        "gulf-chira-ict-ports-guide",
+        "gulf-chira-bocana-host"
+      ]
+    },
+    "sections": [
+      {
+        "title": "День 1 · лодка, палатка и бассейн",
+        "text": "Хозяева Campo Bocana описывают площадку под палатки, бассейн и домики на 2–5 человек в зависимости от категории. Уточните ровную площадку, воду, душ и доступ к кухне. Спросите, где разрешено готовить и разводить огонь.",
+        "sources": [
+          "gulf-chira-bocana-host",
+          "isla-chira-local",
+          "gulf-chira-bocana-film"
+        ]
+      },
+      {
+        "title": "День 2 · пешая прогулка, велодорога или мангры",
+        "text": "Выехать можно по Calle Principal в сторону Пуэрто-Палито. Для поездки в мангры договоритесь о лодке у местного оператора. В семейном варианте удобно выбрать одно занятие до согласованной лодки назад.",
+        "sources": [
+          "gulf-chira-bocana-palito-osm",
+          "gulf-chira-ict-overview",
+          "isla-chira-local"
+        ]
+      },
+      {
+        "title": "Причалы и багаж",
+        "text": "Для маршрута через Пунтаренас назначьте встречу у причала рядом с рынком. Из Costa de Pájaros уточняйте рейс у перевозчика. На острове есть новый причал с плавучей платформой. Согласуйте, на какой причал придёт именно ваша лодка и сколько багажа можно взять.",
+        "sources": [
+          "gulf-chira-ict-ports-guide",
+          "gulf-chira-mopt-pier",
+          "isla-chira-embarkation"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Campo Bocana · кемпинг и домики",
+        "source": "gulf-chira-bocana-host",
+        "note": "Спросите про место под палатку, часы бассейна, костёр в оборудованной зоне и трансфер. Второй номер +506 8354 9833.",
+        "url": "https://islachira.com/hospedaje/",
+        "phone": "+506 8314 9223",
+        "email": "info@islachira.com"
+      },
+      {
+        "name": "Juanca Tours · лодка и местные маршруты",
+        "source": "isla-chira-embarkation",
+        "note": "Уточните причалы, возврат, велосипеды и отдельную перевозку автомобиля при необходимости.",
+        "url": "https://islachira.com/como-llegar/",
+        "phone": "+506 8512 2921"
+      }
+    ],
+    "photos": [
+      "gulf-chira-bryan-fallas"
+    ],
+    "galleries": [
+      "gulf-chira-bocana-host",
+      "gulf-chira-ict-overview"
+    ],
+    "videos": [
+      "gulf-chira-bocana-film",
+      "gulf-chira-public-boat-film"
+    ],
+    "nearby": [
+      "chira-bocana-palito-cycle-10",
+      "chira-fishing-island-2",
+      "isla-venado-local-boat-day"
+    ]
+  },
+  "chira-bocana-palito-cycle-10": {
+    "stops": [
+      {
+        "point": "chira-bocana-cycle-start",
+        "role": "Старт линии · Calle Principal в Бокане",
+        "note": "Дорожный ориентир по OpenStreetMap недалеко от Боканы."
+      },
+      {
+        "point": "chira-palito-cycle-end",
+        "role": "Конец линии · Пуэрто-Палито",
+        "note": "На обратную дорогу заложите ещё около 9,6 км."
+      }
+    ],
+    "line": "chira-bocana-palito-bike-road",
+    "track": "gulf-chira-bocana-palito-osm",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "9,6 км в одну сторону",
+        "text": "Линия повторяет дорожный велорасчёт по Calle Principal. На круг с возвратом тем же путём получится около 19 км. Подберите длительность по жаре, покрытию и темпу группы. Выезжайте с запасом времени до обратной лодки.",
+        "sources": [
+          "gulf-chira-bocana-palito-osm",
+          "gulf-chira-ict-overview"
+        ]
+      },
+      {
+        "title": "Подготовка велосипеда",
+        "text": "Подтвердите, что выбранная лодка возьмёт велосипед. Для электровелосипеда сообщите массу и правила работы с батареей. Возьмите воду, средство от солнца, камеру или жгуты и ручной насос. О состоянии дороги после дождя спросите при бронировании.",
+        "sources": [
+          "isla-chira-embarkation",
+          "gulf-chira-bocana-host",
+          "gulf-chira-bocana-palito-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Juanca Tours · лодка и местные маршруты",
+        "source": "isla-chira-embarkation",
+        "note": "Уточните причалы, возврат, велосипеды и отдельную перевозку автомобиля при необходимости.",
+        "url": "https://islachira.com/como-llegar/",
+        "phone": "+506 8512 2921"
+      },
+      {
+        "name": "Campo Bocana · кемпинг и домики",
+        "source": "gulf-chira-bocana-host",
+        "note": "Спросите про место под палатку, часы бассейна, костёр в оборудованной зоне и трансфер. Второй номер +506 8354 9833.",
+        "url": "https://islachira.com/hospedaje/",
+        "phone": "+506 8314 9223",
+        "email": "info@islachira.com"
+      }
+    ],
+    "photos": [
+      "gulf-chira-bryan-fallas"
+    ],
+    "galleries": [
+      "gulf-chira-ict-overview",
+      "gulf-chira-bocana-host"
+    ],
+    "videos": [
+      "gulf-chira-public-boat-film"
+    ],
+    "nearby": [
+      "chira-campo-bocana-camping",
+      "chira-fishing-island-2"
+    ]
+  },
+  "isla-venado-local-boat-day": {
+    "stops": [
+      {
+        "point": "gulf-playa-naranjo-ferry-terminal",
+        "role": "Паром · Плайя-Наранхо",
+        "note": "Терминал Coonatramar. Дальше согласуйте трансфер до Ла-Пенки."
+      },
+      {
+        "point": "gulf-venado-island-ict-reference",
+        "role": "Венадо · ориентир острова",
+        "note": "Попросите у гида координаты лодочной высадки и ресторана."
+      },
+      {
+        "point": "gulf-venado-florida-area",
+        "role": "Ла-Флорида · квартал на острове",
+        "note": "MOPT указывает рампу в этом районе. Фактический причал назначает капитан."
+      }
+    ],
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Сверьте точку лодки с капитаном",
+      "text": "Для выхода через Ла-Пенку попросите точный пин и время возвращения. На Венадо есть плавучий причал в Тирадоресе и рампа в Ла-Флориде. Подтвердите, куда причаливает ваша лодка.",
+      "sources": [
+        "gulf-venado-local-approach",
+        "gulf-venado-mopt-piers",
+        "gulf-venado-repretel-report"
+      ]
+    },
+    "sections": [
+      {
+        "title": "Маршрут с материка",
+        "text": "Из Пунтаренаса по варианту через полуостров нужен паром Coonatramar до Плайя-Наранхо. К Ла-Пенке едут машиной, на такси или на автобусе в сторону Хикараля. Название остановки у подъезда опубликовано в схеме автобуса. Организатор может предложить свой пункт сбора.",
+        "sources": [
+          "gulf-naranjo-ferry-coonatramar",
+          "gulf-venado-local-approach",
+          "gulf-venado-penca-bus"
+        ]
+      },
+      {
+        "title": "Обед у кооператива и прогулка",
+        "text": "В Proyecto de Camarón готовят морепродукты, часть которых поступает от местных рыбаков. Забронируйте обед у Аллана Барриоса. На берегу договоритесь о прогулке с жителями. Наличие рыбалки с забросом и условия лицензии проверьте отдельно.",
+        "sources": [
+          "gulf-venado-coop-restaurant",
+          "gulf-venado-ict-overview",
+          "gulf-venado-fishing-plan"
+        ]
+      },
+      {
+        "title": "Посадка с детьми",
+        "text": "Назовите капитану возраст детей и заранее подтвердите жилеты по размеру. Возьмите воду, защиту от солнца и гермомешок. Уточните, где устроены ступени или рампа и как доставят обратно к автобусу, машине или парому.",
+        "sources": [
+          "gulf-venado-mopt-piers",
+          "gulf-venado-repretel-report",
+          "gulf-venado-local-approach"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Аллан Барриос · лодка и кооператив Венадо",
+        "source": "gulf-venado-repretel-report",
+        "note": "Согласуйте посадку, точный причал на острове, меню, возврат и детские спасжилеты.",
+        "url": "https://www.repretel.com/noticia/isla-venado-el-paraiso-donde-el-tiempo-parece-detenerse/",
+        "phone": "+506 5008 9444"
+      },
+      {
+        "name": "Coonatramar · паром на Плайя-Наранхо",
+        "source": "gulf-naranjo-ferry-coonatramar",
+        "note": "Рейсы, место для машины и обратный билет.",
+        "url": "https://coonatramar.com/"
+      }
+    ],
+    "galleries": [
+      "gulf-venado-ict-overview",
+      "gulf-venado-coop-restaurant",
+      "gulf-venado-mopt-piers"
+    ],
+    "videos": [
+      "gulf-venado-local-film",
+      "gulf-venado-una-community-film"
+    ],
+    "nearby": [
+      "chira-campo-bocana-camping",
+      "paquera-ferry-weekend-3",
+      "paquera-jesusita-family-day-pass"
+    ]
+  },
+  "paquera-jesusita-family-day-pass": {
+    "stops": [
+      {
+        "point": "paquera-port-point",
+        "role": "Пакера · пассажирская пересадка",
+        "note": "Пассажиров без машины встречают у парома после согласования."
+      },
+      {
+        "point": "isla-chiquita-punta-cuchillo-parking",
+        "role": "Пунта-Кучильо · стоянка объекта",
+        "note": "Гости на авто оставляют машину здесь перед лодкой."
+      },
+      {
+        "point": "paquera-isla-chiquita-lodge",
+        "role": "Исла-Хесусита · высадка у комплекса",
+        "note": "Проверьте час обратной лодки при записи на дневной пакет."
+      }
+    ],
+    "connectStops": false,
+    "track": "paquera-isla-chiquita-transport",
+    "sections": [
+      {
+        "title": "Дневной пакет",
+        "text": "В FAQ на 23 ноября 2026 указаны часы 08:00–17:00, предварительная запись, USD 70 за взрослого и USD 40 за ребёнка 6–11 лет. В пакет входят лодка туда и обратно, обед из трёх блюд, бассейн, каяк и пляжное полотенце. Тариф для малышей и состав пакета подтвердите на дату визита.",
+        "sources": [
+          "paquera-isla-chiquita-faq",
+          "paquera-isla-chiquita-transport"
+        ]
+      },
+      {
+        "title": "Паром, парковка и возврат",
+        "text": "Из Пунтаренаса выбирайте паром Naviera Tambor именно в Пакеру. С машиной двигайтесь на гостевую площадку Пунта-Кучильо. Пассажиру без машины отель объяснит точку встречи у парома. Получите время обеих лодок перед покупкой билетов.",
+        "sources": [
+          "paquera-isla-chiquita-transport",
+          "gulf-jesusita-guest-parking-qbl",
+          "paquera-ferry-live"
+        ]
+      },
+      {
+        "title": "У воды с детьми",
+        "text": "В FAQ комплекса указаны бассейн, игровая площадка и пляжные игрушки. На некоторые экскурсии есть минимальный возраст. Спросите о тандемном каяке, детском жилете и часах, когда можно выйти на воду.",
+        "sources": [
+          "paquera-isla-chiquita-faq",
+          "gulf-jesusita-ict-overview"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Isla Chiquita · дневной визит и лодка",
+        "source": "paquera-isla-chiquita-faq",
+        "note": "Запись, часы посадки и возврата, пакет для детей младше шести и наличие жилета нужного размера.",
+        "url": "https://www.islachiquitacostarica.com/faq",
+        "phone": "+506 8775 8600",
+        "email": "reserve@islachiquita.com"
+      }
+    ],
+    "galleries": [
+      "paquera-isla-chiquita-gallery",
+      "gulf-jesusita-guest-parking-qbl",
+      "gulf-jesusita-ict-overview"
+    ],
+    "videos": [
+      "film-379-isla-chiquita-guests"
+    ],
+    "nearby": [
+      "paquera-isla-chiquita-family-glamp",
+      "paquera-playa-mango-gulf-day",
+      "paquera-bioluminescence-kayak"
+    ]
+  }
+}
