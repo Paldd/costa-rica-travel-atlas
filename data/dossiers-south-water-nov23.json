@@ -388,11 +388,10 @@
         ]
       },
       {
-        "title": "Точка на карте и видео",
-        "text": "На карте муниципальный причал Пуэрто-Хименеса. Точки остановок на воде зависят от капитана. В галерее видно судно, а видео показывает формат водной поездки.",
+        "title": "Причал и фотографии судна",
+        "text": "На карте муниципальный причал Пуэрто-Хименеса. Остановки на воде выбирает капитан. Палубы и посадку можно рассмотреть в галерее оператора.",
         "sources": [
-          "south-water-dona-tere-catamaran-owner",
-          "south-water-dona-tere-vimeo"
+          "south-water-dona-tere-catamaran-owner"
         ]
       }
     ],
@@ -408,9 +407,6 @@
     "galleries": [
       "south-water-dona-tere-catamaran-owner",
       "south-water-osa-tourism-water-trips"
-    ],
-    "videos": [
-      "south-water-dona-tere-vimeo"
     ],
     "photos": [
       "puerto-jimenez-sunrise-badilla",

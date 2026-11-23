@@ -1,7 +1,7 @@
 import React from "react";
 import {
-  Bike, Bird, CarFront, Coffee, Compass, Fish, Footprints,
-  Landmark, Mountain, Plane, Route, Sun,
+  Backpack, Bike, Bird, CarFront, Coffee, Compass, Fish, Footprints,
+  Landmark, Mountain, Plane, Route, Sun, Telescope,
   TentTree, TreePine, Waves,
 } from "lucide-react";
 
@@ -43,6 +43,33 @@ const RoofTent = sportIcon(<>
   <circle cx="7" cy="19" r="1.8" fill="currentColor" />
   <circle cx="17" cy="19" r="1.8" fill="currentColor" />
 </>);
+const RoadBike = sportIcon(<>
+  <circle cx="5" cy="17" r="3" /><circle cx="19" cy="17" r="3" />
+  <path d="m5 17 4-7 3 7h7L15.5 6H19c2 0 2 3 0 3h-1M7 10h5" />
+</>);
+
+const OwnCraft = sportIcon(<>
+  <path d="M2 13c5 2 15 2 20 0l-3 5H5l-3-5ZM12 3v8m-3-3 3 3 3-3M3 21h18" />
+</>);
+
+const Volcano = sportIcon(<>
+  <path d="m2 21 7-11 3 1 3-1 7 11H2Zm5-6 3 2 3-2 4 1m-6-9c-2-2 2-3 0-5m4 5c2-2-2-3 0-5" />
+</>);
+
+const Beach = sportIcon(<>
+  <path d="M3 12a6 6 0 0 1 12 0H3Zm6 0v7m-7 1c2-2 4-2 6 0s4 2 6 0 4-2 7 0" />
+  <circle cx="19" cy="6" r="2" />
+</>);
+
+const WhiteSand = sportIcon(<>
+  <path d="M2 18c5 0 7-4 10-4 4 0 7 4 10 4M2 21h20M12 3v7M8.5 6.5h7m3.5 3v3m-1.5-1.5h3" />
+</>);
+
+const DarkSand = sportIcon(<>
+  <path d="M2 18c5 0 7-4 10-4 4 0 7 4 10 4M2 21h20m-15-3h2m2-1h2m1 2h2" />
+  <circle cx="17" cy="7" r="3" />
+</>);
+
 const Gravel = sportIcon(<>
   <circle cx="5" cy="16" r="3" /><circle cx="19" cy="16" r="3" />
   <path d="m5 16 4-7 3 7h7L16 5h3M7 9h5m-8 13h2m3 0h2m4 0h2m3 0h2" />
@@ -158,7 +185,8 @@ const groups = [
   ["rides", ElectricBike, "ebike"],
   ["rides", Mtb, "mtb"],
   ["rides", Gravel, "gravel"],
-  ["rides", Bike, "road-bike", "cycling"],
+  ["rides", RoadBike, "road-bike"],
+  ["rides", Bike, "cycling"],
   ["land", Offroad, "offroad"],
   ["land", Buggy, "utv"],
   ["land", Quad, "atv"],
@@ -184,15 +212,17 @@ const groups = [
   ["land", DrySlide, "dry-slide"],
   ["water", Catamaran, "catamaran"],
   ["water", PassengerBoat, "boat"],
-  ["water", Canoe, "own-craft"],
+  ["water", OwnCraft, "own-craft"],
   ["land", Plane, "scenic-flight"],
   ["water", HotSpring, "thermal"],
   ["nature", Canyoning, "canyoning"],
-  ["nature", Mountain, "summit", "volcano"],
+  ["nature", Mountain, "summit"],
+  ["nature", Volcano, "volcano"],
   ["nature", Cave, "cave"],
   ["nature", TrailRun, "trailrun"],
   ["nature", HangingBridge, "hanging-bridges"],
-  ["nature", Footprints, "hiking", "multi"],
+  ["nature", Footprints, "hiking"],
+  ["nature", Backpack, "multi"],
   ["land", CarFront, "car"],
   ["land", BorderCrossing, "border"],
   ["land", Coffee, "coffee", "cafe"],
@@ -201,10 +231,14 @@ const groups = [
   ["nature", Zipline, "canopy"],
   ["nature", TreePine, "forest"],
   ["nature", Horseback, "horseback"],
-  ["water", Sun, "beach", "white-sand", "dark-sand", "relax"],
+  ["water", Beach, "beach"],
+  ["water", WhiteSand, "white-sand"],
+  ["water", DarkSand, "dark-sand"],
+  ["water", Sun, "relax"],
   ["water", Waterfall, "waterfall"],
   ["water", Waves, "lake", "river"],
-  ["nature", Route, "views", "savanna"],
+  ["nature", Telescope, "views"],
+  ["nature", Route, "savanna"],
 ];
 
 const iconByActivity = new Map(groups.flatMap(

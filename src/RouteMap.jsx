@@ -47,7 +47,7 @@ export default function RouteMap({ record, stops, track, line, lines, sources, r
     });
     mapView.current = { map, paths, bounds };
     if (line) {
-      map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });
+      map.fitBounds(bounds, { padding: [30, 30], maxZoom: 17 });
     } else if (positions.length > 1) {
       if (connectStops) L.polyline(positions, { color: "#874916", weight: 3, dashArray: "6 8", interactive: false }).addTo(map);
       map.fitBounds(positions, { padding: [30, 30], maxZoom: 14 });
@@ -107,7 +107,7 @@ export default function RouteMap({ record, stops, track, line, lines, sources, r
         else marker.remove();
       }
     }
-    view.map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });
+    view.map.fitBounds(bounds, { padding: [30, 30], maxZoom: 17 });
   }
 
   return <section className="route-map" aria-label="Карта маршрута">

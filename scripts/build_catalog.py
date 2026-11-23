@@ -315,6 +315,8 @@ def video_source(source):
 def video_collection(source):
     url = urlsplit(source["url"])
     host = (url.hostname or "").removeprefix("www.").removeprefix("m.")
+    if url.path.rstrip("/").split("/")[-1] in {"videos", "video-gallery"}:
+        return True
     return host == "youtube.com" and bool(re.match(r"/(?:@[^/]+|(?:channel|user|c)/[^/]+|playlist)(?:/|$)", url.path))
 
 
@@ -376,12 +378,14 @@ def reusable_media(record, sources, gallery_ids):
 
 
 def attach_stop_media(records, dossiers):
-    # A place can illustrate a mapped stop when both dossiers use the same waypoint.
-    # At a shared meeting point, only reuse a photo if the candidate place is unambiguous.
+    def has_media(dossier):
+        return any(dossier.get(field) for field in ("photos", "galleries", "videos", "videoCollections"))
+
+    # Both the nearby link and an identical waypoint must support a match on a non-staged route.
     places_by_point = {}
     for row in records:
         dossier = dossiers.get(row["id"], {})
-        if row["kind"] == "place" and dossier.get("photos") and dossier.get("stops"):
+        if row["kind"] == "place" and has_media(dossier) and dossier.get("stops"):
             places_by_point.setdefault(dossier["stops"][0]["point"], []).append(row["id"])
     for row in records:
         dossier = dossiers.get(row["id"])
@@ -395,10 +399,11 @@ def attach_stop_media(records, dossiers):
                 places = [key for key in places_by_point.get(stop["point"], []) if key in nearby]
                 if len(places) == 1:
                     linked.extend(places)
-        linked = [
-            key for key in dict.fromkeys(linked)
-            if any(dossiers.get(key, {}).get(field) for field in ("photos", "galleries", "videos", "videoCollections"))
-        ]
+                else:
+                    photographed = [key for key in places if dossiers[key].get("photos")]
+                    if len(photographed) == 1:
+                        linked.extend(photographed)
+        linked = [key for key in dict.fromkeys(linked) if has_media(dossiers.get(key, {}))]
         if linked:
             dossier["mediaStops"] = linked
         if not dossier.get("photos"):

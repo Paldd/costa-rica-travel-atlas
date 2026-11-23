@@ -251,7 +251,9 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .media-list > li > svg { color: var(--forest); margin-top: 2px; }
 .media-list a { font-weight: 630; color: var(--forest); overflow-wrap: anywhere; }
 .media-list p { margin-top: 4px; font-size: .87rem; color: var(--muted); }
-.media-play { margin-top: 6px; }
+.media-play { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-top: 6px; text-align: left; }
+.media-poster { display: block; width: 160px; height: 90px; max-width: 100%; object-fit: cover; border-radius: 5px; }
+.media-poster[hidden] { display: none; }
 .media-player { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 6px; margin-top: 8px; background: #16332b; }
 .stage-media { margin-top: 10px; }
 .stage-media summary { cursor: pointer; color: var(--forest); width: fit-content; font-weight: 620; }

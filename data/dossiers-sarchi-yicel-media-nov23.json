@@ -1,0 +1,162 @@
+{
+  "sarchi-eloy-alfaro-factory": {
+    "stops": [
+      {
+        "point": "sarchi-eloy-factory-building",
+        "role": "Историческая мастерская",
+        "note": "Пин фабрики. Место сбора и вход для экскурсии уточните по телефону.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Fábrica de Carretas Eloy Alfaro",
+        "source": "sarchi-eloy-municipal-factory",
+        "note": "Экскурсия по станкам и колесу, цена, длительность и доступ с детской коляской.",
+        "phone": "+506 2454 4131",
+        "email": "carretaseloyalfaro@gmail.com",
+        "url": "https://wa.me/50688243450"
+      },
+      {
+        "name": "Мастерская Eloy Alfaro · второй телефон",
+        "source": "sarchi-eloy-municipal-factory",
+        "note": "Резервный номер из муниципального справочника.",
+        "phone": "+506 2454 5709"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Колесо, мастерская и роспись",
+        "text": "Попросите показать водяное колесо, привод станков и роспись повозок. Музей и магазин находятся при мастерской. Рассчитывайте на 45–75 минут с запасом на разговор и показ.",
+        "sources": [
+          "sarchi-eloy-municipal-factory",
+          "sarchi-eloy-culture-system",
+          "sarchi-eloy-el-jardin-gallery",
+          "sarchi-eloy-teletica-waterwheel-report"
+        ]
+      },
+      {
+        "title": "Как договориться о визите",
+        "text": "Позвоните утром или накануне. В муниципальном справочнике понедельник указан с двумя разными статусами. Уточните время экскурсии, цену, будет ли идти работа, и доступность входа с коляской.",
+        "sources": [
+          "sarchi-eloy-municipal-factory",
+          "sarchi-eloy-culture-system"
+        ]
+      }
+    ],
+    "nearby": [
+      "sarchi-carreta-central-park",
+      "sarchi-square-factory-walk",
+      "sarchi-else-kientzler-garden"
+    ]
+  },
+  "sarchi-square-factory-walk": {
+    "stops": [
+      {
+        "point": "sarchi-central-park",
+        "role": "Центральный парк",
+        "note": "Начните у расписной повозки в Sarchí Norte.",
+        "activity": "history"
+      },
+      {
+        "point": "sarchi-eloy-public-street",
+        "role": "Подход по Calle Central",
+        "note": "Уличная конечная точка пешей линии. Дальше следуйте входным указателям."
+      },
+      {
+        "point": "sarchi-eloy-factory-building",
+        "role": "Историческая мастерская",
+        "note": "Пин фабрики. Место сбора и вход для экскурсии уточните по телефону.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "track": "sarchi-park-eloy-pedestrian-osm",
+    "line": "sarchi-park-eloy-street-walk",
+    "contacts": [
+      {
+        "name": "Fábrica de Carretas Eloy Alfaro",
+        "source": "sarchi-eloy-municipal-factory",
+        "note": "Экскурсия по станкам и колесу, цена, длительность и доступ с детской коляской.",
+        "phone": "+506 2454 4131",
+        "email": "carretaseloyalfaro@gmail.com",
+        "url": "https://wa.me/50688243450"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Прогулка от расписной повозки",
+        "text": "В парке посмотрите орнаменты большой повозки, изготовленной на фабрике Eloy Alfaro. До Calle Central примерно 385 м по сети улиц. Пешей части достаточно 10–15 минут с остановками, на парк и фабрику оставьте примерно полтора-два часа.",
+        "sources": [
+          "sarchi-carreta-owner",
+          "sarchi-eloy-teletica-waterwheel-report",
+          "sarchi-park-eloy-pedestrian-osm"
+        ]
+      },
+      {
+        "title": "С детьми и продолжение дня",
+        "text": "Уточните экскурсию заранее. На городских переходах следите за трафиком и состоянием тротуара. После фабрики можно отдельно доехать до сада Else Kientzler, где полезно выделить ещё 1–2 часа.",
+        "sources": [
+          "sarchi-eloy-municipal-factory",
+          "sarchi-kientzler-owner"
+        ]
+      }
+    ],
+    "nearby": [
+      "sarchi-eloy-alfaro-factory",
+      "sarchi-carreta-central-park",
+      "sarchi-else-kientzler-garden"
+    ]
+  },
+  "manzanillo-yicel-shore": {
+    "stops": [
+      {
+        "point": "caribe-bike-manzanillo",
+        "role": "Посёлок Мансанильо",
+        "note": "Ориентир населённого пункта для подъезда из Пуэрто-Вьехо.",
+        "activity": "beach"
+      },
+      {
+        "point": "manzanillo-yicel-hull",
+        "role": "Ориентир корпуса",
+        "note": "Ориентир для съёмки с берега. Оставайтесь на сухой части пляжа.",
+        "activity": "views"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как посмотреть с берега",
+        "text": "Ищите корпус на Playa Manzanillo в Таламанке, провинция Лимон. Запланируйте 30–60 минут на подход с сухой части берега и фотографии. Выбирайте условия, при которых волны оставляют достаточно места на песке.",
+        "sources": [
+          "yicel-manzanillo-ict-field-gallery",
+          "yicel-manzanillo-mapcarta-osm",
+          "yicel-caribe-cool-field-gallery"
+        ]
+      },
+      {
+        "title": "Семейный день или остановка на велосипеде",
+        "text": "Оставайтесь на сухом песке. Металл корпуса ржавый. Для продолжения можно выбрать берег Пунта-Ува или отдельную прогулку у входа в заповедник. Для поездки с детьми запросите у местных сведения о волнах и береговом доступе.",
+        "sources": [
+          "yicel-manzanillo-ict-field-gallery",
+          "yicel-caribe-cool-field-gallery",
+          "atec-puerto-viejo-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ATEC · Asociación Talamanqueña de Ecoturismo y Conservación",
+        "source": "atec-puerto-viejo-contact",
+        "note": "Ближайшие подходы, местные экскурсии и транспорт в Таламанке.",
+        "url": "https://ateccr.org/contact-us/"
+      }
+    ],
+    "nearby": [
+      "gandoca",
+      "manzanillo-almonds-forest-stay",
+      "puerto-viejo-bike-manzanillo"
+    ]
+  }
+}

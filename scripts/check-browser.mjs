@@ -314,8 +314,11 @@ async function checkViewport(browser, width) {
     await page.locator(".detail-photo figcaption").getByText("Иллюстрация снаряжения · ImageGen").waitFor();
     await page.locator(".route-map-stops button").last().waitFor();
     assert.equal(await page.locator(".route-map-stops button").count(), roof.dossier.stops.length);
-    const roofVideo = page.locator(".media-list").getByRole("button", { name: "Смотреть в карточке" });
-    await roofVideo.click();
+    const roofClip = page.getByRole("list", { name: "Видео", exact: true }).locator("li")
+      .filter({ has: page.locator('a[href*="GLr-xzs1mzQ"]') });
+    assert.equal(await roofClip.locator(".media-poster").getAttribute("src"),
+      "https://i.ytimg.com/vi/GLr-xzs1mzQ/mqdefault.jpg");
+    await roofClip.getByRole("button", { name: "Смотреть в карточке" }).click();
     assert.equal(await page.locator(".media-player").getAttribute("src"), "https://www.youtube-nocookie.com/embed/GLr-xzs1mzQ");
     await checkWidth();
 
@@ -446,6 +449,16 @@ async function checkViewport(browser, width) {
     assert.equal((cararaLagoon.match(/<trk>/g) || []).length, 1);
     assert.equal((cararaLagoon.match(/<trkpt /g) || []).length, atlas.lines[lagoon].coords.length);
     assert.equal(await cararaMap.locator(".route-map-stops li").count(), 2);
+    await checkWidth();
+
+    const sarchi = records.get("sarchi-square-factory-walk");
+    await open("place/" + sarchi.id);
+    await heading(sarchi);
+    const sarchiMap = page.getByRole("region", { name: "Карта маршрута" });
+    const sarchiGpx = await exportText(sarchiMap.getByRole("button", { name: "Скачать GPX", exact: true }));
+    assert.equal((sarchiGpx.match(/<wpt /g) || []).length, 3);
+    assert.equal((sarchiGpx.match(/<trkpt /g) || []).length, atlas.lines[sarchi.dossier.line].coords.length);
+    await page.locator(".detail-photo figcaption a").first().waitFor();
     await checkWidth();
 
     assert.deepEqual(errors, []);

@@ -44,6 +44,9 @@
     "galleries": [
       "baldi-day-pass",
       "baldi-family-area"
+    ],
+    "photos": [
+      "baldi-hot-springs-menard"
     ]
   },
   "balsa-rafting": {
@@ -69,6 +72,9 @@
     "galleries": [
       "kawe-barra-tarpon",
       "media-barra-tarpon-guest-photo"
+    ],
+    "photos": [
+      "barra-colorado-waterway-field"
     ]
   },
   "barra-colorado-tarpon-boat": {
@@ -78,6 +84,9 @@
     "galleries": [
       "kawe-barra-tarpon",
       "media-barra-tarpon-guest-photo"
+    ],
+    "photos": [
+      "barra-colorado-waterway-field"
     ]
   },
   "barra-honda": {
@@ -146,7 +155,8 @@
       "media-osa-matapalo-qbl-beaches"
     ],
     "videos": [
-      "media-qbl-cabo-matapalo-film"
+      "media-qbl-cabo-matapalo-film",
+      "osa-cabo-matapalo-pan-dulce-surf-film"
     ]
   },
   "canas-rivers-weekend-2": {
@@ -301,12 +311,28 @@
   },
   "coffee-britt": {
     "galleries": [
-      "media-britt-producer"
+      "media-britt-producer",
+      "britt-mytanfeet-classic-tour-gallery"
+    ],
+    "videos": [
+      "britt-mytanfeet-classic-coffee-film"
+    ],
+    "photos": [
+      "britt-coffee-tour-actors"
     ]
   },
   "coffee-doka": {
     "galleries": [
-      "media-doka-visit"
+      "media-doka-visit",
+      "doka-hacienda-coffee-exact-visit"
+    ],
+    "videos": [
+      "doka-tanya-chris-2026-tour-film",
+      "doka-joel-avipro-field-film"
+    ],
+    "photos": [
+      "doka-estate-mill-wayne",
+      "doka-estate-coffee-drying"
     ]
   },
   "cola-ballena-rooftop": {
@@ -351,7 +377,8 @@
   "corcovado-sirena": {
     "photos": [
       "atlas-sirena-corco",
-      "osa-golfo-dulce-nasa"
+      "osa-golfo-dulce-nasa",
+      "sirena-station-uwebart"
     ],
     "videos": [
       "osa-sirena-hyer-field-video"
@@ -411,6 +438,9 @@
     "videos": [
       "curu-vamos-field-film",
       "curu-soycrecu-field-film"
+    ],
+    "photos": [
+      "curu-refuge-vlad"
     ]
   },
   "cusinga": {
@@ -697,7 +727,8 @@
     ],
     "videos": [
       "elysiana-owner-waterfall-video",
-      "elysiana-qbl-waterfall-video"
+      "elysiana-qbl-waterfall-video",
+      "elysiana-araya-field-film"
     ]
   },
   "encanto-summit-short": {
@@ -753,12 +784,16 @@
   },
   "gandoca": {
     "photos": [
-      "atlas-cocles-manzanillo"
+      "atlas-cocles-manzanillo",
+      "manzanillo-talamanca-beach-coast"
     ]
   },
   "gandoca-lagoon-local-paddle": {
     "galleries": [
       "gandoca-tours-kayak-lagoon"
+    ],
+    "videos": [
+      "gandoca-jamvill-lagoon-mangrove-film"
     ]
   },
   "golfito-jimenez-passenger-boat": {
@@ -785,7 +820,8 @@
   },
   "golfo-dulce-weekend-no-car": {
     "photos": [
-      "atlas-puerto-jimenez-arch"
+      "atlas-puerto-jimenez-arch",
+      "golfito-golfo-dulce-coast"
     ]
   },
   "guanacaste-fondo-140": {
@@ -827,7 +863,8 @@
   },
   "hermosa-uvita-beach": {
     "videos": [
-      "media-hermosa-osa-film"
+      "media-hermosa-osa-film",
+      "osa-hermosa-costa-rica-story-walk-film"
     ]
   },
   "iguana-school": {
@@ -1134,7 +1171,9 @@
       "media-oka-corderos-film"
     ],
     "galleries": [
-      "oka-film"
+      "oka-film",
+      "oka-corderos-ict-field-guide",
+      "oka-corderos-2026-hut-trip-report"
     ]
   },
   "oka-olan": {
@@ -1145,6 +1184,9 @@
   "orosi-hot": {
     "galleries": [
       "gallery-orosi-thermal-operator"
+    ],
+    "photos": [
+      "orosi-valley-panorama"
     ]
   },
   "osa-pan-dulce-lesson": {
@@ -1152,7 +1194,8 @@
       "media-osa-matapalo-qbl-beaches"
     ],
     "videos": [
-      "media-qbl-cabo-matapalo-film"
+      "media-qbl-cabo-matapalo-film",
+      "osa-cabo-matapalo-pan-dulce-surf-film"
     ]
   },
   "pacuare-avesol": {
@@ -1274,6 +1317,10 @@
     "galleries": [
       "media-punta-banco-tiskita-gallery",
       "media-pavones-site-qbl"
+    ],
+    "videos": [
+      "pavones-surf-petterson-field-film",
+      "pavones-locals-documentary-trailer"
     ]
   },
   "piedra-angel": {
@@ -1343,12 +1390,14 @@
       "media-puerto-soley-infolink"
     ],
     "videos": [
-      "media-puerto-soley-film"
+      "media-puerto-soley-film",
+      "puerto-soley-shore-drone-film"
     ]
   },
   "puerto-viejo-bike-manzanillo": {
     "photos": [
-      "atlas-cocles-manzanillo"
+      "atlas-cocles-manzanillo",
+      "manzanillo-talamanca-beach-palms"
     ]
   },
   "punta-banco-rancho-tiskita": {
@@ -1477,6 +1526,9 @@
   "rio-loro-cartago-forest": {
     "galleries": [
       "rio-loro-quebuenlugar-field"
+    ],
+    "videos": [
+      "rio-loro-cartago-municipal-film"
     ]
   },
   "rios-lodge-own-kayak": {
@@ -1590,11 +1642,22 @@
     ],
     "galleries": [
       "gallery-sierpe-fishing-operator"
+    ],
+    "photos": [
+      "sierpe-river-mangroves-field"
     ]
   },
   "tabacon": {
     "galleries": [
-      "media-tabacon-owner"
+      "media-tabacon-owner",
+      "tabacon-thermal-resort-natural-springs"
+    ],
+    "videos": [
+      "tabacon-resort-thermal-family-film"
+    ],
+    "photos": [
+      "tabacon-pool-bar-grendel",
+      "tabacon-thermal-arturo"
     ]
   },
   "tapanti": {
@@ -1728,7 +1791,8 @@
     ],
     "videos": [
       "media-ventanas-ojochal-film",
-      "ventanas-ojochal-field-video"
+      "ventanas-ojochal-field-video",
+      "ventanas-ojochal-road-may-2026-film"
     ]
   },
   "vista-suenos": {
@@ -2459,13 +2523,15 @@
   },
   "cartago-orosi-ujarras-ebike-52": {
     "photos": [
-      "orosi-church-rodtico"
+      "orosi-church-rodtico",
+      "orosi-valley-panorama"
     ]
   },
   "orosi-road-loop": {
     "photos": [
       "orosi-church-rodtico",
-      "orosi-church-garden-rodtico"
+      "orosi-church-garden-rodtico",
+      "orosi-valley-panorama"
     ]
   },
   "esterillos-playa-super-sol-camping": {
@@ -2709,7 +2775,8 @@
   },
   "sarchi-carreta-central-park": {
     "photos": [
-      "sarchi-parque-central-portrait"
+      "sarchi-parque-central-portrait",
+      "eloy-craft-cart"
     ]
   },
   "cocles-villas-mya-glamping": {
@@ -2791,12 +2858,12 @@
   },
   "angostura-atirro-flatwater-sup": {
     "videos": [
-      "casa-turire-hotel-grounds-film-nov23"
+      "casa-turire-la-garita-field-film"
     ]
   },
   "turrialba-angostura-atirro-weekend-2": {
     "videos": [
-      "casa-turire-hotel-grounds-film-nov23"
+      "casa-turire-la-garita-field-film"
     ]
   },
   "mistico": {
@@ -2990,6 +3057,9 @@
   "danta-dantita-own-kayak": {
     "photos": [
       "dantita"
+    ],
+    "videos": [
+      "playa-danta-todd-coast-film"
     ]
   },
   "parador-punta-quepos-monkey-trail": {
@@ -2997,6 +3067,149 @@
       "parador-punta-quepos-view",
       "parador-punta-quepos-garden",
       "parador-punta-quepos-pools"
+    ]
+  },
+  "arenal-cote-2-water": {
+    "videos": [
+      "cote-teletica-lago-landscape-film"
+    ]
+  },
+  "catalinas-sup": {
+    "videos": [
+      "playa-danta-todd-coast-film"
+    ]
+  },
+  "coopedota-santa-maria-coffee": {
+    "videos": [
+      "coopedota-coffee-field-tour-film"
+    ]
+  },
+  "corcovado-sirena-helicopter-hike": {
+    "photos": [
+      "sirena-station-uwebart"
+    ]
+  },
+  "cote-own-kayak-packraft": {
+    "videos": [
+      "cote-teletica-lago-landscape-film"
+    ]
+  },
+  "cote-sup-with-guide": {
+    "videos": [
+      "cote-teletica-lago-landscape-film"
+    ]
+  },
+  "dinoland-rio-agrio": {
+    "videos": [
+      "dinoland-rio-agrio-profe-field-film"
+    ]
+  },
+  "finca-san-antonio-copey": {
+    "photos": [
+      "copey-village-church"
+    ]
+  },
+  "golfo-dulce-ferry-ebike-kayak-2": {
+    "photos": [
+      "golfito-golfo-dulce-coast"
+    ]
+  },
+  "las-trillizas-roofcamp": {
+    "videos": [
+      "trillizas-aventuras-hfm-waterfall-film"
+    ]
+  },
+  "las-trillizas-turrialba-walk-2": {
+    "videos": [
+      "trillizas-aventuras-hfm-waterfall-film"
+    ]
+  },
+  "manzanillo-almonds-forest-stay": {
+    "photos": [
+      "manzanillo-talamanca-beach-coast"
+    ]
+  },
+  "manzanillo-yicel-shore": {
+    "videos": [
+      "yicel-manzanillo-aerial-field-film"
+    ],
+    "galleries": [
+      "yicel-manzanillo-ict-field-gallery"
+    ],
+    "photos": [
+      "manzanillo-talamanca-beach-coast",
+      "manzanillo-talamanca-beach-palms"
+    ]
+  },
+  "prusia-clavelito-tent-fire": {
+    "videos": [
+      "clavelito-prusia-ticofam-tent-film",
+      "clavelito-prusia-nano-camp-film"
+    ]
+  },
+  "sabana-oka": {
+    "galleries": [
+      "oka-corderos-ict-field-guide"
+    ]
+  },
+  "san-vito-wilson-las-cruces": {
+    "videos": [
+      "wilson-ots-botanical-garden-film"
+    ],
+    "photos": [
+      "wilson-las-cruces-cordyline",
+      "wilson-las-cruces-marantaceae"
+    ]
+  },
+  "sanramon-roca-vista-fire-camp": {
+    "videos": [
+      "roca-vista-tvn-family-camp-film"
+    ]
+  },
+  "santa-maria-copey-road-bike": {
+    "photos": [
+      "copey-village-church",
+      "copey-village-landscape"
+    ]
+  },
+  "sarchi-eloy-alfaro-factory": {
+    "videos": [
+      "eloy-alfaro-teletica-film",
+      "eloy-alfaro-crtv-tour-film"
+    ],
+    "galleries": [
+      "sarchi-eloy-el-jardin-gallery"
+    ],
+    "photos": [
+      "sarchi-carreta-cc0",
+      "eloy-craft-cart"
+    ]
+  },
+  "sarchi-else-kientzler-garden": {
+    "videos": [
+      "sarchi-else-kientzler-field-film"
+    ],
+    "photos": [
+      "else-kientzler-jatropha",
+      "else-kientzler-caesalpinia"
+    ]
+  },
+  "sarchi-square-factory-walk": {
+    "videos": [
+      "eloy-alfaro-teletica-film"
+    ],
+    "galleries": [
+      "sarchi-eloy-el-jardin-gallery"
+    ]
+  },
+  "sierpe-boat": {
+    "photos": [
+      "sierpe-river-mangroves-field"
+    ]
+  },
+  "sierpe-estero-azul-kayak": {
+    "photos": [
+      "sierpe-river-mangroves-field"
     ]
   }
 }

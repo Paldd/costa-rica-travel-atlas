@@ -282,7 +282,10 @@ function videoPlayer(href) {
     : (host === "youtube.com" || host === "m.youtube.com") &&
       (url.searchParams.get("v") || (["shorts", "embed", "live"].includes(parts[0]) && parts[1]));
   if (/^[A-Za-z0-9_-]{11}$/.test(id || "")) {
-    return { embed: `https://www.youtube-nocookie.com/embed/${id}` };
+    return {
+      embed: `https://www.youtube-nocookie.com/embed/${id}`,
+      poster: `https://i.ytimg.com/vi/${id}/mqdefault.jpg`,
+    };
   }
   if (host === "player.vimeo.com" && /^\/video\/\d+$/.test(url.pathname)) {
     return { embed: href };
@@ -298,6 +301,7 @@ function DossierMedia({ row, sources, byId, context }) {
   const { photos = [], videos = [], galleries = [], videoCollections = [] } = row.dossier || {};
   const extraPhotos = photos.slice(1);
   const stopsWithMedia = (row.dossier?.mediaStops || []).map(id => byId.get(id));
+  const hasStopVideo = stopsWithMedia.some(place => place.dossier.videos?.length);
   const country = row.countries?.[0] || "cr";
   const countryName = { cr: "Costa Rica", pa: "Panamá", ni: "Nicaragua" }[country];
   const query = encodeURIComponent(`${row.native.split(" · ")[0]} ${countryName}`);
@@ -323,7 +327,10 @@ function DossierMedia({ row, sources, byId, context }) {
             <p>{source.scope}</p>
             {player && <button type="button" className="quiet-button media-play"
               aria-expanded={playing === id} onClick={() => setPlaying(playing === id ? null : id)}>
-              {playing === id ? "Свернуть плеер" : "Смотреть в карточке"}
+              {playing !== id && player.poster && <img className="media-poster" src={player.poster} alt=""
+                width={160} height={90} loading="lazy" referrerPolicy="no-referrer"
+                onError={event => { event.currentTarget.hidden = true; }} />}
+              <span>{playing === id ? "Свернуть плеер" : "Смотреть в карточке"}</span>
             </button>}
             {playing === id && (player.file
               ? <video className="media-player" aria-label={source.title} src={player.file} controls playsInline preload="metadata" />
@@ -339,7 +346,7 @@ function DossierMedia({ row, sources, byId, context }) {
         <div><External href={sources[id].url}>{sources[id].title}</External><p>{sources[id].scope}</p></div>
       </li>)}
     </ul>}
-    {stopsWithMedia.length > 0 && <details className="stage-media">
+    {stopsWithMedia.length > 0 && <details className="stage-media" open={videos.length === 0 && hasStopVideo ? true : undefined}>
       <summary>Фото и видео на остановках</summary>
       <ul className="media-list">
         {stopsWithMedia.map(place => {
