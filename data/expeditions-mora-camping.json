@@ -1,0 +1,70 @@
+[
+  {
+    "id": "mora-ermitas-llano-camp-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Часовни Моры и Llano Escondido · 2 дня с палаткой у машины",
+    "native": "Llano Grande · Picagres · Piedras Negras · Llano Escondido · El Rodeo",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "multi",
+      "hiking",
+      "camping",
+      "history",
+      "forest"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "mora-llano-camp-listing",
+      "mora-catumo-rural-guide",
+      "mora-llano-camp-pin",
+      "mora-llano-camp-contact"
+    ],
+    "summary": "Сельские часовни, один или два пеших выхода и ночёвка на семейной площадке с душем и бассейнами в Пьедрас-Неграс.",
+    "plan": "День 1 — 8 км Льяно-Гранде — Пикагрес — Пьедрас-Неграс. После прогулки переезд по Calle La Palma в Llano Escondido. День 2 — переход к Эль-Родео по условиям тропы либо отдых на площадке.",
+    "conditions": "Два линейных этапа требуют согласованного транспорта на финише. В дождь оценивайте воду и грунт с местным проводником. Ночь с палаткой на крыше заранее согласуйте с владельцем.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Льяно-Гранде → Пьедрас-Неграс · лагерь",
+        "note": "Утром пройдите отмеченный этап через Пикагрес. Организуйте заброску, или оставьте машину на финише и договоритесь о трансфере к старту. Лагерь лучше найти при дневном свете.",
+        "stops": [
+          "mora-ermitas-etapa-2",
+          "mora-llano-escondido-camping"
+        ],
+        "sources": [
+          "mora-catumo-rural-guide",
+          "mora-llano-camp-pin",
+          "mora-llano-camp-contact"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пьедрас-Неграс → Эль-Родео или день в лагере",
+        "note": "Для подготовленной группы возможен спуск к Río Jaris и подъём к Эль-Родео. При дожде или если дети устали, оставьте спокойное утро на площадке и вернитесь по дороге Моры.",
+        "stops": [
+          "mora-llano-escondido-camping",
+          "mora-ermitas-etapa-3"
+        ],
+        "sources": [
+          "mora-llano-camp-listing",
+          "mora-catumo-rural-guide"
+        ]
+      }
+    ]
+  }
+]

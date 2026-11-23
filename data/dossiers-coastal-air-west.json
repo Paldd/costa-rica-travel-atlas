@@ -1,0 +1,358 @@
+{
+  "mora-llano-escondido-camping": {
+    "stops": [
+      {
+        "point": "mora-llano-escondido-entry",
+        "role": "Подъезд и ночёвка",
+        "note": "Точка назначения из каталога. Собственник сообщает о месте для автомобиля рядом с палаткой."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Llano Escondido · хозяева",
+        "source": "mora-llano-camp-contact",
+        "url": "https://wa.me/50670063919",
+        "note": "Подтвердите въезд, ночную регистрацию, необходимость брони и разрешённый тип палатки.",
+        "phone": "+506 7006 3919"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что есть на месте",
+        "text": "В перечне Camping.cr указаны туалеты, души, мойка посуды, общая кухня, бассейны и зона сбора химических туалетов. В туристическом каталоге Моры показана крытая зона отдыха. Работа каждой услуги зависит от дня.",
+        "sources": [
+          "mora-llano-camp-listing",
+          "mora-catumo-rural-guide"
+        ]
+      },
+      {
+        "title": "С чем совместить",
+        "text": "Один вариант для семьи с маленькими детьми — короткий выезд на одну ночь и дневное посещение площадки. Для старших детей можно добавить линейный пеший переход Льяно-Гранде — Пикагрес — Пьедрас-Неграс. На участках перехода по реке важны состояние воды и согласованный транспорт на финише.",
+        "sources": [
+          "mora-catumo-rural-guide",
+          "mora-llano-camp-pin"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Грунтовую подстилку, фонари, обувь с зацепом, дождевик, питьевую воду и отдельную одежду для бассейна. Для машины с палаткой на крыше проверьте размеры выделенного места и возможность поставить лестницу.",
+        "sources": [
+          "mora-llano-camp-listing"
+        ]
+      }
+    ],
+    "galleries": [
+      "mora-catumo-rural-guide"
+    ],
+    "nearby": [
+      "mora-ermitas-etapa-2",
+      "mora-ermitas-etapa-3"
+    ],
+    "connectStops": false
+  },
+  "bijagual-tulin-gravel-day": {
+    "stops": [
+      {
+        "point": "jaco-utv-bijagual-village",
+        "role": "Бихагуаль · старт",
+        "note": "Пополнение воды и проверка дороги перед уходом в грунтовую часть."
+      },
+      {
+        "point": "tulin-route-319-junction",
+        "role": "Vía 320 → Vía 319",
+        "note": "Расчётный поворот дороги перед участками Calle Barro и Cuesta La Pavona."
+      },
+      {
+        "point": "tulin-san-antonio-church",
+        "role": "Сан-Антонио-де-Тулин · финишный ориентир",
+        "note": "Церковь перед выбором сквозного маршрута через долину. Разворачивайтесь по открытому подъезду."
+      }
+    ],
+    "contacts": [],
+    "sections": [
+      {
+        "title": "Линия и расстояние",
+        "text": "Картографический расчёт даёт 28 км в одну сторону. После Vía 320 линия выходит на Vía 319 и проходит через Calle Barro, Cuesta La Pavona и Calle Río Seco. Возвращение тем же открытым подъездом даёт около 56 км без учёта дороги к старту. Отведите день с запасом на осмотр покрытия и остановки.",
+        "sources": [
+          "tulin-bijagual-osm-calculation",
+          "tulin-bijagual-fields"
+        ]
+      },
+      {
+        "title": "Что увидели местные авторы",
+        "text": "В полевом отчёте Бихагуаль — Тулин широкий участок к развилке Эль-Сур сменяется менее ухоженной дорогой. Авторы предупреждают о красной глине после дождя. Это дневник мотоциклистов, доступность для конкретной машины подтверждайте на месте.",
+        "sources": [
+          "tulin-bijagual-fields",
+          "tulin-carara-motorumbo"
+        ]
+      },
+      {
+        "title": "Где проходит граница плана",
+        "text": "Карточка заканчивается у церкви. Дальнейшее пересечение Тулина и сквозной выезд в Пурискаль относятся к другим вариантам. Изучите заявления MOPT о работах на маршруте 319 и текущие сообщения муниципалитета.",
+        "sources": [
+          "tulin-municipal-road-inventory",
+          "tulin-bridge-quebrada-grande",
+          "tulin-church-osm-way"
+        ]
+      },
+      {
+        "title": "Экипировка и отступление",
+        "text": "Сохраните карту офлайн, проверьте запаску и связь. При свежих размывах, воде на дороге или закрытом проезде вернитесь к Бихагуалю. Берите запас времени на возвращение до темноты.",
+        "sources": [
+          "tulin-bijagual-fields",
+          "tulin-puriscal-4x4-report"
+        ]
+      }
+    ],
+    "galleries": [
+      "tulin-bijagual-fields",
+      "tulin-puriscal-4x4-report"
+    ],
+    "nearby": [
+      "jaco-utv-rey-100",
+      "turrubares-hisopa-local-camp-mtb"
+    ],
+    "connectStops": false,
+    "line": "bijagual-tulin-gravel-day"
+  },
+  "samara-autogyro-camaronal": {
+    "stops": [
+      {
+        "point": "flywithus-samara-base",
+        "role": "Самара · вылет",
+        "note": "Площадка Pista MRMR 1 с карты оператора."
+      },
+      {
+        "point": "carrillo-shore-area",
+        "role": "Каррильо · ориентир с воздуха",
+        "note": "Береговой ориентир для обзора из кабины."
+      },
+      {
+        "point": "camaronal-shore-aerial-reference",
+        "role": "Камарональ · ориентир с воздуха",
+        "note": "Оператор называет заповедник в 30-минутном варианте. Линию полёта определяет экипаж."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Fly With Us · обе базы",
+        "source": "flywithus-contact-base",
+        "url": "https://www.flywithus.aero/contact",
+        "note": "Запросите вес и возраст для конкретного борта, цену на выбранную дату и альтернативу при погоде.",
+        "phone": "+506 8828 1000",
+        "email": "info@flywithus.aero",
+        "whatsapp": "https://wa.me/50688281000"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три длительности",
+        "text": "20 минут дают короткий обзор залива и рифа. В 30 минут заявлены Каррильо и Камарональ. В длинном вылете возможны дополнительные бухты и долины. Цена и фактический курс зависят от подтверждения на выбранную дату.",
+        "sources": [
+          "flywithus-samara-coast",
+          "ict-camaronal-coast-refuge"
+        ]
+      },
+      {
+        "title": "Семейная логистика",
+        "text": "Кому не подходит открытая кабина, можно остаться у Самары или на пляже Каррильо. Закрытую обувь, лёгкую куртку и очки лучше приготовить заранее. Правила телефона и крепления камеры уточняются у пилота.",
+        "sources": [
+          "flywithus-samara-coast",
+          "flywithus-contact-base"
+        ]
+      }
+    ],
+    "galleries": [
+      "flywithus-samara-coast",
+      "camaronal-costa-firsthand-photo"
+    ],
+    "nearby": [
+      "samara",
+      "carrillo",
+      "pato-samara-school",
+      "samara-carrillo-ebike-beaches"
+    ],
+    "connectStops": false
+  },
+  "tamarindo-autogyro-estuary": {
+    "stops": [
+      {
+        "point": "flywithus-tamarindo-base",
+        "role": "Tico Wings · вылет",
+        "note": "Посадка по точке со страницы размещения Fly With Us. Время и место встречи подтверждает команда."
+      },
+      {
+        "point": "tamarindo-iguana",
+        "role": "Берег Тамариндо",
+        "note": "Наземный ориентир у побережья."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Fly With Us · обе базы",
+        "source": "flywithus-contact-base",
+        "url": "https://www.flywithus.aero/contact",
+        "note": "Запросите вес и возраст для конкретного борта, цену на выбранную дату и альтернативу при погоде.",
+        "phone": "+506 8828 1000",
+        "email": "info@flywithus.aero",
+        "whatsapp": "https://wa.me/50688281000"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что облетает",
+        "text": "Оператор перечисляет эстуарий, мангровую кромку и участки прибоя. Варианты 20, 30 и 60 минут различаются временем и расстоянием, которое допускает погода.",
+        "sources": [
+          "flywithus-tamarindo-coast",
+          "tamarindo-local-aerial-reseller"
+        ]
+      },
+      {
+        "title": "Как совместить с берегом",
+        "text": "Сделайте полёт отдельным коротким выездом и оставьте запас времени между ним и занятием сёрфингом. Если группу делят на два борта, согласуйте время ожидания и перенос при ветре.",
+        "sources": [
+          "flywithus-contact-base",
+          "flywithus-tamarindo-coast"
+        ]
+      }
+    ],
+    "galleries": [
+      "flywithus-tamarindo-coast",
+      "flywithus-aopa-field-report"
+    ],
+    "videos": [
+      "flywithus-tamarindo-aerial-video"
+    ],
+    "nearby": [
+      "cobano-autogyro-nicoya"
+    ],
+    "connectStops": false
+  },
+  "san-jose-museo-ninos-interactive": {
+    "stops": [
+      {
+        "point": "sj-museo-ninos-calle4",
+        "role": "Museo de los Niños · вход и касса",
+        "note": "На Calle 4 у Avenida 9. Для праздников сверяйте схему входов."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Museo de los Niños · посещение",
+        "source": "sj-kids-museum-visit",
+        "url": "https://museocr.org/ninos/tu-visita/",
+        "email": "reservaciones@museocr.org",
+        "note": "Обычные часы, выставки и условия доступа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Выбор зала по возрасту",
+        "text": "Проверьте список действующих зон до поездки. Зал Земли рассказывает о вулканах и даёт почувствовать сейсмическое движение на симуляторе. Для первого знакомства с музеем удобно оставить время на свободный выбор ребёнка.",
+        "sources": [
+          "sj-kids-museum-rooms",
+          "sj-kids-museum-earth"
+        ]
+      },
+      {
+        "title": "Внутри комплекса",
+        "text": "Обычный билет включает музей тюрьмы и Национальную галерею, когда они открыты. Если планируете специальную программу или спектакль, сверяйте условия именно выбранного события.",
+        "sources": [
+          "sj-kids-museum-visit",
+          "publisher-archive-museocr-family-events"
+        ]
+      }
+    ],
+    "galleries": [
+      "sj-kids-museum-firsthand-pictures",
+      "sj-kids-museum-rooms"
+    ],
+    "nearby": [
+      "san-jose-museo-ninos-lighting-2026"
+    ]
+  },
+  "san-jose-museo-ninos-lighting-2026": {
+    "stops": [
+      {
+        "point": "sj-museo-ninos-calle4",
+        "role": "Район сценической программы на Calle 4",
+        "note": "Маркер у музея. Для вечернего события следуйте временной схеме проходов."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Museo de los Niños · афиша",
+        "source": "sj-kids-museum-contact-wa",
+        "url": "https://wa.me/50670037070",
+        "phone": "+506 7003 7070",
+        "note": "Вечерняя программа, схема входа и объявления о транспорте."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Главное время",
+        "text": "Воскресенье 29 ноября 2026 года. Сценическая часть с 15:00, главный спектакль с 19:00 примерно до 20:00. Общий доступ бесплатный, программа музея и вечерние проходы согласуются отдельно.",
+        "sources": [
+          "sj-kids-lighting-2026-official",
+          "sj-kids-lighting-time-agenda",
+          "sj-kids-illuminacion-report-2026"
+        ]
+      },
+      {
+        "title": "Что взять с детьми",
+        "text": "Лёгкую куртку, воду, дождевик и офлайн-карту до транспорта. Продумайте точку встречи, если группа разделится. При высокой плотности людей удобнее выбрать один дневной блок.",
+        "sources": [
+          "sj-kids-lighting-2026-museum-regs",
+          "sj-kids-lighting-time-agenda"
+        ]
+      }
+    ],
+    "galleries": [
+      "sj-kids-illuminacion-report-2026"
+    ],
+    "videos": [
+      "sj-kids-lighting-2025-film"
+    ],
+    "nearby": [
+      "san-jose-museo-ninos-interactive"
+    ],
+    "connectStops": false
+  },
+  "mora-ermitas-llano-camp-2": {
+    "stops": [
+      {
+        "point": "mora-llano-escondido-entry",
+        "role": "Ночёвка и подъезд на машине",
+        "note": "Точка лагеря. Точки пеших отрезков открываются из карточек этапов."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Llano Escondido · площадка на ночь",
+        "source": "mora-llano-camp-contact",
+        "url": "https://wa.me/50670063919",
+        "phone": "+506 7006 3919",
+        "note": "Согласуйте место для автомобиля, время въезда, удобства и запасной план в дождь."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Пешие этапы",
+        "text": "Каждый пеший этап имеет отдельную карточку с точками и особенностями. Между финишем первого этапа и лагерем запланируйте короткий переезд по местной дороге.",
+        "sources": [
+          "mora-catumo-rural-guide",
+          "mora-llano-camp-pin"
+        ]
+      }
+    ],
+    "galleries": [
+      "mora-catumo-rural-guide"
+    ],
+    "nearby": [
+      "mora-ermitas-etapa-2",
+      "mora-ermitas-etapa-3",
+      "mora-llano-escondido-camping"
+    ],
+    "connectStops": false
+  }
+}
