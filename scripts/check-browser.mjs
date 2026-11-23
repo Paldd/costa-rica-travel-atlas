@@ -122,7 +122,8 @@ async function checkViewport(browser, width) {
     await heading(rioVista);
     await page.waitForFunction(() => Array.from(document.images).some(img =>
       img.src.endsWith("/pacuare-rafting-river-commons.jpg") && img.naturalWidth > 0));
-    const lodgeVideo = page.getByRole("link", { name: /видео о комнатах Rio Vista Lodge/ });
+    const lodgeVideo = page.getByRole("list", { name: "Видео", exact: true })
+      .getByRole("link", { name: /видео о комнатах Rio Vista Lodge/ });
     await lodgeVideo.waitFor();
     assert.equal(await lodgeVideo.getAttribute("href"), "https://www.youtube.com/watch?v=_EQG_vyFaB0");
     await checkWidth();
