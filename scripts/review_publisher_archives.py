@@ -27,9 +27,30 @@ MIN_BODY_CHARS = 350
 ARTICLE_BODY_CLASSES = {
     "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg",
 }
-EXTRACTOR_VERSION = 7
+EXTRACTOR_VERSION = 8
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
+VIDEO_METADATA = {"og:video", "og:video:url", "og:video:secure_url", "twitter:player"}
+
+
+def youtube_url(value):
+    try:
+        link = urlsplit(value)
+        domain = (link.hostname or "").removeprefix("www.").removeprefix("m.")
+    except ValueError:
+        return None
+    if domain not in {"youtube.com", "youtube-nocookie.com", "youtu.be", "i.ytimg.com"}:
+        return None
+    path = link.path.strip("/").split("/")
+    if path == ["watch"]:
+        video = parse_qs(link.query).get("v", [""])[0]
+    elif len(path) >= 2 and path[0] in {"embed", "shorts", "live", "vi", "vi_webp"}:
+        video = path[1]
+    elif domain == "youtu.be":
+        video = path[0]
+    else:
+        return None
+    return f"https://www.youtube.com/watch?v={video}" if VIDEO_ID.fullmatch(video) else None
 
 
 class EditorialPage(HTMLParser):
@@ -42,15 +63,17 @@ class EditorialPage(HTMLParser):
         self.heading = []
         self.metadata = {}
         self.social = set()
-        self.videos = set()
+        self.video_placements = {}
 
     def handle_starttag(self, tag, raw_attrs):
         attrs = dict(raw_attrs)
         if tag == "meta" and (name := attrs.get("property") or attrs.get("name")):
-            self.metadata[name.lower()] = attrs.get("content") or ""
-        for key in ("href", "src", "data-src", "data-href", "data-instgrm-permalink"):
-            if value := attrs.get(key):
-                self.add_media(value)
+            name = name.lower()
+            value = attrs.get("content") or ""
+            self.metadata[name] = value
+            if name in VIDEO_METADATA:
+                self.add_video(value, "metadata")
+        excluded = "hidden" in attrs or attrs.get("aria-hidden") == "true"
         if tag not in VOID:
             classes = set((attrs.get("class") or "").split())
             wordpress_post = (attrs.get("id") or "").startswith("post-") and {"type-post", "hentry"} <= classes
@@ -62,10 +85,14 @@ class EditorialPage(HTMLParser):
             )
             # DNN wraps the page in a form, with editorial content inside dnn_content.
             layout_form = tag == "form" and attrs.get("id") == "Form" and self.stack and self.stack[-1][0] == "body"
-            exclude = (tag in SKIP and not layout_form) or "hidden" in attrs or attrs.get("aria-hidden") == "true"
-            self.stack.append((tag, content, exclude))
+            excluded = excluded or tag in SKIP and not layout_form
+            self.stack.append((tag, content, excluded))
             self.main_depth += content
-            self.skip_depth += exclude
+            self.skip_depth += excluded
+        placement = "article" if self.main_depth and not (self.skip_depth or excluded) else "elsewhere"
+        for key in ("href", "src", "data-src", "data-href", "data-instgrm-permalink"):
+            if value := attrs.get(key):
+                self.add_media(value, placement)
 
     def handle_startendtag(self, tag, attrs):
         self.handle_starttag(tag, attrs)
@@ -89,7 +116,11 @@ class EditorialPage(HTMLParser):
         if self.stack and self.stack[-1][0] in {"h1", "title"}:
             self.heading.append(value)
 
-    def add_media(self, value):
+    def add_video(self, value, placement):
+        if url := youtube_url(value):
+            self.video_placements.setdefault(url, set()).add(placement)
+
+    def add_media(self, value, placement):
         try:
             link = urlsplit(value)
             domain = (link.hostname or "").removeprefix("www.")
@@ -100,15 +131,7 @@ class EditorialPage(HTMLParser):
             return
         if platform and (resolved := publication(value, platform)):
             self.social.add((platform, resolved[1]))
-        if domain in {"youtube.com", "youtube-nocookie.com", "youtu.be", "i.ytimg.com"}:
-            path = link.path.strip("/").split("/")
-            video = parse_qs(link.query).get("v", [""])[0] if path == ["watch"] else ""
-            if len(path) >= 2 and path[0] in {"embed", "shorts", "vi", "vi_webp"}:
-                video = path[1]
-            if domain == "youtu.be":
-                video = path[0]
-            if VIDEO_ID.fullmatch(video):
-                self.videos.add(f"https://www.youtube.com/watch?v={video}")
+        self.add_video(value, placement)
 
 
 class ArchiveRedirect(SameSiteRedirect):
@@ -142,10 +165,16 @@ def read_archive(archive, urls, analyze):
                 parser.feed(raw.decode("utf-8", errors="replace"))
                 body = " ".join(" ".join(parser.main).split())
                 title = parser.metadata.get("og:title") or next(iter(parser.heading), "") or row["title"]
+                videos = sorted(parser.video_placements, key=lambda url: (
+                    "article" not in parser.video_placements[url],
+                    "metadata" not in parser.video_placements[url],
+                    url,
+                ))[:20]
                 entry.update(title=title.strip()[:180], finalUrl=fetched, chars=len(body),
                              fingerprint=hashlib.sha256(body.encode()).hexdigest(),
                              date=parser.metadata.get("article:published_time", "")[:10],
-                             videoLinks=sorted(parser.videos)[:20],
+                             videoLinks=videos,
+                             videoPlacements={url: sorted(parser.video_placements[url]) for url in videos},
                              socialLinks=[{"platform": platform, "url": link} for platform, link in sorted(parser.social)][:20])
                 if len(body) >= MIN_BODY_CHARS:
                     entry.update(status="read", **analyze(title, body))
@@ -239,6 +268,40 @@ def social_candidates(state, archives, catalog):
     return candidates
 
 
+def video_candidates(state, archives, catalog):
+    known_videos = {video for url in catalog.values() if (video := youtube_url(url))}
+    links = {}
+    for archive_id, profiles in sorted(archives.items()):
+        for row in state.get(archive_id, {}).values():
+            if row["status"] != "read" or not row.get("videoLinks"):
+                continue
+            article = row["finalUrl"]
+            key = (archive_id, canonical(article))
+            for link in row["videoLinks"]:
+                if not (url := youtube_url(link)):
+                    continue
+                placement = row.get("videoPlacements", {}).get(link, ["unclassified"])
+                reference = {
+                    "article": article, "archive": catalog[archive_id], "title": row["title"],
+                    "articleCheckedUtc": row["checked"], "publisherProfiles": sorted(profiles),
+                    "placement": placement, "catalogMatches": row.get("catalogMatches", []),
+                }
+                references = links.setdefault(url, {})
+                previous = references.get(key)
+                if not previous or reference["articleCheckedUtc"] > previous["articleCheckedUtc"]:
+                    references[key] = reference
+    candidates = [
+        {"url": url, "inSourceRegistry": url in known_videos,
+         "references": [references[key] for key in sorted(references)]}
+        for url, references in links.items()
+    ]
+    return sorted(candidates, key=lambda row: (
+        row["inSourceRegistry"],
+        not any("article" in ref["placement"] for ref in row["references"]),
+        row["url"],
+    ))
+
+
 def write_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     temp = path.with_suffix(".tmp")
@@ -300,6 +363,7 @@ def main():
     all_pages_read = {canonical(row["finalUrl"]) for key in archives for row in state.get(key, {}).values()
                       if row["status"] == "read"}
     native_candidates = social_candidates(state, archives, catalog)
+    videos = video_candidates(state, archives, catalog)
     summary = {"dayUtc": day.isoformat(), "archives": len(archives),
                "archivesRead": sum(row["status"] == "read" for row in current),
                "profileArchives": sum(bool(profiles) for profiles in archives.values()),
@@ -307,10 +371,12 @@ def main():
                "pagesChecked": len(pages), "pagesRead": len(pages_read),
                "pagesReadToDate": len(all_pages_read),
                "videoLinks": len({link for row in pages for link in row.get("videoLinks", [])}),
+               "videoCandidatesToDate": len(videos),
+               "videosMissingSource": sum(not row["inSourceRegistry"] for row in videos),
                "socialLinks": len({link["url"] for row in pages for link in row.get("socialLinks", [])}),
                "socialLinksToDate": len(native_candidates)}
     write_json(args.state, state)
-    write_json(args.out, {**summary, "results": current, "socialCandidates": native_candidates})
+    write_json(args.out, {**summary, "results": current, "socialCandidates": native_candidates, "videoCandidates": videos})
     print(json.dumps(summary, ensure_ascii=False))
 
 

@@ -158,6 +158,9 @@
   "central-bosque-quemado-5": {
     "photos": [
       "atlas-turri-volcano-cone"
+    ],
+    "videos": [
+      "film-central-bosque-quemado-charlie"
     ]
   },
   "central-la-tiendilla-7": {
@@ -194,11 +197,17 @@
   "chirripo": {
     "photos": [
       "atlas-chirripo-valley-arch"
+    ],
+    "videos": [
+      "film-chirripo-roulette-travel-summit"
     ]
   },
   "chirripo-3": {
     "photos": [
       "atlas-chirripo-valley-arch"
+    ],
+    "videos": [
+      "film-chirripo-roulette-travel-summit"
     ]
   },
   "chirripo-herradura": {
@@ -772,6 +781,9 @@
     ],
     "photos": [
       "roca-bruja-naranjo-commons"
+    ],
+    "videos": [
+      "film-santa-rosa-ed-leahy-road"
     ]
   },
   "naranjo-camp": {
@@ -780,6 +792,9 @@
     ],
     "photos": [
       "roca-bruja-naranjo-commons"
+    ],
+    "videos": [
+      "film-santa-rosa-ed-leahy-road"
     ]
   },
   "naranjo-surf": {
@@ -867,12 +882,18 @@
     ],
     "photos": [
       "pacuare-rafting-river-commons"
+    ],
+    "videos": [
+      "film-poc-dos-montanas-2024"
     ]
   },
   "pacuare-own-craft": {
     "galleries": [
       "poc-rent",
       "pacuare-whitewater"
+    ],
+    "videos": [
+      "film-poc-dos-montanas-2024"
     ]
   },
   "pacuare-weekend": {
@@ -882,7 +903,8 @@
       "media-pacuare-rafting-commons"
     ],
     "videos": [
-      "poc-rio-vista-room-film"
+      "poc-rio-vista-room-film",
+      "film-poc-dos-montanas-2024"
     ],
     "photos": [
       "pacuare-rafting-river-commons"
@@ -1161,6 +1183,9 @@
   "sarapiqui-raft": {
     "photos": [
       "atlas-sarapiqui-river"
+    ],
+    "videos": [
+      "film-sarapiqui-arenal-rafting-iv"
     ]
   },
   "savegre": {
@@ -1263,7 +1288,8 @@
       "atlas-tortuguero-river"
     ],
     "videos": [
-      "media-tortuguero-film"
+      "media-tortuguero-film",
+      "film-tortuguero-ronny-lupita-canoe"
     ],
     "galleries": [
       "tortuguero-acto-sectors"
@@ -1274,7 +1300,8 @@
       "atlas-tortuguero-river"
     ],
     "videos": [
-      "media-tortuguero-film"
+      "media-tortuguero-film",
+      "film-tortuguero-ronny-lupita-canoe"
     ]
   },
   "tortuguero-no-car": {
@@ -1283,7 +1310,8 @@
       "atlas-tortuguero-village"
     ],
     "videos": [
-      "media-tortuguero-film"
+      "media-tortuguero-film",
+      "film-tortuguero-ronny-lupita-canoe"
     ],
     "galleries": [
       "tortuguero-acto-sectors"
@@ -1316,6 +1344,9 @@
     "galleries": [
       "poc-rent",
       "avesol"
+    ],
+    "videos": [
+      "film-pejibaye-poc-packraft"
     ]
   },
   "uvita-colonia-surf": {
@@ -1334,6 +1365,99 @@
   "vista-suenos": {
     "galleries": [
       "herradura-adventure-faq"
+    ]
+  },
+  "pejibaye-pack": {
+    "videos": [
+      "film-pejibaye-poc-packraft",
+      "film-pejibaye-alan-kayak"
+    ]
+  },
+  "pejibaye-school-own-packraft": {
+    "videos": [
+      "film-pejibaye-poc-packraft",
+      "film-pejibaye-alan-kayak"
+    ]
+  },
+  "atirro-pejibaye-paddle-2": {
+    "videos": [
+      "film-pejibaye-poc-packraft"
+    ]
+  },
+  "tortuguero-pacuare-roots-3": {
+    "videos": [
+      "film-tortuguero-ronny-lupita-canoe",
+      "film-poc-dos-montanas-2024"
+    ]
+  },
+  "pacuare-rio-vista-raft-zip-3": {
+    "videos": [
+      "film-poc-dos-montanas-2024",
+      "film-poc-rio-vista-zipline",
+      "film-poc-rio-vista-natural-pools"
+    ]
+  },
+  "catalinas-bike": {
+    "videos": [
+      "film-catalinas-pura-vida-ride-trails",
+      "film-catalinas-jason-mtb"
+    ]
+  },
+  "catalinas-emtb-12": {
+    "videos": [
+      "film-catalinas-pura-vida-ride-trails"
+    ]
+  },
+  "catalinas-mtb-25": {
+    "videos": [
+      "film-catalinas-pura-vida-ride-trails"
+    ]
+  },
+  "week-4x4-mtb": {
+    "videos": [
+      "film-catalinas-pura-vida-ride-trails",
+      "film-santa-rosa-ed-leahy-road"
+    ]
+  },
+  "aserri-san-gabriel-dragon-emtb-56": {
+    "videos": [
+      "film-aserri-dragon-san-gabriel"
+    ]
+  },
+  "nosara-emtb-hills-halfday": {
+    "videos": [
+      "ebike-nosara-gopro"
+    ]
+  },
+  "la-central-rooftop-camp": {
+    "videos": [
+      "film-central-camp-sensationalescapes"
+    ]
+  },
+  "la-central-overland-weekend-2": {
+    "videos": [
+      "film-central-camp-sensationalescapes",
+      "film-central-bosque-quemado-charlie"
+    ]
+  },
+  "poas-caprina-roof-camp": {
+    "videos": [
+      "film-caprina-teletica"
+    ]
+  },
+  "poza-blanca-roof": {
+    "videos": [
+      "film-poza-machuca-camp-report"
+    ]
+  },
+  "cuajiniquil-la-cruz-inshore-fishing": {
+    "videos": [
+      "film-cuajiniquil-local-fishing-2021"
+    ]
+  },
+  "bijagual-tulin-gravel-day": {
+    "videos": [
+      "film-tourcitos-tulin-puriscal-2026"
     ]
   }
 }

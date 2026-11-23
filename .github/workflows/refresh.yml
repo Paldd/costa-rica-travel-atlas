@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 14 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/refresh.py
+      - scripts/review_publisher_archives.py
+      - .github/workflows/refresh.yml
 
 permissions:
   contents: read
