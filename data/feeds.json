@@ -2537,5 +2537,32 @@
       "/frequently-asked-questions/visiting-the-sanctuary",
       "/about-us"
     ]
+  },
+  {
+    "name": "Río Perdido · проживание и условия доступа",
+    "url": "https://www.rioperdido.com/accommodations",
+    "review": "rio-perdido-lodging-owner",
+    "paths": [
+      "/accommodations",
+      "/terms-and-conditions",
+      "/amenities"
+    ],
+    "exactPaths": [
+      "/accommodations",
+      "/terms-and-conditions",
+      "/amenities"
+    ]
+  },
+  {
+    "name": "Dinoland · программы, возраст и погода",
+    "url": "https://dinolandcostarica.com/actividades/",
+    "paths": [
+      "/actividades",
+      "/preguntas-mas-frecuentes"
+    ],
+    "exactPaths": [
+      "/actividades",
+      "/preguntas-mas-frecuentes"
+    ]
   }
 ]

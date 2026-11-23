@@ -1,0 +1,76 @@
+[
+  {
+    "id": "bajos-tesoro-dinoland-roof-2",
+    "kind": "trip",
+    "region": "central",
+    "title": "Бахос-дель-Торо · водопад, крышная палатка и Диноленд за два дня",
+    "native": "Tesoro Escondido · Mirador La Gota · Dinoland · Tobogán Pura Vida",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "rooftent",
+      "camping",
+      "hiking",
+      "waterfall",
+      "views",
+      "dry-slide"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "tesoro-reservas-owner",
+      "tesoro-rooftent-camp-guide",
+      "tesoro-vamos-field",
+      "dino-tobogan-owner",
+      "dino-activities"
+    ],
+    "summary": "Ночёвка на горной финке у водопада, короткий поход и второй день в Dinoland с горкой по возрасту и погоде.",
+    "plan": "В первый день пройдите к водопаду и поставьте палатку у Тесоро. Утром переезжайте к Dinoland. Для семей с разными возрастами удобно разделить время между горкой и сухой прогулкой.",
+    "conditions": "Место под машину согласуется заранее. Горка от 6 лет и 1,10 м, по брони. Во вторник Dinoland закрыт по опубликованному расписанию. После сильного дождя у воды сверяйте открытие участков.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Водопад, Ла-Гота и ночь в лагере",
+        "note": "От парковки Тесоро выберите короткий путь к каскаду. Если сухо, добавьте смотровую. Поставьте палатку засветло.",
+        "stops": [
+          "bajos-tesoro-escondido-hike-3",
+          "bajos-tesoro-rooftent-camp"
+        ],
+        "sources": [
+          "tesoro-reservas-owner",
+          "tesoro-vamos-field",
+          "tesoro-rooftent-camp-guide"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Диноленд и горка по записи",
+        "note": "Уточните работу горки и требуемый рост у кассы. Для маленьких детей оставьте смотровую и наземную зону. Перед подъёмом к машине осмотрите водопад Рио-Агрио с тропы.",
+        "stops": [
+          "dinoland-rio-agrio",
+          "dinoland-pura-vida-dry-slide"
+        ],
+        "sources": [
+          "dino-tobogan-owner",
+          "dino-activities"
+        ]
+      }
+    ]
+  }
+]

@@ -49,12 +49,14 @@
         "title": "Заезд и термальная река",
         "note": "Запросите состояние подъезда перед выездом. Заберите схему территории и уточните режим доступа к купелям и наземным дорожкам.",
         "stops": [
-          "rio-perdido-las-tumbas-hike"
+          "rio-perdido-las-tumbas-hike",
+          "rio-perdido-west-bungalow-thermal"
         ],
         "sources": [
           "rio-perdido-access-road-route",
           "rio-perdido-hot-river",
-          "rio-perdido-three-day-owner"
+          "rio-perdido-three-day-owner",
+          "rio-perdido-lodging-owner"
         ]
       },
       {
@@ -74,14 +76,18 @@
       {
         "day": 3,
         "title": "Утренний Río Blanco на велосипеде",
-        "note": "Согласуйте первый круг с проводником и время возврата перед выездом. Для приезда со своим лёгким e-MTB уточните актуальный допуск. При мокром покрытии выберите прогулку по согласованной тропе.",
+        "note": "Согласуйте первый круг с проводником и время возврата перед выездом. Для приезда со своим лёгким e-MTB уточните актуальный допуск. При мокром покрытии выберите прогулку по согласованной тропе. Для короткого выхода рассмотрите тропу к Юрро. После обязательного первого велокруга спросите про 4,5 км Rocas.",
         "stops": [
           "rio-perdido-blanco-mtb-4",
-          "rio-perdido-las-tumbas-hike"
+          "rio-perdido-las-tumbas-hike",
+          "rio-perdido-yurro-waterfall-walk",
+          "rio-perdido-rocas-mtb-45"
         ],
         "sources": [
           "rio-perdido-mtb-owner",
-          "rio-perdido-hiking-owner"
+          "rio-perdido-hiking-owner",
+          "rio-perdido-amenities-owner",
+          "rio-perdido-property-map"
         ]
       }
     ]

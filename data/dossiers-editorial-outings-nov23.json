@@ -1,0 +1,587 @@
+{
+  "baron-el-encanto-falls-07": {
+    "stops": [
+      {
+        "point": "encanto-baron-entry",
+        "role": "Парковка, оплата и начало лестницы",
+        "note": "Ориентир ресторана у ворот. Согласуйте вход и время возврата."
+      },
+      {
+        "point": "encanto-paires-falls",
+        "role": "Водопад на Río Paires",
+        "note": "Точка природного объекта, подход со стороны лестницы хозяйства."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что ждёт на короткой тропе",
+        "text": "По отчёту местного автора, на перепаде около 185 ступеней. На середине спуска есть видовая площадка, у реки последние метры проходят по камням. Для спокойного выезда достаточно дойти до смотровой.",
+        "sources": [
+          "esparza-encanto-vamos-field",
+          "esparza-encanto-qbl-field",
+          "esparza-encanto-two-weeks"
+        ]
+      },
+      {
+        "title": "Сезон и открытие",
+        "text": "По опыту авторов, в начале сухого сезона вода ещё держится. В засуху водопад может исчезнуть, а после сильных дождей участок закрывают. Сведения о точных месяцах у источников расходятся. Перепроверьте утром и не спускайтесь к потоку при подъёме воды.",
+        "sources": [
+          "esparza-encanto-utn",
+          "esparza-encanto-two-weeks",
+          "esparza-encanto-qbl-field"
+        ]
+      },
+      {
+        "title": "Парковка, пикник и еда",
+        "text": "На входе есть парковка и туалеты. Ресторан у ворот работал не каждый день в отчёте 2025 года. Позвоните по дороге, если планируете обед или приезжаете с собакой.",
+        "sources": [
+          "esparza-encanto-two-weeks",
+          "esparza-encanto-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Encanto · телефон хозяев",
+        "source": "esparza-encanto-contact",
+        "note": "Состояние лестницы, работа ресторана и открытие после дождя.",
+        "phone": "+506 8568 6061",
+        "whatsapp": "https://wa.me/50685686061"
+      }
+    ],
+    "galleries": [
+      "esparza-encanto-qbl-field",
+      "esparza-encanto-two-weeks",
+      "esparza-encanto-vamos-field"
+    ],
+    "videos": [
+      "esparza-encanto-film",
+      "esparza-encanto-alt-film"
+    ],
+    "nearby": [
+      "piedra-fuego-esparza-local-trails",
+      "piedra-fuego-tecolote-10",
+      "esparza-diablo-penas-blancas-ebike-42"
+    ]
+  },
+  "cahuita-playa-negra-malu-pozas": {
+    "stops": [
+      {
+        "point": "cahuita-malu-bungalows-reference",
+        "role": "Malú · ориентир со стороны дороги",
+        "note": "Короткий подход по общедоступному берегу описан у авторов. Через частную территорию отеля пройти можно только с разрешением."
+      },
+      {
+        "point": "cahuita-malu-shore-road",
+        "role": "Граница дороги и берега",
+        "note": "Точка обозначает подход. На карте этого участка нет привязки к отдельной чаше."
+      },
+      {
+        "point": "camping-maria-cahuita-pitch",
+        "role": "Кемпинг María · соседний вариант ночёвки",
+        "note": "Свяжитесь с хозяевами по карточке кемпинга, если хотите остаться с машиной и палаткой."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Где искать подход",
+        "text": "В обоих местных отчётах ориентиром служит Bungalows Malú в Кауите. По заметке ICT, до воды идут около пяти минут от района дороги. Береговые фото передают характер скального участка.",
+        "sources": [
+          "cahuita-malu-pozas-vamos",
+          "cahuita-malu-pozas-local",
+          "cahuita-malu-zmt"
+        ]
+      },
+      {
+        "title": "Прилив и состояние моря",
+        "text": "Смотрите на прибой с суши. Волны могут переливаться через кромку чаш. С детьми выбирайте спокойную прогулку и береговой пикник, если вода подходит к краю камней. В национальном парке вход Kelly Creek находится отдельно.",
+        "sources": [
+          "cahuita-malu-drone-film",
+          "cahuita-malu-pozas-vamos",
+          "cahuita-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SINAC · контакты сектора Cahuita",
+        "source": "cahuita-current-entry",
+        "note": "Для похода в сам национальный парк уточните вход и состояние береговой тропы. Доступ к чашам описывают в местных отчётах."
+      }
+    ],
+    "galleries": [
+      "cahuita-malu-pozas-vamos",
+      "cahuita-malu-pozas-local"
+    ],
+    "videos": [
+      "cahuita-malu-drone-film",
+      "cahuita-malu-author-short"
+    ],
+    "nearby": [
+      "maria-cahuita-roof",
+      "cahuita-trail",
+      "cahuita-playa-negra-vargas-ebike"
+    ]
+  },
+  "bajos-tesoro-escondido-hike-3": {
+    "stops": [
+      {
+        "point": "tesoro-708-parking",
+        "role": "Парковка и вход с Ruta 708",
+        "note": "Владельцы укажут кассу, тент или место под машину и путь к водопаду."
+      },
+      {
+        "point": "tesoro-708-walk-start",
+        "role": "Начало картографической линии",
+        "note": "Старт у дороги. Порядок прохода по частной финке подтверждают у хозяев."
+      },
+      {
+        "point": "tesoro-trail-junction",
+        "role": "Развилка в пешей части",
+        "note": "Здесь заканчивается линия OpenStreetMap. Дальше следуйте местным указателям."
+      },
+      {
+        "point": "tesoro-falls",
+        "role": "Водопад Тесоро-Эскондидо",
+        "note": "Точка каскада. Вариант последнего подхода выбирают по указателям и состоянию реки."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Короткая и длинная прогулки",
+        "text": "Vamos a Turistear даёт около 3 км туда-обратно. В путеводителе ICT около 5 км, а запись Андреса Эрнандеса даёт 5,33 км с дополнительными остановками. На входе попросите нанести самый короткий открытый вариант на схему.",
+        "sources": [
+          "tesoro-vamos-field",
+          "dino-ict",
+          "tesoro-track-hernandez"
+        ]
+      },
+      {
+        "title": "Каскад, речные чаши и смотровая",
+        "text": "Оставьте подъём на Ла-Гота на конец, если группа хочет сначала сходить к каскаду. Дорога к воде проходит по естественному грунту и ступеням. Из-за грязи и холодной воды нужна сменная одежда.",
+        "sources": [
+          "tesoro-vamos-field",
+          "tesoro-mirador-local-report",
+          "tesoro-qbl-field"
+        ]
+      },
+      {
+        "title": "Билет и питание",
+        "text": "На форме владельца есть пакеты с отдельным питанием. Запросите время визита и открытые сейчас зоны по WhatsApp. Карта атласа показывает начальную тропу, а варианты продолжения видны в отчёте участника.",
+        "sources": [
+          "tesoro-reservas-owner",
+          "tesoro-osm-trail",
+          "tesoro-track-hernandez"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tesoro Escondido · бронь и условия подхода",
+        "source": "tesoro-reservas-owner",
+        "note": "Выберите пакет и уточните открытые тропы, цену ночёвки, состояние подъезда и место для машины.",
+        "phone": "+506 8896 8017",
+        "whatsapp": "https://wa.me/50688968017"
+      }
+    ],
+    "galleries": [
+      "tesoro-vamos-field",
+      "tesoro-qbl-field",
+      "tesoro-track-hernandez"
+    ],
+    "videos": [
+      "tesoro-qbl-film"
+    ],
+    "nearby": [
+      "bajos-tesoro-rooftent-camp",
+      "dinoland-rio-agrio",
+      "blue-falls-toro"
+    ],
+    "line": "tesoro-walk-first-osm",
+    "track": "tesoro-track-hernandez"
+  },
+  "bajos-tesoro-rooftent-camp": {
+    "stops": [
+      {
+        "point": "tesoro-708-parking",
+        "role": "Парковка и вход с Ruta 708",
+        "note": "Владельцы укажут кассу, тент или место под машину и путь к водопаду."
+      },
+      {
+        "point": "tesoro-708-walk-start",
+        "role": "Начало картографической линии",
+        "note": "Старт у дороги. Порядок прохода по частной финке подтверждают у хозяев."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Место для машины и палатки",
+        "text": "Camping Guide описывает открытое поле и три формата лагеря, включая крышные палатки. Через официальный контакт согласуйте въезд, уклон площадки, габариты и возможность поставить машину у отведённого участка.",
+        "sources": [
+          "tesoro-rooftent-camp-guide",
+          "tesoro-reservas-owner"
+        ]
+      },
+      {
+        "title": "Цена и услуги",
+        "text": "На форме владельца указано ₡3 000 за человека за ночь в дополнение к пакету посещения. Путеводители упоминают душ и туалет. Перед записью узнайте, что входит в тариф вашей даты, есть ли питьевая вода и требуется ли оплата отдельно за парковку.",
+        "sources": [
+          "tesoro-reservas-owner",
+          "tesoro-sensorial-late2026",
+          "tesoro-rooftent-camp-guide"
+        ]
+      },
+      {
+        "title": "Туман, спуск и ночное снаряжение",
+        "text": "На подходе в долину встречаются крутые изгибы и туман. Выберите въезд с хозяевами, особенно после дождя. Для ночи пригодятся тёплый слой, влагозащита, фонарь и коврик у лестницы. Спросите отдельно, где допускают огонь.",
+        "sources": [
+          "tesoro-rooftent-camp-guide",
+          "tesoro-waze-parking",
+          "tesoro-sensorial-late2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tesoro Escondido · бронь и условия подхода",
+        "source": "tesoro-reservas-owner",
+        "note": "Выберите пакет и уточните открытые тропы, цену ночёвки, состояние подъезда и место для машины.",
+        "phone": "+506 8896 8017",
+        "whatsapp": "https://wa.me/50688968017"
+      }
+    ],
+    "galleries": [
+      "tesoro-rooftent-camp-guide",
+      "tesoro-vamos-field"
+    ],
+    "videos": [
+      "tesoro-qbl-film"
+    ],
+    "nearby": [
+      "bajos-tesoro-escondido-hike-3",
+      "dinoland-pura-vida-dry-slide",
+      "bajos-tesoro-dinoland-roof-2"
+    ]
+  },
+  "dinoland-pura-vida-dry-slide": {
+    "stops": [
+      {
+        "point": "rio-agrio-dino-entry",
+        "role": "Вход и касса Dinoland",
+        "note": "Точную точку старта горки укажут сотрудники после регистрации."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Сухой спуск Pura Vida",
+        "text": "Сайт Dinoland указывает длину от 195 м и два спуска на человека. Требуется бронирование. Дети с 6 лет должны быть ростом от 1,10 м. В правилах также перечислены ограничения для людей с проблемами сердца, позвоночника и подвижности.",
+        "sources": [
+          "dino-tobogan-owner",
+          "dino-tobogan-tvn-film"
+        ]
+      },
+      {
+        "title": "Порядок и запасной план",
+        "text": "На площадке выдают шлем. Следуйте инструкциям сотрудника и дождитесь своей очереди. При грозе или сильном ветре горка может закрыться. На сайте указано, что во вторник парк закрыт.",
+        "sources": [
+          "dino-tobogan-owner",
+          "dino-activities"
+        ]
+      },
+      {
+        "title": "Пакет на день",
+        "text": "Действующая страница показывает ₡11 000 за взрослый и ₡8 000 за детский комплект с горкой. Базовый комплект со смотровой и водопадом указан отдельно. У водопада Рио-Агрио прохождение ограничивается осмотром.",
+        "sources": [
+          "dino-tobogan-owner",
+          "dino-activities"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Dinoland · запись на горку Pura Vida",
+        "source": "dino-tobogan-owner",
+        "note": "Попросите подтвердить сеанс, рост участников и работу горки по погоде.",
+        "phone": "+506 8887 0310",
+        "whatsapp": "https://wa.me/50688870310",
+        "email": "info@dinolandcostarica.com"
+      }
+    ],
+    "galleries": [
+      "dino-tobogan-owner",
+      "dino-activities"
+    ],
+    "videos": [
+      "dino-tobogan-tvn-film",
+      "dino-tobogan-guest-film"
+    ],
+    "nearby": [
+      "dinoland-rio-agrio",
+      "bajos-tesoro-rooftent-camp",
+      "bajos-tesoro-dinoland-roof-2"
+    ]
+  },
+  "rio-perdido-west-bungalow-thermal": {
+    "stops": [
+      {
+        "point": "rio-perdido-lodge-pin",
+        "role": "База и рецепция Río Perdido",
+        "note": "Отсюда сверяют размещение по схеме, место встречи с гидом и границы доступа."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что есть в West",
+        "text": "По описанию владельца, под крышей около 88 м², внутри около 55 м². Одна терраса выходит в лес. На другой есть двойной открытый душ и отдельная ванна с термальной водой. Фото и ролик показывают конфигурацию West.",
+        "sources": [
+          "rio-perdido-lodging-owner",
+          "rio-perdido-west-owner-film",
+          "fb-rio-perdido-west-original"
+        ]
+      },
+      {
+        "title": "Ночь и дневной вход",
+        "text": "У отеля опубликован порог 8 лет. Для проживающих есть парковка и завтрак по условиям отеля. Кандидатам на отдельный день понадобится заранее подтверждённый Day Pass. Особые запросы по передвижению обсуждайте при записи.",
+        "sources": [
+          "rio-perdido-terms-owner",
+          "rio-perdido-lodging-owner"
+        ]
+      },
+      {
+        "title": "Чем дополнить поездку",
+        "text": "Бронь конкретной активности проверяйте отдельно. Рядом есть короткая тропа Юрро, термальная река, маршруты MTB и более сложные водные программы.",
+        "sources": [
+          "rio-perdido-amenities-owner",
+          "rio-perdido-mtb-owner",
+          "rio-perdido-tubing-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Río Perdido · размещение в West Bungalows",
+        "source": "rio-perdido-terms-owner",
+        "note": "Категория бунгало, число гостей, условия заезда и подтверждение по почте.",
+        "email": "reservations@rioperdido.com",
+        "url": "https://www.rioperdido.com/accommodations"
+      },
+      {
+        "name": "Río Perdido · Day Pass и запись на активности",
+        "source": "rio-perdido-terms-owner",
+        "note": "Запись на дневное посещение, часы и условия доступа к тропам.",
+        "email": "info@rioperdido.com"
+      }
+    ],
+    "galleries": [
+      "rio-perdido-lodging-owner",
+      "fb-rio-perdido-west-original"
+    ],
+    "videos": [
+      "rio-perdido-west-owner-film"
+    ],
+    "nearby": [
+      "rio-perdido-yurro-waterfall-walk",
+      "rio-perdido-rocas-mtb-45",
+      "rio-perdido-ziplines-hot-river-3"
+    ],
+    "track": "rio-perdido-property-map",
+    "accessNotice": {
+      "title": "Проживание с 8 лет",
+      "text": "Для ночёвки отель принимает детей с 8 лет. Дневной визит и условия для семьи согласуйте с командой заранее.",
+      "sources": [
+        "rio-perdido-terms-owner"
+      ]
+    }
+  },
+  "rio-perdido-yurro-waterfall-walk": {
+    "stops": [
+      {
+        "point": "rio-perdido-lodge-pin",
+        "role": "База и рецепция Río Perdido",
+        "note": "Отсюда сверяют размещение по схеме, место встречи с гидом и границы доступа."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Мост и каскад",
+        "text": "По сайту владельца, короткая прогулка проходит по относительно ровному участку, пересекает подвесной мост и ведёт к верхней части водопада Юрро. На внутренней схеме подписаны водопад, термальная река и отдельный следующий источник.",
+        "sources": [
+          "rio-perdido-amenities-owner",
+          "rio-perdido-property-map"
+        ]
+      },
+      {
+        "title": "Больше времени в лесу",
+        "text": "Уточните на базе, доступно ли продолжение к Carbonatadas. Альтернатива по жаре или дождю зависит от условий заповедника. Для выезда без проживания оформляется дневной визит заранее.",
+        "sources": [
+          "rio-perdido-hiking-owner",
+          "rio-perdido-terms-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Río Perdido · Day Pass и запись на активности",
+        "source": "rio-perdido-terms-owner",
+        "note": "Запись на дневное посещение, часы и условия доступа к тропам.",
+        "email": "info@rioperdido.com"
+      }
+    ],
+    "galleries": [
+      "rio-perdido-amenities-owner",
+      "rio-perdido-ict-directory"
+    ],
+    "videos": [
+      "rio-perdido-activity-film"
+    ],
+    "nearby": [
+      "rio-perdido-west-bungalow-thermal",
+      "rio-perdido-las-tumbas-hike",
+      "rio-perdido-ziplines-hot-river-3"
+    ],
+    "track": "rio-perdido-property-map"
+  },
+  "rio-perdido-rocas-mtb-45": {
+    "stops": [
+      {
+        "point": "rio-perdido-lodge-pin",
+        "role": "База и рецепция Río Perdido",
+        "note": "Отсюда сверяют размещение по схеме, место встречи с гидом и границы доступа."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Дистанция Rocas и вводный круг",
+        "text": "На карте объекта Rocas отмечен как средний маршрут длиной 4,5 км. Для первого визита сначала проходят Río Blanco. Оператор предлагает маршруты с гидом на 1–3 часа.",
+        "sources": [
+          "rio-perdido-property-map",
+          "rio-perdido-mtb-owner"
+        ]
+      },
+      {
+        "title": "Покрытие, прокат и собственный велосипед",
+        "text": "Каменные плиты и короткие неровности требуют уверенного торможения, особенно после дождя. Спросите про размер прокатного MTB, шлем, прокол, допуск e‑MTB и условия самостоятельной поездки после первого круга.",
+        "sources": [
+          "rio-perdido-mtb-owner",
+          "rio-perdido-mtb-trailforks",
+          "rio-perdido-terms-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Río Perdido · Day Pass и запись на активности",
+        "source": "rio-perdido-terms-owner",
+        "note": "Запись на дневное посещение, часы и условия доступа к тропам.",
+        "email": "info@rioperdido.com"
+      }
+    ],
+    "galleries": [
+      "rio-perdido-mtb-owner",
+      "rio-perdido-mtb-trailforks"
+    ],
+    "videos": [
+      "rio-perdido-mtb-film"
+    ],
+    "nearby": [
+      "rio-perdido-blanco-mtb-4",
+      "rio-perdido-west-bungalow-thermal",
+      "rio-perdido-ziplines-hot-river-3"
+    ],
+    "track": "rio-perdido-property-map"
+  },
+  "bajos-tesoro-dinoland-roof-2": {
+    "stops": [
+      {
+        "point": "tesoro-708-parking",
+        "role": "Парковка и вход с Ruta 708",
+        "note": "Владельцы укажут кассу, тент или место под машину и путь к водопаду."
+      },
+      {
+        "point": "tesoro-708-walk-start",
+        "role": "Начало картографической линии",
+        "note": "Старт у дороги. Порядок прохода по частной финке подтверждают у хозяев."
+      },
+      {
+        "point": "tesoro-trail-junction",
+        "role": "Развилка в пешей части",
+        "note": "Здесь заканчивается линия OpenStreetMap. Дальше следуйте местным указателям."
+      },
+      {
+        "point": "tesoro-falls",
+        "role": "Водопад Тесоро-Эскондидо",
+        "note": "Точка каскада. Вариант последнего подхода выбирают по указателям и состоянию реки."
+      },
+      {
+        "point": "dinoland-ruta708-road",
+        "role": "Конец дорожного перегона",
+        "note": "Точка на Ruta 708 у парковки. Въезд в парк находится рядом."
+      },
+      {
+        "point": "rio-agrio-dino-entry",
+        "role": "Вход и касса Dinoland",
+        "note": "Точную точку старта горки укажут сотрудники после регистрации."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Две записи перед поездкой",
+        "text": "В форме Тесоро выбирают пакет посещения и доплату за ночёвку. Через WhatsApp у Dinoland бронируют горку и проверяют размер группы. Для поездки на выходные договоритесь заранее.",
+        "sources": [
+          "tesoro-reservas-owner",
+          "dino-tobogan-owner"
+        ]
+      },
+      {
+        "title": "Погода и план с младшими",
+        "text": "Если поднимается вода на финке, сократите пешую часть до доступной смотровой. При грозе уточните работу горки. Возьмите сухую смену, тёплый слой для ночи и закрытую обувь у воды.",
+        "sources": [
+          "tesoro-vamos-field",
+          "tesoro-rooftent-camp-guide",
+          "dino-tobogan-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Tesoro Escondido · бронь и условия подхода",
+        "source": "tesoro-reservas-owner",
+        "note": "Выберите пакет и уточните открытые тропы, цену ночёвки, состояние подъезда и место для машины.",
+        "phone": "+506 8896 8017",
+        "whatsapp": "https://wa.me/50688968017"
+      },
+      {
+        "name": "Dinoland · запись на горку Pura Vida",
+        "source": "dino-tobogan-owner",
+        "note": "Попросите подтвердить сеанс, рост участников и работу горки по погоде.",
+        "phone": "+506 8887 0310",
+        "whatsapp": "https://wa.me/50688870310",
+        "email": "info@dinolandcostarica.com"
+      }
+    ],
+    "galleries": [
+      "tesoro-rooftent-camp-guide",
+      "dino-activities"
+    ],
+    "videos": [
+      "tesoro-qbl-film",
+      "dino-tobogan-tvn-film"
+    ],
+    "nearby": [
+      "bajos-tesoro-escondido-hike-3",
+      "bajos-tesoro-rooftent-camp",
+      "dinoland-pura-vida-dry-slide",
+      "blue-falls-toro"
+    ],
+    "line": "tesoro-dinoland-two-day-map"
+  }
+}

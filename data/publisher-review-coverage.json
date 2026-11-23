@@ -1,5 +1,5 @@
 {
-  "archives": 121,
+  "archives": 122,
   "archivesRead": 117,
   "bySource": {
     "aguas-claras-activity-index": {
@@ -306,7 +306,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": 1,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-22",
@@ -314,7 +314,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": 1
+      "read": null
     },
     "catalina-pcdc-tours-library": {
       "indexed": 13,
@@ -1499,37 +1499,67 @@
         {
           "checked": "2026-11-23",
           "published": "2022-04-26",
-          "readThisRun": true,
           "title": "Identifican a hombre que murió ahogado en playa Manuel Antonio",
           "url": "https://adondeircr.com/puntarenas/identifican-a-hombre-que-murio-ahogado-en-playa-manuel-antonio/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-04-20",
-          "readThisRun": true,
           "title": "Nunca antes visto en el país: Galería de Van Gogh llegará a Costa Rica",
           "url": "https://adondeircr.com/san-jose/nunca-antes-visto-en-el-pais-galeria-de-van-gogh-llegara-a-costa-rica/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-04-07",
-          "readThisRun": true,
           "title": "Los 4 hábitos alimenticios que dañan la salud en la edad adulta",
           "url": "https://adondeircr.com/san-jose/los-4-habitos-alimenticios-que-danan-la-salud-en-la-edad-adulta/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-04-05",
-          "readThisRun": true,
           "title": "Costa Rica le empieza a ganar la batalla al Covid-19",
           "url": "https://adondeircr.com/heredia/costa-rica-le-empieza-a-ganar-la-batalla-al-covid-19/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-03-28",
-          "readThisRun": true,
           "title": "Danta Totó y el resto de animales viven en medio de ratas en el zoológico Simón Bolívar",
           "url": "https://adondeircr.com/san-jose/danta-toto-y-el-resto-de-animales-viven-en-medio-de-ratas-en-el-zoologico-simon-bolivar/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-03-16",
+          "readThisRun": true,
+          "title": "(Video) ¡Qué belleza! Turista graba un jaguar dentro del Parque Nacional Santa Rosa",
+          "url": "https://adondeircr.com/guanacaste/video-que-belleza-turista-graba-un-jaguar-dentro-del-parque-nacional-santa-rosa/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2021-06-03",
+          "readThisRun": true,
+          "title": "(Video)Keylor Navas invita a todos los aficionados del PSG a que visiten Costa Rica",
+          "url": "https://adondeircr.com/guanacaste/videokeylor-navas-invita-a-todos-los-aficionados-del-psg-a-que-visiten-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2021-05-19",
+          "readThisRun": true,
+          "title": "Atención: Así funcionará la nueva restricción por placas par e impar durante los próximos 12 días",
+          "url": "https://adondeircr.com/heredia/atencion-asi-funcionara-la-nueva-restriccion-por-placas-par-e-impar-durante-los-proximos-12-dias/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2021-02-23",
+          "readThisRun": true,
+          "title": "¿Pagaría ₡16 mil por un casado?",
+          "url": "https://adondeircr.com/guanacaste/pagaria-%e2%82%a116-mil-por-un-casado/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-11-26",
+          "readThisRun": true,
+          "title": "Viví la experiencia de Río Celeste",
+          "url": "https://adondeircr.com/guanacaste/vivi-la-experiencia-de-rio-celeste/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -1832,7 +1862,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 95
+      "read": 100
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
@@ -3113,7 +3143,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Punta Leona se opone a iniciativa para legalizar cautiverio de las lapas – Revista Puntaleona – La Leona",
           "url": "https://revistapuntaleona.com/punta-leona-se-opone-a-iniciativa-para-legalizar-cautiverio-de-las-lapas/"
         },
@@ -3124,13 +3153,11 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Punta Leona impulsa y lidera el turismo regenerativo en el Pacífico Central de Costa Rica – Revista Puntaleona – La Leona",
           "url": "https://revistapuntaleona.com/punta-leona-impulsa-y-lidera-el-turismo-regenerativo-en-el-pacifico-central-de-costa-rica/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Punta Leona destaca como el destino líder en turismo regenerativo con doble Bandera Azul – Revista Puntaleona – La Leona",
           "url": "https://revistapuntaleona.com/punta-leona-destaca-como-el-destino-lider-en-turismo-regenerativo-con-doble-bandera-azul/"
         },
@@ -3430,35 +3457,60 @@
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "TNCR - Una casa viva para el país: Teatro Nacional presenta su temporada 2026",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/775/una-casa-viva-para-el-pais:-teatro-nacional-presenta-su-temporada-2026"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "TNCR - Teatro Vargas Calvo presenta 'Sibelius' del reconocido dramaturgo Carlos Catania",
           "url": "https://www.teatronacional.go.cr/Comunicados/detalle/777/teatro-vargas-calvo-presenta-sibelius-del-reconocido-dramaturgo-carlos-catania-"
         },
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "TNCR - Teatro Nacional lleva la complejidad de las relaciones humanas a la sala principal con la obra 'Mi hijo sólo camina un poco más lento'",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/774/teatro-nacional-lleva-la-complejidad-de-las-relaciones-humanas-a-la-sala-principal-con-la-obra-mi-hijo-solo-camina-un-poco-mas-lento--"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "TNCR - Obra un gorila en una jaula de pájaros da una mirada a una familia disfuncional en el Teatro Vargas Calvo",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/772/obra-un-gorila-en-una-jaula-de-pajaros-da-una-mirada-a-una-familia-disfuncional-en-el-teatro-vargas-calvo"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "TNCR - Obra 'Mujercitas Costa Rica' llega a su tercera temporada en el Teatro Nacional",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/771/obra-mujercitas-costa-rica-llega-a-su-tercera-temporada-en-el-teatro-nacional-"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "TNCR - Nuevo estreno 'El Deseo' gira en torno a los tabúes de las relaciones de pareja",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/773/nuevo-estreno-el-deseo-gira-en-torno-a-los-tabues-de-las-relaciones-de-pareja"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "TNCR - Miércoles de literatura, poesía y diálogo continúa durante el 2026 en el Foyer del Teatro Nacional",
           "url": "https://www.teatronacional.go.cr/Comunicados/detalle/776/miercoles-de-literatura,-poesia-y-dialogo-continua-durante-el-2026-en-el-foyer-del-teatro-nacional-"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "TNCR - Historia cobra vida: Ministerio de Cultura celebra 129 años del Teatro Nacional con música, danza, literatura y puertas abiertas",
           "url": "https://www.teatronacional.go.cr/Comunicados/detalle/780/historia-cobra-vida:-ministerio-de-cultura-celebra-129-anos-del-teatro-nacional-con-musica,-danza,-literatura-y-puertas-abiertas"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "TNCR - Detrás de las pantallas: 'Sei6 Cu4rtos' lleva al teatro los desafíos de crecer en un mundo conectado",
           "url": "https://www.teatronacional.go.cr/Comunicados/detalle/778/detras-de-las-pantallas:-sei6-cu4rtos-lleva-al-teatro-los-desafios-de-crecer-en-un-mundo-conectado"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "TNCR - 'Abrazo Fósil': un viaje entre la memoria y la fantasía",
           "url": "https://www.teatronacional.go.cr/Comunicados/detalle/779/abrazo-fosil:-un-viaje-entre-la-memoria-y-la-fantasia"
         }
       ],
-      "read": 5
+      "read": 10
     },
     "publisher-archive-ticosapata-com": {
       "indexed": 67,
@@ -4113,6 +4165,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Un ENCANTO de catarata",
+          "url": "https://vamosaturistear.com/actividades/un-encanto-de-catarata/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Turisteando cerca de Caldera - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/turisteando-cerca-de-caldera/"
         },
@@ -4133,7 +4191,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Río Savegre: el más limpio de Centroamérica y Reserva de la Biosfera - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/rio-savegre-el-mas-limpio-de-centroamerica-y-reserva-de-la-biosfera/"
         },
@@ -4146,6 +4203,12 @@
           "checked": "2026-11-23",
           "title": "Recorré la Isla Uvita en el Caribe",
           "url": "https://vamosaturistear.com/actividades/recorre-la-isla-uvita-en-el-caribe/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Pozas Celestes: Bajos del Toro - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/pozas-celestes-bajos-del-toro/"
         },
         {
           "checked": "2026-11-23",
@@ -4174,7 +4237,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Playa Carrillo: Hojancha Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-carrillo-hojancha-guanacaste/"
         },
@@ -4190,7 +4252,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "La maravillosa Catarata La Fortuna - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/la-maravillosa-catarata-la-fortuna/"
         },
@@ -4256,7 +4317,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Enamorate de la increíble Catarata Del Toro - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/enamorate-de-la-increible-catarata-del-toro/"
         },
@@ -4264,6 +4324,12 @@
           "checked": "2026-11-23",
           "title": "El bosque quemado del Volcán Turrialba - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/el-bosque-quemado-del-volcan-turrialba/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "El Caribe esconde pozas naturales",
+          "url": "https://vamosaturistear.com/actividades/el-caribe-esconde-pozas-naturales/"
         },
         {
           "checked": "2026-11-23",
@@ -4282,6 +4348,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Conocé el parque de dinosaurios en Bajos del Toro - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/conoce-el-parque-de-dinosaurios-en-bajos-del-toro/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Conocé 8 cataratas en un mismo lugar: Colonia de Río Cuarto - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/conoce-8-cataratas-en-un-mismo-lugar-colonia-de-rio-cuarto/"
         },
@@ -4292,12 +4364,17 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Catarata Tesoro Escondido: una joya de Bajos del Toro - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/catarata-tesoro-escondido-una-joya-de-bajos-del-toro/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Catarata Manantial de Agua Viva - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-manantial-de-agua-viva/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Catarata Las Trillizas: Santa Cruz de Turrialba - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-las-trillizas-santa-cruz-de-turrialba/"
         },
@@ -4637,7 +4714,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 112
+      "read": 117
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5502,6 +5579,30 @@
       ],
       "read": 17
     },
+    "sloth-aviarios-owner-tours": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Visiting the Sanctuary",
+          "url": "https://www.slothsanctuary.com/frequently-asked-questions/visiting-the-sanctuary"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Select your tour",
+          "url": "https://www.slothsanctuary.com/sloth-tours"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "ABOUT US",
+          "url": "https://www.slothsanctuary.com/about-us"
+        }
+      ],
+      "read": 3
+    },
     "south-coto-visitor-index": {
       "indexed": 1,
       "pages": [
@@ -5923,8 +6024,8 @@
   },
   "dayUtc": "2026-11-23",
   "history": true,
-  "pagesChecked": 24,
+  "pagesChecked": 23,
   "pagesRead": 18,
-  "pagesReadToDate": 973,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45177536218"
+  "pagesReadToDate": 991,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45185456702"
 }

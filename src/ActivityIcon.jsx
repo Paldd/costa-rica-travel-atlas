@@ -82,6 +82,10 @@ const Canyoning = sportIcon(<>
   <circle cx="15" cy="7" r="1.5" />
 </>);
 
+const DrySlide = sportIcon(<>
+  <path d="M2 21h20M5 21V4h5v3c0 6 4 10 10 10h2v4M3 4h8M6 9h3m-3 4h4m-4 4h6" />
+</>);
+
 const Waterfall = sportIcon(<>
   <path d="M2 6h12l4 4h4M6 7v7m4-7v10m4-8v4m4-2v5M2 21l3-2 3 2 4-2 4 2 3-2 3 2" />
 </>);
@@ -132,6 +136,7 @@ const groups = [
   ["water", Canoe, "canoe"],
   ["water", Scuba, "scuba"],
   ["water", Waves, "tubing", "snorkel", "swim"],
+  ["land", DrySlide, "dry-slide"],
   ["water", Sailboat, "catamaran"],
   ["water", Ship, "boat", "own-craft"],
   ["land", Plane, "scenic-flight"],

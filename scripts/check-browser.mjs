@@ -262,6 +262,22 @@ async function checkViewport(browser, width) {
     assert.equal((pozasGpx.match(/<wpt /g) || []).length, pozas.dossier.stops.length);
     await checkWidth();
 
+    const toro = records.get("bajos-tesoro-dinoland-roof-2");
+    await open("place/" + toro.id);
+    await heading(toro);
+    const toroMap = page.getByRole("region", { name: "Карта маршрута" });
+    const toroStage = toroMap.getByLabel("Участок на карте");
+    await toroStage.selectOption("tesoro-dinoland-drive-osm");
+    const toroGpx = await exportText(toroMap.getByRole("button", { name: "Скачать GPX", exact: true }));
+    assert.equal((toroGpx.match(/<trkseg>/g) || []).length, 1);
+    assert.equal((toroGpx.match(/<trkpt /g) || []).length, atlas.lines["tesoro-dinoland-drive-osm"].coords.length);
+    await page.getByRole("link", { name: "Сухие горки", exact: true }).click();
+    const slides = page.locator(".route-card").filter({
+      has: page.locator('h3 a[href*="place/dinoland-pura-vida-dry-slide"]'),
+    });
+    await slides.locator(".card-activity .activity-land svg").waitFor();
+    await checkWidth();
+
     assert.deepEqual(errors, []);
     const roof = records.get("las-trillizas-roofcamp");
     await open("place/" + roof.id);

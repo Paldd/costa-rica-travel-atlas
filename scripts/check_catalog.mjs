@@ -116,6 +116,21 @@ const caminar = records.find(row => row.id === "suerre-pozas-guacimo-hike-17");
 assert.equal(caminar.dossier.track, "suerre-pozas-hike-field-2026");
 assert(!caminar.dossier.line && !caminar.dossier.connectStops);
 
+const dryOutings = find({ activity: "dry-slide" });
+assert(dryOutings.some(row => row.id === "dinoland-pura-vida-dry-slide" && row.dossier.videos.length >= 2));
+assert(dryOutings.every(row => row.activities.includes("dry-slide")));
+const tesoroWeekend = dryOutings.find(row => row.id === "bajos-tesoro-dinoland-roof-2");
+const tesoroRoute = atlas.lines[tesoroWeekend.dossier.line];
+assert.deepEqual(tesoroRoute.stages, ["tesoro-walk-first-osm", "tesoro-dinoland-drive-osm"]);
+for (const id of tesoroRoute.stages) {
+  const part = atlas.lines[id];
+  const [start, finish] = part.points.map(point => tesoroWeekend.dossier.stops.find(stop => stop.point === point));
+  assert.deepEqual(part.coords[0], start.coords, id);
+  assert.deepEqual(part.coords.at(-1), finish.coords, id);
+}
+assert(tesoroWeekend.stages[0].stops.includes("bajos-tesoro-rooftent-camp"));
+assert(tesoroWeekend.stages[1].stops.includes("dinoland-pura-vida-dry-slide"));
+
 const weekend = records.find(row => row.id === "miramar-punta-morales-roof-2");
 const gpx = createGpx("План <гора> & берег", [{ title: weekend.title, line: atlas.lines[weekend.dossier.line], stops: weekend.dossier.stops }], atlas);
 assert(gpx.includes("План &lt;гора&gt; &amp; берег"));

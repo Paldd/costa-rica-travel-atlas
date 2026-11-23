@@ -139,6 +139,14 @@
           "cahuita-map",
           "cahuita-experience-reef"
         ]
+      },
+      {
+        "title": "Пешком к чашам Плайя-Негра",
+        "text": "Местные фотоотчёты отмечают публичный подход у Bungalows Malú по берегу. В дневной план удобно поставить прогулку от лагеря. Состояние волн оценивайте с суши.",
+        "sources": [
+          "cahuita-malu-pozas-vamos",
+          "cahuita-malu-pozas-local"
+        ]
       }
     ],
     "contacts": [
@@ -162,7 +170,8 @@
       "cahuita-trail",
       "cahuita-reef-snorkel",
       "alouatta-cahuita-roof",
-      "estrella-cahuita-roof-3"
+      "estrella-cahuita-roof-3",
+      "cahuita-playa-negra-malu-pozas"
     ],
     "photos": [
       "cahuita-shore-archive"

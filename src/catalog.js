@@ -28,7 +28,7 @@ export const activities = {
   rafting: "Рафтинг", packraft: "Пакрафт", sup: "SUP",
   kayak: "Каяк", canoe: "Каноэ", boat: "Лодки", "own-craft": "Со своей лодкой или SUP", catamaran: "Катамаран",
   fishing: "Рыбалка", snorkel: "Снорклинг", scuba: "Дайвинг",
-  swim: "Купание и бассейны", thermal: "Термальные воды", tubing: "Тюбинг",
+  swim: "Купание и бассейны", thermal: "Термальные воды", tubing: "Тюбинг", "dry-slide": "Сухие горки",
   beach: "Пляжи", "white-sand": "Светлый песок", "dark-sand": "Тёмный песок",
   savanna: "Открытые склоны и сухолесье", volcano: "Вулканы", forest: "Леса",
   lake: "Озёра", river: "Реки", waterfall: "Водопады", views: "Смотровые точки",

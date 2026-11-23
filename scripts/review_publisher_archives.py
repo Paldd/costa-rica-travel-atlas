@@ -28,6 +28,7 @@ ARTICLE_BODY_CLASSES = {
     "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg",
 }
 EXTRACTOR_VERSION = 9
+CATALOG_MATCH_VERSION = 1
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
 VIDEO_METADATA = {"og:video", "og:video:url", "og:video:secure_url", "twitter:player"}
@@ -192,7 +193,7 @@ def read_archive(archive, urls, analyze):
                              videoPlacements={url: sorted(parser.video_placements[url]) for url in videos},
                              socialLinks=[{"platform": platform, "url": link} for platform, link in sorted(parser.social)][:20])
                 if len(body) >= MIN_BODY_CHARS:
-                    entry.update(status="read", **analyze(title, body))
+                    entry.update(status="read", catalogMatchVersion=CATALOG_MATCH_VERSION, **analyze(title, body))
                 else:
                     entry["status"] = "no-editorial-text"
         except (URLError, OSError, ValueError) as error:
@@ -260,6 +261,8 @@ def enough_time(entry, row, today):
     status = entry["status"]
     if status == "no-editorial-text" and entry.get("extractorVersion") != EXTRACTOR_VERSION:
         return True
+    if status == "read" and entry.get("catalogMatches") and entry.get("catalogMatchVersion") != CATALOG_MATCH_VERSION:
+        return True
     if status in {"read", "no-editorial-text"} and has_update(entry, row):
         return True
     days = 30 if status in {"read", "robots-disallow"} else 3
@@ -325,7 +328,9 @@ def video_candidates(state, archives, catalog):
                 reference = {
                     "article": article, "archive": catalog[archive_id], "title": row["title"],
                     "articleCheckedUtc": row["checked"], "publisherProfiles": sorted(profiles),
-                    "placement": placement, "catalogMatches": row.get("catalogMatches", []),
+                    "placement": placement,
+                    "catalogMatches": (row.get("catalogMatches", [])
+                                       if row.get("catalogMatchVersion") == CATALOG_MATCH_VERSION else []),
                 }
                 references = links.setdefault(url, {})
                 previous = references.get(key)
