@@ -173,6 +173,7 @@ function SearchFilters({ query, setQuery, active }) {
       <div className="activity-choices" role="group" aria-label="Выбрать активности" aria-describedby="activity-instructions">
         {Object.entries(activities).map(([id, label]) => <label key={id}>
           <input type="checkbox" checked={picked.includes(id)} onChange={() => toggleActivity(id)} />
+          <ActivityIcon activity={id} size={15} />
           <span>{label}</span>
         </label>)}
       </div></>}
@@ -208,7 +209,7 @@ function RouteCard({ row, lines, context, saved, toggle }) {
   const photo = photoFor(row);
   const [failedPhoto, setFailedPhoto] = useState(null);
   const activity = mainActivity(row);
-  const { stops = [], galleries = [], videos = [] } = row.dossier || {};
+  const { stops = [], galleries = [], videos = [], videoCollections = [] } = row.dossier || {};
   return <article className={`route-card region-${row.region}`}>
     <a className="card-photo" href={urlFor("place", context, row.id)} tabIndex={-1} aria-hidden="true">
       {photo && failedPhoto !== photo.file ? <>
@@ -235,6 +236,7 @@ function RouteCard({ row, lines, context, saved, toggle }) {
         {(row.dossier?.photos?.length > 0 || row.dossier?.stageCover) && <span><Camera size={14} aria-hidden="true" />Фото</span>}
         {galleries.length > 0 && !row.dossier?.photos?.length && !row.dossier?.stageCover && <span><Camera size={14} aria-hidden="true" />Фотогалерея</span>}
         {videos.length > 0 && <span><CirclePlay size={14} aria-hidden="true" />{videos.length === 1 ? "Видео" : `Видео · ${videos.length}`}</span>}
+        {!videos.length && videoCollections.length > 0 && <span><CirclePlay size={14} aria-hidden="true" />Видеоподборка</span>}
       </div>
     </div>
   </article>;
@@ -293,7 +295,7 @@ function videoPlayer(href) {
 
 function DossierMedia({ row, sources, byId, context }) {
   const [playing, setPlaying] = useState(null);
-  const { photos = [], videos = [], galleries = [] } = row.dossier || {};
+  const { photos = [], videos = [], galleries = [], videoCollections = [] } = row.dossier || {};
   const extraPhotos = photos.slice(1);
   const stopsWithMedia = (row.dossier?.mediaStops || []).map(id => byId.get(id));
   const country = row.countries?.[0] || "cr";
@@ -331,6 +333,12 @@ function DossierMedia({ row, sources, byId, context }) {
         </li>;
       })}
     </ul>}
+    {videoCollections.length > 0 && <ul className="media-list" aria-label="Видеоканалы и подборки">
+      {videoCollections.map(id => <li key={id}>
+        <CirclePlay size={19} aria-hidden="true" />
+        <div><External href={sources[id].url}>{sources[id].title}</External><p>{sources[id].scope}</p></div>
+      </li>)}
+    </ul>}
     {stopsWithMedia.length > 0 && <details className="stage-media">
       <summary>Фото и видео на остановках</summary>
       <ul className="media-list">
@@ -341,6 +349,7 @@ function DossierMedia({ row, sources, byId, context }) {
             !photos.some(item => item.file === photo.file);
           const gallery = sources[media.galleries?.find(id => !galleries.includes(id))];
           const video = sources[media.videos?.find(id => !videos.includes(id))];
+          const collection = !video && sources[media.videoCollections?.find(id => !videoCollections.includes(id))];
           return <li key={place.id}>
             <MapPin size={18} aria-hidden="true" />
             <div className="stage-media-entry">
@@ -350,6 +359,7 @@ function DossierMedia({ row, sources, byId, context }) {
                   {photo && !showPhoto && <External href={photo.original}>Снимок остановки</External>}
                   {gallery && <External href={gallery.url}><Camera size={13} aria-hidden="true" />Фотогалерея</External>}
                   {video && <External href={video.url}><CirclePlay size={13} aria-hidden="true" />Видео</External>}
+                  {collection && <External href={collection.url}><CirclePlay size={13} aria-hidden="true" />Видеоподборка</External>}
                 </div>
               </div>
               {showPhoto && <RoutePhoto photo={photo} className="dossier-photo stage-photo" loading="lazy" />}

@@ -434,6 +434,11 @@
         "point": "uvita-dive-club-pin",
         "role": "Увита · место регистрации дайв-центра",
         "note": "Подтвердите адрес и точку посадки с оператором."
+      },
+      {
+        "point": "cano-island-reserve-orientation",
+        "role": "Каньо · остров в биологическом резервате",
+        "note": "Метка показывает остров. Точки снорклинга и возможность высадки сверяйте с проводником."
       }
     ],
     "sections": [
@@ -448,7 +453,7 @@
       },
       {
         "title": "Посадка и островной резерв",
-        "text": "Перед выходом оформите состав участников. Уточните, как посадка зависит от прибоя, входит ли билет SINAC и какая остановка запланирована. Слоты и морские участки регулируются заповедником, так что публикуем ориентир сбора.",
+        "text": "Перед выходом оформите состав участников. Спросите, как посадка зависит от прибоя, входит ли билет SINAC и какая остановка запланирована. На карте отмечены сбор в Увите и остров. Морской путь и зоны входа в воду уточняет команда.",
         "sources": [
           "uvita-cano-operator-checkin",
           "cano-sinac-dive-access"
@@ -474,19 +479,23 @@
     ],
     "nearby": [
       "uvita-casa-viva-forest-camp",
-      "uvita-atv-mountain-rides"
+      "uvita-atv-mountain-rides",
+      "cano-island"
     ],
     "galleries": [
       "uvita-cano-padi-dive-center",
       "uvita-cano-boats-photo"
     ],
     "videos": [
+      "film-cano-snorkel-dive-and-surf",
       "uvita-cano-youtube-channel"
     ],
     "connectStops": false,
     "photos": [
-      "punta-uvita-commons"
-    ]
+      "punta-uvita-commons",
+      "isla-cano-shore-oconnor"
+    ],
+    "track": "isla-cano-osm-map"
   },
   "orosi-tapanti-ranch-weekend": {
     "stops": [

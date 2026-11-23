@@ -43,6 +43,9 @@
       "vista-suenos",
       "herradura-bijagual-buggy-4",
       "jaco-utv-rey-100"
+    ],
+    "videos": [
+      "film-vista-atv-buggy-herradura"
     ]
   },
   "herradura-bijagual-buggy-4": {
@@ -1347,7 +1350,7 @@
     "sections": [
       {
         "title": "Что входит в спуск",
-        "text": "Круг у каждого, проводники на извилистом речном участке, жилет и инструктаж. Точную длительность на воде сверяйте после прогноза.",
+        "text": "Guachipelín публикует 5 км порогов II–III класса, около двух с половиной часов на программу и варианты подхода автобусом или верхом. На воде используются индивидуальные круги с ручками. Группу сопровождают проводники. Перед выездом уточните допуск по возрасту и росту и актуальный уровень реки.",
         "sources": [
           "guachipelin-rio-negro-tubing"
         ]
@@ -1368,6 +1371,9 @@
     "nearby": [
       "rincon-mtb",
       "diamante-guanacaste-atv"
+    ],
+    "videos": [
+      "film-rio-negro-guachipelin"
     ]
   },
   "quepos-magic-king-private-catamaran": {
@@ -1506,6 +1512,9 @@
     "nearby": [
       "herradura-vista-buggy-waterfalls",
       "vista-suenos"
+    ],
+    "videos": [
+      "film-vista-canyoning-herradura"
     ]
   },
   "guachipelin-oropendola-horseback": {
@@ -1570,6 +1579,11 @@
         "point": "drake-agujitas-landing",
         "role": "Дрейк · район береговой посадки",
         "note": "Drake Divers подтверждает пин и время отдельно. Посадка с пляжа зависит от моря."
+      },
+      {
+        "point": "cano-island-reserve-orientation",
+        "role": "Каньо · остров в биологическом резервате",
+        "note": "Метка показывает остров. Точки снорклинга и возможность высадки сверяйте с проводником."
       }
     ],
     "contacts": [
@@ -1611,6 +1625,11 @@
     ],
     "videos": [
       "drake-divers-cano-underwater-video"
+    ],
+    "connectStops": false,
+    "track": "isla-cano-osm-map",
+    "photos": [
+      "isla-cano-shore-oconnor"
     ]
   }
 }

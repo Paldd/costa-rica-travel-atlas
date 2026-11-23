@@ -1,0 +1,75 @@
+{
+  "san-jose-teatro-plaza-cultura": {
+    "stops": [
+      {
+        "point": "san-jose-plaza-de-la-cultura",
+        "role": "Начало прогулки · Пласа-де-ла-Культура",
+        "note": "На площади удобнее договориться о встрече. Здесь же ориентир входа в музейный комплекс под площадью."
+      },
+      {
+        "point": "san-jose-teatro-nacional-building",
+        "role": "Театр · экскурсия, касса и кафе",
+        "note": "Метка стоит на здании. За входом и доступным подходом следуйте указателям кассы."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дневная экскурсия с семьёй",
+        "text": "На знакомство с театром и площадью заложите полдня. На странице театра указаны визиты с гидом на испанском и английском и отдельные условия для детей младше двенадцати. FAQ и страница групповых визитов публикуют разные дни работы. Проверьте доступный сеанс, стоимость и состав группы в кассе.",
+        "sources": [
+          "teatro-visits-individual",
+          "teatro-group-visits",
+          "teatro-faq-photo",
+          "teatro-box-office"
+        ]
+      },
+      {
+        "title": "Спектакль и правила съёмки",
+        "text": "Афиша главного зала публикуется отдельно. Планируйте приход до начала спектакля. Для дневной экскурсии разрешена фотосъёмка без вспышки. Видеорепортаж El Vlog показывает исторические интерьеры и театральную механику, доступные автору в день съёмки.",
+        "sources": [
+          "teatro-main-auditorium",
+          "teatro-faq-photo",
+          "teatro-el-vlog-backstage"
+        ]
+      },
+      {
+        "title": "Кафе и продолжение прогулки",
+        "text": "На площади можно совместить театр с музеями Центрального банка, включая музей доколумбова золота. У кафе при театре свой режим. Возьмите воду для прогулки и лёгкий зонт. Для маленьких детей заранее проверьте доступ с коляской и длительность экскурсии.",
+        "sources": [
+          "teatro-plaza-bccr",
+          "teatro-faq-photo",
+          "teatro-box-office"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Teatro Nacional · касса",
+        "source": "teatro-box-office",
+        "note": "Билеты, время экскурсии, язык группы, проход с коляской и доступность.",
+        "phone": "+506 2010 1143",
+        "email": "uboleteria@teatronacional.go.cr"
+      },
+      {
+        "name": "Museos del Banco Central",
+        "source": "teatro-plaza-bccr",
+        "note": "Музейный комплекс под площадью и отдельная программа для семей."
+      }
+    ],
+    "nearby": [
+      "san-jose-museo-bellavista"
+    ],
+    "photos": [
+      "teatro-nacional-facade-mariordo",
+      "teatro-nacional-boxes-borman"
+    ],
+    "galleries": [
+      "teatro-national-commons-photos"
+    ],
+    "videos": [
+      "teatro-el-vlog-backstage",
+      "teatro-tn1897-channel"
+    ],
+    "connectStops": false
+  }
+}

@@ -1,7 +1,7 @@
 import React from "react";
 import {
   Bike, Bird, CarFront, Coffee, Compass, Fish, Flame, Footprints,
-  House, Landmark, Mountain, Plane, Route, Sailboat, Sun,
+  Landmark, Mountain, Plane, Route, Sun,
   TentTree, TreePine, Waves,
 } from "lucide-react";
 
@@ -52,6 +52,19 @@ const ElectricBike = sportIcon(<>
 
 const PassengerBoat = sportIcon(<>
   <path d="M2 13h20l-3 6H5l-3-6Zm4 0V8h11l3 5M9 8V5h6v3m-6 2.5h.1m3.9 0h.1M2 22l3-1 3 1 4-1 4 1 3-1 3 1" />
+</>);
+
+const Catamaran = sportIcon(<>
+  <path d="M11 3v12m0-10 7 8h-7m-2-6-4 6h4M2 16h8l-2 4H4l-2-4Zm12 0h8l-2 4h-4l-2-4ZM10 17h4M2 23h20" />
+</>);
+
+const Glamping = sportIcon(<>
+  <path d="M2 20 10 5l8 15H2Zm5 0v-5h6v5m5-13h4m-2-2v4M16 3h2m-1-1v2" />
+</>);
+
+const Tubing = sportIcon(<>
+  <circle cx="14" cy="6" r="2" />
+  <path d="m6 13 4-4 4 2 3-1m-9 3 8 1 3-2m2 2c1 3-3 5-9 5s-10-2-9-5l2-2m1 3c2 1 4 1.5 6 1.5M2 22l4-1 4 1 4-1 4 1 4-1" />
 </>);
 
 const BorderCrossing = sportIcon(<>
@@ -131,7 +144,7 @@ const groups = [
   ["land", RoofTent, "rooftent"],
   ["land", TentTree, "camping"],
   ["land", Flame, "campfire"],
-  ["land", House, "glamping"],
+  ["land", Glamping, "glamping"],
   ["water", Fish, "fishing"],
   ["water", Windsurf, "windsurf"],
   ["water", Kite, "kitesurf"],
@@ -143,9 +156,10 @@ const groups = [
   ["water", Kayak, "kayak"],
   ["water", Canoe, "canoe"],
   ["water", Scuba, "scuba"],
-  ["water", Waves, "tubing", "snorkel", "swim"],
+  ["water", Tubing, "tubing"],
+  ["water", Waves, "snorkel", "swim"],
   ["land", DrySlide, "dry-slide"],
-  ["water", Sailboat, "catamaran"],
+  ["water", Catamaran, "catamaran"],
   ["water", PassengerBoat, "boat"],
   ["water", Canoe, "own-craft"],
   ["land", Plane, "scenic-flight"],

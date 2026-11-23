@@ -312,6 +312,12 @@ def video_source(source):
     )
 
 
+def video_collection(source):
+    url = urlsplit(source["url"])
+    host = (url.hostname or "").removeprefix("www.").removeprefix("m.")
+    return host == "youtube.com" and bool(re.match(r"/(?:@[^/]+|(?:channel|user|c)/[^/]+|playlist)(?:/|$)", url.path))
+
+
 def external_route_kind(source, route_maps):
     if source["id"] in route_maps:
         return "map"
@@ -364,6 +370,10 @@ def reusable_media(record, sources, gallery_ids):
             ref for ref in dossier["galleries"] if sources[ref]["url"].rstrip("/") not in video_urls
         ]
 
+    if collections := [ref for ref in dossier.get("videos", []) if video_collection(sources[ref])]:
+        dossier["videoCollections"] = collections
+        dossier["videos"] = [ref for ref in dossier["videos"] if ref not in collections]
+
 
 def attach_stop_media(records, dossiers):
     # A place can illustrate a mapped stop when both dossiers use the same waypoint.
@@ -387,7 +397,7 @@ def attach_stop_media(records, dossiers):
                     linked.extend(places)
         linked = [
             key for key in dict.fromkeys(linked)
-            if any(dossiers.get(key, {}).get(field) for field in ("photos", "galleries", "videos"))
+            if any(dossiers.get(key, {}).get(field) for field in ("photos", "galleries", "videos", "videoCollections"))
         ]
         if linked:
             dossier["mediaStops"] = linked

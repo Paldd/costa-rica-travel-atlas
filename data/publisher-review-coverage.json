@@ -1,9 +1,9 @@
 {
-  "archives": 138,
-  "archivesRead": 133,
+  "archives": 143,
+  "archivesRead": 134,
   "bySource": {
     "aguas-claras-activity-index": {
-      "indexed": 6,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-22",
@@ -42,7 +42,7 @@
           "url": "https://hotelaguasclaras.com/puerto-viejo/"
         }
       ],
-      "read": 6
+      "read": null
     },
     "alta-emtb-programs": {
       "indexed": 2,
@@ -405,7 +405,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": 1,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -413,7 +413,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": 1
+      "read": null
     },
     "catalina-pcdc-tours-library": {
       "indexed": 13,
@@ -513,7 +513,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Uso de Kayaks & Paddleboards en Bahía Cativo |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/uso-de-kayaks-tabla-remo-en-bahia-cativo"
         },
@@ -529,7 +528,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Snorkel Autoguiado en la Bahía Cativo |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/snorkel-auto-guiado-bahia-cativo"
         },
@@ -555,13 +553,11 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Expedición de Bioluminiscencia |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/expedicion-bioluminescente"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Excursión de Kayak en el Manglar de Río Esquinas |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/expedicion-rio-esquinas-manglar-kayak"
         },
@@ -592,6 +588,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Buceo (Golfo Dulce) |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/buceo-golfo-dulce"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Descubra Avistamiento de Aves |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/observacion-aves"
         },
@@ -601,7 +603,7 @@
           "url": "https://www.playacativo.com/es/experiencias/aventura-a-caballo-en-puerto-jimenez"
         }
       ],
-      "read": 18
+      "read": 19
     },
     "cinchona-trails-operator": {
       "indexed": 1,
@@ -1231,7 +1233,7 @@
       "read": 2
     },
     "ni-rivas-casaoro-maderas": {
-      "indexed": 2,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -1244,7 +1246,7 @@
           "url": "https://casaorogroup.com/en/experiencias/surf/"
         }
       ],
-      "read": 2
+      "read": null
     },
     "ni-rivas-sail-charter": {
       "indexed": 1,
@@ -1517,6 +1519,30 @@
         }
       ],
       "read": 5
+    },
+    "planet-papagayo-kayak-family-activities": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Planet Hollywood Costa Rica | 5-Star All-Inclusive Resort",
+          "url": "https://www.planethollywoodhotels.com/resorts/costa-rica"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Costa Rica All-Inclusive Family Resort - Planet Hollywood CR",
+          "url": "https://www.planethollywoodhotels.com/costa-rica-allinclusive-family-resort"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Attractions | Planet Hollywood Costa Rica",
+          "url": "https://www.planethollywoodhotels.com/resorts/costa-rica/our-resort/attractions"
+        }
+      ],
+      "read": 3
     },
     "pochote-los-vivos-boarding": {
       "indexed": 3,
@@ -2025,37 +2051,67 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-31",
-          "readThisRun": true,
           "title": "A partir de este lunes y durante todo septiembre la restricción vehicular cambia",
           "url": "https://adondeircr.com/guanacaste/a-partir-de-este-lunes-y-durante-todo-septiembre-la-restriccion-vehicular-cambia/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-30",
-          "readThisRun": true,
           "title": "Parque Nacional Marino Ballena",
           "url": "https://adondeircr.com/puntarenas/parque-nacional-marino-ballena/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-30",
-          "readThisRun": true,
           "title": "Parque Nacional Cahuita",
           "url": "https://adondeircr.com/limon/parque-nacional-cahuita/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-30",
-          "readThisRun": true,
           "title": "Isla De Los Muertos",
           "url": "https://adondeircr.com/puntarenas/isla-de-los-muertos/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-29",
-          "readThisRun": true,
           "title": "Bahía de los Piratas, un paraíso natural escondido",
           "url": "https://adondeircr.com/guanacaste/bahia-de-los-piratas-un-paraiso-natural-escondido/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-28",
+          "readThisRun": true,
+          "title": "Parque Nacional Palo Verde",
+          "url": "https://adondeircr.com/guanacaste/parque-nacional-palo-verde/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-27",
+          "readThisRun": true,
+          "title": "Hospedarse en una burbuja, una experiencia que se puede vivir en Nosara",
+          "url": "https://adondeircr.com/guanacaste/hospedarse-en-una-burbuja-una-experiencia-que-se-puede-vivir-en-nosara/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-27",
+          "readThisRun": true,
+          "title": "Costa Rica aplicará mayor apertura de comercios durante septiembre",
+          "url": "https://adondeircr.com/alajuela/costa-rica-aplicara-mayor-apertura-de-comercios-durante-septiembre/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-27",
+          "readThisRun": true,
+          "title": "Así se iluminó el cielo esta noche para dar un mensaje de esperanza en tiempos de Covid-19",
+          "url": "https://adondeircr.com/heredia/asi-se-ilumino-el-cielo-esta-noche-para-dar-un-mensaje-de-esperanza-en-tiempos-de-covid-19/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-26",
+          "readThisRun": true,
+          "title": "Atención: Así funcionará la restricción vehicular a partir del 31 de agosto",
+          "url": "https://adondeircr.com/heredia/atencion-asi-funcionara-la-restriccion-vehicular-a-partir-del-31-de-agosto/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2358,7 +2414,34 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 135
+      "read": 140
+    },
+    "publisher-andaz-pura-vida-activities": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "published": "2025-07-30",
+          "readThisRun": true,
+          "title": "Casa de Playa - Andaz | Pura Vida",
+          "url": "https://andazpuravida.com/casa-de-playa/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2024-10-10",
+          "readThisRun": true,
+          "title": "Activities - Andaz | Pura Vida",
+          "url": "https://andazpuravida.com/activities/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2024-10-03",
+          "readThisRun": true,
+          "title": "Active Programming - Andaz | Pura Vida",
+          "url": "https://andazpuravida.com/active-programming-andaz/"
+        }
+      ],
+      "read": 3
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
@@ -3473,7 +3556,7 @@
       "read": 33
     },
     "publisher-archive-museocr-family-events": {
-      "indexed": null,
+      "indexed": 14,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3515,7 +3598,7 @@
           "url": "https://museocr.org/ninos/grupos/"
         }
       ],
-      "read": null
+      "read": 7
     },
     "publisher-archive-oxygen-adventures": {
       "indexed": 10,
@@ -4631,6 +4714,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "¿Por qué no debemos llevarnos las conchas del mar?",
+          "url": "https://vamosaturistear.com/actividades/por-que-no-debemos-llevarnos-las-conchas-del-mar/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "¡Bienvenidos a Catarata Uvita!",
           "url": "https://vamosaturistear.com/actividades/bienvenidos-a-catarata-uvita/"
         },
@@ -4661,7 +4750,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Visitá las Cataratas El Congo en Sarapiquí",
           "url": "https://vamosaturistear.com/actividades/visita-las-cataratas-el-congo-en-sarapiqui/"
         },
@@ -4679,6 +4767,12 @@
           "checked": "2026-11-23",
           "title": "Visitá Isla Venado",
           "url": "https://vamosaturistear.com/actividades/visita-isla-venado/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Un fenómeno natural te espera en Monteverde",
+          "url": "https://vamosaturistear.com/actividades/un-fenomeno-natural-te-espera-en-monteverde/"
         },
         {
           "checked": "2026-11-23",
@@ -4707,7 +4801,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Tour de un día GRATUITO: Columnas Basálticas",
           "url": "https://vamosaturistear.com/actividades/tour-de-un-dia-gratuito-columnas-basalticas/"
         },
@@ -4733,7 +4826,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Reserva Bosque Nuboso Santa Elena",
           "url": "https://vamosaturistear.com/actividades/reserva-bosque-nuboso-santa-elena/"
         },
@@ -4744,7 +4836,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Redescubrí Jacó desde el mirador: El Miro",
           "url": "https://vamosaturistear.com/actividades/redescubri-jaco-desde-el-mirador-el-miro/"
         },
@@ -4802,6 +4893,12 @@
           "checked": "2026-11-23",
           "title": "Playa Carrillo: Hojancha Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-carrillo-hojancha-guanacaste/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Península de Papagayo: Playa Cabuyal",
+          "url": "https://vamosaturistear.com/actividades/peninsula-de-papagayo-playa-cabuyal/"
         },
         {
           "checked": "2026-11-23",
@@ -4930,8 +5027,20 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "En lo alto del Cerro Tinajitas",
+          "url": "https://vamosaturistear.com/actividades/en-lo-alto-del-cerro-tinajitas/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "En la cima del Cerro Caballito",
           "url": "https://vamosaturistear.com/actividades/en-la-cima-del-cerro-caballito/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "En el paraíso de playa Virador",
+          "url": "https://vamosaturistear.com/actividades/en-el-paraiso-de-playa-virador/"
         },
         {
           "checked": "2026-11-23",
@@ -4990,7 +5099,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Conocé el gigante que cuida de Monteverde",
           "url": "https://vamosaturistear.com/actividades/conoce-el-gigante-que-cuida-de-monteverde/"
         },
@@ -5380,7 +5488,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 152
+      "read": 157
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5397,6 +5505,36 @@
       "indexed": 0,
       "pages": [],
       "read": 0
+    },
+    "publisher-bosque-del-mar-hermosa": {
+      "indexed": 4,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "How to get here? – Hotel Bosque del Mar",
+          "url": "https://www.bosquedelmar.com/how-to-get-here/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+          "url": "https://www.bosquedelmar.com/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Contact – Hotel Bosque del Mar",
+          "url": "https://www.bosquedelmar.com/contact/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "About Us – Hotel Bosque del Mar",
+          "url": "https://www.bosquedelmar.com/about-us/"
+        }
+      ],
+      "read": 4
     },
     "publisher-dreamsea-experience": {
       "indexed": 3,
@@ -5418,6 +5556,18 @@
         }
       ],
       "read": 3
+    },
+    "publisher-jw-marriott-guanacaste-activities": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Experiencias | JW Marriott Guanacaste Beach Resort",
+          "url": "https://www.marriott.com/es/hotels/sjojw-jw-marriott-guanacaste-resort-and-spa/experiences/"
+        }
+      ],
+      "read": 1
     },
     "publisher-lafiebre-blog": {
       "indexed": 7,
@@ -5871,7 +6021,7 @@
       "read": 13
     },
     "publisher-toucan-onsite-tours": {
-      "indexed": 7,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -5909,7 +6059,7 @@
           "url": "https://toucanrescueranch.org/tours/classrooms/"
         }
       ],
-      "read": 7
+      "read": null
     },
     "punta-uva-dive-owner": {
       "indexed": 7,
@@ -6366,13 +6516,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Osa Peninsula Water Tours | Osa Tourism, Costa Rica",
           "url": "https://www.osatourism.com/osa-peninsula-water-tours/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Golfo Dulce Boat Tours & Cruises | Doña Tere | Osa Tourism",
           "url": "https://www.osatourism.com/golfo-dulce-cruises-dona-tere/"
         }
@@ -6384,19 +6532,16 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Location and Directions | Playa Nicuesa Rainforest Lodge",
           "url": "https://www.nicuesalodge.com/location"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Golfo Dulce Ocean Adventures in Costa Rica | Playa Nicuesa",
           "url": "https://www.nicuesalodge.com/experiences/ocean-activities"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Discover Specials Offers in Costa Rica | Playa Nicuesa Rainforest",
           "url": "https://www.nicuesalodge.com/specials-packages/rainforest-multisport"
         }
@@ -6408,13 +6553,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Trips – Oceans Pro Divers Golfito",
           "url": "https://oceansprodiversgolfito.com/trips/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Discover Scuba Diving – Oceans Pro Divers Golfito",
           "url": "https://oceansprodiversgolfito.com/discover-scuba-diving/"
         }
@@ -6426,19 +6569,16 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "LODGE | Saladero Ecolodge",
           "url": "https://www.saladeroecolodge.com/lodge"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "GETTING HERE | Saladero Ecolodge",
           "url": "https://www.saladeroecolodge.com/lodge/getting-here"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "ACTIVITIES & PROJECTS | Saladero Ecolodge",
           "url": "https://www.saladeroecolodge.com/activities"
         }
@@ -6451,19 +6591,16 @@
         {
           "checked": "2026-11-23",
           "published": "2026-10-30",
-          "readThisRun": true,
           "title": "Golfo Dulce Is Costa Rica’s Wild Pacific Frontier",
           "url": "https://seakayakingcostarica.com/golfo-dulce-costa-rica/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Our Company",
           "url": "https://seakayakingcostarica.com/our-company/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "8-Day Golfo Dulce Sea Kayaking Adventure | Costa Rica",
           "url": "https://seakayakingcostarica.com/8-day-lodge-to-lodge-golfo-dulce-sea-kayaking-trip-november-may/"
         }
@@ -7029,6 +7166,13 @@
       "url": "https://www.instagram.com/p/C6T67AJuPyv/"
     },
     {
+      "article": "https://adondeircr.com/guanacaste/parque-nacional-palo-verde/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Parque Nacional Palo Verde",
+      "url": "https://www.instagram.com/p/CEXNwPsHum7/"
+    },
+    {
       "article": "https://go.bocasdeltoro.travel/es/blog-es/aventura-en-bocas-la-excursion-de-un-dia-a-panama-que-te-encantara/",
       "checked": "2026-11-23",
       "platform": "Instagram",
@@ -7127,6 +7271,20 @@
       "url": "https://www.instagram.com/p/Dd-BVOIlOSR/"
     },
     {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/Dd1XTLlHFyn/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/Dd611wrnJ7j/"
+    },
+    {
       "article": "https://buencaminocr.com/es/",
       "checked": "2026-11-23",
       "platform": "Instagram",
@@ -7141,11 +7299,74 @@
       "url": "https://www.instagram.com/p/DdsMamqh5oa/"
     },
     {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/De1tUeaHDPS/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/De9h6qdjH1d/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DeAwCFbHNzC/"
+    },
+    {
       "article": "https://buencaminocr.com/es/",
       "checked": "2026-11-23",
       "platform": "Instagram",
       "title": "Home ES",
       "url": "https://www.instagram.com/p/DeDTV3eFIBB/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DeHeyGYHfrn/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DePM_W9uUel/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DePN0Cuum0S/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DeRqgvsDS7f/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DeZ4HoKHN8z/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DehH5WODfEn/"
     },
     {
       "article": "https://buencaminocr.com/es/",
@@ -7162,11 +7383,32 @@
       "url": "https://www.instagram.com/p/DemJYPiFfaU/"
     },
     {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DemU4C6ga8S/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/Derv5lBjiAs/"
+    },
+    {
       "article": "https://rescatewildlife.org/educational-group-tours/",
       "checked": "2026-11-23",
       "platform": "Instagram",
       "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
       "url": "https://www.instagram.com/p/Df-SptNvLUu/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/Df0xxWjnP3p/"
     },
     {
       "article": "https://rescatewildlife.org/educational-group-tours/",
@@ -7181,6 +7423,48 @@
       "platform": "Instagram",
       "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
       "url": "https://www.instagram.com/p/Df7c-q-ix0c/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/Df90fqpiU9l/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DfDm8-PDu9x/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DfPyMB9Cfi_/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DfYDfqFiS8S/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DfdIYB7j5TR/"
+    },
+    {
+      "article": "https://www.bosquedelmar.com/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
+      "url": "https://www.instagram.com/p/DfnHP1UCT8J/"
     },
     {
       "article": "https://rescatewildlife.org/educational-group-tours/",
@@ -7309,8 +7593,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 28,
-  "pagesRead": 27,
-  "pagesReadToDate": 1131,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45220620247"
+  "pagesChecked": 26,
+  "pagesRead": 22,
+  "pagesReadToDate": 1153,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45226075503"
 }

@@ -75,7 +75,7 @@ for (const row of records) {
     for (const id of mediaStops) {
       const place = records.find(record => record.id === id);
       const media = place?.dossier;
-      assert(id !== row.id && (media?.photos?.length || media?.galleries?.length || media?.videos?.length), id);
+      assert(id !== row.id && (media?.photos?.length || media?.galleries?.length || media?.videos?.length || media?.videoCollections?.length), id);
       assert(stageIds.has(id) || nearby.includes(id) && stops.some(stop => stop.point === media.stops[0]?.point), row.id);
     }
     if (row.dossier.stageCover) {
@@ -145,6 +145,10 @@ assert(find({ activity: "rooftent", transport: "4x4" }).some(row => row.id === "
 assert(find({ activity: "rooftent", material: "photo-video" }).some(row => row.id === "las-trillizas-roofcamp"));
 assert(find({ material: "missing-photo" }).every(row => !row.dossier.photos?.length && !row.dossier.stageCover));
 assert(find({ material: "missing-video" }).every(row => !row.dossier.videos?.length));
+const channelOnlyCard = atlas.records.find(row => row.id === "jaco-utv-rey-100");
+assert(channelOnlyCard.dossier.videoCollections.includes("axr-jaco-utv-video"));
+assert(!channelOnlyCard.dossier.videos.length);
+assert(find({ material: "missing-video" }).includes(channelOnlyCard));
 const turrialbaCamp = records.find(row => row.id === "las-trillizas-roofcamp");
 assert.deepEqual(turrialbaCamp.dossier.stops[0].coords, [9.9751212, -83.7055168]);
 assert.equal(turrialbaCamp.dossier.line, "las-trillizas-first-walk-osm");

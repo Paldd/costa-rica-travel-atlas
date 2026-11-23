@@ -129,6 +129,11 @@
         "point": "drake-agujitas-landing",
         "role": "Дрейк · район встречи и посадки",
         "note": "Jade Tours указывает пляж Colorada. Сверьте свой пин с гидом."
+      },
+      {
+        "point": "cano-island-reserve-orientation",
+        "role": "Каньо · остров в биологическом резервате",
+        "note": "Метка показывает остров. Точки снорклинга и возможность высадки сверяйте с проводником."
       }
     ],
     "sections": [
@@ -147,6 +152,15 @@
           "cano-sinac-visit",
           "cano-snorkel",
           "osa-ict-account"
+        ]
+      },
+      {
+        "title": "Что взять на лодку",
+        "text": "При брони согласуйте размеры маски, ласт и жилета. Возьмите воду, головной убор, полотенце и сухой мешок. Уточните порядок захода с лодки, если в группе есть ребёнок или начинающий пловец. У Costa Rica Dive & Surf есть отдельный выезд из Увиты.",
+        "sources": [
+          "cano-snorkel",
+          "uvita-cano-snorkel-direct",
+          "film-cano-snorkel-dive-and-surf"
         ]
       }
     ],
@@ -177,11 +191,19 @@
       "corcovado-sirena",
       "osa-expedition-6",
       "sierpe-boat",
-      "drake-cano-guided-scuba"
+      "drake-cano-guided-scuba",
+      "uvita-isla-cano-guide"
     ],
-    "track": "cano-sinac-visit",
+    "track": "isla-cano-osm-map",
     "galleries": [
       "drake-divers-certified-cano"
+    ],
+    "connectStops": false,
+    "photos": [
+      "isla-cano-shore-oconnor"
+    ],
+    "videos": [
+      "film-cano-snorkel-dive-and-surf"
     ]
   },
   "piedras-blancas": {
@@ -1011,6 +1033,14 @@
           "cerro-tortuguero-acto",
           "reservas"
         ]
+      },
+      {
+        "title": "Что взять на ступени и в лодку",
+        "text": "Возьмите обувь с цепкой подошвой, воду и лёгкий дождевик. На платформе и настиле останавливайтесь для фото так, чтобы сохранить проход. Время обратной лодки и место посадки согласуйте ещё до подъёма.",
+        "sources": [
+          "cerro-tortuguero-sinac-adi",
+          "cerro-tortuguero-acto"
+        ]
       }
     ],
     "contacts": [
@@ -1025,7 +1055,11 @@
       "tortuguero-canals"
     ],
     "track": "cerro-tortuguero-sinac-adi",
-    "line": "cerro-tortuguero"
+    "line": "cerro-tortuguero",
+    "photos": [
+      "cerro-tortuguero-lookout-suna",
+      "cerro-tortuguero-hill-tellurian"
+    ]
   },
   "playa-negra-caribe": {
     "stops": [

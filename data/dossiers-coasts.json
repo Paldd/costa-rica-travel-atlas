@@ -316,7 +316,10 @@
       "salsa-brava-reef",
       "talamanca-reef-surf-3"
     ],
-    "track": null
+    "track": null,
+    "videos": [
+      "film-cocles-world-at-your-feet"
+    ]
   },
   "caribe-bus-3": {
     "stops": [
@@ -637,6 +640,11 @@
         "point": "higuito",
         "role": "Посёлок перед горным подъездом",
         "note": "Точку заезда через Higuito или место встречи для трансфера сообщает хозяин."
+      },
+      {
+        "point": "escapadita-camp-map-pin",
+        "role": "Кемпинг, домики и прогулки · отметка комплекса",
+        "note": "Пин из карты хозяев. Точный въезд и площадку для машины запросите перед поездкой."
       }
     ],
     "sections": [
@@ -654,6 +662,15 @@
         "sources": [
           "escapadita-drive",
           "escapadita-campcr"
+        ]
+      },
+      {
+        "title": "Где поставить палатку и посидеть у огня",
+        "text": "Хозяйки описывают лесные места под свою палатку и крытые площадки около парковки. У крытых площадок указаны вода, электричество, стол, мангал и костровая зона. Согласуйте размеры и тип палатки, практику разведения огня на выбранной площадке и состояние подъёма из Уигито.",
+        "sources": [
+          "escapadita",
+          "escapadita-drive",
+          "escapadita-ticomap-host"
         ]
       }
     ],
@@ -675,8 +692,10 @@
     "track": "escapadita-drive",
     "galleries": [
       "escapadita-services",
-      "escapadita-campcr"
-    ]
+      "escapadita-campcr",
+      "escapadita"
+    ],
+    "connectStops": false
   },
   "oikoumene": {
     "stops": [

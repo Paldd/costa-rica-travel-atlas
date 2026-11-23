@@ -1519,5 +1519,50 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Leopardus_pardalis.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "cerro-tortuguero-lookout-suna": {
+    "file": "cerro-tortuguero-lookout-suna.jpg",
+    "alt": "Панорама лагуны, леса и моря со смотровой Серро-Тортугеро",
+    "caption": "Смотровая Серро-Тортугеро · сентябрь 2021 года · уменьшенная копия",
+    "author": "Suna no onna",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Tortuguero-Cerro-Tortugeurotik-hartuta.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "cerro-tortuguero-hill-tellurian": {
+    "file": "cerro-tortuguero-hill-tellurian.jpg",
+    "alt": "Поросший лесом холм Серро-Тортугеро со стороны воды",
+    "caption": "Серро-Тортугеро со стороны лагуны · ноябрь 2020 года · уменьшенная копия",
+    "author": "The Casual Tellurian",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Cerro_Tortuguero.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "isla-cano-shore-oconnor": {
+    "file": "isla-cano-shore-oconnor.jpg",
+    "alt": "Пляж острова Каньо с камнями в прибое",
+    "caption": "Остров Каньо · архивный снимок берега · уменьшенная копия",
+    "author": "Michael James O’Connor",
+    "license": "CC BY 2.5",
+    "original": "https://commons.wikimedia.org/wiki/File:Isla_del_Cano_beach_mjo.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  "teatro-nacional-facade-mariordo": {
+    "file": "teatro-nacional-facade-mariordo.jpg",
+    "alt": "Главный фасад Национального театра Коста-Рики",
+    "caption": "Национальный театр в Сан-Хосе · июль 2019 года · уменьшенная копия",
+    "author": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Teatro_Nacional_CRI_07_2019_8963.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "teatro-nacional-boxes-borman": {
+    "file": "teatro-nacional-boxes-borman.jpg",
+    "alt": "Ярусы лож главного зала Национального театра",
+    "caption": "Ложи Национального театра · январь 2010 года · уменьшенная копия",
+    "author": "Daniel Borman",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Inside_National_Theatre_of_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   }
 }

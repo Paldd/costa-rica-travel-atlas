@@ -276,6 +276,15 @@
           "guachipelin-bike-forum",
           "guachipelin-mtb-current"
         ]
+      },
+      {
+        "title": "Местный репортаж и фотографии троп",
+        "text": "В репортаже Teletica Guachipelín описана как база выходного дня с MTB и термами. Фотографии синглтреков открываются в галерее Hacienda. Чтобы подобрать вариант под свой e-MTB, запросите действующую схему и правила допуска.",
+        "sources": [
+          "guachipelin-teletica-visit",
+          "guachipelin-activity-gallery",
+          "guachipelin-mtb-current"
+        ]
       }
     ],
     "contacts": [
@@ -296,7 +305,8 @@
     "connectStops": false,
     "galleries": [
       "guachipelin-emtb-singletrack",
-      "guachipelin-emtb-option"
+      "guachipelin-emtb-option",
+      "guachipelin-activity-gallery"
     ]
   },
   "rincon-guachipelin-rider-emtb-53": {

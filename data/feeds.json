@@ -2521,8 +2521,11 @@
     "name": "Teatro Nacional de Costa Rica · пресс-служба",
     "url": "https://www.teatronacional.go.cr/Comunicados",
     "paths": [
-      "/comunicados/detalle/"
-    ]
+      "/comunicados/detalle/",
+      "/visitenos/turismo",
+      "/preguntas-frecuentes"
+    ],
+    "review": "publisher-archive-teatro-nacional-comunicados"
   },
   {
     "name": "Sloth Sanctuary · программы центра Aviarios del Caribe",
