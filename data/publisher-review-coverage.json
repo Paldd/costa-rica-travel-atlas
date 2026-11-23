@@ -1267,28 +1267,24 @@
         {
           "checked": "2026-11-23",
           "published": "2023-02-24",
-          "readThisRun": true,
           "title": "RESTAURANTE MAMALILA",
           "url": "https://adondeircr.com/cartago/restaurante-mamalila/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-02-22",
-          "readThisRun": true,
           "title": "COLINAS GLAMPING",
           "url": "https://adondeircr.com/san-jose/colinas-glamping/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-02-19",
-          "readThisRun": true,
           "title": "Santo Pecado",
           "url": "https://adondeircr.com/heredia/santo-pecado/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-02-18",
-          "readThisRun": true,
           "title": "(Vídeo) Impresionante: Sismo de madruga dejó enormes grietas en el suelo de Cinchona",
           "url": "https://adondeircr.com/heredia/video-impresionante-sismo-de-madruga-dejo-enormes-grietas-en-el-suelo-de-cinchona/?c1"
         },
@@ -1296,8 +1292,42 @@
           "checked": "2026-11-23",
           "published": "2023-02-16",
           "readThisRun": true,
+          "title": "KAIA SMART FOOD",
+          "url": "https://adondeircr.com/san-jose/kaia-smart-food/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2023-02-16",
           "title": "Cascadas POZO AZUL",
           "url": "https://adondeircr.com/alajuela/cascadas-pozo-azul/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2023-02-15",
+          "readThisRun": true,
+          "title": "GIVEAWAY",
+          "url": "https://adondeircr.com/cartago/giveaway/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2023-02-14",
+          "readThisRun": true,
+          "title": "En Costa Rica hay playas en las que puedes apreciar la Biolomuniscencia y durante todo el año",
+          "url": "https://adondeircr.com/puntarenas/en-costa-rica-hay-playas-en-las-que-puedes-apreciar-la-biolomuniscencia-y-durante-todo-el-ano/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-12-29",
+          "readThisRun": true,
+          "title": "Municipalidad de Curridabat prohíbe uso y venta de pólvora sonora",
+          "url": "https://adondeircr.com/san-jose/municipalidad-de-curridabat-prohibe-uso-y-venta-de-polvora-sonora/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-12-28",
+          "readThisRun": true,
+          "title": "Al mejor estilo de Disney: Parque de diversión inauguró mega atracción",
+          "url": "https://adondeircr.com/san-jose/al-mejor-estilo-de-disney-parque-de-diversion-inauguro-mega-atraccion/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -1600,7 +1630,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 70
+      "read": 75
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
@@ -2280,11 +2310,16 @@
       "read": 6
     },
     "publisher-archive-jaguar-rescue": {
-      "indexed": 80,
+      "indexed": 77,
       "pages": [
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "Why Saving the Rainforest Matters",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/124/WhySavingRainforestMatters"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Saving the Sea Turtles",
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/125/SavingTheSeaTurtles"
         },
@@ -2321,6 +2356,16 @@
         {
           "checked": "2026-11-23",
           "title": "Latest News about JRC",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/greenseaturtle"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Latest News about JRC",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/hawksbillseaturtle"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Latest News about JRC",
           "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/howlermonkey"
         },
         {
@@ -2331,7 +2376,17 @@
         {
           "checked": "2026-11-23",
           "title": "Latest News about JRC",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/poaching"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Latest News about JRC",
           "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/rewildanimal"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Latest News about JRC",
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/Seaturtles"
         },
         {
           "checked": "2026-11-23",
@@ -2352,25 +2407,25 @@
           "checked": "2026-11-23",
           "readThisRun": true,
           "title": "Latest News about JRC",
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/Seaturtles"
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/seawildlife"
         },
         {
           "checked": "2026-11-23",
           "readThisRun": true,
           "title": "Latest News about JRC",
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/greenseaturtle"
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/rescueseaturtles"
         },
         {
           "checked": "2026-11-23",
           "readThisRun": true,
           "title": "Latest News about JRC",
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/hawksbillseaturtle"
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/caribbeancoast"
         },
         {
           "checked": "2026-11-23",
           "readThisRun": true,
           "title": "Latest News about JRC",
-          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/poaching"
+          "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/Community"
         },
         {
           "checked": "2026-11-23",
@@ -2438,7 +2493,7 @@
           "url": "https://www.jaguarrescue.foundation/en-us/News/SearchTag/WildlifeProtection"
         }
       ],
-      "read": 30
+      "read": 35
     },
     "publisher-archive-kstr-rescue-news": {
       "indexed": 2,
@@ -2603,42 +2658,72 @@
         },
         {
           "checked": "2026-11-23",
+          "published": "2022-08-24",
+          "readThisRun": true,
+          "title": "Naturanima « Exhibiciones « Museo Nacional de Costa Rica",
+          "url": "https://www.museocostarica.go.cr/exhibiciones/naturanima/"
+        },
+        {
+          "checked": "2026-11-23",
           "published": "2022-06-03",
           "title": "Memorias en Piedra « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/memorias-en-piedra/"
         },
         {
           "checked": "2026-11-23",
-          "published": "2020-12-15",
+          "published": "2022-04-06",
           "readThisRun": true,
+          "title": "Manglares: barrera y libertad « Exhibiciones « Museo Nacional de Costa Rica",
+          "url": "https://www.museocostarica.go.cr/exhibiciones/manglares-barrera-y-libertad/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2021-06-03",
+          "readThisRun": true,
+          "title": "Blanco, azul y rojo « Exhibiciones Anteriores « Museo Nacional de Costa Rica",
+          "url": "https://www.museocostarica.go.cr/exhibiciones/anteriores/blanco-azul-y-rojo/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2021-03-26",
+          "readThisRun": true,
+          "title": "Legado en Piedra « Exhibiciones « Museo Nacional de Costa Rica",
+          "url": "https://www.museocostarica.go.cr/exhibiciones/legado-en-piedra/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-12-16",
+          "readThisRun": true,
+          "title": "Nidos y Huevos « Exhibiciones « Museo Nacional de Costa Rica",
+          "url": "https://www.museocostarica.go.cr/exhibiciones/nidos-y-huevos/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-12-15",
           "title": "Amos de la Noche « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/amos-de-la-noche-2/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-12-11",
-          "readThisRun": true,
           "title": "El 48 realidad virtual « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/el-48-realidad-virtual/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-25",
-          "readThisRun": true,
           "title": "Artefacto 112 « Exhibiciones Anteriores « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/anteriores/artefacto-112/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-03",
-          "readThisRun": true,
           "title": "Barreras Blandas « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/barreras-blandas/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-02-11",
-          "readThisRun": true,
           "title": "Diálogo « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/dialogo/"
         },
@@ -2748,7 +2833,7 @@
           "url": "https://www.museocostarica.go.cr/exhibiciones/actuales/"
         }
       ],
-      "read": 25
+      "read": 30
     },
     "publisher-archive-museocr-family-events": {
       "indexed": 14,
@@ -3787,6 +3872,12 @@
       "pages": [
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "¿Qué actividades puedo hacer en el Lago de Arenal?",
+          "url": "https://vamosaturistear.com/actividades/que-actividades-puedo-hacer-en-el-lago-de-arenal/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Viví la experiencia del Jardín Else Kientzler - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/vivi-la-experiencia-del-jardin-else-kientzler/"
         },
@@ -3797,7 +3888,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Turisteando cerca de Caldera - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/turisteando-cerca-de-caldera/"
         },
@@ -3813,13 +3903,23 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Recorré la Isla Uvita en el Caribe",
           "url": "https://vamosaturistear.com/actividades/recorre-la-isla-uvita-en-el-caribe/"
         },
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "Playa Pelada: Un paraíso en Nosara - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-pelada-un-paraiso-en-nosara/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Playa Conchal: Santa Cruz, Guanacaste - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-conchal-santa-cruz-guanacaste/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Playa Cocles: Una joya costarricense en el Caribe sur - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-cocles-una-joya-costarricense-en-el-caribe-sur/"
         },
@@ -3850,6 +3950,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Golfo Dulce: Un Refugio Natural - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/golfo-dulce-un-refugio-natural/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Estos son los parques nacionales que tenés que conocer en San José",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-san-jose/"
         },
@@ -3857,6 +3963,12 @@
           "checked": "2026-11-23",
           "title": "El bosque quemado del Volcán Turrialba - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/el-bosque-quemado-del-volcan-turrialba/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubrí la magia de Playa Grande - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/descubri-la-magia-de-playa-grande/"
         },
         {
           "checked": "2026-11-23",
@@ -3870,7 +3982,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Catarata Manantial de Agua Viva - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-manantial-de-agua-viva/"
         },
@@ -3881,7 +3992,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Cascada El Pavón: Bienvenidos a Ciudad Cortés de Osa - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/cascada-el-pavon-bienvenidos-a-ciudad-cortes-de-osa/"
         },
@@ -4201,7 +4311,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 82
+      "read": 87
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5203,7 +5313,6 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "Poás Volcano Tour: Active Crater Day Trip | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/poas-volcano-tour/"
         },
@@ -5216,7 +5325,6 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "La Paz Waterfall Gardens Tour & Poás | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/la-paz-waterfall-gardens-tour/"
         },
@@ -5229,7 +5337,6 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "Dinoland Costa Rica: Dinosaur Park | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/dinoland-bajos-del-toro/"
         },
@@ -5278,7 +5385,6 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "Arenal Volcano Tour: Lava Trails & Views | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/arenal-volcano-tour/"
         },
@@ -5491,8 +5597,8 @@
   },
   "dayUtc": "2026-11-23",
   "history": true,
-  "pagesChecked": 33,
-  "pagesRead": 24,
-  "pagesReadToDate": 898,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45116403289"
+  "pagesChecked": 25,
+  "pagesRead": 20,
+  "pagesReadToDate": 918,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45120883396"
 }
