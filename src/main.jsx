@@ -468,15 +468,17 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
 }
 
 function ReadPublisherPages({ pages }) {
+  const [open, setOpen] = useState(false);
   if (!pages?.length) return null;
-  return <details className="profile-copy-items publisher-read-pages">
+  return <details className="profile-copy-items publisher-read-pages" onToggle={event => setOpen(event.currentTarget.open)}>
     <summary>Прочитанные страницы · {pages.length}</summary>
-    <ul>
+    {open && <ul>
       {pages.map(page => <li key={page.url}>
         <External href={page.url}>{page.title}</External>
         {page.published && <> · <time dateTime={page.published}>{page.published.split("-").reverse().join(".")}</time></>}
+        {page.checked && <> · сверено <time dateTime={page.checked}>{page.checked.split("-").reverse().join(".")}</time></>}
       </li>)}
-    </ul>
+    </ul>}
   </details>;
 }
 
@@ -594,7 +596,8 @@ function SourcesPage({ atlas }) {
             </External>}
             {row.publisher && <External href={atlas.sources[row.publisher.site].url}>Сайт проекта</External>}
             {row.publisher?.archive && <External href={atlas.sources[row.publisher.archive].url}>Статьи и маршруты проекта</External>}
-            {row.publisher?.coverage && <span>В архиве прочитано {row.publisher.coverage.read} из {row.publisher.coverage.indexed} обнаруженных страниц</span>}
+            {row.publisher?.coverage?.indexed != null && <span>В архиве прочитано {row.publisher.coverage.read} из {row.publisher.coverage.indexed} обнаруженных страниц</span>}
+            {row.publisher?.coverage?.indexed === null && <span>Страницы из предыдущих обходов</span>}
           </div>
           <ReadPublisherPages pages={row.publisher?.coverage?.pages} />
           {row.copySample?.items?.length > 0 && <details className="profile-copy-items">

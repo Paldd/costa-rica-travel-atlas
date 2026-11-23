@@ -115,22 +115,38 @@ def build_social(sources_by_id, record_ids, aliases):
         ):
             raise ValueError("Invalid publisher archive review receipt")
         review["dayUtc"] = date.fromisoformat(review["dayUtc"]).isoformat()
+        history = review.get("history") is True
+        pages_seen = set()
+        pages_in_run = 0
         for source, coverage in archives.items():
-            if source not in sources_by_id or not (0 <= coverage["read"] <= coverage["indexed"]):
-                raise ValueError(f"Invalid publisher archive coverage for {source}")
+            read, indexed = coverage["read"], coverage["indexed"]
             pages = coverage.get("pages", [])
-            if len(pages) > coverage["read"] or len({page["url"] for page in pages}) != len(pages):
+            indexed_counts = isinstance(read, int) and isinstance(indexed, int) and 0 <= read <= indexed
+            past_archive = history and read is None and indexed is None and bool(pages)
+            if source not in sources_by_id or not (indexed_counts or past_archive):
+                raise ValueError(f"Invalid publisher archive coverage for {source}")
+            if not history and len(pages) > read:
                 raise ValueError(f"Invalid displayed archive pages for {source}")
             archive_host = urlsplit(sources_by_id[source]["url"]).hostname.removeprefix("www.")
             for page in pages:
                 url = urlsplit(page["url"])
+                page_key = archive_host + url.path.lower().rstrip("/")
                 if (
                     url.scheme != "https" or url.username or url.password or not url.hostname
                     or url.hostname.removeprefix("www.") != archive_host or not page["title"].strip()
+                    or page_key in pages_seen
                 ):
                     raise ValueError(f"Invalid read page for {source}: {page['url']}")
+                pages_seen.add(page_key)
                 if page.get("published"):
                     page["published"] = date.fromisoformat(page["published"]).isoformat()
+                if history:
+                    page["checked"] = date.fromisoformat(page["checked"]).isoformat()
+                    if page["checked"] > review["dayUtc"] or not isinstance(page.get("readThisRun", False), bool):
+                        raise ValueError(f"Invalid verification date for {source}: {page['url']}")
+                    pages_in_run += page.get("readThisRun", False)
+        if history and (len(pages_seen) != review["pagesReadToDate"] or pages_in_run != review["pagesRead"]):
+            raise ValueError("The publisher coverage counts do not match the listed articles")
         linked_archives = set()
         for profile in profiles.values():
             publisher = profile.get("publisher")

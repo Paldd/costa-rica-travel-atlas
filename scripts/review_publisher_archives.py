@@ -309,34 +309,64 @@ def write_json(path, data):
     temp.replace(path)
 
 
-def public_coverage(summary, results, run_url):
+def last_successful_read(entry):
+    return entry if entry.get("status") == "read" else entry.get("lastSuccessful")
+
+
+def restore_public_receipts(state, archives, catalog, snapshot):
+    for archive_id, coverage in snapshot.get("bySource", {}).items():
+        if archive_id not in archives:
+            continue
+        previous = state.setdefault(archive_id, {})
+        for page in coverage.get("pages", []):
+            url = page["url"]
+            if host(url) != host(catalog[archive_id]):
+                continue
+            key = canonical(url)
+            entry = previous.get(key, {})
+            if last_successful_read(entry):
+                continue
+            receipt = {
+                "status": "read", "url": url, "finalUrl": url, "title": page["title"],
+                "checked": page.get("checked") or snapshot["dayUtc"], "date": page.get("published", ""),
+            }
+            if entry:
+                entry["lastSuccessful"] = receipt
+            else:
+                previous[key] = receipt
+
+
+def public_coverage(summary, results, history, run_url):
     keys = ("dayUtc", "archives", "archivesRead", "pagesChecked", "pagesRead", "pagesReadToDate")
+    latest = {canonical(article["finalUrl"]) for source in results for article in source.get("checked", [])
+              if article["status"] == "read"}
     coverage = {}
     seen = set()
-    for source in results:
-        if source["status"] != "read":
-            continue
+    ordered = sorted(results, key=lambda source: (not source["profiles"], source["status"] != "read", source["sourceId"]))
+    for source in ordered:
+        archive_id = source["sourceId"]
         pages = []
-        for article in source["checked"]:
-            if article["status"] != "read":
-                continue
+        for article in sorted(history[archive_id], key=lambda row: row["checked"], reverse=True):
             url = article["finalUrl"]
             article_key = canonical(url)
             if article_key in seen:
                 continue
             seen.add(article_key)
             title = " ".join(article["title"].split())
-            page = {"url": url, "title": title or source["archive"]}
+            page = {"url": url, "title": title or source["archive"], "checked": article["checked"]}
             if published := sitemap_date(article.get("date", "")):
                 page["published"] = published
+            if article_key in latest:
+                page["readThisRun"] = True
             pages.append(page)
-        entry = {"indexed": source["indexedPages"], "read": source["indexedPagesRead"]}
-        if pages:
-            entry["pages"] = sorted(pages, key=lambda page: (page.get("published", ""), page["title"]), reverse=True)
-        coverage[source["sourceId"]] = entry
-    if len(seen) != summary["pagesRead"]:
+        if source["status"] == "read" or pages:
+            coverage[archive_id] = {
+                "indexed": source.get("indexedPages"), "read": source.get("indexedPagesRead"),
+                "pages": sorted(pages, key=lambda page: (page["checked"], page.get("published", ""), page["title"]), reverse=True),
+            }
+    if len(seen) != summary["pagesReadToDate"] or len(latest) != summary["pagesRead"] or not latest <= seen:
         raise ValueError("Public coverage does not match the reviewed pages")
-    return {**{key: summary[key] for key in keys}, "runUrl": run_url, "bySource": coverage}
+    return {**{key: summary[key] for key in keys}, "runUrl": run_url, "history": True, "bySource": coverage}
 
 
 def main():
@@ -366,6 +396,7 @@ def main():
         archives.setdefault(source_id, [])
     index = {canonical(row["url"]): row for row in read_json(args.refresh, {})["results"]}
     state = read_json(args.state, {})
+    restore_public_receipts(state, archives, catalog, read_json(DATA / "publisher-review-coverage.json", {}))
     current = []
     analyze = analyzer()
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
@@ -374,7 +405,8 @@ def main():
             archive = catalog[archive_id]
             result = index.get(canonical(archive))
             if not result or result["status"] != "read":
-                current.append({"archive": archive, "profiles": profiles, "status": result["status"] if result else "unconfigured"})
+                current.append({"archive": archive, "sourceId": archive_id, "profiles": profiles,
+                                "status": result["status"] if result else "unconfigured"})
                 continue
             previous = state.setdefault(archive_id, {})
             pages = archive_pages(result, archive)
@@ -386,7 +418,11 @@ def main():
             batch = future.result() if future else []
             previous = state[archive_id]
             for row in batch:
-                previous[canonical(row["url"])] = {**row, "checked": day.isoformat()}
+                key = canonical(row["url"])
+                receipt = {**row, "checked": day.isoformat()}
+                if row["status"] != "read" and (verified := last_successful_read(previous.get(key, {}))):
+                    receipt["lastSuccessful"] = verified
+                previous[key] = receipt
             indexed_read = sum(previous.get(key, {}).get("status") == "read" for key in pages)
             current.append({"archive": catalog[archive_id], "sourceId": archive_id, "profiles": archives[archive_id], "status": "read",
                             "checked": batch, "indexedPages": len(pages), "indexedPagesRead": indexed_read,
@@ -394,8 +430,11 @@ def main():
 
     pages = [row for source in current for row in source.get("checked", [])]
     pages_read = {canonical(row["finalUrl"]) for row in pages if row["status"] == "read"}
-    all_pages_read = {canonical(row["finalUrl"]) for key in archives for row in state.get(key, {}).values()
-                      if row["status"] == "read"}
+    history = {
+        key: [receipt for row in state.get(key, {}).values() if (receipt := last_successful_read(row))]
+        for key in archives
+    }
+    all_pages_read = {canonical(row["finalUrl"]) for pages in history.values() for row in pages}
     native_candidates = social_candidates(state, archives, catalog)
     videos = video_candidates(state, archives, catalog)
     summary = {"dayUtc": day.isoformat(), "archives": len(archives),
@@ -412,7 +451,7 @@ def main():
     write_json(args.state, state)
     write_json(args.out, {**summary, "results": current, "socialCandidates": native_candidates, "videoCandidates": videos})
     if args.public_coverage:
-        write_json(args.public_coverage, public_coverage(summary, current, args.run_url))
+        write_json(args.public_coverage, public_coverage(summary, current, history, args.run_url))
     print(json.dumps(summary, ensure_ascii=False))
 
 

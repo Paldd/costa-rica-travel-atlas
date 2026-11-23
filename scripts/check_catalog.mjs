@@ -189,18 +189,24 @@ assert(profilesWithSites.some(row => row.platform === "Instagram" && row.publish
 assert(profilesWithSites.some(row => row.platform === "Facebook" && row.publisher.archive));
 const publisherReview = atlas.social.publisherReview;
 assert.match(publisherReview.dayUtc, /^\d{4}-\d{2}-\d{2}$/);
-assert(publisherReview.pagesRead > 0 && publisherReview.pagesReadToDate >= publisherReview.pagesRead);
+assert(publisherReview.pagesRead >= 0 && publisherReview.pagesReadToDate >= publisherReview.pagesRead);
 const readPageByArchive = new Map(Object.entries(publisherReview.guidePages));
 for (const profile of atlas.social.profiles) {
   if (profile.publisher?.coverage?.pages) readPageByArchive.set(profile.publisher.archive, profile.publisher.coverage.pages);
 }
-const publicReadPages = new Set([...readPageByArchive.values()].flatMap(pages => pages.map(page => page.url)));
-assert.equal(publicReadPages.size, publisherReview.pagesRead);
+const publicReadPages = [...readPageByArchive.values()].flat();
+assert.equal(new Set(publicReadPages.map(page => page.url)).size, publisherReview.history ? publisherReview.pagesReadToDate : publisherReview.pagesRead);
+if (publisherReview.history) {
+  assert.equal(publicReadPages.filter(page => page.readThisRun).length, publisherReview.pagesRead);
+  assert(publicReadPages.every(page => /^\d{4}-\d{2}-\d{2}$/.test(page.checked)));
+}
 const coveredPublishers = profilesWithSites.filter(row => row.publisher.coverage);
 assert(coveredPublishers.some(row => row.platform === "Facebook"));
 for (const row of coveredPublishers) {
-  const { read, indexed } = row.publisher.coverage;
-  assert(Number.isInteger(read) && Number.isInteger(indexed) && 0 <= read && read <= indexed, row.name);
+  const { read, indexed, pages } = row.publisher.coverage;
+  const currentArchive = Number.isInteger(read) && Number.isInteger(indexed) && 0 <= read && read <= indexed;
+  const pastArchive = publisherReview.history && read === null && indexed === null && pages?.length;
+  assert(currentArchive || pastArchive, row.name);
   assert(row.publisher.archive in atlas.sources, row.name);
 }
 const facebookLinks = atlas.social.profiles.filter(row => row.platform === "Facebook").flatMap(row => row.postLinks || []);
