@@ -49,20 +49,24 @@
         "sources": [
           "mora-catumo-rural-guide",
           "mora-llano-camp-pin",
-          "mora-llano-camp-contact"
+          "mora-llano-camp-contact",
+          "mora-ermita-2-ticos",
+          "mora-ermita-2-gps"
         ]
       },
       {
         "day": 2,
         "title": "Пьедрас-Неграс → Эль-Родео или день в лагере",
-        "note": "Для подготовленной группы возможен спуск к Río Jaris и подъём к Эль-Родео. При дожде или если дети устали, оставьте спокойное утро на площадке и вернитесь по дороге Моры.",
+        "note": "Для подготовленной группы возможен спуск к Río Jaris и подъём в Эль-Родео. Записанный вариант даёт 10,04 км и около 504 м набора. При дожде или если дети устали, оставьте спокойное утро на площадке и вернитесь по дороге Моры.",
         "stops": [
           "mora-llano-escondido-camping",
           "mora-ermitas-etapa-3"
         ],
         "sources": [
           "mora-llano-camp-listing",
-          "mora-catumo-rural-guide"
+          "mora-catumo-rural-guide",
+          "mora-ermita-3-ticos",
+          "mora-ermita-3-gps"
         ]
       }
     ]
