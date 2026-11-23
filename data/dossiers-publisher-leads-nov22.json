@@ -1,0 +1,127 @@
+{
+  "esterillos-sirena-shore": {
+    "stops": [
+      {
+        "point": "esterillos-oeste-beach-area",
+        "role": "Сухой берег · ориентир начала прогулки",
+        "note": "Подберите легальное место парковки в посёлке и выходите на общественный пляж."
+      },
+      {
+        "point": "esterillos-sirena-sculpture",
+        "role": "Скульптура в воде · визуальный ориентир",
+        "note": "Смотрите с берега. Прилив закрывает основания скал и меняет доступность побережья."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Почему статуя важна для посёлка",
+        "text": "Бронзовую фигуру Вальверде повредил сильный прибой в 2023 году. Жители подняли и восстановили её. В декабре 2024 года местные СМИ показали возвращение фигуры на береговой постамент.",
+        "sources": [
+          "parrita-esterillos-shore",
+          "esterillos-sirena-community-restoration",
+          "esterillos-sirena-central-noticias-film"
+        ]
+      },
+      {
+        "title": "Море и время прогулки",
+        "text": "Оцените прибой по выходе на песок. Планируйте осмотр с сухого берега и оставьте детям возможность гулять подальше от волны. Возьмите воду, головной убор и обувь для берега.",
+        "sources": [
+          "parrita-esterillos-shore",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "title": "Ночёвка и занятие поблизости",
+        "text": "В посёлке есть отдельные карточки Camping Playa Esterillos и Las Brisas. Условия подъезда и ночёвки уточняйте у их хозяев. За уроком сёрфа можно обратиться в местную школу Aloha.",
+        "sources": [
+          "esterillos-playa-site-directory",
+          "las-brisas-esterillos-camping-local",
+          "aloha-esterillos-family-instructor"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Парриты · информация о пляже",
+        "source": "parrita-esterillos-shore",
+        "note": "Уточните доступность общественного выхода к пляжу и временные ограничения."
+      },
+      {
+        "name": "Aloha Surf · местная школа",
+        "source": "aloha-esterillos-family-instructor",
+        "note": "Если хотите добавить урок, сверяйте возраст, погоду и место встречи со школой."
+      }
+    ],
+    "galleries": [
+      "adondeir-esterillos-sirena",
+      "esterillos-sirena-community-restoration"
+    ],
+    "videos": [
+      "esterillos-sirena-central-noticias-film",
+      "esterillos-sirena-drone-film"
+    ],
+    "nearby": [
+      "esterillos-aloha-surf",
+      "esterillos-las-brisas-camping",
+      "esterillos-playa-super-sol-camping",
+      "esterillos-palo-seco-roof-2"
+    ]
+  },
+  "dota-kawalulu-cabin": {
+    "stops": [
+      {
+        "point": "dota-jardin-public-church",
+        "role": "Хардин-де-Дота · ориентир посёлка",
+        "note": "Церковь обозначает район. Адрес дома и инструкцию по въезду выдаёт хозяин."
+      },
+      {
+        "point": "coopedota-privilegios-cafe",
+        "role": "Дополнительная остановка · кофе в Санта-Марии",
+        "note": "Кафе CoopeDota и экскурсия вынесены в отдельную карточку."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что в доме",
+        "text": "В объявлении показаны четыре спальни, кухня, зона барбекю, парковка и бильярдный стол. Планировка и количество доступных кроватей зависят от состава брони. В отзывах гости часто отмечают общие помещения и формат для семьи.",
+        "sources": [
+          "dota-kawalulu-host-listing"
+        ]
+      },
+      {
+        "title": "Дорога и одежда",
+        "text": "Используйте координаты хозяев для последнего участка. Подтвердите подъезд в дождь и правила заселения. Для прохладного вечера пригодятся тёплая одежда и обувь, которая держится на мокрых ступенях.",
+        "sources": [
+          "dota-kawalulu-host-listing",
+          "dota-jardin-church-place-map"
+        ]
+      },
+      {
+        "title": "Что добавить на следующий день",
+        "text": "Санта-Мария подходит для остановки на кофе или посещения CoopeDota по договорённости. Условия проката велосипедов и самостоятельных поездок указаны в отдельных карточках района.",
+        "sources": [
+          "dota-kawalulu-host-listing",
+          "dota-jardin-church-place-map",
+          "dota-kawalulu-adondeir-story"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Хозяева Cabaña Kawalulu",
+        "source": "dota-kawalulu-host-listing",
+        "note": "Через объявление уточните адрес, правила заселения, вместимость и ночёвку детей."
+      }
+    ],
+    "galleries": [
+      "dota-kawalulu-host-listing"
+    ],
+    "nearby": [
+      "coopedota-santa-maria-coffee",
+      "dota-es-dota-mtb",
+      "dota-santa-maria-canon-guarco-10"
+    ]
+  }
+}
