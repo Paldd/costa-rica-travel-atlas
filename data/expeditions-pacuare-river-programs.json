@@ -1,0 +1,153 @@
+[
+  {
+    "id": "pacuare-rio-vista-raft-zip-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Пакуаре и Rio Vista Lodge · три дня рафтинга и канопи",
+    "native": "Pacuare Outdoor Center · Raft + Zip · Rio Vista Lodge · Siquirres",
+    "level": "hard",
+    "days": 3,
+    "activities": [
+      "rafting",
+      "canopy",
+      "hiking",
+      "river",
+      "forest"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "transfer",
+      "car",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "poc-pacuare-raft-zip-three",
+      "poc-rio-vista-rooms",
+      "poc-lindavista-meeting-may-2026",
+      "poc-contact",
+      "poc-rio-vista-room-film",
+      "pacuare-whitewater"
+    ],
+    "summary": "Два сплава по Пакуаре, две ночи на лесистом берегу и отдельный день на канопи, лесные прогулки и водопад. Пороги от II до IV класса по программе оператора.",
+    "plan": "Сбор в районе Lindavista. На первый день предусмотрен речной подход к Rio Vista Lodge. В середине поездки базируйтесь в лодже. На третий день выходите с гидом в сторону Сикирреса.",
+    "conditions": "Минимум по опубликованной программе 12 лет. В подробном блоке указано 695 USD с человека плюс 13% налога. Сбор в 2026 году в 10:00, в 2027 в 11:00. Сверьте цену, трансфер и уровень воды на дату поездки.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Lindavista → Rio Vista Lodge",
+        "note": "Встреча, подгонка экипировки, пороги II–III, обед на берегу и короткий пеший подъём к лоджу.",
+        "stops": [],
+        "sources": [
+          "poc-pacuare-raft-zip-three",
+          "poc-lindavista-meeting-may-2026"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Канопи, лес и водопад",
+        "note": "Зиплайн, качели Tarzan и прогулка к воде. Купальные остановки и участие в активностях гид подтверждает по погоде и уровню воды.",
+        "stops": [],
+        "sources": [
+          "poc-pacuare-raft-zip-three",
+          "poc-rio-vista-nature-field"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Нижний Пакуаре → Сикиррес",
+        "note": "Сложный участок III–IV, каньоны и район выхода у Сикирреса. В программе предусмотрены остановка на обед и возможность переодеться.",
+        "stops": [],
+        "sources": [
+          "poc-pacuare-raft-zip-three",
+          "pacuare-whitewater"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tortuguero-pacuare-roots-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Тортугеро → Пакуаре · три дня с каноэ и рафтингом",
+    "native": "Costa Rica Roots Tours · Full Roots con Rafting · Tortuguero · La Pavona · Río Pacuare",
+    "level": "hard",
+    "days": 3,
+    "activities": [
+      "boat",
+      "rafting",
+      "hiking",
+      "wildlife",
+      "forest",
+      "river"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "roots-tortuguero-pacuare-three",
+      "roots-tortuguero-pacuare-pdf",
+      "roots-tortuguero-direct-contact",
+      "tort-acto",
+      "tortuguero-public-use-decree-35848"
+    ],
+    "summary": "Местные гиды соединяют два дня в Тортугеро, включая пассажирскую лодку и каноэ, с отдельным днём рафтинга класса III–IV на Пакуаре.",
+    "plan": "Трансфер и лодка в Тортугеро, две ночи в La Casona или аналогичном отеле по брони. Во второй день каноэ и тропа. На выезде ранняя лодка в La Pavona, дальше наземный трансфер к рафтингу и переезд к следующей остановке.",
+    "conditions": "Возраст и опыт для речной части, входной билет SINAC и конечный пункт трансфера согласуйте с гидом. Сезонный вечерний тур за черепахами заявлен с июля по октябрь. Начало и линия сплава зависят от гида и воды.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Приезд в Тортугеро",
+        "note": "Микроавтобус и пассажирская лодка в деревню. После заселения — вечерняя прогулка или сезонное наблюдение за черепахами с гидом.",
+        "stops": [
+          "tortuguero-canals"
+        ],
+        "sources": [
+          "roots-tortuguero-pacuare-three",
+          "roots-tortuguero-pacuare-pdf"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Каноэ на рассвете и тропа",
+        "note": "Около трёх часов наблюдений с воды, затем прогулка по парку. Билет SINAC, причал и выбранные каналы сверяются перед выходом.",
+        "stops": [
+          "tortuguero-mora-canoe-kayak"
+        ],
+        "sources": [
+          "roots-tortuguero-pacuare-pdf",
+          "tort-acto"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "La Pavona → сплав на Пакуаре",
+        "note": "Ранний выезд из Тортугеро. Оператор описывает около четырёх часов рафтинга с обедом по пути. Смотрите время и адрес высадки в подтверждении.",
+        "stops": [],
+        "sources": [
+          "roots-tortuguero-pacuare-three",
+          "roots-tortuguero-pacuare-pdf"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,223 @@
+{
+  "senderos-rodeo-picagres-mtb-37": {
+    "stops": [
+      {
+        "point": "senderos-colon-base",
+        "role": "Старт и парковка · Senderos Colón",
+        "note": "При въезде уточните режим парковки и открытые связи с сельской дорогой."
+      },
+      {
+        "point": "mora-el-rodeo",
+        "role": "Эль-Родео · перед спуском в район Харис",
+        "note": "Часть маршрута идёт в сельском окружении по дорогам с машинами."
+      },
+      {
+        "point": "piedras-negras",
+        "role": "Пьедрас-Неграс · подъём от реки",
+        "note": "Ориентир поселения после подъёма со стороны Рио-Харис."
+      },
+      {
+        "point": "mora-picagres",
+        "role": "Пикагрес · район поворота назад",
+        "note": "На историческом выезде здесь начинался короткий отрезок в сторону Бальсы перед возвратом."
+      }
+    ],
+    "track": "media-mora-rodeo-picagres-track",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Поверхность и набор",
+        "text": "Автор описывает пыль и заметный набор высоты между речной долиной и Пьедрас-Неграс. Сухим утром проще оценить покрытие. После дождя вероятны глина и промоины.",
+        "sources": [
+          "media-mora-rodeo-picagres-track",
+          "media-mora-piedras-motorumbo"
+        ]
+      },
+      {
+        "title": "Что взять и как сократить",
+        "text": "Подойдут MTB с исправными тормозами, шлем, запас воды и комплект для проколов. Короткий дорожный маршрут к капелле Эль-Родео вынесен отдельно и подходит для спокойной проверки собственного e-bike.",
+        "sources": [
+          "media-mora-rodeo-picagres-track",
+          "media-mora-rodeo-mtb-video",
+          "senderos-colon"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Senderos Colón · администрация парка",
+        "source": "senderos-colon-owner-contact",
+        "note": "Уточните парковку, открытые ворота и правила въезда с MTB. Для электровелосипеда уточните разрешённые участки отдельно."
+      }
+    ],
+    "galleries": [
+      "gallery-senderos-colon-qbl",
+      "media-mora-rodeo-picagres-track"
+    ],
+    "videos": [
+      "media-mora-rodeo-mtb-video"
+    ],
+    "nearby": [
+      "ciudad-colon-rodeo-ebike",
+      "mora-llano-escondido-camping"
+    ]
+  },
+  "pacuare-rio-vista-raft-zip-3": {
+    "stops": [
+      {
+        "point": "linda-vista",
+        "role": "Сбор · Lindavista",
+        "note": "Поездку и отправление к воде согласуйте с Pacuare Outdoor Center."
+      },
+      {
+        "point": "linda-vista-launch",
+        "role": "Речной старт · Linda Vista",
+        "note": "Ориентир спуска на воду, открытие и подъезд подтверждает команда."
+      },
+      {
+        "point": "pacuare-siquirres-takeout-sector",
+        "role": "Ориентир выхода у Сикирреса",
+        "note": "Сектор на речной карте. Место высадки и переодевания укажите в своём подтверждении."
+      }
+    ],
+    "track": "poc-pacuare-raft-zip-three",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что входит",
+        "text": "Две ночи в Rio Vista Lodge, питание и дневная программа канопи входят в описанный тариф. Каньонинг заявлен как отдельная доплата. Уточните трансфер и страховку для выбранной даты.",
+        "sources": [
+          "poc-pacuare-raft-zip-three",
+          "poc-rio-vista-rooms"
+        ]
+      },
+      {
+        "title": "Экипировка и вода",
+        "text": "У команды проверьте размер жилета и шлема, допустимый багаж и обувь. Возьмите комплект сухой одежды для лоджа, обувь с фиксацией и закрывающийся пакет для вещей. Согласуйте возможность купания и канопи утром на месте.",
+        "sources": [
+          "poc-pacuare-raft-zip-three",
+          "poc-contact"
+        ]
+      },
+      {
+        "title": "Как устроена ночёвка",
+        "text": "Лодж находится над левым берегом. От места высадки до комнат нужно пройти пешком. На карте отмечены подтверждённые точки доступа к реке, а точный пин лоджа запрашивайте у оператора.",
+        "sources": [
+          "poc-rio-vista-rooms",
+          "poc-rio-vista-room-film",
+          "poc-pacuare-raft-zip-three"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pacuare Outdoor Center · бронирование",
+        "source": "poc-contact",
+        "note": "Сверьте минимальный возраст, итоговый тариф, время встречи в вашем году, экипировку и трансфер.",
+        "phone": "+506 8922 4570",
+        "email": "info@pacuareoutdoorcenter.com",
+        "url": "https://wa.me/50689224570"
+      }
+    ],
+    "galleries": [
+      "poc-rio-vista-rooms",
+      "poc-pacuare-raft-zip-three",
+      "media-pacuare-rafting-commons"
+    ],
+    "videos": [
+      "poc-rio-vista-room-film"
+    ],
+    "nearby": [
+      "pacuare-weekend",
+      "pacuare-day",
+      "tres-equis-pacuare-farm-camp"
+    ],
+    "photos": [
+      "pacuare-rafting-river-commons"
+    ]
+  },
+  "tortuguero-pacuare-roots-3": {
+    "stops": [
+      {
+        "point": "pavona-dock",
+        "role": "La Pavona · пассажирский причал",
+        "note": "Пересадка на лодку в Тортугеро и обратно. Точное время подтверждает перевозчик."
+      },
+      {
+        "point": "tortuguero-dock",
+        "role": "Тортугеро · поселковый причал",
+        "note": "Ориентир на две ночи. Встречу назначает Costa Rica Roots Tours."
+      },
+      {
+        "point": "tortuguero-cuatro-esquinas-station",
+        "role": "Cuatro Esquinas · национальный парк",
+        "note": "Пост парка и ориентир входа для дневных прогулок и каноэ."
+      },
+      {
+        "point": "siquirres",
+        "role": "Сикиррес · район рафтинга",
+        "note": "Наземный ориентир выезда. Адрес места посадки на рафт сообщает ваш гид."
+      }
+    ],
+    "track": "roots-tortuguero-pacuare-pdf",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два дня в Тортугеро",
+        "text": "Тихое гребное каноэ помогает посмотреть животных из каналов. Для входа нужен билет по правилам парка. Тур знакомства с черепахами зависит от сезона и условий проводника.",
+        "sources": [
+          "roots-tortuguero-pacuare-three",
+          "roots-tortuguero-pacuare-pdf",
+          "tort-acto",
+          "tortuguero-public-use-decree-35848"
+        ]
+      },
+      {
+        "title": "Человек, лодка и багаж",
+        "text": "В PDF на третий день указан выход из посёлка около 05:00, затем завтрак и рафтинг. На воду возьмите дождевую накидку и сменный сухой комплект. Порядок перевозки багажа и доступные адреса после рафтинга согласуйте заранее.",
+        "sources": [
+          "roots-tortuguero-pacuare-pdf",
+          "roots-tortuguero-pacuare-three",
+          "roots-tortuguero-direct-contact"
+        ]
+      },
+      {
+        "title": "Возраст и пороги",
+        "text": "Пакет описывает около 30 км речной части класса III–IV. Возраст допуска и оптимальный размер экипировки подтверждает оператор. Для семей с младшими детьми можно отдельно взять каноэ в Тортугеро.",
+        "sources": [
+          "roots-tortuguero-pacuare-three",
+          "tort-acto"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Costa Rica Roots Tours · Тортугеро",
+        "source": "roots-tortuguero-direct-contact",
+        "note": "Сообщите возраст всех участников и два адреса трансфера. Уточните доступный сезонный тур, итоговую цену и правила по багажу.",
+        "phone": "+506 2767 3107",
+        "whatsapp": "https://wa.me/50684089262",
+        "email": "info@costaricarootstours.com"
+      },
+      {
+        "name": "Администрация парка · ACTO",
+        "source": "tort-acto",
+        "note": "Билеты, текущее расписание и правила вечерних и лодочных туров."
+      }
+    ],
+    "galleries": [
+      "roots-tortuguero-pacuare-three",
+      "media-pacuare-rafting-commons"
+    ],
+    "photos": [
+      "atlas-tortuguero-river",
+      "atlas-tortuguero-village",
+      "pacuare-rafting-river-commons"
+    ],
+    "nearby": [
+      "tortuguero-mora-canoe-kayak",
+      "tortuguero-no-car",
+      "pacuare-day"
+    ]
+  }
+}

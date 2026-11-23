@@ -979,5 +979,41 @@
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Playa_%C3%93rganos._Paquera._Costa_Rica.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "pacuare-rafting-river-commons": {
+    "file": "pacuare-rafting-river-commons.jpg",
+    "alt": "Рафт проходит порог Пакуаре между залесёнными берегами",
+    "caption": "Река Пакуаре · архивный рафтинг, уменьшенная копия",
+    "author": "Autentico Adventures Costa Rica",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Pacuareriverrafting.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "playa-negra-puerto-viejo-commons": {
+    "file": "playa-negra-puerto-viejo-commons.jpg",
+    "alt": "Чёрный песок Плайя-Негра у Пуэрто-Вьехо-де-Таламанка",
+    "caption": "Плайя-Негра у Пуэрто-Вьехо · август 2010, уменьшенная копия",
+    "author": "Jsfouche",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Playa_Negra,_Puerto_Viejo.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "roca-bruja-naranjo-commons": {
+    "file": "roca-bruja-naranjo-commons.jpg",
+    "alt": "Рока-Бруха в волнах у Плайя-Наранхо на тихоокеанской стороне Гуанакасте",
+    "caption": "Рока-Бруха · март 2006, уменьшенная копия",
+    "author": "dog4aday",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Roca_Bruja_-_Guanacaste_-_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "quepos-marina-commons": {
+    "file": "quepos-marina-commons.jpg",
+    "alt": "Лодки у причалов марины Кепоса",
+    "caption": "Марина Кепоса · февраль 2026, уменьшенная копия",
+    "author": "Hanay",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Quepos_Marina_(1).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   }
 }

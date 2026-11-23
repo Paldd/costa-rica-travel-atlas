@@ -10,6 +10,7 @@ import {
 } from "./catalog.js";
 import { addRouteToTrip, editTrip, initialTripPlans, newTrip, resolveTripRoutes, saveTripPlans, selectNewTrip } from "./tripPlans.js";
 import ActivityIcon, { mainActivity } from "./ActivityIcon.jsx";
+import RoutePreview from "./RoutePreview.jsx";
 import "./styles.css";
 
 const AtlasMap = lazy(() => import("./AtlasMap.jsx"));
@@ -26,8 +27,7 @@ const pictures = {
 const prominent = ["sabana-oka", "chirripo", "marino-ballena"];
 const frontierQuery = new URLSearchParams({ activity: "border" });
 const placeInPlanner = id => urlFor("place", new URLSearchParams({ from: "trips" }), id);
-const photoFor = row => row.dossier?.photos?.[0] ?? row.dossier?.stageCover ?? pictures[row.id]
-  ?? (row.native.includes("Arenal") ? { ...heroImage, caption: "Иллюстрация Ареналя" } : undefined);
+const photoFor = row => row.dossier?.photos?.[0] ?? row.dossier?.stageCover ?? pictures[row.id];
 
 function readRoute() {
   const [name = "catalog", query = ""] = window.location.hash.slice(1).split("?", 2);
@@ -202,15 +202,19 @@ function SaveButton({ row, saved, toggle, large = false }) {
   </button>;
 }
 
-function RouteCard({ row, context, saved, toggle }) {
+function RouteCard({ row, lines, context, saved, toggle }) {
   const photo = photoFor(row);
+  const [failedPhoto, setFailedPhoto] = useState(null);
   const activity = mainActivity(row);
   const { stops = [], galleries = [], videos = [] } = row.dossier || {};
   return <article className={`route-card region-${row.region}`}>
-    {photo && <a className="card-photo" href={urlFor("place", context, row.id)} tabIndex={-1} aria-hidden="true">
-      <img src={asset(`photos/${photo.file}`)} alt="" loading={prominent.includes(row.id) ? "eager" : "lazy"} />
-      {photo.caption && <span>{photo.caption}</span>}
-    </a>}
+    <a className="card-photo" href={urlFor("place", context, row.id)} tabIndex={-1} aria-hidden="true">
+      {photo && failedPhoto !== photo.file ? <>
+        <img src={asset(`photos/${photo.file}`)} alt="" loading={prominent.includes(row.id) ? "eager" : "lazy"}
+          onError={() => setFailedPhoto(photo.file)} />
+        {photo.caption && <span>{photo.caption}</span>}
+      </> : <RoutePreview row={row} lines={lines} />}
+    </a>
     <div className="card-body">
       <div className="card-activity"><ActivityIcon activity={activity} size={17} />{activities[activity]}</div>
       <div className="card-heading">
@@ -253,9 +257,9 @@ function DossierContacts({ contacts, sources }) {
   </section>;
 }
 
-function RoutePhoto({ photo, className, loading }) {
+function RoutePhoto({ photo, className, loading, onError }) {
   return <figure className={className}>
-    <img src={asset(`photos/${photo.file}`)} alt={photo.alt} loading={loading} />
+    <img src={asset(`photos/${photo.file}`)} alt={photo.alt} loading={loading} onError={onError} />
     {photo.caption && <figcaption>
       {photo.caption}
       {photo.original && <> · <External href={photo.original}>{photo.author}</External>
@@ -364,6 +368,7 @@ function RouteReports({ row, sources }) {
 }
 
 function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTemplate }) {
+  const [failedPhoto, setFailedPhoto] = useState(null);
   const query = new URLSearchParams(route.filters);
   const from = query.get("from");
   query.delete("from");
@@ -381,7 +386,7 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
   ];
   return <>
     <a href={back} className="back-link"><ArrowLeft size={18} /> {from === "trips" ? "К моим поездкам" : "К каталогу"}</a>
-    <section className={`detail-hero ${photo ? "" : "no-photo"}`}>
+    <section className="detail-hero">
       <div>
         <h1>{row.title}</h1>
         <p className="detail-location"><ActivityIcon activity={mainActivity(row)} />{row.countries?.length > 1 ? row.countries.map(id => countries[id]).join(" → ") : regions[row.region]} · {kinds[row.kind]}</p>
@@ -400,7 +405,9 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
           </button>}
         </div>
       </div>
-      {photo && <RoutePhoto photo={photo} className="detail-photo" />}
+      {photo && failedPhoto !== photo.file
+        ? <RoutePhoto photo={photo} className="detail-photo" onError={() => setFailedPhoto(photo.file)} />
+        : <RoutePreview row={row} lines={atlas.lines} />}
     </section>
     <dl className="details-stats">
       {stats.map(([Icon, label, value]) => <div key={label}>
@@ -460,6 +467,19 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
   </>;
 }
 
+function ReadPublisherPages({ pages }) {
+  if (!pages?.length) return null;
+  return <details className="profile-copy-items publisher-read-pages">
+    <summary>Прочитанные страницы · {pages.length}</summary>
+    <ul>
+      {pages.map(page => <li key={page.url}>
+        <External href={page.url}>{page.title}</External>
+        {page.published && <> · <time dateTime={page.published}>{page.published.split("-").reverse().join(".")}</time></>}
+      </li>)}
+    </ul>
+  </details>;
+}
+
 function SourcesPage({ atlas }) {
   const [query, setQuery] = useState("");
   const [platform, setPlatform] = useState("");
@@ -481,6 +501,7 @@ function SourcesPage({ atlas }) {
     (coverage !== "originals" || row.postLinks?.length) &&
     (coverage !== "multiple-originals" || row.postLinks?.length > 1) &&
     (coverage !== "archive" || row.publisher?.archive) &&
+    (coverage !== "publisher-pages" || row.publisher?.coverage?.pages?.length) &&
     (coverage !== "copies" || row.copySample) &&
     (coverage !== "live" || row.liveCheck) &&
     (coverage !== "text-unconfirmed" || row.liveCheck && row.liveCheck.status !== "feed-visible") &&
@@ -538,6 +559,7 @@ function SourcesPage({ atlas }) {
             <option value="missing">Без прямой выборки постов</option>
             <option value="copies">Есть прочитанные копии</option>
             <option value="archive">Есть архив сайта</option>
+            <option value="publisher-pages">Есть прочитанные страницы сайта</option>
             <option value="live">С отметкой проверки ленты</option>
             <option value="text-unconfirmed">Текст автора пока не подтверждён</option>
             <option value="live-pending">Без отметки проверки ленты</option>
@@ -571,6 +593,7 @@ function SourcesPage({ atlas }) {
             {row.publisher?.archive && <External href={atlas.sources[row.publisher.archive].url}>Статьи и маршруты проекта</External>}
             {row.publisher?.coverage && <span>В архиве прочитано {row.publisher.coverage.read} из {row.publisher.coverage.indexed} обнаруженных страниц</span>}
           </div>
+          <ReadPublisherPages pages={row.publisher?.coverage?.pages} />
           {row.copySample?.items?.length > 0 && <details className="profile-copy-items">
             <summary>Что было в просмотренных публикациях</summary>
             <ul>{row.copySample.items.map(({ published, summary, record }) =>
@@ -582,6 +605,15 @@ function SourcesPage({ atlas }) {
         </div>)}
       </div>
     </details>
+    {Object.keys(publisherReview?.guidePages || {}).length > 0 && <details className="evidence-list">
+      <summary>Прочитанные страницы путеводителей <ChevronDown size={18} /></summary>
+      <div className="source-directory">
+        {Object.entries(publisherReview.guidePages).map(([source, pages]) => <div key={source}>
+          <External href={atlas.sources[source].url}>{atlas.sources[source].title}</External>
+          <ReadPublisherPages pages={pages} />
+        </div>)}
+      </div>
+    </details>}
     {Boolean(atlas.guides?.length) && <details className="evidence-list" open>
       <summary>Путеводители на испанском и английском <ChevronDown size={18} /></summary>
       {Object.entries(guideLanguages).map(([language, label]) => <section key={language}>
@@ -664,7 +696,7 @@ function CatalogPage({ atlas, route, setQuery, saved, toggle }) {
           }} />
       </Suspense>}
       <div className="cards">
-        {records.slice(0, limit).map(row => <RouteCard key={row.id} row={row} context={context} saved={saved} toggle={toggle} />)}
+        {records.slice(0, limit).map(row => <RouteCard key={row.id} row={row} lines={atlas.lines} context={context} saved={saved} toggle={toggle} />)}
       </div>
       {records.length > limit && <div className="more-row">
         <button type="button" className="button secondary" onClick={() => setLimit(count => count + 18)}>Показать ещё</button>
@@ -730,7 +762,7 @@ function App() {
     <main className="wrap main" ref={main} tabIndex={-1} id="main-content">
       {error ? <div className="empty"><h1>Каталог не загрузился</h1><button type="button" className="button primary" onClick={() => location.reload()}>Повторить</button></div>
         : !atlas ? <p className="loading" role="status">Загружаем маршруты…</p>
-        : route.page === "place" ? record ? <Detail row={record} atlas={atlas} route={route} saved={saved} toggle={toggle}
+        : route.page === "place" ? record ? <Detail key={record.id} row={record} atlas={atlas} route={route} saved={saved} toggle={toggle}
           activePlan={activePlan} addRoute={id => updatePlans(state => addRouteToTrip(state, id))} useTemplate={createTrip} />
           : <div className="empty"><h1>Карточка не найдена</h1><a className="button primary" href="#catalog">К каталогу</a></div>
         : route.page === "sources" ? <SourcesPage atlas={atlas} />

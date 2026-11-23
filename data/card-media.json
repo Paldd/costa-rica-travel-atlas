@@ -17,7 +17,11 @@
   "avesol-pacuare-3": {
     "galleries": [
       "media-pacuare-raft-lodge",
-      "avesol-river-program"
+      "avesol-river-program",
+      "media-pacuare-rafting-commons"
+    ],
+    "photos": [
+      "pacuare-rafting-river-commons"
     ]
   },
   "babsita-roof-estrella": {
@@ -219,6 +223,11 @@
       "media-chirripo-race-2026-redr"
     ]
   },
+  "ciudad-colon-rodeo-ebike": {
+    "galleries": [
+      "media-mora-rodeo-picagres-track"
+    ]
+  },
   "cloudbridge": {
     "photos": [
       "atlas-cloudbridge-reception",
@@ -290,6 +299,11 @@
       "media-corobici-traveler-field",
       "media-canas-ict-field-guide",
       "rcr-corobici-river-safari"
+    ]
+  },
+  "cortinas-siquirres": {
+    "galleries": [
+      "gallery-cortinas-wikiloc"
     ]
   },
   "costa-ballena-rooftop-surf-3": {
@@ -561,6 +575,11 @@
       "gfg-2026-video"
     ]
   },
+  "guanacaste-fondo-90": {
+    "galleries": [
+      "gallery-gran-fondo-guanacaste-2026"
+    ]
+  },
   "guiones": {
     "galleries": [
       "media-guiones-marin-albums",
@@ -747,9 +766,32 @@
       "nalu-surf"
     ]
   },
+  "naranjo-4x4": {
+    "galleries": [
+      "gallery-witch-rock-guanacaste-commons"
+    ],
+    "photos": [
+      "roca-bruja-naranjo-commons"
+    ]
+  },
+  "naranjo-camp": {
+    "galleries": [
+      "gallery-witch-rock-guanacaste-commons"
+    ],
+    "photos": [
+      "roca-bruja-naranjo-commons"
+    ]
+  },
   "naranjo-surf": {
     "videos": [
       "media-naranjo-witch-rock-film"
+    ],
+    "galleries": [
+      "gallery-witch-rock-guanacaste-commons",
+      "naranjo-info"
+    ],
+    "photos": [
+      "roca-bruja-naranjo-commons"
     ]
   },
   "nauyaca-don-lulo": {
@@ -799,6 +841,11 @@
       "oka-film"
     ]
   },
+  "orosi-hot": {
+    "galleries": [
+      "gallery-orosi-thermal-operator"
+    ]
+  },
   "osa-pan-dulce-lesson": {
     "galleries": [
       "media-osa-matapalo-qbl-beaches"
@@ -815,7 +862,11 @@
   },
   "pacuare-day": {
     "galleries": [
-      "media-pacuare-raft-lodge"
+      "media-pacuare-raft-lodge",
+      "media-pacuare-rafting-commons"
+    ],
+    "photos": [
+      "pacuare-rafting-river-commons"
     ]
   },
   "pacuare-own-craft": {
@@ -826,7 +877,15 @@
   },
   "pacuare-weekend": {
     "galleries": [
-      "media-pacuare-raft-lodge"
+      "media-pacuare-raft-lodge",
+      "poc-rio-vista-rooms",
+      "media-pacuare-rafting-commons"
+    ],
+    "videos": [
+      "poc-rio-vista-room-film"
+    ],
+    "photos": [
+      "pacuare-rafting-river-commons"
     ]
   },
   "palo-seco-estuary-kayak-fishing": {
@@ -894,11 +953,23 @@
   "piedras-blancas": {
     "videos": [
       "media-piedras-blancas-field"
+    ],
+    "galleries": [
+      "gallery-piedras-blancas-ict",
+      "gallery-piedras-blancas-commons"
     ]
   },
   "pinuela-beach": {
     "galleries": [
       "rural-osa-ict-municipal-beaches"
+    ]
+  },
+  "playa-negra-caribe": {
+    "galleries": [
+      "gallery-negra-puerto-viejo-commons"
+    ],
+    "photos": [
+      "playa-negra-puerto-viejo-commons"
     ]
   },
   "playa-organos-paquera": {
@@ -916,6 +987,12 @@
     ],
     "videos": [
       "media-poas-visit"
+    ]
+  },
+  "prusia-el-roble-loop-75": {
+    "galleries": [
+      "ict-prusia-trail-names-visitor-guide",
+      "prusia-local-trip"
     ]
   },
   "puerto-jimenez-inshore-boat": {
@@ -941,6 +1018,15 @@
       "media-punta-banco-tiskita-gallery"
     ]
   },
+  "quepos-boat": {
+    "galleries": [
+      "gallery-quepos-marina-commons",
+      "marina"
+    ],
+    "photos": [
+      "quepos-marina-commons"
+    ]
+  },
   "quepos-fondo-105-2027": {
     "galleries": [
       "gran-fondo-zona-sur-2027"
@@ -959,6 +1045,14 @@
   "rancho-quemado-laguna-chocuaco": {
     "galleries": [
       "media-chocuaco-canoe-field-photo"
+    ]
+  },
+  "rancho-quemado-sendero-osa-23": {
+    "galleries": [
+      "rancho-quemado-sendero-osa-local"
+    ],
+    "videos": [
+      "video-rancho-quemado-asociacion"
     ]
   },
   "retos-irazu": {
@@ -1023,6 +1117,11 @@
       "babsita-paddle-direct"
     ]
   },
+  "rio-loro-cartago-forest": {
+    "galleries": [
+      "rio-loro-quebuenlugar-field"
+    ]
+  },
   "rios-lodge-own-kayak": {
     "galleries": [
       "media-rios-lodge-activities"
@@ -1031,6 +1130,9 @@
   "sabana-leones": {
     "videos": [
       "media-chirripo-leones-guest-film"
+    ],
+    "galleries": [
+      "gallery-leones-jeronimo-qbl"
     ]
   },
   "salsa-brava-reef": {
@@ -1072,6 +1174,11 @@
       "media-finca-savegre-pics"
     ]
   },
+  "selva-madre-rooftent-trout": {
+    "galleries": [
+      "selva-madre-point-and-reviews"
+    ]
+  },
   "selvatura": {
     "galleries": [
       "media-selvatura-press"
@@ -1098,11 +1205,17 @@
   "senderos-colon-run": {
     "videos": [
       "media-colon-hiking"
+    ],
+    "galleries": [
+      "gallery-senderos-colon-qbl"
     ]
   },
   "sierpe-fishing": {
     "videos": [
       "media-sierpe-estuary-fishing-film"
+    ],
+    "galleries": [
+      "gallery-sierpe-fishing-operator"
     ]
   },
   "tabacon": {
@@ -1138,6 +1251,11 @@
     ],
     "galleries": [
       "media-rio-celeste-op-gallery"
+    ]
+  },
+  "toro-vuelta-canyon": {
+    "galleries": [
+      "toro-vuelta-pano"
     ]
   },
   "tortuguero-canals": {

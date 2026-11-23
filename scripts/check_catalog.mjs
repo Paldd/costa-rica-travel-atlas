@@ -63,6 +63,8 @@ for (const row of records) {
   }
   assert((row.stages || []).every((s, i) => s.day === i + 1 && s.title && s.note && s.stops.every(id => known.has(id))), row.id);
   assert((row.stages || []).every(s => (s.sources || []).every(id => id in atlas.sources)), row.id);
+  assert(row.dossier?.stops?.length > 0, row.id + ": map points");
+  assert(row.dossier.photos?.length || row.dossier.stageCover || row.dossier.galleries?.length, row.id + ": photo or gallery");
   if (row.dossier) {
     const { stops, track, line, sections, contacts, nearby = [] } = row.dossier;
     assert(stops.every(stop => stop.name && stop.role && stop.source in atlas.sources && stop.coords.every(Number.isFinite)), row.id);
@@ -172,6 +174,12 @@ assert(profilesWithSites.some(row => row.platform === "Facebook" && row.publishe
 const publisherReview = atlas.social.publisherReview;
 assert.match(publisherReview.dayUtc, /^\d{4}-\d{2}-\d{2}$/);
 assert(publisherReview.pagesRead > 0 && publisherReview.pagesReadToDate >= publisherReview.pagesRead);
+const readPageByArchive = new Map(Object.entries(publisherReview.guidePages));
+for (const profile of atlas.social.profiles) {
+  if (profile.publisher?.coverage?.pages) readPageByArchive.set(profile.publisher.archive, profile.publisher.coverage.pages);
+}
+const publicReadPages = new Set([...readPageByArchive.values()].flatMap(pages => pages.map(page => page.url)));
+assert.equal(publicReadPages.size, publisherReview.pagesRead);
 const coveredPublishers = profilesWithSites.filter(row => row.publisher.coverage);
 assert(coveredPublishers.some(row => row.platform === "Facebook"));
 for (const row of coveredPublishers) {

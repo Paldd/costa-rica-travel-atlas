@@ -118,10 +118,29 @@ def build_social(sources_by_id, record_ids, aliases):
         for source, coverage in archives.items():
             if source not in sources_by_id or not (0 <= coverage["read"] <= coverage["indexed"]):
                 raise ValueError(f"Invalid publisher archive coverage for {source}")
+            pages = coverage.get("pages", [])
+            if len(pages) > coverage["read"] or len({page["url"] for page in pages}) != len(pages):
+                raise ValueError(f"Invalid displayed archive pages for {source}")
+            archive_host = urlsplit(sources_by_id[source]["url"]).hostname.removeprefix("www.")
+            for page in pages:
+                url = urlsplit(page["url"])
+                if (
+                    url.scheme != "https" or url.username or url.password or not url.hostname
+                    or url.hostname.removeprefix("www.") != archive_host or not page["title"].strip()
+                ):
+                    raise ValueError(f"Invalid read page for {source}: {page['url']}")
+                if page.get("published"):
+                    page["published"] = date.fromisoformat(page["published"]).isoformat()
+        linked_archives = set()
         for profile in profiles.values():
             publisher = profile.get("publisher")
             if publisher and publisher["archive"] in archives:
                 publisher["coverage"] = archives[publisher["archive"]]
+                linked_archives.add(publisher["archive"])
+        review["guidePages"] = {
+            source: coverage["pages"] for source, coverage in archives.items()
+            if coverage.get("pages") and source not in linked_archives
+        }
         social["publisherReview"] = review
     seen_posts = set()
     for post in read_table(DATA / "public-posts.tsv", POST_FIELDS):

@@ -107,8 +107,44 @@ async function checkViewport(browser, width) {
     await stage.locator("summary").click();
     await stage.locator('a[href*="place/' + trip.dossier.stageCover.record + '"]').first().waitFor();
     await checkWidth();
+    await open("sources");
+    await page.getByText("Рейтинг Instagram и Facebook", { exact: true }).click();
+    await page.getByRole("combobox", { name: "Материалы профиля" }).selectOption("publisher-pages");
+    const readPages = page.locator(".profiles-list .publisher-read-pages").first();
+    await readPages.locator("summary").click();
+    const articleLink = readPages.getByRole("link").first();
+    await articleLink.waitFor();
+    assert.match(await articleLink.getAttribute("href"), /^https:\/\//);
+    await checkWidth();
+
+    const rioVista = records.get("pacuare-rio-vista-raft-zip-3");
+    await open("place/" + rioVista.id);
+    await heading(rioVista);
+    await page.waitForFunction(() => Array.from(document.images).some(img =>
+      img.src.endsWith("/pacuare-rafting-river-commons.jpg") && img.naturalWidth > 0));
+    const lodgeVideo = page.getByRole("link", { name: /видео о комнатах Rio Vista Lodge/ });
+    await lodgeVideo.waitFor();
+    assert.equal(await lodgeVideo.getAttribute("href"), "https://www.youtube.com/watch?v=_EQG_vyFaB0");
+    await checkWidth();
+
+    const localRide = records.get("senderos-rodeo-picagres-mtb-37");
+    await open("catalog?q=Picagres");
+    const localCard = page.locator(".route-card").filter({
+      has: page.locator('h3 a[href*="senderos-rodeo-picagres-mtb-37"]'),
+    });
+    await localCard.locator(".route-preview").getByText("Схема точек").waitFor();
+    assert.equal(await localCard.locator(".preview-plot polyline").count(), 0);
+    assert.equal(await localCard.locator(".preview-plot circle").count(), localRide.dossier.stops.length);
+    await localCard.getByRole("link", { name: localRide.title }).click();
+    await heading(localRide);
+    await page.getByRole("heading", { name: "Ориентиры на карте", exact: true }).waitFor();
+    const localMap = page.getByRole("region", { name: "Карта маршрута" });
+    const localTrack = atlas.sources[localRide.dossier.track].url;
+    await localMap.locator('a[href="' + localTrack + '"]').waitFor();
+    await page.getByRole("list", { name: "Галереи и фотоотчёты" }).getByRole("link", { name: /Senderos de Colón/ }).waitFor();
+    await checkWidth();
     assert.deepEqual(errors, []);
-    console.log(width + " px: filter, activity icon, credited photo, map, coordinate source, GPX, video controls and trip media passed.");
+    console.log(width + " px: catalog filters, credited photo, map, GPX, video, trip and publisher pages passed.");
   } finally {
     await context.close();
   }

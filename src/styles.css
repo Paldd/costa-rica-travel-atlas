@@ -119,7 +119,7 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .route-card.region-mountains { --region: #84764b; }
 .card-photo { display: block; position: relative; background: #dce8db; overflow: clip; }
 .card-photo img { width: 100%; aspect-ratio: 2.65; object-fit: cover; }
-.card-photo span { position: absolute; bottom: 8px; left: 10px; padding: 2px 6px; background: #16332bd9; color: white; font-size: .69rem; border-radius: 4px; }
+.card-photo > span { position: absolute; bottom: 8px; left: 10px; padding: 2px 6px; background: #16332bd9; color: white; font-size: .69rem; border-radius: 4px; }
 .card-body { padding: 13px 17px 17px; }
 .activity-icon { display: inline-grid; place-items: center; width: 30px; height: 30px; flex: none; border-radius: 8px; color: #255e40; background: #e8f0e6; }
 .activity-water { color: #175867; background: #e2eff1; }
@@ -170,7 +170,6 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .back-link { display: inline-flex; gap: 8px; align-items: center; text-decoration: none; font: 1.12rem var(--serif); color: var(--warm); margin: 22px 0 14px; }
 .back-link:hover { text-decoration: underline; }
 .detail-hero { display: grid; grid-template-columns: minmax(0, .91fr) minmax(0, 1fr); gap: min(5vw, 56px); align-items: start; margin-bottom: 24px; }
-.detail-hero.no-photo { display: block; max-width: 855px; }
 .detail-hero h1, .subpage-heading h1, .sources-page h1 { font-size: clamp(2.55rem, 4.9vw, 4.9rem); }
 .detail-hero h1 { overflow-wrap: anywhere; }
 .detail-location, .native-name { color: var(--muted); }
@@ -396,4 +395,30 @@ footer > div { display: flex; flex-wrap: wrap; gap: 14px; color: var(--muted); f
 @media (max-width: 580px) {
   .trip-switch, .trip-fields { grid-template-columns: minmax(0, 1fr); }
   .trip-switch button { justify-self: start; }
+}
+
+.route-preview {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  min-width: 0;
+  aspect-ratio: 2.65;
+  overflow: hidden;
+  background-color: #e2eadb;
+  background-image: radial-gradient(#79978344 1px, transparent 1px);
+  background-size: 12px 12px;
+  color: #245745;
+}
+.route-preview:is(.region-guanacaste, .region-nicoya, .region-rivas-coast) { background-color: #f3e6d1; color: #714915; }
+.route-preview:is(.region-caribbean, .region-south, .region-chiriqui-coast) { background-color: #dceceb; color: #245d67; }
+.preview-activity { padding-left: clamp(8px, 3vw, 28px); }
+.preview-activity .activity-icon { width: 52px; height: 52px; border-radius: 13px; }
+.preview-plot { display: block; width: 100%; max-height: 100%; }
+.preview-plot polyline { fill: none; stroke: currentColor; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+.preview-plot circle { fill: currentColor; stroke: #fffdf8; stroke-width: 2; vector-effect: non-scaling-stroke; }
+.route-preview .preview-label { position: absolute; inset: auto 8px 7px auto; margin: 0; padding: 2px 6px; border-radius: 5px; background: #fffdf4ed; color: #224235; font-size: .72rem; }
+.detail-hero > .route-preview { min-height: 160px; border-radius: 11px; }
+@media (max-width: 700px) {
+  .route-preview { aspect-ratio: 2.25; }
 }
