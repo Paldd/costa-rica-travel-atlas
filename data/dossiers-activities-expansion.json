@@ -534,6 +534,21 @@
         "note": "Ориентир перед последним подъёмом."
       },
       {
+        "point": "el-millon-via936-turn",
+        "role": "Поворот на грунтовый подъезд с Vía 936",
+        "note": ""
+      },
+      {
+        "point": "el-millon-volcanoes-photo-point",
+        "role": "Вид на Ареналь и Чато",
+        "note": "Кадр 2018 года. Для остановки выбирайте безопасный карман."
+      },
+      {
+        "point": "el-millon-camp-road-end",
+        "role": "Конец линии GPX на дороге",
+        "note": "Попросите хозяев прислать точную точку ворот перед выездом."
+      },
+      {
         "point": "el-castillo-mirador-camp-entry",
         "role": "El Castillo · холм над озером",
         "note": "Точный подъезд с холма назначает хозяйство, дождевой доступ проверяют до передачи денег."
@@ -546,6 +561,12 @@
         "url": "https://camping.cr/listing/camping-y-mirador-el-castillo/",
         "note": "Место под навесом, последние подъёмы, очаг и габариты палатки.",
         "phone": "+506 8310 0223"
+      },
+      {
+        "name": "Camping y Mirador El Castillo · второй номер",
+        "source": "el-castillo-camp-host-listing",
+        "phone": "+506 8310 0579",
+        "note": "Дополнительный телефон из карточки площадки."
       },
       {
         "name": "Minisúper El Capiro · Эль-Мильон",
@@ -565,10 +586,19 @@
       },
       {
         "title": "Бронь, ключ от ворот и подъём",
-        "text": "Хозяева просят заранее подтвердить ночёвку и описывают выдачу ключа в Minisúper El Capiro. Получите пин магазина и порядок заезда у кемпинга. Перед дождём спросите о грунтовой части дороги. Для машины с палаткой на крыше уточните открытую ровную площадку и свободное место для разворота.",
+        "text": "Хозяева просят заранее подтвердить ночёвку и описывают выдачу ключа в Minisúper El Capiro. Получите пин магазина и порядок заезда у кемпинга. Перед дождём спросите о грунтовой части дороги. Для машины с палаткой на крыше уточните открытую ровную площадку и свободное место для разворота. На карте нанесены 2,5 км Calle El Millón от поворота с Vía 936 до дорожной точки рядом с кемпингом.",
         "sources": [
           "el-castillo-camp-host-listing",
-          "el-millon-capiro-local-directory"
+          "el-millon-capiro-local-directory",
+          "el-millon-camp-approach-osm-nov23"
+        ]
+      },
+      {
+        "title": "Заезд на ночь и короткий визит",
+        "text": "В карточке хозяев указаны ₡5 000 с человека за ночь, заезд с 13:00 и выезд до 11:00. Уточните цену для семьи, дневной вход и свободные площадки при бронировании. В репортаже TVN14 видны территория и подъезд в сухих условиях.",
+        "sources": [
+          "el-castillo-camp-host-listing",
+          "el-castillo-tvn-field-report-nov23"
         ]
       },
       {
@@ -582,12 +612,18 @@
     ],
     "galleries": [
       "el-castillo-camp-host-listing",
-      "el-castillo-camp-photo-host"
+      "el-castillo-camp-photo-host",
+      "el-castillo-tvn-field-report-nov23"
     ],
     "nearby": [
       "arenal-outback-utv-monterrey",
       "arenal-autocamp-3",
       "tronadora-roof"
+    ],
+    "line": "el-millon-camp-osm-road",
+    "track": "el-millon-camp-approach-osm-nov23",
+    "videos": [
+      "el-castillo-tvn-field-video-nov23"
     ]
   },
   "finca-colasa-view-campfire": {

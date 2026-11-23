@@ -432,6 +432,22 @@ async function checkViewport(browser, width) {
     await gulfDays.selectOption("");
     assert.equal(await gulfMap.locator(".leaflet-marker-pane .route-map-marker").count(), gulfExpedition.dossier.stops.length);
     await checkWidth();
+    const carara = records.get("carara");
+    await open("place/carara");
+    await heading(carara);
+    const cararaMap = page.getByRole("region", { name: "Карта маршрута" });
+    const cararaChoice = cararaMap.getByLabel("Вариант на карте");
+    const cararaDownload = cararaMap.getByRole("button", { name: "Скачать GPX", exact: true });
+    const combinedCarara = await exportText(cararaDownload);
+    assert.equal((combinedCarara.match(/<trk>/g) || []).length, 2);
+    const lagoon = "carara-laguna-osm-segment";
+    await cararaChoice.selectOption(lagoon);
+    const cararaLagoon = await exportText(cararaDownload);
+    assert.equal((cararaLagoon.match(/<trk>/g) || []).length, 1);
+    assert.equal((cararaLagoon.match(/<trkpt /g) || []).length, atlas.lines[lagoon].coords.length);
+    assert.equal(await cararaMap.locator(".route-map-stops li").count(), 2);
+    await checkWidth();
+
     assert.deepEqual(errors, []);
     console.log(width + " px: catalog, media, route and stage GPX, published sources and access notices passed.");
   } finally {

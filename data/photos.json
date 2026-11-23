@@ -802,8 +802,7 @@
     "author": "Olga Saenz",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Waterfall_in_rainforest.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "point": "pailas-visitor-point"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   "atlas-conchal-point": {
     "file": "atlas-conchal-point.jpg",
@@ -1664,7 +1663,8 @@
     "author": "Asdfjrjjj",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Alajuela_Costa_Rica_volcanoes_view_May_2018.png",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "point": "el-millon-volcanoes-photo-point"
   },
   "sarchi-parque-central-portrait": {
     "file": "sarchi-parque-central-portrait.jpg",
@@ -1673,6 +1673,61 @@
     "author": "Wikipedro",
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Sarch%C3%AD_Parque_Central.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "pailas-acg-masis": {
+    "file": "pailas-acg-masis.jpg",
+    "alt": "Посетители идут по лесной тропе Лас-Пайлас среди освещённых деревьев",
+    "caption": "Лесная часть круга Лас-Пайлас · из фотоматериалов ACG · уменьшенная копия",
+    "author": "Alejandro Masís / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-pailas/sendero-las-pailas-un-circuito-de-ambientes-combinados",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "pailas-acg-martinez": {
+    "file": "pailas-acg-martinez.jpg",
+    "alt": "Гравийный участок тропы среди низких кустарников и вулканических камней",
+    "caption": "Открытая часть круга Лас-Пайлас · 20 мая 2026 года · уменьшенная копия",
+    "author": "Johan Martinez / Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-pailas/sendero-las-pailas-un-circuito-de-ambientes-combinados",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "santa-maria-acg-casona": {
+    "file": "santa-maria-acg-casona.jpg",
+    "alt": "Белый дом усадьбы Санта-Мария и лошади на лугу",
+    "caption": "Историческая усадьба Санта-Мария · исходный ориентир прогулки · уменьшенная копия",
+    "author": "Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-santa-maria",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "point": "santa-maria-station"
+  },
+  "santa-maria-acg-springs": {
+    "file": "santa-maria-acg-springs.jpg",
+    "alt": "Тёплые голубоватые источники и камни в Санта-Марии",
+    "caption": "Термальная зона Санта-Марии · осмотр с разрешённого участка · уменьшенная копия",
+    "author": "Área de Conservación Guanacaste",
+    "license": "CC BY 4.0",
+    "original": "https://www.acguanacaste.ac.cr/turismo/sector-santa-maria",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "carara-universal-board": {
+    "file": "carara-universal-board.jpg",
+    "alt": "Лесная тропа Карары с поручнями и деревянной площадкой для отдыха",
+    "caption": "Универсальная тропа Карары · архив 2013 года · оптимизированная копия",
+    "author": "Axxis10",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sendero_universal_Carara_Costa_Rica_3.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "carara-universal-trail": {
+    "file": "carara-universal-trail.jpg",
+    "alt": "Посетитель на коляске рядом с информационным стендом Карары",
+    "caption": "Смотровая площадка универсальной тропы · архив 2013 года · оптимизированная копия",
+    "author": "Axxis10",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sendero_universal_Carara_Costa_Rica_(1).JPG",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 }

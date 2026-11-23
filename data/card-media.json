@@ -1417,12 +1417,26 @@
   },
   "rincon-pailas": {
     "photos": [
+      "pailas-acg-masis",
+      "pailas-acg-martinez",
       "atlas-rincon-pailas"
+    ],
+    "videos": [
+      "pailas-loop-national-parks-video",
+      "pailas-loop-acg-video"
     ]
   },
   "rincon-santa-maria": {
     "galleries": [
       "acg-booking"
+    ],
+    "videos": [
+      "santa-maria-pasc-trail-video",
+      "santa-maria-ara-trail-video"
+    ],
+    "photos": [
+      "santa-maria-acg-casona",
+      "santa-maria-acg-springs"
     ]
   },
   "rio-celeste-tubing": {
@@ -2619,6 +2633,19 @@
   "cocles-villas-mya-glamping": {
     "videos": [
       "film-cocles-mya-owner-review"
+    ]
+  },
+  "carara": {
+    "photos": [
+      "carara-universal-board",
+      "carara-universal-trail"
+    ],
+    "videos": [
+      "carara-qbl-walk-video-nov23"
+    ],
+    "galleries": [
+      "carara-commons-gallery-nov23",
+      "carara-qbl-field-report-nov23"
     ]
   }
 }

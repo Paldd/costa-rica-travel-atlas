@@ -121,9 +121,9 @@ export default function RouteMap({ record, stops, track, line, lines, sources, r
       }}><Download size={16} aria-hidden="true" /> {hasTracks ? "Скачать GPX" : "Скачать точки GPX"}</button>
     </div>
     {stages.length > 0 && <div className="route-map-stage">
-      <label>Участок на карте
+      <label>{line?.alternatives ? "Вариант на карте" : "Участок на карте"}
         <select value={stageId} onChange={event => focusStage(event.target.value)}>
-          <option value="">Весь маршрут</option>
+          <option value="">{line?.alternatives ? "Все варианты" : "Весь маршрут"}</option>
           {stages.map(stage => <option key={stage.id} value={stage.id}>{stage.title}</option>)}
         </select>
       </label>
