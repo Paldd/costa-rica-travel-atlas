@@ -299,6 +299,14 @@ for (const profile of atlas.social.profiles) {
 }
 const publicReadPages = [...readPageByArchive.values()].flat();
 assert.equal(new Set(publicReadPages.map(page => page.url)).size, publisherReview.history ? publisherReview.pagesReadToDate : publisherReview.pagesRead);
+const publicationKey = (platform, url) => `${platform}:${new URL(url).pathname.split("/").filter(Boolean).at(-1)}`;
+const confirmedPostKeys = new Set(atlas.social.profiles.flatMap(row =>
+  (row.postLinks || []).map(link => publicationKey(row.platform, atlas.sources[link.source].url))));
+const pendingPostKeys = publisherReview.nativeCandidates.map(row => publicationKey(row.platform, row.url));
+assert.equal(new Set(pendingPostKeys).size, pendingPostKeys.length);
+assert(pendingPostKeys.every(key => !confirmedPostKeys.has(key)));
+assert(publisherReview.nativeCandidates.every(row => ["Instagram", "Facebook"].includes(row.platform) &&
+  row.title && row.checked <= publisherReview.dayUtc && new URL(row.article).protocol === "https:"));
 if (publisherReview.history) {
   assert.equal(publicReadPages.filter(page => page.readThisRun).length, publisherReview.pagesRead);
   assert(publicReadPages.every(page => /^\d{4}-\d{2}-\d{2}$/.test(page.checked)));

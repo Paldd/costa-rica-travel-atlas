@@ -2759,5 +2759,63 @@
     ],
     "language": "en",
     "focus": "Каяки, доски, размещение, лодочные переезды и программа лесных занятий."
+  },
+  {
+    "name": "Andaz Papagayo · план береговых и семейных занятий",
+    "url": "https://andazpuravida.com/activities/",
+    "review": "publisher-andaz-pura-vida-activities",
+    "exactPaths": [
+      "/activities/",
+      "/casa-de-playa/",
+      "/active-programming-andaz/"
+    ],
+    "language": "en",
+    "focus": "Подтверждение лодок, береговых программ, клубов и расписаний Папагайо."
+  },
+  {
+    "name": "Planet Hollywood Costa Rica · семейные и водные программы",
+    "url": "https://www.planethollywoodhotels.com/resorts/costa-rica/our-resort/attractions",
+    "review": "planet-papagayo-kayak-family-activities",
+    "exactPaths": [
+      "/resorts/costa-rica/our-resort/attractions",
+      "/resorts/costa-rica",
+      "/costa-rica-allinclusive-family-resort"
+    ],
+    "language": "es-en",
+    "focus": "Снаряжение, семейные занятия и расписания курорта у бухты Кулебра."
+  },
+  {
+    "name": "Bosque del Mar · прибрежное размещение в Эрмоса",
+    "url": "https://www.bosquedelmar.com/",
+    "review": "publisher-bosque-del-mar-hermosa",
+    "exactPaths": [
+      "/",
+      "/how-to-get-here/",
+      "/about-us/",
+      "/contact/"
+    ],
+    "language": "es-en",
+    "focus": "Фотоотчёты, ответы гостям и логистика на Плайя-Эрмоса в Гуанакасте."
+  },
+  {
+    "name": "Villas y Glampings MyA · условия в Коклесе",
+    "url": "https://villasmya.com/villas-y-glampings/",
+    "review": "cocles-mya-villas-glamping-formats",
+    "exactPaths": [
+      "/villas-y-glampings/",
+      "/quienes-somos/"
+    ],
+    "language": "es",
+    "focus": "Форматы глэмпинга, местные контакты, правила размещения взрослых и семей."
+  },
+  {
+    "name": "JW Marriott Guanacaste · программы Асьенды-Пинилья",
+    "url": "https://www.marriott.com/es/hotels/sjojw-jw-marriott-guanacaste-resort-and-spa/experiences/",
+    "review": "publisher-jw-marriott-guanacaste-activities",
+    "exactPaths": [
+      "/es/hotels/sjojw-jw-marriott-guanacaste-resort-and-spa/experiences/"
+    ],
+    "language": "es",
+    "focus": "Занятия с детьми, локальные экскурсии и контакты курорта."
   }
 ]

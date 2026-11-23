@@ -191,7 +191,7 @@ def read_archive(archive, urls, analyze):
                              date=parser.metadata.get("article:published_time", "")[:10],
                              videoLinks=videos,
                              videoPlacements={url: sorted(parser.video_placements[url]) for url in videos},
-                             socialLinks=[{"platform": platform, "url": link} for platform, link in sorted(parser.social)][:20])
+                             socialLinks=[{"platform": platform, "url": link} for platform, link in sorted(parser.social)])
                 if len(body) >= MIN_BODY_CHARS:
                     entry.update(status="read", catalogMatchVersion=CATALOG_MATCH_VERSION, **analyze(title, body))
                 else:
@@ -293,7 +293,8 @@ def candidates(pages, previous, today):
 def social_candidates(state, archives, catalog):
     links = {}
     for archive_id, profiles in sorted(archives.items()):
-        for row in state.get(archive_id, {}).values():
+        for receipt in state.get(archive_id, {}).values():
+            row = last_successful_read(receipt) or receipt
             for link in row.get("socialLinks", []):
                 url = link["url"]
                 candidate = links.setdefault(url, {"platform": link["platform"], "url": url, "references": {}})
@@ -360,6 +361,10 @@ def last_successful_read(entry):
 
 
 def restore_public_receipts(state, archives, catalog, snapshot):
+    social_links = {}
+    for candidate in snapshot.get("nativeCandidates", []):
+        key = canonical(candidate["article"])
+        social_links.setdefault(key, []).append({"platform": candidate["platform"], "url": candidate["url"]})
     for archive_id, coverage in snapshot.get("bySource", {}).items():
         if archive_id not in archives:
             continue
@@ -375,6 +380,7 @@ def restore_public_receipts(state, archives, catalog, snapshot):
             receipt = {
                 "status": "read", "url": url, "finalUrl": url, "title": page["title"],
                 "checked": page.get("checked") or snapshot["dayUtc"], "date": page.get("published", ""),
+                "socialLinks": social_links.get(key, []),
             }
             if entry:
                 entry["lastSuccessful"] = receipt
@@ -382,7 +388,18 @@ def restore_public_receipts(state, archives, catalog, snapshot):
                 previous[key] = receipt
 
 
-def public_coverage(summary, results, history, run_url):
+def public_native_candidates(candidates, article_keys):
+    rows = []
+    for candidate in candidates:
+        references = [ref for ref in candidate["references"] if canonical(ref["article"]) in article_keys]
+        if references:
+            latest = max(references, key=lambda ref: ref["articleCheckedUtc"])
+            rows.append({"platform": candidate["platform"], "url": candidate["url"], "article": latest["article"],
+                         "title": latest["title"], "checked": latest["articleCheckedUtc"]})
+    return sorted(rows, key=lambda row: row["checked"], reverse=True)
+
+
+def public_coverage(summary, results, history, run_url, native_candidates):
     keys = ("dayUtc", "archives", "archivesRead", "pagesChecked", "pagesRead", "pagesReadToDate")
     latest = {canonical(article["finalUrl"]) for source in results for article in source.get("checked", [])
               if article["status"] == "read"}
@@ -412,7 +429,8 @@ def public_coverage(summary, results, history, run_url):
             }
     if len(seen) != summary["pagesReadToDate"] or len(latest) != summary["pagesRead"] or not latest <= seen:
         raise ValueError("Public coverage does not match the reviewed pages")
-    return {**{key: summary[key] for key in keys}, "runUrl": run_url, "history": True, "bySource": coverage}
+    return {**{key: summary[key] for key in keys}, "runUrl": run_url, "history": True, "bySource": coverage,
+            "nativeCandidates": public_native_candidates(native_candidates, seen)}
 
 
 def main():
@@ -504,7 +522,7 @@ def main():
     write_json(args.state, state)
     write_json(args.out, {**summary, "results": current, "socialCandidates": native_candidates, "videoCandidates": videos})
     if args.public_coverage:
-        write_json(args.public_coverage, public_coverage(summary, current, history, args.run_url))
+        write_json(args.public_coverage, public_coverage(summary, current, history, args.run_url, native_candidates))
     print(json.dumps(summary, ensure_ascii=False))
 
 

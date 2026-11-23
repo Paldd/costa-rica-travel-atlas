@@ -1,0 +1,519 @@
+{
+  "andaz-nacascolo-outrigger-canoe": {
+    "stops": [
+      {
+        "point": "papagayo-andaz-hotel-entrance",
+        "role": "Andaz · отель и район начала лодки",
+        "note": "Посадку для выбранной программы назначает координатор. Схема отеля помогает найти береговой подход.",
+        "activity": "boat"
+      },
+      {
+        "point": "nacascolo-papagayo-beach",
+        "role": "Плайя-Накасколо · берег Casa de Playa",
+        "note": "Береговой ориентир. Вход в клуб, сбор участников и точку спуска аутриггера согласуйте отдельно.",
+        "activity": "canoe"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Лодка к пляжу и отдельный аутригер",
+        "text": "Береговой клуб находится в районе Накасколо. Отель указывает трансфер с берега. Каноэ с боковым поплавком и сопровождаемый снорклинг бронируют отдельным временем.",
+        "sources": [
+          "andaz-pura-vida-nacascolo-beach-house",
+          "andaz-outrigger-surf-x-programme",
+          "andaz-casa-de-playa-resort-map"
+        ]
+      },
+      {
+        "title": "Как выбрать формат с детьми",
+        "text": "У Explorers спросите о минимальном возрасте, жилетах, числе мест, умении плавать и возможности короткого маршрута. Для ожидающих на берегу проверьте тень, питание и доступность клуба.",
+        "sources": [
+          "publisher-andaz-pura-vida-activities",
+          "andaz-hyatt-papagayo-activities-faq",
+          "andaz-pura-vida-nacascolo-beach-house"
+        ]
+      },
+      {
+        "title": "Вещи и возвращение",
+        "text": "Возьмите одежду для воды, защиту от солнца и сухой мешок. Уточните, входит ли маска, можно ли перенести занятие при волне и когда последняя лодка обратно.",
+        "sources": [
+          "andaz-pura-vida-nacascolo-beach-house",
+          "andaz-outrigger-surf-x-programme",
+          "andaz-hyatt-papagayo-activities-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Andaz Explorers · водная программа и лодка",
+        "source": "publisher-andaz-pura-vida-activities",
+        "note": "Спросите про аутригер, дети от какого возраста, спуск, вход без проживания и время возврата.",
+        "url": "https://andazpuravida.com/activities/",
+        "email": "concierge.papagayo@andaz.com"
+      }
+    ],
+    "galleries": [
+      "andaz-pura-vida-nacascolo-beach-house",
+      "publisher-andaz-pura-vida-activities"
+    ],
+    "photos": [
+      "culebra-panorama-commons"
+    ],
+    "nearby": [
+      "papagayo-manzanillo-hobie-kayak-family",
+      "papagayo-bike-share-resort-roads",
+      "papagayo-palmares-emtb-16",
+      "papagayo-family-water-3"
+    ],
+    "track": "andaz-casa-de-playa-resort-map"
+  },
+  "papagayo-manzanillo-hobie-kayak-family": {
+    "stops": [
+      {
+        "point": "papagayo-planet-manzanillo-resort",
+        "role": "Плайя-Мансанильо · ориентир комплекса",
+        "note": "Это берег Папагайо в Гуанакасте. Согласуйте вход, парковку и фактическую стойку водного снаряжения.",
+        "activity": "kayak"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Каяк, доска и Hobie Cat",
+        "text": "На странице отеля перечислены безмоторные береговые активности. Уточните, требуется ли инструктор на Hobie Cat, какие размеры катамарана и жилета есть и как узнать о переносе из-за ветра.",
+        "sources": [
+          "planet-papagayo-kayak-family-activities",
+          "publisher-planet-hollywood-costa-rica-family"
+        ]
+      },
+      {
+        "title": "Отдых с детьми",
+        "text": "В курортной программе есть бассейны, игры и детская зона с водой. Спросите о возрасте для клуба, времени присмотра, вариантах меню и смене занятий при ливне.",
+        "sources": [
+          "publisher-planet-hollywood-costa-rica-family",
+          "planet-papagayo-kayak-family-activities"
+        ]
+      },
+      {
+        "title": "Как найти Мансанильо",
+        "text": "Пляж находится у Баия-Кулебра на Папагайо. Это другая сторона страны относительно Мансанильо в Таламанке. Въезд и парковку подтверждает команда гостиницы.",
+        "sources": [
+          "planet-papagayo-hotel-contact-location",
+          "planet-manzanillo-papagayo-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Planet Hollywood Costa Rica · береговые активности",
+        "source": "planet-papagayo-hotel-contact-location",
+        "note": "Уточните наличие оборудования, уроки, возрастной допуск, оплату и доступ на день.",
+        "url": "https://www.planethollywoodhotels.com/es/contact",
+        "email": "assistgmpcr-lir@planethollywoodhotels.com"
+      }
+    ],
+    "galleries": [
+      "planet-papagayo-kayak-family-activities",
+      "publisher-planet-hollywood-costa-rica-family"
+    ],
+    "photos": [
+      "culebra-panorama-commons",
+      "panama"
+    ],
+    "nearby": [
+      "andaz-nacascolo-outrigger-canoe",
+      "papagayo-private-catamaran",
+      "panama-azul-ocean-boat",
+      "panama-culebra-beach"
+    ],
+    "videos": [
+      "planet-hollywood-costa-rica-royalton-film"
+    ]
+  },
+  "hermosa-bosque-del-mar-beach-stay": {
+    "stops": [
+      {
+        "point": "hermosa-bosque-del-mar-hotel",
+        "role": "Bosque del Mar · береговой отель на Calle Marines",
+        "note": "Подъезд со стороны Плайя-Эрмоса в Гуанакасте. У хозяев запросите, где оставить машину и снаряжение.",
+        "activity": "beach"
+      },
+      {
+        "point": "hermosa-guanacaste-beach-approach",
+        "role": "Плайя-Эрмоса · общий береговой ориентир",
+        "note": "Отдельная общая точка побережья. Встречу с прокатом или капитаном уточняют заранее.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что находится у берега",
+        "text": "У отеля есть садовый участок, номера и бассейн. На странице вопросов хозяева разделяют типы номеров по видам. Уточните, действительно ли в выбранный день доступна нужная береговая услуга.",
+        "sources": [
+          "publisher-bosque-del-mar-hermosa",
+          "hermosa-bosque-del-mar-owner-contact"
+        ]
+      },
+      {
+        "title": "Как совместить с местной водой",
+        "text": "Для короткого SUP или каяка есть отдельная карточка Pura Paddle. Рыбацкую или обзорную морскую поездку обсуждают с местным капитаном. Возьмите воду и сменную одежду, время определяйте по ветру.",
+        "sources": [
+          "hermosa-bosque-del-mar-field-stay",
+          "hermosa-bosque-del-mar-arrival",
+          "playa-panama-culebra-gps"
+        ]
+      },
+      {
+        "title": "Приезд и ориентиры",
+        "text": "Гостиница стоит на Плайя-Эрмоса в провинции Гуанакасте. Подъезд от Calle Marines уточняют на официальной странице. Фото и сторонний видеодневник показывают разные категории пространства.",
+        "sources": [
+          "hermosa-bosque-del-mar-resort-osm",
+          "hermosa-bosque-del-mar-arrival",
+          "hermosa-bosque-del-mar-guest-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bosque del Mar · рецепция у пляжа",
+        "source": "hermosa-bosque-del-mar-owner-contact",
+        "note": "Запросите пин парковки, номер и доступ к пляжу в нужный день.",
+        "url": "https://www.bosquedelmar.com/contact/"
+      }
+    ],
+    "galleries": [
+      "publisher-bosque-del-mar-hermosa",
+      "hermosa-bosque-del-mar-owner-contact",
+      "hermosa-bosque-del-mar-field-stay"
+    ],
+    "videos": [
+      "hermosa-bosque-del-mar-guest-film"
+    ],
+    "photos": [
+      "hermosa"
+    ],
+    "nearby": [
+      "hermosa-pura-paddle",
+      "hermosa-condovac-family-kayak",
+      "hermosa-julio-local-boat",
+      "panama-culebra-beach"
+    ]
+  },
+  "cocles-villas-mya-glamping": {
+    "stops": [
+      {
+        "point": "cocles-beach",
+        "role": "Плайя-Коклес · ориентир района",
+        "note": "Для заезда используйте адрес Calle El Tucán и точный пин от хозяев. Эта отметка относится к берегу Коклеса.",
+        "activity": "beach"
+      },
+      {
+        "point": "cocles-cariblue-road",
+        "role": "Ruta 256 · береговая дорога в Коклесе",
+        "note": "Ориентир района при езде от Пуэрто-Вьехо. Для поворота на Calle El Tucán получите пин MyA.",
+        "activity": "car"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Размещение семьи или взрослых",
+        "text": "Виллы и глэмпинги бронируются отдельно. Glamping Fantasy на странице владельца обозначен для взрослых. Для семьи запросите возраст, точное число кроватей, кухню и правила мини-бассейна в вашей категории.",
+        "sources": [
+          "publisher-villas-y-glampings-mya",
+          "cocles-mya-villas-glamping-formats"
+        ]
+      },
+      {
+        "title": "Заезд и расстояние до берега",
+        "text": "Отель указывает Calle El Tucán в Коклесе. Береговой пин показывает район. Попросите координату входа, состояние дороги в дождь и место для велосипеда. По отзывам смотрите, как гости добирались до пляжа.",
+        "sources": [
+          "cocles-mya-calle-tucan-location",
+          "cocles-mya-public-guest-reviews"
+        ]
+      },
+      {
+        "title": "Что добавить в два дня",
+        "text": "Если погода подходит, совместите короткую поездку по побережью с пляжем Чикита или каяком у Пунта-Увы. Поищите гладкий подъезд для коляски и уточните возможность вызвать транспорт на вечер.",
+        "sources": [
+          "cocles-mya-calle-tucan-location",
+          "cocles-mya-public-guest-reviews"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Villas y Glampings MyA · размещение в Коклесе",
+        "source": "publisher-villas-y-glampings-mya",
+        "note": "Спросите пин ворот, доступ детей в выбранную категорию, парковку, бассейн и подъезд на дату.",
+        "url": "https://villasmya.com/quienes-somos/",
+        "phone": "+506 6351 7444"
+      }
+    ],
+    "galleries": [
+      "cocles-mya-villas-glamping-formats",
+      "cocles-mya-public-guest-reviews"
+    ],
+    "photos": [
+      "atlas-cocles-wave",
+      "playa-chiquita-velazquez"
+    ],
+    "nearby": [
+      "cocles",
+      "cocles-colina-secreta-glamp",
+      "cocles-punta-uva-bike-kayak",
+      "punta-uva-local-kayak"
+    ]
+  },
+  "dominical-cuna-del-angel-la-palapa": {
+    "stops": [
+      {
+        "point": "dominical-cuna-del-angel-complex",
+        "role": "Cuna del Ángel · отель и ресторан у Пуэртосито",
+        "note": "Комплекс стоит у съезда с Costanera. Въезд и парковку подскажут хозяева.",
+        "activity": "cafe"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Обед на южном берегу",
+        "text": "Ресторан La Palapa описывает собственное безглютеновое меню. Местная статья Ballena Tales показывает кухню и размещение. Запросите действующее меню, стол и время для приезда.",
+        "sources": [
+          "dominical-la-palapa-owner-restaurant",
+          "dominical-la-palapa-ballena-tales-field",
+          "dominical-cuna-del-angel-restaurant-faq"
+        ]
+      },
+      {
+        "title": "Где остановиться и как приехать",
+        "text": "Владелец указывает съезд к Пуэртосито примерно между Доминикалем и Увитой. На карте отмечено здание отеля по OpenStreetMap. Спросите, как поставить машину и где найти вход в ресторан.",
+        "sources": [
+          "dominical-cuna-puertocito-directions",
+          "dominical-cuna-del-angel-osm",
+          "dominical-cuna-ict-local-directory"
+        ]
+      },
+      {
+        "title": "Выход к пляжам",
+        "text": "Для первого урока сёрфинга смотрите отдельную карточку Доминикалито, а для прогулки у моря — сектора Марино-Бальена. Выезд от отеля и подход к каждому пляжу планируют самостоятельно по условиям дня.",
+        "sources": [
+          "dominical-cuna-puertocito-directions",
+          "dominical-cuna-del-angel-restaurant-faq",
+          "marino-ballena-sector-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Cuna del Ángel · рецепция и ресторан La Palapa",
+        "source": "dominical-cuna-del-angel-restaurant-faq",
+        "note": "Уточните часы, доступ на обед, состав блюд и парковку. Для ночёвки спросите условия для детей.",
+        "url": "https://www.cunadelangel.com/faq/",
+        "phone": "+506 2787 4343",
+        "email": "info@cunadelangel.com"
+      }
+    ],
+    "galleries": [
+      "publisher-cuna-del-angel-dominical",
+      "dominical-la-palapa-owner-restaurant",
+      "dominical-la-palapa-ballena-tales-field"
+    ],
+    "photos": [
+      "dominical",
+      "dominicalito-catinmotion"
+    ],
+    "nearby": [
+      "dominicalito-surf-family",
+      "hermosa-uvita-beach",
+      "marino-ballena",
+      "uvita-whale-tail-reef-kayak"
+    ]
+  },
+  "la-garita-rescate-sanctuary-trails": {
+    "stops": [
+      {
+        "point": "la-garita-rescate-sanctuary-point",
+        "role": "Ла-Гарита · посетительский участок Rescate",
+        "note": "Пин территории. Въезд к парковке и остановка описаны в официальных направлениях.",
+        "activity": "wildlife"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Дорожки и время",
+        "text": "Оператор указывает около 2,5 км дорожек в ботанической части. Для программы со специалистом заявлено 2½–3 часа. Маршрут можно сократить по схеме центра и зоне текущего доступа.",
+        "sources": [
+          "la-garita-rescate-tickets-public-trails",
+          "la-garita-rescate-map-sanctuary",
+          "la-garita-rescate-quebuenlugar-visit"
+        ]
+      },
+      {
+        "title": "План с детьми или группой",
+        "text": "По официальной памятке есть места отдыха, парковка, прокат тележек и выдача кресла по запросу. Для учебного визита спросите варианты программы, язык, вместимость и стоимость на дату.",
+        "sources": [
+          "la-garita-rescate-operator-directions",
+          "la-garita-rescate-educational-groups"
+        ]
+      },
+      {
+        "title": "Пикник и правила",
+        "text": "Владелец допускает перекус и пикник при соблюдении опубликованных правил. Спросите, где едят, какие часы для последнего входа и где разрешена фото- и видеосъёмка.",
+        "sources": [
+          "la-garita-rescate-operator-directions",
+          "la-garita-rescate-tickets-public-trails",
+          "la-garita-rescate-santuario-owner-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rescate Wildlife · посещения и программа для групп",
+        "source": "la-garita-rescate-tickets-public-trails",
+        "note": "Запросите цену, часы, доступность тележек и инструктора для вашей группы.",
+        "url": "https://rescatewildlife.org/tickets-tours/"
+      }
+    ],
+    "galleries": [
+      "la-garita-rescate-tickets-public-trails",
+      "la-garita-rescate-quebuenlugar-visit",
+      "la-garita-rescate-educational-groups"
+    ],
+    "videos": [
+      "la-garita-rescate-santuario-owner-video"
+    ],
+    "photos": [
+      "rescate-zoo-ave-ocelot"
+    ],
+    "nearby": [
+      "toucan-rescue-san-josecito",
+      "san-jose-parque-diversiones",
+      "atenas-prados-private-fire"
+    ],
+    "track": "la-garita-rescate-map-sanctuary"
+  },
+  "hacienda-pinilla-horseback-beach": {
+    "stops": [
+      {
+        "point": "pinilla-beach",
+        "role": "Асьенда-Пинилья · береговой ориентир",
+        "note": "Место встречи у конюшни пришлёт El Establo. Пин показывает берег возле Beach Club.",
+        "activity": "horseback"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Лес и берег",
+        "text": "Конюшня предлагает разные форматы. У местного принимающего офиса есть программы по берегу при подходящем приливе. Запросите маршрут по опыту группы и вариант без выхода на берег.",
+        "sources": [
+          "hacienda-pinilla-establo-operator",
+          "hacienda-pinilla-vida-horses-program",
+          "hacienda-pinilla-ladulcevida-equestrian-center"
+        ]
+      },
+      {
+        "title": "Участие детей",
+        "text": "Сообщите возраст, рост, опыт и возможность ехать самостоятельно. Подтвердите шлем, инструктора и самую короткую прогулку. Возьмите закрытую обувь и воду.",
+        "sources": [
+          "hacienda-pinilla-establo-operator",
+          "hacienda-pinilla-vida-horses-program"
+        ]
+      },
+      {
+        "title": "Совместить с MTB и обедом",
+        "text": "На территории есть маршруты для MTB. У BikeCraft и гостевой службы отдельная запись. Для самостоятельного приезда уточните ворота и доступ в Beach Club.",
+        "sources": [
+          "hacienda-pinilla-establo-operator",
+          "publisher-jw-marriott-guanacaste-activities",
+          "bikecraft-pinilla"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Pinilla · El Establo",
+        "source": "hacienda-pinilla-establo-operator",
+        "note": "Запросите точную встречу, время, возрастные ограничения и итоги по цене.",
+        "url": "https://www.haciendapinilla.com/horseback-riding.html",
+        "phone": "+506 2681 4590",
+        "email": "establo@haciendapinilla.com"
+      }
+    ],
+    "galleries": [
+      "hacienda-pinilla-establo-operator",
+      "hacienda-pinilla-vida-horses-program",
+      "hacienda-pinilla-ladulcevida-equestrian-center"
+    ],
+    "photos": [
+      "avellanas-shore-archive"
+    ],
+    "nearby": [
+      "pinilla-emtb",
+      "nosara-tamarindo-gravel-59",
+      "tamarindo-brasilito-gravel-24"
+    ]
+  },
+  "tambor-barcelo-family-shore": {
+    "stops": [
+      {
+        "point": "tambor-giro-venue",
+        "role": "Barceló Tambor · вход в комплекс у берега",
+        "note": "Тот же район используют как велоориентир. Рецепция подтвердит гостей, въезд и место для автомобиля.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что есть в семейной программе",
+        "text": "Владелец описывает Barcy Club для детей 4–12 лет, бассейны и отдельные активности для подростков. Уточните часы и условия подходящей категории, если едете с малышом или без ночёвки.",
+        "sources": [
+          "barcelo-tambor-owner-family-inclusion",
+          "barcelo-tambor-owner-all-inclusive"
+        ]
+      },
+      {
+        "title": "Береговые программы",
+        "text": "Список отеля включает поездки по окрестностям и занятия на берегу. Время лодки, оборудование и доплату уточняйте по выбранному маршруту, особенно при ветре и с детьми.",
+        "sources": [
+          "barcelo-tambor-owner-activities",
+          "barcelo-tambor-owner-all-inclusive"
+        ]
+      },
+      {
+        "title": "Совместить с велосипедом",
+        "text": "Тамбор используется как база местной велогонки Giro Pio. Даты и трассы вынесены в свои карточки. Для обычного выезда спросите время работы дорог, прокат и безопасное место хранения техники.",
+        "sources": [
+          "barcelo-tambor-owner-activities",
+          "tambor-venue-osm",
+          "tambor-giro-program"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Barceló Tambor · размещение и отдых с детьми",
+        "source": "barcelo-tambor-owner-family-inclusion",
+        "note": "Подтвердите условия для детей, дневной доступ, водные занятия и варианты парковки или трансфера.",
+        "url": "https://www.barcelo.com/es-es/barcelo-tambor/"
+      }
+    ],
+    "galleries": [
+      "barcelo-tambor-owner-family-inclusion",
+      "barcelo-tambor-owner-activities"
+    ],
+    "photos": [
+      "tambor"
+    ],
+    "nearby": [
+      "giro-pio-50-2027",
+      "giro-pio-100-2027",
+      "pochote-los-vivos-boat-stay"
+    ]
+  }
+}

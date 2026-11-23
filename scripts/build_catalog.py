@@ -63,6 +63,16 @@ def read_records():
             yield from json.loads(path.read_text(encoding="utf-8"))
 
 
+def publication_path(value, platform):
+    url = urlsplit(value)
+    if url.scheme != "https" or url.username or url.password or url.hostname not in SOCIAL_DOMAINS.get(platform, ()):
+        return None
+    parts = url.path.strip("/").split("/")
+    if platform == "Instagram":
+        return parts if len(parts) in {2, 3} and parts[-2] in {"p", "reel"} else None
+    return parts if len(parts) >= 2 and parts[-2] in {"posts", "reel", "videos"} else None
+
+
 def build_social(sources_by_id, record_ids, aliases):
     social = json.loads((DATA / "social-coverage.json").read_text())
     profiles = {profile["url"]: profile for profile in social["profiles"]}
@@ -165,19 +175,13 @@ def build_social(sources_by_id, record_ids, aliases):
         if not profile or not source:
             raise ValueError(f"Invalid public post entry for {post['source']}")
         platform = profile["platform"]
-        url = urlsplit(source["url"])
-        path = url.path.rstrip("/")
-        parts = path.strip("/").split("/")
-        if platform == "Instagram":
-            owner = urlsplit(profile["url"]).path.strip("/")
-            valid_path = len(parts) in {2, 3} and parts[-2] in {"p", "reel"} and (
-                len(parts) == 2 or parts[0].lower() == owner.lower()
-            )
-        else:
-            valid_path = len(parts) >= 2 and parts[-2] in {"posts", "reel", "videos"}
+        parts = publication_path(source["url"], platform)
+        if not parts or (platform == "Instagram" and len(parts) == 3
+                         and parts[0].lower() != urlsplit(profile["url"]).path.strip("/").lower()):
+            raise ValueError(f"Invalid direct {platform} publication for {post['source']}")
         # Facebook can present the same video under either /videos/ or /reel/.
         key = (platform, parts[-1])
-        if url.scheme != "https" or url.hostname not in SOCIAL_DOMAINS[platform] or not valid_path or key in seen_posts:
+        if key in seen_posts:
             raise ValueError(f"Expected a distinct direct {platform} publication for {post['source']}")
         checked = date.fromisoformat(post["checked"])
         link = {"source": source["id"], "checked": checked.isoformat()}
@@ -190,6 +194,22 @@ def build_social(sources_by_id, record_ids, aliases):
             profile["posts"] += 1
         profile.setdefault("postLinks", []).append(link)
         seen_posts.add(key)
+    if review := social.get("publisherReview"):
+        pending = []
+        seen_candidates = set()
+        for row in review.get("nativeCandidates", []):
+            parts = publication_path(row["url"], row["platform"])
+            article = urlsplit(row["article"])
+            checked = date.fromisoformat(row["checked"]).isoformat()
+            origin = (article.hostname or "").removeprefix("www.") + article.path.lower().rstrip("/")
+            if (not parts or article.scheme != "https" or article.username or article.password or origin not in pages_seen
+                    or not row["title"].strip() or checked > review["dayUtc"]):
+                raise ValueError(f"Invalid native candidate {row['url']}")
+            key = (row["platform"], parts[-1])
+            if key not in seen_posts and key not in seen_candidates:
+                pending.append(row)
+                seen_candidates.add(key)
+        review["nativeCandidates"] = pending
     for profile in profiles.values():
         links = profile.get("postLinks", [])
         links.sort(key=lambda link: link.get("published", ""), reverse=True)

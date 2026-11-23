@@ -1,6 +1,6 @@
 {
-  "archives": 133,
-  "archivesRead": 128,
+  "archives": 138,
+  "archivesRead": 133,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -405,7 +405,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -413,7 +413,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "catalina-pcdc-tours-library": {
       "indexed": 13,
@@ -513,6 +513,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Uso de Kayaks & Paddleboards en Bahía Cativo |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/uso-de-kayaks-tabla-remo-en-bahia-cativo"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Descubra Tour de Observación de Fauna Silvestre |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/tour-de-observacion-de-fauna-silvestre"
         },
@@ -524,6 +530,11 @@
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "Descubra Snorkel Autoguiado en la Bahía Cativo |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/snorkel-auto-guiado-bahia-cativo"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Descubra Senderos para Caminatas Auto-Guiados |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/senderos-auto-guiados"
         },
@@ -534,15 +545,25 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Parque Nacional Piedras Blancas |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/parque-nacional-piedras-blancas"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Jardín de Perezosos La Perica |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/jardin-perezosos-la-perica"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Expedición de Bioluminiscencia |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/expedicion-bioluminescente"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Excursión de Kayak en el Manglar de Río Esquinas |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/expedicion-rio-esquinas-manglar-kayak"
         },
         {
           "checked": "2026-11-23",
@@ -566,13 +587,11 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Búsqueda de Delfines & Ballenas |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/busqueda-observacion-delfin-ballena"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Avistamiento de Aves |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/observacion-aves"
         },
@@ -582,7 +601,7 @@
           "url": "https://www.playacativo.com/es/experiencias/aventura-a-caballo-en-puerto-jimenez"
         }
       ],
-      "read": 14
+      "read": 18
     },
     "cinchona-trails-operator": {
       "indexed": 1,
@@ -1260,19 +1279,16 @@
         {
           "checked": "2026-11-23",
           "published": "2025-05-20",
-          "readThisRun": true,
           "title": "Puerto Jimenez",
           "url": "https://www.flyadventureair.com/private-air-charters/puerto-jimenez/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Ultimate Corcovado & Golfo Dulce Helicopter Adventure",
           "url": "https://www.flyadventureair.com/experience/ultimate-corcovado-golfo-dulce-helicopter-adventure/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Sirena Station Corcovado Expedition",
           "url": "https://www.flyadventureair.com/experience/sirena-station-corcovado-expedition/"
         }
@@ -1295,19 +1311,16 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Tours | COPROT",
           "url": "https://www.tortugasdeosa.org/tours"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Sea Turtle Conservation | COPROT",
           "url": "https://www.tortugasdeosa.org/sea-turtle-conservation"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Our Home",
           "url": "https://www.tortugasdeosa.org/carate"
         }
@@ -1976,14 +1989,12 @@
         {
           "checked": "2026-11-23",
           "published": "2020-09-13",
-          "readThisRun": true,
           "title": "(Fotos) Playa Manuel Antonio está a reventar este fin de semana largo",
           "url": "https://adondeircr.com/puntarenas/fotos-playa-manuel-antonio-esta-a-reventar-este-fin-de-semana-largo/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-09",
-          "readThisRun": true,
           "title": "Municipalidad de Limón aplicará cierre de playas durante todo un mes",
           "url": "https://adondeircr.com/limon/municipalidad-de-limon-aplicara-cierre-de-playas-durante-todo-un-mes/?c1"
         },
@@ -1996,23 +2007,55 @@
         {
           "checked": "2026-11-23",
           "published": "2020-09-05",
-          "readThisRun": true,
           "title": "Refugio Gandoca Manzanillo",
           "url": "https://adondeircr.com/limon/refugio-gandoca-manzanillo/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-03",
-          "readThisRun": true,
           "title": "Las 5 Mejores Playas de Guanacaste",
           "url": "https://adondeircr.com/guanacaste/las-5-mejores-playas-de-guanacaste/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-31",
-          "readThisRun": true,
           "title": "Parque Nacional Manuel Antonio",
           "url": "https://adondeircr.com/puntarenas/parque-nacional-manuel-antonio/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-31",
+          "readThisRun": true,
+          "title": "A partir de este lunes y durante todo septiembre la restricción vehicular cambia",
+          "url": "https://adondeircr.com/guanacaste/a-partir-de-este-lunes-y-durante-todo-septiembre-la-restriccion-vehicular-cambia/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-30",
+          "readThisRun": true,
+          "title": "Parque Nacional Marino Ballena",
+          "url": "https://adondeircr.com/puntarenas/parque-nacional-marino-ballena/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-30",
+          "readThisRun": true,
+          "title": "Parque Nacional Cahuita",
+          "url": "https://adondeircr.com/limon/parque-nacional-cahuita/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-30",
+          "readThisRun": true,
+          "title": "Isla De Los Muertos",
+          "url": "https://adondeircr.com/puntarenas/isla-de-los-muertos/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-29",
+          "readThisRun": true,
+          "title": "Bahía de los Piratas, un paraíso natural escondido",
+          "url": "https://adondeircr.com/guanacaste/bahia-de-los-piratas-un-paraiso-natural-escondido/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2315,7 +2358,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 130
+      "read": 135
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
@@ -3234,21 +3277,18 @@
         {
           "checked": "2026-11-23",
           "published": "2024-09-28",
-          "readThisRun": true,
           "title": "Mucho más que verde « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/mucho-mas-que-verde/"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-07-05",
-          "readThisRun": true,
           "title": "Memoria Brunca « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/memoria-brunca/"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-04-17",
-          "readThisRun": true,
           "title": "Páramos de Costa Rica « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/paramos-de-costa-rica/"
         },
@@ -3261,7 +3301,6 @@
         {
           "checked": "2026-11-23",
           "published": "2022-08-24",
-          "readThisRun": true,
           "title": "Naturanima « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/naturanima/"
         },
@@ -3434,7 +3473,7 @@
       "read": 33
     },
     "publisher-archive-museocr-family-events": {
-      "indexed": 14,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3476,7 +3515,7 @@
           "url": "https://museocr.org/ninos/grupos/"
         }
       ],
-      "read": 7
+      "read": null
     },
     "publisher-archive-oxygen-adventures": {
       "indexed": 10,
@@ -3982,14 +4021,12 @@
         {
           "checked": "2026-11-23",
           "published": "2026-10-24",
-          "readThisRun": true,
           "title": "Ruta entre Volcanes",
           "url": "https://ticosapata.com/2026/10/24/ruta-entre-volcanes/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-10-24",
-          "readThisRun": true,
           "title": "Parque Nacional Cahuita",
           "url": "https://ticosapata.com/2026/10/24/parque-nacional-cahuita/"
         },
@@ -4002,21 +4039,18 @@
         {
           "checked": "2026-11-23",
           "published": "2026-10-24",
-          "readThisRun": true,
           "title": "Las Piedras de Julio",
           "url": "https://ticosapata.com/2026/10/24/las-piedras-de-julio/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-10-24",
-          "readThisRun": true,
           "title": "De Santa María a Cañón del Guarco",
           "url": "https://ticosapata.com/2026/10/24/de-santa-maria-a-canon-del-guarco/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-10-24",
-          "readThisRun": true,
           "title": "Cerro Utyum",
           "url": "https://ticosapata.com/2026/10/24/cerro-utyum/"
         },
@@ -4607,7 +4641,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Viví una experiencia única con este tour nocturno",
           "url": "https://vamosaturistear.com/actividades/vivi-una-experiencia-unica-con-este-tour-nocturno/"
         },
@@ -4625,6 +4658,12 @@
           "checked": "2026-11-23",
           "title": "Viví el paracaidismo al máximo - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/vivi-el-paracaidismo-al-maximo/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Visitá las Cataratas El Congo en Sarapiquí",
+          "url": "https://vamosaturistear.com/actividades/visita-las-cataratas-el-congo-en-sarapiqui/"
         },
         {
           "checked": "2026-11-23",
@@ -4668,6 +4707,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Tour de un día GRATUITO: Columnas Basálticas",
+          "url": "https://vamosaturistear.com/actividades/tour-de-un-dia-gratuito-columnas-basalticas/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Todo lo que tenés que saber de Isla Jesusita",
           "url": "https://vamosaturistear.com/actividades/todo-lo-que-tenes-que-saber-de-isla-jesusita/"
         },
@@ -4688,8 +4733,20 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Reserva Bosque Nuboso Santa Elena",
+          "url": "https://vamosaturistear.com/actividades/reserva-bosque-nuboso-santa-elena/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Refugio Nacional de Vida Silvestre Ostional",
           "url": "https://vamosaturistear.com/actividades/refugio-nacional-de-vida-silvestre-ostional/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Redescubrí Jacó desde el mirador: El Miro",
+          "url": "https://vamosaturistear.com/actividades/redescubri-jaco-desde-el-mirador-el-miro/"
         },
         {
           "checked": "2026-11-23",
@@ -4768,7 +4825,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Los secretos del Sitio Arqueológico Finca 6",
           "url": "https://vamosaturistear.com/actividades/los-secretos-del-sitio-arqueologico-finca-6/"
         },
@@ -4834,7 +4890,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Explorá la Catarata El Tigre",
           "url": "https://vamosaturistear.com/actividades/explora-la-catarata-el-tigre/"
         },
@@ -4935,6 +4990,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Conocé el gigante que cuida de Monteverde",
+          "url": "https://vamosaturistear.com/actividades/conoce-el-gigante-que-cuida-de-monteverde/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Conocé 8 playas con oleaje suave",
           "url": "https://vamosaturistear.com/actividades/conoce-8-playas-con-oleaje-suave/"
         },
@@ -4995,13 +5056,11 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Bienvenidos al Cañón de Aranjuez y Cerro el Encanto",
           "url": "https://vamosaturistear.com/actividades/bienvenidos-al-canon-de-aranjuez-y-cerro-el-encanto/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Aventurate en bote por el río Sarapiquí",
           "url": "https://vamosaturistear.com/actividades/aventurate-en-bote-por-el-rio-sarapiqui/"
         },
@@ -5321,7 +5380,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 147
+      "read": 152
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -6302,6 +6361,115 @@
       ],
       "read": 1
     },
+    "south-water-dona-tere-catamaran-owner": {
+      "indexed": 2,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Osa Peninsula Water Tours | Osa Tourism, Costa Rica",
+          "url": "https://www.osatourism.com/osa-peninsula-water-tours/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Golfo Dulce Boat Tours & Cruises | Doña Tere | Osa Tourism",
+          "url": "https://www.osatourism.com/golfo-dulce-cruises-dona-tere/"
+        }
+      ],
+      "read": 2
+    },
+    "south-water-nicuesa-ocean-owner": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Location and Directions | Playa Nicuesa Rainforest Lodge",
+          "url": "https://www.nicuesalodge.com/location"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Golfo Dulce Ocean Adventures in Costa Rica | Playa Nicuesa",
+          "url": "https://www.nicuesalodge.com/experiences/ocean-activities"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Discover Specials Offers in Costa Rica | Playa Nicuesa Rainforest",
+          "url": "https://www.nicuesalodge.com/specials-packages/rainforest-multisport"
+        }
+      ],
+      "read": 3
+    },
+    "south-water-oceans-pro-divers-trips": {
+      "indexed": 2,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Trips – Oceans Pro Divers Golfito",
+          "url": "https://oceansprodiversgolfito.com/trips/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Discover Scuba Diving – Oceans Pro Divers Golfito",
+          "url": "https://oceansprodiversgolfito.com/discover-scuba-diving/"
+        }
+      ],
+      "read": 2
+    },
+    "south-water-saladero-activities": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "LODGE | Saladero Ecolodge",
+          "url": "https://www.saladeroecolodge.com/lodge"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "GETTING HERE | Saladero Ecolodge",
+          "url": "https://www.saladeroecolodge.com/lodge/getting-here"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "ACTIVITIES & PROJECTS | Saladero Ecolodge",
+          "url": "https://www.saladeroecolodge.com/activities"
+        }
+      ],
+      "read": 3
+    },
+    "south-water-sea-kayaking-8-day-owner": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "published": "2026-10-30",
+          "readThisRun": true,
+          "title": "Golfo Dulce Is Costa Rica’s Wild Pacific Frontier",
+          "url": "https://seakayakingcostarica.com/golfo-dulce-costa-rica/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Our Company",
+          "url": "https://seakayakingcostarica.com/our-company/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "8-Day Golfo Dulce Sea Kayaking Adventure | Costa Rica",
+          "url": "https://seakayakingcostarica.com/8-day-lodge-to-lodge-golfo-dulce-sea-kayaking-trip-november-may/"
+        }
+      ],
+      "read": 3
+    },
     "supherr-operator-water-herradura": {
       "indexed": 3,
       "pages": [
@@ -6712,8 +6880,437 @@
   },
   "dayUtc": "2026-11-23",
   "history": true,
-  "pagesChecked": 30,
-  "pagesRead": 30,
-  "pagesReadToDate": 1104,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45215998064"
+  "nativeCandidates": [
+    {
+      "article": "https://adondeircr.com/heredia/santo-pecado/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "Santo Pecado",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/posts/pfbid024tx1am4mn6xuye3PzLLPRuW6V3FN2R3NaVedFFvkgLdVvZMCyhdF2vcox1CzDRVEl"
+    },
+    {
+      "article": "https://adondeircr.com/san-jose/cabana-kawalulu-un-paraiso-en-dota-para-disfrutar-de-la-naturaleza-y-la-diversion/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "CABAÑA KAWALULU: Un Paraíso en Dota para Disfrutar de la Naturaleza y la Diversión",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/1246181222697470"
+    },
+    {
+      "article": "https://adondeircr.com/alajuela/ecomusas-un-centro-recreativo-donde-podras-encontrar-mucha-aventura/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "ECOMUSAS, un centro recreativo donde podrás encontrar mucha aventura",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/1291872481365058"
+    },
+    {
+      "article": "https://adondeircr.com/puntarenas/la-primera-piscina-con-olas-de-costa-rica/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "La primera piscina con olas de Costa Rica",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/158924819976046"
+    },
+    {
+      "article": "https://adondeircr.com/cartago/descubre-una-experiencia-culinaria-unica-en-el-restaurante-los-coyotes-en-cervantes/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "Descubre una experiencia culinaria única en el Restaurante Los Coyotes en Cervantes",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/243203734940718"
+    },
+    {
+      "article": "https://adondeircr.com/san-jose/colinas-glamping/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "COLINAS GLAMPING",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/511155521093576"
+    },
+    {
+      "article": "https://adondeircr.com/alajuela/disfrutar-de-aguas-termales-gratuitas-en-la-fortuna-es-posible/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "Disfrutar de aguas termales gratuitas en La Fortuna es posible",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/856098908791338"
+    },
+    {
+      "article": "https://adondeircr.com/san-jose/kaia-smart-food/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "KAIA SMART FOOD",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/954924078870546"
+    },
+    {
+      "article": "https://adondeircr.com/guanacaste/video-guanacastecos-se-levantaron-este-martes-con-dos-erupciones-del-volcan-rincon-de-la-vieja/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "(Video) Guanacastecos se levantaron este martes con dos erupciones del volcán Rincón de la Vieja",
+      "url": "https://www.facebook.com/OVSICORI/videos/257528513269563"
+    },
+    {
+      "article": "https://adondeircr.com/san-jose/va-para-parque-diversiones-ya-no-puede-llevar-los-siguientes-alimentos/?c1",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "¿Va para Parque Diversiones? Ya no puede llevar los siguientes alimentos",
+      "url": "https://www.facebook.com/ParqueDiversiones/posts/pfbid03gZLk55n85YbLYAX95sGJyNXXFVY79HgSUKmWGGJoHzoiRzqJnSP95P6ikP4m3s7l"
+    },
+    {
+      "article": "https://costa-rica-guide.com/nature/national-parks/rincon-de-la-vieja/",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "Volcán Rincón de la Vieja National Park",
+      "url": "https://www.facebook.com/costaricaguides/videos/458425794976055"
+    },
+    {
+      "article": "https://perezzeledon.com/es/rivas",
+      "checked": "2026-11-23",
+      "platform": "Facebook",
+      "title": "Rivas: el distrito más grande de Pérez Zeledón — y mucho más que el Chirripó",
+      "url": "https://www.facebook.com/paisajesydronesJso17/posts/4900070343367020"
+    },
+    {
+      "article": "https://www.tulemar.com/activities/dining/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Private Chefs & Dining | Tulemar",
+      "url": "https://www.instagram.com/p/C-JqS2rRzKP/"
+    },
+    {
+      "article": "https://www.thegildediguana.com/mountain/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Mountain Biking - Gilded Iguana",
+      "url": "https://www.instagram.com/p/C0FBXslufD4/"
+    },
+    {
+      "article": "https://www.tulemar.com/activities/dining/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Private Chefs & Dining | Tulemar",
+      "url": "https://www.instagram.com/p/C2D5TyDP53P/"
+    },
+    {
+      "article": "https://www.tulemar.com/activities/dining/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Private Chefs & Dining | Tulemar",
+      "url": "https://www.instagram.com/p/C2k7IxeyKs4/"
+    },
+    {
+      "article": "https://www.tulemar.com/activities/dining/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Private Chefs & Dining | Tulemar",
+      "url": "https://www.instagram.com/p/C3qu6EDP32U/"
+    },
+    {
+      "article": "https://www.thegildediguana.com/mountain/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Mountain Biking - Gilded Iguana",
+      "url": "https://www.instagram.com/p/C4TrKpXR-fN/"
+    },
+    {
+      "article": "https://www.tulemar.com/activities/dining/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Private Chefs & Dining | Tulemar",
+      "url": "https://www.instagram.com/p/C5eaRgySEss/"
+    },
+    {
+      "article": "https://www.tulemar.com/activities/dining/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Private Chefs & Dining | Tulemar",
+      "url": "https://www.instagram.com/p/C69sgj0ySqK/"
+    },
+    {
+      "article": "https://www.thegildediguana.com/mountain/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Mountain Biking - Gilded Iguana",
+      "url": "https://www.instagram.com/p/C6T67AJuPyv/"
+    },
+    {
+      "article": "https://go.bocasdeltoro.travel/es/blog-es/aventura-en-bocas-la-excursion-de-un-dia-a-panama-que-te-encantara/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Aventura en Bocas: La excursión de un día a Panamá que te encantará | Visita Bocas del Toro",
+      "url": "https://www.instagram.com/p/CaA51DvDeBn/"
+    },
+    {
+      "article": "https://go.bocasdeltoro.travel/es/blog-es/aventura-en-bocas-la-excursion-de-un-dia-a-panama-que-te-encantara/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Aventura en Bocas: La excursión de un día a Panamá que te encantará | Visita Bocas del Toro",
+      "url": "https://www.instagram.com/p/Cb7oNebshvt/"
+    },
+    {
+      "article": "https://go.bocasdeltoro.travel/es/blog-es/aventura-en-bocas-la-excursion-de-un-dia-a-panama-que-te-encantara/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Aventura en Bocas: La excursión de un día a Panamá que te encantará | Visita Bocas del Toro",
+      "url": "https://www.instagram.com/p/CbGg3-zN0ZK/"
+    },
+    {
+      "article": "https://adondeircr.com/san-jose/danta-toto-y-el-resto-de-animales-viven-en-medio-de-ratas-en-el-zoologico-simon-bolivar/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Danta Totó y el resto de animales viven en medio de ratas en el zoológico Simón Bolívar",
+      "url": "https://www.instagram.com/p/CbggC6OAGQj/"
+    },
+    {
+      "article": "https://adondeircr.com/cartago/restaurante-mamalila/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "RESTAURANTE MAMALILA",
+      "url": "https://www.instagram.com/p/CpDgLcWLmgW/"
+    },
+    {
+      "article": "https://go.bocasdeltoro.travel/es/blog-es/descubre-con-flytrip-a-bocas-del-toro-un-paraiso-natural-con-proyeccion-internacional/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Descubre con Flytrip a Bocas del Toro, un paraíso natural con proyección internacional",
+      "url": "https://www.instagram.com/p/CpPvixGD3Ue/"
+    },
+    {
+      "article": "https://go.bocasdeltoro.travel/es/blog-es/descubre-con-flytrip-a-bocas-del-toro-un-paraiso-natural-con-proyeccion-internacional/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Descubre con Flytrip a Bocas del Toro, un paraíso natural con proyección internacional",
+      "url": "https://www.instagram.com/p/CpaKGIzv8Km/"
+    },
+    {
+      "article": "https://adondeircr.com/puntarenas/descubriendo-la-misteriosa-sirena-de-esterillos-oeste-una-escultura-unica-en-la-costa-del-pacifico-de-costa-rica/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Descubriendo la misteriosa sirena de Esterillos Oeste: una escultura única en la costa del Pacífico de Costa Rica.",
+      "url": "https://www.instagram.com/p/CqEwVsNumeB/"
+    },
+    {
+      "article": "https://adondeircr.com/guanacaste/descubre-la-majestuosidad-de-oro-pendola-una-de-las-cataratas-mas-hermosas-de-guanacaste/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Descubre la majestuosidad de Oro Péndola: una de las cataratas más hermosas de Guanacaste",
+      "url": "https://www.instagram.com/p/Cqanly1OKEi/"
+    },
+    {
+      "article": "https://www.thegildediguana.com/mountain/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Mountain Biking - Gilded Iguana",
+      "url": "https://www.instagram.com/p/Cxa564ZBxyp/"
+    },
+    {
+      "article": "https://www.thegildediguana.com/mountain/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Mountain Biking - Gilded Iguana",
+      "url": "https://www.instagram.com/p/Cxg95GpvxjY/"
+    },
+    {
+      "article": "https://buencaminocr.com/es/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Home ES",
+      "url": "https://www.instagram.com/p/DZgcd9_lBIa/"
+    },
+    {
+      "article": "https://buencaminocr.com/es/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Home ES",
+      "url": "https://www.instagram.com/p/Dclmcg_lSB4/"
+    },
+    {
+      "article": "https://buencaminocr.com/es/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Home ES",
+      "url": "https://www.instagram.com/p/Dd-BVOIlOSR/"
+    },
+    {
+      "article": "https://buencaminocr.com/es/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Home ES",
+      "url": "https://www.instagram.com/p/DdR-7ztg2oQ/"
+    },
+    {
+      "article": "https://buencaminocr.com/es/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Home ES",
+      "url": "https://www.instagram.com/p/DdsMamqh5oa/"
+    },
+    {
+      "article": "https://buencaminocr.com/es/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Home ES",
+      "url": "https://www.instagram.com/p/DeDTV3eFIBB/"
+    },
+    {
+      "article": "https://buencaminocr.com/es/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Home ES",
+      "url": "https://www.instagram.com/p/Deht1ymlESN/"
+    },
+    {
+      "article": "https://buencaminocr.com/es/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Home ES",
+      "url": "https://www.instagram.com/p/DemJYPiFfaU/"
+    },
+    {
+      "article": "https://rescatewildlife.org/educational-group-tours/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+      "url": "https://www.instagram.com/p/Df-SptNvLUu/"
+    },
+    {
+      "article": "https://rescatewildlife.org/educational-group-tours/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+      "url": "https://www.instagram.com/p/Df5RBwpvATA/"
+    },
+    {
+      "article": "https://rescatewildlife.org/educational-group-tours/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+      "url": "https://www.instagram.com/p/Df7c-q-ix0c/"
+    },
+    {
+      "article": "https://rescatewildlife.org/educational-group-tours/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+      "url": "https://www.instagram.com/p/DgDhoFzjw0B/"
+    },
+    {
+      "article": "https://adondeircr.com/limon/vive-una-aventura-inolvidable-en-las-cataratas-del-rio-dos-novillos-en-pocora-limon/?c1",
+      "checked": "2026-11-22",
+      "platform": "Facebook",
+      "title": "Vive una aventura inolvidable en las Cataratas del Río Dos Novillos en Pocora, Limón",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/posts/pfbid02mSW8myZfuwxNHNY8Hi4av6Bt9Ln7HDUkeLU1QfJ4dJbxVkkXuz2PszWmMSDkzAgFl"
+    },
+    {
+      "article": "https://adondeircr.com/limon/harmony-mini-casa-la-forma-mas-unica-y-emocionante-de-hospedarte-en-puerto-viejo/?c1",
+      "checked": "2026-11-22",
+      "platform": "Facebook",
+      "title": "Harmony Mini Casa: ¡La forma más única y emocionante de hospedarte en Puerto Viejo!",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/1175508656468765"
+    },
+    {
+      "article": "https://adondeircr.com/puntarenas/el-sonesta-jaco-resort-and-beach-club-una-promesa-interrumpida-que-dejo-interrogantes/?c1",
+      "checked": "2026-11-22",
+      "platform": "Facebook",
+      "title": "El Sonesta Jacó Resort and Beach Club: Una promesa interrumpida que dejó interrogantes",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/1407217053431283"
+    },
+    {
+      "article": "https://adondeircr.com/san-jose/un-viaje-culinario-a-peru-visita-la-sucursal-limena-en-mercado-la-cartonera/?c1",
+      "checked": "2026-11-22",
+      "platform": "Facebook",
+      "title": "Un viaje culinario a Perú: visita La Sucursal Limeña en Mercado La Cartonera",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/230981259584328"
+    },
+    {
+      "article": "https://adondeircr.com/alajuela/descubre-la-magia-de-poza-la-arcilla-un-lugar-perfecto-para-disfrutar-en-familia-durante-semana-santa/?c1",
+      "checked": "2026-11-22",
+      "platform": "Facebook",
+      "title": "Descubre la Magia de Poza la Arcilla: Un Lugar Perfecto para Disfrutar en Familia durante Semana Santa",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/585225180337508"
+    },
+    {
+      "article": "https://adondeircr.com/limon/catarata-chindama-un-impresionante-tesoro-natural-a-corta-distancia-de-san-jose/?c1",
+      "checked": "2026-11-22",
+      "platform": "Facebook",
+      "title": "Catarata Chindama: Un impresionante tesoro natural a corta distancia de San José",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/971945957303377"
+    },
+    {
+      "article": "https://adondeircr.com/limon/espectacular-video-muestra-impresionante-programa-de-monitoreo-de-vida-silvestre-en-costa-rica/?c1",
+      "checked": "2026-11-22",
+      "platform": "Facebook",
+      "title": "Espectacular video muestra impresionante programa de monitoreo de vida silvestre en Costa Rica | A dónde ir en Costa Rica",
+      "url": "https://www.facebook.com/NCRNoticiasCostaRica/videos/276409264716301"
+    },
+    {
+      "article": "https://underseahunter.com/trip-report/sept-11-21-2026-cocos-island-trip-report-sea-hunter/",
+      "checked": "2026-11-22",
+      "platform": "Facebook",
+      "title": "Undersea Hunter Sept 11-21, 2026 | Cocos Island Trip Report | Sea Hunter",
+      "url": "https://www.facebook.com/reel/1848633063160984"
+    },
+    {
+      "article": "https://adondeircr.com/limon/descubre-el-autentico-sabor-caribeno-en-paradise/?c1",
+      "checked": "2026-11-22",
+      "platform": "Instagram",
+      "title": "Descubre el auténtico sabor caribeño en PARADISE",
+      "url": "https://www.instagram.com/p/Cq5_U7dt9Ha/"
+    },
+    {
+      "article": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1",
+      "checked": "2026-11-22",
+      "platform": "Instagram",
+      "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
+      "url": "https://www.instagram.com/p/CqoMIbtptOp/"
+    },
+    {
+      "article": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1",
+      "checked": "2026-11-22",
+      "platform": "Instagram",
+      "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
+      "url": "https://www.instagram.com/p/CqqnUe6uD8u/"
+    },
+    {
+      "article": "https://adondeircr.com/puntarenas/sin-miedo-a-nada-periodista-deportiva-gabriela-jimenez-se-lanza-en-paracaidas-en-sus-vacaciones/?c1",
+      "checked": "2026-11-22",
+      "platform": "Instagram",
+      "title": "¿Sin miedo a nada? Periodista deportiva Gabriela Jiménez se lanza en paracaídas en sus vacaciones",
+      "url": "https://www.instagram.com/p/CqrR030A-3s/"
+    },
+    {
+      "article": "https://rescatewildlife.org/capybara-rescue-story/",
+      "checked": "2026-11-22",
+      "platform": "Instagram",
+      "title": "Capybara Rescue Story at Rescate Wildlife Rescue Center - Rescate Wildlife Rescue Center - Zoave",
+      "url": "https://www.instagram.com/p/Df2v9EtPSFn/"
+    },
+    {
+      "article": "https://adondeircr.com/san-jose/sumergete-en-la-naturaleza-en-finca-dos-rios-un-tour-de-un-dia-que-despierta-tus-sentidos/?c1",
+      "checked": "2026-11-21",
+      "platform": "Facebook",
+      "title": "Sumérgete en la naturaleza en Finca Dos Ríos: Un tour de un día que despierta tus sentidos",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/1407540923312574"
+    },
+    {
+      "article": "https://adondeircr.com/san-jose/carne-vida-el-rincon-gourmet-que-conquista-paladares/?c1",
+      "checked": "2026-11-21",
+      "platform": "Facebook",
+      "title": "Carne Vida: el rincón gourmet que conquista paladares",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/24230206343254726"
+    },
+    {
+      "article": "https://adondeircr.com/alajuela/capilla-ambar-la-unica-capilla-mariposario-de-todo-el-mundo/?c1",
+      "checked": "2026-11-21",
+      "platform": "Facebook",
+      "title": "CAPILLA AMBAR, la única capilla mariposario de todo el mundo",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/5878893612158729"
+    },
+    {
+      "article": "https://adondeircr.com/limon/las-imagenes-ineditas-de-ricardo-arjona-en-costa-rica/?c1",
+      "checked": "2026-11-21",
+      "platform": "Instagram",
+      "title": "Las imágenes inéditas de Ricardo Arjona en Costa Rica",
+      "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
+    }
+  ],
+  "pagesChecked": 28,
+  "pagesRead": 27,
+  "pagesReadToDate": 1131,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45220620247"
 }

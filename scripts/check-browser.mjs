@@ -148,6 +148,15 @@ async function checkViewport(browser, width) {
     const articleLink = readPages.getByRole("link").first();
     await articleLink.waitFor();
     assert.match(await articleLink.getAttribute("href"), /^https:\/\//);
+    const pendingPosts = atlas.social.publisherReview.nativeCandidates;
+    if (pendingPosts.length) {
+      const queue = page.locator("details.evidence-list").filter({ hasText: /^Публикации к сверке/ });
+      await queue.locator("summary").click();
+      const first = pendingPosts[0];
+      await queue.locator(`a[href="${first.url}"]`).first().waitFor();
+      assert(await queue.locator(`a[href="${first.article}"]`).count() > 0);
+      assert.equal(await queue.locator(".source-directory > div").count(), pendingPosts.length);
+    }
     await checkWidth();
 
     await open("catalog?q=School+Put-In&detail=route-map");

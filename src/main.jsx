@@ -633,6 +633,16 @@ function SourcesPage({ atlas }) {
         </div>)}
       </div>
     </details>
+    {publisherReview?.nativeCandidates?.length > 0 && <details className="evidence-list">
+      <summary>Публикации к сверке · {publisherReview.nativeCandidates.length} <ChevronDown size={18} /></summary>
+      <p>Эти ссылки собраны на страницах издателей. После чтения прямого оригинала публикация может войти в реестр профиля.</p>
+      <div className="source-directory">
+        {publisherReview.nativeCandidates.map(({ url, platform, article, title, checked }) => <div key={url}>
+          <External href={article}>{title}</External>
+          <p><External href={url}>Открыть {platform}</External>{" · "}страница издателя проверена <time dateTime={checked}>{checked.split("-").reverse().join(".")}</time></p>
+        </div>)}
+      </div>
+    </details>}
     {Object.keys(publisherReview?.guidePages || {}).length > 0 && <details className="evidence-list">
       <summary>Прочитанные страницы путеводителей <ChevronDown size={18} /></summary>
       <div className="source-directory">
