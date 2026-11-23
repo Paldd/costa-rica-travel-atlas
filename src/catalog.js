@@ -18,7 +18,7 @@ export const regions = {
 };
 
 export const activities = {
-  hiking: "Пешие тропы", summit: "Восхождения", trailrun: "Трейлраннинг",
+  hiking: "Пешие тропы", "hanging-bridges": "Подвесные мосты", summit: "Восхождения", trailrun: "Трейлраннинг",
   mtb: "MTB", cycling: "Велопрогулки", "road-bike": "Шоссейный велосипед",
   gravel: "Гравийный велосипед", ebike: "Электровелосипед", camping: "Палаточный кемпинг",
   rooftent: "Палатка на крыше", campfire: "Кемпинг с костровой зоной",

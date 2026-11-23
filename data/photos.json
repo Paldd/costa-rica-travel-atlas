@@ -295,7 +295,8 @@
     "author": "Steve Jurvetson",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-    "original": "https://commons.wikimedia.org/wiki/File:Catarata_del_Toro._Waterfall._Costa_Rica.jpg"
+    "original": "https://commons.wikimedia.org/wiki/File:Catarata_del_Toro._Waterfall._Costa_Rica.jpg",
+    "point": "toro-fall"
   },
   "blue-falls-toro-photo": {
     "file": "blue-falls-bajos-del-toro.jpg",
@@ -1849,5 +1850,59 @@
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Savegre_river._Costa_Rica.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "selvatura-katherine": {
+    "file": "selvatura-katherine.jpg",
+    "alt": "Подвесной мост над облачным лесом в парке Сельватура",
+    "caption": "Сельватура · мост над облачным лесом, снимок 2014 года, уменьшенная копия",
+    "author": "Katherine Baumann",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Selvatura_Park_Suspension_Bridge.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "selvatura-markus": {
+    "file": "selvatura-markus.jpg",
+    "alt": "Металлический подвесной мост среди деревьев Сельватуры",
+    "caption": "Сельватура · мост в лесу, снимок 2008 года, уменьшенная копия",
+    "author": "Markus Leupold-Löwenthal",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:MonteverteSelvaturaBridge.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "mistico-warby-wildlife": {
+    "file": "mistico-warby-wildlife.jpg",
+    "alt": "Ямкоголовая змея на ветке в парке Мистико",
+    "caption": "Мистико · ямкоголовая змея, наблюдение в декабре 2018 года",
+    "author": "William Warby",
+    "license": "CC BY 2.0",
+    "original": "https://www.flickr.com/photos/wwarby/45701451865/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "mistico-palmas-bridge": {
+    "file": "mistico-palmas-bridge.jpg",
+    "alt": "Подвесной мост у Ареналя над зелёным лесом",
+    "caption": "Дневной вид моста в Мистико · архивный снимок, уменьшенная копия",
+    "author": "m.prinke",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Arenal_Hanging_Bridges,_Palma.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "mistico-arenal-path": {
+    "file": "mistico-arenal-path.jpg",
+    "alt": "Подвесная дорожка в тропическом лесу у озера Ареналь",
+    "caption": "Подвесные мосты Ареналя · архивный снимок, уменьшенная копия",
+    "author": "Peter Sheik",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Arenal_Hanging_Bridges,_Costa_Rica2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "heliconias-bijagua-manakin": {
+    "file": "heliconias-bijagua-manakin.jpg",
+    "alt": "Длиннохвостый манакин сидит на ветке в лесу Heliconias",
+    "caption": "Длиннохвостый манакин в Heliconias, Бихагуа · фото 2008 года",
+    "author": "Steve Garvie",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Long-tailed_Manakin_(Chiroxiphia_linearis)_in_habitat_(1).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
   }
 }

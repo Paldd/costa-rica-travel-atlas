@@ -1,0 +1,250 @@
+{
+  "blue-morpho-bajos-lodge": {
+    "stops": [
+      {
+        "point": "blue-morpho-bajos-lodge-pin",
+        "role": "Въезд к лоджу",
+        "activity": "relax",
+        "note": "Метка от владельца в ста метрах к северу от спортивной площадки Торо-Амарильо."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какие номера подойдут семье",
+        "text": "У хозяев есть комнаты на двоих и семейные варианты на четверых или пятерых. Уточните состав кроватей по конкретной комнате. В описании Comfort указаны две кровати queen, собственный душ и крытая терраса. Спросите о доступности номера без ступеней, если это важно.",
+        "sources": ["blue-morpho-direct", "blue-morpho-ict", "blue-morpho-gallery"]
+      },
+      {
+        "title": "Сад, тропа, обед и сауна",
+        "text": "На территории есть сад бабочек, беседка, ресторан и дорожки для наблюдения за птицами. Dúo Viajero также показывает номера и упоминает тропу к Рио-Торо. У хозяев уточните проходимость и время возвращения до темноты. Отдельно спросите, что включено в проживание и нужен ли слот для спа.",
+        "sources": ["blue-morpho-direct", "fb-duo-blue-morpho-nov23", "blue-morpho-film"]
+      },
+      {
+        "title": "Заезд и погода",
+        "text": "Заезд начинается с 15:00 по правилам лоджа. Время выезда, поздний заезд и завтрак сверьте в подтверждении выбранного тарифа. В долине пригодятся тёплый слой к вечеру, закрытая обувь и дождевик для короткой прогулки.",
+        "sources": ["blue-morpho-map", "blue-morpho-terms"]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Blue Morpho Lodge · хозяева",
+        "source": "blue-morpho-direct",
+        "phone": "+506 8753 6157",
+        "whatsapp": "https://wa.me/50687536157",
+        "email": "info@bluemorpholodgecr.com",
+        "note": "Попросите цену с учётом возраста детей, точную комнату и состав услуг. Дополнительный телефон лоджа +506 2476 0658."
+      }
+    ],
+    "galleries": ["blue-morpho-gallery"],
+    "videos": ["blue-morpho-film", "blue-morpho-guest-film"],
+    "nearby": ["bajos-blue-morpho-falls-weekend", "bajos-finca-dos-rios-cascades", "catarata-del-toro", "blue-falls-toro", "toro-vuelta-canyon"]
+  },
+  "buena-vista-three-falls-hike": {
+    "stops": [
+      {
+        "point": "buena-vista-rincon-lodge-pin",
+        "role": "База парка · регистрация",
+        "activity": "hiking",
+        "note": "Ориентир территории. Попросите у организатора точный пин старта тропы."
+      },
+      {
+        "point": "buena-vista-salitral-falls",
+        "role": "Водопад Салитраль",
+        "activity": "waterfall",
+        "note": "Ориентир водопада по открытой карте. Тропу, очередность других остановок и условия доступа уточняйте на регистрации."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Три водопада за выход",
+        "text": "От базы группа уходит в лес к Асуфраде, Тобогану и Салитраль. В буклете оператора ориентир на прогулку около трёх часов. При записи выбирайте полную программу Hiking 3 Waterfalls. У оператора также есть короткая прогулка только к Салитраль.",
+        "sources": ["buena-vista-nature", "buena-vista-sales-guide", "buena-vista-tour-book", "fb-buena-vista-three-waterfalls-nov23"]
+      },
+      {
+        "title": "Дорога из Либерии",
+        "text": "По трассе 1 сверните на Каньяс-Дульсес и продолжайте по дороге к парку. Владелец даёт ориентир около 31 км из Либерии, часть пути проходит по обработанному гравию. После сильного дождя уточните проезд у администратора и время сбора.",
+        "sources": ["buena-vista-approach", "buena-vista-lodge-osm"]
+      },
+      {
+        "title": "Гид, условия у каскадов и экипировка",
+        "text": "По форме бронирования уточните сопровождение и минимальный возраст. У водопадов возможна мокрая почва, берите закрытую обувь с протектором и лёгкий дождевик. Если хотите подойти к воде, попросите гида оценить течение и показать доступное место на день визита.",
+        "sources": ["buena-vista-tour-book", "buena-vista-horse-report", "buena-vista-approach"]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Buena Vista del Rincón · дневные программы",
+        "source": "buena-vista-tour-book",
+        "phone": "+506 8922 9339",
+        "whatsapp": "https://wa.me/50689229339",
+        "email": "info@buenavistadelrincon.com",
+        "note": "Уточните доступные часы, возраст детей, тропу и время остановок."
+      }
+    ],
+    "galleries": ["buena-vista-horse-report"],
+    "videos": ["buena-vista-visitor-film"],
+    "nearby": ["buena-vista-three-falls-horse", "rincon-pailas", "rincon-cangreja-10", "rincon-santa-maria"]
+  },
+  "buena-vista-three-falls-horse": {
+    "stops": [
+      {
+        "point": "buena-vista-rincon-lodge-pin",
+        "role": "База парка · встреча с инструктором",
+        "activity": "horseback",
+        "note": "На регистрации уточните место посадки, время инструктажа и подбор лошади."
+      },
+      {
+        "point": "buena-vista-salitral-falls",
+        "role": "Каскад Салитраль",
+        "activity": "waterfall",
+        "note": "Запросите у проводника информацию о подходе от места, где группа оставляет лошадей."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Сколько времени выделить",
+        "text": "Страница конных выездов указывает около четырёх с половиной часов для программы к трём водопадам. Салитраль, Тобоган и Асуфрада названы в отчёте владельца. Вариант к термам у того же оператора короче. Попросите уточнить, входят ли остановки и инструктаж в указанные часы.",
+        "sources": ["buena-vista-horse", "buena-vista-horse-report", "fb-buena-vista-three-waterfalls-nov23"]
+      },
+      {
+        "title": "Подбор группы и одежда",
+        "text": "Сообщите инструктору свой опыт, возраст участников и уровень выносливости. Уточните критерии по весу, доступные шлемы и возможность выйти пешком на части программы. Для выезда нужны длинные брюки, закрытая обувь, вода и защита от дождя.",
+        "sources": ["buena-vista-horse", "buena-vista-approach"]
+      },
+      {
+        "title": "Дорога и время сбора",
+        "text": "Съезд с трассы 1 через Каньяс-Дульсес ведёт к частной базе парка. На карте отмечены база и водопад Салитраль. Точный конный путь и доступ к берегу определяет оператор в день выезда.",
+        "sources": ["buena-vista-approach", "buena-vista-lodge-osm", "buena-vista-salitral-osm"]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Buena Vista del Rincón · конные маршруты",
+        "source": "buena-vista-horse",
+        "phone": "+506 8922 9339",
+        "whatsapp": "https://wa.me/50689229339",
+        "email": "info@buenavistadelrincon.com",
+        "note": "Просите длинный маршрут 3 Waterfalls и запас времени после выезда."
+      }
+    ],
+    "galleries": ["buena-vista-horse-report"],
+    "videos": ["buena-vista-visitor-film"],
+    "nearby": ["buena-vista-three-falls-hike", "rincon-pailas", "rincon-santa-maria"]
+  },
+  "nosara-surf-simply-week": {
+    "stops": [
+      {
+        "point": "surf-simply-guiones-resort",
+        "role": "База школы в Плайя-Гионес",
+        "activity": "school",
+        "note": "Метка из карточки адреса на сайте Surf Simply. Время встречи и место высадки согласуйте со школой."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроено обучение",
+        "text": "Тренер сочетает занятия на воде, разбор видео и теорию. На неделю указаны 15 часов тренировок или видеоразбора. Программа подстраивается под навыки, от освоения старта до работы над выбором линии на волне. Ролик из Гионес показывает, как тренер объясняет один из таких навыков.",
+        "sources": ["surf-simply-coaching-week", "fb-surfsimply-guiones-highline-nov23", "surf-simply-surf-check", "surf-simply-independent-review"]
+      },
+      {
+        "title": "Заезд, дети и свободный день",
+        "text": "Рассчитывайте на семь ночей с субботы по субботу. После первых трёх дней тренировок в недельном плане есть выходной. Обычно программа доступна с 16 лет. На обозначенных в календаре семейных неделях принимают с 12. Уточните места до покупки перелётов.",
+        "sources": ["surf-simply-coaching-week", "surf-simply-week-calendar", "surf-simply-week-arrival"]
+      },
+      {
+        "title": "Что взять на берег",
+        "text": "Возьмите одежду от солнца, головной убор, бутылку для воды и смену пляжной одежды. У школы уточните, какие доски, лиши и гидромайки входят в выбранную программу. Перед выходом в воду ориентируйтесь на оценку тренера и состояние волн в день занятия.",
+        "sources": ["surf-simply-coaching-week", "surf-simply-week-contact", "surf-simply-surf-check"]
+      }
+    ],
+    "photos": ["guiones-shore", "guiones-sunset-commons"],
+    "contacts": [
+      {
+        "name": "Surf Simply · отдел бронирования",
+        "source": "surf-simply-week-contact",
+        "phone": "+1 305 505 7135",
+        "email": "info@surfsimply.com",
+        "note": "Уточните семейную неделю, перевозку досок, наличие места для сопровождающего и трансфер."
+      }
+    ],
+    "galleries": ["surf-simply-week-rooms"],
+    "videos": ["surf-simply-surf-check"],
+    "nearby": ["guiones", "guiones-pelada-nca-walk", "nosara-raiz-bodhi-cafe", "nosara-rio-montana-paddle"]
+  },
+  "bajos-blue-morpho-falls-weekend": {
+    "stops": [
+      {
+        "point": "blue-morpho-bajos-lodge-pin",
+        "role": "Blue Morpho · ночёвка и база",
+        "activity": "relax",
+        "note": "Ресторан, прогулка по участку и при необходимости ранний завтрак согласуются с лоджем."
+      },
+      {
+        "point": "bajos-dos-rios-farm-pin",
+        "role": "Въезд к Finca Dos Ríos",
+        "activity": "waterfall",
+        "note": "Ориентир у дороги к каскадам. Точный вход и проезд от поворота подтвердите у владельца."
+      },
+      {
+        "point": "toro-admissions",
+        "role": "Catarata Del Toro · приёмная",
+        "activity": "hiking",
+        "note": "Здесь выбирают верхний вид или продолжение по ступеням."
+      },
+      {
+        "point": "toro-fall",
+        "role": "Высокий водопад в кратере",
+        "activity": "waterfall",
+        "note": "Семья может остановиться у верхних видов. Для спуска нужна цепкая обувь."
+      }
+    ],
+    "line": "blue-morpho-two-day-ruta708",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два самостоятельных выезда",
+        "text": "От лоджа до отметки Finca Dos Ríos около 4,6 км на автомобиле. До парковочной зоны Catarata Del Toro около 5,8 км. Навигатор использует дороги OpenStreetMap. На карте линии до входов. Пешие участки выбирайте на месте с учётом режима и погоды.",
+        "sources": ["blue-morpho-ruta708-osm", "blue-morpho-map", "finca-dos-rios-waze", "toro-approach"]
+      },
+      {
+        "title": "Сценарий для семьи",
+        "text": "День первый посвящён небольшой прогулке у лоджа или первым доступным каскадам Dos Ríos. День второй начните с верхних площадок Catarata Del Toro. Если группа готова к ступеням, спуститесь дальше после оценки состояния. Проверьте графики обеих площадок и расписание ресторана заранее.",
+        "sources": ["blue-morpho-direct", "finca-dos-rios-360", "toro-garden-trails", "toro-rules"]
+      },
+      {
+        "title": "Что посмотреть перед поездкой",
+        "text": "Qué Buen Lugar показывает, как выглядит подход к каскадам. У Blue Morpho есть фото номеров и короткие гостевые ролики. Полевые фото водопада на карте показывают ландшафт маршрута. После сильного дождя сохраните возможность провести часть дня в лодже.",
+        "sources": ["finca-dos-rios-qbl", "finca-dos-rios-video-qbl", "blue-morpho-gallery", "blue-morpho-film"]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Blue Morpho Lodge · ночёвка",
+        "source": "blue-morpho-direct",
+        "phone": "+506 8753 6157",
+        "whatsapp": "https://wa.me/50687536157",
+        "email": "info@bluemorpholodgecr.com",
+        "note": "Согласуйте номер и время заезда. Для посещения водопадов действуют отдельные условия."
+      },
+      {
+        "name": "Finca Dos Ríos · каскады",
+        "source": "finca-dos-rios-waze",
+        "phone": "+506 8415 6590",
+        "note": "Подтвердите часы, состояние подхода и место стоянки у водопадов."
+      },
+      {
+        "name": "Catarata Del Toro Adventures · вход к водопаду",
+        "source": "toro-operator",
+        "phone": "+506 8399 7476",
+        "whatsapp": "https://wa.me/50683997476",
+        "email": "info@catarata-del-toro.com",
+        "note": "Уточните часы, вид билета и состояние спуска. Контакты есть на странице оператора."
+      }
+    ],
+    "galleries": ["blue-morpho-gallery", "finca-dos-rios-qbl"],
+    "videos": ["blue-morpho-film", "finca-dos-rios-video-qbl", "toro-falls-video"],
+    "nearby": ["blue-morpho-bajos-lodge", "bajos-finca-dos-rios-cascades", "catarata-del-toro", "blue-falls-toro"]
+  }
+}

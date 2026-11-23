@@ -1,0 +1,39 @@
+[
+  {
+    "id": "bajos-blue-morpho-falls-weekend",
+    "kind": "trip",
+    "region": "central",
+    "title": "Бахос-дель-Торо · два дня с Blue Morpho и водопадами",
+    "native": "Blue Morpho Lodge · Cataratas Finca Dos Ríos · Catarata Del Toro",
+    "level": "moderate",
+    "days": 2,
+    "activities": ["hiking", "waterfall", "forest", "views", "car", "relax"],
+    "audience": ["family-adults", "family-mid", "family-teen", "friends", "solo"],
+    "access": ["car", "confirm"],
+    "sleep": ["lodge"],
+    "sources": ["blue-morpho-direct", "fb-duo-blue-morpho-nov23", "finca-dos-rios-360", "toro-approach", "toro-operator", "blue-morpho-ruta708-osm"],
+    "summary": "Два дня в долине с семейным лоджем и двумя самостоятельными выездами по Ruta 708 к входам на водопады.",
+    "plan": "Расставьте поездки по погоде и графику парков. Можно сократить первый день до участка лоджа, а во второй выбрать обзор сверху или спуск в кратер.",
+    "conditions": "В часы дождя сверьте состояние дорожек, видимость и часы закрытия у каждой площадки. Возьмите непромокаемый слой и обувь с протектором.",
+    "distance": null,
+    "regions": [],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Blue Morpho и каскады Finca Dos Ríos",
+        "note": "Согласуйте время заселения. Для выезда к каскадам используйте основной въезд и возьмите фонарь для обратной дороги в сумерках.",
+        "stops": ["blue-morpho-bajos-lodge", "bajos-finca-dos-rios-cascades"],
+        "points": ["blue-morpho-bajos-lodge-pin", "bajos-dos-rios-farm-pin"],
+        "sources": ["blue-morpho-direct", "finca-dos-rios-qbl", "finca-dos-rios-waze"]
+      },
+      {
+        "day": 2,
+        "title": "Catarata Del Toro · верхние виды и лестница",
+        "note": "Заложите время на дорогу к приёмной и смотровые. У администратора перед спуском уточните состояние ступеней и время закрытия.",
+        "stops": ["catarata-del-toro"],
+        "points": ["blue-morpho-bajos-lodge-pin", "toro-admissions", "toro-fall"],
+        "sources": ["toro-operator", "toro-garden-trails", "toro-rules"]
+      }
+    ]
+  }
+]

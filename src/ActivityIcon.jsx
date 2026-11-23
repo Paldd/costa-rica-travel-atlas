@@ -32,6 +32,12 @@ const Paddleboard = sportIcon(<>
 const Surfboard = sportIcon(<>
   <path d="M4 17 16 5c2-2 5-2 5-2s0 3-2 5L7 20 4 17Zm4 0-3 4m9-12 3 3M2 22h20" />
 </>);
+const SurfLesson = sportIcon(<>
+  <path d="M5 17V9c0-2.8 1.6-5.3 3.5-6.5C10.4 3.7 12 6.2 12 9v8ZM8.5 9v5m7-9h6m-6 4h4m-4 4h5M2 21l4-1 4 1 4-1 4 1 4-1" />
+</>);
+const HangingBridge = sportIcon(<>
+  <path d="M3 5v14M21 5v14M3 7c3 4 6 6 9 6s6-2 9-6M3 17h18M7 11v6m5-4v4m5-6v6" />
+</>);
 const RoofTent = sportIcon(<>
   <path d="m5 9 6-6 7 6H5Zm7-5v5M4 11h15l2 4v4H3v-5l1-3Zm-1 4h18" />
   <circle cx="7" cy="19" r="1.8" fill="currentColor" />
@@ -149,7 +155,8 @@ const groups = [
   ["water", Windsurf, "windsurf"],
   ["water", Kite, "kitesurf"],
   ["water", Wingfoil, "wingfoil"],
-  ["water", Surfboard, "surf", "school"],
+  ["water", Surfboard, "surf"],
+  ["water", SurfLesson, "school"],
   ["water", Raft, "rafting"],
   ["water", Packraft, "packraft"],
   ["water", Paddleboard, "sup"],
@@ -168,6 +175,7 @@ const groups = [
   ["nature", Mountain, "summit", "volcano"],
   ["nature", Cave, "cave"],
   ["nature", TrailRun, "trailrun"],
+  ["nature", HangingBridge, "hanging-bridges"],
   ["nature", Footprints, "hiking", "multi"],
   ["land", CarFront, "car"],
   ["land", BorderCrossing, "border"],

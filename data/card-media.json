@@ -1323,7 +1323,9 @@
   "prusia-el-roble-loop-75": {
     "galleries": [
       "ict-prusia-trail-names-visitor-guide",
-      "prusia-local-trip"
+      "prusia-local-trip",
+      "prusia-schieber-photo-gallery",
+      "fb-cr-parques-prusia-archive-nov23"
     ]
   },
   "puerto-jimenez-inshore-boat": {
@@ -1541,6 +1543,13 @@
   "selvatura": {
     "galleries": [
       "media-selvatura-press"
+    ],
+    "photos": [
+      "selvatura-katherine",
+      "selvatura-markus"
+    ],
+    "videos": [
+      "selvatura-park-overview-film"
     ]
   },
   "senderos-colon-mary-10k": {
@@ -1719,6 +1728,10 @@
   "vista-suenos": {
     "galleries": [
       "herradura-adventure-faq"
+    ],
+    "videos": [
+      "vista-los-suenos-canopy-owner-film",
+      "vista-los-suenos-atv-owner-film"
     ]
   },
   "pejibaye-pack": {
@@ -2542,6 +2555,10 @@
   "mistico-twilight-bridges-32": {
     "videos": [
       "mistico-night-walk-video"
+    ],
+    "photos": [
+      "mistico-palmas-bridge",
+      "mistico-arenal-path"
     ]
   },
   "tres-amigos-packraft-fortuna": {
@@ -2560,6 +2577,10 @@
   "prusia": {
     "videos": [
       "prusia-qbl-forest-video"
+    ],
+    "galleries": [
+      "prusia-schieber-photo-gallery",
+      "prusia-ramirez-photo-gallery"
     ]
   },
   "palo-seco-roof-camp": {
@@ -2744,6 +2765,47 @@
   "turrialba-angostura-atirro-weekend-2": {
     "videos": [
       "casa-turire-hotel-grounds-film-nov23"
+    ]
+  },
+  "mistico": {
+    "photos": [
+      "mistico-palmas-bridge",
+      "mistico-arenal-path",
+      "mistico-warby-wildlife"
+    ]
+  },
+  "mistico-night-walk-15": {
+    "photos": [
+      "mistico-warby-wildlife"
+    ]
+  },
+  "bijagua-heliconias-bridges": {
+    "photos": [
+      "heliconias-bijagua-manakin"
+    ]
+  },
+  "herradura-vista-canyoning": {
+    "videos": [
+      "vista-los-suenos-canyoning-owner-film"
+    ]
+  },
+  "drake-copa-de-arbol-lodge": {
+    "videos": [
+      "copa-drake-guest-arrival-film",
+      "copa-drake-owner-tour-film",
+      "copa-drake-owner-meals-film"
+    ]
+  },
+  "pila-altamira-camp-weekend": {
+    "galleries": [
+      "asoprola-altamira-community-gallery",
+      "asoprola-altamira-community-walk"
+    ]
+  },
+  "pila-biolley-coffee-posada": {
+    "galleries": [
+      "asoprola-altamira-community-gallery",
+      "asoprola-altamira-community-walk"
     ]
   }
 }
