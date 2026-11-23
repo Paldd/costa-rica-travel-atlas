@@ -22,6 +22,9 @@ const Kayak = sportIcon(<>
   <path d="M3 18c2-3 5-5 9-5s7 2 9 5c-3 2-15 2-18 0Zm4-3 10-8M4 14l3 2m10-10 2 3M2 22h20" />
   <circle cx="11" cy="9" r="1.5" />
 </>);
+const Canoe = sportIcon(<>
+  <path d="M2.5 13c2.5 1.2 5.7 1.8 9.5 1.8s7-.6 9.5-1.8l-2.7 4.6c-3.1 1.5-10.5 1.5-13.6 0L2.5 13ZM9 15l7-9m-1-1 2.5 2m-9 7-2 2.5M3 22h18" />
+</>);
 const Paddleboard = sportIcon(<>
   <path d="M3 18c3 2 15 2 18 0M9 17l2-5-1-4 4 4 3 1m1-5v10l-2 2M3 22h18" />
   <circle cx="11" cy="5" r="1.5" />
@@ -126,6 +129,7 @@ const groups = [
   ["water", Packraft, "packraft"],
   ["water", Paddleboard, "sup"],
   ["water", Kayak, "kayak"],
+  ["water", Canoe, "canoe"],
   ["water", Scuba, "scuba"],
   ["water", Waves, "tubing", "snorkel", "swim"],
   ["water", Sailboat, "catamaran"],

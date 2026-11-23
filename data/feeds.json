@@ -2523,5 +2523,19 @@
     "paths": [
       "/comunicados/detalle/"
     ]
+  },
+  {
+    "name": "Sloth Sanctuary · программы центра Aviarios del Caribe",
+    "url": "https://www.slothsanctuary.com/sloth-tours",
+    "paths": [
+      "/sloth-tours",
+      "/frequently-asked-questions/visiting-the-sanctuary",
+      "/about-us"
+    ],
+    "exactPaths": [
+      "/sloth-tours",
+      "/frequently-asked-questions/visiting-the-sanctuary",
+      "/about-us"
+    ]
   }
 ]

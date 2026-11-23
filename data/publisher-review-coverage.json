@@ -1,6 +1,6 @@
 {
-  "archives": 118,
-  "archivesRead": 113,
+  "archives": 121,
+  "archivesRead": 117,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -206,8 +206,44 @@
     },
     "buen-camino-owner-ride": {
       "indexed": 4,
-      "pages": [],
-      "read": 0
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "published": "2022-10-05",
+          "title": "SLEEP",
+          "url": "https://buencaminocr.com/es/sleep/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-10-05",
+          "title": "RIDE",
+          "url": "https://buencaminocr.com/es/ride/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-09-25",
+          "title": "Home ES",
+          "url": "https://buencaminocr.com/es/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-09-13",
+          "title": "EAT",
+          "url": "https://buencaminocr.com/es/eat/"
+        }
+      ],
+      "read": 4
+    },
+    "camino-esencial-video-series": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "title": "El Camino de Costa rica",
+          "url": "https://www.esencialcostarica.com/camino-de-costa-rica/"
+        }
+      ],
+      "read": 1
     },
     "camino-ticos-a-pata": {
       "indexed": 1,
@@ -510,8 +546,29 @@
     },
     "conchal-reserva-program": {
       "indexed": 4,
-      "pages": [],
-      "read": 0
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "title": "Sustainability – Reserva Conchal",
+          "url": "https://reservaconchal.com/sustainability/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "PhoneDirectory – Reserva Conchal",
+          "url": "https://reservaconchal.com/phonedirectory/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Experiences – Reserva Conchal",
+          "url": "https://reservaconchal.com/experiences/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "BeachClub – Reserva Conchal",
+          "url": "https://reservaconchal.com/beachclub/"
+        }
+      ],
+      "read": 4
     },
     "costarica-guide-stories-index": {
       "indexed": 14,
@@ -840,8 +897,14 @@
     },
     "mistico-official-night": {
       "indexed": 3,
-      "pages": [],
-      "read": 0
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "title": "Visita autoguiada por los Puentes Colgantes de Arenal | Parque Místico",
+          "url": "https://misticopark.com/es/tours/self-guided-hanging-bridges/"
+        }
+      ],
+      "read": 3
     },
     "museum-national-entry": {
       "indexed": 3,
@@ -1060,8 +1123,27 @@
     },
     "palmares-explorers-planning": {
       "indexed": 3,
-      "pages": [],
-      "read": 0
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "published": "2025-10-31",
+          "title": "Next Generation eBikes Arrive at Peninsula Papagayo - Peninsula Papagayo Costa Rica",
+          "url": "https://peninsulapapagayo.com/ebikes/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-06-15",
+          "title": "New Wilderness Outpost in Palmares - Peninsula Papagayo Costa Rica",
+          "url": "https://peninsulapapagayo.com/new-wilderness-outpost-in-palmares-to-debut-in-november/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2019-03-29",
+          "title": "Trailblazing in Palmares with Pro Biker Gabriel Chacón - Peninsula Papagayo Costa Rica",
+          "url": "https://peninsulapapagayo.com/mountain-biking-bliss/"
+        }
+      ],
+      "read": 3
     },
     "parador-manuel-antonio-journal": {
       "indexed": 10,
@@ -1357,37 +1439,97 @@
         {
           "checked": "2026-11-23",
           "published": "2022-08-30",
-          "readThisRun": true,
           "title": "Por primera vez el 31 de agosto será feriado en Costa Rica, ¿Aplica pago doble?",
           "url": "https://adondeircr.com/heredia/por-primera-vez-el-31-de-agosto-sera-feriado-en-costa-rica-aplica-pago-doble/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-08-10",
-          "readThisRun": true,
           "title": "Parque Nacional Volcán Turrialba se prepara para recibir nuevamente a visitantes",
           "url": "https://adondeircr.com/cartago/parque-nacional-volcan-turrialba-se-prepara-para-recibir-nuevamente-a-visitantes/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-08-02",
-          "readThisRun": true,
           "title": "Puma sorprendió a vecinos de Acosta",
           "url": "https://adondeircr.com/puntarenas/puma-sorprendio-a-vecinos-de-acosta/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-07-18",
-          "readThisRun": true,
           "title": "¡La mejor playa del mundo es tica y está en Guanacaste!",
           "url": "https://adondeircr.com/guanacaste/la-mejor-playa-del-mundo-es-tica-y-esta-en-guanacaste/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2022-07-06",
-          "readThisRun": true,
           "title": "Paseos de un día que podés realizar en la GAM",
           "url": "https://adondeircr.com/alajuela/paseos-de-un-dia-que-podes-realizar-en-la-gam/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-07-02",
+          "title": "¡Una bendición! Zonas en alerta por paso de Bonnie amanecieron hoy con un espectacular sol",
+          "url": "https://adondeircr.com/guanacaste/una-bendicion-zonas-en-alerta-por-paso-de-bonnie-amanecieron-hoy-con-un-espectacular-sol/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-06-22",
+          "title": "El Rayo McQueen y sus amigos llegarán de exhibición a Costa Rica",
+          "url": "https://adondeircr.com/san-jose/el-rayo-mcqueen-y-sus-amigos-llegaran-de-exhibicion-a-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-05-12",
+          "title": "Parque Zoológico y Jardín Botánico Simón Bolívar inicia proceso de cierre",
+          "url": "https://adondeircr.com/san-jose/parque-zoologico-y-jardin-botanico-simon-bolivar-inicia-proceso-de-cierre/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-05-11",
+          "title": "Estas serán las personas y los lugares que deberán aplicar el uso de mascarilla obligatorio",
+          "url": "https://adondeircr.com/heredia/estas-seran-las-personas-y-los-lugares-que-deberan-aplicar-el-uso-de-mascarilla-obligatorio/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-05-11",
+          "title": "Espectacular: Costa Rica tiene el mejor hotel del mundo",
+          "url": "https://adondeircr.com/puntarenas/espectacular-costa-rica-tiene-el-mejor-hotel-del-mundo/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-04-26",
+          "readThisRun": true,
+          "title": "Identifican a hombre que murió ahogado en playa Manuel Antonio",
+          "url": "https://adondeircr.com/puntarenas/identifican-a-hombre-que-murio-ahogado-en-playa-manuel-antonio/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-04-20",
+          "readThisRun": true,
+          "title": "Nunca antes visto en el país: Galería de Van Gogh llegará a Costa Rica",
+          "url": "https://adondeircr.com/san-jose/nunca-antes-visto-en-el-pais-galeria-de-van-gogh-llegara-a-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-04-07",
+          "readThisRun": true,
+          "title": "Los 4 hábitos alimenticios que dañan la salud en la edad adulta",
+          "url": "https://adondeircr.com/san-jose/los-4-habitos-alimenticios-que-danan-la-salud-en-la-edad-adulta/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-04-05",
+          "readThisRun": true,
+          "title": "Costa Rica le empieza a ganar la batalla al Covid-19",
+          "url": "https://adondeircr.com/heredia/costa-rica-le-empieza-a-ganar-la-batalla-al-covid-19/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2022-03-28",
+          "readThisRun": true,
+          "title": "Danta Totó y el resto de animales viven en medio de ratas en el zoológico Simón Bolívar",
+          "url": "https://adondeircr.com/san-jose/danta-toto-y-el-resto-de-animales-viven-en-medio-de-ratas-en-el-zoologico-simon-bolivar/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -1690,7 +1832,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 85
+      "read": 95
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
@@ -2956,6 +3098,55 @@
       ],
       "read": 9
     },
+    "publisher-archive-puntaleona-magazine": {
+      "indexed": 8,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "title": "Punta Leona suma nuevos nidos artificiales para temporada de cortejo y anidación de lapas rojas – Revista Puntaleona – La Leona",
+          "url": "https://revistapuntaleona.com/punta-leona-suma-nuevos-nidos-artificiales-para-temporada-de-cortejo-y-anidacion-de-lapas-rojas/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Punta Leona suma más de 75 arrecifes artificiales para restaurar la vida marina de Playa Blanca y proteger Humedal Marino – Revista Puntaleona – La Leona",
+          "url": "https://revistapuntaleona.com/punta-leona-suma-mas-de-75-arrecifes-artificiales-para-restaurar-la-vida-marina-de-playa-blanca-y-proteger-humedal-marino/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Punta Leona se opone a iniciativa para legalizar cautiverio de las lapas – Revista Puntaleona – La Leona",
+          "url": "https://revistapuntaleona.com/punta-leona-se-opone-a-iniciativa-para-legalizar-cautiverio-de-las-lapas/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Punta Leona reafirma la pureza de sus aguas y la defensa de su patrimonio – Revista Puntaleona – La Leona",
+          "url": "https://revistapuntaleona.com/punta-leona-reafirma-la-pureza-de-sus-aguas-y-la-defensa-de-su-patrimonio/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Punta Leona impulsa y lidera el turismo regenerativo en el Pacífico Central de Costa Rica – Revista Puntaleona – La Leona",
+          "url": "https://revistapuntaleona.com/punta-leona-impulsa-y-lidera-el-turismo-regenerativo-en-el-pacifico-central-de-costa-rica/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Punta Leona destaca como el destino líder en turismo regenerativo con doble Bandera Azul – Revista Puntaleona – La Leona",
+          "url": "https://revistapuntaleona.com/punta-leona-destaca-como-el-destino-lider-en-turismo-regenerativo-con-doble-bandera-azul/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Punta Leona convierte su vivero en un banco de vida de regeneración para impulsar la biodiversidad del territorio – Revista Puntaleona – La Leona",
+          "url": "https://revistapuntaleona.com/punta-leona-convierte-su-vivero-en-un-banco-de-vida-de-regeneracion-para-impulsar-la-biodiversidad-del-territorio/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Playa Blanca figura entre los destinos costeros más higiénicos del país, afirma exdirector del Laboratorio Nacional de Aguas – Revista Puntaleona – La Leona",
+          "url": "https://revistapuntaleona.com/playa-blanca-figura-entre-los-destinos-costeros-mas-higienicos-del-pais-afirma-exdirector-del-laboratorio-nacional-de-aguas/"
+        }
+      ],
+      "read": 8
+    },
     "publisher-archive-quebuenlugar-com": {
       "indexed": 26,
       "pages": [
@@ -3096,6 +3287,11 @@
       "indexed": 6,
       "pages": [
         {
+          "checked": "2026-11-23",
+          "title": "Educational Group Tours - Rescate Wildlife Rescue Center - Zoave",
+          "url": "https://rescatewildlife.org/educational-group-tours/"
+        },
+        {
           "checked": "2026-11-22",
           "published": "2025-06-13",
           "title": "Capybara Rescue Story at Rescate Wildlife Rescue Center - Rescate Wildlife Rescue Center - Zoave",
@@ -3123,7 +3319,7 @@
           "url": "https://rescatewildlife.org/directions/"
         }
       ],
-      "read": 5
+      "read": 6
     },
     "publisher-archive-selvatura-com": {
       "indexed": 6,
@@ -3227,6 +3423,42 @@
         }
       ],
       "read": 6
+    },
+    "publisher-archive-teatro-nacional-comunicados": {
+      "indexed": 10,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "TNCR - Teatro Vargas Calvo presenta 'Sibelius' del reconocido dramaturgo Carlos Catania",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/777/teatro-vargas-calvo-presenta-sibelius-del-reconocido-dramaturgo-carlos-catania-"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "TNCR - Miércoles de literatura, poesía y diálogo continúa durante el 2026 en el Foyer del Teatro Nacional",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/776/miercoles-de-literatura,-poesia-y-dialogo-continua-durante-el-2026-en-el-foyer-del-teatro-nacional-"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "TNCR - Historia cobra vida: Ministerio de Cultura celebra 129 años del Teatro Nacional con música, danza, literatura y puertas abiertas",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/780/historia-cobra-vida:-ministerio-de-cultura-celebra-129-anos-del-teatro-nacional-con-musica,-danza,-literatura-y-puertas-abiertas"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "TNCR - Detrás de las pantallas: 'Sei6 Cu4rtos' lleva al teatro los desafíos de crecer en un mundo conectado",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/778/detras-de-las-pantallas:-sei6-cu4rtos-lleva-al-teatro-los-desafios-de-crecer-en-un-mundo-conectado"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "TNCR - 'Abrazo Fósil': un viaje entre la memoria y la fantasía",
+          "url": "https://www.teatronacional.go.cr/Comunicados/detalle/779/abrazo-fosil:-un-viaje-entre-la-memoria-y-la-fantasia"
+        }
+      ],
+      "read": 5
     },
     "publisher-archive-ticosapata-com": {
       "indexed": 67,
@@ -3841,6 +4073,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
+          "title": "¿Sabés cuántos símbolos nacionales tiene Costa Rica?",
+          "url": "https://vamosaturistear.com/actividades/sabes-cuantos-simbolos-nacionales-tiene-costa-rica/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "¿Qué actividades puedo hacer en el Lago de Arenal?",
           "url": "https://vamosaturistear.com/actividades/que-actividades-puedo-hacer-en-el-lago-de-arenal/"
         },
@@ -3851,9 +4088,13 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "¡Bienvenidos a Catarata Uvita!",
           "url": "https://vamosaturistear.com/actividades/bienvenidos-a-catarata-uvita/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Zarcero y Mirador La Vuelta - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/zarcero-y-mirador-la-vuelta/"
         },
         {
           "checked": "2026-11-23",
@@ -3892,6 +4133,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Río Savegre: el más limpio de Centroamérica y Reserva de la Biosfera - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/rio-savegre-el-mas-limpio-de-centroamerica-y-reserva-de-la-biosfera/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Refugio Nacional de Vida Silvestre Ostional",
           "url": "https://vamosaturistear.com/actividades/refugio-nacional-de-vida-silvestre-ostional/"
         },
@@ -3927,6 +4174,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Playa Carrillo: Hojancha Guanacaste - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-carrillo-hojancha-guanacaste/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Parque Nahomi: Quepos - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/parque-nahomi-quepos/"
         },
@@ -3934,6 +4187,12 @@
           "checked": "2026-11-23",
           "title": "Laguna de Río Cuarto: la más profunda del país",
           "url": "https://vamosaturistear.com/actividades/laguna-de-rio-cuarto-la-mas-profunda-del-pais/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "La maravillosa Catarata La Fortuna - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/la-maravillosa-catarata-la-fortuna/"
         },
         {
           "checked": "2026-11-23",
@@ -3947,7 +4206,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "La cueva de Punta Uva",
           "url": "https://vamosaturistear.com/actividades/la-cueva-de-punta-uva/"
         },
@@ -3960,6 +4218,11 @@
           "checked": "2026-11-23",
           "title": "Isla Pan de Azúcar: Golfo de Nicoya - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/isla-pan-de-azucar-golfo-de-nicoya/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Humedal Térraba-Sierpe - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/humedal-terraba-sierpe/"
         },
         {
           "checked": "2026-11-23",
@@ -3983,15 +4246,19 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Estos son los parques nacionales que tenés que conocer en Limón",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-limon/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Estos son los parques nacionales que tenés que conocer en Cartago",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-cartago/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Enamorate de la increíble Catarata Del Toro - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/enamorate-de-la-increible-catarata-del-toro/"
         },
         {
           "checked": "2026-11-23",
@@ -4007,6 +4274,11 @@
           "checked": "2026-11-23",
           "title": "Descubrí la magia de Isla Cedros - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/descubri-la-magia-de-isla-cedros/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Conocé playa Matapalo - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/conoce-playa-matapalo/"
         },
         {
           "checked": "2026-11-23",
@@ -4026,6 +4298,11 @@
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "Catarata Las Trillizas: Santa Cruz de Turrialba - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/catarata-las-trillizas-santa-cruz-de-turrialba/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Catarata Las Chorreras: Curubandé, Liberia - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-las-chorreras-curubande-liberia/"
         },
@@ -4033,6 +4310,11 @@
           "checked": "2026-11-23",
           "title": "Catarata Aquiares: un tesoro de Turrialba",
           "url": "https://vamosaturistear.com/actividades/catarata-aquiares-un-tesoro-de-turrialba/"
+        },
+        {
+          "checked": "2026-11-23",
+          "title": "Cascadas Pozo Azul: Catarata Nieve y Paz - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/cascadas-pozo-azul-catarata-nieve-y-paz/"
         },
         {
           "checked": "2026-11-23",
@@ -4355,7 +4637,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 102
+      "read": 112
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5041,7 +5323,7 @@
       "read": 15
     },
     "rural-caturcochi-valle-chirripo": {
-      "indexed": null,
+      "indexed": 3,
       "pages": [
         {
           "checked": "2026-11-22",
@@ -5059,7 +5341,7 @@
           "url": "https://valledelchirripo.com/acampe-a-los-pies-de-los-gigantes/"
         }
       ],
-      "read": null
+      "read": 3
     },
     "rural-osa-jimenez-current-transport": {
       "indexed": 3,
@@ -5641,8 +5923,8 @@
   },
   "dayUtc": "2026-11-23",
   "history": true,
-  "pagesChecked": 10,
-  "pagesRead": 10,
-  "pagesReadToDate": 926,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45149559761"
+  "pagesChecked": 24,
+  "pagesRead": 18,
+  "pagesReadToDate": 973,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45177536218"
 }

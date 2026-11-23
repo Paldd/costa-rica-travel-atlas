@@ -1,0 +1,92 @@
+[
+  {
+    "id": "guacimo-caribe-camp-canoe-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Гуасимо и южные Карибы · три дня с кемпингом и каноэ",
+    "native": "Suerre · Finca Pozas Guácimo · Aviarios del Caribe · Playa Estrella · Cahuita",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "camping",
+      "rooftent",
+      "offroad",
+      "mtb",
+      "boat",
+      "canoe",
+      "wildlife",
+      "beach",
+      "hiking"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "4x4",
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "roof",
+      "lodge"
+    ],
+    "sources": [
+      "actocaribe-guacimo-pococi-management",
+      "suerre-finca-pozas-2026-feed-copy",
+      "sloth-aviarios-owner-tours",
+      "babsita-camping-direct",
+      "cahuita"
+    ],
+    "summary": "Два разных лагеря в карибских предгорьях и у берега. Выберите прогулку или 9,5 км MTB в Суэрре, каноэ у центра ленивцев и береговую тропу Кауиты.",
+    "plan": "Первая ночь на финке у Суэрре либо в жилье при неподходящей дороге. На вторую ночь выберите береговой лагерь, который подтвердил место под крышную палатку. Третий день оставьте на Кауиту.",
+    "conditions": "Для заезда к Позас-Гуасимо ориентируйтесь на 4×4 и свежую информацию от хозяев. В двух лагерях ночёвки согласуются по отдельности. Каноэ и купание зависят от воды и погоды.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Суэрре и лагерь в предгорьях",
+        "note": "Подъедьте к финке засветло. Взрослые с MTB могут пройти авторский участок из Суэрре по условиям. Для семьи остаётся сухая прогулка по финке или короткий дневной визит.",
+        "stops": [
+          "suerre-pozas-guacimo-mtb-9",
+          "suerre-pozas-guacimo-camp-4x4"
+        ],
+        "sources": [
+          "actocaribe-guacimo-pococi-management",
+          "suerre-pozas-mtb-field-2026"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Каноэ и ночь на Плайя-Эстрелья",
+        "note": "Езжайте через Ruta 32 и Ruta 36 к центру Aviarios. При подходящей воде добавьте лодку к экскурсии. На вечер переезжайте в кемпинг Babsita с заранее подтверждённым местом.",
+        "stops": [
+          "penshurt-aviarios-buttercup-canoe",
+          "babsita-roof-estrella"
+        ],
+        "sources": [
+          "sloth-aviarios-owner-tours",
+          "babsita-camping-direct"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Береговая прогулка в Кауите",
+        "note": "Подберите вход и длину прогулки по состоянию тропы. Семья с детьми может пройти короткий вариант и оставить время на обед в Кауите.",
+        "stops": [
+          "cahuita-trail",
+          "maria-cahuita-roof"
+        ],
+        "sources": [
+          "cahuita",
+          "cahuita-2026"
+        ]
+      }
+    ]
+  }
+]

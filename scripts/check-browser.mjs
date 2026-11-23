@@ -238,6 +238,30 @@ async function checkViewport(browser, width) {
     assert.equal(huleGpx.match(/<wpt /g)?.length, 2);
     await checkWidth();
 
+    const canoe = records.get("penshurt-aviarios-buttercup-canoe");
+    await open("catalog?activity=canoe&q=Aviarios");
+    const canoeCard = page.locator(".route-card").filter({ has: page.getByRole("link", { name: canoe.title, exact: true }) });
+    await canoeCard.getByText("Каноэ", { exact: true }).waitFor();
+    await canoeCard.getByRole("link", { name: canoe.title, exact: true }).click();
+    await heading(canoe);
+    await page.waitForFunction(alt => Array.from(document.images).some(img =>
+      img.alt === alt && img.naturalWidth > 0), canoe.dossier.photos[0].alt);
+    await page.locator(".detail-photo figcaption").getByRole("link", { name: "CC BY-NC 2.0" }).waitFor();
+    const canoeVideo = page.getByRole("list", { name: "Видео", exact: true }).getByRole("button", { name: "Смотреть в карточке" });
+    await canoeVideo.click();
+    assert.equal(await page.locator(".media-player").getAttribute("src"), "https://www.youtube-nocookie.com/embed/6pf_Ukxbc94");
+    await checkWidth();
+
+    const pozas = records.get("suerre-pozas-guacimo-camp-4x4");
+    await open("place/" + pozas.id);
+    await heading(pozas);
+    await page.locator(".route-map .leaflet-overlay-pane path").first().waitFor();
+    const pozasMap = page.getByRole("region", { name: "Карта маршрута" });
+    const pozasGpx = await exportText(pozasMap.getByRole("button", { name: "Скачать GPX", exact: true }));
+    assert.equal((pozasGpx.match(/<trkpt /g) || []).length, atlas.lines[pozas.dossier.line].coords.length);
+    assert.equal((pozasGpx.match(/<wpt /g) || []).length, pozas.dossier.stops.length);
+    await checkWidth();
+
     assert.deepEqual(errors, []);
     const roof = records.get("las-trillizas-roofcamp");
     await open("place/" + roof.id);

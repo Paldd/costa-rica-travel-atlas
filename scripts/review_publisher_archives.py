@@ -15,7 +15,7 @@ from urllib.request import build_opener
 from build_catalog import DATA, PUBLISHER_FIELDS, read_records, read_sources, read_table
 from import_social import normalized, recurring_names
 from refresh import AGENT, SameSiteRedirect, canonical, editorial_feeds, host, request, robots_rules, sitemap_date
-from review_social_posts import PLACE_NAME, TOPICS, publication
+from review_social_posts import COMMON_NAMES, PLACE_NAME, TOPICS, publication
 
 
 SKIP = {
@@ -204,18 +204,44 @@ def read_archive(archive, urls, analyze):
 def analyzer():
     rows = read_records()
     terms = {}
+    context = {}
     for row in rows:
+        row_id = row["id"]
         for name in recurring_names(row):
-            terms.setdefault(name, set()).add(row["id"])
+            terms.setdefault(name, set()).add(row_id)
+            if name not in COMMON_NAMES:
+                continue
+            qualifiers = set()
+            for part in row["native"].split(" · ")[1:]:
+                qualifier = normalized(part)
+                if qualifier != name and len(qualifier) >= 7:
+                    qualifiers.add(qualifier)
+                    short, _, _ = qualifier.partition(" de ")
+                    if len(short.split()) >= 2:
+                        qualifiers.add(short)
+            if qualifiers:
+                context[row_id, name] = re.compile(
+                    r"(?<!\w)(?:" + "|".join(map(re.escape, sorted(qualifiers))) + r")(?!\w)"
+                )
     names = re.compile(r"(?<!\w)(?:" + "|".join(map(re.escape, sorted(terms, key=len, reverse=True))) + r")(?!\w)")
     signals = {topic: re.compile(r"\b(?:" + pattern + r")\b") for topic, pattern in TOPICS.items()}
 
     def analyze(title, body):
         text = normalized(f"{title} {body}")
-        matches = sorted({key for name in names.findall(text) for key in terms[name]})
+        matches = set()
+        for hit in names.finditer(text):
+            name = hit.group()
+            if name not in COMMON_NAMES:
+                matches.update(terms[name])
+                continue
+            nearby = text[max(0, hit.start() - 230):hit.end() + 230]
+            for key in terms[name]:
+                qualifier = context.get((key, name))
+                if qualifier and qualifier.search(nearby):
+                    matches.add(key)
         places = list(dict.fromkeys(name.group() for name in PLACE_NAME.finditer(f"{title} {body}")))
         return {"activitySignals": [key for key, pattern in signals.items() if pattern.search(text)],
-                "catalogMatches": matches, "placeCandidates": places[:12]}
+                "catalogMatches": sorted(matches), "placeCandidates": places[:12]}
 
     return analyze
 

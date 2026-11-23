@@ -1,0 +1,622 @@
+{
+  "pocora-dos-novillos-guided-falls": {
+    "stops": [
+      {
+        "point": "pocora-dos-novillos-access-qbl",
+        "role": "Ориентир подхода от Ла-Архентины",
+        "note": "Точка из карты Qué Buen Lugar, приведена для сверки с Доном Роберто. Сбор и доступ требуют подтверждения."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "В каком состоянии маршрут",
+        "text": "Qué Buen Lugar отмечает временное закрытие. Перед планированием попросите проводника подтвердить открытие, допустимый маршрут, наличие сопровождения и место сбора.",
+        "sources": [
+          "pocora-novillos-qbl-status",
+          "pocora-novillos-nacion-field"
+        ]
+      },
+      {
+        "title": "Что описано в отчётах",
+        "text": "Подход через пастбище у водовода, мокрый спуск и выход к первому каскаду. К дальней части в отчёте шли через воду и поднимались по подвесной лестнице. Один из проходов занял около полутора часов в одну сторону. Актуальный вариант выбирает проводник.",
+        "sources": [
+          "pocora-novillos-qbl-status",
+          "pocora-novillos-adondeir"
+        ]
+      },
+      {
+        "title": "Что взять после подтверждения выхода",
+        "text": "Закрытая обувь с протектором, вода, дождевик, запасная одежда и гермомешок. При подъёме воды или осадках в верховьях перенесите выход. Старые фотографии и видео показывают условия в день посещения.",
+        "sources": [
+          "pocora-novillos-qbl-status",
+          "pocora-novillos-nacion-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Дон Роберто · Dos Novillos",
+        "source": "pocora-novillos-qbl-status",
+        "note": "Позвоните по поводу открытия и сопровождаемого прохода.",
+        "phone": "+506 7218 5219"
+      }
+    ],
+    "galleries": [
+      "pocora-novillos-qbl-status",
+      "pocora-novillos-nacion-field"
+    ],
+    "videos": [
+      "pocora-novillos-qbl-film"
+    ],
+    "nearby": [
+      "bella-vista-chindama-guided-16",
+      "suerre-pozas-guacimo-camp-4x4"
+    ],
+    "accessNotice": {
+      "title": "Временно закрыт по отчёту Qué Buen Lugar",
+      "text": "Запланируйте выезд после прямого подтверждения открытия и безопасного прохода у местного проводника.",
+      "sources": [
+        "pocora-novillos-qbl-status"
+      ]
+    }
+  },
+  "bella-vista-chindama-guided-16": {
+    "stops": [
+      {
+        "point": "chindama-qbl-road-orientation",
+        "role": "Ориентир у маршрута Чиндама",
+        "note": "Карта Qué Buen Lugar. Парковка зависит от выбранного варианта, попросите точку сбора у проводника."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что показывают две версии",
+        "text": "Запись сентября 2026 года указывает 16,42 км, около 453 м набора и 7 ч 47 мин. Другой отчёт описывает примерно 10 км от иной точки и несколько выходов в русло. Используйте длину того маршрута, который подтвердил гид.",
+        "sources": [
+          "chindama-2026-acosta-track",
+          "chindama-qbl-bella-vista-field"
+        ]
+      },
+      {
+        "title": "Доступ с Белья-Висты",
+        "text": "План SINAC описывает естественную тропу из Белья-Висты и частную территорию возле водопада. Согласуйте проход с местной командой. Уточните, какой подход открыт и где будет выход, если изменилась вода.",
+        "sources": [
+          "actocaribe-guacimo-pococi-management",
+          "chindama-2026-acosta-track"
+        ]
+      },
+      {
+        "title": "Экипировка и погода",
+        "text": "Возьмите башмаки с протектором, гермопакет, сухой слой, воду и фонарь. При дождях вверх по течению поход лучше перенести. Опытные подростки только с решением проводника по условиям и сопровождением.",
+        "sources": [
+          "chindama-qbl-bella-vista-field",
+          "chindama-adondeir-local-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Уго Дуран · местный проводник",
+        "source": "chindama-2026-acosta-track",
+        "note": "Телефон опубликован в фотоотчёте о походе сентября 2026 года. Согласуйте разрешение на вход и состояние воды.",
+        "phone": "+506 8405 9220"
+      }
+    ],
+    "galleries": [
+      "chindama-qbl-bella-vista-field",
+      "chindama-2026-acosta-track"
+    ],
+    "videos": [
+      "chindama-qbl-film"
+    ],
+    "nearby": [
+      "pocora-dos-novillos-guided-falls",
+      "suerre-pozas-guacimo-mtb-9"
+    ],
+    "track": "chindama-2026-acosta-track"
+  },
+  "suerre-pozas-guacimo-camp-4x4": {
+    "stops": [
+      {
+        "point": "suerre-hamlet-osm",
+        "role": "Суэрре · населённый пункт",
+        "note": "Ориентир посёлка. Сверьте точное место старта с авторским треком или запросите его у проводника."
+      },
+      {
+        "point": "suerre-school-road-start",
+        "role": "Начало дорожного отрезка у школы",
+        "note": "Дорожная линия до финки стартует здесь. Фактическое место встречи согласуйте с хозяевами."
+      },
+      {
+        "point": "pozas-guacimo-parking-osm",
+        "role": "Стоянка Finca Pozas Guácimo",
+        "note": "Грунтовая парковка обозначена в OSM. Порядок въезда и размещение машины подтвердите у хозяина."
+      },
+      {
+        "point": "pozas-guacimo-finca-osm",
+        "role": "Финка · район строений и кабины",
+        "note": "Положение финки совпадает с каталогом открытой карты. Спуск к воде и участок для ночёвки назначают сотрудники."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Машина и грунт",
+        "text": "План SINAC описывает подъезд на полном приводе, а владельцы обозначают около 9 км от школы. По сегментам OSM линия от школы до парковки составляет 9,16 км. В местном репортаже есть развилка с Ruta 32 и комментарий хозяев. После дождя запросите состояние грунта.",
+        "sources": [
+          "actocaribe-guacimo-pococi-management",
+          "suerre-finca-pozas-2026-feed-copy",
+          "osm-guacimo-pozas-reception",
+          "osm-suerre-calle-piedra",
+          "osm-suerre-monte-dios-road",
+          "osm-suerre-monte-dios-last",
+          "suerre-pozas-la-teja-field"
+        ]
+      },
+      {
+        "title": "Ночёвка и речные заводи",
+        "text": "Заявлены кемпинг, прогулки и речные заводи. В картографических данных отмечена кабина. При записи проверьте, оформляет ли финка сейчас ночёвки, где есть крытое место, туалеты и питьевая вода. Крышную палатку, огонь и подъезд вплотную уточните отдельным вопросом.",
+        "sources": [
+          "suerre-finca-pozas-2026-feed-copy",
+          "suerre-pozas-visitor-film-2024",
+          "osm-guacimo-pozas-lodge"
+        ]
+      },
+      {
+        "title": "Наблюдение у реки",
+        "text": "В ролике показаны заводи и визит на финку. Вода меняется после дождя. С детьми уточняйте у хозяев, где есть выход без скользких камней и какую сухую прогулку они предлагают.",
+        "sources": [
+          "suerre-pozas-visitor-film-2024",
+          "suerre-pozas-film-2021"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Pozas Guácimo · запись",
+        "source": "suerre-finca-pozas-2026-feed-copy",
+        "note": "Сверьте статус дороги, часы, тип ночёвки и условия у реки.",
+        "phone": "+506 4001 5928",
+        "whatsapp": "https://wa.me/50640015928"
+      }
+    ],
+    "galleries": [
+      "suerre-finca-pozas-2026-feed-copy",
+      "suerre-pozas-mtb-field-2026",
+      "suerre-pozas-la-teja-field"
+    ],
+    "videos": [
+      "suerre-pozas-visitor-film-2024",
+      "suerre-pozas-film-2021"
+    ],
+    "nearby": [
+      "suerre-pozas-guacimo-mtb-9",
+      "guacimo-caribe-camp-canoe-3",
+      "suerre-pozas-guacimo-hike-17"
+    ],
+    "line": "suerre-escuela-pozas-road-osm"
+  },
+  "suerre-pozas-guacimo-mtb-9": {
+    "stops": [
+      {
+        "point": "suerre-hamlet-osm",
+        "role": "Суэрре · населённый пункт",
+        "note": "Ориентир посёлка. Сверьте точное место старта с авторским треком или запросите его у проводника."
+      },
+      {
+        "point": "suerre-school-road-start",
+        "role": "Начало дорожного отрезка у школы",
+        "note": "Дорожная линия до финки стартует здесь. Фактическое место встречи согласуйте с хозяевами."
+      },
+      {
+        "point": "pozas-guacimo-parking-osm",
+        "role": "Стоянка Finca Pozas Guácimo",
+        "note": "Грунтовая парковка обозначена в OSM. Порядок въезда и размещение машины подтвердите у хозяина."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Дистанция и подъём",
+        "text": "GPS участника фиксирует 9,48 км только в сторону финки, +501 м и 71 м спуска. Путь занимает около двух часов в одном направлении. Ориентир возврата тем же путём 19 км. Привяжите старт к треку перед поездкой.",
+        "sources": [
+          "suerre-pozas-mtb-field-2026",
+          "osm-suerre-hamlet",
+          "osm-suerre-calle-piedra",
+          "osm-suerre-monte-dios-road",
+          "osm-suerre-monte-dios-last"
+        ]
+      },
+      {
+        "title": "Покрытие и план возврата",
+        "text": "Ведомство описывает грунт к реке. На части дороги возможны камни, общий трафик и колеи. Снижайте скорость на мокрых спусках. Возьмите насос, запасную камеру и воду. Проверьте тормоза до старта. Частный финальный участок и пользование e‑MTB согласуйте с владельцем.",
+        "sources": [
+          "actocaribe-guacimo-pococi-management",
+          "suerre-pozas-mtb-field-2026",
+          "suerre-finca-pozas-2026-feed-copy"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Pozas Guácimo · запись",
+        "source": "suerre-finca-pozas-2026-feed-copy",
+        "note": "Сверьте статус дороги, часы, тип ночёвки и условия у реки.",
+        "phone": "+506 4001 5928",
+        "whatsapp": "https://wa.me/50640015928"
+      }
+    ],
+    "galleries": [
+      "suerre-pozas-mtb-field-2026",
+      "suerre-finca-pozas-2026-feed-copy",
+      "suerre-pozas-la-teja-field"
+    ],
+    "videos": [
+      "suerre-pozas-visitor-film-2024"
+    ],
+    "nearby": [
+      "suerre-pozas-guacimo-camp-4x4",
+      "bella-vista-chindama-guided-16",
+      "guacimo-caribe-camp-canoe-3",
+      "suerre-pozas-guacimo-hike-17"
+    ],
+    "track": "suerre-pozas-mtb-field-2026",
+    "line": "suerre-escuela-pozas-road-osm"
+  },
+  "penshurt-aviarios-buttercup-canoe": {
+    "stops": [
+      {
+        "point": "aviarios-owner-road-pin",
+        "role": "Ориентир въезда с Ruta 36",
+        "note": "Координаты для навигатора опубликованы самим центром."
+      },
+      {
+        "point": "aviarios-sanctuary-site-osm",
+        "role": "Центр Aviarios del Caribe",
+        "note": "Навигационная точка центра у Ruta 36. Место посадки в каноэ и режим визита определяет команда."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Тур и лодочная часть",
+        "text": "На Buttercup отводится около часа. Каноэ занимает ещё примерно час, если разрешает погода. Экскурсии начинаются каждый час с 08:00 до 15:00. По воскресеньям и понедельникам последняя группа в 14:00. Для индивидуального визита предварительная запись обычно не нужна.",
+        "sources": [
+          "sloth-aviarios-owner-tours",
+          "sloth-aviarios-owner-home"
+        ]
+      },
+      {
+        "title": "Оплата и дети",
+        "text": "На сайте опубликованы $30 с 13 лет, $15 с 5 до 12 лет, до 4 лет включительно бесплатно. Каноэ стоит ещё $5 с человека. Дети до 12 лет включительно посещают центр со взрослым. Перед выездом сверьте тариф и наличие жилетов.",
+        "sources": [
+          "sloth-aviarios-owner-tours"
+        ]
+      },
+      {
+        "title": "Подъезд без машины",
+        "text": "Хозяева рекомендуют сообщить водителю автобуса, что нужно выйти у Aviarios del Caribe или Sloth Sanctuary. У Eagle Tours есть пакет с подвозом. Для самостоятельного визита узнайте обратную остановку и рейс заранее.",
+        "sources": [
+          "sloth-aviarios-owner-home",
+          "sloth-aviarios-eagle-transfer",
+          "sloth-aviarios-ict-caribe"
+        ]
+      },
+      {
+        "title": "Что увидит семья",
+        "text": "Полевой фотоотчёт показывает центр и прогулку по воде. В оригинальном посте владельцы объясняют, как первый подопечный Buttercup дал имя экскурсии. Для лодки проверьте детские жилеты и возможность убрать водную часть по погоде.",
+        "sources": [
+          "sloth-aviarios-canoe-field-photos",
+          "sloth-aviarios-native-buttercup-history",
+          "sloth-aviarios-owner-faq"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sloth Sanctuary · запись на Buttercup",
+        "source": "sloth-aviarios-owner-home",
+        "note": "Часы начала, лодка и правила для детей. Хозяева публикуют WhatsApp для записи с местным удостоверением. Остальные гости могут писать на электронную почту.",
+        "phone": "+506 6450 0312",
+        "email": "ButtercupTours@SlothSanctuary.com",
+        "url": "https://www.slothsanctuary.com/sloth-tours"
+      },
+      {
+        "name": "Eagle Tours · программа с подвозом",
+        "source": "sloth-aviarios-eagle-transfer",
+        "note": "Минимум два участника для индивидуального выезда по опубликованным условиям. Возраст, место подбора и жилеты подтверждайте при записи.",
+        "email": "booking@eagletours.net"
+      }
+    ],
+    "galleries": [
+      "sloth-aviarios-owner-home",
+      "sloth-aviarios-canoe-field-photos"
+    ],
+    "videos": [
+      "sloth-aviarios-canoe-film"
+    ],
+    "nearby": [
+      "penshurt-aviarios-insider-visit",
+      "babsita-roof-estrella",
+      "cahuita-trail",
+      "guacimo-caribe-camp-canoe-3"
+    ],
+    "photos": [
+      "aviarios-buttercup-2009",
+      "aviarios-young-sloth-2009"
+    ]
+  },
+  "penshurt-aviarios-insider-visit": {
+    "stops": [
+      {
+        "point": "aviarios-owner-road-pin",
+        "role": "Ориентир въезда с Ruta 36",
+        "note": "Координаты для навигатора опубликованы самим центром."
+      },
+      {
+        "point": "aviarios-sanctuary-site-osm",
+        "role": "Центр Aviarios del Caribe",
+        "note": "Место регистрации перед экскурсией. Переспросите, какие зоны питомника доступны на выбранную дату."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Расписание расширенного визита",
+        "text": "Центр указывает два варианта начала, в 09:00 и 13:00. Просят прибыть за 15 минут на регистрацию. Для предварительной записи используют форму, наличие мест подтверждается ответом по электронной почте.",
+        "sources": [
+          "sloth-aviarios-owner-tours",
+          "sloth-aviarios-owner-faq"
+        ]
+      },
+      {
+        "title": "Опубликованные тарифы",
+        "text": "На сайте указаны $150 для 19–64 лет, $75 для 6–18 лет, $85 для гостей от 65 лет, до 5 лет включительно бесплатно. Для детей до 12 лет включительно нужно сопровождение взрослого.",
+        "sources": [
+          "sloth-aviarios-owner-tours"
+        ]
+      },
+      {
+        "title": "Что входит и кого записать",
+        "text": "В программу включены знакомство с работой центра и посещение части питомника. На форме есть категории для детей, подростков, взрослых и старших гостей. Наблюдение ведётся с сотрудниками центра.",
+        "sources": [
+          "sloth-aviarios-owner-tours",
+          "sloth-aviarios-native-buttercup-history"
+        ]
+      },
+      {
+        "title": "Рассказ гостя и фотографии",
+        "text": "В дневнике путешественника есть снимки питомника и история приезда на автобусе. Архивный отчёт показывает опыт конкретного выезда. Сегодня время, состав и цены берите из формы Insider.",
+        "sources": [
+          "sloth-aviarios-insider-jon-field",
+          "sloth-aviarios-owner-tours"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sloth Sanctuary · форма Insider",
+        "source": "sloth-aviarios-owner-tours",
+        "note": "Подтверждение времени и мест приходит от команды по электронной почте.",
+        "url": "https://www.slothsanctuary.com/sloth-tours"
+      }
+    ],
+    "galleries": [
+      "sloth-aviarios-insider-jon-field",
+      "sloth-aviarios-canoe-field-photos",
+      "sloth-aviarios-owner-home"
+    ],
+    "videos": [
+      "sloth-aviarios-center-film"
+    ],
+    "nearby": [
+      "penshurt-aviarios-buttercup-canoe",
+      "cahuita-trail",
+      "babsita-roof-estrella"
+    ],
+    "photos": [
+      "aviarios-young-sloth-2009",
+      "aviarios-buttercup-2009"
+    ]
+  },
+  "ochomogo-rancho-camuri-camp": {
+    "stops": [
+      {
+        "point": "camuri-ict-arrival",
+        "role": "Rancho Camurí · ориентир ранчо",
+        "note": "ICT указывает трёхкилометровый заезд от резервуаров RECOPE в сторону Llano Grande. На частной дороге обращайте внимание на знаки ранчо."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Прогулки, детские игры и ночёвка",
+        "text": "В турреестре описаны тропы, игровые участки и ночёвка. Локальные источники показывают глэмпинг, наземные палатки и мини-зиплайн. Согласуйте устройство площадки и подходящие детям форматы на конкретный день.",
+        "sources": [
+          "camuri-ochomogo-ict",
+          "camuri-ochomogo-campingcr",
+          "camuri-ochomogo-vamos-local"
+        ]
+      },
+      {
+        "title": "Подъезд и одежда",
+        "text": "Проезжайте от резервуаров RECOPE в сторону Llano Grande, затем ищите указатели ранчо в секторе Ла-Ангелина. Авторы дневного отчёта предупреждают о ветре, сыром покрытии и перепадах. Возьмите тёплый слой, дождевик и закрытую обувь.",
+        "sources": [
+          "camuri-ochomogo-ict",
+          "camuri-ochomogo-unicli-field"
+        ]
+      },
+      {
+        "title": "Огонь и палатка на машине",
+        "text": "В туристическом реестре указаны вечерние костры. Перед ночёвкой попросите обозначить рабочие очаги и путь от парковки. Положение машины рядом с палаткой, правила огня и место для раскрытой крышной палатки подтвердите заранее.",
+        "sources": [
+          "camuri-ochomogo-ict",
+          "camuri-ochomogo-campingcr"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rancho Camurí · запись на ранчо",
+        "source": "camuri-ochomogo-ict",
+        "note": "Согласуйте тихий участок, возраст для занятий и правила вечернего огня.",
+        "phone": "+506 8315 0375",
+        "whatsapp": "https://wa.me/50683150375"
+      }
+    ],
+    "galleries": [
+      "camuri-ochomogo-unicli-field",
+      "camuri-ochomogo-campingcr"
+    ],
+    "videos": [
+      "camuri-rancho-host-film"
+    ],
+    "nearby": [
+      "oikoumene",
+      "la-angelina-trail-11",
+      "orosi-tapanti-ranch-camp"
+    ]
+  },
+  "guacimo-caribe-camp-canoe-3": {
+    "stops": [
+      {
+        "point": "suerre-hamlet-osm",
+        "role": "Суэрре · населённый пункт",
+        "note": "Ориентир посёлка. Сверьте точное место старта с авторским треком или запросите его у проводника."
+      },
+      {
+        "point": "suerre-school-road-start",
+        "role": "Начало дорожного отрезка у школы",
+        "note": "Дорожная линия до финки стартует здесь. Фактическое место встречи согласуйте с хозяевами."
+      },
+      {
+        "point": "pozas-guacimo-parking-osm",
+        "role": "Стоянка Finca Pozas Guácimo",
+        "note": "Грунтовая парковка обозначена в OSM. Порядок въезда и размещение машины подтвердите у хозяина."
+      },
+      {
+        "point": "aviarios-sanctuary-site-osm",
+        "role": "Центр Aviarios del Caribe",
+        "note": "Навигационная точка центра у Ruta 36. Место посадки в каноэ и режим визита определяет команда."
+      },
+      {
+        "point": "babsita-playa-estrella-camp",
+        "role": "Плайя-Эстрелья · ночёвка Babsita",
+        "note": "Согласуйте место под машину и палатку на крыше до выезда."
+      },
+      {
+        "point": "cahuita-kelly",
+        "role": "Кауита · вход Kelly Creek на третий день",
+        "note": "Вход в сектор Плайя-Бланка. Длину прогулки выбирайте по правилам парка и времени возврата."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два типа лагеря",
+        "text": "Позас-Гуасимо подходит для наземной палатки по подтверждению хозяев, в карте также отмечены кабины. В Babsita есть проверяемый формат крышной палатки. Для выезда с одной крышей можно оставить первую ночёвку в кабине и проверить доступность второй площадки по телефону.",
+        "sources": [
+          "suerre-finca-pozas-2026-feed-copy",
+          "osm-guacimo-pozas-lodge",
+          "babsita-camping-direct"
+        ]
+      },
+      {
+        "title": "Ветки для разной погоды",
+        "text": "При сильном дожде перенесите MTB и грунтовый заезд. Если центр отменяет лодку, оставьте короткий визит Buttercup. В Кауите следуйте условиям парка и местным указаниям о купании.",
+        "sources": [
+          "actocaribe-guacimo-pococi-management",
+          "sloth-aviarios-owner-tours",
+          "cahuita"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Pozas Guácimo · запись",
+        "source": "suerre-finca-pozas-2026-feed-copy",
+        "note": "Сверьте статус дороги, часы, тип ночёвки и условия у реки.",
+        "phone": "+506 4001 5928",
+        "whatsapp": "https://wa.me/50640015928"
+      },
+      {
+        "name": "Sloth Sanctuary · запись на Buttercup",
+        "source": "sloth-aviarios-owner-home",
+        "note": "Часы начала, лодка и правила для детей. Хозяева публикуют WhatsApp для записи с местным удостоверением. Остальные гости могут писать на электронную почту.",
+        "phone": "+506 6450 0312",
+        "email": "ButtercupTours@SlothSanctuary.com",
+        "url": "https://www.slothsanctuary.com/sloth-tours"
+      }
+    ],
+    "galleries": [
+      "suerre-pozas-mtb-field-2026",
+      "sloth-aviarios-canoe-field-photos"
+    ],
+    "videos": [
+      "suerre-pozas-visitor-film-2024",
+      "sloth-aviarios-canoe-film"
+    ],
+    "nearby": [
+      "suerre-pozas-guacimo-camp-4x4",
+      "penshurt-aviarios-buttercup-canoe",
+      "babsita-roof-estrella",
+      "cahuita-trail"
+    ]
+  },
+  "suerre-pozas-guacimo-hike-17": {
+    "stops": [
+      {
+        "point": "suerre-hamlet-osm",
+        "role": "Суэрре · ориентир района старта",
+        "note": "Начальную точку кольца смотрите в записи участника."
+      },
+      {
+        "point": "pozas-guacimo-parking-osm",
+        "role": "Парковка и территория финки",
+        "note": "Допуск на финку и порядок прохода уточняйте заранее."
+      }
+    ],
+    "connectStops": false,
+    "track": "suerre-pozas-hike-field-2026",
+    "sections": [
+      {
+        "title": "Кольцо и темп",
+        "text": "По записи участника максимальная высота 777 м, минимальная 391 м. Изменение высоты около 488 м в каждую сторону. Оставьте запас времени после остановок у воды. Ориентиры на карте карточки показывают район маршрута, линия кольца доступна в треке автора.",
+        "sources": [
+          "suerre-pozas-hike-field-2026"
+        ]
+      },
+      {
+        "title": "Отдельный поход с гидом финки",
+        "text": "В интервью владелец описал выезды к заводям и водопадам по записи. Около четырёх часов включали остановки у воды. Уточните программу, доступность проводника и цену у финки.",
+        "sources": [
+          "suerre-pozas-la-teja-field",
+          "suerre-finca-pozas-2026-feed-copy"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca Pozas Guácimo · запись",
+        "source": "suerre-finca-pozas-2026-feed-copy",
+        "note": "Сверьте статус дороги, часы, тип ночёвки и условия у реки.",
+        "phone": "+506 4001 5928",
+        "whatsapp": "https://wa.me/50640015928"
+      }
+    ],
+    "galleries": [
+      "suerre-pozas-hike-field-2026",
+      "suerre-pozas-la-teja-field"
+    ],
+    "videos": [
+      "suerre-pozas-visitor-film-2024"
+    ],
+    "nearby": [
+      "suerre-pozas-guacimo-camp-4x4",
+      "suerre-pozas-guacimo-mtb-9",
+      "guacimo-caribe-camp-canoe-3"
+    ]
+  }
+}

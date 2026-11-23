@@ -26,7 +26,7 @@ export const activities = {
   horseback: "Конные прогулки", surf: "Сёрфинг",
   school: "Школы сёрфинга", windsurf: "Виндсёрфинг", kitesurf: "Кайтсёрфинг", wingfoil: "Вингфойл",
   rafting: "Рафтинг", packraft: "Пакрафт", sup: "SUP",
-  kayak: "Каяк", boat: "Лодки", "own-craft": "Со своей лодкой или SUP", catamaran: "Катамаран",
+  kayak: "Каяк", canoe: "Каноэ", boat: "Лодки", "own-craft": "Со своей лодкой или SUP", catamaran: "Катамаран",
   fishing: "Рыбалка", snorkel: "Снорклинг", scuba: "Дайвинг",
   swim: "Купание и бассейны", thermal: "Термальные воды", tubing: "Тюбинг",
   beach: "Пляжи", "white-sand": "Светлый песок", "dark-sand": "Тёмный песок",
