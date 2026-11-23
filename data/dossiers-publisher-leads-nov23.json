@@ -1,0 +1,332 @@
+{
+  "chorreras-guachipelin-walk": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Заезд и встреча",
+        "note": "Парковка и Adventure Center у отеля. Вход согласуется с Hacienda Guachipelín."
+      },
+      {
+        "point": "chorreras-walk-road-fork",
+        "role": "Поворот с дороги на лесную тропу",
+        "note": "Начало нанесённого пешеходного участка. Направление и доступ уточните на ресепшене."
+      },
+      {
+        "point": "chorreras-waterfall-view-area",
+        "role": "Двойной каскад Río Blanco",
+        "note": "Ориентир водопада. Для отдыха выбирайте разрешённый и сухой участок берега."
+      }
+    ],
+    "line": "chorreras-forest-approach",
+    "track": "chorreras-walk-wikiloc",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Подъезд и порядок прогулки",
+        "text": "Из Либерии двигайтесь в сторону Курубанде до Adventure Center Hacienda Guachipelín. Ориентир для машины соответствует гостиничному комплексу. От ресепшена до водопада у хозяев указано около 1,5 км в одну сторону и 30 минут по тропе. На карте показан лесной отрезок от съезда. Полный выход туда и обратно открыт отдельной ссылкой Wikiloc.",
+        "sources": [
+          "guachipelin-contact-directions",
+          "chorreras-hacienda-walk",
+          "chorreras-walk-wikiloc",
+          "chorreras-walk-osm"
+        ]
+      },
+      {
+        "title": "Время, стоимость и дети",
+        "text": "Hacienda публикует 1,5 часа, выходы в 08:30, 10:00, 12:00, 14:00 и 15:00, $30 от 13 лет, $25 в 4–12 лет и бесплатное посещение для возраста 0–3 года. Это условия опубликованной пешей программы. Для маленького ребёнка уточните ступени, возможность раннего возврата и подход к чаше.",
+        "sources": [
+          "chorreras-hacienda-walk",
+          "chorreras-ict-local"
+        ]
+      },
+      {
+        "title": "Вода, снаряжение и впечатления",
+        "text": "Возьмите питьевую воду, закрытую обувь с рельефной подошвой, средство от солнца и насекомых. Купальные вещи пригодятся при разрешении команды на месте. При дожде, быстром подъёме уровня или сильном потоке оставайтесь на берегу. Февральский отзыв 2026 года отмечает объяснения местного гида по дороге.",
+        "sources": [
+          "chorreras-ict-local",
+          "chorreras-field-reviews"
+        ]
+      },
+      {
+        "title": "Для группы с разными планами",
+        "text": "Можно отдельно уточнить у Hacienda конную экскурсию к этому же водопаду, пешую программу к Оропендоле или термы Río Negro. На территории базы удобно встретиться за кофе после разных активностей.",
+        "sources": [
+          "chorreras-hacienda-horseback",
+          "oropendola-entrance-guachipelin",
+          "guanacaste-guachipelin-cafe"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Guachipelín · Adventure Center",
+        "source": "chorreras-hacienda-walk",
+        "phone": "+506 2690 2900",
+        "email": "info@guachipelin.com",
+        "whatsapp": "https://wa.me/50626902900",
+        "url": "https://www.guachipelin.com/contact/",
+        "note": "Бронь пешего или отдельного конного выезда. Уточните доступ к тропе, состояние воды и порядок въезда из Курубанде."
+      }
+    ],
+    "galleries": [
+      "chorreras-hacienda-walk",
+      "chorreras-ict-local",
+      "chorreras-guachipelin-gallery",
+      "chorreras-walk-wikiloc",
+      "chorreras-flickr-photograph"
+    ],
+    "videos": [
+      "chorreras-waterfalls-film"
+    ],
+    "nearby": [
+      "chorreras-pozas-861",
+      "guachipelin",
+      "oropendola-guachipelin-walk",
+      "guachipelin-rincon-cafe",
+      "guachipelin-emtb-base",
+      "rincon-pailas"
+    ]
+  },
+  "chorreras-pozas-861": {
+    "stops": [
+      {
+        "point": "guachipelin-lodge",
+        "role": "Заезд и встреча",
+        "note": "Парковка и Adventure Center у отеля. Вход согласуется с Hacienda Guachipelín."
+      },
+      {
+        "point": "chorreras-waterfall-view-area",
+        "role": "Двойной каскад Río Blanco",
+        "note": "Ориентир водопада. Для отдыха выбирайте разрешённый и сухой участок берега."
+      }
+    ],
+    "track": "chorreras-pools-wikiloc",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Параметры полевой записи",
+        "text": "Андрес Пьедра Сото записал выход туда и обратно, 8,61 км и +126 м. На его прогулку ушло около 3 часов, из них 1 час 47 минут в движении. Он отметил технический рельеф. По карте в карточке видны лишь общие ориентиры. Авторский трек и профиль высот открываются отдельной ссылкой.",
+        "sources": [
+          "chorreras-pools-wikiloc"
+        ]
+      },
+      {
+        "title": "Как согласовать удлинённый вариант",
+        "text": "Покажите хозяевам авторскую запись и спросите, на какие участки сейчас пускают пешком, нужен ли сопровождающий и где пройти мимо воды по сухой тропе. Для короткой программы есть отдельный выход на 3 км с опубликованными условиями. Для длинной возьмите воду на весь маршрут, сухой пакет и обувь с рисунком протектора.",
+        "sources": [
+          "chorreras-pools-wikiloc",
+          "chorreras-hacienda-walk",
+          "chorreras-ict-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hacienda Guachipelín · Adventure Center",
+        "source": "chorreras-hacienda-walk",
+        "phone": "+506 2690 2900",
+        "email": "info@guachipelin.com",
+        "whatsapp": "https://wa.me/50626902900",
+        "url": "https://www.guachipelin.com/contact/",
+        "note": "Бронь пешего или отдельного конного выезда. Уточните доступ к тропе, состояние воды и порядок въезда из Курубанде."
+      }
+    ],
+    "galleries": [
+      "chorreras-hacienda-walk",
+      "chorreras-ict-local",
+      "chorreras-guachipelin-gallery",
+      "chorreras-walk-wikiloc",
+      "chorreras-flickr-photograph"
+    ],
+    "videos": [
+      "chorreras-waterfalls-film"
+    ],
+    "nearby": [
+      "chorreras-guachipelin-walk",
+      "guachipelin-emtb-base",
+      "rincon-cangreja-10",
+      "guachipelin-rincon-cafe"
+    ]
+  },
+  "punta-uva-mirador-walk": {
+    "stops": [
+      {
+        "point": "punta-uva-south-footpath",
+        "role": "Начало у южного пляжа",
+        "note": "Береговой выход на тропу. При поездке на машине выбирайте доступную парковку у пляжа."
+      },
+      {
+        "point": "punta-uva-mirador-step-fork",
+        "role": "Развилка с земляными ступенями",
+        "note": "Поворот вверх, в сторону гребня мыса. Держитесь сухой и обозначенной тропы."
+      },
+      {
+        "point": "punta-uva-cemetery-board",
+        "role": "Историческая табличка Лома-де-Пунта-Ува",
+        "note": "Небольшая остановка рядом со старым кладбищем. Сохраните тишину."
+      },
+      {
+        "point": "punta-uva-view-point",
+        "role": "Мирадор на мысе",
+        "note": "Конец семейной прогулки. Возвращение по тому же участку, вдали от кромки обрыва."
+      }
+    ],
+    "line": "punta-uva-south-shore-lookout",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как выйти на смотровую",
+        "text": "От южной бухты маршрут поднимается по земляным ступеням и идёт через лес на мыс. Прибавьте остановку у таблички о месте и время на фотографии. Показанная схема следует тропам OpenStreetMap от выхода с южного берега до гребня рядом со смотровой.",
+        "sources": [
+          "uva-mirador-ict",
+          "uva-mirador-osm"
+        ]
+      },
+      {
+        "title": "Семейный вариант и берег",
+        "text": "На верхней прогулке достаточно закрытой обуви, воды и дождевика. Выход к скалам внизу требует отдельной оценки прибоя, прилива и рельефа. В семейный план здесь входит верхняя смотровая. Для второго занятия можно выбрать прокат каяка на реке и согласовать место спуска с местным оператором.",
+        "sources": [
+          "uva-mirador-ict",
+          "uva-cliff-field-video",
+          "punta-uva-caribesur-kayak",
+          "gandoca-plan-sinac-2026"
+        ]
+      },
+      {
+        "title": "Отзывы и фотографии",
+        "text": "Авторы Qué Buen Lugar описали эту остановку в поездке через Плайя-Чикита и Мансанильо и сохранили большую фотогалерею. В отдельном видео Costa Rica Pura Vida видны скалы и характер прибоя у нижней части мыса.",
+        "sources": [
+          "uva-coast-qbl",
+          "uva-cliff-field-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Refugio Gandoca–Manzanillo · справочная",
+        "source": "uva-refuge-ict",
+        "phone": "+506 2759 0600",
+        "url": "https://es.visitcostarica.com/where-to-go/protected-areas/gandoca-manzanillo-natural-wildlife-refuge",
+        "note": "Уточните ограничения посещения охраняемой зоны и состояние троп после дождей."
+      }
+    ],
+    "photos": [
+      "caribe-punta-uva"
+    ],
+    "videos": [
+      "uva-cliff-field-video"
+    ],
+    "galleries": [
+      "uva-coast-qbl",
+      "uva-mirador-ict"
+    ],
+    "nearby": [
+      "punta-uva",
+      "punta-uva-local-kayak",
+      "punta-uva-caribbean-reef-dive",
+      "cocles-punta-uva-bike-kayak",
+      "gandoca"
+    ]
+  },
+  "uvita-esmeralda-two-entrances": {
+    "stops": [
+      {
+        "point": "uvita-esmeralda-butterfly-entrance",
+        "role": "Нижний вход · Jardín de Mariposas",
+        "note": "Ориентир Waze для сада бабочек. У кассы спросите, какие чаши входят в посещение и как найти парковку."
+      },
+      {
+        "point": "uvita-catarata-lower-pools",
+        "role": "Нижние чаши на каскаде",
+        "note": "Картографический ориентир в ручье. До безопасной площадки ведёт разрешённая дорожка по берегу."
+      },
+      {
+        "point": "uvita-catarata-upper-entrance",
+        "role": "Верхний вход · Restaurante La Catarata",
+        "note": "Отдельный оператор чуть выше по Calle Bejuco. Здесь парковка, ресторан и свой спуск."
+      },
+      {
+        "point": "uvita-catarata-upper-pool",
+        "role": "Верхний каскад · Cascada Verde",
+        "note": "Береговой ориентир рядом с верхней чашей. Уровень, течение и доступ к площадке уточняются на месте."
+      }
+    ],
+    "line": "uvita-catarata-upper-footpath",
+    "track": "catarata-uvita-wikiloc",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два заезда с Calle Bejuco",
+        "text": "Нижний Jardín de Mariposas и верхний Restaurante La Catarata ведут к одному водному участку по разным тропам. Билеты и парковка оформляются у выбранного хозяина. Для сада бабочек выбирайте нижний вход. У верхнего есть ресторан и ступени к воде. Карта показывает верхний пешеходный отрезок и отдельные ориентиры для нижнего входа.",
+        "sources": [
+          "catarata-uvita-mytanfeet",
+          "catarata-uvita-esmeralda-waze",
+          "catarata-uvita-upper-crmaps",
+          "catarata-uvita-upper-path-osm"
+        ]
+      },
+      {
+        "title": "Дети, ступени и цены",
+        "text": "В интервью La Teja сотрудница нижнего объекта описала около 300 м по своей тропе, первые 200 м почти ровные. Дальше идут ступени и небольшой ручей. Для короткого семейного визита спросите, до какой площадки удобно дойти с коляской. В путеводителе ICT фигурируют ₡2 000. У обоих хозяев уточните текущую цену, наличные и состав билета.",
+        "sources": [
+          "catarata-uvita-lateja",
+          "catarata-uvita-ict",
+          "catarata-uvita-mytanfeet"
+        ]
+      },
+      {
+        "title": "Время, вода и экипировка",
+        "text": "На посещение с парковкой и садом бабочек заложите 1–2 часа. Возьмите сменную одежду, воду, средство от насекомых и обувь с цепкой подошвой. Камни и лестницы мокрые даже в ясный день. После сильного дождя пропустите купание, у водопада присматривайте за детьми и избегайте прыжков и скользкой горки.",
+        "sources": [
+          "catarata-uvita-ict",
+          "catarata-uvita-panorama",
+          "catarata-uvita-lateja"
+        ]
+      },
+      {
+        "title": "Что отмечают посетители",
+        "text": "Семья, приезжавшая в воскресенье в марте 2026 года, описала два входа и более спокойный вариант с бабочками и короткой прогулкой. Для сравнения подходов есть фотографии Mytanfeet, три панорамы 360° и ролик DAventura. На море можно продолжить день у Марино-Бальены по отдельному билету парка.",
+        "sources": [
+          "catarata-uvita-visitor-reviews",
+          "catarata-uvita-mytanfeet",
+          "catarata-uvita-panorama",
+          "catarata-uvita-daventura",
+          "marino"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Catarata Uvita y Jardín de Mariposas · нижний вход",
+        "source": "catarata-uvita-esmeralda-waze",
+        "phone": "+506 8683 8725",
+        "url": "https://www.facebook.com/cascadauvita",
+        "note": "Спросите о саде бабочек, составе билета и проходимости дорожки к чашам."
+      },
+      {
+        "name": "Restaurante La Catarata Uvita · верхний вход",
+        "source": "catarata-uvita-upper-crmaps",
+        "phone": "+506 6101 2381",
+        "whatsapp": "https://wa.me/50661012381",
+        "email": "restcataratauvita@gmail.com",
+        "url": "https://www.crmaps.com/en/place/costa-ballena/4004-restaurante-la-catarata-uvita/",
+        "note": "Уточните подъезд по Calle Bejuco, работу ресторана и состояние лестницы."
+      }
+    ],
+    "galleries": [
+      "catarata-uvita-panorama",
+      "catarata-uvita-ict",
+      "catarata-uvita-mytanfeet",
+      "catarata-uvita-visitor-reviews"
+    ],
+    "videos": [
+      "catarata-uvita-daventura"
+    ],
+    "nearby": [
+      "marino-ballena",
+      "uvita-colonia-surf",
+      "cola-ballena-rooftop",
+      "cusinga"
+    ]
+  }
+}

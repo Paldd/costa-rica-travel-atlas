@@ -911,6 +911,7 @@
       }
     ],
     "nearby": [
+      "uvita-esmeralda-two-entrances",
       "cusinga",
       "osa-expedition-6",
       "cano-island",
@@ -1125,6 +1126,8 @@
       }
     ],
     "nearby": [
+      "punta-uva-mirador-walk",
+      "punta-uva-local-kayak",
       "gandoca",
       "faith-glamp",
       "cocles",
@@ -1133,7 +1136,16 @@
       "gandoca-lagoon-local-paddle",
       "gandoca-rooftop-lagoon-2"
     ],
-    "track": "uva-caribe-kayak"
+    "track": "uva-caribe-kayak",
+    "videos": [
+      "punta-uva-kayak-video",
+      "uva-cliff-field-video"
+    ],
+    "galleries": [
+      "uva-coast-qbl",
+      "uva-mirador-ict",
+      "punta-uva-caribesur-kayak"
+    ]
   },
   "gandoca": {
     "stops": [

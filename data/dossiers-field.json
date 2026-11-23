@@ -1482,13 +1482,18 @@
       }
     ],
     "nearby": [
+      "chorreras-guachipelin-walk",
+      "chorreras-pozas-861",
       "rincon-pailas",
       "rincon-cangreja-10",
       "rincon-mtb",
       "la-leona-curubande",
       "guachipelin-rincon-cafe"
     ],
-    "track": "guachipelin-faq"
+    "track": "guachipelin-faq",
+    "galleries": [
+      "chorreras-guachipelin-gallery"
+    ]
   },
   "junquillal": {
     "stops": [
