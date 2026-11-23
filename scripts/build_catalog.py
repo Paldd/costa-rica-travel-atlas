@@ -276,6 +276,31 @@ def video_source(source):
     )
 
 
+def external_route_kind(source, route_maps):
+    if source["id"] in route_maps:
+        return "map"
+    url = urlsplit(source["url"])
+    host = (url.hostname or "").removeprefix("www.")
+    path = url.path
+    if source["kind"] == "track" or re.search(r"(?:\.gpx|/gpx/\d+)/?$", path, re.IGNORECASE):
+        return "track"
+    if host == "wikiloc.com" or host.endswith(".wikiloc.com"):
+        if re.fullmatch(r"/[^/]+/[^/]+-\d+/?", path):
+            return "track"
+    if host == "trailforks.com" and path.startswith("/region/"):
+        return "map"
+    track_platforms = {
+        "ridewithgps.com": r"/routes/\d+/?",
+        "mtbproject.com": r"/trail/\d+(?:/[^/]+)?/?",
+        "komoot.com": r"/(?:[a-z]{2}-[a-z]{2}/)?(?:smarttour|tour)/\d+(?:/[^/]+)?/?",
+        "trailforks.com": r"/(?:route|trails)/[^/]+/?",
+        "connect.garmin.com": r"/(?:app|modern)/course/\d+/?",
+    }
+    if host in track_platforms and re.fullmatch(track_platforms[host], path):
+        return "track"
+    return None
+
+
 def reusable_media(record, sources, gallery_ids):
     dossier = record["dossier"]
     references = [
@@ -309,6 +334,10 @@ def main():
     sources_by_id = {source["id"]: source for source in sources}
     if len(sources_by_id) != len(sources):
         raise ValueError("Duplicate source ID")
+    map_refs = json.loads((DATA / "route-map-sources.json").read_text(encoding="utf-8"))
+    route_maps = set(map_refs)
+    if len(route_maps) != len(map_refs) or not route_maps <= sources_by_id.keys():
+        raise ValueError("Unknown or repeated external route map")
     points = {}
     for point in read_table(DATA / "map-points.tsv", POINT_FIELDS):
         key = point.pop("id")
@@ -356,6 +385,9 @@ def main():
                 media = dossier.get(field, [])
                 if len(media) != len(set(media)) or any(source not in sources_by_id for source in media):
                     raise ValueError(f"Unknown or repeated {field} source for {key}")
+            if track := dossier.get("track"):
+                if kind := external_route_kind(sources_by_id[track], route_maps):
+                    dossier["trackKind"] = kind
             dossiers[key] = dossier
     if unknown_media := media_edits.keys() - dossiers.keys():
         raise ValueError(f"Media for unknown dossiers: {', '.join(sorted(unknown_media))}")

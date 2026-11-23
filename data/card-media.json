@@ -7,6 +7,12 @@
   "arenal-pack": {
     "galleries": [
       "pack-arenal"
+    ],
+    "photos": [
+      "rio-arenal-la-fortuna-commons"
+    ],
+    "videos": [
+      "film-379-arenal-river-tubing"
     ]
   },
   "aventuras-cafe-puerto-jimenez": {
@@ -21,7 +27,8 @@
       "media-pacuare-rafting-commons"
     ],
     "photos": [
-      "pacuare-rafting-river-commons"
+      "pacuare-rafting-river-commons",
+      "avesol-pacuare-volcano-commons"
     ]
   },
   "babsita-roof-estrella": {
@@ -117,6 +124,9 @@
     ],
     "videos": [
       "media-qbl-cabo-blanco-film"
+    ],
+    "photos": [
+      "cabo-blanco-coati-commons"
     ]
   },
   "cabo-matapalo-backwash": {
@@ -137,12 +147,20 @@
   },
   "cano-negro-lagoon-weekend-2": {
     "photos": [
-      "cano-rio-frio-bernard"
+      "cano-rio-frio-bernard",
+      "cano-negro-rio-frio-commons"
+    ],
+    "videos": [
+      "film-379-cano-negro-mytanfeet"
     ]
   },
   "cano-negro-local-boat": {
     "photos": [
-      "cano-rio-frio-bernard"
+      "cano-rio-frio-bernard",
+      "cano-negro-rio-frio-commons"
+    ],
+    "videos": [
+      "film-379-cano-negro-mytanfeet"
     ]
   },
   "caribe-bus-3": {
@@ -687,18 +705,28 @@
   },
   "la-marta": {
     "galleries": [
-      "media-qbl-la-marta"
+      "media-qbl-la-marta",
+      "lamarta-qbl"
     ],
     "videos": [
-      "media-la-marta-visit"
+      "media-la-marta-visit",
+      "film-379-pejibaye-la-marta-qbl"
+    ],
+    "photos": [
+      "rio-gato-la-marta-commons"
     ]
   },
   "la-marta-mina": {
     "galleries": [
-      "media-qbl-la-marta"
+      "media-qbl-la-marta",
+      "lamarta-qbl"
     ],
     "videos": [
-      "media-la-marta-visit"
+      "media-la-marta-visit",
+      "film-379-pejibaye-la-marta-qbl"
+    ],
+    "photos": [
+      "rio-gato-la-marta-commons"
     ]
   },
   "la-paz-waterfalls": {
@@ -914,6 +942,9 @@
     "galleries": [
       "media-pacuare-raft-lodge",
       "avesol-river-program"
+    ],
+    "photos": [
+      "avesol-pacuare-volcano-commons"
     ]
   },
   "pacuare-day": {
@@ -1211,7 +1242,8 @@
   },
   "sarapiqui-float": {
     "photos": [
-      "atlas-sarapiqui-river"
+      "atlas-sarapiqui-river",
+      "sarapiqui-la-virgen-commons"
     ]
   },
   "sarapiqui-jungle-kayak-10": {
@@ -1226,7 +1258,8 @@
   },
   "sarapiqui-raft": {
     "photos": [
-      "atlas-sarapiqui-river"
+      "atlas-sarapiqui-river",
+      "sarapiqui-la-virgen-commons"
     ],
     "videos": [
       "film-sarapiqui-arenal-rafting-iv"
@@ -1234,7 +1267,8 @@
   },
   "savegre": {
     "photos": [
-      "atlas-dota-sav"
+      "atlas-dota-sav",
+      "savegre-dota-river-commons"
     ]
   },
   "savegre-abajo-family-14": {
@@ -1388,10 +1422,15 @@
   "turrialba-packraft-3": {
     "galleries": [
       "poc-rent",
-      "avesol"
+      "avesol",
+      "gallery-379-pejibaye-poc"
     ],
     "videos": [
       "film-pejibaye-poc-packraft"
+    ],
+    "photos": [
+      "pejivalle-landscape-commons",
+      "pacuare-rafting-river-commons"
     ]
   },
   "uvita-colonia-surf": {
@@ -1416,17 +1455,38 @@
     "videos": [
       "film-pejibaye-poc-packraft",
       "film-pejibaye-alan-kayak"
+    ],
+    "photos": [
+      "pejivalle-landscape-commons"
+    ],
+    "galleries": [
+      "gallery-379-pejibaye-poc"
     ]
   },
   "pejibaye-school-own-packraft": {
     "videos": [
       "film-pejibaye-poc-packraft",
       "film-pejibaye-alan-kayak"
+    ],
+    "photos": [
+      "pejivalle-landscape-commons"
+    ],
+    "galleries": [
+      "gallery-379-pejibaye-poc"
     ]
   },
   "atirro-pejibaye-paddle-2": {
     "videos": [
-      "film-pejibaye-poc-packraft"
+      "film-pejibaye-poc-packraft",
+      "film-379-pejibaye-la-marta-qbl"
+    ],
+    "photos": [
+      "rio-gato-la-marta-commons",
+      "pejivalle-landscape-commons"
+    ],
+    "galleries": [
+      "gallery-379-pejibaye-poc",
+      "lamarta-qbl"
     ]
   },
   "tortuguero-pacuare-roots-3": {
@@ -1704,6 +1764,144 @@
     ],
     "galleries": [
       "oropendola-qbl-visit"
+    ]
+  },
+  "pejibaye-weekend-local": {
+    "photos": [
+      "rio-gato-la-marta-commons",
+      "pejivalle-landscape-commons"
+    ],
+    "videos": [
+      "film-379-pejibaye-la-marta-qbl"
+    ],
+    "galleries": [
+      "lamarta-qbl"
+    ]
+  },
+  "la-suiza-atirro-pejibaye-pedelec-16": {
+    "photos": [
+      "pejivalle-landscape-commons"
+    ]
+  },
+  "sarapiqui-trivium-kayak-firstday": {
+    "photos": [
+      "sarapiqui-la-virgen-commons"
+    ]
+  },
+  "sarapiqui-rental-doki": {
+    "photos": [
+      "sarapiqui-la-virgen-commons"
+    ]
+  },
+  "sarapiqui-tirimbina-mtb-34": {
+    "photos": [
+      "sarapiqui-tirimbina-commons"
+    ]
+  },
+  "tolomuco-river-glamping": {
+    "photos": [
+      "sarapiqui-la-virgen-commons"
+    ]
+  },
+  "cano-negro-local-fishing-day": {
+    "photos": [
+      "cano-negro-rio-frio-commons"
+    ],
+    "videos": [
+      "film-379-cano-negro-mytanfeet"
+    ]
+  },
+  "quetzal-miramar-san-ramon-4x4": {
+    "photos": [
+      "miramar-church-commons"
+    ]
+  },
+  "miramar-palmar-rio-seco-36": {
+    "photos": [
+      "miramar-church-commons"
+    ]
+  },
+  "miramar-mtb-domos-weekend-2": {
+    "photos": [
+      "miramar-church-commons"
+    ]
+  },
+  "miramar-punta-morales-roof-2": {
+    "photos": [
+      "miramar-church-commons"
+    ]
+  },
+  "dota-tami-forest-glamping": {
+    "galleries": [
+      "tami-lodge-lanacion-report"
+    ],
+    "videos": [
+      "film-379-providencia-qbl"
+    ]
+  },
+  "dota-providencia-doc-2": {
+    "videos": [
+      "film-379-providencia-qbl"
+    ],
+    "galleries": [
+      "tami-lodge-lanacion-report"
+    ]
+  },
+  "rafiki-savegre-river-glamping": {
+    "videos": [
+      "film-379-rafiki-qbl",
+      "film-379-rafiki-frog"
+    ],
+    "galleries": [
+      "gallery-379-rafiki-field"
+    ]
+  },
+  "rafiki-savegre-to-matapalo-6": {
+    "videos": [
+      "film-379-rafiki-qbl",
+      "film-379-rafiki-frog"
+    ],
+    "galleries": [
+      "gallery-379-rafiki-field"
+    ]
+  },
+  "arenal-monteverde-savegre-family-tents-8": {
+    "videos": [
+      "film-379-chira-guest",
+      "film-379-rafiki-qbl"
+    ],
+    "galleries": [
+      "chira-family-units",
+      "gallery-379-rafiki-field"
+    ]
+  },
+  "paquera-isla-chiquita-family-glamp": {
+    "videos": [
+      "film-379-isla-chiquita-tents",
+      "film-379-isla-chiquita-guests"
+    ],
+    "galleries": [
+      "gallery-379-isla-chiquita-official"
+    ]
+  },
+  "chira-glamp": {
+    "videos": [
+      "film-379-chira-guest",
+      "film-379-chira-facilities"
+    ],
+    "galleries": [
+      "chira-family-units"
+    ]
+  },
+  "cocles-colina-secreta-glamp": {
+    "photos": [
+      "atlas-cocles-wave"
+    ],
+    "videos": [
+      "film-379-colina-secreta"
+    ],
+    "galleries": [
+      "gallery-379-colina-secreta"
     ]
   }
 }

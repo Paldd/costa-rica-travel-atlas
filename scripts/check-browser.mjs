@@ -150,6 +150,30 @@ async function checkViewport(browser, width) {
     assert.match(await articleLink.getAttribute("href"), /^https:\/\//);
     await checkWidth();
 
+    await open("catalog?q=School+Put-In&detail=route-map");
+    const paddlingCard = page.locator(".route-card").filter({
+      has: page.locator('h3 a[href*="place/pejibaye-school-own-packraft"]'),
+    });
+    const paddling = records.get("pejibaye-school-own-packraft");
+    await paddlingCard.getByRole("link", { name: paddling.title }).click();
+    await heading(paddling);
+    await page.waitForFunction(() => Array.from(document.images).some(img =>
+      img.src.endsWith("/pejivalle-landscape-commons.jpg") && img.naturalWidth > 0));
+    await page.getByRole("region", { name: "Карта маршрута" })
+      .getByRole("link", { name: /спуски, выходы и ориентиры Río Pejibaye/ }).waitFor();
+    await checkWidth();
+
+    const boca = records.get("boca-tapada-lodge-river-weekend-2");
+    await open("place/" + boca.id);
+    await heading(boca);
+    const bocaMap = page.getByRole("region", { name: "Карта маршрута" });
+    const roadDownload = page.waitForEvent("download");
+    await bocaMap.getByRole("button", { name: "Скачать GPX", exact: true }).click();
+    const roadGpx = await readFile(await (await roadDownload).path(), "utf8");
+    assert.equal((roadGpx.match(/<trkpt /g) || []).length, atlas.lines[boca.dossier.line].coords.length);
+    assert.equal((roadGpx.match(/<wpt /g) || []).length, boca.dossier.stops.length);
+    await checkWidth();
+
     const rioVista = records.get("pacuare-rio-vista-raft-zip-3");
     await open("place/" + rioVista.id);
     await heading(rioVista);

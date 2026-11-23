@@ -309,13 +309,47 @@ def write_json(path, data):
     temp.replace(path)
 
 
+def public_coverage(summary, results, run_url):
+    keys = ("dayUtc", "archives", "archivesRead", "pagesChecked", "pagesRead", "pagesReadToDate")
+    coverage = {}
+    seen = set()
+    for source in results:
+        if source["status"] != "read":
+            continue
+        pages = []
+        for article in source["checked"]:
+            if article["status"] != "read":
+                continue
+            url = article["finalUrl"]
+            article_key = canonical(url)
+            if article_key in seen:
+                continue
+            seen.add(article_key)
+            title = " ".join(article["title"].split())
+            page = {"url": url, "title": title or source["archive"]}
+            if published := sitemap_date(article.get("date", "")):
+                page["published"] = published
+            pages.append(page)
+        entry = {"indexed": source["indexedPages"], "read": source["indexedPagesRead"]}
+        if pages:
+            entry["pages"] = sorted(pages, key=lambda page: (page.get("published", ""), page["title"]), reverse=True)
+        coverage[source["sourceId"]] = entry
+    if len(seen) != summary["pagesRead"]:
+        raise ValueError("Public coverage does not match the reviewed pages")
+    return {**{key: summary[key] for key in keys}, "runUrl": run_url, "bySource": coverage}
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--refresh", type=Path, default=Path(".cache/refresh.json"))
     parser.add_argument("--out", type=Path, default=Path(".cache/publisher-review.json"))
     parser.add_argument("--state", type=Path, default=Path(".cache/publisher-archive-state.json"))
     parser.add_argument("--per-archive", type=int, default=5)
+    parser.add_argument("--public-coverage", type=Path)
+    parser.add_argument("--run-url")
     args = parser.parse_args()
+    if args.public_coverage and not args.run_url:
+        parser.error("--public-coverage requires --run-url")
     if not 1 <= args.per_archive <= 10:
         parser.error("--per-archive must be between 1 and 10")
     if not args.refresh.is_file():
@@ -354,7 +388,7 @@ def main():
             for row in batch:
                 previous[canonical(row["url"])] = {**row, "checked": day.isoformat()}
             indexed_read = sum(previous.get(key, {}).get("status") == "read" for key in pages)
-            current.append({"archive": catalog[archive_id], "profiles": archives[archive_id], "status": "read",
+            current.append({"archive": catalog[archive_id], "sourceId": archive_id, "profiles": archives[archive_id], "status": "read",
                             "checked": batch, "indexedPages": len(pages), "indexedPagesRead": indexed_read,
                             "readToDate": sum(row["status"] == "read" for row in previous.values())})
 
@@ -377,6 +411,8 @@ def main():
                "socialLinksToDate": len(native_candidates)}
     write_json(args.state, state)
     write_json(args.out, {**summary, "results": current, "socialCandidates": native_candidates, "videoCandidates": videos})
+    if args.public_coverage:
+        write_json(args.public_coverage, public_coverage(summary, current, args.run_url))
     print(json.dumps(summary, ensure_ascii=False))
 
 

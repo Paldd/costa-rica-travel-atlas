@@ -137,7 +137,7 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
       {line ? <span>{activeStage?.note || line.note} <a href={lineSource.url} target="_blank" rel="noopener noreferrer">
         {line.source === "osm-cr-points" ? "Данные маршрута © OpenStreetMap" : lineSource.title} ↗
       </a></span>
-        : stops.length > 1 && connectStops && <span>Пунктир показывает порядок остановок.{track && " Для навигации откройте карту или трек по ссылке."}</span>}
+        : stops.length > 1 && connectStops && <span>Пунктир показывает порядок остановок.{record.dossier?.trackKind && " По ссылке открывается трек или схема у источника."}</span>}
       {track && track.url !== lineSource?.url && <a href={track.url} target="_blank" rel="noopener noreferrer">{track.title} ↗</a>}
     </div>
   </section>;

@@ -350,7 +350,8 @@
     "galleries": [
       "guachipelin-ebike-rider",
       "guachipelin-emtb-singletrack"
-    ]
+    ],
+    "track": "guachipelin-ebike-rider"
   },
   "atenas-estanquillos-emtb-42": {
     "stops": [
@@ -399,7 +400,8 @@
     "connectStops": false,
     "galleries": [
       "atenas-emtb-estanquillos-track"
-    ]
+    ],
+    "track": "atenas-emtb-estanquillos-track"
   },
   "escazu-ventolera-salitral-emtb-15": {
     "stops": [
@@ -510,7 +512,8 @@
     ],
     "galleries": [
       "cartago-orosi-ebike-rider"
-    ]
+    ],
+    "track": "cartago-orosi-ebike-rider"
   },
   "orosi-tucurrique-emtb-42": {
     "stops": [
@@ -573,6 +576,7 @@
     ],
     "galleries": [
       "orosi-tucurrique-ebike-rider"
-    ]
+    ],
+    "track": "orosi-tucurrique-ebike-rider"
   }
 }

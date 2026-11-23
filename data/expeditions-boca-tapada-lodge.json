@@ -1,0 +1,67 @@
+[
+  {
+    "id": "boca-tapada-lodge-river-weekend-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Бока-Тапада · выходные на каяках и лодке по двум рекам",
+    "native": "Bocatapada Lodge · Pital · Boca Tapada · Río Tres Amigos · Río San Carlos",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "kayak",
+      "boat",
+      "river",
+      "wildlife",
+      "hiking",
+      "forest"
+    ],
+    "audience": [
+      "family-adults",
+      "family-mid",
+      "family-teen",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "source-379-bocatapada-tours",
+      "source-379-bocatapada-road",
+      "source-379-bocatapada-rooms",
+      "source-379-bocatapada-reviews",
+      "source-379-bocatapada-geo"
+    ],
+    "summary": "Одна ночь у реки Сан-Карлос. В первый день прогулка с натуралистом, на второй — местный выезд на каяке: посадка на Трес-Амигос и возвращение к базе по Сан-Карлосу. У лоджа также есть речное сафари на моторной лодке.",
+    "plan": "Возьмите воду и заправьтесь в Питале. Дорогу до Бока-Тапады пройдите засветло. На вечер выберите лесную тропу; утром согласуйте с гидом выход на каяках или моторной лодке и время возвращения.",
+    "conditions": "Хозяева сообщают об асфальте на участке от Питаля. Запросите окончательное место встречи, уровень воды, допуск по возрасту и размер жилета. Купание на речных участках согласуйте с местным гидом.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Питаль → Бока-Тапада · проезд, бунгало и лесная тропа",
+        "note": "От Питаля до ориентира в посёлке по дороге примерно 30,5 км. На Hacienda Boca Tapada проводят прогулки на 1,5 или 4 км; есть дневное и ночное время. Уточните начало прогулки и питание.",
+        "stops": [],
+        "sources": [
+          "source-379-bocatapada-road",
+          "source-379-bocatapada-tours",
+          "source-379-bocatapada-rooms"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Сафари на реках Трес-Амигос и Сан-Карлос",
+        "note": "На каяковый старт отвозит местный водитель. Участок по рекам занимает с логистикой около четырёх часов. Моторное сафари занимает около трёх часов по расписанию лоджа.",
+        "stops": [],
+        "sources": [
+          "source-379-bocatapada-tours"
+        ]
+      }
+    ]
+  }
+]

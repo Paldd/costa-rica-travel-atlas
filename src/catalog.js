@@ -100,7 +100,8 @@ export const secondaryFilters = [
   { key: "sleep", label: "Ночёвка", options: lodging },
   { key: "kind", label: "Вид записи", options: kinds },
   { key: "detail", label: "Карта и треки", options: {
-    map: "С точками на карте", line: "С линией маршрута", track: "С внешним треком",
+    map: "С точками на карте", line: "С линией маршрута",
+    track: "С внешним GPS-треком", "route-map": "С внешней схемой",
   } },
   { key: "material", label: "Материалы", options: { photo: "Фото в карточке", gallery: "Фотогалереи", video: "Видео", report: "Отзывы и отчёты" } },
 ];
@@ -177,7 +178,8 @@ export function visibleRecords(records, filters, scope, saves) {
     if (kind && record.kind !== kind) return false;
     if (detail === "map" && !record.dossier?.stops.length) return false;
     if (detail === "line" && !record.dossier?.line) return false;
-    if (detail === "track" && !record.dossier?.track) return false;
+    if (detail === "track" && record.dossier?.trackKind !== "track") return false;
+    if (detail === "route-map" && record.dossier?.trackKind !== "map") return false;
     if (!hasMaterial(record, material)) return false;
     if (km && (record.distance === null || record.distance < km[0] || record.distance >= km[1])) return false;
     if (!tokens.length) return true;

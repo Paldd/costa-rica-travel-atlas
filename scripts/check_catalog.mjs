@@ -108,10 +108,15 @@ assert(find({ km: "hundred", activity: "hiking", detail: "map" }, "expeditions")
 assert(find({ activity: "ebike", detail: "map" }).some(row => row.id === "pinilla-emtb"));
 const routesWithLines = find({ detail: "line" });
 const routesWithTracks = find({ detail: "track" });
+const routesWithMapLinks = find({ detail: "route-map" });
 assert.equal(routesWithLines.length, records.filter(row => row.dossier.line).length);
-assert.equal(routesWithTracks.length, records.filter(row => row.dossier.track).length);
+assert.equal(routesWithTracks.length, records.filter(row => row.dossier.trackKind === "track").length);
+assert.equal(routesWithMapLinks.length, records.filter(row => row.dossier.trackKind === "map").length);
 assert(routesWithLines.some(row => row.id === "talamanca-reef-surf-3"));
 assert(routesWithTracks.some(row => row.id === "nicoya-bikepack-6"));
+assert(routesWithTracks.some(row => row.id === "oropendola-guachipelin-walk"));
+assert(routesWithMapLinks.some(row => row.id === "pejibaye-school-own-packraft"));
+assert(!routesWithTracks.some(row => ["chira-glamp", "pejibaye-school-own-packraft"].includes(row.id)));
 for (const id of ["nicoya-bikepack-6", "golfo-dulce-kayak-camp-3", "talamanca-reef-surf-3"]) {
   const dossier = records.find(row => row.id === id).dossier;
   assert(dossier.photos.length > 0 && dossier.galleries.length > 0 && dossier.videos.length > 0, id);

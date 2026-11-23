@@ -1024,5 +1024,95 @@
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Oropendola_Waterfall_at_Rinc%C3%B3n_de_la_Vieja_National_Park.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "pejivalle-landscape-commons": {
+    "file": "pejivalle-landscape-commons.jpg",
+    "alt": "Склоны долины Пехивалье в Картаго",
+    "caption": "Пейзаж Пехивалье-де-Хименес, май 2013 года · уменьшенная копия",
+    "author": "MongeNajera",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Pejivalle,_Cartago,_Costa_Rica_2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "rio-gato-la-marta-commons": {
+    "file": "rio-gato-la-marta-commons.jpg",
+    "alt": "Река Рио-Гато среди леса заповедника Ла-Марта",
+    "caption": "Рио-Гато в заповеднике Ла-Марта, август 2026 года · уменьшенная копия",
+    "author": "Eileyn",
+    "license": "CC BY 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Gato._Pejivalle,_Jim%C3%A9nez,_Cartago.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "rio-arenal-la-fortuna-commons": {
+    "file": "rio-arenal-la-fortuna-commons.jpg",
+    "alt": "Река Ареналь в районе Ла-Фортуны-де-Сан-Карлос",
+    "caption": "Рио-Ареналь у Ла-Фортуны, август 2013 года · уменьшенная копия",
+    "author": "Wilma Compton",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Arenal_river._Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "sarapiqui-la-virgen-commons": {
+    "file": "sarapiqui-la-virgen-commons.jpg",
+    "alt": "Рио-Сарапики в районе Ла-Вирхен",
+    "caption": "Река Сарапики возле Ла-Вирхен, ноябрь 2012 года · уменьшенная копия",
+    "author": "m.prinke",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sarapiqui_river_(2).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+  },
+  "sarapiqui-tirimbina-commons": {
+    "file": "sarapiqui-tirimbina-commons.jpg",
+    "alt": "Сарапики с подвесного моста заповедника Тиримбина",
+    "caption": "Рио-Сарапики с подвесного моста Тиримбины, февраль 2016 года · уменьшенная копия",
+    "author": "Wayne77",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Costa_Rica_-_Sarapiqui_01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "savegre-dota-river-commons": {
+    "file": "savegre-dota-river-commons.jpg",
+    "alt": "Река Савегре у Сан-Херардо-де-Дота",
+    "caption": "Верховья Савегре в Сан-Херардо-де-Дота, январь 2016 года · уменьшенная копия",
+    "author": "Wayne77",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Costa_Rica_-_San_Gerardo_de_Dota_01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "avesol-pacuare-volcano-commons": {
+    "file": "avesol-pacuare-volcano-commons.jpg",
+    "alt": "Вид из Ave Sol на долину Пакуаре и вулкан Турриальба",
+    "caption": "Долина Пакуаре и вулкан Турриальба с территории Ave Sol, январь 2020 года · уменьшенная копия",
+    "author": "Pigment-Ink",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Camino_de_Costa_Rica_Ave_Sol_River_Sanctuary_Volc%C3%A1n_Turrialba_River_Pacuare.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "cano-negro-rio-frio-commons": {
+    "file": "cano-negro-rio-frio-commons.jpg",
+    "alt": "Река Фрио в заповеднике Каньо-Негро",
+    "caption": "Рио-Фрио в заповеднике Каньо-Негро, январь 2023 года · уменьшенная копия",
+    "author": "Bernard Gagnon",
+    "license": "CC0",
+    "original": "https://commons.wikimedia.org/wiki/File:Ca%C3%B1o_Negro_Wildlife_Refuge_03.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "cabo-blanco-coati-commons": {
+    "file": "cabo-blanco-coati-commons.jpg",
+    "alt": "Коати на лесной подстилке заповедника Кабо-Бланко",
+    "caption": "Коати в заповеднике Кабо-Бланко, май 2016 года · уменьшенная копия",
+    "author": "micah420",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Costa_Rica_May_2016,_Cabo_Blanco_Nature_Reserve,_Coati_hunting_around.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "miramar-church-commons": {
+    "file": "miramar-church-commons.jpg",
+    "alt": "Церковь города Мирамар в кантоне Монтес-де-Оро",
+    "caption": "Церковь Мирамара, городской ориентир · уменьшенная копия",
+    "author": "ArquiWHAT",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:IglesiaMiramarMontesDeOro.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   }
 }

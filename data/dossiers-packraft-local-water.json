@@ -1,0 +1,126 @@
+{
+  "tres-amigos-packraft-fortuna": {
+    "stops": [
+      {
+        "point": "fortuna-park",
+        "role": "Ориентир в центре Ла-Фортуны",
+        "note": "Soda Monkey’s Place находится примерно в 1,3 км к западу от парка. При бронировании уточните время встречи."
+      },
+      {
+        "point": "fortuna-soda-monkey-packraft-meet",
+        "role": "Soda Monkey’s Place · встреча и возврат",
+        "note": "Ориентир из открытого кода F89V+75. Оператор указывает парковку и место окончания программы у заведения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Место встречи и доставка к реке",
+        "text": "Оператор предлагает забрать гостей из части гостиниц Ла-Фортуны либо встретить у Soda Monkey’s Place в секторе Z13. На реку группа едет с проводником. Точные спуск и выход зависят от выбранного участка и уровня реки.",
+        "sources": [
+          "source-379-packraft-tres-amigos",
+          "source-379-packraft-tres-amigos-tourscr",
+          "source-379-soda-monkey-map"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "В программе заявлены пакрафт, двулопастное весло, спасательный жилет и шлем. Возьмите закрытую обувь для воды, сухую смену, полотенце, питьевую воду и солнцезащитный крем. Состав питания и услуги трансфера уточняйте перед поездкой.",
+        "sources": [
+          "source-379-packraft-tres-amigos",
+          "source-379-packraft-tres-amigos-tourscr"
+        ]
+      },
+      {
+        "title": "С детьми и в сезон дождей",
+        "text": "В карточке программы указана группа до восьми путешественников. Для ребёнка согласуйте возраст, размер жилета и готовность к самостоятельной гребле. После сильного дождя попросите гида подтвердить уровень воды и открытый участок.",
+        "sources": [
+          "source-379-packraft-tres-amigos",
+          "source-379-packraft-tres-amigos-local-report"
+        ]
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Packraft Costa Rica · Alexandro Mora",
+        "source": "pack-arenal",
+        "url": "https://packraftcostarica.com/",
+        "whatsapp": "https://wa.me/50689617884",
+        "phone": "+506 8961 7884",
+        "note": "Укажите, что нужен именно Рио-Трес-Амигос. Согласуйте дату, группу, условия трансфера, допуск ребёнка и уровень воды."
+      }
+    ],
+    "galleries": [
+      "source-379-packraft-tres-amigos",
+      "source-379-packraft-tres-amigos-local-report"
+    ],
+    "nearby": [
+      "arenal-pack",
+      "arenal-paddle",
+      "maquenque-tres-amigos-guided-kayak"
+    ]
+  },
+  "boca-tapada-lodge-river-weekend-2": {
+    "stops": [
+      {
+        "point": "north-pital-town-access",
+        "role": "Питаль · припасы и последняя заправка",
+        "note": "Городской ориентир. Проверьте время работы заправки и запас воды перед въездом на Vía 250."
+      },
+      {
+        "point": "north-boca-tapada-market",
+        "role": "Магазин в Бока-Тападе · ориентир на подъезде",
+        "note": "Линия карты ведёт от Питаля до магазина в посёлке. Последний поворот к отдельному Bocatapada Lodge уточняйте по его ссылке на навигацию."
+      }
+    ],
+    "line": "pital-boca-tapada-via250-drive",
+    "track": "source-379-bocatapada-road",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Машина и подъезд",
+        "text": "Сухопутная часть показана от Питаля до магазина в Бока-Тападе. Она рассчитана по OpenStreetMap, 30,5 км. По информации хозяев, дорога из Питаля асфальтирована и подходит для обычной машины. В Питале есть последняя заправка. Для заезда на лодж используйте его собственную ссылку на Waze или Google Maps.",
+        "sources": [
+          "source-379-bocatapada-road",
+          "source-379-boca-landline",
+          "source-379-bocatapada-geo"
+        ]
+      },
+      {
+        "title": "Выбор речной программы",
+        "text": "Для каяка опубликованы выходы в 8:00 и 13:30, чистый тариф в общей группе от двух участников $50 с человека. Для моторной прогулки указаны около трёх часов и $65 с человека при двух участниках в общей группе. Сверьте налоги, состав группы, возраст и часы перед бронированием.",
+        "sources": [
+          "source-379-bocatapada-tours"
+        ]
+      },
+      {
+        "title": "Тропы, ночёвка и вещи",
+        "text": "Lodge предлагает бунгало до четырёх гостей и дневную или ночную прогулку с гидом длиной до 4 км. Пригодятся лёгкий дождевик, закрытая обувь, репеллент и сухой пакет для телефона. Для ночного выхода возьмите индивидуальный фонарь.",
+        "sources": [
+          "source-379-bocatapada-tours",
+          "source-379-bocatapada-rooms",
+          "source-379-bocatapada-reviews"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bocatapada Lodge · местные гиды",
+        "source": "source-379-bocatapada-tours",
+        "url": "https://bocatapadalodge.com/servicios?lang=es",
+        "note": "Уточните маршрут по воде, возраст детей, ночёвку, время встречи и окончательный тариф.",
+        "phone": "+506 8517 8383",
+        "whatsapp": "https://wa.me/50685178383"
+      }
+    ],
+    "galleries": [
+      "source-379-bocatapada-rooms",
+      "source-379-bocatapada-tours"
+    ],
+    "nearby": [
+      "boca-tapada-maquenque-wildlife-2",
+      "maquenque-tres-amigos-guided-kayak",
+      "maquenque-tres-amigos-safari-float"
+    ]
+  }
+}
