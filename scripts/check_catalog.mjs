@@ -68,6 +68,7 @@ for (const row of records) {
   if (row.dossier) {
     const { stops, track, line, sections, contacts, nearby = [] } = row.dossier;
     assert(stops.every(stop => stop.name && stop.role && stop.source in atlas.sources && stop.coords.every(Number.isFinite)), row.id);
+    assert(stops.every(stop => !stop.activity || stop.activity in activities), row.id);
     const stageIds = new Set((row.stages || []).flatMap(stage => stage.stops));
     const mediaStops = row.dossier.mediaStops || [];
     assert.equal(new Set(mediaStops).size, mediaStops.length, row.id);
@@ -221,6 +222,24 @@ const ferry = find({ country: "ni", region: "ometepe", activity: "boat" })
   .find(row => row.id === "ometepe-san-jorge-ferry");
 assert(ferry && decodeURIComponent(mapsLink(ferry)).endsWith("Nicaragua"));
 assert(atlas.lines[ferry.dossier.line].coords.length > 5);
+const bocasRides = find({ country: "pa", region: "bocas", activity: "ebike", detail: "line" });
+for (const id of ["bocas-colon-paunch-bluff-ebike", "bocas-colon-drago-ebike"]) {
+  const ride = bocasRides.find(row => row.id === id);
+  assert(ride?.distance >= 20 && ride.dossier.stops.length >= 3, id);
+}
+for (const id of ["sixaola-bocas-family-3", "sixaola-bocas-colon-bastimentos-family-5"]) {
+  const trip = find({ country: "pa", region: "bocas", activity: "border" }, "expeditions").find(row => row.id === id);
+  assert(trip?.stages.every(day => day.stops.length >= 2), id);
+  const tripLine = atlas.lines[trip.dossier.line];
+  const landLegs = tripLine.stages.filter(leg => !atlas.lines[leg].water);
+  const tripGpx = createGpx(trip.title, [{ title: trip.title, line: tripLine, stops: trip.dossier.stops }], atlas);
+  assert(tripLine.stages.includes("bocas-lancha-osm"), id);
+  assert.equal((tripGpx.match(/<trkseg>/g) || []).length, landLegs.length, id);
+  assert.equal((tripGpx.match(/<wpt /g) || []).length, trip.dossier.stops.length, id);
+}
+const carFerry = records.find(row => row.id === "bocas-almirante-isla-colon-car-ferry");
+assert(carFerry.access.includes("4x4") && atlas.lines[carFerry.dossier.line].water);
+assert(carFerry.dossier.stops.every(stop => stop.point.endsWith("-car")));
 assert(find({ activity: "own-craft", detail: "map" }).some(row => row.id === "pacuare-own-craft"));
 assert.equal(find({ region: "caribbean" }, "saved", new Set(["sabana-oka"])).length, 0);
 assert.equal(find({}, "saved", new Set(["sabana-oka"])).length, 1);

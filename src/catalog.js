@@ -13,6 +13,7 @@ export const regions = {
   "rivas-coast": "Ривас и побережье Сан-Хуан-дель-Сур",
   "chiriqui-coast": "Залив Чирики",
   "chiriqui-highlands": "Горы Чирики",
+  bocas: "Бокас-дель-Торо",
 };
 
 export const activities = {

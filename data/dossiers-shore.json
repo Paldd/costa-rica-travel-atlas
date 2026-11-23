@@ -2521,6 +2521,14 @@
           "herradura-adventure-faq",
           "los-suenos"
         ]
+      },
+      {
+        "title": "Обед на базе",
+        "text": "По публикации парка, The Jungle Restaurant расположен внутри Vista Los Sueños. Он подходит для обеда до или после тура. Время работы, детские блюда и включённое питание уточняйте у парка.",
+        "sources": [
+          "fb-vista-suenos-jungle-restaurant-original",
+          "los-suenos"
+        ]
       }
     ],
     "contacts": [
@@ -2530,6 +2538,11 @@
         "note": "Точка встречи, возраст, выбор программы и актуальная дорога.",
         "phone": "+506 2637 6020",
         "url": "https://wa.me/50683423683"
+      },
+      {
+        "name": "Vista Los Sueños · The Jungle Restaurant",
+        "source": "los-suenos",
+        "note": "Спросите часы кухни, доступ без тура и входит ли обед в ваш билет."
       }
     ],
     "nearby": [

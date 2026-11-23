@@ -1,7 +1,7 @@
 import React from "react";
 import {
   Bike, Bird, CarFront, Coffee, Compass, Fish, Flame, Footprints,
-  House, Landmark, Mountain, Plane, Route, Sailboat, Ship, Sun,
+  House, Landmark, Mountain, Plane, Route, Sailboat, Sun,
   TentTree, TreePine, Waves,
 } from "lucide-react";
 
@@ -48,6 +48,14 @@ const Mtb = sportIcon(<>
 const ElectricBike = sportIcon(<>
   <circle cx="5" cy="17" r="3" /><circle cx="19" cy="17" r="3" />
   <path d="m5 17 4-7 3 7h7l-3-9h3M7 10h4m3-8-3 4h4l-2 4" />
+</>);
+
+const PassengerBoat = sportIcon(<>
+  <path d="M2 13h20l-3 6H5l-3-6Zm4 0V8h11l3 5M9 8V5h6v3m-6 2.5h.1m3.9 0h.1M2 22l3-1 3 1 4-1 4 1 3-1 3 1" />
+</>);
+
+const BorderCrossing = sportIcon(<>
+  <path d="M3 22V7h3v15M18 22V7h3v15M3 7l1.5-3L6 7m12 0 1.5-3L21 7M6 14h12m-8-3-2 3 2 3m4-6 2 3-2 3" />
 </>);
 
 const Offroad = sportIcon(<>
@@ -138,7 +146,8 @@ const groups = [
   ["water", Waves, "tubing", "snorkel", "swim"],
   ["land", DrySlide, "dry-slide"],
   ["water", Sailboat, "catamaran"],
-  ["water", Ship, "boat", "own-craft"],
+  ["water", PassengerBoat, "boat"],
+  ["water", Canoe, "own-craft"],
   ["land", Plane, "scenic-flight"],
   ["water", HotSpring, "thermal"],
   ["nature", Canyoning, "canyoning"],
@@ -146,7 +155,8 @@ const groups = [
   ["nature", Cave, "cave"],
   ["nature", TrailRun, "trailrun"],
   ["nature", Footprints, "hiking", "multi"],
-  ["land", CarFront, "car", "border"],
+  ["land", CarFront, "car"],
+  ["land", BorderCrossing, "border"],
   ["land", Coffee, "coffee", "cafe"],
   ["land", Landmark, "history"],
   ["nature", Bird, "wildlife"],

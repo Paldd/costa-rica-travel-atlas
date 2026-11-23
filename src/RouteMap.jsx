@@ -3,6 +3,7 @@ import L from "leaflet";
 import { Download } from "lucide-react";
 import { createOsmMap, routePathStyle } from "./osmMap.js";
 import { downloadGpx, openMapLines } from "./gpx.js";
+import ActivityIcon from "./ActivityIcon.jsx";
 
 const mapUrl = ([lat, lon]) => `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`;
 const osmPointUrl = ([lat, lon]) => `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=16/${lat}/${lon}`;
@@ -19,7 +20,7 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
   const visibleStops = activeStage
     ? activeStage.points.flatMap(point => numberedStops.filter(({ stop }) => stop.point === point))
     : numberedStops;
-  const lineSource = sources[line?.source];
+  const lineSource = sources[activeStage?.source || line?.source];
   const stageSource = sources[activeStage?.stageSource];
   const exportLine = activeStage || line;
   const exportTitle = activeStage?.title || record.title;
@@ -123,6 +124,7 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
             setSelected(index);
           }}>
             <span className="stop-number" aria-hidden="true">{index + 1}</span>
+            {stop.activity && <ActivityIcon activity={stop.activity} size={15} />}
             <span><strong>{stop.name}</strong><small>{stop.role}</small></span>
           </button>
           {stop.note && <p>{stop.note}</p>}

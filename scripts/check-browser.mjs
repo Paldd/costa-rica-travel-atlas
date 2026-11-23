@@ -307,6 +307,46 @@ async function checkViewport(browser, width) {
     assert.equal(await page.locator(".route-map-stops button").count(), 2);
     await page.locator(".route-map .leaflet-overlay-pane path").first().waitFor();
     await checkWidth();
+
+    const bocas = records.get("sixaola-bocas-colon-bastimentos-family-5");
+    await open("expeditions?country=pa&region=bocas&duration=five&detail=line");
+    await page.getByRole("link", { name: bocas.title, exact: true }).click();
+    await heading(bocas);
+    await page.waitForFunction(() => Array.from(document.images).some(img =>
+      img.src.endsWith("/bocas-zapatilla.jpg") && img.naturalWidth > 0));
+    const bocasMap = page.getByRole("region", { name: "Карта маршрута" });
+    await bocasMap.getByLabel("Участок на карте").selectOption("bocas-lancha-osm");
+    assert.equal(await bocasMap.locator(".route-map-stops li").count(), 2);
+    assert.equal(await bocasMap.locator(".route-map-stops .activity-water svg").count(), 2);
+    const boatPoints = await exportText(bocasMap.getByRole("button", { name: "Скачать точки GPX" }));
+    assert.equal((boatPoints.match(/<wpt /g) || []).length, 2);
+    assert(!boatPoints.includes("<trk>"));
+    assert.equal(await bocasMap.getByRole("link", { name: /пассажирская линия на Колон/ }).getAttribute("href"),
+      "https://www.openstreetmap.org/way/30741053");
+    await checkWidth();
+
+    const ferryBocas = records.get("bocas-almirante-isla-colon-car-ferry");
+    await open("place/" + ferryBocas.id);
+    await heading(ferryBocas);
+    const vimeo = page.locator(".media-section li").filter({
+      has: page.getByRole("link", { name: "Ferry Bocas · Viaja a Bocas en el Ferry", exact: true }),
+    });
+    await vimeo.getByRole("button", { name: "Смотреть в карточке" }).click();
+    await vimeo.locator('iframe[src^="https://player.vimeo.com/video/226641308"]').waitFor({ state: "attached" });
+    await checkWidth();
+
+    await open("place/bocas-carenero-escuela-del-mar-surf");
+    const carenero = page.locator(".media-section li").filter({
+      has: page.getByRole("link", { name: "Momentos Pura Vida · сёрфинг у Каренеро", exact: true }),
+    });
+    await carenero.getByRole("button", { name: "Смотреть в карточке" }).click();
+    await carenero.locator('video[src^="https://video.wixstatic.com/video/"][controls]').waitFor({ state: "attached" });
+    await checkWidth();
+
+    await open("place/monteverde-savia-ficus-nightfall");
+    await page.getByRole("link", { name: "Hotel Belmar · Facebook", exact: true }).waitFor();
+    await checkWidth();
+    assert.deepEqual(errors, []);
     console.log(width + " px: catalog, media, route and stage GPX, published sources and access notices passed.");
   } finally {
     await context.close();

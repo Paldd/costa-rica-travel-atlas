@@ -7980,11 +7980,12 @@
       "border",
       "boat",
       "beach",
-      "snorkel",
-      "kayak",
+      "hiking",
+      "sup",
       "wildlife"
     ],
     "audience": [
+      "family-small",
       "family-mid",
       "family-teen",
       "family-adults",
@@ -8005,49 +8006,67 @@
       "frontier-mepe-sixaola",
       "frontier-pa-bocas-transport",
       "frontier-pa-bocas-water",
-      "frontier-caribe-shuttle"
+      "frontier-caribe-shuttle",
+      "bocas-panabocas-ticket",
+      "bocas-estrella-local-guide",
+      "ig-live-conocedores-bocas"
     ],
-    "summary": "Карибская поездка без своей машины. Через Сиксаолу и Гуабито до Альмиранте, затем на катере на остров Колон. Второй день можно провести на острове или в короткой лодочной поездке.",
-    "plan": "На переезд из Пуэрто-Вьехо с контролем и лодкой закладывайте около 4–5 часов по данным местного путеводителя и дополнительное время на очередь. В Панаме на час позже. По прибытии подтвердите обратный катер и конкретный причал.",
-    "conditions": "Планируйте ночёвку на Колоне и ранний обратный выход. Если отменят лодку, перенесите переправу или оставайтесь в Альмиранте. Для детей заранее запросите кресло в машине и жилет по размеру.",
+    "summary": "Карибская поездка на три дня без своей машины. Дорога через Сиксаолу и Альмиранте, две ночи на Колоне, прогулка по мелководью или короткий выход на SUP.",
+    "plan": "Первый и третий день — переезды. Во второй день из Bocas Town доедьте до Драго и пройдите к Плайя-Эстрелья либо выберите близкую к базе водную прогулку.",
+    "conditions": "Проверьте часы обеих миграций, детские документы, обратный катер и автобус до выезда на берег. С сильным морем дайте себе запас ночёвки и времени на пересадки.",
     "distance": null,
     "stages": [
       {
         "day": 1,
-        "title": "Пуэрто-Вьехо — Гуабито — остров Колон",
-        "note": "Утренний автобус или шаттл до Сиксаолы, контроль обеих стран, переезд до причала и лодка. Дайте запас на багаж и смену часового пояса.",
+        "title": "Пуэрто-Вьехо — Сиксаола — Гуабито — Колон",
+        "note": "Утренний переезд, два контроля, смена времени и катер. На день прибытия запланируйте только заселение и ужин.",
         "sources": [
           "frontier-mepe-sixaola",
           "frontier-caribe-shuttle",
-          "frontier-pa-bocas-transport"
+          "frontier-pa-bocas-transport",
+          "bocas-panabocas-ticket"
         ],
-        "stops": []
+        "stops": [
+          "sixaola-guabito-bridge-almirante",
+          "bocas-almirante-isla-colon-lancha"
+        ]
       },
       {
         "day": 2,
-        "title": "Лодка и берег Бокаса",
-        "note": "По погоде возьмите короткий маршрут к Кайо-Кораль или программу около Бастиментоса. Для паузы без лодки подойдёт прогулка на Колоне.",
+        "title": "Драго и Плайя-Эстрелья · береговой день",
+        "note": "Пеший вариант от Драго после автобуса. При спокойной погоде можно выбрать SUP или каяк рядом с Bocas Town.",
         "sources": [
-          "frontier-pa-bocas-water",
-          "frontier-pa-bocas-transport"
+          "bocas-estrella-local-guide",
+          "bocas-estrella-visit-ca",
+          "bocas-pangea-water-rentals"
         ],
-        "stops": []
+        "stops": [
+          "bocas-drago-estrella-coast-walk",
+          "bocas-colon-pangea-clear-paddle"
+        ]
       },
       {
         "day": 3,
-        "title": "Ранний катер и обратный трансфер",
-        "note": "Подтвердите последний подходящий автобус или шаттл и отметки въезда. Оставьте запас времени до собственного рейса или вечерней брони.",
+        "title": "Обратная ланча и граница",
+        "note": "Ранний катер и дорога в Гуабито, Сиксаолу и Пуэрто-Вьехо. Оставьте время между отправлениями и для контроля обеих стран.",
         "sources": [
-          "frontier-ferry-bocas",
+          "bocas-panabocas-ticket",
           "frontier-caribe-shuttle",
-          "frontier-pa-tourist-faq"
+          "frontier-pa-tourist-faq",
+          "frontier-cr-minors"
         ],
-        "stops": []
+        "stops": [
+          "bocas-almirante-isla-colon-lancha",
+          "sixaola-guabito-bridge-almirante"
+        ]
       }
     ],
     "countries": [
       "cr",
       "pa"
+    ],
+    "regions": [
+      "bocas"
     ]
   },
   {

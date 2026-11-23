@@ -226,6 +226,7 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .route-map-stops li:last-child { border-bottom: 0; }
 .route-map-stops button { display: flex; align-items: center; gap: 9px; text-align: left; padding: 4px; border: 0; background: transparent; border-radius: 5px; width: 100%; }
 .route-map-stops button[aria-pressed=true] { background: #e1ebde; }
+.route-map-stops .activity-icon { width: 24px; height: 24px; flex: none; }
 .route-map-stops button small { display: block; color: var(--muted); }
 .route-map-stops p, .point-links { margin-left: 37px; font-size: .83rem; }
 .point-links { display: flex; flex-wrap: wrap; gap: 4px 10px; }
@@ -417,7 +418,7 @@ footer > div { display: flex; flex-wrap: wrap; gap: 14px; color: var(--muted); f
   color: #245745;
 }
 .route-preview:is(.region-guanacaste, .region-nicoya, .region-rivas-coast) { background-color: #f3e6d1; color: #714915; }
-.route-preview:is(.region-caribbean, .region-south, .region-chiriqui-coast) { background-color: #dceceb; color: #245d67; }
+.route-preview:is(.region-caribbean, .region-south, .region-chiriqui-coast, .region-bocas) { background-color: #dceceb; color: #245d67; }
 .preview-activity { padding-left: clamp(8px, 3vw, 28px); }
 .preview-activity .activity-icon { width: 52px; height: 52px; border-radius: 13px; }
 .preview-plot { display: block; width: 100%; max-height: 100%; }

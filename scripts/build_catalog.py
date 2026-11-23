@@ -30,7 +30,7 @@ RECORD_FIELDS = (
 LIST_FIELDS = ("activities", "audience", "access", "sleep", "sources")
 REGIONS = {
     "central", "north", "guanacaste", "nicoya", "centralpac", "mountains", "south", "caribbean",
-    "ometepe", "rivas-coast", "chiriqui-coast", "chiriqui-highlands",
+    "ometepe", "rivas-coast", "chiriqui-coast", "chiriqui-highlands", "bocas",
 }
 
 

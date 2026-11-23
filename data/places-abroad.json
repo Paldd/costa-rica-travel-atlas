@@ -1750,5 +1750,535 @@
     "countries": [
       "ni"
     ]
+  },
+  {
+    "id": "sixaola-guabito-bridge-almirante",
+    "kind": "trail",
+    "region": "caribbean",
+    "title": "Пуэрто-Вьехо → Сиксаола → Гуабито → Альмиранте",
+    "native": "Puerto Viejo · MEPE Sixaola · Puente Binacional Guabito · Almirante",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "border",
+      "car",
+      "boat"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "frontier-pa-bocas-transport",
+      "frontier-mepe-sixaola",
+      "frontier-caribe-shuttle",
+      "frontier-pa-border-list-2026",
+      "bocas-mopt-bridge"
+    ],
+    "summary": "Дорога через Таламанку, пеший переход по новому мосту и переезд до причалов Альмиранте. Подходит как отдельный участок поездки на Бокас.",
+    "plan": "При самостоятельной сборке доедьте на MEPE до Сиксаолы. После обеих миграций пересядьте на панамский транспорт. Шаттл может собрать эти пересадки в одну бронь.",
+    "conditions": "В Панаме на час позже. Дайте запас на очередь, паспорта, багаж и проверку детских документов. В документах и расписании подтверждайте каждое направление отдельно.",
+    "distance": null,
+    "countries": [
+      "cr",
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-almirante-isla-colon-lancha",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Альмиранте → Колон · пассажирская ланча",
+    "native": "Almirante · Bocas Town · PanaBocas Express",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "boat"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-panabocas-ticket",
+      "bocas-panabocas-contact",
+      "bocas-panama-tourism-region",
+      "frontier-pa-bocas-transport"
+    ],
+    "summary": "Пассажирская переправа с материка на остров Колон. Turismo Panamá указывает около 35 минут на воде. В Альмиранте несколько терминалов.",
+    "plan": "Сверьте адрес посадки с подтверждением покупки. На обратную дорогу проверьте отдельно островной причал и время пересадки на машину.",
+    "conditions": "На катере наденьте жилеты по размеру. Сложите паспорта и электронику в сухой мешок. Закладывайте задержку при сильной погоде.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-almirante-isla-colon-car-ferry",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Альмиранте → Колон · паром для машины и пикапа",
+    "native": "Ferry Bocas · Almirante · Isla Colón",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "boat",
+      "car"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "frontier-ferry-bocas",
+      "bocas-ferry-contacts",
+      "bocas-car-ferry-route",
+      "bocas-car-ferry-rates",
+      "bocas-osm-car-ferry"
+    ],
+    "summary": "Автомобильная переправа на Колон. У перевозчика опубликован график с 15 августа 2026 года. Переход занимает около 1 часа 40 минут.",
+    "plan": "При сверке в ноябре отправления указаны ежедневно из Альмиранте в 07:00 и 12:00, с Колона в 10:00 и 15:00 по Панаме. Перед выездом получите подтверждение конкретного рейса.",
+    "conditions": "Диспетчеру сообщите тип автомобиля, полную длину, высоту с палаткой, массу и прицеп. Цена и посадка зависят от подтверждения перевозчика.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-colon-paunch-bluff-ebike",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Колон → Панч → Блафф · береговая поездка на e-bike",
+    "native": "Bocas Town · Playa Paunch · Playa Bluff · Isla Colón",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "ebike",
+      "cycling",
+      "gravel",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "car",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-isla-colon-bicycle-guide",
+      "bocas-ebikes-rental",
+      "bocas-ebikes-trails",
+      "bocas-bluff-beach-report",
+      "bocas-osm-cycling-colon"
+    ],
+    "summary": "Береговой маршрут с видом на сёрф. Вариант до Блафф даёт около 20 км туда-обратно. Короткая версия разворачивается в Панче.",
+    "plan": "Из Bocas Town следуйте по дороге через Big Creek к Панчу. При подходящем покрытии продолжайте к Блафф. Оставьте время на неспешный возврат и остановку у берега.",
+    "conditions": "После Панча встречаются песок, камни и лужи. После ливня оцените участок у проката, шлем и сцепление колёс. При сильном прибое оставайтесь на суше.",
+    "distance": 20.2,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-colon-drago-ebike",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Колон → Бока-дель-Драго · 35 км на e-bike или гравеле",
+    "native": "Isla Colón · Bocas Town · Vía Boca del Drago",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "ebike",
+      "cycling",
+      "gravel",
+      "road-bike",
+      "views",
+      "beach"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "car",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-estrella-local-guide",
+      "bocas-isla-colon-bicycle-guide",
+      "bocas-ebikes-trails",
+      "bocas-drago-traveler-ebike",
+      "bocas-osm-cycling-colon"
+    ],
+    "summary": "Велодень в западной части Колона. Около 17,3 км до Драго по островной дороге, дальше можно добавить короткую прогулку к Плайя-Эстрелья.",
+    "plan": "Стартуйте утром с полным зарядом. Оставьте время на подъёмы, возвращение и пеший участок. Семейный вариант позволяет части команды приехать микроавтобусом в Драго.",
+    "conditions": "Дорога общая с машинами. После ливня уточните состояние покрытия. Оставьте резерв батареи и заранее договоритесь, что делать при проколе или разрядке.",
+    "distance": 34.6,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-drago-estrella-coast-walk",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Бока-дель-Драго → Плайя-Эстрелья · береговая прогулка",
+    "native": "Boca del Drago · Playa Estrella (Starfish Beach) · Isla Colón",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "beach",
+      "swim",
+      "wildlife",
+      "white-sand"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat",
+      "car"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-estrella-local-guide",
+      "bocas-estrella-visit-ca",
+      "bocas-osm-estrella-coast"
+    ],
+    "summary": "Прогулка вдоль западного берега Колона к мелководью, где видны морские звёзды. Около 1,7 км в одну сторону по открытой карте.",
+    "plan": "Доедьте из Bocas Town микроавтобусом до Драго. По береговой тропе пройдите к Эстрелье. При подходящей погоде можно договариваться о короткой лодке у Драго.",
+    "conditions": "Возьмите воду, солнцезащиту, обувь для мокрой тропы и жилет ребёнку. Наблюдайте звёзд в воде без касания и без выноса на сушу.",
+    "distance": 3.4,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-carenero-escuela-del-mar-surf",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Каренеро · первый урок сёрфинга с Escuela del Mar",
+    "native": "Isla Carenero · Escuela del Mar · Bibi’s · Black Rock",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "surf",
+      "school",
+      "beach"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-carenero-escuela-del-mar",
+      "bocas-carenero-surf-guide",
+      "bocas-surf-academy",
+      "bocas-panama-tourism-region"
+    ],
+    "summary": "Школа на Каренеро для первой тренировки и прогрессии. Добираются от Bocas Town водным такси. Точное место инструктор выбирает под волну.",
+    "plan": "Запишитесь заранее. Назовите возраст, уверенность в плавании и опыт. Попросите точку прибытия и уточните, где будет наземный разбор.",
+    "conditions": "Школа публикует уроки с четырёх лет при согласовании. Риф и сильная волна требуют оценки инструктора. Купаться рядом с досками и течением не стоит.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-colon-pangea-clear-paddle",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Колон · прозрачный SUP, каяк и прогулка с гидом по манграм",
+    "native": "Pangea Bocas · Bocas Nature Stories · Isla Colón",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "sup",
+      "kayak",
+      "boat",
+      "wildlife"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "car"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-pangea-water-rentals",
+      "bocas-nature-stories-mangroves",
+      "bocas-panama-tourism-region"
+    ],
+    "summary": "Прокат прозрачных досок и каяков у берега Bocas Town. Отдельно доступна прогулка с гидом к манграм. Маршрут подбирают по ветру и движению лодок.",
+    "plan": "На базе спросите про границы разрешённого участка, место посадки и возврата. Для первой поездки с ребёнком рассмотрите сопровождаемую прогулку.",
+    "conditions": "Для своей лодки уточняйте право на спуск отдельно. Открытые проливы и районы интенсивного движения катеров требуют иной подготовки и согласованного маршрута.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-coral-zapatillas-boat",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Колон → Кайо-Кораль → Сапатильяс · лодка и снорклинг",
+    "native": "Bocas Town · Bahía de los Delfines · Cayo Coral · Cayos Zapatillas",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "boat",
+      "snorkel",
+      "beach",
+      "white-sand",
+      "wildlife",
+      "cafe"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-visit-classic-boat",
+      "bocas-zapatilla-bocas-tours",
+      "frontier-pa-bocas-water",
+      "bocas-miambiente-bastimentos",
+      "bocas-cayo-coral-restaurante"
+    ],
+    "summary": "Около шести часов на воде от Bocas Town. Классический маршрут по погоде сочетает бухту дельфинов, остановку у Кайо-Кораль и светлый пляж Сапатильяс.",
+    "plan": "Утром подтвердите причал. Попросите расписать, какие остановки, обед, маска и парковый сбор входят в ваш билет.",
+    "conditions": "Используйте жилет по размеру. Капитан проверяет течение и видимость. Высадка может меняться по погоде и правилам морского парка.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-old-bank-wizard-walk",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Ольд-Бэнк → Wizard Beach · тропа в лесу Бастиментоса",
+    "native": "Old Bank · Camino a Playa Wizard · Isla Bastimentos",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "forest",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-bastimentos-tourism",
+      "bocas-atp-wizard-plan",
+      "bocas-wizard-old-bank-report",
+      "bocas-osm-wizard-trail"
+    ],
+    "summary": "Небольшой поход от Ольд-Бэнка через влажный лес к дикому пляжу. От начала размеченной тропы около 1,2 км в одну сторону.",
+    "plan": "Прибывайте на Бастиментос утром. От причала пройдите через посёлок к началу Camino a Playa Wizard. Возврат тем же маршрутом даёт надёжную оценку времени.",
+    "conditions": "После дождя тропа скользит. Возьмите воду, обувь с протектором и защиту от насекомых. На пляже сильный прибой. Подтвердите обратное такси до захода солнца.",
+    "distance": 2.5,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-salt-creek-community-walk",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Бастиментос · Кебрада-Саль с проводниками общины",
+    "native": "Quebrada Sal · Salt Creek · Ngäbe-Buglé",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "boat",
+      "hiking",
+      "forest",
+      "wildlife",
+      "history"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-salt-creek-community",
+      "bocas-salt-creek-kawi",
+      "bocas-salt-creek-tourism"
+    ],
+    "summary": "Дневной выезд к общине Salt Creek. Варианты включают мангры, лесные тропы и знакомство с ремеслом. Программа зависит от проводника и погоды.",
+    "plan": "Согласуйте лодку из Bocas Town. Спросите про короткий детский круг или более длинный лесной выход и включённый обед.",
+    "conditions": "Возьмите закрытую обувь, воду, репеллент, защиту от дождя и наличные. Фото жителей и домов делайте с разрешения.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
+  },
+  {
+    "id": "bocas-jager-knights-catamaran",
+    "kind": "trail",
+    "region": "bocas",
+    "title": "Бокас-дель-Торо · дневной выход на парусном катамаране",
+    "native": "Jager Knights · Isla Colón · Coral Gardens · Starfish Beach",
+    "level": "easy",
+    "days": 1,
+    "activities": [
+      "catamaran",
+      "boat",
+      "snorkel",
+      "beach"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "bocas-jager-catamaran-owner",
+      "bocas-visit-classic-boat",
+      "bocas-miambiente-bastimentos"
+    ],
+    "summary": "Дневная прогулка на парусном катамаране с остановками в архипелаге. Варианты компании включают бухту дельфинов, Coral Gardens или Плайя-Эстрелья.",
+    "plan": "Выберите формат и попросите описать конкретный рейс, место встречи, тень на палубе, лестницу, обед и весовые размеры жилетов.",
+    "conditions": "Ветер определяет направление и возможность стоянки. С детьми и при склонности к укачиванию выбирайте тихий маршрут и заранее узнайте условия отмены.",
+    "distance": null,
+    "countries": [
+      "pa"
+    ]
   }
 ]

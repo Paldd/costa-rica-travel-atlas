@@ -1393,5 +1393,41 @@
     "license": "CC BY-NC 2.0",
     "original": "https://www.flickr.com/photos/zombiepigs/3597246763/",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc/2.0/"
+  },
+  "bocas-carenero": {
+    "file": "bocas-carenero.jpg",
+    "alt": "Карибская вода у Каренеро и Колона",
+    "caption": "Бокас-дель-Торо · архипелаг у Каренеро, 2016",
+    "author": "dronepicr",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Bocas_del_Toro_Panama_%2826668484671%29.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "bocas-starfish": {
+    "file": "bocas-starfish.jpg",
+    "alt": "Морские звёзды в мелкой прозрачной воде",
+    "caption": "Плайя-Эстрелья · звёзды под водой, 2020",
+    "author": "Nolabob",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Starfish_Beach_04036.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "bocas-zapatilla": {
+    "file": "bocas-zapatilla.jpg",
+    "alt": "Светлый песок Кайо-Сапатилья и карибская вода",
+    "caption": "Сапатилья № 2 · берег природного парка, 2016",
+    "author": "dronepicr",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Bocas_Del_Toro_Zapazilla_%28204787523%29.jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  "bocas-sixaola-history": {
+    "file": "bocas-sixaola-history.jpg",
+    "alt": "Подход к старому мосту между Сиксаолой и Гуабито",
+    "caption": "Исторический снимок старого моста · 2009",
+    "author": "Tobias Eder",
+    "license": "CC BY 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Paso_Guabito-Sixaola.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   }
 }

@@ -2564,5 +2564,49 @@
       "/actividades",
       "/preguntas-mas-frecuentes"
     ]
+  },
+  {
+    "name": "Visit Bocas · местные маршруты и побережье",
+    "url": "https://go.bocasdeltoro.travel/es/blog-es/tour-en-bote-bocas-del-toro/",
+    "review": "bocas-visit-classic-boat",
+    "paths": [
+      "/es/blog-es/",
+      "/blog/",
+      "/es/recommended/"
+    ],
+    "exactPaths": [
+      "/es/blog-es/tour-en-bote-bocas-del-toro/"
+    ],
+    "language": "es-en",
+    "focus": "Маршруты на воде и велосипеде, школы сёрфинга, экскурсии общин и транспорт по архипелагу."
+  },
+  {
+    "name": "Ferry Bocas · рейсы и условия перевозки",
+    "url": "https://ferrybocas.com/es/prices/",
+    "review": "bocas-car-ferry-rates",
+    "paths": [
+      "/es/news/"
+    ],
+    "exactPaths": [
+      "/es/",
+      "/es/route/",
+      "/es/prices/",
+      "/es/contacts/"
+    ],
+    "language": "es",
+    "focus": "Официальные страницы дороги по воде, тарифа и связи, расписание проверяется у перевозчика."
+  },
+  {
+    "name": "SAVIA · программы лесных проводников",
+    "url": "https://www.saviamonteverde.com/experiences/ficus-adventure",
+    "review": "savia-monteverde-ficus-adventure",
+    "paths": [
+      "/experiences/"
+    ],
+    "exactPaths": [
+      "/experiences/ficus-adventure"
+    ],
+    "language": "en",
+    "focus": "Официальные программы Монтеверде, экипировка и расписание лесных прогулок."
   }
 ]

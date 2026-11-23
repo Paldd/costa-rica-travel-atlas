@@ -232,8 +232,9 @@ function RouteCard({ row, lines, context, saved, toggle }) {
       <AccessNotice notice={row.dossier?.accessNotice} />
       <div className="card-media-meta">
         {stops.length > 0 && <span><MapIcon size={14} aria-hidden="true" />{stops.length === 1 ? "Точка на карте" : `Карта · ${stops.length}`}</span>}
-        {(galleries.length > 0 || row.dossier?.photos?.length > 0 || row.dossier?.stageCover) && <span><Camera size={14} aria-hidden="true" />Фото</span>}
-        {videos.length > 0 && <span><CirclePlay size={14} aria-hidden="true" />Видео</span>}
+        {(row.dossier?.photos?.length > 0 || row.dossier?.stageCover) && <span><Camera size={14} aria-hidden="true" />Фото</span>}
+        {galleries.length > 0 && !row.dossier?.photos?.length && !row.dossier?.stageCover && <span><Camera size={14} aria-hidden="true" />Фотогалерея</span>}
+        {videos.length > 0 && <span><CirclePlay size={14} aria-hidden="true" />{videos.length === 1 ? "Видео" : `Видео · ${videos.length}`}</span>}
       </div>
     </div>
   </article>;
@@ -271,14 +272,23 @@ function RoutePhoto({ photo, className, loading, onError }) {
   </figure>;
 }
 
-function youtubeId(href) {
+function videoPlayer(href) {
   const url = new URL(href);
   const host = url.hostname.replace(/^www\./, "");
   const parts = url.pathname.split("/").filter(Boolean);
   const id = host === "youtu.be" ? parts[0]
     : (host === "youtube.com" || host === "m.youtube.com") &&
       (url.searchParams.get("v") || (["shorts", "embed", "live"].includes(parts[0]) && parts[1]));
-  return /^[A-Za-z0-9_-]{11}$/.test(id || "") ? id : null;
+  if (/^[A-Za-z0-9_-]{11}$/.test(id || "")) {
+    return { embed: `https://www.youtube-nocookie.com/embed/${id}` };
+  }
+  if (host === "player.vimeo.com" && /^\/video\/\d+$/.test(url.pathname)) {
+    return { embed: href };
+  }
+  if (host === "video.wixstatic.com" && url.pathname.endsWith("/file.mp4")) {
+    return { file: href };
+  }
+  return null;
 }
 
 function DossierMedia({ row, sources, byId, context }) {
@@ -303,19 +313,20 @@ function DossierMedia({ row, sources, byId, context }) {
     {videos.length > 0 && <ul className="media-list" aria-label="Видео">
       {videos.map(id => {
         const source = sources[id];
-        const clip = youtubeId(source.url);
+        const player = videoPlayer(source.url);
         return <li key={id}>
           <CirclePlay size={19} aria-hidden="true" />
           <div>
             <External href={source.url}>{source.title}</External>
             <p>{source.scope}</p>
-            {clip && <button type="button" className="quiet-button media-play"
+            {player && <button type="button" className="quiet-button media-play"
               aria-expanded={playing === id} onClick={() => setPlaying(playing === id ? null : id)}>
               {playing === id ? "Свернуть плеер" : "Смотреть в карточке"}
             </button>}
-            {playing === id && <iframe className="media-player" title={source.title}
-              src={`https://www.youtube-nocookie.com/embed/${clip}`} allowFullScreen
-              referrerPolicy="strict-origin-when-cross-origin" />}
+            {playing === id && (player.file
+              ? <video className="media-player" aria-label={source.title} src={player.file} controls playsInline preload="metadata" />
+              : <iframe className="media-player" title={source.title}
+                src={player.embed} allowFullScreen referrerPolicy="strict-origin-when-cross-origin" />)}
           </div>
         </li>;
       })}
@@ -355,19 +366,24 @@ function DossierMedia({ row, sources, byId, context }) {
 }
 
 function RouteReports({ row, sources }) {
-  const reports = (row.reportSources || []).map(id => sources[id]);
   const posts = row.posts || [];
+  const reports = (row.reportSources || []).map(id => sources[id]);
+  const sourcesByUrl = new Map(reports.map(source => [source.url, source]));
+  const postUrls = new Set(posts.map(post => post.url));
   if (!reports.length && !posts.length) return null;
   return <section className="dossier-section">
     <h3>Отзывы, отчёты и упоминания</h3>
     <ul className="dossier-videos">
-      {reports.map(source => <li key={source.id}>
+      {reports.filter(source => !postUrls.has(source.url)).map(source => <li key={source.id}>
         <External href={source.url}>{source.title}</External><p>{source.scope}</p>
       </li>)}
-      {posts.map(post => <li key={post.url}>
-        <External href={post.url}>{post.profile} · Instagram</External>
-        <p>Публикация с упоминанием места</p>
-      </li>)}
+      {posts.map(post => {
+        const platform = /(^|\.)facebook\.com$/.test(new URL(post.url).hostname) ? "Facebook" : "Instagram";
+        return <li key={post.url}>
+          <External href={post.url}>{post.profile} · {platform}</External>
+          <p>{sourcesByUrl.get(post.url)?.scope || "Публикация с упоминанием места"}</p>
+        </li>;
+      })}
     </ul>
   </section>;
 }

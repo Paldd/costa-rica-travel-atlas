@@ -3,97 +3,158 @@
     "stops": [
       {
         "point": "puerto-viejo-center",
-        "role": "Коста-Рика · начало в Пуэрто-Вьехо",
-        "note": ""
+        "role": "Пуэрто-Вьехо · исходная точка",
+        "note": "До отправления перепроверьте точку автобуса или шаттла в подтверждении.",
+        "activity": "car"
       },
       {
-        "point": "frontier-sixaola-cr",
-        "role": "Коста-Рика · район оформления в Сиксаоле",
-        "note": ""
+        "point": "bocas-sixaola-bus",
+        "role": "Автобус из Пуэрто-Вьехо",
+        "note": "Остановка MEPE у погранпосёлка. Оставьте время на проход с багажом.",
+        "activity": "car"
       },
       {
-        "point": "frontier-guabito-pa",
-        "role": "Панама · Гуабито",
-        "note": "На этом участке следуйте инструкции персонала по прохождению двух служб."
+        "point": "bocas-sixaola-dgme",
+        "role": "Контроль Коста-Рики",
+        "note": "Подойдите к официальному окну до пересечения границы.",
+        "activity": "border"
       },
       {
-        "point": "frontier-almirante-town",
-        "role": "Панама · пересадка в Альмиранте",
-        "note": "Пассажирский причал зависит от перевозчика."
+        "point": "bocas-guabito-control",
+        "role": "Контроль Панамы",
+        "note": "На открытой карте отмечен пункт. Оформление и порядок очереди уточняют у сотрудников.",
+        "activity": "border"
       },
       {
-        "point": "frontier-bocas-town",
-        "role": "Панама · островная база",
-        "note": ""
+        "point": "bocas-almirante-lancha",
+        "role": "Альмиранте · пассажирские ланчи",
+        "note": "На карте показан район пассажирской посадки. Перевозчик укажет свои ворота.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-colon-lancha",
+        "role": "Колон · прибытие пассажиров",
+        "note": "Вдоль набережной несколько причалов. Уточните место обратной посадки.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-drago-walk",
+        "role": "Начало пешего участка",
+        "note": "Проверьте береговые указатели и возможность пройти после ливня или прилива.",
+        "activity": "hiking"
+      },
+      {
+        "point": "bocas-estrella-walk",
+        "role": "Эстрелья · мелководье",
+        "note": "Звёзды остаются под водой. Фотографируйте без касания и не переносите их.",
+        "activity": "beach"
+      },
+      {
+        "point": "bocas-pangea",
+        "role": "Pangea · прокат и инструктаж",
+        "note": "Договоритесь о месте спуска, границе акватории и времени возвращения.",
+        "activity": "sup"
       }
     ],
+    "connectStops": false,
     "sections": [
       {
-        "title": "Документы взрослых и детей",
-        "text": "До покупки билетов проверьте действующий паспорт, визовый режим по гражданству, подтверждение выхода из Панамы и действующий статус для возвращения в Коста-Рику. Для ребёнка уточните правило разрешения на выезд в DGME с учётом его статуса и сопровождающих. Оформляйте выезд и въезд по указаниям официальных пунктов в обе стороны.",
+        "title": "Переезд и контроль",
+        "text": "Карибский путеводитель оценивает переезд примерно в 4–5 часов. Добавьте запас на очереди, багаж и пересадку. Часы у лодок и автобусов указываются по местному времени. Панама прибавляет один час к времени Коста-Рики.",
         "sources": [
-          "frontier-pa-tourist-faq",
-          "frontier-cr-minors",
-          "frontier-pa-border-list-2026"
-        ]
-      },
-      {
-        "title": "Пересадка с семьёй",
-        "text": "Шаттл с лодкой удобно согласовать одной бронью. Для самостоятельной сборки есть автобус до Сиксаолы, транспорт с панамской стороны в Альмиранте и отдельная лодка. Согласуйте багаж и кресло до оплаты. Панама опережает Коста-Рику на час.",
-        "sources": [
-          "frontier-mepe-sixaola",
           "frontier-pa-bocas-transport",
-          "frontier-tracopa-conditions"
+          "frontier-mepe-sixaola",
+          "frontier-caribe-shuttle",
+          "bocas-panabocas-ticket"
         ]
       },
       {
-        "title": "Выход на воду",
-        "text": "Выбирайте короткую поездку с местной лицензированной командой. Уточните спасжилеты, выход к берегу, ветер и возможность возврата при изменении моря. Для снорклинга понадобятся маска, солнцезащита, гермоупаковка и береговой вариант при волнении.",
+        "title": "Документы взрослых и детей",
+        "text": "Держите паспорта, действующий статус для возврата в Коста-Рику, подтверждения дальнейшей дороги и документы сопровождающих под рукой. Визовые условия и детские разрешения проверяйте по гражданству и ситуации семьи у обеих миграционных служб.",
         "sources": [
-          "frontier-pa-bocas-water",
-          "frontier-ferry-bocas"
+          "frontier-pa-border-list-2026",
+          "frontier-pa-tourist-faq",
+          "frontier-cr-minors"
+        ]
+      },
+      {
+        "title": "Что выбрать на единственный полный день",
+        "text": "При ясном береговом проходе доедьте до Драго и пройдите к Эстрелье. При спокойной акватории возможен короткий SUP на Колоне. Лодочный вариант на весь день лучше вынести в пятидневную поездку. Быстрый катер назад согласуйте до прогулки.",
+        "sources": [
+          "bocas-estrella-local-guide",
+          "bocas-pangea-water-rentals",
+          "bocas-visit-classic-boat",
+          "bocas-panabocas-ticket"
+        ]
+      },
+      {
+        "title": "Что взять и что подтверждать",
+        "text": "Гермомешок, воду, защиту от дождя и солнца, местные деньги и адрес проживания офлайн. До покупки билета узнайте размеры детских жилетов и условия багажа. Публикация Conocedores CR показывает, что направление обсуждается для 2027 года. Доступность поездок и даты проверяйте по ссылкам организаторов.",
+        "sources": [
+          "frontier-caribe-shuttle",
+          "bocas-panabocas-ticket",
+          "bocas-estrella-local-guide",
+          "ig-live-conocedores-bocas"
         ]
       }
     ],
     "contacts": [
       {
-        "name": "Caribe Shuttle · трансфер и лодочный сегмент",
+        "name": "Caribe Shuttle · трансфер через границу",
         "source": "frontier-caribe-shuttle",
-        "note": "Уточните отправление, багаж, крепление детского кресла, причал и время на обе миграции.",
+        "note": "Запросите время обеих пересадок, кресло для ребёнка, размер багажа и причал.",
         "url": "https://caribeshuttle.rezdy.com/"
       },
       {
-        "name": "MEPE · автобус в Сиксаолу",
+        "name": "MEPE · автобус до Сиксаолы",
         "source": "frontier-mepe-sixaola",
-        "note": "Спросите отправление через Таламанку, багаж и последний обратный автобус.",
+        "note": "Подтвердите остановку в Пуэрто-Вьехо, расписание и правила перевозки большого багажа.",
         "url": "https://www.mepecr.com/Ingles/index.html"
       },
       {
-        "name": "Ferry Bocas · паром между Альмиранте и Колоном",
-        "source": "frontier-ferry-bocas",
-        "note": "Уточните тип рейса, место посадки и подтверждение места для машины, если едете с ней.",
-        "url": "https://ferrybocas.com/es/"
+        "name": "PanaBocas Express · билет и посадка",
+        "source": "bocas-panabocas-ticket",
+        "note": "Спросите про время последнего рейса, точные ворота, багаж и детские жилеты.",
+        "url": "https://panabocas.com/"
       },
       {
-        "name": "Migración Panamá · требования по документам",
+        "name": "Pangea Bocas · прокат и погодные условия",
+        "source": "bocas-pangea-water-rentals",
+        "note": "Спросите прогноз и участок для выхода, размер жилетов и варианты сопровождения.",
+        "phone": "+507 760 8024",
+        "whatsapp": "https://wa.me/50769656029",
+        "email": "info@pangeabocas.com"
+      },
+      {
+        "name": "Migración Panamá · документы",
         "source": "frontier-pa-tourist-faq",
-        "note": "Проверьте документы, особенно для несовершеннолетнего и при возвращении в Коста-Рику.",
-        "url": "https://www.migracion.gob.pa/preguntas-frecuentes/"
+        "note": "Проверьте документы взрослых и детей по гражданству, сопровождению и статусу возвращения."
       }
     ],
     "galleries": [
-      "frontier-pa-bocas-water",
-      "frontier-pa-bocas-transport"
+      "frontier-pa-bocas-transport",
+      "bocas-estrella-local-guide",
+      "frontier-pa-bocas-water"
+    ],
+    "photos": [
+      "frontier-bocas-archive",
+      "bocas-starfish"
+    ],
+    "videos": [
+      "bocas-passenger-visit-video",
+      "bocas-islands-traveler-video"
     ],
     "nearby": [
+      "sixaola-guabito-bridge-almirante",
+      "bocas-almirante-isla-colon-lancha",
+      "bocas-almirante-isla-colon-car-ferry",
+      "bocas-drago-estrella-coast-walk",
+      "bocas-colon-pangea-clear-paddle",
+      "sixaola-bocas-colon-bastimentos-family-5",
       "cocles-punta-uva-bike-kayak",
       "puerto-viejo-bike-manzanillo"
     ],
-    "connectStops": false,
-    "line": "pv-sixaola-osm-approach",
-    "photos": [
-      "frontier-bocas-archive"
-    ]
+    "line": "bocas-family-three-map"
   },
   "paso-canoas-boquete-coffee-4": {
     "stops": [

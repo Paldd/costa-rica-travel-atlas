@@ -1,0 +1,1279 @@
+{
+  "sixaola-guabito-bridge-almirante": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо · исходная точка",
+        "note": "До отправления перепроверьте точку автобуса или шаттла в подтверждении.",
+        "activity": "car"
+      },
+      {
+        "point": "bocas-sixaola-bus",
+        "role": "Автобус из Пуэрто-Вьехо",
+        "note": "Остановка MEPE у погранпосёлка. Оставьте время на проход с багажом.",
+        "activity": "car"
+      },
+      {
+        "point": "bocas-sixaola-dgme",
+        "role": "Контроль Коста-Рики",
+        "note": "Подойдите к официальному окну до пересечения границы.",
+        "activity": "border"
+      },
+      {
+        "point": "bocas-guabito-control",
+        "role": "Контроль Панамы",
+        "note": "На открытой карте отмечен пункт. Оформление и порядок очереди уточняют у сотрудников.",
+        "activity": "border"
+      },
+      {
+        "point": "bocas-almirante-lancha",
+        "role": "Альмиранте · пассажирские ланчи",
+        "note": "На карте показан район пассажирской посадки. Перевозчик укажет свои ворота.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Автобус, шаттл и багаж",
+        "text": "Для поездки без машины сравните ранний MEPE и сквозной шаттл с лодкой. С семьёй заранее подтвердите детское кресло и число мест в машине. На выходе из Альмиранте проверьте местное время обратного рейса.",
+        "sources": [
+          "frontier-mepe-sixaola",
+          "frontier-caribe-shuttle",
+          "frontier-pa-bocas-transport",
+          "bocas-panabocas-ticket"
+        ]
+      },
+      {
+        "title": "Переход по мосту",
+        "text": "Контроль обеих стран проходит отдельно. Узнайте действующие часы миграции и таможни по каждой стороне, требования по гражданству и документы сопровождающих ребёнка. Сохраните подтверждения поездки в телефоне и офлайн.",
+        "sources": [
+          "bocas-mopt-bridge",
+          "frontier-pa-border-list-2026",
+          "frontier-pa-tourist-faq",
+          "frontier-cr-minors"
+        ]
+      },
+      {
+        "title": "Если едете со своим пикапом",
+        "text": "Сначала сверьте временный ввоз со службами обеих стран, права на выезд, страхование и согласие владельца. От Альмиранте нужна отдельная бронь автомобильного парома. При задержке на границе перепроверьте время погрузки.",
+        "sources": [
+          "frontier-pa-tourist-faq",
+          "frontier-pa-border-list-2026",
+          "bocas-car-ferry-rates",
+          "bocas-ferry-contacts"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "MEPE · автобус до Сиксаолы",
+        "source": "frontier-mepe-sixaola",
+        "note": "Подтвердите остановку в Пуэрто-Вьехо, расписание и правила перевозки большого багажа.",
+        "url": "https://www.mepecr.com/Ingles/index.html"
+      },
+      {
+        "name": "Caribe Shuttle · трансфер через границу",
+        "source": "frontier-caribe-shuttle",
+        "note": "Запросите время обеих пересадок, кресло для ребёнка, размер багажа и причал.",
+        "url": "https://caribeshuttle.rezdy.com/"
+      },
+      {
+        "name": "PanaBocas Express · билет и посадка",
+        "source": "bocas-panabocas-ticket",
+        "note": "Спросите про время последнего рейса, точные ворота, багаж и детские жилеты.",
+        "url": "https://panabocas.com/"
+      }
+    ],
+    "galleries": [
+      "bocas-sixaola-bridge-gallery",
+      "frontier-pa-bocas-transport"
+    ],
+    "photos": [
+      "bocas-sixaola-history"
+    ],
+    "videos": [
+      "bocas-passenger-visit-video"
+    ],
+    "nearby": [
+      "bocas-almirante-isla-colon-lancha",
+      "bocas-almirante-isla-colon-car-ferry",
+      "sixaola-bocas-family-3",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ],
+    "line": "bocas-border-land"
+  },
+  "bocas-almirante-isla-colon-lancha": {
+    "stops": [
+      {
+        "point": "bocas-almirante-lancha",
+        "role": "Альмиранте · пассажирские ланчи",
+        "note": "На карте показан район пассажирской посадки. Перевозчик укажет свои ворота.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-colon-lancha",
+        "role": "Колон · прибытие пассажиров",
+        "note": "Вдоль набережной несколько причалов. Уточните место обратной посадки.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Пассажирская пересадка",
+        "text": "До Альмиранте можно приехать на шаттле, автобусе с пересадкой либо оставить машину на подтверждённой парковке. Перевозчик публикует билеты в одну сторону и туда-обратно. Задайте вопросы о багаже в офисе, выпустившем ваш билет.",
+        "sources": [
+          "bocas-panabocas-ticket",
+          "bocas-panabocas-contact",
+          "frontier-pa-bocas-transport"
+        ]
+      },
+      {
+        "title": "Пассажирская и автомобильная посадка",
+        "text": "Для машины нужен отдельный автомобильный паром с другой рампой. Если водитель едет после границы, оставьте запас между прохождением контроля и отправлением.",
+        "sources": [
+          "frontier-ferry-bocas",
+          "bocas-ferry-contacts",
+          "bocas-car-ferry-rates"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PanaBocas Express · билет и посадка",
+        "source": "bocas-panabocas-ticket",
+        "note": "Спросите про время последнего рейса, точные ворота, багаж и детские жилеты.",
+        "url": "https://panabocas.com/"
+      },
+      {
+        "name": "Caribe Shuttle · трансфер через границу",
+        "source": "frontier-caribe-shuttle",
+        "note": "Запросите время обеих пересадок, кресло для ребёнка, размер багажа и причал.",
+        "url": "https://caribeshuttle.rezdy.com/"
+      }
+    ],
+    "galleries": [
+      "frontier-pa-bocas-transport",
+      "bocas-panama-tourism-region"
+    ],
+    "photos": [
+      "frontier-bocas-archive"
+    ],
+    "videos": [
+      "bocas-passenger-visit-video"
+    ],
+    "nearby": [
+      "bocas-almirante-isla-colon-car-ferry",
+      "sixaola-guabito-bridge-almirante",
+      "sixaola-bocas-family-3"
+    ],
+    "line": "bocas-lancha-osm"
+  },
+  "bocas-almirante-isla-colon-car-ferry": {
+    "stops": [
+      {
+        "point": "bocas-almirante-car",
+        "role": "Альмиранте · въезд машин",
+        "note": "Район автомобильной погрузки. Заезд и время регистрации укажет ваш перевозчик.",
+        "activity": "car"
+      },
+      {
+        "point": "bocas-colon-car",
+        "role": "Колон · автомобильная рампа",
+        "note": "Рампа на открытой карте. Сверьте ворота обратного рейса у компании.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Место погрузки",
+        "text": "Карта отмечает район автомобильной переправы у Альмиранте и рампу на Колоне. Координаты линии относятся к коридору Palanga на OSM. Ворота, очередь и предельное время регистрации подсказывает Ferry Bocas.",
+        "sources": [
+          "bocas-ferry-contacts",
+          "bocas-car-ferry-route",
+          "bocas-osm-car-ferry"
+        ]
+      },
+      {
+        "title": "Тарифы и машина с палаткой",
+        "text": "Компания публикует тарифы по классу и массе транспорта. Запросите полный расчёт с людьми и крышей, уточните багаж, газовые баллоны и правила парковки. Если машина пересекает границу, подготовьте документы на неё отдельно.",
+        "sources": [
+          "bocas-car-ferry-rates",
+          "bocas-ferry-contacts",
+          "frontier-pa-border-list-2026"
+        ]
+      },
+      {
+        "title": "Если пропустили рейс",
+        "text": "Попросите диспетчера подтвердить следующий рейс и правила изменения билета. Для пассажирского варианта заранее выясните, где можно оставить машину в Альмиранте на весь срок.",
+        "sources": [
+          "frontier-ferry-bocas",
+          "bocas-panabocas-ticket",
+          "bocas-panabocas-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ferry Bocas · диспетчер парома",
+        "source": "bocas-ferry-contacts",
+        "note": "Уточните ворота, время регистрации и полный тариф с вашими габаритами.",
+        "phone": "+507 6615 6674",
+        "email": "info@ferrybocas.com"
+      },
+      {
+        "name": "PanaBocas Express · билет и посадка",
+        "source": "bocas-panabocas-ticket",
+        "note": "Спросите про время последнего рейса, точные ворота, багаж и детские жилеты.",
+        "url": "https://panabocas.com/"
+      }
+    ],
+    "galleries": [
+      "bocas-ferry-gallery"
+    ],
+    "videos": [
+      "bocas-ferry-official-video",
+      "bocas-ferry-report"
+    ],
+    "nearby": [
+      "bocas-almirante-isla-colon-lancha",
+      "sixaola-guabito-bridge-almirante",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ],
+    "line": "bocas-car-ferry-osm"
+  },
+  "bocas-colon-paunch-bluff-ebike": {
+    "stops": [
+      {
+        "point": "bocas-town-bike",
+        "role": "Старт по острову",
+        "note": "Парк служит ориентиром. Договоритесь с прокатом, где выдадут велосипед.",
+        "activity": "ebike"
+      },
+      {
+        "point": "bocas-paunch",
+        "role": "Панч · пауза с видом на сёрф",
+        "note": "Проверьте покрытие и решите, продолжать ли до дальнего пляжа.",
+        "activity": "ebike"
+      },
+      {
+        "point": "bocas-bluff",
+        "role": "Блафф · остановка у берега",
+        "note": "Избегайте прибоя. Вариант короткого выезда разворачивается в Панче.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Время и километраж",
+        "text": "Открытая дорожная линия даёт 10,1 км от парка Симона Боливара до точки у Блафф. Планируйте 2–3 часа на дорогу в обе стороны с паузами. Кафе, ворота и объезды сверяйте у проката.",
+        "sources": [
+          "bocas-isla-colon-bicycle-guide",
+          "bocas-osm-cycling-colon",
+          "bocas-bluff-photo-story"
+        ]
+      },
+      {
+        "title": "Покрытие и выбор велосипеда",
+        "text": "На ровных участках подходит гравел с широкими покрышками. На мокрой части и песке удобнее e‑MTB или электровелосипед с хорошим сцеплением. Уточните, разрешает ли прокат езду после дождя, и спросите про помощь при проколе.",
+        "sources": [
+          "bocas-isla-colon-bicycle-guide",
+          "bocas-ebikes-trails",
+          "bocas-barrbra-ebike"
+        ]
+      },
+      {
+        "title": "Семейный вариант",
+        "text": "Детям с опытом езды подберите короткий отрезок до Панча с разворотом. У проката уточняйте рост и возраст, наличие детского оборудования и правила совместной езды.",
+        "sources": [
+          "bocas-isla-colon-bicycle-guide",
+          "bocas-ebikes-rental",
+          "bocas-bluff-beach-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bocas E-Bikes · прокат на Колоне",
+        "source": "bocas-ebikes-rental",
+        "note": "Уточните размер рамы, остаток заряда, шлем, замок и план при проколе.",
+        "phone": "+507 6958 3475",
+        "whatsapp": "https://wa.me/50769583475"
+      },
+      {
+        "name": "BarrBra BnB · варианты проката по часам",
+        "source": "bocas-barrbra-ebike",
+        "note": "Уточните доступность, стоимость и время возврата под ваш маршрут."
+      }
+    ],
+    "galleries": [
+      "bocas-bluff-photo-story",
+      "bocas-bluff-beach-report"
+    ],
+    "videos": [
+      "bocas-bluff-ride-video"
+    ],
+    "nearby": [
+      "bocas-colon-drago-ebike",
+      "bocas-carenero-escuela-del-mar-surf",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ],
+    "line": "bocas-bluff-road-osm"
+  },
+  "bocas-colon-drago-ebike": {
+    "stops": [
+      {
+        "point": "bocas-town-bike",
+        "role": "Старт по острову",
+        "note": "Парк служит ориентиром. Договоритесь с прокатом, где выдадут велосипед.",
+        "activity": "ebike"
+      },
+      {
+        "point": "bocas-drago",
+        "role": "Драго · цель велопоездки",
+        "note": "До береговой тропы можно спешиться. Условия парковки спросите у владельца участка.",
+        "activity": "ebike"
+      },
+      {
+        "point": "bocas-drago-walk",
+        "role": "Начало пешего участка",
+        "note": "Проверьте береговые указатели и возможность пройти после ливня или прилива.",
+        "activity": "hiking"
+      },
+      {
+        "point": "bocas-estrella-walk",
+        "role": "Эстрелья · мелководье",
+        "note": "Звёзды остаются под водой. Фотографируйте без касания и не переносите их.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Расстояние и время",
+        "text": "Картографический расчёт даёт 34,6 км туда-обратно до Драго. Пешие 1,7 км до Эстрельи считаются отдельно. Путеводитель подтверждает расстояние чуть меньше 18 км в одну сторону.",
+        "sources": [
+          "bocas-estrella-local-guide",
+          "bocas-osm-cycling-colon",
+          "bocas-drago-traveler-ebike"
+        ]
+      },
+      {
+        "title": "Что взять в прокате",
+        "text": "Попросите подходящий размер, шлем, свет, замок и ремкомплект. С интенсивной помощью батарея разряжается быстрее на подъёмах. Зарядку обеспечивайте у проката до старта.",
+        "sources": [
+          "bocas-ebikes-rental",
+          "bocas-barrbra-ebike",
+          "bocas-ebikes-trails"
+        ]
+      },
+      {
+        "title": "Встреча с семьёй",
+        "text": "Автобус до Драго и пеший подход позволяют участникам встретиться без одинаковой физической нагрузки. Для возврата уточните расписание микроавтобуса и возможность перевозить раму.",
+        "sources": [
+          "bocas-estrella-local-guide",
+          "bocas-estrella-visit-ca"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bocas E-Bikes · прокат на Колоне",
+        "source": "bocas-ebikes-rental",
+        "note": "Уточните размер рамы, остаток заряда, шлем, замок и план при проколе.",
+        "phone": "+507 6958 3475",
+        "whatsapp": "https://wa.me/50769583475"
+      },
+      {
+        "name": "BarrBra BnB · варианты проката по часам",
+        "source": "bocas-barrbra-ebike",
+        "note": "Уточните доступность, стоимость и время возврата под ваш маршрут."
+      }
+    ],
+    "galleries": [
+      "bocas-drago-traveler-ebike",
+      "bocas-estrella-local-guide"
+    ],
+    "photos": [
+      "bocas-starfish"
+    ],
+    "videos": [
+      "bocas-islands-traveler-video"
+    ],
+    "nearby": [
+      "bocas-drago-estrella-coast-walk",
+      "bocas-colon-paunch-bluff-ebike",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ],
+    "line": "bocas-drago-road-osm"
+  },
+  "bocas-drago-estrella-coast-walk": {
+    "stops": [
+      {
+        "point": "bocas-drago-walk",
+        "role": "Начало пешего участка",
+        "note": "Проверьте береговые указатели и возможность пройти после ливня или прилива.",
+        "activity": "hiking"
+      },
+      {
+        "point": "bocas-estrella-walk",
+        "role": "Эстрелья · мелководье",
+        "note": "Звёзды остаются под водой. Фотографируйте без касания и не переносите их.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Доступ без своей машины",
+        "text": "Локальный путеводитель даёт варианты микроавтобуса, водного такси и береговой тропы. С малышами оставьте запас на песок, корни и ливень. У точки Драго согласуйте транспорт заранее, если ребёнок устаёт.",
+        "sources": [
+          "bocas-estrella-local-guide",
+          "bocas-estrella-visit-ca"
+        ]
+      },
+      {
+        "title": "Пляж и наблюдение",
+        "text": "На морских звёзд смотрят в их естественной среде. Не становитесь на животных и избегайте скоплений лодок. Обстановка в тихой бухте зависит от погоды и времени суток.",
+        "sources": [
+          "bocas-estrella-local-guide",
+          "bocas-estrella-visit-ca"
+        ]
+      },
+      {
+        "title": "Время обратного пути",
+        "text": "Микроавтобус и водное такси могут закончить работу до заката. Уточните последний рейс при въезде. Для велодня замок и точку стоянки согласуйте с прокатом или владельцем участка.",
+        "sources": [
+          "bocas-estrella-local-guide",
+          "bocas-drago-traveler-ebike"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Visit Bocas · доступ к Эстрелье",
+        "source": "bocas-estrella-local-guide",
+        "note": "Открыть локальные подсказки по дороге, автобусам и лодкам."
+      }
+    ],
+    "galleries": [
+      "bocas-estrella-local-guide",
+      "bocas-estrella-visit-ca"
+    ],
+    "photos": [
+      "bocas-starfish"
+    ],
+    "videos": [
+      "bocas-islands-traveler-video"
+    ],
+    "nearby": [
+      "bocas-colon-drago-ebike",
+      "bocas-jager-knights-catamaran",
+      "sixaola-bocas-family-3",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ],
+    "line": "bocas-estrella-trail-osm"
+  },
+  "bocas-carenero-escuela-del-mar-surf": {
+    "stops": [
+      {
+        "point": "bocas-colon-lancha",
+        "role": "Колон · прибытие пассажиров",
+        "note": "Вдоль набережной несколько причалов. Уточните место обратной посадки.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-carenero-bibis",
+        "role": "Каренеро · ориентир встречи",
+        "note": "Школа должна назвать место урока. Пин у Bibi’s помогает сориентироваться на острове.",
+        "activity": "surf"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Выбор спота",
+        "text": "У Бибиз возможен песчаный вариант для слабой волны. Блэк-Рок — рифовый спот, где начальный урок зависит от условий, прилива и инструктора. Обсудите, куда идёт конкретная группа.",
+        "sources": [
+          "bocas-carenero-escuela-del-mar",
+          "bocas-carenero-surf-guide"
+        ]
+      },
+      {
+        "title": "Что входит в урок",
+        "text": "Спросите длительность, число человек на тренера, размер мягкой доски, лиш и гидромайку. Для маленьких детей уточните индивидуальный урок и правила присутствия родителя.",
+        "sources": [
+          "bocas-carenero-escuela-del-mar",
+          "bocas-surf-academy",
+          "bocas-carenero-surf-guide"
+        ]
+      },
+      {
+        "title": "Сухопутная пауза",
+        "text": "Обед у берегового заведения и короткое водное такси до Колона дают вариант для семьи, если часть группы не катается. Последний рейс и причал проверьте в день выезда.",
+        "sources": [
+          "bocas-carenero-surf-guide",
+          "bocas-panama-tourism-region"
+        ]
+      },
+      {
+        "title": "Опыт путешественников",
+        "text": "В отчёте есть водный подход к Каренеро и авторские кадры сёрфинга. Инструктор подбирает участок под участников и море.",
+        "sources": [
+          "bocas-carenero-momentos-report",
+          "bocas-carenero-surf-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Escuela del Mar · первый урок на Каренеро",
+        "source": "bocas-carenero-escuela-del-mar",
+        "note": "Сообщите возраст, опыт и самочувствие в воде. Узнайте точку встречи и условия отмены.",
+        "whatsapp": "https://wa.me/50767857984"
+      },
+      {
+        "name": "Bocas Surf Academy · альтернатива на день",
+        "source": "bocas-surf-academy",
+        "note": "Уточните условия обучения, актуальные волны и транспорт к месту."
+      }
+    ],
+    "galleries": [
+      "bocas-carenero-escuela-del-mar",
+      "bocas-carenero-surf-guide",
+      "bocas-carenero-momentos-report"
+    ],
+    "photos": [
+      "bocas-carenero"
+    ],
+    "nearby": [
+      "bocas-colon-paunch-bluff-ebike",
+      "bocas-colon-pangea-clear-paddle",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ],
+    "videos": [
+      "bocas-carenero-traveler-clip"
+    ]
+  },
+  "bocas-colon-pangea-clear-paddle": {
+    "stops": [
+      {
+        "point": "bocas-pangea",
+        "role": "Pangea · прокат и инструктаж",
+        "note": "Договоритесь о месте спуска, границе акватории и времени возвращения.",
+        "activity": "sup"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Условия проката",
+        "text": "Pangea публикует оборудование на день и фотографии. Запросите точный тариф в день поездки, штатный жилет, весовую нагрузку и порядок отмены из-за ветра.",
+        "sources": [
+          "bocas-pangea-water-rentals"
+        ]
+      },
+      {
+        "title": "Гид и спокойная вода",
+        "text": "Спросите Bocas Nature Stories про Pirates Paddle & Mangrove Mysteries, место старта и допустимый возраст. При ветре перенесите водную активность или выберите спокойную береговую прогулку.",
+        "sources": [
+          "bocas-nature-stories-mangroves",
+          "bocas-panama-tourism-region"
+        ]
+      },
+      {
+        "title": "Набор с собой",
+        "text": "Нужны жилет, вода, защита от солнца и гермоупаковка телефона. Перед выходом узнайте прогноз, местное движение и точку экстренного возвращения.",
+        "sources": [
+          "bocas-pangea-water-rentals",
+          "bocas-nature-stories-mangroves"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pangea Bocas · прокат и погодные условия",
+        "source": "bocas-pangea-water-rentals",
+        "note": "Спросите прогноз и участок для выхода, размер жилетов и варианты сопровождения.",
+        "phone": "+507 760 8024",
+        "whatsapp": "https://wa.me/50769656029",
+        "email": "info@pangeabocas.com"
+      },
+      {
+        "name": "Bocas Nature Stories · гид по манграм",
+        "source": "bocas-nature-stories-mangroves",
+        "note": "Сверьте место встречи, темп, цену и размер группы."
+      }
+    ],
+    "galleries": [
+      "bocas-pangea-water-rentals",
+      "bocas-nature-stories-mangroves",
+      "bocas-kayaking-local-guide"
+    ],
+    "nearby": [
+      "bocas-carenero-escuela-del-mar-surf",
+      "bocas-drago-estrella-coast-walk",
+      "sixaola-bocas-family-3",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ]
+  },
+  "bocas-coral-zapatillas-boat": {
+    "stops": [
+      {
+        "point": "bocas-colon-lancha",
+        "role": "Колон · прибытие пассажиров",
+        "note": "Вдоль набережной несколько причалов. Уточните место обратной посадки.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-cayo-coral",
+        "role": "Район Кайо-Кораль",
+        "note": "Пин островка. Снорклинг и причал выбирает команда под течение.",
+        "activity": "snorkel"
+      },
+      {
+        "point": "bocas-zapatilla-landing",
+        "role": "Берег Сапатильи № 2",
+        "note": "Открытая карта показывает точку подхода. Высадку согласуют с парком.",
+        "activity": "white-sand"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Остановки и сборы",
+        "text": "Популярный порядок — бухта дельфинов, риф и обед у Кайо-Кораль, затем пляж Сапатильяс. Попросите указать точный остров, порядок доступа и место встречи. Есть варианты с Punta Hospital или более коротким рейсом.",
+        "sources": [
+          "bocas-visit-classic-boat",
+          "bocas-zapatilla-bocas-tours",
+          "bocas-miambiente-reservas"
+        ]
+      },
+      {
+        "title": "Дети и экипировка",
+        "text": "На семейном рейсе уточните тент, длину переходов, жилеты и высадку на берег при волнении. Возьмите воду, сухой мешок, солнцезащиту и свою маску, если требуется подходящий размер.",
+        "sources": [
+          "frontier-pa-bocas-water",
+          "bocas-visit-classic-boat",
+          "bocas-zapatilla-bocas-tours"
+        ]
+      },
+      {
+        "title": "Животные и парк",
+        "text": "Наблюдайте дельфинов с лодки по правилам капитана. Кораллы и животных не трогайте. Текущая охрана пляжей и высадка зависят от MiAmbiente.",
+        "sources": [
+          "bocas-miambiente-bastimentos",
+          "bocas-visit-classic-boat"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bocas Tours · экскурсия к Сапатильяс",
+        "source": "bocas-zapatilla-bocas-tours",
+        "note": "Согласуйте маршрут, число пассажиров, билеты в парк и возможность сменить остров."
+      },
+      {
+        "name": "MiAmbiente · доступ в парк",
+        "source": "bocas-miambiente-reservas",
+        "note": "Уточните, кто оформляет вход, на какие пляжи разрешена высадка и какие сборы действуют."
+      },
+      {
+        "name": "Cayo Coral Restaurante · обед в пути",
+        "source": "bocas-cayo-coral-restaurante",
+        "note": "Капитан согласует причал. Заранее уточните меню, наличные и открытие.",
+        "whatsapp": "https://wa.me/50763542625"
+      }
+    ],
+    "galleries": [
+      "bocas-visit-classic-boat",
+      "bocas-cayo-coral-restaurante"
+    ],
+    "photos": [
+      "bocas-zapatilla"
+    ],
+    "videos": [
+      "bocas-islands-traveler-video"
+    ],
+    "nearby": [
+      "bocas-jager-knights-catamaran",
+      "bocas-salt-creek-community-walk",
+      "bocas-old-bank-wizard-walk",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ]
+  },
+  "bocas-old-bank-wizard-walk": {
+    "stops": [
+      {
+        "point": "bocas-bastimentos-boat-origin",
+        "role": "Колон · район рейсов на Бастиментос",
+        "note": "Цена, возврат и конкретный пирс зависят от лодки.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-oldbank-dock",
+        "role": "Ольд-Бэнк · лодочная остановка",
+        "note": "От поселения до начала тропы короткий проход по улицам.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-oldbank-walk",
+        "role": "Пеший старт в Ольд-Бэнке",
+        "note": "У последних домов начинается размокающая лесная дорожка.",
+        "activity": "hiking"
+      },
+      {
+        "point": "bocas-wizard",
+        "role": "Wizard Beach · выход из леса",
+        "note": "Сильный прибой и уединённый берег. Пляж подходит для прогулки при хорошей погоде.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Две части маршрута",
+        "text": "До Ольд-Бэнка — водное такси, попутчиков и причал полезно подтвердить заранее. Затем по улицам поселения к началу лесных трёх отрезков, нанесённых в атласе.",
+        "sources": [
+          "bocas-bastimentos-tourism",
+          "bocas-atp-wizard-plan",
+          "bocas-osm-wizard-trail"
+        ]
+      },
+      {
+        "title": "Что меняет ливень",
+        "text": "Дайте запас на грязь и осмотрите спуски. При сильном ливне оставайтесь на прогулке по Ольд-Бэнку или узнайте у проводника альтернативный проход. На вечер не переносите первый выход.",
+        "sources": [
+          "bocas-wizard-old-bank-report",
+          "bocas-atp-wizard-plan"
+        ]
+      },
+      {
+        "title": "Береговой финиш",
+        "text": "Пляж хорош для пешего выхода с видом и пикника вдали от прибоя. Информацию о море смотрите у местной команды. Оцените волну, оставаясь на берегу.",
+        "sources": [
+          "bocas-bastimentos-tourism",
+          "bocas-wizard-old-bank-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Turismo Panamá · сведения об Ольд-Бэнке",
+        "source": "bocas-bastimentos-tourism",
+        "note": "Сверьте водный доступ и выберите местную экскурсию."
+      }
+    ],
+    "galleries": [
+      "bocas-bastimentos-tourism",
+      "bocas-wizard-old-bank-report"
+    ],
+    "videos": [
+      "bocas-islands-traveler-video"
+    ],
+    "nearby": [
+      "bocas-salt-creek-community-walk",
+      "bocas-coral-zapatillas-boat",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ],
+    "line": "bocas-old-bank-wizard-map"
+  },
+  "bocas-salt-creek-community-walk": {
+    "stops": [
+      {
+        "point": "bocas-colon-lancha",
+        "role": "Колон · прибытие пассажиров",
+        "note": "Вдоль набережной несколько причалов. Уточните место обратной посадки.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-salt-creek",
+        "role": "Община Кебрада-Саль",
+        "note": "Гид сообщит свой причал и программу. Координаты показывают поселение.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Кто ведёт маршрут",
+        "text": "Kawi Voyage публикует программу с местным сопровождением. Casa Cayuco описывает сотрудничество с жителями. Уточните, какая часть оплаты остаётся общине и кто открывает маршрут.",
+        "sources": [
+          "bocas-salt-creek-community",
+          "bocas-salt-creek-kawi",
+          "bocas-salt-creek-tourism"
+        ]
+      },
+      {
+        "title": "Сложность и сезон",
+        "text": "Короткое знакомство с поселением удобно в семейном темпе. Для лесной версии попросите фактическую длину, качество тропы, время лодки и возврат при дождях.",
+        "sources": [
+          "bocas-salt-creek-kawi",
+          "bocas-salt-creek-tourism"
+        ]
+      },
+      {
+        "title": "Где встречаться",
+        "text": "Карта даёт пин поселения и район отправления. Точный причал на обеих сторонах сообщает гид. Сохраните связь в офлайне и договоритесь о времени возврата.",
+        "sources": [
+          "bocas-salt-creek-kawi",
+          "bocas-salt-creek-community"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Kawi Voyage · бронирование программы Salt Creek",
+        "source": "bocas-salt-creek-kawi",
+        "note": "Проверьте время лодки, длину выбранной тропы, оплату общине и язык сопровождения.",
+        "whatsapp": "https://wa.me/50765559954"
+      }
+    ],
+    "galleries": [
+      "bocas-salt-creek-kawi",
+      "bocas-salt-creek-tourism"
+    ],
+    "videos": [
+      "bocas-salt-kawi-video"
+    ],
+    "nearby": [
+      "bocas-old-bank-wizard-walk",
+      "bocas-coral-zapatillas-boat",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ]
+  },
+  "bocas-jager-knights-catamaran": {
+    "stops": [
+      {
+        "point": "bocas-colon-lancha",
+        "role": "Колон · прибытие пассажиров",
+        "note": "Вдоль набережной несколько причалов. Уточните место обратной посадки.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-estrella-walk",
+        "role": "Эстрелья · мелководье",
+        "note": "Звёзды остаются под водой. Фотографируйте без касания и не переносите их.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Сценарии рейса",
+        "text": "Компания показывает несколько вариантов выхода. Перепроверьте, где планируется якорная стоянка и включено ли оборудование. Эстрелья на карте — пример возможной остановки.",
+        "sources": [
+          "bocas-jager-catamaran-owner",
+          "bocas-estrella-local-guide"
+        ]
+      },
+      {
+        "title": "Что согласовать с командой",
+        "text": "Спросите, какая длина морских переходов, есть ли туалет и тень, как попасть обратно на борт и где детям лучше сидеть. Точный снимок лодки открыт в галерее компании.",
+        "sources": [
+          "bocas-jager-catamaran-owner",
+          "bocas-visit-classic-boat"
+        ]
+      },
+      {
+        "title": "Правила на воде",
+        "text": "Оставляйте морских животных в естественной среде, надевайте жилеты по запросу капитана и соблюдайте правила акватории, если пункт входит в морской парк.",
+        "sources": [
+          "bocas-jager-catamaran-owner",
+          "bocas-miambiente-bastimentos"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Jager Knights · дневная поездка и чартер",
+        "source": "bocas-jager-catamaran-owner",
+        "note": "Запросите текущий маршрут, цену, возраст детей и расписание."
+      }
+    ],
+    "galleries": [
+      "bocas-jager-catamaran-owner"
+    ],
+    "nearby": [
+      "bocas-drago-estrella-coast-walk",
+      "bocas-coral-zapatillas-boat",
+      "sixaola-bocas-colon-bastimentos-family-5"
+    ],
+    "videos": [
+      "bocas-jager-catamaran-original-video"
+    ]
+  },
+  "sixaola-bocas-colon-bastimentos-family-5": {
+    "stops": [
+      {
+        "point": "puerto-viejo-center",
+        "role": "Пуэрто-Вьехо · исходная точка",
+        "note": "До отправления перепроверьте точку автобуса или шаттла в подтверждении.",
+        "activity": "car"
+      },
+      {
+        "point": "bocas-sixaola-bus",
+        "role": "Автобус из Пуэрто-Вьехо",
+        "note": "Остановка MEPE у погранпосёлка. Оставьте время на проход с багажом.",
+        "activity": "car"
+      },
+      {
+        "point": "bocas-sixaola-dgme",
+        "role": "Контроль Коста-Рики",
+        "note": "Подойдите к официальному окну до пересечения границы.",
+        "activity": "border"
+      },
+      {
+        "point": "bocas-guabito-control",
+        "role": "Контроль Панамы",
+        "note": "На открытой карте отмечен пункт. Оформление и порядок очереди уточняют у сотрудников.",
+        "activity": "border"
+      },
+      {
+        "point": "bocas-almirante-lancha",
+        "role": "Альмиранте · пассажирские ланчи",
+        "note": "На карте показан район пассажирской посадки. Перевозчик укажет свои ворота.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-colon-lancha",
+        "role": "Колон · прибытие пассажиров",
+        "note": "Вдоль набережной несколько причалов. Уточните место обратной посадки.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-town-bike",
+        "role": "Старт по острову",
+        "note": "Парк служит ориентиром. Договоритесь с прокатом, где выдадут велосипед.",
+        "activity": "ebike"
+      },
+      {
+        "point": "bocas-paunch",
+        "role": "Панч · пауза с видом на сёрф",
+        "note": "Проверьте покрытие и решите, продолжать ли до дальнего пляжа.",
+        "activity": "ebike"
+      },
+      {
+        "point": "bocas-bluff",
+        "role": "Блафф · остановка у берега",
+        "note": "Избегайте прибоя. Вариант короткого выезда разворачивается в Панче.",
+        "activity": "beach"
+      },
+      {
+        "point": "bocas-drago",
+        "role": "Драго · цель велопоездки",
+        "note": "До береговой тропы можно спешиться. Условия парковки спросите у владельца участка.",
+        "activity": "ebike"
+      },
+      {
+        "point": "bocas-drago-walk",
+        "role": "Начало пешего участка",
+        "note": "Проверьте береговые указатели и возможность пройти после ливня или прилива.",
+        "activity": "hiking"
+      },
+      {
+        "point": "bocas-estrella-walk",
+        "role": "Эстрелья · мелководье",
+        "note": "Звёзды остаются под водой. Фотографируйте без касания и не переносите их.",
+        "activity": "beach"
+      },
+      {
+        "point": "bocas-carenero-bibis",
+        "role": "Каренеро · ориентир встречи",
+        "note": "Школа должна назвать место урока. Пин у Bibi’s помогает сориентироваться на острове.",
+        "activity": "surf"
+      },
+      {
+        "point": "bocas-pangea",
+        "role": "Pangea · прокат и инструктаж",
+        "note": "Договоритесь о месте спуска, границе акватории и времени возвращения.",
+        "activity": "sup"
+      },
+      {
+        "point": "bocas-cayo-coral",
+        "role": "Район Кайо-Кораль",
+        "note": "Пин островка. Снорклинг и причал выбирает команда под течение.",
+        "activity": "snorkel"
+      },
+      {
+        "point": "bocas-zapatilla-landing",
+        "role": "Берег Сапатильи № 2",
+        "note": "Открытая карта показывает точку подхода. Высадку согласуют с парком.",
+        "activity": "white-sand"
+      },
+      {
+        "point": "bocas-bastimentos-boat-origin",
+        "role": "Колон · район рейсов на Бастиментос",
+        "note": "Цена, возврат и конкретный пирс зависят от лодки.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-oldbank-dock",
+        "role": "Ольд-Бэнк · лодочная остановка",
+        "note": "От поселения до начала тропы короткий проход по улицам.",
+        "activity": "boat"
+      },
+      {
+        "point": "bocas-oldbank-walk",
+        "role": "Пеший старт в Ольд-Бэнке",
+        "note": "У последних домов начинается размокающая лесная дорожка.",
+        "activity": "hiking"
+      },
+      {
+        "point": "bocas-wizard",
+        "role": "Wizard Beach · выход из леса",
+        "note": "Сильный прибой и уединённый берег. Пляж подходит для прогулки при хорошей погоде.",
+        "activity": "beach"
+      },
+      {
+        "point": "bocas-salt-creek",
+        "role": "Община Кебрада-Саль",
+        "note": "Гид сообщит свой причал и программу. Координаты показывают поселение.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "База и логистика",
+        "text": "Четыре ночи около набережной Колона дают ранний старт на лодку и простой резерв при дожде. Просите тихий номер подальше от вечерней музыки и уточните хранение экипировки. Чемоданы остаются в одном месте.",
+        "sources": [
+          "bocas-panama-tourism-region",
+          "frontier-pa-bocas-transport",
+          "bocas-panabocas-ticket"
+        ]
+      },
+      {
+        "title": "Два варианта велодня",
+        "text": "Подросткам с опытом — Панч и Блафф или более длинный выезд до Драго. Семейная группа может встретиться в Драго с приехавшими на автобусе. Береговой участок к Эстрелье даёт общий финиш.",
+        "sources": [
+          "bocas-isla-colon-bicycle-guide",
+          "bocas-estrella-local-guide",
+          "bocas-ebikes-trails"
+        ]
+      },
+      {
+        "title": "Погода и запасной день",
+        "text": "При сильной волне перенесите дальние острова. При спокойной защищённой воде спросите у проката про SUP близ базы. После сильного дождя тропу Wizard меняют на поселение Ольд-Бэнк или городскую прогулку.",
+        "sources": [
+          "bocas-pangea-water-rentals",
+          "bocas-bastimentos-tourism",
+          "bocas-wizard-old-bank-report",
+          "bocas-miambiente-bastimentos"
+        ]
+      },
+      {
+        "title": "Семейный комплект и бюджет",
+        "text": "Разбейте расходы на пограничный переезд, четыре ночи, островные ланчи, парк, урок и прокат. У оператора просите общую стоимость семьи с жилетами и доплатами. Возьмите лёгкую дождёвку, закрытую обувь, наличные и офлайн-карты.",
+        "sources": [
+          "frontier-caribe-shuttle",
+          "bocas-panabocas-ticket",
+          "bocas-zapatilla-bocas-tours",
+          "bocas-miambiente-reservas",
+          "bocas-carenero-escuela-del-mar",
+          "bocas-ebikes-rental"
+        ]
+      },
+      {
+        "title": "Если нужна своя машина",
+        "text": "Сначала согласуйте въезд автомобиля и страхование. Затем забронируйте место на пароме Ferry Bocas или охраняемую парковку в Альмиранте. На острове многие пересадки остаются лодочными.",
+        "sources": [
+          "frontier-pa-tourist-faq",
+          "frontier-pa-border-list-2026",
+          "bocas-ferry-contacts",
+          "bocas-car-ferry-rates"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Caribe Shuttle · трансфер через границу",
+        "source": "frontier-caribe-shuttle",
+        "note": "Запросите время обеих пересадок, кресло для ребёнка, размер багажа и причал.",
+        "url": "https://caribeshuttle.rezdy.com/"
+      },
+      {
+        "name": "PanaBocas Express · билет и посадка",
+        "source": "bocas-panabocas-ticket",
+        "note": "Спросите про время последнего рейса, точные ворота, багаж и детские жилеты.",
+        "url": "https://panabocas.com/"
+      },
+      {
+        "name": "Bocas E-Bikes · прокат на Колоне",
+        "source": "bocas-ebikes-rental",
+        "note": "Уточните размер рамы, остаток заряда, шлем, замок и план при проколе.",
+        "phone": "+507 6958 3475",
+        "whatsapp": "https://wa.me/50769583475"
+      },
+      {
+        "name": "Escuela del Mar · первый урок на Каренеро",
+        "source": "bocas-carenero-escuela-del-mar",
+        "note": "Сообщите возраст, опыт и самочувствие в воде. Узнайте точку встречи и условия отмены.",
+        "whatsapp": "https://wa.me/50767857984"
+      },
+      {
+        "name": "Bocas Tours · экскурсия к Сапатильяс",
+        "source": "bocas-zapatilla-bocas-tours",
+        "note": "Согласуйте маршрут, число пассажиров, билеты в парк и возможность сменить остров."
+      },
+      {
+        "name": "Pangea Bocas · прокат и погодные условия",
+        "source": "bocas-pangea-water-rentals",
+        "note": "Спросите прогноз и участок для выхода, размер жилетов и варианты сопровождения.",
+        "phone": "+507 760 8024",
+        "whatsapp": "https://wa.me/50769656029",
+        "email": "info@pangeabocas.com"
+      },
+      {
+        "name": "MiAmbiente · доступ в парк",
+        "source": "bocas-miambiente-reservas",
+        "note": "Уточните, кто оформляет вход, на какие пляжи разрешена высадка и какие сборы действуют."
+      },
+      {
+        "name": "Kawi Voyage · бронирование программы Salt Creek",
+        "source": "bocas-salt-creek-kawi",
+        "note": "Проверьте время лодки, длину выбранной тропы, оплату общине и язык сопровождения.",
+        "whatsapp": "https://wa.me/50765559954"
+      }
+    ],
+    "galleries": [
+      "frontier-pa-bocas-transport",
+      "bocas-estrella-local-guide",
+      "bocas-visit-classic-boat",
+      "bocas-bastimentos-tourism"
+    ],
+    "photos": [
+      "bocas-zapatilla",
+      "frontier-bocas-archive",
+      "bocas-carenero",
+      "bocas-starfish"
+    ],
+    "videos": [
+      "bocas-passenger-visit-video",
+      "bocas-bluff-ride-video",
+      "bocas-islands-traveler-video",
+      "bocas-salt-kawi-video"
+    ],
+    "nearby": [
+      "sixaola-bocas-family-3",
+      "bocas-almirante-isla-colon-car-ferry",
+      "bocas-jager-knights-catamaran"
+    ],
+    "line": "bocas-family-five-map"
+  },
+  "pacuare-lodge-tesorito-forest-adventure": {
+    "stops": [
+      {
+        "point": "pacuare-lodge",
+        "role": "Pacuare Lodge · база в каньоне",
+        "note": "Запросите место передачи группы и вариант въезда.",
+        "activity": "canyoning"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Лес и вода",
+        "text": "Автор напрямую упоминает прогулки, птиц и верёвочные активности. В Тесорито используется специальное снаряжение и работа проводника. Просите более лёгкую версию, если семье нужен спокойный день.",
+        "sources": [
+          "fb-pacuare-lodge-rainforest-original",
+          "pacuare-lodge-tesorito-canyoning",
+          "pacuare-lodge-canopy-operator",
+          "pacuare-adventure-index"
+        ]
+      },
+      {
+        "title": "Транспорт к лоджу",
+        "text": "Команда лоджа подскажет доступ по дороге или по реке. При запросе укажите уровень участников, возраст детей, массу багажа и даты. Сначала получите точку встречи, затем планируйте подъезд.",
+        "sources": [
+          "pacuare-lodge-land-rafting-admission",
+          "pacuare-lodge-prep-document"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Закрытая обувь с протектором, сменный комплект, дождевик и гермомешок. Возьмите время на инструктаж. Допуск к верёвочной части подтверждает организатор при записи.",
+        "sources": [
+          "pacuare-lodge-prep-document",
+          "pacuare-lodge-tesorito-canyoning"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pacuare Lodge · вход и бронирование",
+        "source": "pacuare-lodge-land-rafting-admission",
+        "note": "Сверьте способ въезда, даты, стоимость, допуск группы и резерв при сильном дожде."
+      }
+    ],
+    "galleries": [
+      "pacuare-adventure-index",
+      "pacuare-lodge-canopy-operator",
+      "pacuare-lodge-tesorito-canyoning"
+    ],
+    "videos": [
+      "pacuare-lodge-canopy-field-film"
+    ],
+    "nearby": [
+      "pacuare-own-craft"
+    ]
+  },
+  "monteverde-savia-ficus-nightfall": {
+    "stops": [
+      {
+        "point": "savia-belmar-entry",
+        "role": "Место встречи · Hotel Belmar",
+        "note": "Ссылка на карту дана оператором. Точный лесной вход и транспорт подтверждают при записи.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Тропа, мосты и фикус",
+        "text": "Команда SAVIA описывает прогулки по ярусам леса, платформы и дополнительную секцию Ficus Adventure. Сравните дневной вариант с вечерним. Отдельный подъём выбирают по уровню группы.",
+        "sources": [
+          "savia-monteverde-owner",
+          "savia-monteverde-ficus-adventure",
+          "savia-hotel-belmar-photo-story"
+        ]
+      },
+      {
+        "title": "Снаряжение и время",
+        "text": "В оригинальной публикации Hotel Belmar говорит о проводниках и выдаче оборудования. Nightfall указан около четырёх часов с перевозкой. Спросите, что входит в ваш вариант, и проверьте требования по возрасту.",
+        "sources": [
+          "fb-belmar-savia-equipment-original",
+          "savia-hotel-belmar-nightfall",
+          "savia-monteverde-ficus-adventure"
+        ]
+      },
+      {
+        "title": "Семейная логистика",
+        "text": "Назовите возраст ребёнка, желаемую нагрузку и способность проходить подвесные мосты. Возьмите закрытую обувь, воду и дополнительный слой. При сильном дожде настрой и темп определяет команда.",
+        "sources": [
+          "savia-hotel-belmar-nightfall",
+          "savia-monteverde-owner",
+          "savia-monteverde-firsthand-local"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "SAVIA / Hotel Belmar · запись и встреча",
+        "source": "savia-monteverde-owner",
+        "note": "Уточните группу, лесной трансфер, канатный участок и возможность выхода без подъёма.",
+        "phone": "+506 2645 5201",
+        "whatsapp": "https://wa.me/50685043231",
+        "email": "info@hotelbelmar.net"
+      }
+    ],
+    "galleries": [
+      "savia-hotel-belmar-photo-story",
+      "savia-monteverde-owner",
+      "savia-monteverde-firsthand-local"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "sixaola-bocas-colon-bastimentos-family-5",
+    "kind": "trip",
+    "region": "bocas",
+    "title": "Пуэрто-Вьехо → архипелаг Бокас · пять дней с детьми",
+    "native": "Puerto Viejo · Sixaola · Isla Colón · Carenero · Bastimentos · Cayos Zapatillas",
+    "level": "moderate",
+    "days": 5,
+    "activities": [
+      "border",
+      "boat",
+      "ebike",
+      "hiking",
+      "surf",
+      "school",
+      "snorkel",
+      "sup",
+      "beach",
+      "wildlife"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "frontier-pa-bocas-transport",
+      "frontier-pa-border-list-2026",
+      "frontier-pa-bocas-water",
+      "bocas-estrella-local-guide",
+      "bocas-visit-classic-boat",
+      "bocas-bastimentos-tourism",
+      "bocas-miambiente-bastimentos",
+      "ig-live-conocedores-bocas"
+    ],
+    "summary": "Семейная поездка через Сиксаолу на Колон. Дни на острове оставляют выбор между береговой велопрогулкой, лесной тропой и выходом на лодке в морской парк.",
+    "plan": "Остановитесь в Bocas Town у пассажирских причалов на четыре ночи. На один день запланируйте большой выход на море, на другой оставьте сухопутную замену.",
+    "conditions": "Перед поездкой сверяйте документы обеих стран, жилеты, допуск детей и время последней ланчи. При ливне замените мокрый лес короткой прогулкой или отдыхом в городе.",
+    "distance": null,
+    "countries": [
+      "cr",
+      "pa"
+    ],
+    "regions": [
+      "caribbean"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Дорога через Сиксаолу и заселение на Колоне",
+        "note": "Ранний автобус или шаттл. После контроля и катера оставьте вечер на заселение и короткую прогулку возле базы.",
+        "sources": [
+          "frontier-caribe-shuttle",
+          "frontier-pa-bocas-transport",
+          "bocas-panabocas-ticket",
+          "frontier-pa-tourist-faq"
+        ],
+        "stops": [
+          "sixaola-guabito-bridge-almirante",
+          "bocas-almirante-isla-colon-lancha"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Велосипед и берег Колона",
+        "note": "Укороченный путь до Панча и дальше на Блафф либо отдельный выезд к Драго. С малышами — автобус до Драго и прогулка у Эстрельи.",
+        "sources": [
+          "bocas-isla-colon-bicycle-guide",
+          "bocas-estrella-local-guide",
+          "bocas-estrella-visit-ca"
+        ],
+        "stops": [
+          "bocas-colon-paunch-bluff-ebike",
+          "bocas-colon-drago-ebike",
+          "bocas-drago-estrella-coast-walk"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Лодка на риф и Сапатильяс",
+        "note": "По прогнозу подтвердите выход на Кайо-Кораль и пляж парка. Для менее длинного дня подходит катамаран с ближней стоянкой или SUP близ базы.",
+        "sources": [
+          "bocas-visit-classic-boat",
+          "bocas-zapatilla-bocas-tours",
+          "bocas-miambiente-bastimentos",
+          "bocas-pangea-water-rentals",
+          "bocas-jager-catamaran-owner"
+        ],
+        "stops": [
+          "bocas-coral-zapatillas-boat",
+          "bocas-jager-knights-catamaran",
+          "bocas-colon-pangea-clear-paddle"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Каренеро или лес Бастиментоса",
+        "note": "Выберите одно главное занятие. Урок на Каренеро, тропа до Wizard или согласованная лодка в общину Кебрада-Саль. После дождей оставьте пеший этап коротким.",
+        "sources": [
+          "bocas-carenero-escuela-del-mar",
+          "bocas-carenero-surf-guide",
+          "bocas-bastimentos-tourism",
+          "bocas-salt-creek-kawi"
+        ],
+        "stops": [
+          "bocas-carenero-escuela-del-mar-surf",
+          "bocas-old-bank-wizard-walk",
+          "bocas-salt-creek-community-walk"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Ланча с Колона, Гуабито и возврат",
+        "note": "Согласованный утренний катер, связь с трансфером и оформление возврата в Коста-Рику. Сохраните день до позднего вечера под дорогу.",
+        "sources": [
+          "bocas-panabocas-ticket",
+          "frontier-mepe-sixaola",
+          "frontier-pa-border-list-2026",
+          "frontier-caribe-shuttle"
+        ],
+        "stops": [
+          "bocas-almirante-isla-colon-lancha",
+          "sixaola-guabito-bridge-almirante"
+        ]
+      }
+    ]
+  }
+]
