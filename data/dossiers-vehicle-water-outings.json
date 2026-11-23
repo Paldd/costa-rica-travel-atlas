@@ -327,6 +327,13 @@
           "orosi-bridges-mopt",
           "tapanti-ict-park-brochure"
         ]
+      },
+      {
+        "title": "Заезд к крытым площадкам",
+        "text": "Гид по кемпингам отмечает небольшой мостик на пути к крытым ранчо и альтернативный подъезд для тяжёлой машины. Подтвердите путь с владельцем до въезда, особенно после дождя или с оборудованием на крыше. Укрытия описаны с водой, электричеством и местом для гриля. Спросите о доступности этих удобств и правилах огня.",
+        "sources": [
+          "tapanti-ranch-campingguide-approach"
+        ]
       }
     ],
     "contacts": [
@@ -350,11 +357,14 @@
     "nearby": [
       "tapanti",
       "orosi-tapanti-ranch-weekend",
-      "orosi-hot"
+      "orosi-hot",
+      "monte-sky-waterfalls-3",
+      "monte-sky-camping-orosi"
     ],
     "galleries": [
       "tapanti-ranch-camino-gallery",
-      "tapanti-ranch-field-teletica"
+      "tapanti-ranch-field-teletica",
+      "tapanti-ranch-campingguide-approach"
     ],
     "photos": [
       "orosi-valley"

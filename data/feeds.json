@@ -2516,5 +2516,12 @@
       "/playa-blanca-",
       "/natural-lab/"
     ]
+  },
+  {
+    "name": "Teatro Nacional de Costa Rica · пресс-служба",
+    "url": "https://www.teatronacional.go.cr/Comunicados",
+    "paths": [
+      "/comunicados/detalle/"
+    ]
   }
 ]

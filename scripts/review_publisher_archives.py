@@ -86,6 +86,7 @@ class EditorialPage(HTMLParser):
                 or attrs.get("id") in {"content", "main-content", "main-blog-content", "article-content", "dnn_content"}
                 or attrs.get("data-elementor-type") in {"wp-post", "wp-page"}
                 or bool(classes & ARTICLE_BODY_CLASSES) or wordpress_post
+                or attrs.get("id") == "tnCol" and "boxSize" in classes
             )
             # DNN wraps the page in a form, with editorial content inside dnn_content.
             layout_form = tag == "form" and attrs.get("id") == "Form" and self.stack and self.stack[-1][0] == "body"

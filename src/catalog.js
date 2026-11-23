@@ -103,7 +103,11 @@ export const secondaryFilters = [
     map: "С точками на карте", line: "С линией маршрута",
     track: "С внешним GPS-треком", "route-map": "С внешней схемой",
   } },
-  { key: "material", label: "Материалы", options: { photo: "Фото в карточке", gallery: "Фотогалереи", video: "Видео", report: "Отзывы и отчёты" } },
+  { key: "material", label: "Материалы", options: {
+    photo: "Фото в карточке", gallery: "Фотогалереи", video: "Видео",
+    "photo-video": "Фото или галерея и видео", report: "Отзывы и отчёты",
+    "missing-photo": "Без снимка в атласе", "missing-video": "Без прямого видео",
+  } },
 ];
 
 export function durationBucket(days) {
@@ -144,6 +148,10 @@ function hasMaterial(record, material) {
     case "photo": return Boolean(dossier?.photos?.length || dossier?.stageCover);
     case "gallery": return Boolean(dossier?.galleries?.length);
     case "video": return Boolean(dossier?.videos?.length);
+    case "photo-video": return Boolean(dossier?.videos?.length &&
+      (dossier?.photos?.length || dossier?.stageCover || dossier?.galleries?.length));
+    case "missing-photo": return !dossier?.photos?.length && !dossier?.stageCover;
+    case "missing-video": return !dossier?.videos?.length;
     case "report": return Boolean(record.reportSources?.length || record.posts?.length);
     default: return true;
   }

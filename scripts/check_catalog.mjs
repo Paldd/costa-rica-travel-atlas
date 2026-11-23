@@ -68,6 +68,20 @@ for (const row of records) {
   if (row.dossier) {
     const { stops, track, line, sections, contacts, nearby = [] } = row.dossier;
     assert(stops.every(stop => stop.name && stop.role && stop.source in atlas.sources && stop.coords.every(Number.isFinite)), row.id);
+    const stageIds = new Set((row.stages || []).flatMap(stage => stage.stops));
+    const mediaStops = row.dossier.mediaStops || [];
+    assert.equal(new Set(mediaStops).size, mediaStops.length, row.id);
+    for (const id of mediaStops) {
+      const place = records.find(record => record.id === id);
+      const media = place?.dossier;
+      assert(id !== row.id && (media?.photos?.length || media?.galleries?.length || media?.videos?.length), id);
+      assert(stageIds.has(id) || nearby.includes(id) && stops.some(stop => stop.point === media.stops[0]?.point), row.id);
+    }
+    if (row.dossier.stageCover) {
+      const { record, file, caption } = row.dossier.stageCover;
+      assert(mediaStops.includes(record) && caption.startsWith("Остановка · "), row.id);
+      assert(records.find(place => place.id === record).dossier.photos.some(photo => photo.file === file), row.id);
+    }
     assert(!track || track in atlas.sources, row.id);
     assert(!line || line in atlas.lines && stops.length > 1, row.id);
     for (const stage of atlas.lines[line]?.stages || []) {
@@ -97,6 +111,29 @@ const waypointOnly = createGpx(camino.title, [{ title: camino.title, line: atlas
 assert(waypointOnly.includes("<wpt ") && !waypointOnly.includes("<trk>"));
 assert(find({ q: "sabanas oka" }).some(row => row.id === "sabana-oka"));
 assert(find({ activity: "rooftent", transport: "4x4" }).some(row => row.id === "ganadito-roof"));
+assert(find({ activity: "rooftent", material: "photo-video" }).some(row => row.id === "las-trillizas-roofcamp"));
+assert(find({ material: "missing-photo" }).every(row => !row.dossier.photos?.length && !row.dossier.stageCover));
+assert(find({ material: "missing-video" }).every(row => !row.dossier.videos?.length));
+const turrialbaCamp = records.find(row => row.id === "las-trillizas-roofcamp");
+assert.deepEqual(turrialbaCamp.dossier.stops[0].coords, [9.9751212, -83.7055168]);
+assert.equal(turrialbaCamp.dossier.line, "las-trillizas-first-walk-osm");
+assert(turrialbaCamp.dossier.connectStops === false && turrialbaCamp.dossier.stops.length === 3);
+const trillizasLine = atlas.lines[turrialbaCamp.dossier.line];
+assert.equal(trillizasLine.source, "osm-trillizas-farm-path");
+assert(!trillizasLine.coords.some(coords => coords.join() === turrialbaCamp.dossier.stops.at(-1).coords.join()));
+const monteCamp = records.find(row => row.id === "monte-sky-camping-orosi");
+assert.deepEqual(atlas.lines[monteCamp.dossier.line].stages, ["monte-sky-road-osm", "monte-sky-house-walk-osm"]);
+const lakeCamp = records.find(row => row.id === "mosqueritos-dota-lake-camp");
+const lakeRoad = atlas.lines[lakeCamp.dossier.line];
+assert.deepEqual(lakeRoad.coords[0], lakeCamp.dossier.stops[0].coords);
+assert(lakeCamp.dossier.stops[1].coords[1] < -83.957);
+const lakeTrail = records.find(row => row.id === "mosqueritos-dota-short-trail");
+const mappedTrail = atlas.lines[lakeTrail.dossier.line];
+assert.deepEqual(mappedTrail.coords[0], lakeTrail.dossier.stops[1].coords);
+assert.deepEqual(mappedTrail.coords.at(-1), lakeTrail.dossier.stops[2].coords);
+const mosqueritosTrack = records.find(row => row.id === "mosqueritos-dota-forest-loop-6");
+assert.equal(mosqueritosTrack.dossier.trackKind, "track");
+assert.equal(mosqueritosTrack.distance, 6.03);
 assert(find({ transport: "noCar", region: "caribbean", duration: "three" }, "expeditions").some(row => row.id === "tortuguero-no-car"));
 assert(find({ duration: "seven", activity: "mtb" }, "expeditions").some(row => row.id === "week-4x4-mtb"));
 assert(find({ country: "pa", activity: "border", transport: "noCar" }).some(row => row.id === "sixaola-bocas-family-3"));

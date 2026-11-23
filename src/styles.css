@@ -249,6 +249,8 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .media-player { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 6px; margin-top: 8px; background: #16332b; }
 .stage-media { margin-top: 10px; }
 .stage-media summary { cursor: pointer; color: var(--forest); width: fit-content; font-weight: 620; }
+.stage-media-entry { display: flex; gap: 10px; flex-wrap: wrap; justify-content: space-between; }
+.stage-photo { flex: 1 1 182px; max-width: 240px; }
 .media-search { display: flex; flex-wrap: wrap; gap: 7px 14px; color: var(--forest); font-size: .89rem; }
 .media-search:not(:empty) { margin-top: 10px; }
 .dossier-contacts { margin-bottom: 15px; padding: 16px; border: 1px solid var(--border); background: var(--white); border-radius: 12px; }

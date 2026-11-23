@@ -24,6 +24,7 @@ const pictures = {
   "sabana-oka": { file: "sabana.jpg", alt: "Иллюстрация открытого горного ландшафта Таламанки", caption: "Иллюстрация ландшафта" },
   chirripo: { file: "chirripo.jpg", alt: "Иллюстрация высокогорного парамо Чиррипо", caption: "Иллюстрация ландшафта" },
   "marino-ballena": { file: "uvita.jpg", alt: "Иллюстрация берега Марино-Бальена в районе Увиты", caption: "Иллюстрация ландшафта" },
+  "las-trillizas-roofcamp": { file: "trillizas-roof-illustration.jpg", alt: "Иллюстрация машины с палаткой на крыше в горной местности", caption: "Иллюстрация снаряжения · ImageGen" },
 };
 const prominent = ["sabana-oka", "chirripo", "marino-ballena"];
 const frontierQuery = new URLSearchParams({ activity: "border" });
@@ -284,11 +285,7 @@ function DossierMedia({ row, sources, byId, context }) {
   const [playing, setPlaying] = useState(null);
   const { photos = [], videos = [], galleries = [] } = row.dossier || {};
   const extraPhotos = photos.slice(1);
-  const placeIds = [...new Set(row.stages?.flatMap(stage => stage.stops) || [])];
-  const stopsWithMedia = placeIds.map(id => byId.get(id)).filter(place => {
-    const media = place?.dossier;
-    return media?.photos?.length || media?.galleries?.length || media?.videos?.length;
-  });
+  const stopsWithMedia = (row.dossier?.mediaStops || []).map(id => byId.get(id));
   const country = row.countries?.[0] || "cr";
   const countryName = { cr: "Costa Rica", pa: "Panamá", ni: "Nicaragua" }[country];
   const query = encodeURIComponent(`${row.native.split(" · ")[0]} ${countryName}`);
@@ -328,17 +325,23 @@ function DossierMedia({ row, sources, byId, context }) {
       <ul className="media-list">
         {stopsWithMedia.map(place => {
           const media = place.dossier;
-          const gallery = sources[media.galleries?.[0]];
-          const video = sources[media.videos?.[0]];
+          const photo = media.photos?.[0];
+          const showPhoto = photo && photo.file !== row.dossier.stageCover?.file &&
+            !photos.some(item => item.file === photo.file);
+          const gallery = sources[media.galleries?.find(id => !galleries.includes(id))];
+          const video = sources[media.videos?.find(id => !videos.includes(id))];
           return <li key={place.id}>
             <MapPin size={18} aria-hidden="true" />
-            <div>
-              <a href={urlFor("place", context, place.id)}>{place.title}</a>
-              <div className="dossier-links">
-                {media.photos?.[0] && <External href={media.photos[0].original}>Снимок остановки</External>}
-                {gallery && <External href={gallery.url}>Фотографии</External>}
-                {video && <External href={video.url}>Видео</External>}
+            <div className="stage-media-entry">
+              <div>
+                <a href={urlFor("place", context, place.id)}>{place.title}</a>
+                <div className="dossier-links">
+                  {photo && !showPhoto && <External href={photo.original}>Снимок остановки</External>}
+                  {gallery && <External href={gallery.url}><Camera size={13} aria-hidden="true" />Фотогалерея</External>}
+                  {video && <External href={video.url}><CirclePlay size={13} aria-hidden="true" />Видео</External>}
+                </div>
               </div>
+              {showPhoto && <RoutePhoto photo={photo} className="dossier-photo stage-photo" loading="lazy" />}
             </div>
           </li>;
         })}
@@ -638,7 +641,12 @@ function SourcesPage({ atlas }) {
       </div>)}</div>
     </details>
     <details className="evidence-list"><summary>Фото, видео и отзывы <ChevronDown size={18} /></summary>
-      <p>Фотографии с указанием автора есть в {withPhotos} из {atlas.records.length} карточек, ссылки на видео — в {withVideos}.</p>
+      <p>В {withPhotos} из {atlas.records.length} карточек показан снимок места или остановки с указанием автора. В {withVideos} есть ссылки на ролики о месте или маршруте.</p>
+      <div className="dossier-links">
+        <a href={urlFor("catalog", new URLSearchParams({ material: "photo-video" }))}><Camera size={15} aria-hidden="true" />Фото и видео</a>
+        <a href={urlFor("catalog", new URLSearchParams({ material: "missing-photo" }))}>Без снимка в атласе · {atlas.records.length - withPhotos}</a>
+        <a href={urlFor("catalog", new URLSearchParams({ material: "missing-video" }))}>Без прямого видео · {atlas.records.length - withVideos}</a>
+      </div>
       <p>Точки с источниками координат есть в {withMaps} карточках. Линия маршрута есть в {withRouteLines}, внешний GPS-трек — в {withExternalTracks}, внешняя схема — в {withExternalMaps}.</p>
       {withGalleries > 0 && <p>Ссылки на фотографии авторов и операторов есть в {withGalleries} карточках.</p>}
       {withReports > 0 && <p>Отзывы, отчёты или прямые упоминания собраны в {withReports} карточках.</p>}

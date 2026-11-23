@@ -1,0 +1,599 @@
+{
+  "monte-sky-waterfalls-3": {
+    "stops": [
+      {
+        "point": "monte-sky-408-turnoff",
+        "role": "Съезд с дороги 408",
+        "note": "Здесь начинается нанесённая на карту гравийная Calle Monte Sky."
+      },
+      {
+        "point": "monte-sky-approach-entrance",
+        "role": "Въезд Monte Sky по Waze",
+        "note": "На карте отмечен подъезд. До дома и указателей тропы нужно подняться пешком."
+      },
+      {
+        "point": "monte-sky-parking-trailhead",
+        "role": "Конец гравийного подъезда",
+        "note": "С этого места OSM показывает пешую тропу к дому. Уточните место безопасной стоянки."
+      },
+      {
+        "point": "monte-sky-forest-house",
+        "role": "Горный дом Monte Sky",
+        "note": "Здесь спросите, какие тропы к водопадам открыты сегодня."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Водопады и время",
+        "text": "В полевом отчёте маршрут к водопадам составил около 3 км туда и обратно. Mirando al Cielo и La Fresquita доступны с подхода от дома. El Duende идёт отдельной веткой к обзорной площадке. Включая дополнительные тропы, другой отчёт описывает более длинный день.",
+        "sources": [
+          "monte-sky-qbl-visit",
+          "monte-sky-english-field",
+          "monte-sky-publisher-copy-2026"
+        ]
+      },
+      {
+        "title": "Подъезд и посещение",
+        "text": "Из Ороси езжайте в сторону Тапанти, затем сверните по знакам Monte Sky. По отзыву последний участок около 3,5 км проходит по гравию. В публикации от 29 августа 2026 года указаны часы со вторника по воскресенье 07:00–16:00, последний вход 14:30. Сверьте режим по телефону и возьмите водонепроницаемую куртку.",
+        "sources": [
+          "monte-sky-dutch-field-2026",
+          "monte-sky-publisher-copy-2026",
+          "monte-sky-waze-arrival"
+        ]
+      },
+      {
+        "title": "С детьми и без машины",
+        "text": "Для детей, которые уверенно идут по неровной тропе, выберите короткую ветку и оставьте запас на подъём обратно. Источник описывает вариант с такси, обратную подачу лучше заранее согласовать. Хозяева просят приезжать без домашних животных.",
+        "sources": [
+          "monte-sky-english-field",
+          "monte-sky-qbl-visit"
+        ]
+      },
+      {
+        "title": "Что показано на карте",
+        "text": "Гравийный подъезд от дороги 408 около 3,6 км. От конца дороги ещё около 430 м до горного дома пешком. Указанный горный дом служит ориентиром для начала прогулок. Линии дальше к водопадам и вершине согласуйте у хозяев.",
+        "sources": [
+          "osm-monte-sky-road-first",
+          "osm-monte-sky-road-last",
+          "osm-monte-sky-house-walk"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Monte Sky · хозяева заповедника",
+        "source": "monte-sky-qbl-visit",
+        "note": "Уточняйте парковку, ночёвку и проводника. В отчёте опубликован второй номер +506 2228 0010.",
+        "phone": "+506 8382 7502",
+        "url": "https://www.quebuenlugar.com/es/lugares/monte-sky-cataratas-escondidas-en-oros/"
+      }
+    ],
+    "galleries": [
+      "monte-sky-qbl-visit",
+      "monte-sky-english-field",
+      "monte-sky-dutch-field-2026"
+    ],
+    "videos": [
+      "monte-sky-qbl-video",
+      "monte-sky-cachorro-video"
+    ],
+    "nearby": [
+      "monte-sky-camping-orosi",
+      "orosi-hot",
+      "tapanti"
+    ],
+    "line": "monte-sky-house-walk-osm"
+  },
+  "monte-sky-camping-orosi": {
+    "stops": [
+      {
+        "point": "monte-sky-408-turnoff",
+        "role": "Съезд с дороги 408",
+        "note": "Здесь начинается нанесённая на карту гравийная Calle Monte Sky."
+      },
+      {
+        "point": "monte-sky-approach-entrance",
+        "role": "Въезд Monte Sky по Waze",
+        "note": "На карте отмечен подъезд. До дома и указателей тропы нужно подняться пешком."
+      },
+      {
+        "point": "monte-sky-parking-trailhead",
+        "role": "Конец гравийного подъезда",
+        "note": "С этого места OSM показывает пешую тропу к дому. Уточните место безопасной стоянки."
+      },
+      {
+        "point": "monte-sky-forest-house",
+        "role": "Горный дом Monte Sky",
+        "note": "Здесь спросите, какие тропы к водопадам открыты сегодня."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что бронировать",
+        "text": "В отчёте показаны походная ночёвка и горный дом с оборудованной кухней на группу до 12 человек. Весеннее объявление хозяев упоминало специальный кемпинг на праздники 2026 года. Уточните текущие тарифы, вместимость и доступные ночи у хозяев.",
+        "sources": [
+          "monte-sky-qbl-visit",
+          "monte-sky-publisher-copy-2026"
+        ]
+      },
+      {
+        "title": "Подъезд и посещение",
+        "text": "Из Ороси езжайте в сторону Тапанти, затем сверните по знакам Monte Sky. По отзыву последний участок около 3,5 км проходит по гравию. В публикации от 29 августа 2026 года указаны часы со вторника по воскресенье 07:00–16:00, последний вход 14:30. Сверьте режим по телефону и возьмите водонепроницаемую куртку.",
+        "sources": [
+          "monte-sky-dutch-field-2026",
+          "monte-sky-publisher-copy-2026",
+          "monte-sky-waze-arrival"
+        ]
+      },
+      {
+        "title": "Ночёвка в сыром лесу",
+        "text": "Возьмите непромокаемый тент, запасную сухую одежду, налобный фонарь, воду, пакет для мусора и закрытую обувь. Спросите, можно ли оставить машину рядом с местом, разрешено ли готовить и есть ли сухое укрытие. Для палатки на крыше понадобится отдельное согласование.",
+        "sources": [
+          "monte-sky-qbl-visit",
+          "monte-sky-dutch-field-2026"
+        ]
+      },
+      {
+        "title": "Что показано на карте",
+        "text": "Гравийный подъезд от дороги 408 около 3,6 км. От конца дороги ещё около 430 м до горного дома пешком. Указанный горный дом служит ориентиром для начала прогулок. Линии дальше к водопадам и вершине согласуйте у хозяев.",
+        "sources": [
+          "osm-monte-sky-road-first",
+          "osm-monte-sky-road-last",
+          "osm-monte-sky-house-walk"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Monte Sky · хозяева заповедника",
+        "source": "monte-sky-qbl-visit",
+        "note": "Уточняйте парковку, ночёвку и проводника. В отчёте опубликован второй номер +506 2228 0010.",
+        "phone": "+506 8382 7502",
+        "url": "https://www.quebuenlugar.com/es/lugares/monte-sky-cataratas-escondidas-en-oros/"
+      }
+    ],
+    "galleries": [
+      "monte-sky-qbl-visit",
+      "monte-sky-dutch-field-2026"
+    ],
+    "videos": [
+      "monte-sky-qbl-video"
+    ],
+    "nearby": [
+      "monte-sky-waterfalls-3",
+      "orosi-tapanti-ranch-camp",
+      "orosi-tapanti-ranch-weekend"
+    ],
+    "line": "monte-sky-arrival-osm"
+  },
+  "monte-sky-tres-picos-guided-15": {
+    "stops": [
+      {
+        "point": "monte-sky-408-turnoff",
+        "role": "Съезд с дороги 408",
+        "note": "Здесь начинается нанесённая на карту гравийная Calle Monte Sky."
+      },
+      {
+        "point": "monte-sky-approach-entrance",
+        "role": "Въезд Monte Sky по Waze",
+        "note": "На карте отмечен подъезд. До дома и указателей тропы нужно подняться пешком."
+      },
+      {
+        "point": "monte-sky-parking-trailhead",
+        "role": "Конец гравийного подъезда",
+        "note": "С этого места OSM показывает пешую тропу к дому. Уточните место безопасной стоянки."
+      },
+      {
+        "point": "monte-sky-forest-house",
+        "role": "Горный дом Monte Sky",
+        "note": "Здесь спросите, какие тропы к водопадам открыты сегодня."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Маршрут с проводником",
+        "text": "Практический ориентир из отчёта A World Over около 15 км на весь маршрут. Для сложных веток хозяева требуют согласование; Bestemming Pura Vida описывает выезды с проводником для группы от восьми человек. Конкретный проход, размер группы и условия возвращения подтвердите при записи.",
+        "sources": [
+          "monte-sky-english-field",
+          "monte-sky-dutch-field-2026"
+        ]
+      },
+      {
+        "title": "Что показывает старый трек",
+        "text": "Brumosos a pata в 2019 году записали частичный односторонний вариант 8,7 км с набором 944 м. Сопоставьте его с маршрутом гида перед выходом. На карте атласа отмечен только ориентиры заезда и горного дома. Возьмите обувь с цепким протектором, непромокаемые слои, фонарь, запас воды и еды.",
+        "sources": [
+          "monte-sky-tres-picos-field-track",
+          "monte-sky-english-field"
+        ]
+      },
+      {
+        "title": "Что показано на карте",
+        "text": "Гравийный подъезд от дороги 408 около 3,6 км. От конца дороги ещё около 430 м до горного дома пешком. Указанный горный дом служит ориентиром для начала прогулок. Линии дальше к водопадам и вершине согласуйте у хозяев.",
+        "sources": [
+          "osm-monte-sky-road-first",
+          "osm-monte-sky-road-last",
+          "osm-monte-sky-house-walk"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Monte Sky · хозяева заповедника",
+        "source": "monte-sky-qbl-visit",
+        "note": "Уточняйте парковку, ночёвку и проводника. В отчёте опубликован второй номер +506 2228 0010.",
+        "phone": "+506 8382 7502",
+        "url": "https://www.quebuenlugar.com/es/lugares/monte-sky-cataratas-escondidas-en-oros/"
+      }
+    ],
+    "galleries": [
+      "monte-sky-tres-picos-field-track",
+      "monte-sky-english-field"
+    ],
+    "videos": [],
+    "nearby": [
+      "monte-sky-waterfalls-3",
+      "monte-sky-camping-orosi"
+    ],
+    "track": "monte-sky-tres-picos-field-track"
+  },
+  "las-trillizas-turrialba-walk-2": {
+    "stops": [
+      {
+        "point": "las-trillizas-reception",
+        "role": "Приёмная на молочной финке",
+        "note": "Точка опубликована муниципалитетом. Уточните, где оставить машину и откуда начинать прогулку."
+      },
+      {
+        "point": "las-trillizas-mapped-path-end",
+        "role": "Конец нанесённого отрезка тропы",
+        "note": "Дальнейший доступ по частной финке уточните у хозяев."
+      },
+      {
+        "point": "las-trillizas-falls-area",
+        "role": "Зона водопадов Лас-Трильисас",
+        "note": "Точка показывает район каскадов. Карта атласа показывает только нанесённый начальный отрезок тропы."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Каскады и крутая тропа",
+        "text": "Муниципальный каталог описывает три каскада высотой около 20, 30 и 40 м и лесной спуск примерно на 20 минут в одну сторону. Участники Qué Buen Lugar указывают примерно 2 км на прогулку. Подход к третьему каскаду проходит ближе к реке. Когда вода прибывает, используйте видовую часть тропы по указанию хозяина.",
+        "sources": [
+          "trillizas-municipal-catalog",
+          "trillizas-qbl-field"
+        ]
+      },
+      {
+        "title": "Подъезд и обувь",
+        "text": "Через Сан-Антонио изредка проезжают обычные машины, по отчёту лучше высокий клиренс. Пройдите тропу в закрытой обуви с хорошим сцеплением. На мокрых камнях следите за детьми и разворачивайтесь, если подход размыло.",
+        "sources": [
+          "trillizas-qbl-field",
+          "trillizas-explore-local",
+          "trillizas-waze-approach"
+        ]
+      },
+      {
+        "title": "Отдельные точки на спуске",
+        "text": "На карте видны приёмная, нанесённый начальный отрезок и район водопадов. Между концом отрезка и каскадами путь подтвердите на месте.",
+        "sources": [
+          "trillizas-municipal-maps",
+          "osm-trillizas-farm-path",
+          "osm-trillizas-waterfalls"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Дон Альфонсо · Catarata Las Trillizas",
+        "source": "trillizas-municipal-catalog",
+        "note": "Уточните маршрут по финке, наличие гида и допустимость формата ночёвки. В каталоге есть второй номер +506 8500 3754.",
+        "phone": "+506 8798 3046",
+        "email": "milagroastua762@gmail.com",
+        "url": "https://www.facebook.com/catarataslastrillizas"
+      },
+      {
+        "name": "Explore Turrialba",
+        "source": "trillizas-explore-local",
+        "note": "Местные организаторы дневного визита и сопровождения.",
+        "phone": "+506 8401 0280",
+        "whatsapp": "https://wa.me/50684010280",
+        "email": "info@exploreturrialba.com"
+      }
+    ],
+    "galleries": [
+      "trillizas-qbl-field",
+      "trillizas-explore-local"
+    ],
+    "videos": [
+      "trillizas-villalta-video"
+    ],
+    "nearby": [
+      "las-trillizas-roofcamp",
+      "turrialba",
+      "turrialba-angostura-atirro-weekend-2"
+    ],
+    "line": "las-trillizas-first-walk-osm"
+  },
+  "las-trillizas-roofcamp": {
+    "stops": [
+      {
+        "point": "las-trillizas-reception",
+        "role": "Приёмная на молочной финке",
+        "note": "Точка опубликована муниципалитетом. Уточните, где оставить машину и откуда начинать прогулку."
+      },
+      {
+        "point": "las-trillizas-mapped-path-end",
+        "role": "Конец нанесённого отрезка тропы",
+        "note": "Дальнейший доступ по частной финке уточните у хозяев."
+      },
+      {
+        "point": "las-trillizas-falls-area",
+        "role": "Зона водопадов Лас-Трильисас",
+        "note": "Точка показывает район каскадов. Карта атласа показывает только нанесённый начальный отрезок тропы."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Палатка на крыше и подъезд",
+        "text": "Costa Rica Camping Guide показывает открытое поле у ранчо и указывает ночёвку с палаткой на крыше. Explore Turrialba тоже указывает кемпинг и санузлы. Ранний отчёт о дневном визите не упоминал доступный кемпинг. Перед поездкой пришлите хозяину тип машины и спросите про площадку, уклон и состояние последних метров.",
+        "sources": [
+          "trillizas-camp-field",
+          "trillizas-explore-local",
+          "trillizas-qbl-field"
+        ]
+      },
+      {
+        "title": "План на выходные",
+        "text": "В первый день прибудьте засветло, выберите ровное место и узнайте, можно ли готовить у машины. Во второй пройдите тропу к каскадам, если вода и грунт позволяют. Возьмите подстилки, фонарь, сухой слой и запас воды. Правила костра устанавливает хозяин.",
+        "sources": [
+          "trillizas-camp-field",
+          "trillizas-municipal-catalog",
+          "trillizas-qbl-field"
+        ]
+      },
+      {
+        "title": "Отдельные точки на спуске",
+        "text": "На карте видны приёмная, нанесённый начальный отрезок и район водопадов. Между концом отрезка и каскадами путь подтвердите на месте.",
+        "sources": [
+          "trillizas-municipal-maps",
+          "osm-trillizas-farm-path",
+          "osm-trillizas-waterfalls"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Дон Альфонсо · Catarata Las Trillizas",
+        "source": "trillizas-municipal-catalog",
+        "note": "Уточните маршрут по финке, наличие гида и допустимость формата ночёвки. В каталоге есть второй номер +506 8500 3754.",
+        "phone": "+506 8798 3046",
+        "email": "milagroastua762@gmail.com",
+        "url": "https://www.facebook.com/catarataslastrillizas"
+      },
+      {
+        "name": "Explore Turrialba",
+        "source": "trillizas-explore-local",
+        "note": "Местные организаторы дневного визита и сопровождения.",
+        "phone": "+506 8401 0280",
+        "whatsapp": "https://wa.me/50684010280",
+        "email": "info@exploreturrialba.com"
+      }
+    ],
+    "galleries": [
+      "trillizas-camp-field",
+      "trillizas-qbl-field",
+      "trillizas-explore-local"
+    ],
+    "videos": [
+      "trillizas-villalta-video"
+    ],
+    "nearby": [
+      "las-trillizas-turrialba-walk-2",
+      "turrialba-virtudes-campfire",
+      "turrialba-ebike-halfday"
+    ],
+    "line": "las-trillizas-first-walk-osm"
+  },
+  "mosqueritos-dota-lake-camp": {
+    "stops": [
+      {
+        "point": "mosqueritos-rt2-turn",
+        "role": "Съезд с Ruta 2 на Calle Los Mosqueritos",
+        "note": "Метка из справочника кемпингов находилась у поворота. До лагуны по подъездной дороге около 2,3 км."
+      },
+      {
+        "point": "mosqueritos-lagoon",
+        "role": "Laguna Mosqueritos · район базы",
+        "note": "Где оставить машину, начать прогулку или сесть в лодку, спросите у сотрудников."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Лодки и прогулки",
+        "text": "Туристическая палата Лос-Сантоса и Teletica сняли лодки, прогулки на лошадях и тропы. Подтвердите формат проката, время, возрастные условия и наличие жилетов. С детьми младшего возраста удобно начать с короткого дневного визита.",
+        "sources": [
+          "mosqueritos-chamber-film",
+          "mosqueritos-teletica-film"
+        ]
+      },
+      {
+        "title": "Где поставить палатку",
+        "text": "Полевой обзор и комментарии описывают ветряные открытые участки, местами с наклоном. Крытые ранчо могут идти отдельно от ночёвки. Узнайте про укрытие, ровную площадку, правила огня и можно ли парковаться вплотную к лагерю.",
+        "sources": [
+          "mosqueritos-camp-review",
+          "mosqueritos-ticofam-film",
+          "mosqueritos-camp-list"
+        ]
+      },
+      {
+        "title": "Подъезд",
+        "text": "В справочнике Camping.cr точка находится возле поворота с Interamericana Sur. Поворот и дорога до лагуны нанесены на OpenStreetMap. Закладывайте около 2,3 км от поворота и просите у базы точное место стоянки.",
+        "sources": [
+          "mosqueritos-camp-list",
+          "osm-mosqueritos-road",
+          "osm-mosqueritos-lagoon"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Refugio Ecológico Mosqueritos",
+        "source": "mosqueritos-chamber-film",
+        "note": "Номер опубликован палатой туризма. Проверьте, свободны ли места для ночёвки и ходят ли лодки в выбранный день.",
+        "phone": "+506 6071 9090",
+        "url": "https://camping.cr/listing/refugio-ecologico-mosqueritos/"
+      }
+    ],
+    "galleries": [
+      "mosqueritos-camp-list",
+      "mosqueritos-camp-review"
+    ],
+    "videos": [
+      "mosqueritos-chamber-film",
+      "mosqueritos-ticofam-film",
+      "mosqueritos-teletica-film"
+    ],
+    "nearby": [
+      "mosqueritos-dota-forest-loop-6",
+      "lucha-camping",
+      "vueltas-lodge-camp-dota",
+      "mosqueritos-dota-short-trail"
+    ],
+    "line": "mosqueritos-lagoon-road-osm"
+  },
+  "mosqueritos-dota-forest-loop-6": {
+    "stops": [
+      {
+        "point": "mosqueritos-lagoon",
+        "role": "Laguna Mosqueritos · район базы",
+        "note": "Где оставить машину, начать прогулку или сесть в лодку, спросите у сотрудников."
+      },
+      {
+        "point": "mosqueritos-forest-trail-lagoon-start",
+        "role": "Sendero Mosqueritos · сторона лагуны",
+        "note": "Грунтовая тропа начинается у западного берега. Доступ подтвердите на базе."
+      },
+      {
+        "point": "mosqueritos-forest-trail-east-end",
+        "role": "Sendero Mosqueritos · конец нанесённого участка",
+        "note": "На карте отмечен конец опубликованной геометрии. Возврат к лагуне планируйте по согласованному пути."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Длина и рельеф",
+        "text": "Автор Arturo Pipe Hernandez записал кольцо в мае 2021 года. Трек указывает 6,03 км, 213 м набора, максимальную высоту 2 349 м и почти два часа движения. Перед выходом на частные тропы покажите трек сотрудникам базы и проверьте фактическую точку старта.",
+        "sources": [
+          "mosqueritos-hernandez-track",
+          "mosqueritos-camp-list"
+        ]
+      },
+      {
+        "title": "Условия на тропе",
+        "text": "На этой высоте туман и ветер быстро меняют ощущения. Возьмите дождевик, нескользящую обувь, воду и тёплый слой. После затяжного дождя подойдёт короткая прогулка у озёр по согласованию с сотрудниками.",
+        "sources": [
+          "mosqueritos-camp-review",
+          "mosqueritos-teletica-film"
+        ]
+      },
+      {
+        "title": "Короткий вариант по той же местности",
+        "text": "Если маршрут на 6 км закрыт или не подходит по времени, спросите про отдельную грунтовую тропу Sendero Mosqueritos. Её линия опубликована в карточке короткого варианта.",
+        "sources": [
+          "osm-mosqueritos-trail",
+          "mosqueritos-hernandez-track"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Refugio Ecológico Mosqueritos",
+        "source": "mosqueritos-chamber-film",
+        "note": "Номер опубликован палатой туризма. Проверьте, свободны ли места для ночёвки и ходят ли лодки в выбранный день.",
+        "phone": "+506 6071 9090",
+        "url": "https://camping.cr/listing/refugio-ecologico-mosqueritos/"
+      }
+    ],
+    "galleries": [
+      "mosqueritos-hernandez-track",
+      "mosqueritos-camp-list"
+    ],
+    "videos": [
+      "mosqueritos-chamber-film"
+    ],
+    "nearby": [
+      "mosqueritos-dota-lake-camp",
+      "dota-es-dota-mtb",
+      "lucha-walk",
+      "mosqueritos-dota-short-trail"
+    ],
+    "track": "mosqueritos-hernandez-track"
+  },
+  "mosqueritos-dota-short-trail": {
+    "stops": [
+      {
+        "point": "mosqueritos-lagoon",
+        "role": "Laguna Mosqueritos · район базы",
+        "note": "Где оставить машину, начать прогулку или сесть в лодку, спросите у сотрудников."
+      },
+      {
+        "point": "mosqueritos-forest-trail-lagoon-start",
+        "role": "Sendero Mosqueritos · сторона лагуны",
+        "note": "Грунтовая тропа начинается у западного берега. Доступ подтвердите на базе."
+      },
+      {
+        "point": "mosqueritos-forest-trail-east-end",
+        "role": "Sendero Mosqueritos · конец нанесённого участка",
+        "note": "На карте отмечен конец опубликованной геометрии. Возврат к лагуне планируйте по согласованному пути."
+      }
+    ],
+    "connectStops": false,
+    "line": "mosqueritos-forest-trail-osm",
+    "sections": [
+      {
+        "title": "Дистанция и грунт",
+        "text": "В OpenStreetMap нанесена линия Sendero Mosqueritos длиной около 1,7 км в одну сторону. Аналогичный возврат даст примерно 3,4 км. Сделайте разворот, если сотрудники подтвердили доступ лишь к части дорожки.",
+        "sources": [
+          "osm-mosqueritos-trail",
+          "mosqueritos-camp-list"
+        ]
+      },
+      {
+        "title": "Совместить с озером",
+        "text": "Туристическая палата показывает лодки, озеро и прогулки в пределах базы. Если есть туман или сильный ветер, сначала уточните открытые ветки и режим лодок. Возьмите куртку и обувь с протектором.",
+        "sources": [
+          "mosqueritos-chamber-film",
+          "mosqueritos-camp-review"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Refugio Ecológico Mosqueritos",
+        "source": "mosqueritos-chamber-film",
+        "note": "Номер опубликован палатой туризма. Проверьте, свободны ли места для ночёвки и ходят ли лодки в выбранный день.",
+        "phone": "+506 6071 9090",
+        "url": "https://camping.cr/listing/refugio-ecologico-mosqueritos/"
+      }
+    ],
+    "galleries": [
+      "mosqueritos-camp-review",
+      "mosqueritos-camp-list"
+    ],
+    "videos": [
+      "mosqueritos-teletica-film",
+      "mosqueritos-chamber-film"
+    ],
+    "nearby": [
+      "mosqueritos-dota-lake-camp",
+      "mosqueritos-dota-forest-loop-6"
+    ]
+  }
+}

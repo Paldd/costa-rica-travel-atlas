@@ -115,6 +115,9 @@
     "galleries": [
       "media-braulio-barva-republica",
       "braulio-sectors-map"
+    ],
+    "videos": [
+      "braulio-barva-qbl-video"
     ]
   },
   "braulio-quebrada": {
@@ -193,11 +196,18 @@
   "central-la-tiendilla-7": {
     "photos": [
       "atlas-turri-volcano-cone"
+    ],
+    "videos": [
+      "la-central-bosque-quemado-host-video"
     ]
   },
   "central-ruta-pilas-10": {
     "photos": [
       "atlas-turri-volcano-cone"
+    ],
+    "videos": [
+      "la-central-bosque-quemado-host-video",
+      "la-central-bosque-quemado-field-video"
     ]
   },
   "cerro-pelado": {
@@ -353,7 +363,9 @@
   },
   "costa-ballena-rooftop-surf-3": {
     "photos": [
-      "atlas-ballena-coast"
+      "atlas-ballena-coast",
+      "pinuela-shore-leoni",
+      "dominicalito-catinmotion"
     ],
     "videos": [
       "media-hermosa-osa-film"
@@ -413,6 +425,9 @@
     "galleries": [
       "diamante-passes",
       "diamante-superman-rules"
+    ],
+    "videos": [
+      "diamante-park-adventure-video"
     ]
   },
   "diria": {
@@ -431,6 +446,9 @@
   "dominicalito-surf-family": {
     "galleries": [
       "dominicalito-surf-family-direct"
+    ],
+    "photos": [
+      "dominicalito-catinmotion"
     ]
   },
   "durika": {
@@ -668,6 +686,10 @@
     "galleries": [
       "qbl-ruta-agua",
       "media-elysiana-qbl"
+    ],
+    "videos": [
+      "elysiana-owner-waterfall-video",
+      "elysiana-qbl-waterfall-video"
     ]
   },
   "encanto-summit-short": {
@@ -689,11 +711,17 @@
     ],
     "videos": [
       "film-qbl-esterillos-oeste"
+    ],
+    "photos": [
+      "esterillos-rodriguez-beach"
     ]
   },
   "faith-glamp": {
     "galleries": [
       "media-faith-caribbean-dome"
+    ],
+    "videos": [
+      "faith-glamping-host-video"
     ]
   },
   "flamingo": {
@@ -926,6 +954,9 @@
   "lucha-bike": {
     "galleries": [
       "lucha"
+    ],
+    "videos": [
+      "lucha-qbl-roof-film"
     ]
   },
   "lucha-camping": {
@@ -936,11 +967,17 @@
   "lucha-walk": {
     "galleries": [
       "lucha"
+    ],
+    "videos": [
+      "lucha-qbl-roof-film"
     ]
   },
   "lucha-weekend": {
     "galleries": [
       "lucha"
+    ],
+    "videos": [
+      "lucha-qbl-roof-film"
     ]
   },
   "manuel-antonio": {
@@ -1155,6 +1192,9 @@
     ],
     "photos": [
       "palo-verde-caracara-atlas"
+    ],
+    "videos": [
+      "tempisque-ortega-host-boat-video"
     ]
   },
   "palo-verde-cerro-alto": {
@@ -1169,6 +1209,9 @@
   "paquera-bioluminescence-kayak": {
     "galleries": [
       "media-paquera-biolum-eddy"
+    ],
+    "videos": [
+      "bahia-rica-night-kayak-video"
     ]
   },
   "paquera-ferry-weekend-3": {
@@ -1176,6 +1219,10 @@
       "media-organs-commons-gallery",
       "media-curu-official-photos",
       "bahia-rica-kayak-rental"
+    ],
+    "videos": [
+      "media-bahia-rica-inshore-film",
+      "bahia-rica-night-kayak-video"
     ]
   },
   "paquera-inshore-fishing": {
@@ -1194,6 +1241,9 @@
   "pato-samara-school": {
     "galleries": [
       "pato-surf"
+    ],
+    "videos": [
+      "pato-samara-local-guide-video"
     ]
   },
   "pavones": {
@@ -1219,6 +1269,10 @@
   "pinuela-beach": {
     "galleries": [
       "rural-osa-ict-municipal-beaches"
+    ],
+    "photos": [
+      "pinuela-shore-leoni",
+      "pinuela-bay-leoni"
     ]
   },
   "playa-negra-caribe": {
@@ -1504,6 +1558,9 @@
   "tempisque-ortega-boat": {
     "galleries": [
       "palo-verde-ortega-boat"
+    ],
+    "videos": [
+      "tempisque-ortega-host-boat-video"
     ]
   },
   "tenorio-canas-whitewater-rcr": {
@@ -1603,6 +1660,9 @@
     ],
     "photos": [
       "marino-ballena-panoramio"
+    ],
+    "videos": [
+      "uvita-colotico-workshop-video"
     ]
   },
   "ventanas-shore": {
@@ -1610,7 +1670,8 @@
       "rural-osa-ict-municipal-beaches"
     ],
     "videos": [
-      "media-ventanas-ojochal-film"
+      "media-ventanas-ojochal-film",
+      "ventanas-ojochal-field-video"
     ]
   },
   "vista-suenos": {
@@ -1864,14 +1925,21 @@
     ],
     "galleries": [
       "gallery-qbl-esterillos-oeste"
+    ],
+    "photos": [
+      "esterillos-rodriguez-beach"
     ]
   },
   "esterillos-palo-seco-roof-2": {
     "videos": [
-      "film-qbl-esterillos-oeste"
+      "film-qbl-esterillos-oeste",
+      "palo-seco-shore-field-video"
     ],
     "galleries": [
       "gallery-qbl-esterillos-oeste"
+    ],
+    "photos": [
+      "esterillos-rodriguez-beach"
     ]
   },
   "esterillos-bandera-uvita-coastal-camp-3": {
@@ -1880,6 +1948,9 @@
     ],
     "galleries": [
       "gallery-qbl-esterillos-oeste"
+    ],
+    "photos": [
+      "esterillos-rodriguez-beach"
     ]
   },
   "miramar-vista-golfo-big-papa": {
@@ -1972,6 +2043,9 @@
   "sarapiqui-tirimbina-mtb-34": {
     "photos": [
       "sarapiqui-tirimbina-commons"
+    ],
+    "videos": [
+      "tirimbina-reserve-introduction-video"
     ]
   },
   "tolomuco-river-glamping": {
@@ -2063,7 +2137,8 @@
   "chira-glamp": {
     "videos": [
       "film-379-chira-guest",
-      "film-379-chira-facilities"
+      "film-379-chira-facilities",
+      "chira-family-tent-tour-video"
     ],
     "galleries": [
       "chira-family-units"
@@ -2238,6 +2313,9 @@
   "arenal-tumbas-guided-mtb-24": {
     "photos": [
       "arenal-dam"
+    ],
+    "videos": [
+      "desafio-tumbas-mtb-page-video"
     ]
   },
   "la-angelina-azul-ebike-7": {
@@ -2264,6 +2342,230 @@
   "santa-teresa-nosara-gravel-101": {
     "videos": [
       "nicoya-coast-velo-surf-field-2023"
+    ]
+  },
+  "talamanca-playa-chiquita-path": {
+    "photos": [
+      "playa-chiquita-velazquez"
+    ],
+    "videos": [
+      "playa-chiquita-field-video"
+    ]
+  },
+  "cafe-1743-orosi": {
+    "photos": [
+      "orosi-church-rodtico",
+      "orosi-church-garden-rodtico"
+    ]
+  },
+  "orosi-cachi-224-32": {
+    "photos": [
+      "orosi-church-rodtico"
+    ],
+    "videos": [
+      "orosi-224-coop-cycling-video"
+    ]
+  },
+  "cartago-orosi-ujarras-ebike-52": {
+    "photos": [
+      "orosi-church-rodtico"
+    ]
+  },
+  "orosi-road-loop": {
+    "photos": [
+      "orosi-church-rodtico",
+      "orosi-church-garden-rodtico"
+    ]
+  },
+  "esterillos-playa-super-sol-camping": {
+    "photos": [
+      "esterillos-rodriguez-beach"
+    ]
+  },
+  "esterillos-las-brisas-camping": {
+    "photos": [
+      "esterillos-rodriguez-beach"
+    ]
+  },
+  "bejuco-garrobos-camp": {
+    "photos": [
+      "bejuco-puntarenas-leoni"
+    ]
+  },
+  "bejuco-bandera-surf-camp-2": {
+    "photos": [
+      "bejuco-puntarenas-leoni"
+    ]
+  },
+  "tamarindo-langosta-pedelec-6": {
+    "photos": [
+      "langosta-low-tide-commons"
+    ]
+  },
+  "ostional-turtle-guides": {
+    "photos": [
+      "ostional-refuge-volunteers"
+    ]
+  },
+  "playa-grande": {
+    "photos": [
+      "playa-grande-las-baulas-leoni",
+      "playa-grande-las-baulas-leoni-two"
+    ]
+  },
+  "playa-grande-flor-bambu-glamp": {
+    "photos": [
+      "playa-grande-las-baulas-leoni"
+    ]
+  },
+  "tamarindo-autogyro-estuary": {
+    "photos": [
+      "playa-grande-las-baulas-leoni"
+    ]
+  },
+  "puntarenas-nicoya-islands-3": {
+    "photos": [
+      "puntarenas-paseo-rodtico"
+    ]
+  },
+  "puntarenas-tortuga-bay-island": {
+    "photos": [
+      "puntarenas-paseo-rodtico"
+    ]
+  },
+  "diamante-guanacaste-atv": {
+    "videos": [
+      "diamante-atv-park-video"
+    ]
+  },
+  "nosara-mtb-family-trails-6": {
+    "videos": [
+      "nosara-mtb-team-video"
+    ]
+  },
+  "sardinal-calzon-de-pobre": {
+    "videos": [
+      "sardinal-penca-field-video"
+    ]
+  },
+  "samara-carrillo-quad-camp-2": {
+    "videos": [
+      "pato-samara-local-guide-video"
+    ]
+  },
+  "family-arenal-5": {
+    "videos": [
+      "monteverde-606-road-field-video"
+    ]
+  },
+  "bijagual-waterfall-hike-7": {
+    "videos": [
+      "bijagual-waterfall-outing-video"
+    ]
+  },
+  "bijagual-rooftent-visit": {
+    "videos": [
+      "bijagual-waterfall-outing-video"
+    ]
+  },
+  "herradura-bijagual-buggy-4": {
+    "videos": [
+      "bijagual-waterfall-outing-video"
+    ]
+  },
+  "laguna-don-manuel-camp": {
+    "videos": [
+      "laguna-don-manuel-field-video"
+    ]
+  },
+  "mistico-twilight-bridges-32": {
+    "videos": [
+      "mistico-night-walk-video"
+    ]
+  },
+  "tres-amigos-packraft-fortuna": {
+    "videos": [
+      "tres-amigos-host-packraft-video"
+    ]
+  },
+  "la-angelina-trail-11": {
+    "videos": [
+      "la-angelina-field-hike-video"
+    ]
+  },
+  "prusia": {
+    "videos": [
+      "prusia-qbl-forest-video"
+    ]
+  },
+  "palo-seco-roof-camp": {
+    "videos": [
+      "palo-seco-shore-field-video"
+    ]
+  },
+  "toro-gemelas-fantasticas-10": {
+    "videos": [
+      "bajos-toro-las-gemelas-qbl-video"
+    ]
+  },
+  "upala-morpho-waterfall-mirador": {
+    "videos": [
+      "morpho-dos-rios-waterfall-video"
+    ]
+  },
+  "santa-elena-reserve-local": {
+    "videos": [
+      "santa-elena-bajo-video"
+    ]
+  },
+  "punta-islita-ora-mangrove-kayak": {
+    "videos": [
+      "rio-ora-field-kayak-video"
+    ]
+  },
+  "coto-brus-camp-ride-metaponto-3": {
+    "videos": [
+      "coto-brus-metaponto-field-video"
+    ]
+  },
+  "isla-san-lucas-local-boat": {
+    "videos": [
+      "isla-san-lucas-local-video"
+    ]
+  },
+  "rivas-los-gigantes-6-km": {
+    "videos": [
+      "rivas-gigantes-local-tv-video"
+    ]
+  },
+  "agujas-bijagual-weekend-2": {
+    "videos": [
+      "agujas-bijagual-qbl-paddling-video"
+    ]
+  },
+  "agujas-kayak-sup-bay": {
+    "videos": [
+      "agujas-bijagual-qbl-paddling-video"
+    ]
+  },
+  "forest-highland-4": {
+    "videos": [
+      "chira-family-tent-tour-video"
+    ]
+  },
+  "trail-lucha": {
+    "videos": [
+      "lucha-qbl-roof-film"
+    ]
+  },
+  "arenal-bike-camp-3": {
+    "videos": [
+      "desafio-tumbas-mtb-page-video"
+    ]
+  },
+  "conchal-essence-family-kayak": {
+    "videos": [
+      "conchal-beachclub-kayak-site-video"
     ]
   }
 }

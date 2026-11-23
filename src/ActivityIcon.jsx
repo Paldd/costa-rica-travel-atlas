@@ -2,7 +2,7 @@ import React from "react";
 import {
   Bike, Bird, CarFront, Coffee, Compass, Fish, Flame, Footprints,
   House, Landmark, Mountain, Plane, Route, Sailboat, Ship, Sun,
-  TentTree, TreePine, Waves, Wind,
+  TentTree, TreePine, Waves,
 } from "lucide-react";
 
 function sportIcon(drawing) {
@@ -88,6 +88,23 @@ const TrailRun = sportIcon(<>
   <path d="m6 10 4-3 4 1 2 4h4m-7-4-3 6 5 3-1 4m-4-7-3 5H3M2 14h3m13 5h4" />
 </>);
 
+const Windsurf = sportIcon(<>
+  <path d="M3 18h18l-3 2H6l-3-2Zm8 0V3l7 12h-7m0-11-5 11h5M3 23l3-1 3 1 3-1 3 1 3-1 3 1" />
+</>);
+const Kite = sportIcon(<>
+  <path d="M4 8C8 2 14 1 20 4l-6 5c-3-2-6-2-10-1Zm3 0 6 7m4-9-4 9m0 0-2 4m-6 1h15l-3 2H8l-3-2Z" />
+</>);
+const Wingfoil = sportIcon(<>
+  <path d="M3 12C5 7 8 5 12 5s7 2 9 7l-5-2-4 3-4-3-5 2Zm9-7v8m0 0 2 3m-8 2h14l-3 2H8l-2-2Zm8 2v3m-3 0h6" />
+</>);
+const Horseback = sportIcon(<>
+  <path d="m5 20 2-7 4-5 2-5 2 3 3 1 3 5-2 2-4-2-2 3 3 5m-7-9-4-1-2 4m1 7h15" />
+  <circle cx="16" cy="9" r=".55" fill="currentColor" />
+</>);
+const Cave = sportIcon(<>
+  <path d="M2 20h20L17 6l-5-3-5 5-5 12Zm6 0v-4l4-5 4 5v4m-4-9v3" />
+</>);
+
 const groups = [
   ["rides", ElectricBike, "ebike"],
   ["rides", Mtb, "mtb"],
@@ -101,7 +118,9 @@ const groups = [
   ["land", Flame, "campfire"],
   ["land", House, "glamping"],
   ["water", Fish, "fishing"],
-  ["water", Wind, "windsurf", "kitesurf", "wingfoil"],
+  ["water", Windsurf, "windsurf"],
+  ["water", Kite, "kitesurf"],
+  ["water", Wingfoil, "wingfoil"],
   ["water", Surfboard, "surf", "school"],
   ["water", Raft, "rafting"],
   ["water", Packraft, "packraft"],
@@ -114,7 +133,8 @@ const groups = [
   ["land", Plane, "scenic-flight"],
   ["water", HotSpring, "thermal"],
   ["nature", Canyoning, "canyoning"],
-  ["nature", Mountain, "summit", "volcano", "cave"],
+  ["nature", Mountain, "summit", "volcano"],
+  ["nature", Cave, "cave"],
   ["nature", TrailRun, "trailrun"],
   ["nature", Footprints, "hiking", "multi"],
   ["land", CarFront, "car", "border"],
@@ -122,7 +142,8 @@ const groups = [
   ["land", Landmark, "history"],
   ["nature", Bird, "wildlife"],
   ["nature", Zipline, "canopy"],
-  ["nature", TreePine, "forest", "horseback"],
+  ["nature", TreePine, "forest"],
+  ["nature", Horseback, "horseback"],
   ["water", Sun, "beach", "white-sand", "dark-sand", "relax"],
   ["water", Waterfall, "waterfall"],
   ["water", Waves, "lake", "river"],

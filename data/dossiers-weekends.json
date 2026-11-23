@@ -336,6 +336,15 @@
           "lucha-camp",
           "lucha"
         ]
+      },
+      {
+        "title": "Палатка на крыше и два подъезда",
+        "text": "Авторы Qué Buen Lugar ночевали в палатке на крыше рядом с Lago Muni. Официальная карта ведёт к озеру основным въездом через Cedral de Jardín de Dota. Альтернативная внутренняя дорога и удалённая зона № 2 доступны для 4×4. При бронировании попросите место с подъездом машины и уточните текущий допуск палатки на крыше.",
+        "sources": [
+          "lucha-qbl",
+          "lucha",
+          "lucha-lago-map-park"
+        ]
       }
     ],
     "contacts": [
@@ -354,7 +363,11 @@
     ],
     "nearby": [
       "lucha-bike",
-      "lucha-walk"
+      "lucha-walk",
+      "mosqueritos-dota-lake-camp"
+    ],
+    "videos": [
+      "lucha-qbl-roof-film"
     ]
   },
   "lucha-weekend": {

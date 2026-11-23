@@ -345,6 +345,39 @@ def reusable_media(record, sources, gallery_ids):
         ]
 
 
+def attach_stop_media(records, dossiers):
+    # A place can illustrate a mapped stop when both dossiers use the same waypoint.
+    # At a shared meeting point, only reuse a photo if the candidate place is unambiguous.
+    places_by_point = {}
+    for row in records:
+        dossier = dossiers.get(row["id"], {})
+        if row["kind"] == "place" and dossier.get("photos") and dossier.get("stops"):
+            places_by_point.setdefault(dossier["stops"][0]["point"], []).append(row["id"])
+    for row in records:
+        dossier = dossiers.get(row["id"])
+        if not dossier:
+            continue
+        stops = dossier["stops"]
+        linked = [stop for stage in row.get("stages", []) for stop in stage["stops"]]
+        if row["kind"] != "place" and not row.get("stages") and len(stops) > 1:
+            nearby = set(dossier.get("nearby", []))
+            for stop in stops:
+                places = [key for key in places_by_point.get(stop["point"], []) if key in nearby]
+                if len(places) == 1:
+                    linked.extend(places)
+        linked = [
+            key for key in dict.fromkeys(linked)
+            if any(dossiers.get(key, {}).get(field) for field in ("photos", "galleries", "videos"))
+        ]
+        if linked:
+            dossier["mediaStops"] = linked
+        if not dossier.get("photos"):
+            for stop in linked:
+                if photo := next(iter(dossiers[stop].get("photos", [])), None):
+                    dossier["stageCover"] = {**photo, "caption": f"Остановка · {photo['caption']}", "record": stop}
+                    break
+
+
 def main():
     sources = list(read_sources())
     sources_by_id = {source["id"]: source for source in sources}
@@ -462,12 +495,7 @@ def main():
             for stop in stage["stops"]:
                 if stop not in known_records or stop == record["id"]:
                     raise ValueError(f"Unknown or circular stop {stop} in {record['id']}")
-        dossier = record.get("dossier")
-        if dossier and not dossier.get("photos"):
-            for stop in (key for stage in record.get("stages", []) for key in stage["stops"]):
-                if photo := next(iter(dossiers.get(stop, {}).get("photos", [])), None):
-                    dossier["stageCover"] = {**photo, "caption": f"Остановка · {photo['caption']}", "record": stop}
-                    break
+    attach_stop_media(records, dossiers)
     out = ROOT / "public" / "atlas.json"
     out.write_text(json.dumps({
         "checked": metadata["checked"], "records": records, "recordAliases": aliases,

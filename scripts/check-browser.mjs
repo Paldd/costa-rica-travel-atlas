@@ -3,7 +3,7 @@ import { readFile } from "node:fs/promises";
 import { createRequire } from "node:module";
 
 const { chromium } = createRequire(import.meta.url)(process.env.ATLAS_PLAYWRIGHT || "playwright");
-const base = new URL("https://paldd.github.io/costa-rica-travel-atlas/");
+const base = new URL(process.env.ATLAS_BASE_URL || "https://paldd.github.io/costa-rica-travel-atlas/");
 const revision = process.env.ATLAS_REVISION || process.env.GITHUB_SHA;
 assert.match(revision, /^[a-f0-9]{40}$/);
 
@@ -239,13 +239,41 @@ async function checkViewport(browser, width) {
     await checkWidth();
 
     assert.deepEqual(errors, []);
+    const roof = records.get("las-trillizas-roofcamp");
+    await open("place/" + roof.id);
+    await heading(roof);
+    await page.waitForFunction(() => Array.from(document.images).some(img =>
+      img.src.endsWith("/trillizas-roof-illustration.jpg") && img.naturalWidth > 0));
+    await page.locator(".detail-photo figcaption").getByText("Иллюстрация снаряжения · ImageGen").waitFor();
+    await page.locator(".route-map-stops button").last().waitFor();
+    assert.equal(await page.locator(".route-map-stops button").count(), roof.dossier.stops.length);
+    const roofVideo = page.locator(".media-list").getByRole("button", { name: "Смотреть в карточке" });
+    await roofVideo.click();
+    assert.equal(await page.locator(".media-player").getAttribute("src"), "https://www.youtube-nocookie.com/embed/GLr-xzs1mzQ");
+    await checkWidth();
+
+    const chiquita = records.get("talamanca-playa-chiquita-path");
+    await open("place/" + chiquita.id);
+    await heading(chiquita);
+    await page.waitForFunction(() => Array.from(document.images).some(img =>
+      img.src.endsWith("/playa-chiquita-velazquez.jpg") && img.naturalWidth > 0));
+    await page.locator(".detail-photo figcaption").getByRole("link", { name: "Manuel Velazquez" }).waitFor();
+    await checkWidth();
+
+    const mosqueritos = records.get("mosqueritos-dota-lake-camp");
+    await open("place/" + mosqueritos.id);
+    await heading(mosqueritos);
+    await page.locator(".route-map-stops button").last().waitFor();
+    assert.equal(await page.locator(".route-map-stops button").count(), 2);
+    await page.locator(".route-map .leaflet-overlay-pane path").first().waitFor();
+    await checkWidth();
     console.log(width + " px: catalog, media, route and stage GPX, published sources and access notices passed.");
   } finally {
     await context.close();
   }
 }
 
-const browser = await chromium.launch();
+const browser = await chromium.launch({ executablePath: process.env.ATLAS_CHROMIUM_EXECUTABLE });
 try {
   for (const width of [1440, 393]) await checkViewport(browser, width);
 } finally {
