@@ -1,6 +1,6 @@
 {
-  "archives": 149,
-  "archivesRead": 139,
+  "archives": 152,
+  "archivesRead": 148,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -438,7 +438,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -446,7 +446,25 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": null
+      "read": 1
+    },
+    "casa-luna-own-forest-trail": {
+      "indexed": 2,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Hotel | Casa Luna Hotel",
+          "url": "https://casalunahotel.com/es/hotel/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Casa Luna Hotel | Casa Luna Hotel",
+          "url": "https://casalunahotel.com/es/casa-luna-hotel/"
+        }
+      ],
+      "read": 2
     },
     "catalina-pcdc-tours-library": {
       "indexed": 13,
@@ -647,7 +665,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "CATURCOCHI en Pérez Zeledón, Zona Sur - Costa Rica",
           "url": "https://www.perezzeledon.cr/directorios/caturcochi/"
         }
@@ -666,8 +683,20 @@
       "read": 1
     },
     "club-rio-activity-index": {
-      "indexed": 10,
+      "indexed": 13,
       "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Hot Springs Day Pass - The Springs Resort & Spa",
+          "url": "https://www.thespringscostarica.com/day-pass/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Club Rio Adventure Center – Best Nature and Adventure Tours in Arenal",
+          "url": "https://www.thespringscostarica.com/club-rio-adventure-center/"
+        },
         {
           "checked": "2026-11-22",
           "title": "Things to Do in Arenal Costa Rica – Club Rio Outdoor Center",
@@ -709,7 +738,7 @@
           "url": "https://www.thespringscostarica.com/club-rio-adventure-center/wildlife-sanctuary/"
         }
       ],
-      "read": 9
+      "read": 12
     },
     "cocles-mya-villas-glamping-formats": {
       "indexed": 2,
@@ -923,6 +952,18 @@
       ],
       "read": 1
     },
+    "danta-doorway-own-kayak": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Kayaking Adventures in Las Catalinas | Explore Playa Danta",
+          "url": "https://www.lascatalinasdoorway.com/en/explore-the-magic-of-las-catalinas/kayaking"
+        }
+      ],
+      "read": 1
+    },
     "dino-activities": {
       "indexed": 2,
       "pages": [
@@ -1046,7 +1087,7 @@
       "read": 0
     },
     "general-raft-programs-library": {
-      "indexed": null,
+      "indexed": 4,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -1064,7 +1105,7 @@
           "url": "https://www.autenticoadventures.com/rio-general.php"
         }
       ],
-      "read": null
+      "read": 3
     },
     "gilded-surf-journal": {
       "indexed": 12,
@@ -1325,7 +1366,7 @@
       "read": 2
     },
     "ni-rivas-casaoro-maderas": {
-      "indexed": null,
+      "indexed": 2,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -1338,7 +1379,7 @@
           "url": "https://casaorogroup.com/en/experiencias/surf/"
         }
       ],
-      "read": null
+      "read": 2
     },
     "ni-rivas-sail-charter": {
       "indexed": 1,
@@ -1580,6 +1621,24 @@
         }
       ],
       "read": 10
+    },
+    "parador-monkey-trail-qva": {
+      "indexed": 2,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Resort Amenities in Manuel Antonio | Hotel Parador",
+          "url": "https://hotelparador.com/amenities/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Monkey Trail Nature Hike and Bird Watching | QVA Tours",
+          "url": "https://hotelparador.com/tours/nature-hike/"
+        }
+      ],
+      "read": 2
     },
     "pinilla-activity-index": {
       "indexed": 5,
@@ -2254,30 +2313,33 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-21",
-          "readThisRun": true,
           "title": "Surfista descubrió a un hermoso jaguar en Guanacaste",
           "url": "https://adondeircr.com/guanacaste/surfista-descubrio-a-un-hermoso-jaguar-en-guanacaste/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-21",
-          "readThisRun": true,
           "title": "Parque Nacional los Quetzales",
           "url": "https://adondeircr.com/san-jose/parque-nacional-los-quetzales-2/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-20",
-          "readThisRun": true,
           "title": "Residentes de seis estados de EE.UU. podrán ingresar vía aérea a Costa Rica",
           "url": "https://adondeircr.com/alajuela/residentes-de-seis-estados-de-ee-uu-podran-ingresar-via-aerea-a-costa-rica/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-20",
-          "readThisRun": true,
           "title": "Parque Nacional Volcán Tenorio",
           "url": "https://adondeircr.com/guanacaste/parque-nacional-volcan-tenorio/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-20",
+          "readThisRun": true,
+          "title": "Parque Nacional Volcán Barva",
+          "url": "https://adondeircr.com/heredia/parque-nacional-volcan-barva/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -2289,8 +2351,35 @@
           "checked": "2026-11-23",
           "published": "2020-08-19",
           "readThisRun": true,
+          "title": "¿Qué hacer el próximo 22 de agosto?",
+          "url": "https://adondeircr.com/puntarenas/que-hacer-el-proximo-22-de-agosto/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-19",
           "title": "Mansión abandonada en Orosí",
           "url": "https://adondeircr.com/cartago/mansion-abandonada-en-orosi/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-19",
+          "readThisRun": true,
+          "title": "COVID-19: Costa Rica registra hoy 766 casos nuevos y 7 lamentables fallecimientos",
+          "url": "https://adondeircr.com/san-jose/los-recordados-bbs-vuelven-la-marca-blackberry-hizo-el-anuncio-oficial-de-sus-nuevos-smartphones-que-mantendran-su-caracteristico-teclado-fisico-qwerty-y-soporte-para-redes-5g/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-19",
+          "readThisRun": true,
+          "title": "3 increíbles miradores del país",
+          "url": "https://adondeircr.com/cartago/3-increibles-miradores-del-pais/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-19",
+          "readThisRun": true,
+          "title": "(Vídeo) Ciclista reacciona eufórico y despedaza un autobús",
+          "url": "https://adondeircr.com/san-jose/video-ciclista-reacciona-euforico-y-despedaza-un-autobus/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2593,7 +2682,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 155
+      "read": 160
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -3101,7 +3190,7 @@
       "read": 26
     },
     "publisher-archive-diamanteecoadventurepark-com": {
-      "indexed": null,
+      "indexed": 12,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3164,7 +3253,7 @@
           "url": "https://diamanteecoadventurepark.com/blog/costa-rica-animal-bucket-list/"
         }
       ],
-      "read": null
+      "read": 12
     },
     "publisher-archive-guachipelin-com": {
       "indexed": 10,
@@ -3223,7 +3312,7 @@
       "read": 10
     },
     "publisher-archive-hacienda-orosi": {
-      "indexed": null,
+      "indexed": 6,
       "pages": [
         {
           "checked": "2026-11-22",
@@ -3258,7 +3347,7 @@
           "url": "https://haciendaorosi.com/booking/producto/coffee-tour-adventure-granja/"
         }
       ],
-      "read": null
+      "read": 6
     },
     "publisher-archive-hotelbelmar-net": {
       "indexed": 6,
@@ -3430,7 +3519,7 @@
       "read": 4
     },
     "publisher-archive-misticopark-com": {
-      "indexed": 0,
+      "indexed": 17,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3528,7 +3617,7 @@
           "url": "https://misticopark.com/tours/birding-guided-tour/"
         }
       ],
-      "read": 0
+      "read": 17
     },
     "publisher-archive-museo-exhibitions": {
       "indexed": 33,
@@ -4875,7 +4964,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "¿Vamos a Turistear a playa Muertos?",
           "url": "https://vamosaturistear.com/actividades/vamos-a-turistear-a-playa-muertos/"
         },
@@ -5021,6 +5109,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Sabana Oka y Laguna Los Corderos: aventura entre montañas y espejos de agua - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/sabana-oka-y-laguna-los-corderos-aventura-entre-montanas-y-espejos-de-agua/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Río Savegre: el más limpio de Centroamérica y Reserva de la Biosfera - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/rio-savegre-el-mas-limpio-de-centroamerica-y-reserva-de-la-biosfera/"
         },
@@ -5106,12 +5200,17 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Parques nacionales accesibles en Costa Rica: Guía completa para turismo inclusivo - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/parques-nacionales-accesibles-en-costa-rica-guia-completa-para-turismo-inclusivo/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Parque Nahomi: Quepos - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/parque-nahomi-quepos/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Nosara esconde una playa de color rosa",
           "url": "https://vamosaturistear.com/actividades/nosara-esconde-una-playa-de-color-rosa/"
         },
@@ -5162,7 +5261,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "La grandiosa Catarata San Fernando",
           "url": "https://vamosaturistear.com/actividades/la-grandiosa-catarata-san-fernando/"
         },
@@ -5223,6 +5321,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Estos son los parques nacionales que tenés que conocer en Guanacaste",
+          "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-guanacaste/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Estos son los parques nacionales que tenés que conocer en Cartago",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-cartago/"
         },
@@ -5265,6 +5369,12 @@
           "checked": "2026-11-23",
           "title": "El bosque quemado del Volcán Turrialba - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/el-bosque-quemado-del-volcan-turrialba/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "El barco instagrameable de Manzanillo",
+          "url": "https://vamosaturistear.com/actividades/el-barco-instagrameable-de-manzanillo/"
         },
         {
           "checked": "2026-11-23",
@@ -5398,7 +5508,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Bienvenidos a la Catarata Bribri",
           "url": "https://vamosaturistear.com/actividades/bienvenidos-a-la-catarata-bribri/"
         },
@@ -5416,6 +5525,12 @@
           "checked": "2026-11-23",
           "title": "9 playas escondidas para conocer este 2025 - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/9-playas-escondidas-para-conocer-este-2025/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "5 lugares para conocer en Sarchí - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/5-lugares-para-conocer-en-sarchi/"
         },
         {
           "checked": "2026-11-22",
@@ -5514,11 +5629,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Sabana Oka y Laguna Los Corderos: aventura entre montañas y espejos de agua - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/sabana-oka-y-laguna-los-corderos-aventura-entre-montanas-y-espejos-de-agua/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Río Peñas Blancas: aventura natural entre pozas y bosque nuboso - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/rio-penas-blancas-aventura-natural-entre-pozas-y-bosque-nuboso/"
         },
@@ -5564,11 +5674,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Parques nacionales accesibles en Costa Rica: Guía completa para turismo inclusivo - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/parques-nacionales-accesibles-en-costa-rica-guia-completa-para-turismo-inclusivo/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Parque del Viento: Aire fresco y vistas panorámicas desde el Cerro Tovar en Tilarán - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/parque-del-viento-aire-fresco-y-vistas-panoramicas-desde-el-cerro-tovar-en-tilaran/"
         },
@@ -5596,16 +5701,6 @@
           "checked": "2026-11-21",
           "title": "Isla Damas: aventuranatural entre manglares y canales - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/isla-damas-aventuranatural-entre-manglares-y-canales/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "Estos son los parques nacionales que tenés que conocer en Guanacaste",
-          "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-guanacaste/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "El barco instagrameable de Manzanillo",
-          "url": "https://vamosaturistear.com/actividades/el-barco-instagrameable-de-manzanillo/"
         },
         {
           "checked": "2026-11-21",
@@ -5676,11 +5771,6 @@
           "checked": "2026-11-21",
           "title": "5 lugares perfectos para parejas o amigos",
           "url": "https://vamosaturistear.com/actividades/5-lugares-perfectos-para-parejas-o-amigos/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "5 lugares para conocer en Sarchí - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/5-lugares-para-conocer-en-sarchi/"
         },
         {
           "checked": "2026-11-21",
@@ -5798,7 +5888,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Hotel Punta Islita – A Timeless Sensory Journey",
           "url": "https://www.hotelpuntaislita.com/"
         }
@@ -6028,7 +6117,6 @@
         {
           "checked": "2026-11-23",
           "published": "2024-06-28",
-          "readThisRun": true,
           "title": "Cataratas - Senderos del toro",
           "url": "https://senderosdeltoro.com/cataratas/"
         },
@@ -6204,7 +6292,7 @@
       "read": 24
     },
     "publisher-site-costa-tours": {
-      "indexed": null,
+      "indexed": 14,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6272,7 +6360,7 @@
           "url": "https://costatourscr.com/es/tour/puerto-viejo-manzanillo-y-punta-uva/"
         }
       ],
-      "read": null
+      "read": 13
     },
     "publisher-toucan-onsite-tours": {
       "indexed": 7,
@@ -7448,6 +7536,13 @@
       "url": "https://www.instagram.com/p/CD_7OHTpe8Y/"
     },
     {
+      "article": "https://adondeircr.com/puntarenas/que-hacer-el-proximo-22-de-agosto/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "¿Qué hacer el próximo 22 de agosto?",
+      "url": "https://www.instagram.com/p/CDxkgz6jDLF/"
+    },
+    {
       "article": "https://adondeircr.com/alajuela/residentes-de-seis-estados-de-ee-uu-podran-ingresar-via-aerea-a-costa-rica/?c1",
       "checked": "2026-11-23",
       "platform": "Instagram",
@@ -7707,6 +7802,13 @@
       "url": "https://www.instagram.com/p/Df0xxWjnP3p/"
     },
     {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/Df44og-gYAH/"
+    },
+    {
       "article": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/",
       "checked": "2026-11-23",
       "platform": "Instagram",
@@ -7735,6 +7837,20 @@
       "url": "https://www.instagram.com/p/DfDm8-PDu9x/"
     },
     {
+      "article": "https://casalunahotel.com/es/hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DfKiTs7CaUq/"
+    },
+    {
+      "article": "https://casalunahotel.com/es/hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DfNHHvLDSmh/"
+    },
+    {
       "article": "https://www.bosquedelmar.com/",
       "checked": "2026-11-23",
       "platform": "Instagram",
@@ -7742,11 +7858,32 @@
       "url": "https://www.instagram.com/p/DfPyMB9Cfi_/"
     },
     {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DfSQsicmIvS/"
+    },
+    {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DfXaSr6kYkf/"
+    },
+    {
       "article": "https://www.bosquedelmar.com/",
       "checked": "2026-11-23",
       "platform": "Instagram",
       "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
       "url": "https://www.instagram.com/p/DfYDfqFiS8S/"
+    },
+    {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DfanPaSRF2e/"
     },
     {
       "article": "https://www.bosquedelmar.com/",
@@ -7761,6 +7898,41 @@
       "platform": "Instagram",
       "title": "Hotel Bosque del Mar – Disfrute lo mejor de dos mundos en un solo hotel",
       "url": "https://www.instagram.com/p/DfnHP1UCT8J/"
+    },
+    {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DfpcFwlnNOu/"
+    },
+    {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DfvOod8jxlH/"
+    },
+    {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DfxKPiCDWF9/"
+    },
+    {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DgAnAEFDRPS/"
+    },
+    {
+      "article": "https://casalunahotel.com/es/casa-luna-hotel/",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Casa Luna Hotel | Casa Luna Hotel",
+      "url": "https://www.instagram.com/p/DgDL0X8jwwL/"
     },
     {
       "article": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/",
@@ -7889,8 +8061,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 51,
-  "pagesRead": 12,
-  "pagesReadToDate": 1197,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45258431458"
+  "pagesChecked": 57,
+  "pagesRead": 17,
+  "pagesReadToDate": 1209,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45274867979"
 }
