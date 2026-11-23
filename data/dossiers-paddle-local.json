@@ -356,21 +356,27 @@
     "stops": [
       {
         "point": "hule-entry",
-        "role": "Мирадор · парковка и подход",
-        "note": "Отсюда посетители обычно спускаются пешком."
+        "role": "Публичный вход по координатам ICT",
+        "note": "Сверьте знаки и разрешённую парковку. Короткий подход до поворота продолжается пешком."
+      },
+      {
+        "point": "hule-public-foot-turn",
+        "role": "Поворот на пешеходный спуск",
+        "note": "Начало линии OSM примерно в 30 м от координаты входа в путеводителе ICT."
       },
       {
         "point": "hule-shore",
-        "role": "Водоём · ориентир лагуны",
-        "note": "Указана география воды. Конкретный допущенный береговой вход подтвердите у местных."
+        "role": "Лагуна Уле · конец размеченного спуска",
+        "note": "Здесь заканчивается пешая линия. Доступ к воде согласует природоохранная администрация."
       }
     ],
     "sections": [
       {
-        "title": "Пеший подход с инвентарём",
-        "text": "Гостиница Finca 360° описывает около 6,5 км грунта в сторону Los Ángeles и опорную точку Mirador Bosque Alegre. Подход к воде идёт пешком. С доской или пакрафтом проверьте перенос, время обратного подъёма и место сборки.",
+        "title": "Подход с инвентарём",
+        "text": "Используйте опубликованную ICT точку публичного входа. От поворота до берега по карте около 970 м пешком. Со своей доской заранее уточните перенос, состояние грунта на подъёме и место сборки. Местные смотровые в районе дороги имеют отдельные входы.",
         "sources": [
-          "finca360-bosque-alegre-hule",
+          "hule-ict",
+          "hule-public-downhill-osm",
           "exploretikizia-hule-field-notes"
         ]
       },
@@ -383,117 +389,122 @@
         ]
       },
       {
-        "title": "Сочетание с прогулкой",
-        "text": "На выходные оставьте возможность ограничиться мирадором и прогулкой к берегу. У Lago Río Cuarto другой въезд и другие владельцы берега.",
+        "title": "Смотровая и пеший вариант",
+        "text": "Если ветер или доступ к воде меняет планы, оставьте пеший спуск в сухих условиях либо визит на Tinamú. Прежний автомобильный въезд к соседнему озеру Рио-Куарто закрыт. Для Уле действуют правила собственного заказника.",
         "sources": [
-          "exploretikizia-hule-field-notes",
-          "finca360-bosque-alegre-hule",
-          "finca360-rio-cuarto-lake"
+          "hule-tinamu-owner-listing",
+          "hule-ict",
+          "rio-cuarto-repretel-closed-gate"
         ]
       }
     ],
     "contacts": [
       {
-        "name": "Finca 360° · местная информация и размещение",
-        "source": "finca360-rio-cuarto-lake",
-        "note": "Уточните действующий береговой вход, спуск со своей доской или каяком, наличие проката и условия на день.",
-        "phone": "+1 979 219 2868",
-        "url": "https://finca360cr.com/es/actividades/laguna-de-rio-cuarto-es/"
+        "name": "SINAC · Arenal Huetar Norte",
+        "source": "rio-cuarto-acahn-contact",
+        "note": "Уточните открытие тропы, условия посещения заказника, свой каяк и режим выхода на воду.",
+        "url": "https://sinac.go.cr/ES/contactenos/Paginas/default.aspx",
+        "phone": "+506 2460 0055",
+        "email": "acahn.info@sinac.go.cr"
+      },
+      {
+        "name": "Mirador Tinamú · кемпинг и кабанья",
+        "source": "hule-tinamu-owner-listing",
+        "note": "Ночёвка, фактический въезд, подход к кафе, душ, условия для детей и способ парковки.",
+        "url": "https://wa.me/50686419203",
+        "phone": "+506 8641 9203",
+        "email": "miradortinamu@gmail.com"
       }
     ],
     "nearby": [
       "laguna-hule-trail",
-      "laguna-rio-cuarto-paddle"
-    ]
+      "laguna-hule-tinamu-view-camp",
+      "laguna-rio-cuarto-paddle",
+      "rio-cuarto-hule-2"
+    ],
+    "line": "hule-public-downhill",
+    "track": "hule-ict",
+    "connectStops": false
   },
   "laguna-rio-cuarto-paddle": {
     "stops": [
       {
         "point": "laguna-rio-cuarto-lake-center",
-        "role": "Озеро · географический ориентир",
-        "note": "Точка в центре воды. Актуальный береговой спуск указывает хозяин частного входа."
+        "role": "Кратерное озеро · географический ориентир",
+        "note": "Точка в центре воды. Используйте её для общего обзора местности."
       },
       {
         "point": "rio-cuarto-lake-approach-orientation",
-        "role": "Восточный берег · ориентир по карте Finca 360°",
-        "note": "Местный доступ и плату уточните до выезда."
-      },
-      {
-        "point": "finca360-venecia-location",
-        "role": "Венесия · Finca 360° и местная информация",
-        "note": "Точка гостиницы. Инструкции по посещению водоёма приведены у оператора."
-      },
-      {
-        "point": "rio-cuarto-goout-published-location",
-        "role": "База и зона выхода на воду",
-        "note": "Координаты опубликовал Go Out Tours. Въезд к самой базе уточните у команды."
+        "role": "Восточный берег · архивный ориентир из путеводителя",
+        "note": "Пин оставлен для чтения старых материалов. Действующий вход подтверждает муниципалитет."
       }
     ],
     "sections": [
       {
-        "title": "Вход с берега",
-        "text": "Полевое исследование TEC описывает доступ через частную территорию с платой. Подтвердите, какой въезд открыт, часы, условия парковки и допустимость своего каяка или SUP. По опубликованной карточке Finca 360° у самого озера не следует рассчитывать на душевые.",
+        "title": "Что изменилось в сентябре 2026",
+        "text": "Ассоциация сообщила о прекращении работы после распоряжения SINAC о демонтаже. В сообщении перечислены вода, туалеты и плавучий причал. Repretel приводит дату закрытия прежнего шлагбаума. На дату сверки подтверждение нового оборудованного входа отсутствовало.",
         "sources": [
-          "tec-rio-cuarto-private-lake-access",
-          "finca360-rio-cuarto-lake",
-          "fiebre-viajar-rio-cuarto-first-hand"
+          "rio-cuarto-adi-services-stopped",
+          "rio-cuarto-repretel-closed-gate",
+          "rio-cuarto-lake-change-local"
         ]
       },
       {
-        "title": "План на полдня",
-        "text": "До приезда договоритесь о береговом входе. Если хозяева подтверждают катание, спросите про жилет, спокойную сторону, время возвращения и возможности короткой прогулки. На воде ориентируйтесь по фактической погоде.",
+        "title": "Уточнение у муниципалитета и SINAC",
+        "text": "Перед выездом получите актуальные условия разрешённого пешего доступа и парковки. Для SUP и каяка уточните, действует ли разрешённый береговой спуск и кто за него отвечает. Старые цены, точки проката и видео относятся к прежним визитам.",
         "sources": [
-          "finca360-rio-cuarto-lake",
-          "fiebre-viajar-rio-cuarto-first-hand"
-        ]
-      },
-      {
-        "title": "Разница между озёрами",
-        "text": "Эта карточка относится к Laguna Río Cuarto. Заповедник Bosque Alegre и Laguna Hule находятся отдельно, туда ведёт другая дорога. Для обоих выездов проверяйте открытие.",
-        "sources": [
-          "mapcarta-laguna-rio-cuarto",
-          "hule-ict",
-          "finca360-bosque-alegre-hule"
-        ]
-      },
-      {
-        "title": "Каяк, жилет и тень у берега",
-        "text": "Go Out Tours публикует варианты каяка примерно на час и отдельные тенты для дневного отдыха. Уточните подходящий жилет по весу ребёнка, наличие SUP, допуск собственной лодки и конкретную точку выхода. В роликах можно рассмотреть подход и берег в условиях тех визитов.",
-        "sources": [
-          "rio-cuarto-goout-catalog",
-          "rio-cuarto-goout-contact",
+          "rio-cuarto-municipality-contact",
+          "rio-cuarto-acahn-contact",
           "rio-cuarto-kayak-field-film",
           "rio-cuarto-road-launch-film"
+        ]
+      },
+      {
+        "title": "Наземный вариант поблизости",
+        "text": "Для планирования смотрите отдельную карточку прогулки к Уле через публичный вход или пеший день у водопадов Манантьялес. У этих мест свои подъезды и режим работы.",
+        "sources": [
+          "hule-ict",
+          "manantiales-vamos-waterfalls",
+          "hule-tinamu-owner-listing"
         ]
       }
     ],
     "contacts": [
       {
-        "name": "Finca 360° · местная информация и размещение",
-        "source": "finca360-rio-cuarto-lake",
-        "note": "Уточните действующий береговой вход, спуск со своей доской или каяком, наличие проката и условия на день.",
-        "phone": "+1 979 219 2868",
-        "url": "https://finca360cr.com/es/actividades/laguna-de-rio-cuarto-es/"
+        "name": "Муниципалитет Рио-Куарто",
+        "source": "rio-cuarto-municipality-contact",
+        "note": "Законный береговой подход, состояние дороги, альтернативные стоянки и действующие правила на месте.",
+        "url": "https://www.muniriocuarto.go.cr/contactus",
+        "phone": "+506 4000 1600",
+        "email": "consultas@muniriocuarto.go.cr"
       },
       {
-        "name": "Go Out Tours · квадроциклы и каяки",
-        "source": "rio-cuarto-goout-contact",
-        "note": "Запросите место старта, проезд к парковке, возраст и размеры экипировки. Для выхода только на воду попросите программу проката.",
-        "phone": "+506 8848 9087",
-        "whatsapp": "https://wa.me/50688489087",
-        "email": "info@goouttours.com",
-        "url": "https://goouttours.com/services"
+        "name": "SINAC · Arenal Huetar Norte",
+        "source": "rio-cuarto-acahn-contact",
+        "note": "Уточните открытие тропы, условия посещения заказника, свой каяк и режим выхода на воду.",
+        "url": "https://sinac.go.cr/ES/contactenos/Paginas/default.aspx",
+        "phone": "+506 2460 0055",
+        "email": "acahn.info@sinac.go.cr"
       }
     ],
     "nearby": [
-      "laguna-hule-paddle-visit",
       "laguna-hule-trail",
-      "pozo-azul-toro-falls",
-      "pozo-azul-toro-camp",
+      "laguna-hule-tinamu-view-camp",
+      "rio-cuarto-manantiales-falls-35",
+      "rio-cuarto-manantiales-camp",
       "rio-cuarto-goout-atv-kayak",
-      "venecia-finca360-lodge",
       "rio-cuarto-hule-2"
-    ]
+    ],
+    "accessNotice": {
+      "title": "Прежний автомобильный въезд закрыт",
+      "text": "С 28 сентября 2026 года ассоциация прекратила обслуживание прежнего входа. Автомобильный шлагбаум закрыт. Разрешённый подход, парковку и условия для своей лодки уточняйте в муниципалитете.",
+      "sources": [
+        "rio-cuarto-adi-services-stopped",
+        "rio-cuarto-repretel-closed-gate",
+        "rio-cuarto-municipality-contact"
+      ]
+    },
+    "connectStops": false
   },
   "savegre-abajo-family-14": {
     "stops": [

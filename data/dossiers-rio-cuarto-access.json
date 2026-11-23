@@ -1,0 +1,252 @@
+{
+  "rio-cuarto-manantiales-falls-35": {
+    "stops": [
+      {
+        "point": "manantiales-upper-parking",
+        "role": "Парковка у кассы и ресторана",
+        "note": "Карта и Waze сходятся в районе парковки. Режим последних метров грунта и ворота проверьте у хозяев."
+      },
+      {
+        "point": "manantiales-farm-restaurant",
+        "role": "Ресторан и согласование маршрута",
+        "note": "Попросите схему открытых веток, время последнего возврата и вариант для младших детей."
+      },
+      {
+        "point": "manantiales-forest-junction",
+        "role": "Развилка нанесённого участка спуска",
+        "note": "Продолжение к каскадам выбирают по указателям на месте и открытому авторскому треку."
+      },
+      {
+        "point": "manantiales-toro-waterfalls-area",
+        "role": "Каскады в каньоне · ориентир",
+        "note": "Точка природного объекта. Идите только по открытой тропе и избегайте выхода на мокрые скалы."
+      }
+    ],
+    "track": "manantiales-35-hike-track",
+    "line": "manantiales-marked-descent",
+    "sections": [
+      {
+        "title": "Короткий и полный варианты",
+        "text": "ICT публикует основной маршрут около 2,5 км и короткий выход к смотровой. На треке Vinicio Aguilar 3,5 км и 205 м набора. Трек Víctor Quirós показывает 2,39 км и 190 м набора. Выберите открытую ветку по условиям фермы. Для семьи заложите 2–3 часа с остановками.",
+        "sources": [
+          "manantiales-vamos-waterfalls",
+          "manantiales-35-hike-track",
+          "manantiales-short-hike-track"
+        ]
+      },
+      {
+        "title": "Рельеф и дождливый день",
+        "text": "В полевых отчётах встречаются подвесной мостик, винтовая лестница и камни у русла. После дождя уточните, не закрыт ли нижний участок. Для ребёнка и любой группы с чувствительностью к высоте подойдёт визит на верхнюю смотровую, если открыт её подход.",
+        "sources": [
+          "manantiales-qbl-visit",
+          "manantiales-vamos-waterfalls",
+          "manantiales-sitios-ticos-day"
+        ]
+      },
+      {
+        "title": "Карта и снаряжение",
+        "text": "Линия на карте показывает 275 м тропы по данным OpenStreetMap от верхней парковки. У автора на Wikiloc есть исходный трек на 3,5 км и снимки ориентиров. Возьмите обувь с протектором, питьевую воду, дождевик и сменную одежду. В каньоне смотрите отметки уровня воды и указатели хозяев.",
+        "sources": [
+          "manantiales-downhill-osm",
+          "manantiales-35-hike-track",
+          "manantiales-parking-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Paraíso de Manantiales · хозяева фермы",
+        "source": "manantiales-vamos-waterfalls",
+        "note": "Часы, открытые каскады, место парковки, цена, ночёвка и точный пин ворот.",
+        "url": "https://wa.me/50686513422",
+        "phone": "+506 8651 3422"
+      },
+      {
+        "name": "Sitios Ticos · поход с трансфером",
+        "source": "manantiales-sitios-ticos-day",
+        "note": "Спросите про даты, трансфер из GAM, сложность для детей и сокращённый вариант тропы.",
+        "url": "https://sitiosticos.cr/tours/paraiso-de-manantiales",
+        "phone": "+506 8871 3401",
+        "email": "info@sitiosticos.cr"
+      }
+    ],
+    "galleries": [
+      "manantiales-vamos-waterfalls",
+      "manantiales-qbl-visit",
+      "manantiales-35-hike-track"
+    ],
+    "videos": [
+      "manantiales-canyon-video",
+      "manantiales-rebecca-trail-video"
+    ],
+    "nearby": [
+      "rio-cuarto-manantiales-camp",
+      "pozo-azul-toro-falls",
+      "laguna-hule-trail",
+      "rio-cuarto-hule-2"
+    ],
+    "connectStops": false
+  },
+  "rio-cuarto-manantiales-camp": {
+    "stops": [
+      {
+        "point": "manantiales-upper-parking",
+        "role": "Парковка у кассы и ресторана",
+        "note": "Карта и Waze сходятся в районе парковки. Режим последних метров грунта и ворота проверьте у хозяев."
+      },
+      {
+        "point": "manantiales-farm-restaurant",
+        "role": "Ресторан и согласование маршрута",
+        "note": "Попросите схему открытых веток, время последнего возврата и вариант для младших детей."
+      },
+      {
+        "point": "colonia-del-toro-708",
+        "role": "Посёлок · начало автомобильной геометрии",
+        "note": "Маркер лежит на Ruta 708. Финальный подъезд к ферме подтвердите у хозяев."
+      }
+    ],
+    "track": "manantiales-parking-osm",
+    "sections": [
+      {
+        "title": "Одна ночь у частной фермы",
+        "text": "Местный репортаж описывает кемпинг, видовые площадки и ресторан. Видео также показывает домики и зону парковки. Запросите фотографию участка на вашу дату, цену за всех гостей, режим ворот, место для палатки и условия работы кухни.",
+        "sources": [
+          "manantiales-lateja-rural",
+          "manantiales-canyon-video",
+          "manantiales-vamos-waterfalls"
+        ]
+      },
+      {
+        "title": "Подъезд и палатка на машине",
+        "text": "Подъезжайте по Ruta 708 и заранее сохраните отметку парковки. После дождя спросите про грунт у ворот и возможность заехать на вашей машине. Для крышной палатки согласуйте высоту въезда, ровную площадку, место лестницы и тип стоянки. Возьмите налобный фонарь и слой от дождя.",
+        "sources": [
+          "manantiales-vamos-waterfalls",
+          "manantiales-parking-osm",
+          "manantiales-qbl-visit"
+        ]
+      },
+      {
+        "title": "День с детьми и запасной план",
+        "text": "Приедьте засветло, получите инструкции по участку и попробуйте короткий выход к мирадору. Крутой каньон оставьте на сухой день. Изучите место установки палатки, есть ли питьевая вода и как попасть к туалету вечером. Костровое место и горелку согласуйте с хозяевами.",
+        "sources": [
+          "manantiales-vamos-waterfalls",
+          "manantiales-lateja-rural",
+          "manantiales-qbl-visit"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Paraíso de Manantiales · хозяева фермы",
+        "source": "manantiales-vamos-waterfalls",
+        "note": "Часы, открытые каскады, место парковки, цена, ночёвка и точный пин ворот.",
+        "url": "https://wa.me/50686513422",
+        "phone": "+506 8651 3422"
+      }
+    ],
+    "galleries": [
+      "manantiales-vamos-waterfalls",
+      "manantiales-qbl-visit",
+      "manantiales-lateja-rural"
+    ],
+    "videos": [
+      "manantiales-canyon-video",
+      "manantiales-rebecca-trail-video"
+    ],
+    "nearby": [
+      "rio-cuarto-manantiales-falls-35",
+      "rio-cuarto-hule-2",
+      "laguna-hule-tinamu-view-camp",
+      "pozo-azul-toro-camp"
+    ],
+    "connectStops": false
+  },
+  "laguna-hule-tinamu-view-camp": {
+    "stops": [
+      {
+        "point": "hule-tinamu-mirador",
+        "role": "Tinamú · кафе и место ночёвки",
+        "note": "Площадка на склоне у Calle Laguna. Ночёвку и ворота подтверждают хозяева."
+      },
+      {
+        "point": "colonia-del-toro-708",
+        "role": "Посёлок · начало автомобильной геометрии",
+        "note": "Маркер лежит на Ruta 708. Финальный подъезд к ферме подтвердите у хозяев."
+      },
+      {
+        "point": "hule-entry",
+        "role": "Публичный вход по координатам ICT",
+        "note": "Сверьте знаки и разрешённую парковку. Короткий подход до поворота продолжается пешком."
+      }
+    ],
+    "track": "hule-tinamu-location-osm",
+    "line": "colonia-tinamu-drive",
+    "sections": [
+      {
+        "title": "Кафе, кемпинг и кабанья",
+        "text": "Карточка Tinamú указывает смотровую, кабанью, кемпинг, душ, туалет и парковку. Запросите условия для своего состава и фотографию поляны, если важен вид на озеро. Уточните работу кухни и время вечернего возвращения.",
+        "sources": [
+          "hule-tinamu-owner-listing",
+          "hule-tinamu-local-report",
+          "hule-tinamu-area-video"
+        ]
+      },
+      {
+        "title": "Подъезд и переход к Уле",
+        "text": "Расчёт от Колонии-дель-Торо до Tinamú — 8,82 км. Подход ICT находится выше по дороге. Спуск проходит через лес пешком. Для ребёнка или маломобильного гостя сначала спросите, где можно выйти у кафе и далеко ли парковка от столика.",
+        "sources": [
+          "colonia-hule-tinamu-car",
+          "hule-ict",
+          "hule-tinamu-location-osm",
+          "hule-public-downhill-osm"
+        ]
+      },
+      {
+        "title": "Ночь с видом",
+        "text": "Возьмите тёплый слой, воду, непромокаемый тент и фонарь. Спросите, где можно припарковаться и разложить снаряжение, можно ли ночевать с крышной палаткой и есть ли согласованное место для приготовления пищи. Прокат и доступ к самому озеру сверяйте отдельно у SINAC.",
+        "sources": [
+          "hule-tinamu-owner-listing",
+          "rio-cuarto-acahn-contact",
+          "hule-plan"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Mirador Tinamú · кемпинг и кабанья",
+        "source": "hule-tinamu-owner-listing",
+        "note": "Ночёвка, фактический въезд, подход к кафе, душ, условия для детей и способ парковки.",
+        "url": "https://wa.me/50686419203",
+        "phone": "+506 8641 9203",
+        "email": "miradortinamu@gmail.com"
+      },
+      {
+        "name": "SINAC · Arenal Huetar Norte",
+        "source": "rio-cuarto-acahn-contact",
+        "note": "Уточните открытие тропы, условия посещения заказника, свой каяк и режим выхода на воду.",
+        "url": "https://sinac.go.cr/ES/contactenos/Paginas/default.aspx",
+        "phone": "+506 2460 0055",
+        "email": "acahn.info@sinac.go.cr"
+      }
+    ],
+    "galleries": [
+      "hule-tinamu-owner-listing",
+      "hule-tinamu-local-report"
+    ],
+    "photos": [
+      "atlas-hule-crater"
+    ],
+    "videos": [
+      "hule-tinamu-area-video",
+      "hule-congo-field-film"
+    ],
+    "nearby": [
+      "laguna-hule-trail",
+      "laguna-hule-paddle-visit",
+      "rio-cuarto-manantiales-falls-35",
+      "rio-cuarto-manantiales-camp",
+      "rio-cuarto-hule-2"
+    ],
+    "connectStops": false
+  }
+}

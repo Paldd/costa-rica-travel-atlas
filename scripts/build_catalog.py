@@ -265,6 +265,7 @@ def report_sources(record, sources_by_id):
     references = [
         *record["sources"],
         *dossier.get("galleries", []),
+        *dossier.get("accessNotice", {}).get("sources", []),
         *(ref for section in dossier.get("sections", []) for ref in section["sources"]),
         *(ref for stage in record.get("stages", []) for ref in stage.get("sources", [])),
     ]
@@ -384,6 +385,11 @@ def main():
         for key, dossier in json.loads(path.read_text()).items():
             if key in dossiers:
                 raise ValueError(f"Duplicate dossier for {key}")
+            if "accessNotice" in dossier:
+                access = dossier["accessNotice"]
+                if not (access["title"].strip() and access["text"].strip() and access["sources"]
+                        and all(ref in sources_by_id for ref in access["sources"])):
+                    raise ValueError(f"Invalid access notice for {key}")
             for field, refs in media_edits.get(key, {}).items():
                 if field not in {"photos", "videos", "galleries"} or not isinstance(refs, list):
                     raise ValueError(f"Invalid media field for {key}: {field}")

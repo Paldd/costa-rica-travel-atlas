@@ -101,7 +101,8 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
       <button type="button" className="button secondary" onClick={() => {
         const suffix = activeStage ? `-${activeStage.id}` : "";
         downloadGpx(`${record.id}${suffix}.gpx`, exportTitle,
-          [{ title: exportTitle, line: exportLine, stops: visibleStops.map(({ stop }) => stop) }], { lines, sources });
+          [{ title: exportTitle, line: exportLine, stops: visibleStops.map(({ stop }) => stop),
+            accessNote: record.dossier.accessNotice?.title }], { lines, sources });
       }}><Download size={16} aria-hidden="true" /> {hasTracks ? "Скачать GPX" : "Скачать точки GPX"}</button>
     </div>
     {stages.length > 0 && <div className="route-map-stage">

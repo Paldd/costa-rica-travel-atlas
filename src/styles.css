@@ -138,6 +138,10 @@ h2 { font-size: clamp(1.75rem, 3vw, 3rem); }
 .card-meta span { display: inline-flex; align-items: center; gap: 4px; }
 .card-meta svg { color: var(--warm); flex-shrink: 0; }
 .card-body p { line-height: 1.48; font-size: .94rem; }
+.access-notice { display: flex; align-items: flex-start; gap: 9px; margin-top: 12px; padding: 11px 13px; border: 1px solid #e5cfa4; border-radius: 8px; color: #6a421b; background: #fff4df; }
+.access-notice svg { flex: none; margin-top: 2px; }
+.access-notice p { margin-top: 4px; font-size: .9rem; }
+.access-notice-compact { padding: 6px 9px; font-size: .8rem; }
 .card-media-meta { display: flex; flex-wrap: wrap; gap: 5px 12px; margin-top: 11px; padding-top: 8px; border-top: 1px solid var(--border); color: var(--muted); font-size: .74rem; }
 .card-media-meta span { display: inline-flex; align-items: center; gap: 4px; }
 .card-media-meta svg { flex: none; color: var(--forest); }

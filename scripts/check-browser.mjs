@@ -201,8 +201,45 @@ async function checkViewport(browser, width) {
     await localMap.locator('a[href="' + localTrack + '"]').waitFor();
     await page.getByRole("list", { name: "Галереи и фотоотчёты" }).getByRole("link", { name: /Senderos de Colón/ }).waitFor();
     await checkWidth();
+    const exportText = async button => {
+      const saving = page.waitForEvent("download");
+      await button.click();
+      return readFile(await (await saving).path(), "utf8");
+    };
+    const lake = records.get("laguna-rio-cuarto-paddle");
+    const notice = lake.dossier.accessNotice;
+    const noticeUrl = atlas.sources[notice.sources[0]].url;
+    await open("catalog?q=Laguna+R%C3%ADo+Cuarto");
+    const lakeCard = page.locator(".route-card").filter({ has: page.getByRole("link", { name: lake.title, exact: true }) });
+    await lakeCard.locator(".access-notice").getByText(notice.title, { exact: true }).waitFor();
+    await lakeCard.getByRole("link", { name: lake.title, exact: true }).click();
+    await heading(lake);
+    await page.locator(`.access-notice a[href="${noticeUrl}"]`).waitFor();
+    await page.getByRole("button", { name: "Добавить в поездку" }).click();
+    await page.getByRole("button", { name: "Открыть поездку" }).click();
+    await page.locator(".trip-stop .access-notice").getByText(notice.title, { exact: true }).waitFor();
+    const tripHtml = await exportText(page.getByRole("button", { name: "Скачать план" }));
+    assert(tripHtml.includes(notice.text) && tripHtml.includes(noticeUrl));
+    const tripGpx = await exportText(page.getByRole("button", { name: "Скачать GPX поездки" }));
+    assert(tripGpx.includes(notice.title));
+    await checkWidth();
+
+    const huleWeekend = records.get("rio-cuarto-hule-2");
+    await open("place/" + huleWeekend.id);
+    await heading(huleWeekend);
+    const huleMap = page.getByRole("region", { name: "Карта маршрута" });
+    const stageSelect = huleMap.getByLabel("Участок на карте");
+    const exportHule = huleMap.getByRole("button", { name: "Скачать GPX", exact: true });
+    assert.equal((await exportText(exportHule)).match(/<trkseg>/g)?.length, 4);
+    await stageSelect.selectOption("hule-public-downhill");
+    const huleGpx = await exportText(exportHule);
+    assert.equal(huleGpx.match(/<trkseg>/g)?.length, 1);
+    assert.equal(huleGpx.match(/<trkpt /g)?.length, atlas.lines["hule-public-downhill"].coords.length);
+    assert.equal(huleGpx.match(/<wpt /g)?.length, 2);
+    await checkWidth();
+
     assert.deepEqual(errors, []);
-    console.log(width + " px: catalog filters, credited photo, map, GPX, video, trip and publisher pages passed.");
+    console.log(width + " px: catalog, media, route and stage GPX, published sources and access notices passed.");
   } finally {
     await context.close();
   }

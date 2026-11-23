@@ -3,17 +3,19 @@
     "id": "rio-cuarto-hule-2",
     "kind": "trip",
     "region": "north",
-    "title": "Два дня у кратерных озёр · Рио-Куарто, ночлег в Венесии и пешком к Уле",
-    "native": "Laguna Río Cuarto · Finca 360° · Refugio Bosque Alegre · Laguna Hule",
+    "title": "Манантьялес и Уле · два дня с кемпингом или ночлегом в Венесии",
+    "native": "Cataratas Paraíso de Manantiales · Colonia del Toro · Finca 360° · Laguna Hule · Tinamú",
     "level": "moderate",
     "days": 2,
     "activities": [
-      "kayak",
       "hiking",
       "lake",
       "forest",
       "views",
-      "multi"
+      "multi",
+      "waterfall",
+      "camping",
+      "cafe"
     ],
     "audience": [
       "family-mid",
@@ -29,51 +31,52 @@
       "confirm"
     ],
     "sleep": [
+      "tent",
       "lodge"
     ],
     "sources": [
-      "rio-cuarto-goout-contact",
-      "rio-cuarto-goout-catalog",
+      "manantiales-vamos-waterfalls",
+      "manantiales-lateja-rural",
       "finca360-venecia-contact",
       "hule-ict",
-      "hule-plan",
-      "rio-cuarto-finca-car-map",
-      "finca-hule-car-map"
+      "hule-tinamu-owner-listing",
+      "manantiales-colonia-venecia-car",
+      "finca-hule-car-map",
+      "hule-public-downhill-osm"
     ],
-    "summary": "Выходные в Алахуэле с каяком на Рио-Куарто, ночёвкой у Венесии и спуском к озеру Уле. Для тех, кто хочет больше леса, есть отдельный отворот к Конго.",
-    "plan": "В первый день проведите время на Рио-Куарто и переезжайте в Венесию. На второй выезжайте к публичному входу в Bosque Alegre и идите к Уле пешком.",
-    "conditions": "Подтвердите размер детского жилета и частный подъезд к Рио-Куарто. На Уле учитывайте спуск и обратный подъём по мокрой почве. При плохой погоде сократите день до наземных посещений и уточните у хозяев проезд.",
+    "summary": "Два дня среди каскадов и леса. Смотровая Манантьялес или спуск в каньон, ночь на ферме либо в Венесии и прогулка к озеру Уле.",
+    "plan": "В первый день посетите Манантьялес. Выберите кемпинг у фермы или поездку в Венесию. Утром второго дня идите к Уле от публичного входа, затем при желании остановитесь в Tinamú.",
+    "conditions": "Детям и гостям с боязнью высоты подходит верхняя смотровая Манантьялес. Уле оставьте на день с доступной тропой. После дождя спросите про оба подъезда, грязь и время возвращения.",
     "distance": null,
     "stages": [
       {
         "day": 1,
-        "title": "Каяк на Рио-Куарто и ночлег в Венесии",
-        "note": "Проведите утро у лагуны. К часу гребли можно добавить пикник или заказать отдельную программу на ATV. Во второй половине дня переезжайте к гостинице.",
+        "title": "Водопады Манантьялес и ночёвка",
+        "note": "Начните с кассы фермы. При открытом спуске оставьте 2–3 часа на прогулку. На ночь оставайтесь с наземной палаткой по согласованию или езжайте в Finca 360°.",
         "stops": [
-          "laguna-rio-cuarto-paddle",
-          "rio-cuarto-goout-atv-kayak",
+          "rio-cuarto-manantiales-falls-35",
+          "rio-cuarto-manantiales-camp",
           "venecia-finca360-lodge"
         ],
         "sources": [
-          "rio-cuarto-goout-catalog",
-          "rio-cuarto-goout-atv",
-          "finca360-venecia-contact",
-          "rio-cuarto-finca-car-map"
+          "manantiales-vamos-waterfalls",
+          "manantiales-lateja-rural",
+          "manantiales-colonia-venecia-car"
         ]
       },
       {
         "day": 2,
-        "title": "Уле и лес заказника Bosque Alegre",
-        "note": "Доедьте до опубликованного ICT входа. Для короткой прогулки спуститесь к Уле и вернитесь тем же путём. Более длинный отворот к Конго оставьте на открытый и сухой день.",
+        "title": "Пешком к Уле и смотровая Tinamú",
+        "note": "От публичного входа идите к повороту и спускайтесь к лагуне. После возвращения можно пообедать в Tinamú. Более длинную ветку к Конго подтвердите на месте.",
         "stops": [
           "laguna-hule-trail",
-          "laguna-hule-paddle-visit"
+          "laguna-hule-tinamu-view-camp"
         ],
         "sources": [
           "hule-ict",
           "hule-plan",
-          "finca-hule-car-map",
-          "hule-congo-field-film"
+          "hule-public-downhill-osm",
+          "colonia-hule-tinamu-car"
         ]
       }
     ]

@@ -4,6 +4,7 @@ import { appendTripDay, dateForDay } from "./tripPlans.js";
 import { durationLabel } from "./catalog.js";
 import { downloadFile, escapeMarkup as escapeHtml } from "./downloads.js";
 import { downloadGpx } from "./gpx.js";
+import AccessNotice from "./AccessNotice.jsx";
 const cardUrl = id => new URL("#place/" + encodeURIComponent(id), window.location.href).href;
 
 function renderStop(record, sources, visited = false) {
@@ -24,9 +25,16 @@ function renderStop(record, sources, visited = false) {
   const preparation = (record.dossier?.sections || [])
     .filter(section => /снаряж|экипиров|подготов|документ|что взят|вещи/i.test(section.title))
     .map(section => "<h4>" + escapeHtml(section.title) + "</h4><p>" + escapeHtml(section.text) + "</p>").join("");
+  const access = record.dossier?.accessNotice;
+  const accessSources = access?.sources.map(id => {
+    const source = sources[id];
+    return '<li><a href="' + escapeHtml(source.url) + '">' + escapeHtml(source.title) + "</a></li>";
+  }).join("");
   return '<article><h3><a href="' + escapeHtml(cardUrl(record.id)) + '">' + escapeHtml(record.title)
     + "</a></h3><p>" + escapeHtml(durationLabel(record.days))
     + (record.distance ? " · " + escapeHtml(record.distance) + " км" : "") + (visited ? " · Посещено" : "") + "</p>"
+    + (access ? "<h4>" + escapeHtml(access.title) + "</h4><p>" + escapeHtml(access.text)
+      + "</p><ul>" + accessSources + "</ul>" : "")
     + "<p>" + escapeHtml(record.plan) + "</p><p>" + escapeHtml(record.conditions) + "</p>"
     + (points ? "<h4>Точки и координаты</h4><ul>" + points + "</ul>" : "")
     + (contacts ? "<h4>Контакты</h4><ul>" + contacts + "</ul>" : "")
@@ -74,6 +82,7 @@ export default function TripPlanner({ atlas, plans, create, select, edit, remove
   if (trip.sourceId) navigation.unshift({ record: records.get(trip.sourceId), prefix: "Основа поездки" });
   const routes = navigation.filter(({ record }) => record?.dossier?.stops.length).map(({ record, prefix }) => ({
     title: record.title, stops: record.dossier.stops, line: atlas.lines[record.dossier.line], prefix,
+    accessNote: record.dossier.accessNotice?.title,
   }));
 
   const change = transform => edit(trip.id, transform);
@@ -164,6 +173,7 @@ export default function TripPlanner({ atlas, plans, create, select, edit, remove
               <div className="trip-stop">
                 {record ? <a href={linkTo(record.id)}>{title}</a> : <span>{title}</span>}
                 {pin && <small><MapPin size={14} aria-hidden="true" /> {pin.name}</small>}
+                <AccessNotice notice={record?.dossier?.accessNotice} />
               </div>
               <div className="trip-entry-actions">
                 <label className="trip-visited">

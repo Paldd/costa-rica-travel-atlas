@@ -619,22 +619,28 @@
     "stops": [
       {
         "point": "hule-entry",
-        "role": "Официальный вход",
-        "note": "Координаты опубликованы ICT. От входа примерно километр к воде."
+        "role": "Публичный вход по координатам ICT",
+        "note": "Сверьте знаки и разрешённую парковку. Короткий подход до поворота продолжается пешком."
+      },
+      {
+        "point": "hule-public-foot-turn",
+        "role": "Поворот на пешеходный спуск",
+        "note": "Начало линии OSM примерно в 30 м от координаты входа в путеводителе ICT."
       },
       {
         "point": "hule-shore",
-        "role": "Ориентир у лагуны",
-        "note": "Условия гребли проверяйте в природоохранной администрации."
+        "role": "Лагуна Уле · конец размеченного спуска",
+        "note": "Здесь заканчивается пешая линия. Доступ к воде согласует природоохранная администрация."
       }
     ],
     "track": "hule-ict",
     "sections": [
       {
-        "title": "Тропа и местный день",
-        "text": "По дороге из Cariblanco ищите официальный публичный вход, который ICT отличает от частных подъездов у Mirador. Сухой вариант — поход к воде, пикник у разрешённой площадки и обзорная точка.",
+        "title": "От официального входа до берега",
+        "text": "Пешая линия начинается у поворота, примерно в 30 м от пина ICT, и спускается к лагуне. По OpenStreetMap 967 м в одну сторону. Оставьте 30–50 минут на спуск и 40–65 минут на подъём с детьми и паузами. После дождя проверьте грунт и действующие указатели.",
         "sources": [
           "hule-ict",
+          "hule-public-downhill-osm",
           "hule-plan"
         ]
       },
@@ -650,16 +656,31 @@
     ],
     "contacts": [
       {
-        "name": "SINAC · Área de Conservación Cordillera Volcánica Central",
-        "source": "hule-plan",
-        "note": "Действующие правила входа на Laguna Hule, лагеря и доступа своего оборудования."
+        "name": "SINAC · Arenal Huetar Norte",
+        "source": "rio-cuarto-acahn-contact",
+        "note": "Уточните открытие тропы, условия посещения заказника, свой каяк и режим выхода на воду.",
+        "url": "https://sinac.go.cr/ES/contactenos/Paginas/default.aspx",
+        "phone": "+506 2460 0055",
+        "email": "acahn.info@sinac.go.cr"
+      },
+      {
+        "name": "Mirador Tinamú · кемпинг и кабанья",
+        "source": "hule-tinamu-owner-listing",
+        "note": "Ночёвка, фактический въезд, подход к кафе, душ, условия для детей и способ парковки.",
+        "url": "https://wa.me/50686419203",
+        "phone": "+506 8641 9203",
+        "email": "miradortinamu@gmail.com"
       }
     ],
     "nearby": [
       "arenal-paddle",
       "laguna-hule-paddle-visit",
-      "laguna-rio-cuarto-paddle"
-    ]
+      "laguna-rio-cuarto-paddle",
+      "laguna-hule-tinamu-view-camp",
+      "rio-cuarto-manantiales-falls-35"
+    ],
+    "line": "hule-public-downhill",
+    "connectStops": false
   },
   "catalinas-sup": {
     "stops": [

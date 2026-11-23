@@ -967,7 +967,6 @@ wildcamp-la-forestal-road-end	Calle La Forestal · дорожная отметк
 pura-vista-calle-pavones-road	Calle Pavones · дорожная отметка у Pura Vista	10.116222	-84.72929	source-3f1-miramar-pavones-road
 finca-san-rafael-toro-road-pin	Finca San Rafael · опубликованный ориентир въезда	10.2648139	-84.2639139	san-rafael-author-waze
 rio-cuarto-goout-published-location	Go Out Tours · координаты организатора у Laguna Río Cuarto	10.356062	-84.217705	rio-cuarto-goout-atv
-rio-cuarto-west-mapped-road	Calle Laguna Río Cuarto · ориентир начала автомобильной линии	10.356388	-84.22082	rio-cuarto-finca-car-map
 fraijanes-icoder-parking	Laguna de Fraijanes · стоянка у Calle Laguna	10.1240545	-84.1905284	fraijanes-parking-osm-exact
 fraijanes-icoder-water	Laguna de Fraijanes · ориентир озера	10.1252	-84.1912	fraijanes-lagoon-osm
 toucan-rescue-san-josecito-entry	Toucan Rescue Ranch · центр на Calle Gemelo	10.0257724	-84.0351068	toucan-san-josecito-osm
@@ -983,3 +982,10 @@ garza-bay-water-reference	Bahía Garza · ориентир акватории	9.
 garza-route160-approach	Ruta 160 · подъезд к береговому сектору Гарсы	9.910365	-85.642429	nosara-pelada-garza-road-osm
 garza-mirella-property	Camping Mirella · пин участка у бухты	9.9100368	-85.6417523	garza-mirella-road-map
 cedros-sitios-ticos-departure	Puntarenas · точка сбора Sitios Ticos	9.979418	-84.834412	cedros-sitios-ticos-camp
+colonia-del-toro-708	Колония-дель-Торо · дорожный ориентир Ruta 708	10.300536	-84.2455199	osm-cr-points
+manantiales-upper-parking	Параисо-де-Манантьялес · парковка у фермы	10.3068736	-84.2492982	manantiales-parking-osm
+manantiales-farm-restaurant	Параисо-де-Манантьялес · ресторан и встреча	10.307134	-84.2493593	osm-cr-points
+manantiales-forest-junction	Параисо-де-Манантьялес · развилка лесной тропы	10.3081044	-84.2498414	manantiales-downhill-osm
+manantiales-toro-waterfalls-area	Каскады каньона Торо-Амарильо · природный ориентир	10.3075779	-84.2508942	osm-cr-points
+hule-public-foot-turn	Уле · поворот с основной дороги к лагуне	10.3043795	-84.2064661	hule-public-downhill-osm
+hule-tinamu-mirador	Mirador Tinamú · кафе и смотровая у Уле	10.3002431	-84.2048985	hule-tinamu-location-osm

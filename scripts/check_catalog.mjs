@@ -272,4 +272,11 @@ assert(find({ activity: "scenic-flight", material: "video" }).some(row => row.id
 assert(find({ activity: "campfire", sleep: "roof" }).some(row => row.id === "la-central-rooftop-camp"));
 assert(find({ q: "Avellanas Soul", material: "report" }).some(row => row.reportSources.includes("avellanas-surf-community-recs")));
 assert(find({ q: "Ruta del Quetzal", activity: "offroad" }).some(row => row.dossier.connectStops === false));
+const rioCuarto = records.find(row => row.id === "laguna-rio-cuarto-paddle");
+assert(rioCuarto.dossier.accessNotice.sources.includes("rio-cuarto-repretel-closed-gate"));
+assert(!find({ activity: "kayak" }).includes(rioCuarto));
+assert(!find({ activity: "sup" }).includes(rioCuarto));
+const rioCuartoWeekend = records.find(row => row.id === "rio-cuarto-hule-2");
+assert.equal(atlas.lines[rioCuartoWeekend.dossier.line].stages.length, 4);
+assert(rioCuartoWeekend.stages.some(stage => stage.stops.includes("rio-cuarto-manantiales-falls-35")));
 console.log(`Validated ${records.length} entries, ${Object.keys(atlas.sources).length} indexed sources and 200 profiles.`);

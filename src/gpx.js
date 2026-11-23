@@ -18,7 +18,7 @@ export function createGpx(name, routes, { lines, sources }) {
   for (const route of routes) {
     for (const stop of route.stops) {
       const title = label(route.prefix, stop.name);
-      const details = label(stop.role, stop.note);
+      const details = label(stop.role, stop.note, route.accessNote);
       waypoints.push(`<wpt ${latLon(stop.coords)}><name>${xml(title)}</name><desc>${xml(details)}</desc>${sourceLink(sources[stop.source])}</wpt>`);
     }
     for (const segment of openMapLines(route.line, lines, sources)) {

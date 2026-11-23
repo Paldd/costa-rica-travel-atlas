@@ -10,6 +10,7 @@ import {
 } from "./catalog.js";
 import { addRouteToTrip, editTrip, initialTripPlans, newTrip, resolveTripRoutes, saveTripPlans, selectNewTrip } from "./tripPlans.js";
 import ActivityIcon, { mainActivity } from "./ActivityIcon.jsx";
+import AccessNotice from "./AccessNotice.jsx";
 import RoutePreview from "./RoutePreview.jsx";
 import "./styles.css";
 
@@ -227,6 +228,7 @@ function RouteCard({ row, lines, context, saved, toggle }) {
         <span><Clock3 size={15} aria-hidden="true" />{durationLabel(row.days)}</span>
       </div>
       <p>{row.summary}</p>
+      <AccessNotice notice={row.dossier?.accessNotice} />
       <div className="card-media-meta">
         {stops.length > 0 && <span><MapIcon size={14} aria-hidden="true" />{stops.length === 1 ? "Точка на карте" : `Карта · ${stops.length}`}</span>}
         {(galleries.length > 0 || row.dossier?.photos?.length > 0 || row.dossier?.stageCover) && <span><Camera size={14} aria-hidden="true" />Фото</span>}
@@ -392,6 +394,7 @@ function Detail({ row, atlas, route, saved, toggle, activePlan, addRoute, useTem
         <p className="detail-location"><ActivityIcon activity={mainActivity(row)} />{row.countries?.length > 1 ? row.countries.map(id => countries[id]).join(" → ") : regions[row.region]} · {kinds[row.kind]}</p>
         <p className="native-name" lang="es">{row.native}</p>
         <p className="detail-intro">{row.summary}</p>
+        <AccessNotice notice={dossier?.accessNotice} sources={atlas.sources} />
         <div className="detail-controls">
           <SaveButton row={row} saved={saved} toggle={toggle} large />
           <button type="button" className="save-button save-wide" onClick={() => {

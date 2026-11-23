@@ -51,7 +51,7 @@ function markerPopup(entries, linkTo, selectRoute) {
     title.href = linkTo(record.id);
     title.textContent = record.title;
     const location = document.createElement("small");
-    location.textContent = stop.name;
+    location.textContent = [stop.name, record.dossier.accessNotice?.title].filter(Boolean).join(" · ");
     item.append(title, location);
     if (record.dossier.line || record.dossier.stops.length > 1) {
       const showRoute = document.createElement("button");
