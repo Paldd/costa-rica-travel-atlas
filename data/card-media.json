@@ -1613,12 +1613,15 @@
   },
   "san-jose-museo-bellavista": {
     "galleries": [
-      "museo-nacional-bellavista-butterfly-garden"
+      "museo-nacional-bellavista-butterfly-garden",
+      "museum-bellavista-nidos-exhibit"
     ],
     "videos": [
       "museo-nacional-bellavista-butterflies-film",
       "museum-coco-cimar-exhibition-film",
-      "museum-coco-veritas-model-film"
+      "museum-coco-veritas-model-film",
+      "museum-bellavista-intro-film",
+      "museum-bellavista-nidos-film"
     ]
   },
   "nicoya-bikepack-6": {
@@ -2097,6 +2100,12 @@
   "ponderosa-teekisia-premium-day": {
     "videos": [
       "ponderosa-garitravels-safari-film"
+    ]
+  },
+  "orosi-tucurrique-emtb-42": {
+    "videos": [
+      "ara-pura-vida-ride-film",
+      "ara-pura-vida-bike-gear-film"
     ]
   }
 }

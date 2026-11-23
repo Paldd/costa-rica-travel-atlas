@@ -1,0 +1,90 @@
+[
+  {
+    "id": "nosara-garza-roof-paddle-2",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Носара — Гарса · 2 дня с каяком и палаткой на крыше",
+    "native": "Playa Pelada · Boca Nosara · Río Montaña · Camping Mirella · Playa Garza",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "rooftent",
+      "car",
+      "hiking",
+      "kayak",
+      "sup",
+      "beach",
+      "forest",
+      "wildlife",
+      "views",
+      "cafe"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "nosara-nca-trail-pdf",
+      "nosara-experience-mangrove",
+      "garza-mirella-nomad",
+      "garza-mirella-campcr",
+      "garza-stand-and-paddle",
+      "pelada-access-report",
+      "nosara-pelada-garza-road-osm"
+    ],
+    "summary": "Выходные с лесной прогулкой, вариантом гребли в манграх и ночлегом у рыбацкой бухты. Каждый день оставляет время на одну основную активность.",
+    "plan": "Согласуйте окно прилива заранее. Первый день посвятите Пеладе или короткой тропе из Гионеса, затем заезд в Гарсу. Второй день — мангры с гидом или SUP-урок в бухте в подходящее время.",
+    "conditions": "Лагерный слот и детские жилеты подтвердите до выезда. С малышами подойдёт береговая прогулка или согласованная прогулка на электрической лодке. Маршрут на карте показывает дорогу и пешеходную тропу. Греблю планирует гид.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пелада, короткий лесной переход и лагерь в Гарсе",
+        "note": "Для прогулки оставьте 25–45 минут в одну сторону и запас на берег. Если сезонная тропа закрыта, подъезжайте к Пеладе с улицы. От Гионеса до Гарсы езжайте по публичным дорогам. Заселитесь засветло и спросите, где можно ставить лестницу.",
+        "stops": [
+          "guiones-pelada-nca-walk",
+          "playa-pelada-local-beach",
+          "garza-mirella-rooftent"
+        ],
+        "sources": [
+          "nosara-nca-trail-pdf",
+          "pelada-access-report",
+          "garza-mirella-road-map",
+          "nosara-pelada-garza-road-osm"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Мангровая река или учебный выход в Гарсе",
+        "note": "Выберите один водный выход. Мангровый тур — до трёх часов с местом встречи от команды. Гарса — короткий урок по волне и ветру. При переносе возьмите паузу на берегу, а в мангры можно вернуться на электрической лодке по согласованию с оператором.",
+        "stops": [
+          "nosara-rio-montana-paddle",
+          "garza-bay-sup-kayak",
+          "nosara-electric-estuary-boat"
+        ],
+        "sources": [
+          "nosara-experience-mangrove",
+          "garza-stand-and-paddle",
+          "nosara-eboa-zone-azul"
+        ]
+      }
+    ]
+  }
+]

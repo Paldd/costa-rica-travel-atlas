@@ -1710,9 +1710,16 @@
       "nicoya-5",
       "samara",
       "carrillo",
-      "nosara-mtb-family-trails-6"
+      "nosara-mtb-family-trails-6",
+      "guiones-pelada-nca-walk",
+      "playa-pelada-local-beach",
+      "nosara-rio-montana-paddle"
     ],
-    "track": "guiones-local-schools"
+    "track": "guiones-local-schools",
+    "videos": [
+      "nosara-refuge-video",
+      "nosara-guide-layout-video"
+    ]
   },
   "carrillo": {
     "stops": [

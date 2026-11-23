@@ -1192,7 +1192,7 @@
     "name": "Jaguar Rescue Center · новости и программы",
     "url": "https://www.jaguarrescue.foundation/en-us/News",
     "paths": [
-      "/en-us/News",
+      "/en-us/News/ArticleID/",
       "/en-us/SupportUs/Tours/"
     ],
     "exactPaths": [

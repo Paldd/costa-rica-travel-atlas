@@ -1,0 +1,605 @@
+{
+  "playa-pelada-local-beach": {
+    "stops": [
+      {
+        "point": "pelada-main-access-road",
+        "role": "Улица у входа в Пеладу",
+        "note": "Оставьте машину на разрешённом месте у улицы. О наличии мест узнайте по приезде."
+      },
+      {
+        "point": "pelada-olgas-landmark",
+        "role": "Ориентир у пляжной дорожки",
+        "note": "Уточните у NCA, как найти сотрудника и где получить кресло."
+      },
+      {
+        "point": "pelada-la-luna",
+        "role": "Кафе и ужин у берега",
+        "note": "Столик у окна на закате зависит от брони и погоды."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Доступ с коляской и помощь на месте",
+        "text": "В сентябре 2026 местный репортаж показал открытие бесплатной разборной дорожки длиной 30 м и амфибийного кресла. NCA отвечает за размещение и хранение оборудования. Согласуйте день и проверьте, готова ли дорожка к вашему приезду. На открытии объявили график с 09:00 до 18:00 в будни и с 10:00 до 17:00 по выходным.",
+        "sources": [
+          "pelada-access-report",
+          "pelada-access-video",
+          "nosara-civic-trail-regulations",
+          "pelada-access-observador"
+        ]
+      },
+      {
+        "title": "Берег с детьми",
+        "text": "В южной части удобно сделать короткую остановку ради песка и вида. На отливе появляются каменные полки и ванны. Для ребёнка оставьте время у сухой кромки. На мокрые скалы и к местам, где вода выбрасывается через отверстия, подходите только при подходящем состоянии моря и держите дистанцию.",
+        "sources": [
+          "pelada-aguaepipa-guide",
+          "pelada-coast-refuge-rules",
+          "imn-tides-table"
+        ]
+      },
+      {
+        "title": "Что есть у входа",
+        "text": "Местный путеводитель описывает подъезд через район La Luna. У парковки проверьте знаки и сохраните пин заранее. Возьмите питьевую воду, головные уборы и лёгкую обувь. Туалет и возможность оставить коляску уточните в заведении, куда собираетесь.",
+        "sources": [
+          "pelada-coast-local-guide",
+          "pelada-aguaepipa-guide",
+          "pelada-la-luna-book"
+        ]
+      },
+      {
+        "title": "Вместо длинного пляжного дня",
+        "text": "Здесь можно совместить полчаса у воды, поход из Северного Гионеса или отдельный завтрак. Если есть сильное волнение, оставьте только прогулку по улице и столик с видом.",
+        "sources": [
+          "pelada-vamos-route",
+          "nosara-nca-trail-pdf",
+          "pelada-la-luna-book"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nosara Civic Association",
+        "source": "nosara-civic-trail-regulations",
+        "note": "Открытие лесного перехода, разборная дорожка и помощь с пляжным креслом.",
+        "url": "https://nosaraconservation.org/#trails",
+        "email": "info@nca.cr"
+      },
+      {
+        "name": "La Luna · ресторан",
+        "source": "pelada-la-luna-book",
+        "note": "Официальная форма брони. Укажите коляску, число гостей и время заката.",
+        "url": "https://www.coyolnosara.com/laluna/reserve"
+      }
+    ],
+    "track": "nosara-nca-trail-pdf",
+    "nearby": [
+      "guiones-pelada-nca-walk",
+      "nosara-rio-montana-paddle",
+      "guiones",
+      "nosara-raiz-bodhi-cafe"
+    ],
+    "galleries": [
+      "pelada-vamos-route",
+      "pelada-aguaepipa-guide",
+      "pelada-access-report",
+      "pelada-access-observador"
+    ],
+    "photos": [
+      "nosara-pelada-fishing-commons"
+    ],
+    "videos": [
+      "pelada-access-video",
+      "nosara-refuge-video"
+    ],
+    "connectStops": false
+  },
+  "guiones-pelada-nca-walk": {
+    "stops": [
+      {
+        "point": "guiones-pelada-forest-start",
+        "role": "Старт · Guiones Norte",
+        "note": "Вход с улицы. Ориентируйтесь по знакам Senderos NCA."
+      },
+      {
+        "point": "guiones-pelada-forest-junction",
+        "role": "Развилка в лесу",
+        "note": "Держитесь направления Pelada и проверьте, открыт ли сезонный участок."
+      },
+      {
+        "point": "pelada-forest-street-exit",
+        "role": "Выход на улицы Пелады",
+        "note": "По улице спускайтесь к южному входу или завершите маршрут у ресторанов."
+      },
+      {
+        "point": "pelada-main-access-road",
+        "role": "Улица у входа в Пеладу",
+        "note": "Оставьте машину на разрешённом месте у улицы. О наличии мест узнайте по приезде."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Участки на карте",
+        "text": "Пешеходная линия в атласе — 1,12 км в одну сторону. NCA отдельно записала короткий переход Guiones Norte — Tennis Courts Pelada длиной 0,49 км. Полная линия включает дополнительный подход до улицы у пляжа.",
+        "sources": [
+          "nosara-guiones-pelada-foot-osm",
+          "nosara-nca-guiones-tennis-track",
+          "nosara-nca-trail-pdf"
+        ]
+      },
+      {
+        "title": "Когда пройти",
+        "text": "Для спокойной прогулки оставьте 25–45 минут, без учёта кафе и отдыха. Для короткой пробежки используйте сухой день, уступайте пешеходам и сбавляйте темп на корнях и поворотах. Найдите обозначенные сезонные связи по схеме NCA.",
+        "sources": [
+          "nosara-civic-trail-regulations",
+          "nosara-nca-trail-pdf",
+          "nosara-trail-bike-local"
+        ]
+      },
+      {
+        "title": "После дождя и с ребёнком",
+        "text": "Спросите у ассоциации о ручьях и поваленных ветках, особенно если шёл сильный дождь. Возьмите воду, репеллент и обувь с протектором. Для коляски удобнее подъехать в Пеладу по улице и воспользоваться пляжной дорожкой, если её разложили.",
+        "sources": [
+          "nosara-civic-trail-regulations",
+          "pelada-access-report",
+          "nosara-guiones-pelada-foot-osm"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Nosara Civic Association",
+        "source": "nosara-civic-trail-regulations",
+        "note": "Открытие лесного перехода, разборная дорожка и помощь с пляжным креслом.",
+        "url": "https://nosaraconservation.org/#trails",
+        "email": "info@nca.cr"
+      },
+      {
+        "name": "La Luna · ресторан",
+        "source": "pelada-la-luna-book",
+        "note": "Официальная форма брони. Укажите коляску, число гостей и время заката.",
+        "url": "https://www.coyolnosara.com/laluna/reserve"
+      }
+    ],
+    "line": "guiones-pelada-nca-walk",
+    "track": "nosara-nca-guiones-tennis-track",
+    "nearby": [
+      "playa-pelada-local-beach",
+      "guiones",
+      "nosara-mtb-family-trails-6",
+      "nosara-garza-roof-paddle-2"
+    ],
+    "galleries": [
+      "nosara-nca-guiones-tennis-track",
+      "nosara-trail-bike-local",
+      "pelada-vamos-route"
+    ],
+    "photos": [
+      "nosara-pelada-fishing-commons",
+      "guiones-sunset-commons"
+    ],
+    "videos": [
+      "nosara-guide-layout-video",
+      "nosara-refuge-video"
+    ]
+  },
+  "nosara-rio-montana-paddle": {
+    "stops": [
+      {
+        "point": "nosara-boca-estuary-area",
+        "role": "Район гребли · Бока-де-Носара",
+        "note": "Ориентир акватории. Точное место сбора и посадки пришлёт гид."
+      },
+      {
+        "point": "ebike-nosara-lagarta",
+        "role": "Lagarta Lodge · береговой ориентир",
+        "note": "Лодж на склоне помогает ориентироваться по карте. Парковку для тура указывает организатор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "С детьми и без опыта",
+        "text": "Experience Nosara указывает 2,5–3 часа и минимум двух гостей. В ноябре 2026 на сайте было 75 USD за взрослого и 45 USD для детей 6–9 лет. Для ребёнка заранее согласуйте место в тандеме, жилет по весу и возможность выйти на берег раньше.",
+        "sources": [
+          "nosara-experience-mangrove",
+          "nosara-boca-photoessay"
+        ]
+      },
+      {
+        "title": "Второй и третий варианты",
+        "text": "Tierra Costa предлагает примерно два часа гребли с оборудованием и перекусом за 85 USD. До 16 лет у этого оператора нужен сопровождающий родитель или опекун. Tico Tours публикует двухчасовой каяк за 85 USD и принимает детей от 10 лет со взрослым.",
+        "sources": [
+          "nosara-tierra-paddle",
+          "nosara-tico-kayak"
+        ]
+      },
+      {
+        "title": "Где старт и где суша",
+        "text": "Гиды описывают начало в районе Бока-де-Носара, путь по реке Монтанья вдоль океана и остановку на берегу. Получите пин парковки, время относительно прилива и уточните, допускается ли ваша лодка через конкретный вход. Устье на карте служит ориентиром.",
+        "sources": [
+          "nosara-estuary-sinac-map",
+          "nosara-experience-mangrove",
+          "nosara-tierra-paddle",
+          "nosara-river-local-paper"
+        ]
+      },
+      {
+        "title": "Экипировка и место на воде",
+        "text": "Жилет, обувь для посадки, вода, гермомешок, кепка и репеллент. Фотографируйте животных с лодки и сохраняйте дистанцию, о которой скажет гид. Если вода поднялась или усилился ветер, договоритесь о переносе либо о лодке с экипажем.",
+        "sources": [
+          "nosara-tico-kayak",
+          "nosara-boca-photoessay",
+          "nosara-eboa-zone-azul"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Experience Nosara · мангры",
+        "source": "nosara-experience-mangrove",
+        "note": "Прилив, встреча, детские жилеты, место в тандеме и возможность отдельного проката.",
+        "url": "https://wa.me/50687052010",
+        "phone": "+506 8705 2010",
+        "email": "info@experience-nosara.com"
+      },
+      {
+        "name": "Tierra Costa",
+        "source": "nosara-tierra-paddle",
+        "note": "SUP или каяк, сопровождение детей, прокат и пин встречи.",
+        "url": "https://wa.me/50689740952",
+        "phone": "+506 8974 0952",
+        "email": "info@tierracosta.com"
+      },
+      {
+        "name": "Tico Tours Nosara",
+        "source": "nosara-tico-kayak",
+        "note": "Каяк от 10 лет, фото и расписание на нужный день.",
+        "url": "https://wa.me/50686606384",
+        "phone": "+506 8660 6384",
+        "email": "reservations@ticotoursnosara.com"
+      }
+    ],
+    "nearby": [
+      "nosara-electric-estuary-boat",
+      "playa-pelada-local-beach",
+      "garza-bay-sup-kayak",
+      "nosara-garza-roof-paddle-2"
+    ],
+    "galleries": [
+      "nosara-boca-photoessay",
+      "nosara-experience-mangrove",
+      "nosara-tierra-paddle"
+    ],
+    "videos": [
+      "nosara-boca-paddle-video"
+    ],
+    "connectStops": false
+  },
+  "garza-bay-sup-kayak": {
+    "stops": [
+      {
+        "point": "garza-route160-approach",
+        "role": "Подъезд к береговому сектору с Ruta 160",
+        "note": "Стоянка на участке хозяев. Следуйте их указаниям на последних метрах."
+      },
+      {
+        "point": "garza-bay-water-reference",
+        "role": "Бухта Гарса · ориентир морской части",
+        "note": "Точка описывает район. Место старта и береговой коридор выбирает инструктор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первый урок",
+        "text": "Stand and Paddle публикует двухчасовое занятие от 95 USD на суше и воде. Попросите подобрать ширину доски, учебный участок, жилет и время с меньшим ветром. Для ребёнка уточните минимальный возраст и формат участия до оплаты.",
+        "sources": [
+          "garza-stand-and-paddle",
+          "garza-ict-nicoya-guide"
+        ]
+      },
+      {
+        "title": "Вариант для тех, кто уже грёб",
+        "text": "Experience Nosara указывает 75 USD на участника, минимум двое, 2,5 часа и выезд только в отлив. Прайс заявлен для всех возрастов, одновременно в программе прямо требуется опыт. Проверьте требования для каждого участника и входит ли ваш адрес в трансфер.",
+        "sources": [
+          "garza-experience-paddle"
+        ]
+      },
+      {
+        "title": "Своё снаряжение и выбор участка",
+        "text": "Вход организуют с берега, точную точку подтвердит инструктор. Для своей доски или каяка узнайте у команды разрешения по месту и проход рыбацких лодок. Возьмите свой подогнанный жилет, воду, солнцезащиту и сухой комплект.",
+        "sources": [
+          "garza-experience-paddle",
+          "garza-stand-and-paddle",
+          "garza-ict-nicoya-guide",
+          "guanacaste-tides"
+        ]
+      },
+      {
+        "title": "Полдня на берегу",
+        "text": "На побережье есть рыбацкие лодки и небольшие заведения. При волне или ветре оставьте береговую прогулку, рыбалку с капитаном можно запланировать на другое окно.",
+        "sources": [
+          "garza-coast-teletica",
+          "garza-monkey-fishing",
+          "garza-ict-nicoya-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Stand and Paddle",
+        "source": "garza-stand-and-paddle",
+        "note": "Урок для своего уровня. Спросите, входят ли доска, весло и детский жилет, и пришлют ли пин встречи.",
+        "url": "https://www.standandpaddle.com/service-page/sup-in-playa-garza",
+        "phone": "+1 630 300 8289",
+        "email": "standandpaddlesup@gmail.com"
+      },
+      {
+        "name": "Experience Nosara · морской выход",
+        "source": "garza-experience-paddle",
+        "note": "Окно отлива, требования к опыту, лодка или SUP, трансфер из Носары.",
+        "url": "https://wa.me/50687052010",
+        "phone": "+506 8705 2010",
+        "email": "info@experience-nosara.com"
+      }
+    ],
+    "nearby": [
+      "garza-mirella-rooftent",
+      "garza-sea-saw-catamaran",
+      "garza-panga-fishing",
+      "nosara-rio-montana-paddle",
+      "garza-rosada-low-tide"
+    ],
+    "galleries": [
+      "garza-experience-paddle",
+      "garza-stand-and-paddle",
+      "garza-mirella-field",
+      "garza-solano-photoessay",
+      "garza-local-photoessay"
+    ],
+    "videos": [
+      "garza-coast-local-video"
+    ],
+    "connectStops": false
+  },
+  "garza-mirella-rooftent": {
+    "stops": [
+      {
+        "point": "garza-mirella-property",
+        "role": "Camping Mirella · участок",
+        "note": "Пин подтверждают навигатор и координаты поездки. Ворота и место для конкретной машины уточните у хозяев."
+      },
+      {
+        "point": "garza-route160-approach",
+        "role": "Подъезд к береговому сектору с Ruta 160",
+        "note": "Стоянка на участке хозяев. Следуйте их указаниям на последних метрах."
+      },
+      {
+        "point": "garza-bay-water-reference",
+        "role": "Бухта Гарса · ориентир морской части",
+        "note": "Точка описывает район. Место старта и береговой коридор выбирает инструктор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Место для машины и палатки",
+        "text": "Nomad America перечисляет наземные палатки, крышные палатки и караваны. На Camping.cr заявлены вода, электричество и душ. Получите фото участка для вашего автомобиля, уточните поперечный уклон, ветки над палаткой, сторону лестницы и место для второй машины.",
+        "sources": [
+          "garza-mirella-nomad",
+          "garza-mirella-campcr",
+          "garza-mirella-road-map"
+        ]
+      },
+      {
+        "title": "Цена, вода и вечер",
+        "text": "В путеводителе приведён ориентир 6 000 CRC или 12 USD с человека. Прямой контакт предлагает запросить актуальную цену. Уточните питьевую воду, время закрытия ворот и расписание соседнего бара. Путешественники в декабре 2024 ночевали две ночи и описали громкую субботнюю вечеринку рядом, а гость января 2026 отметил расположение у берега.",
+        "sources": [
+          "garza-mirella-campcr",
+          "garza-mirella-nomad",
+          "garza-mirella-field",
+          "garza-mirella-jan26-review"
+        ]
+      },
+      {
+        "title": "Последние метры и огонь",
+        "text": "Пин Waze и GPS из поездки расходятся менее чем на несколько метров. В темноте запросите точку ворот. Машину оставляйте на участке лагеря. Открытый огонь согласуйте с хозяевами и соблюдайте местные правила. При отсутствии подтверждённого очага готовьте на горелке в разрешённом месте. Участок дороги из Носары описан в фотоотчёте Solano. При подъезде со стороны Самары и Остионаля уточняйте водные преграды отдельно.",
+        "sources": [
+          "garza-mirella-road-map",
+          "garza-mirella-field",
+          "garza-mirella-nomad",
+          "mopt-2026-no-vehicles-beach",
+          "garza-solano-photoessay"
+        ]
+      },
+      {
+        "title": "Что делать в бухте",
+        "text": "Утром короткий урок SUP, рыбацкая лодка или просто прогулка. Отдельно смотрите условия прохода к Плайя-Росада. Для детей и основной парковки оставайтесь у согласованного участка лагеря и проверяйте прибой по месту.",
+        "sources": [
+          "garza-stand-and-paddle",
+          "garza-rosada-walk-video",
+          "garza-ict-nicoya-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Mirella · хозяева",
+        "source": "garza-mirella-campcr",
+        "note": "Заезд, размеры автомобиля и палатки, место лестницы, душ, цена и вечерние мероприятия рядом.",
+        "url": "https://wa.me/50683431871",
+        "phone": "+506 8343 1871"
+      }
+    ],
+    "track": "garza-mirella-road-map",
+    "nearby": [
+      "garza-el-tiguacal-camp",
+      "garza-bay-sup-kayak",
+      "garza-rosada-low-tide",
+      "garza-panga-fishing",
+      "nosara-garza-roof-paddle-2"
+    ],
+    "galleries": [
+      "garza-mirella-nomad",
+      "garza-mirella-field",
+      "garza-mirella-jan26-review",
+      "garza-solano-photoessay"
+    ],
+    "videos": [
+      "garza-coast-local-video"
+    ],
+    "connectStops": false
+  },
+  "nosara-garza-roof-paddle-2": {
+    "stops": [
+      {
+        "point": "guiones-pelada-forest-start",
+        "role": "Старт · Guiones Norte",
+        "note": "Вход с улицы. Ориентируйтесь по знакам Senderos NCA."
+      },
+      {
+        "point": "guiones-pelada-forest-junction",
+        "role": "Развилка в лесу",
+        "note": "Держитесь направления Pelada и проверьте, открыт ли сезонный участок."
+      },
+      {
+        "point": "pelada-forest-street-exit",
+        "role": "Выход на улицы Пелады",
+        "note": "По улице спускайтесь к южному входу или завершите маршрут у ресторанов."
+      },
+      {
+        "point": "pelada-main-access-road",
+        "role": "Улица у входа в Пеладу",
+        "note": "Оставьте машину на разрешённом месте у улицы. О наличии мест узнайте по приезде."
+      },
+      {
+        "point": "guiones-north-area",
+        "role": "Гионес · район уроков и остановка на переезде",
+        "note": "Маркер в посёлке рядом с рассчитанной автомобильной линией."
+      },
+      {
+        "point": "garza-mirella-property",
+        "role": "Camping Mirella · участок",
+        "note": "Пин подтверждают навигатор и координаты поездки. Ворота и место для конкретной машины уточните у хозяев."
+      },
+      {
+        "point": "garza-route160-approach",
+        "role": "Подъезд к береговому сектору с Ruta 160",
+        "note": "Стоянка на участке хозяев. Следуйте их указаниям на последних метрах."
+      },
+      {
+        "point": "nosara-boca-estuary-area",
+        "role": "Район гребли · Бока-де-Носара",
+        "note": "Ориентир акватории. Точное место сбора и посадки пришлёт гид."
+      },
+      {
+        "point": "garza-bay-water-reference",
+        "role": "Бухта Гарса · ориентир морской части",
+        "note": "Точка описывает район. Место старта и береговой коридор выбирает инструктор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога и пешеходный участок",
+        "text": "От Пелады до Гарсы через Северный Гионес около 11,15 км по расчёту OpenStreetMap. Лесная линия добавляет 1,12 км пешком в одну сторону. На карте видны оба участка и точки лагеря и воды. Время гребли зависит от выбранной программы.",
+        "sources": [
+          "nosara-pelada-garza-road-osm",
+          "nosara-guiones-pelada-foot-osm",
+          "nosara-nca-trail-pdf"
+        ]
+      },
+      {
+        "title": "Как подобрать день семье",
+        "text": "Для маленьких детей оставьте берег и ближайший доступный вход в Пеладе. В манграх спросите о тандеме и детских жилетах. Подросткам с навыками может подойти морской урок в Гарсе. Если вы едете один, уточните набор группы у гида.",
+        "sources": [
+          "pelada-access-report",
+          "nosara-experience-mangrove",
+          "garza-experience-paddle",
+          "garza-stand-and-paddle"
+        ]
+      },
+      {
+        "title": "Ночёвка и экипировка",
+        "text": "Мирелла принимает машины с крышной палаткой по данным путеводителя. Запасной наземный вариант — El Tiguacal, формат стоянки согласуйте у хозяев. Возьмите фонари для лагеря, коврик у лестницы, сухие вещи, воду, гермомешок и обувь для посадки.",
+        "sources": [
+          "garza-mirella-nomad",
+          "garza-mirella-field",
+          "tiguacal-host",
+          "nosara-tico-kayak"
+        ]
+      },
+      {
+        "title": "Если море или тропа закрыты",
+        "text": "Замените лесной переход короткой прогулкой по Пеладе или обедом на террасе. Время выезда на воду перенесите по решению гида. Для поездки без палатки проверьте номера Hotel Playa Garza или лодж в Носаре и возможность выехать из него рано.",
+        "sources": [
+          "pelada-la-luna-book",
+          "garza-experience-paddle",
+          "nosara-eboa-zone-azul",
+          "nosara-nca-trail-pdf",
+          "garza-hotel-direct"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Camping Mirella · хозяева",
+        "source": "garza-mirella-campcr",
+        "note": "Заезд, размеры автомобиля и палатки, место лестницы, душ, цена и вечерние мероприятия рядом.",
+        "url": "https://wa.me/50683431871",
+        "phone": "+506 8343 1871"
+      },
+      {
+        "name": "Experience Nosara · мангры",
+        "source": "nosara-experience-mangrove",
+        "note": "Прилив, встреча, детские жилеты, место в тандеме и возможность отдельного проката.",
+        "url": "https://wa.me/50687052010",
+        "phone": "+506 8705 2010",
+        "email": "info@experience-nosara.com"
+      },
+      {
+        "name": "Stand and Paddle",
+        "source": "garza-stand-and-paddle",
+        "note": "Урок для своего уровня. Спросите, входят ли доска, весло и детский жилет, и пришлют ли пин встречи.",
+        "url": "https://www.standandpaddle.com/service-page/sup-in-playa-garza",
+        "phone": "+1 630 300 8289",
+        "email": "standandpaddlesup@gmail.com"
+      },
+      {
+        "name": "Nosara Civic Association",
+        "source": "nosara-civic-trail-regulations",
+        "note": "Открытие лесного перехода, разборная дорожка и помощь с пляжным креслом.",
+        "url": "https://nosaraconservation.org/#trails",
+        "email": "info@nca.cr"
+      },
+      {
+        "name": "Hotel Playa Garza · запасной ночлег",
+        "source": "garza-hotel-direct",
+        "note": "Запросите номер нужной вместимости, парковку и возможность выехать рано.",
+        "url": "https://hotel-playa-garza.com/"
+      }
+    ],
+    "line": "nosara-garza-roof-paddle-2",
+    "track": "nosara-nca-trail-pdf",
+    "nearby": [
+      "playa-pelada-local-beach",
+      "guiones-pelada-nca-walk",
+      "garza-mirella-rooftent",
+      "garza-bay-sup-kayak",
+      "nosara-rio-montana-paddle",
+      "samara-garza-camp-bike-water-3"
+    ],
+    "galleries": [
+      "pelada-vamos-route",
+      "garza-mirella-nomad",
+      "garza-mirella-field",
+      "nosara-boca-photoessay",
+      "garza-solano-photoessay",
+      "garza-hotel-direct"
+    ],
+    "photos": [
+      "nosara-pelada-fishing-commons"
+    ],
+    "videos": [
+      "pelada-access-video",
+      "nosara-boca-paddle-video",
+      "garza-coast-local-video"
+    ]
+  }
+}

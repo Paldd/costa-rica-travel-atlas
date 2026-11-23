@@ -22,7 +22,7 @@ SKIP = {
     "aside", "button", "footer", "form", "header", "nav", "noscript", "script", "style", "svg", "template",
 }
 VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
-SECTION_PATH = re.compile(r"/(?:author|authors|category|categoria|tag|tags|page|search)(?:/|$)", re.I)
+SECTION_PATH = re.compile(r"/(?:author|authors|category|categoria|tag|tags|page|search|searchtag)(?:/|$)", re.I)
 MIN_BODY_CHARS = 350
 ARTICLE_BODY_CLASSES = {
     "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg",
@@ -51,6 +51,10 @@ def youtube_url(value):
     else:
         return None
     return f"https://www.youtube.com/watch?v={video}" if VIDEO_ID.fullmatch(video) else None
+
+
+def editorial_url(url):
+    return not SECTION_PATH.search(urlsplit(url).path)
 
 
 class EditorialPage(HTMLParser):
@@ -161,6 +165,9 @@ def read_archive(archive, urls, analyze):
                 entry["status"] = "robots-disallow"
             else:
                 raw, fetched = request(opener, url)
+                if not editorial_url(fetched):
+                    results.append({**entry, "status": "navigation-page", "finalUrl": fetched})
+                    continue
                 parser = EditorialPage()
                 parser.feed(raw.decode("utf-8", errors="replace"))
                 body = " ".join(" ".join(parser.main).split())
@@ -229,7 +236,7 @@ def archive_pages(result, archive):
     pages = {}
     for row in result.get("archivePages", result.get("candidates", [])):
         url = row["url"]
-        if host(url) == host(archive) and not SECTION_PATH.search(urlsplit(url).path):
+        if host(url) == host(archive) and editorial_url(url):
             pages.setdefault(canonical(url), row)
     return pages
 
@@ -320,7 +327,7 @@ def restore_public_receipts(state, archives, catalog, snapshot):
         previous = state.setdefault(archive_id, {})
         for page in coverage.get("pages", []):
             url = page["url"]
-            if host(url) != host(catalog[archive_id]):
+            if host(url) != host(catalog[archive_id]) or not editorial_url(url):
                 continue
             key = canonical(url)
             entry = previous.get(key, {})
@@ -395,7 +402,14 @@ def main():
     for source_id in editorial_feeds(feeds, catalog):
         archives.setdefault(source_id, [])
     index = {canonical(row["url"]): row for row in read_json(args.refresh, {})["results"]}
-    state = read_json(args.state, {})
+    state = {
+        archive_id: {
+            key: entry for key, entry in pages.items()
+            if editorial_url(entry["url"])
+            and editorial_url((last_successful_read(entry) or entry).get("finalUrl", entry["url"]))
+        }
+        for archive_id, pages in read_json(args.state, {}).items()
+    }
     restore_public_receipts(state, archives, catalog, read_json(DATA / "publisher-review-coverage.json", {}))
     current = []
     analyze = analyzer()

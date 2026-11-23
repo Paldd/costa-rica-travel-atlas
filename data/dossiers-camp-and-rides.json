@@ -297,6 +297,15 @@
           "tiguacal-yoko",
           "garza-seasaw-main"
         ]
+      },
+      {
+        "title": "Вариант с крышной палаткой рядом",
+        "text": "На El Tiguacal заранее подтвердите въезд конкретной машины и участок под лестницу. Для Camping Mirella в той же бухте есть опыт ночёвки с крышной палаткой и другой контакт хозяев.",
+        "sources": [
+          "tiguacal-host",
+          "garza-mirella-campcr",
+          "garza-mirella-field"
+        ]
       }
     ],
     "contacts": [
@@ -315,13 +324,18 @@
       "garza-sea-saw-catamaran",
       "guiones-samara-carrillo-27",
       "samara-garza-camp-bike-water-3",
-      "garza-rosada-low-tide"
+      "garza-rosada-low-tide",
+      "garza-mirella-rooftent",
+      "garza-bay-sup-kayak"
     ],
     "galleries": [
       "tiguacal-yoko",
       "tiguacal-host"
     ],
-    "connectStops": false
+    "connectStops": false,
+    "videos": [
+      "garza-coast-local-video"
+    ]
   },
   "florencia-toculaca-camp": {
     "stops": [
@@ -471,14 +485,17 @@
     "nearby": [
       "garza-el-tiguacal-camp",
       "garza-sea-saw-catamaran",
-      "guiones-samara-carrillo-27"
+      "guiones-samara-carrillo-27",
+      "garza-mirella-rooftent",
+      "garza-bay-sup-kayak"
     ],
     "galleries": [
       "garza-costa-catch-captain",
       "garza-buenaventura-fishing"
     ],
     "videos": [
-      "garza-fishing-nosara-video"
+      "garza-fishing-nosara-video",
+      "garza-coast-local-video"
     ],
     "connectStops": false
   },
@@ -523,12 +540,17 @@
       "garza-el-tiguacal-camp",
       "garza-panga-fishing",
       "samara-garza-camp-bike-water-3",
-      "garza-rosada-low-tide"
+      "garza-rosada-low-tide",
+      "garza-mirella-rooftent",
+      "garza-bay-sup-kayak"
     ],
     "galleries": [
       "garza-seasaw-main"
     ],
-    "connectStops": false
+    "connectStops": false,
+    "videos": [
+      "garza-coast-local-video"
+    ]
   },
   "salinas-papaturro-copal-kite": {
     "stops": [
@@ -789,7 +811,9 @@
     "nearby": [
       "guiones-samara-carrillo-27",
       "guiones",
-      "garza-rosada-low-tide"
+      "garza-rosada-low-tide",
+      "garza-mirella-rooftent",
+      "nosara-garza-roof-paddle-2"
     ],
     "galleries": [
       "cocos-samara-yoko",
@@ -797,7 +821,8 @@
       "garza-seasaw-main"
     ],
     "videos": [
-      "garza-fishing-nosara-video"
+      "garza-fishing-nosara-video",
+      "garza-coast-local-video"
     ],
     "photos": [
       "samara-beach-commons",
@@ -1023,7 +1048,9 @@
     "nearby": [
       "garza-el-tiguacal-camp",
       "garza-sea-saw-catamaran",
-      "guiones"
+      "guiones",
+      "garza-mirella-rooftent",
+      "garza-bay-sup-kayak"
     ],
     "galleries": [
       "voz-rosada-field",
@@ -1031,7 +1058,9 @@
       "vamos-rosada-map"
     ],
     "videos": [
-      "nosara-rosada-hike-video"
+      "nosara-rosada-hike-video",
+      "garza-coast-local-video",
+      "garza-rosada-walk-video"
     ],
     "connectStops": false
   }
