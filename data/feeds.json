@@ -1,213 +1,2433 @@
 [
-  {"name":"Visit Costa Rica · активный отдых","url":"https://www.visitcostarica.com/things-to-do/adventure","paths":["/where-to-go/protected-areas/","/things-to-do/adventure/","/planning-your-trip/itineraries/"]},
-  {"name":"SINAC · карта заповедников","url":"https://www.sinac.go.cr/ES/Paginas/map.aspx","paths":["/es/ac/","/es/turismo/"]},
-  {"name":"Área de Conservación Guanacaste · экотуризм","url":"https://www.acguanacaste.ac.cr/turismo/","paths":["/turismo/sector-","/noticias/noticias-programa-de-ecoturismo/"]},
-  {"name":"El Camino de Costa Rica · этапы","url":"https://caminodecostarica.org/es/descubre-el-camino/etapas-del-camino/","paths":["/es/descubre/etapa/","/es/planifica-tu-excursion/"],"language":"es","focus":"Официальные этапы похода между двумя океанами. Схемы, ночёвки, местные гиды и GPX от Asociación Mar a Mar."},
-  {"name":"Costa Rica Camping Guide · Тихий океан","url":"https://costaricacampsites.com/pacific-coast/","paths":["/camp-sites/"],"language":"en","focus":"Описания кемпингов с фотографиями, заездом и типами стоянок для наземных и крышевых палаток."},
-  {"name":"Costa Rica Camping Guide · горы и север","url":"https://costaricacampsites.com/northern-highlands-volcanoes/","paths":["/camp-sites/"]},
-  {"name":"Costa Rica 4x4 Adventure · опубликованные маршруты","url":"https://costarica4x4adventure.com/es/routes/","paths":["/es/routes/"],"language":"es","focus":"Местные автомобильные маршруты по долинам и побережьям. Проходимость и въезд на частные участки требуют сверки на дату."},
-  {"name":"Sarapiquí Outdoor Center · программы","url":"https://www.costaricaraft.com/rafting","paths":["/rafting/"]},
-  {"name":"Pacuare Outdoor Center · программы","url":"https://pacuareoutdoorcenter.com/es/experiencias/","paths":["/es/experiencias/","/es/actividades/"]},
-  {"name":"Qué Buen Lugar · места","url":"https://www.quebuenlugar.com/es/lugares/","paths":["/es/lugares/","/es/hospedajes/"],"exactPaths":["/es/lugares/playa-iguanita/","/es/lugares/rio-la-mina-y-mirador-miramar-2/"],"language":"es","focus":"Отчёты местных авторов о выходных. Сельские подъезды, тропы, водопады, ночёвки и фото с места."},
-  {"name":"The Trail Running CR · календарь","url":"https://thetrailrunningcr.com/eventos/","paths":["/dantica-","/columbia-","/eventos/"],"language":"es","focus":"Календарь трейлраннинга. Дистанции, набор и условия конкретного выпуска берутся из материалов организаторов."},
-  {"name":"Муниципалитет Перес-Селедона · туризм","url":"https://www.perezzeledon.go.cr/component/phocadownload/category/1109-turismo.html","paths":["/component/phocadownload/category/1109-turismo.html","/turismo/"]},
-  {"name":"Go Bike CR · велопрограммы и поездки на e-bike","url":"https://www.gobikecr.com/e-bike-tours-costa-rica.html","paths":["/tour-","/tours-","/mountain-"]},
-  {"name":"Gran Fondo Guanacaste · карты и выпуск","url":"https://www.granfondoguanacaste.com/","paths":["/storage/gpx/","/storage/documentos/"]},
-  {"name":"Carrera Chirripó · запись и регламент","url":"https://www.carrerachirripo.com/","paths":["/inscripcion/","/reglamento-","/wp-content/uploads/"]},
-  {"name":"Ríos Lodge · участие со своей лодкой","url":"https://rioslodge.com/pacuare-costa-rica-faq/","paths":["/pacuare-costa-rica-","/rafting-","/contact-"]},
-  {"name":"Mar a Mar · действующий комплект GPX","url":"https://caminodecostarica.org/es/planifica-tu-excursion/autoguiado/","paths":["/scl/fo/","/es/descubre/etapa/","/es/planifica-tu-excursion/"]},
-  {"name":"Visit Paquera · местные активности и сообщества","url":"https://www.visitpaquera.com/es/","paths":["/es/"]},
-  {"name":"Caño Negro Experience · местные наблюдения и маршруты","url":"https://www.canonegroexperience.com/","paths":["/tours","/packages","/package","/lacotinga","/blog/"]},
-  {"name":"Bahía Rica · каяк, SUP и рыбалка","url":"https://www.bahiarica.com/tours","paths":["/tour/","/news/"]},
-  {"name":"Isla de Chira · лодки и сельский туризм","url":"https://islachira.com/","paths":["/como-","/tour","/hosp","/contact","/actividad"]},
-  {"name":"Hacienda La Central · тропы и overlanding","url":"https://www.haciendalacentral.com/","paths":["/tour_","/act_","/posada-","/nuestra-"]},
-  {"name":"Cross Costa Rica MTB · этапы и официальные GPX","url":"https://crosscostaricamtb.com/Home/Etapas","paths":["/descargar/gpx/","/home/"]},
-  {"name":"Gran Fondo Zona Sur · Кепос и GPX","url":"https://www.fondozonasur.com/","paths":["/storage/gpx/","/storage/guia_tecnica/"]},
-  {"name":"Nosara MTB · местные тропы и велопрокат","url":"https://nosaramtb.com/the-guide/","paths":["/product/","/tours/","/product-category/"],"language":"en","focus":"Местные петли, GPX по условиям владельца, приливы, сезонность и программы e-bike с проводником."},
-  {"name":"Rafiki · глэмпинг и водные маршруты","url":"https://rafikisafari.com/wp/","paths":["/wp/experiences/","/wp/packages/","/wp/stay/"]},
-  {"name":"GoRafting · Pejibaye и местные речные участки","url":"https://gorafting.com/costa-rica/pejibaye-river/","paths":["/costa-rica/"],"language":"en","focus":"Речные схемы с порогами, вариантами старта и высадки. Сведения о воде и доступе к берегу уточняются на месте."},
-  {"name":"RCR · реки Гуанакасте","url":"https://www.raftingguanacaste.com/es/safari-corobici-rio-floating/","paths":["/es/rio-","/es/safari-","/es/como-"]},
-  {"name":"Trivium Academy · занятия на Сарапики","url":"https://costaricaraft.com/workshops","paths":["/academy/","/workshops/","/rafting/","/kayaking/"]},
-  {"name":"Guardavidas Costa Ballena · пляжи и сводки","url":"https://www.lifeguardscostaballena.com/","paths":["/beaches","/about","/program","/blog","/updates"]},
-  {"name":"Todo Uvita · местный сёрф и пляжи","url":"https://todouvita.com/c/surf","paths":["/c/","/p/","/es/"]},
-  {"name":"Pavones Hub · местные поездки и транспорт","url":"https://pavoneshub.com/transporte-transportation/","paths":["/transporte-","/category/","/surf","/guide","/event"]},
-  {"name":"Camping Babsita · проживание и вода на Río Estrella","url":"https://campingbabsita.com/tours","paths":["/tours","/accommodation","/getting-to-us-directions","/about-us","/faqs"]},
-  {"name":"Alouatta · кемперы и канопи в Кауите","url":"https://alouattalodgeandcanopy.com/cabanas/","paths":["/cabanas/","/canopy-aventura/","/parking","/contacto/"]},
-  {"name":"Gandoca Tours · местные программы на лагуне","url":"https://www.gandocatours.com/tour/kayaking-en-laguna-gandoca/","paths":["/tour/","/nosotros/","/contact"]},
-  {"name":"Tortugas Costa Rica · вода и мангры у Парриты","url":"https://tortugascostarica.org/es/tours/manglar","paths":["/es/tours/","/es/proyectos/","/es/conservacion/"]},
-  {"name":"Marlin del Rey · посадка и рейсы Coco и Tamarindo","url":"https://marlindelrey.com/faq/","paths":["/sailing-tours/","/playa-del-coco-","/contact","/faq/"]},
-  {"name":"Panache Sailing · рейсы от Marina Flamingo","url":"https://panachesailing.com/","paths":["/tours/","/faq/","/contact-us-2/"]},
-  {"name":"Coco’s Tours · местные выезды из Пунтаренаса","url":"https://cocostours.cr/tour-category/tours/","paths":["/tour/","/contacto/"]},
-  {"name":"The Majestic · рейсы от Tambor Pier","url":"https://themajesticcostarica.com/","paths":["/tour-","/es/","/contact"]},
-  {"name":"Ecotours Toro Amarillo · маршруты долины","url":"https://bajosdeltoroamarillo.com/es/","paths":["/es/","/senderismo-","/cataratas-","/best-hiking-"]},
-  {"name":"Senderos del Toro · походы и водопады","url":"https://senderosdeltoro.com/tours/","paths":["/pozo-azul-","/catarata-rio-agrio","/catarata-vuelta-","/catarata-blue-","/catarata-la-diana"],"language":"es","focus":"Местные проводники Бахос-дель-Торо. Походы к водопадам, условия допуска и снаряжение."},
-  {"name":"Монтес-де-Оро · сельские тропы","url":"https://montesdeoro.go.cr/tajo-alto/","paths":["/finca-","/senderismo/","/caminata-al-","/canon-del-"]},
-  {"name":"Valhalla · местные туры и треки","url":"https://valhallamodotapir.com/tours/","paths":["/tours/"]},
-  {"name":"Finca Curubanda · походы у Рио-Бланко","url":"https://www.leonawaterfallcurubanda.com/en","paths":["/en/","/post/"]},
-  {"name":"Costa Rica Sin Filtros · водопады","url":"https://costaricasinfiltros.com/cataratas/","paths":["/cataratas/"],"language":"es","focus":"Поездки авторов к водопадам и речным чашам, фотографии и описания подходов в разных провинциях."},
-  {"name":"JorleHike · местный проводник","url":"https://jorlehike.com/","paths":["/gira-","/guia-"],"language":"es","focus":"Опыт костариканского проводника на El Camino. Подготовка к длинному походу и программа перехода за 15 дней."},
-  {"name":"Two Weeks in Costa Rica · регионы","url":"https://www.twoweeksincostarica.com/destinations/","paths":["/hiking-","/catarata-","/fishing-","/things-to-do/","/nauyaca-","/belen-","/montezuma-","/king-louis-"],"language":"en","focus":"Отчёты живущих в стране авторов. Семейные поездки, семейные тропы, рыбалка, побережья и сельские районы."},
-  {"name":"Paradise Catchers · Коста-Рика","url":"https://www.paradisecatchers.com/category/central-america/costa-rica/","paths":["/how-to-get-","/waterfalls-","/la-fortuna-","/costa-ballena-","/drake-bay-","/floating-in-","/2-days-in-","/5-days-in-","/10-days-in-"],"language":"en","focus":"Опыт авторов из Коста-Рики. Маршруты на несколько дней, дороги, общественный транспорт, водопады и труднодоступные районы."},
-  {"name":"Costa Rica Travel Blog · малолюдные места","url":"https://costaricatravelblog.com/costa-rica-off-the-beaten-path/","paths":["/category/where-to-go-in-costa-rica/","/category/what-to-do-in-costa-rica/","/costa-rica-waterfalls","/free-hot-springs-","/driving-to-"],"language":"en","focus":"Поездки авторов в малолюдные места. Пляжи, водопады, горячие источники и остановки в небольших сообществах."},
-  {"name":"Pérez Zeledón · карта водопадов","url":"https://perezzeledon.com/waterfalls","paths":["/sendero-","/itinerar","/bus-routes-"],"language":"es-en","focus":"Региональный путеводитель по долине Эль-Хенераль. Карта водопадов, районные маршруты и местный транспорт."},
-  {"name":"Mytanfeet · подготовка и транспорт","url":"https://mytanfeet.com/costa-rica-travel-planning-tips/","language":"en","focus":"Проверка подъездов и пересадок, поездки без машины, экипировка на сезон дождей и выбор жилья."},
-  {"name":"Visit Costa Rica · статьи портала","url":"https://www.visitcostarica.com/blog","paths":["/blog/","/planning-your-trip/itineraries/"]},
-  {"name":"Costa Rica Cool · местные репортажи","url":"https://cool-cr.com/editorial/categoria/lugares-visitados","paths":["/editorial/"],"language":"es","focus":"Редакционные репортажи из небольших пляжных посёлков, отелей и кафе."},
-  {"name":"Costa Rica Experts · статьи о регионах","url":"https://costaricaexperts.com/destinations/","paths":["/destinations/"],"language":"en","focus":"Региональные путеводители местного туроператора от Дрейка и Пуэрто-Хименеса до Ареналя и Тортугеро."},
-  {"name":"Costa Rican Vacations · логистика и активности","url":"https://www.vacationscostarica.com/travel/","paths":["/travel/","/things-to-do/"]},
-  {"name":"Surf Simply · журнал школы","url":"https://surfsimply.com/magazine","paths":["/magazine/"],"language":"en","focus":"Пособия школы из Носары о подготовке, выборе доски и тренировках в воде."},
-  {"name":"Místico · прогулки у подвесных мостов","url":"https://misticopark.com/blog/","paths":["/blog/","/tours/"]},
-  {"name":"Hacienda Guachipelín · поездки у вулкана","url":"https://www.guachipelin.com/blog/en/","paths":["/blog/","/tours/"]},
-  {"name":"Selvatura · тропы и канопи Монтеверде","url":"https://www.selvatura.com/blog/","paths":["/blog/","/tours/"]},
-  {"name":"Vista Los Sueños · материалы о поездках из Хако","url":"https://vistalossuenosadventurepark.com/blog/","paths":["/blog/","/tours/"]},
-  {"name":"Arenal Manoa · термы и поездки из Ла-Фортуны","url":"https://arenalmanoa.com/blog/","paths":["/blog/","/tours/"]},
-  {"name":"Hotel Belmar · журнал Монтеверде","url":"https://www.hotelbelmar.net/happenings/blog","paths":["/blog/","/es/blog/"]},
-  {"name":"Diamante · журнал парка","url":"https://diamanteecoadventurepark.com/blog/","paths":["/blog/","/es/blog/"]},
-  {"name":"Visita Coto Brus · сельские места и тропы","url":"https://www.visitacotobrus.com/turismo","paths":["/turismo/atractivos/"],"language":"es","focus":"Местный каталог южной Таламанки с указаниями подъезда, маршрутами, ночёвками и контактами."},
-  {"name":"AsoProLA · Альтамира и Биоллей","url":"https://asoprola.com/","paths":["/tours","/posada","/cafe"],"language":"es","focus":"Программы сельской ассоциации у входа в Ла-Амистад, ночёвки и местный кофе."},
-  {"name":"ATEC · местные программы Таламанки","url":"https://ateccr.org/ecotours/","paths":["/producto/"],"language":"en","focus":"Поездки общественной ассоциации на южной Карибике и в Таламанке. Многодневные походы, лодки, местные гиды и снаряжение."},
-  {"name":"La Fiebre de Viajar · отчёты из поездок","url":"https://lafiebredeviajar.com/pages/blog","paths":["/blogs/blog/"],"language":"es","focus":"Испаноязычные отчёты об окрестностях Центральной долины, национальных парках, ночёвках и тропах."},
-  {"name":"Las Catalinas · блог о природе и тропах","url":"https://theblog.lascatalinascr.com/","paths":["/las-catalinas-trails","/birdwatching-","/access-to-nature","/development-and-conservation","/10-things-to-do","/in-harmony","/what-to-do"],"language":"en","focus":"Пешая и велосипедная сеть, наблюдение за птицами, побережье и природоохранные работы."},
-  {"name":"Marina Pez Vela · хроника и водные события","url":"https://marinapezvela.com/news/","paths":["/a-rockstar-","/pelagic-","/bisbees-","/record-","/fishing-","/events/"],"language":"en","focus":"Морские программы Кепоса, хроника рыболовных выходов и регламенты организаторов."},
-  {"name":"Ebiking Costa Rica · дневные программы и экспедиции","url":"https://ebikingcostarica.com/","paths":["/full-adventure-","/crossing-","/ebike-tours-","/wp-content/uploads/"],"language":"en","focus":"Дневные выезды и экспедиции с местными гидами. Дистанции, высотные профили и логистика по этапам."},
-  {"name":"Paraíso Tropical · лагеря и лодки в Каньо-Негро","url":"https://es.canonegrotours.com/","paths":["/camping","/sportfishing","/copia-de-","/one-day-","/tour","/boat-","/night-walk"],"language":"es","focus":"Кемпинг, лодочные прогулки и рыбалка от семьи из Каньо-Негро."},
-  {"name":"Bolita · самостоятельные лесные тропы Осы","url":"https://bolitatrails.com/portfolio/","paths":["/portfolio/","/trail-"],"language":"en","focus":"Местные описания троп Брюха и Бонанса. Дневной вход и ночёвки у Дос-Брасос."},
-  {"name":"Ticos A Pata · выходные пешие маршруты и многодневные экспедиции","url":"https://ticosapata.com/rutas-nacionales/","sitemap":"https://ticosapata.com/wp-sitemap-posts-post-1.xml","paths":["/2026/","/2027/","/2028/"],"language":"es","focus":"Местные пешие маршруты, частные тропы, ночёвки и дневные выходы. Карта сайта даёт отдельные программы из архива."},
-  {"name":"Vamos a Turistear · маршруты для жителей Коста-Рики","url":"https://vamosaturistear.com/blog/","sitemap":"https://vamosaturistear.com/actividades-sitemap.xml","paths":["/actividades/"],"language":"es","focus":"Проект ICT о поездках выходного дня, природных местах и местных занятиях. Индекс включает архив статей всех страниц."},
-  {"name":"Camping.cr · кемпинги с разрешённым костром","url":"https://camping.cr/features/fogatas/","paths":["/listing/"],"language":"es","focus":"Местный каталог лагерей. Фото, подъезды, контакты и отзывы о площадках. Правила конкретного очага уточняют у хозяев."},
-  {"name":"MotoRumbo · отчёты с грунтовых дорог","url":"https://motorumbo.com/rutas/?todas=1","paths":["/rutas/"],"language":"es","focus":"Отчёты местных мотоциклистов о грунтовых дорогах, примерных расстояниях и сезонном состоянии. Для выезда на 4×4 сверяют допуск и проходимость отдельно."},
-  {"name":"Vista Los Sueños · багги, квадроциклы и вода","url":"https://vistalossuenosadventurepark.com/adventuretours/","paths":["/adventure-tours/"],"language":"en","focus":"Программы парка у Эррадуры. Багги, квадроциклы, сплавы и каньонинг с опубликованными фотографиями."},
-  {"name":"Cabuya CR · местные тропы и ночёвки","url":"https://www.cabuyacr.com/where-to-stay-in-cabuya/","paths":["/cabuya-","/where-to-","/how-to-","/beaches-","/things-to-do-","/montezuma-"],"language":"en","focus":"Маршруты и ночёвки в Кабуе, береговые прогулки и подъезд к Кабо-Бланко."},
-  {"name":"Pavones Hub · кемпинги и жильё","url":"https://pavoneshub.com/alojamiento-lodging/","paths":["/transporte-","/category/","/surf","/guide","/event","/alojamiento-"],"language":"es-en","focus":"Местное размещение и поездки вокруг Павонеса. Контакты кемпингов, жильё и транспорт."},
-  {"name":"YöKö CR · overlanding и кемпинги","url":"https://yokocr.com/camping","paths":["/camping/"],"language":"es","focus":"Испаноязычный каталог мест под обычную палатку и автостоянок. Фото, навигация и контакты отдельных кемпингов."},
-  {"name":"Sea Saw · маршруты лодок из Гарсы","url":"https://nosaraseasawtours.com/experience/unwind/","paths":["/tour/","/experience/"],"language":"en","focus":"Катамараны, снорклинг и рыбалка небольших местных экипажей, расписания и условия."},
-  {"name":"A Dónde Ir Costa Rica · архив мест по провинциям","url":"https://adondeircr.com/category/guanacaste/","sitemap":"https://adondeircr.com/post-sitemap.xml","paths":["/guanacaste/","/puntarenas/","/heredia/","/alajuela/","/cartago/","/limon/","/san-jose/"],"language":"es","focus":"Испаноязычный архив туристических заметок. Публикации о береговых подходах, тропах и местах Никои."},
-  {"name":"Costa Tours · поездки и кемпинги","url":"https://costatourscr.com/es/","paths":["/es/tour/"],"language":"es","focus":"Программы из Центральной долины, островные пересадки, палаточные выезды и региональные маршруты."},
-  {"name":"Special Places of Costa Rica · Гуанакасте","url":"https://www.specialplacesofcostarica.com/blog/all/","paths":["/blog/"],"language":"en","focus":"Подробные материалы по пляжам, экскурсиям и логистике побережья Гуанакасте."},
-  {"name":"Hideaway Río Celeste · туры и тропы","url":"https://www.riocelestehideaway.com/tours","paths":["/tours/"],"language":"en","focus":"Тенорио и Рио-Селесте, водные активности, верховые маршруты и выходы с проводниками."},
-  {"name":"Муниципалитет Сан-Рамона · местные поездки","url":"https://visit.sanramon.go.cr/actividades-turisticas/aventura","paths":["/actividades-turisticas/","/declaratorias-turisticas/"],"language":"es","focus":"Тропы, сельские семейные проекты, водопады и программы по округам Сан-Рамона."},
-  {"name":"Adventure Park Barva · MTB, тропы и ночёвки","url":"https://www.adventureparkcr.com/es/nuestros-servicios/camping","paths":["/es/nuestros-servicios/","/es/faqs"],"language":"es","focus":"Парк в Сан-Хосе-де-ла-Монтанья, правила приёма 4×4, кемпинг, велотропы и пешие маршруты."},
-  {"name":"Tapir Valley · природный заповедник у Бихагуа","url":"https://www.tapirvalley.com/","paths":["/morning-tour.php","/night-tour.php","/contact.php","/about.php"],"language":"en","focus":"Официальные программы прогулок, экипировка, сбор и связь с командой местного заповедника."},
-  {"name":"Sentir Costa Rica · длинные трейлы и экспедиции","url":"https://www.sentircostarica.com/costa-rica-200","paths":["/costa-rica-200","/costa-rica-100","/la-ruta-sukia"],"language":"es-en","focus":"Обновления трасс от побережья до побережья, регламенты дистанций свыше 100 км и официальный трек при публикации."},
-  {"name":"Undersea Hunter · журнал выходов к острову Кокос","url":"https://underseahunter.com/cocos-island-trip-reports/","paths":["/trip-report/"],"language":"en","focus":"Датированные рейсы, морские условия, участки погружений и фотографии групп.","exactPaths":["/cocos-island/","/faq/","/terms-conditions/","/schedule-and-rates/"]},
-  {"name":"The Gilded Iguana · журнал Носары","url":"https://www.thegildediguana.com/blog/","paths":["/costa-rica-costas-verdes-","/celebrating-costa-ricas-"],"language":"en","focus":"Уроки серфинга в Гионесе, семейные программы, сезонные события и охрана берега.","exactPaths":["/beginner-guide-surfing-playa-guiones","/why-you-should-join-a-channel-islands-surf-camp","/a-weekend-with-britt-merrick","/kids-club-costa-rica-benefits","/whats-new-in-playa-guiones","/visit-nosara-green-season","/day-in-the-life-at-kids-club","/green-season-escape","/mountain"]},
-  {"name":"El Silencio Lodge · журнал Бахос-дель-Торо","url":"https://www.elsilenciolodge.com/es/blog","paths":["/es/blog/"],"language":"es","focus":"Облачный лес, водопады, семейное размещение и поездки в районе Toro Amarillo."},
-  {"name":"Parador · журнал Мануэль-Антонио","url":"https://hotelparador.com/blog/","paths":["/blog/"],"language":"en","focus":"Туры Кепоса, сезон китов, прогулки для детей и местные природные программы."},
-  {"name":"Tabacón · журнал о Ла-Фортуне","url":"https://www.tabacon.com/blog/","paths":["/blog/"],"language":"en","focus":"Термальные источники, условия визита и программы в районе вулкана Ареналь."},
-  {"name":"The Springs · программы Club Río","url":"https://www.thespringscostarica.com/club-rio-adventure-center/","paths":["/club-rio/","/club-rio-adventure-center/"],"language":"en","focus":"Речные каяки и тюбинг, верховые прогулки, ночная тропа и наблюдение птиц."},
-  {"name":"Pacuare Lodge · программы в речном каньоне","url":"https://www.pacuarelodge.com/activities-adventure/","paths":["/activities-"],"language":"en","focus":"Рафтинг по участкам, каньонинг, подвесные тросы, прогулки с гидом и транспорт к лоджу.","exactPaths":["/rafting","/canopy","/canyoning","/the-nest","/rainforest-canopy","/faq","/pacuare","/whats-included"]},
-  {"name":"Costa Rica Guide · путевые отчёты и маршруты","url":"https://costa-rica-guide.com/","paths":["/stories/","/activities/","/trips/itineraries/","/nature/national-parks/"],"language":"en","focus":"Авторские поездки, походные и велосипедные маршруты, карты, транспорт и природные районы."},
-  {"name":"Aguas Claras · велосипед, каяк и тропы Карибского берега","url":"https://hotelaguasclaras.com/","paths":[],"language":"en","focus":"Пунта-Ува, байки, каякинг, природные маршруты Кауиты и Гандоки, визиты к Брибри.","exactPaths":["/puerto-viejo","/cahuita","/punta-uva","/talamanca-bribri","/jungle-hike","/wildlife-season"]},
-  {"name":"Arenas Del Mar · маршруты у Мануэль-Антонио","url":"https://arenasdelmar.com/","paths":[],"language":"en","focus":"Пляжные подходы, лодки, пешие и семейные программы Кепоса, природные сезоны.","exactPaths":["/beach-of-arenas-del-mar","/manuel-antonio-beaches","/manuel-antonio-activities","/adventure-adrenaline-tours","/ocean-tours","/wildlife-season","/naturalist-guides","/family-vacation","/dock-to-dish-manuel-antonio"]},
-  {"name":"Hacienda Pinilla · велотропы, берег и конные маршруты","url":"https://haciendapinilla.com/amenities.html","paths":[],"language":"en","focus":"Карты и правила доступа к MTB-тропам, пляжам, серфингу и верховым прогулкам на ранчо.","exactPaths":["/mtb.html","/surf.html","/horseback-riding.html","/our-beaches.html","/beach-club.html"]},
-  {"name":"Río Perdido · тропы и каньон","url":"https://www.rioperdido.com/","sitemap":"https://www.rioperdido.com/sitemap.xml","paths":["/our-attractions/","/blog/"],"language":"en","focus":"Программы MTB, трейлраннинга, прогулок, тюбинга и термальной реки. Условия площадки."},
-  {"name":"Bike Arenal · веломаршруты и экспедиции","url":"https://www.bikearenal.com/","paths":["/tour/","/package/"],"language":"en","focus":"Программы, карты Ride with GPS, прокат, отзывы и многодневные выезды школы из Ла-Фортуны."},
-  {"name":"Arenal Epic · регламент MTB, gravel и e‑bike","url":"https://www.arenalepic.com/","paths":[],"exactPaths":["/45km.html","/90km.html","/148km.html","/galeria.html"],"language":"es","focus":"Ветки вокруг Ареналя, свежие выпуски, фотографии и данные о трассах."},
-  {"name":"My Adventure Costa Rica · гравийные этапы","url":"https://www.myadventurecostarica.com/es/journeys/gravel-cycling","paths":["/es/journeys/gravel-cycling/"],"language":"es-en","focus":"Карта этапов Никойи, даты, форматы поддержки и объезды устьев по сезону."},
-  {"name":"Migración Panamá · официальные обновления","url":"https://www.migracion.gob.pa/","paths":["/noticias/","/turistas/"],"exactPaths":["/preguntas-frecuentes","/turistas"],"language":"es","focus":"Требования к туристам, уведомления ведомства и пункты оформления."},
-  {"name":"INTUR · дороги, вода и маршруты с юга Никарагуа","url":"https://www.visitanicaragua.com/sobre-nicaragua/como-llegar-a-nicaragua/","paths":["/sobre-nicaragua/","/playas/","/espacios-naturales/"],"language":"es","focus":"Сухопутные переходы, прибрежные места и правила поездки на машине и общественном транспорте."},
-  {"name":"Turismo Panamá · Чирики и Бокас-дель-Торо","url":"https://es.tourismpanama.com/lugares-para-visitar/","paths":["/lugares-para-visitar/boquete/","/lugares-para-visitar/bocas-del-toro/","/blog/post/"],"language":"es","focus":"Тропы, кофе, местные лодки и варианты выезда из приграничных районов."},
-  {"name":"Asociación de Punta Morales · местные лодки и фермы","url":"https://turismopuntamoralesgolfodenicoyaadi.com/Atracciones.html","paths":[],"exactPaths":["/Atracciones.html"],"language":"es","focus":"Публикуемые программы и контакты лодок, проката каяков, фермы Тенорио и конной базы у Lagartos."},
-  {"name":"Viviendo la Pesca · рыбалка с лодки и каяка","url":"https://viviendolapesca.com/","paths":["/tours/"],"language":"es","focus":"Программы местных рыболовов, даты, стартовые точки и условия участия со своей лодкой."},
-  {"name":"Pura Paddle · прокат и морская гребля Папагайо","url":"https://www.wowsurfcamp.com/purapaddle","paths":[],"exactPaths":["/purapaddle"],"language":"en","focus":"Прокат, семейные программы, снаряжение и районы старта по ветру и воде."},
-  {"name":"SINAC · режим посещения Игуаниты","url":"https://demo.sinac.go.cr/ES/ASP/Ficha/rnvs-iguanita","paths":[],"exactPaths":["/ES/ASP/Ficha/rnvs-iguanita"],"language":"es","focus":"Дневной вход, палаточная зона, режим и контакты управляющей территории."},
-  {"name":"Arenal Rafting · журнал River Society","url":"https://arenalrafting.com/arenal-rafting-blog-the-river-society/","paths":["/arenal-rafting-tours-la-fortuna/","/combo-rafting-","/category/"],"exactPaths":["/arenal-rafting-risk-assessment/","/hotel-pick-up-times-and-departure-times-for-rafting-tours/","/arenal-rafting-tours-la-fortuna/balsa-river-white-water-rafting-class-ii-iii/","/arenal-rafting-tours-la-fortuna/balsa-river-white-water-rafting-class-3-4-la-fortuna/","/arenal-rafting-tours-la-fortuna/rio-sarapiqui-river/","/combo-rafting-canyoning/"],"language":"en","focus":"Тексты команды по участкам Balsa и Sarapiquí, трансферам, условиям и сочетаниям рафтинга с другими занятиями."},
-  {"name":"Ponderosa · журнал и семейные программы","url":"https://ponderosacostarica.com/blog/","paths":["/tienda-en-linea/actividades/","/tienda-en-linea/paquetes/"],"exactPaths":["/tienda-en-linea/actividades/lazy-river-float/","/tienda-en-linea/actividades/safari-tour-guanacaste/","/tienda-en-linea/actividades/cabalgata/","/tienda-en-linea/paquetes/paquete-full-day-tour/","/exoneracion-de-responsabilidad-en-actividades/"],"language":"es","focus":"Официальные материалы для семейных выездов в Либерии, водных прогулок и знакомства с животными."},
-  {"name":"Jaguar Rescue Center · новости и программы","url":"https://www.jaguarrescue.foundation/en-us/News","paths":["/en-us/News","/en-us/SupportUs/Tours/"],"exactPaths":["/en-us/SupportUs/Tours/PublicTour","/en-us/SupportUs/Tours/PrivateTour","/en-us/HowtoGetHere","/en-us/AboutJRC/LaCeibaPrimaryForestFoundation"],"language":"en","focus":"Обновления центра на карибском побережье, посещение с гидом, подъезд и природоохранные работы в Таламанке."},
-  {"name":"ArtVillas · путеводитель по занятиям у Увиты","url":"https://artvillas.com/experiences","paths":["/experiences/"],"exactPaths":["/experiences","/our-story"],"language":"en","focus":"Открытый раздел владельцев ArtVillas о занятиях в Увите и районе южного Тихого океана."},
-  {"name":"Hacienda Orosi · карты и условия семейного визита","url":"https://haciendaorosi.com/booking/","paths":["/booking/producto/"],"exactPaths":["/hacienda-orosi/","/booking/terminos-y-condiciones/","/booking/producto/coffee-tour-adventure-granja/","/booking/producto/entrada-a-la-granja/","/booking/producto/pase-de-dia/","/booking/producto/pase-de-noche/"],"language":"es","focus":"Действующие программы кофе, фермы, термалов, возрастные билеты, длительность и условия посещения."},
-  {"name":"Osa Tourism · маршруты и велосипеды","url":"https://www.osatourism.com/osa-bike-tour-company/","paths":[],"exactPaths":["/puerto-jimenez-tours/","/osa-bike-tour-company/"],"language":"en","focus":"Участки Дос-Брасос, прокат MTB, программы местных проводников и альтернативные короткие поездки."},
-  {"name":"CATURSANTOS · поездки с местными гидами","url":"https://catursantos.com/directory/dota-es-dota/","paths":["/directory/"],"exactPaths":["/directory/dota-es-dota/","/directory/coopedota-r-l/"],"language":"es","focus":"Велосипедные поездки, финки, гиды, кофе и кемпинги в Лос-Сантос."},
-  {"name":"Puerto Viejo Club · активности Таламанки","url":"https://www.puertoviejoclub.com/en/activities-offers/","paths":["/en/activities-offers/"],"exactPaths":["/en/contact/"],"language":"en","focus":"Программы с проводниками, MTB, речная гребля и береговые поездки, контакты местных команд."},
-  {"name":"MonteTours · e‑MTB Монтеверде","url":"https://montetours.com/monteverde-mountain-ebike-tours/","paths":["/epic-sunrise-","/epic-sunset-","/monteverde-cloud-forest-mountain-bike-","/el-tigre-monteverde-mountain-bike-","/lake-trail-monteverde-mountain-bike-"],"language":"en","focus":"Условия по погоде, время выезда, возраст, состав услуг и ссылки на операторские маршруты."},
-  {"name":"Bimba · доки и велопрокат Санта-Тересы","url":"https://gobimba.com/locations-2/","paths":["/vehicles/","/es/"],"exactPaths":["/es/terms-of-service/","/vehicles/electric-bikes/"],"language":"en","focus":"Смены точек выдачи, коридор прокатного сервиса и правила поездки."},
-  {"name":"Onda Teresa · местный транспорт и велосипедные маршруты","url":"https://www.ondateresa.com/guides/scooter-golf-cart-bike-rentals-santa-teresa","paths":["/guides/"],"language":"en","focus":"Практические заметки о прокате, покрытии, дожде, трафике и перемещении без автомобиля."},
-  {"name":"Copa de Árbol · программы Баия-Дрейк","url":"https://www.copadearbol.com/activities/","language":"en","focus":"Водопады Лос-Планес, конные и лесные маршруты, лодки, семейные условия и трансферы.","paths":[],"exactPaths":["/nagualafalls/","/trillo-de-la-danta-drake-bay/","/drake-bay-horseback/","/copa-de-arbol-guided-wildlife-hike/","/transportation/","/location/","/faq/","/rio-claro-nature-hike/","/sierpe-mangrove-forest-tour/","/sunset-boat-cruise/"]},
-  {"name":"Buena Vista del Rincón · маршруты и условия визита","url":"https://www.buenavistadelrincon.com/experiences","language":"en","focus":"Походы, водопады, конные прогулки и термалы на склонах Ринкон-де-ла-Вьеха.","paths":["/experiences/","/blog/"],"exactPaths":["/experiences/nature","/experiences/adventure","/experiences/wellness","/day-pass"]},
-  {"name":"Peninsula Papagayo · программы и заметки Explorers","url":"https://peninsulapapagayo.com/explore/","language":"en","focus":"Пальмарес, e-MTB, доступ к тропам, карта района, гиды и береговые программы.","paths":[],"exactPaths":["/ebikes/","/mountain-biking-bliss/","/new-wilderness-outpost-in-palmares-to-debut-in-november/"]},
-  {"name":"Oxygen · природные и морские программы Увиты","url":"https://oxygenjunglevillas.com/adventures/","language":"en","focus":"Походы, гребля, морские прогулки и условия работы операторов у Марино-Бальена.","paths":["/blog/"],"exactPaths":["/bird-watching-hikes/","/ziplining-canopy-tours/","/whale-dolphin-tour/","/white-water-rafting/","/contact/","/kayaking/","/paddle-boarding/","/snorkeling-and-diving/","/surfing/","/waterfall-rappelling/"]},
-  {"name":"Cariblue · программы и логистика Карибского берега","url":"https://cariblue.com/actividades-caribe","language":"es","focus":"Прогулки из Коклеса, пляжи, доступ для семей и местные туры из Пуэрто-Вьехо.","paths":[],"exactPaths":["/preguntas-frecuentes/","/como-llegar/","/day-pass/","/en/actividades-caribe/","/contacto/"]},
-  {"name":"Sky Adventures · программы и правила Ареналя","url":"https://skyadventures.travel/","language":"en","focus":"Тропы с подвесными мостами, подъёмник, канопи и требования к посещению.","paths":[],"exactPaths":["/ziplines/","/hanging-bridges/","/aerial-tram/","/hand-of-arenal/","/faqs/"]},
-  {"name":"Rescate Wildlife · статьи и посещение центра","url":"https://rescatewildlife.org/blogs/","language":"en","focus":"Уход за животными, семейное посещение приюта и карта территории.","paths":["/blogs/"],"exactPaths":["/tickets-tours/","/sanctuary-map/","/educational-group-tours/","/capybara-rescue-story/","/the-story-of-guapo-our-jaguar/","/directions/"]},
-  {"name":"Museo Nacional · доступные выставки и материалы","url":"https://www.museocostarica.go.cr/exhibiciones/","language":"es","focus":"Экспозиции, сад бабочек и программы Национального музея для семейного дня в Сан-Хосе.","paths":["/exhibiciones/"],"exactPaths":["/visitar/plano-interactivo/","/exhibiciones/jardin-de-mariposas/","/exhibiciones/de-cuartel-a-museo/"]},
-  {"name":"Tulemar · путеводитель Мануэль-Антонио","url":"https://www.tulemar.com/blog/","language":"en","focus":"Наблюдение животных, пляжные заходы, рыбалка и поездки из Кепоса.","paths":["/blog/"],"exactPaths":["/map/","/experiences","/activities/dining/"]},
-  {"name":"Maverick · рыболовные отчёты Тихого океана","url":"https://www.mavericksportfish.com/fishing-reports/","language":"en","focus":"Отчёты по сезонам и выездам, условия чартеров, береговые и дальние маршруты.","paths":["/los-suenos-fishing-report-","/los-sueos-fishing-report-"],"exactPaths":[]},
-  {"name":"Vive Dos Ríos · маршруты сельских сообществ Упалы","url":"https://www.vivedosrios.com/nuestras-rutas","language":"es","focus":"Местные фермы, сезонные водопады, термалы, виды трансфера и семейное размещение.","paths":[],"exactPaths":["/ruta-del-agua","/ruta-agroturismo","/ruta-aguas-termales","/ruta-aves","/directorio","/reservaciones"]},
-  {"name":"Pacific Coast Dive Center · занятия в Фламинго и Тамариндо","url":"https://www.pacificcoastdivecenter.com/tours/","language":"es-en","focus":"Гиды, допуск к дайвингу, занятия для новичков, лодки и снорклинг.","review":"catalina-pcdc-tours-library","paths":["/es/tour/","/tour/"],"exactPaths":["/es/tour/buceo/","/es/tour/discover-scuba-diving-es/","/es/islas-catalinas-costa-rica/","/booking/"]},
-  {"name":"Punta Uva Dive Center · условия карибского рифа","url":"https://puntauvadivecenter.com/","language":"en","focus":"Выезды к рифам, вводное погружение и курсы местной команды в Таламанке.","review":"punta-uva-dive-owner","paths":[],"exactPaths":["/padi-courses/","/discover-scuba-diving/","/open-water/","/advanced-open-water-diver/","/divemaster/","/rescue-diver/","/emergency-first-response/"]},
-  {"name":"Boca Brava Lodge · остров и водное такси из Бока-Чики","url":"https://bocabravalodge.com/","language":"en","focus":"Семейные домики в Панаме, маршруты к берегу и правила короткого лодочного трансфера.","paths":[],"exactPaths":["/getting-here.html","/island.html","/cabins.html","/contact.html","/gallery.html"]},
-  {"name":"Monkeys Travels · паром и маршрут по Ометепе","url":"https://monkeytravelstours.com/en/guides/san-jorge-ometepe-ferry-schedule","language":"es-en","focus":"Повседневные паромы, два причала острова, природные места и маршруты местных гидов.","review":"ni-ometepe-ferry-guide","paths":["/en/guides/ometepe-","/es/guides/ometepe-"],"exactPaths":["/en/tours/ometepe-island","/en/guides/ometepe-in-one-day-from-san-juan-del-sur"]},
-  {"name":"Chiriqui Tours · морской парк и выходы из Бока-Чики","url":"https://www.chiriquitours.com/book-online","language":"en","focus":"Островные лодки, экипировка и программы местного оператора.","review":"pa-chiriqui-tours-catalog","paths":["/service-page/"],"exactPaths":["/service-page/gulf-of-chiriqui"]},
-  {"name":"Electric Bike Costa Rica · велосипедные маршруты из Коко","url":"https://www.electricbikecostarica.com/","language":"en","focus":"e-MTB к водопадам и вулканам, прокат, доступ, подготовка и условия.","review":"ebike-coco-electricbike-catalog","paths":[],"exactPaths":["/rentals","/guided-tours","/las-pilas-ebike-tour","/rincon-de-le-vieja-e-bike-tour","/palo-verde-ebike-tour","/contact"]},
-  {"name":"Sámara Explorers · прибрежный e-bike и прокат","url":"https://www.samaraexplorers.com/rentals/bikes","language":"en","focus":"Прокат для Самары и Каррильо, транспорт и условия семейных выездов.","review":"ebike-samara-explorers-rent","paths":[],"exactPaths":["/rentals/bikes","/rentals","/transportation"]},
-  {"name":"Costa Rica MTB · технические e-MTB синглтреки","url":"https://www.costaricamtb.com/mtb-guide-trip-costa-rica","language":"en","focus":"Однодневные маршруты с гидами и многодневные велопоездки. Техника, комплектация, транспорт.","review":"ebike-costaricamtb-guide-trips","paths":[],"exactPaths":["/emtb-singletrack-tours","/mtb-guide-trip-costa-rica","/mountain-bike-trips/trail-surfing-week"]},
-  {"name":"Wikiloc · Коста-Рика на электровелосипеде","url":"https://es.wikiloc.com/rutas/bicicleta-electrica/costa-rica","language":"es","focus":"Открытые записи поездок, поиск по провинции и статистика автора, проверка прав проезда вручную.","paths":[],"exactPaths":[]},
-  {"name":"Proyecto Aguaepipa · велопутеводитель по Коста-Рике","url":"https://proyectoaguaepipa.com/es/costa-rica/activities/biking-in-costa-rica","language":"es","focus":"Дороги, велозоны Ареналя и Лас-Каталинас, региональные подробности на испанском.","paths":[],"exactPaths":["/es/costa-rica/activities/biking-in-costa-rica"]},
-  {"name":"PérezZeledón.com · местные поездки в Ривасе","url":"https://perezzeledon.com/es/rivas","language":"es","focus":"Пешие тропы, подтверждённые места у терм, режимы подъезда и экскурсии в долине Чиррипо.","review":"rural-rivas-perezzeledon-district","paths":[],"exactPaths":["/es/rivas","/es/sendero-los-gigantes-rivas-perez-zeledon","/es/chirripo","/es/things-to-do"]},
-  {"name":"The Trail Adventure CR · местные трейлы и забеги","url":"https://thetrailadventurecr.com/","language":"es","focus":"Календарь трейлраннинга Ла-Фортуны, Рио-Куарто, Сан-Висенте и горной зоны Сарсеро.","review":"rural-trail-adventure-series","paths":[],"exactPaths":["/"]},
-  {"name":"Valle del Chirripó · гостевые программы CATURCOCHI","url":"https://valledelchirripo.com/","language":"es","focus":"Гиды долины, маршруты для семей и пеших групп, фермерские программы и кемпинг.","review":"rural-caturcochi-valle-chirripo","paths":[],"exactPaths":["/acampe-a-los-pies-de-los-gigantes/","/experiencia-chirripo/","/entrenamiento-para-conquistar-la-cima-del-chirripo/"]},
-  {"name":"Osa Tourism · прокат и транспорт Пуэрто-Хименеса","url":"https://www.osatourism.com/puerto-jimenez/","language":"en","focus":"Велопрокат, лодки, транспорт, часы и местные варианты поездок в Пуэрто-Хименесе и по Осе.","review":"rural-osa-jimenez-current-transport","paths":[],"exactPaths":["/puerto-jimenez/","/osa-whatsapp-directory/","/osa-peninsula-specialized-tours/"]},
-  {"name":"Almonds & Corals · путеводитель по Мансанильо","url":"https://almondsandcorals.com/why-you-should-not-miss-costa-rica-caribbean-coast/","language":"en","focus":"Пляжи, пеший Мансанильо, подходы к заказнику, питание и советы по Карибскому берегу.","paths":[],"exactPaths":["/why-you-should-not-miss-costa-rica-caribbean-coast/","/the-hotel/","/contact/"]},
-  {"name":"Le Caméléon · поездки и каяки из Коклеса","url":"https://www.lecameleonhotel.com/experiences","language":"en","focus":"Каяк, проводники, природные выезды, контакт и варианты поездок из Коклеса.","paths":[],"exactPaths":["/experiences","/contact-location"]},
-  {"name":"Banana Azul · Южный Кариб с местными организаторами","url":"https://www.bananaazul.com/activities","language":"en","focus":"Кауита, сёрф, пляжи, программы Caribe Fun Tours и другие операторы Таламанки.","paths":[],"exactPaths":["/activities","/contact"]},
-  {"name":"Maquenque Lodge · лодки, каяки и лесная база","url":"https://maquenquelodge.com/experiences/","language":"en","focus":"Río San Carlos, Rio Tres Amigos, выезды на лодках, гребля и лесные прогулки.","paths":[],"exactPaths":["/experiences/","/sustainability/"]},
-  {"name":"Ride del Caribe · велогонка Кауиты","url":"https://ridedelcaribe.com/","language":"es","focus":"Календарь велогонки, регистрация, e-bike, шоссе, профиль и места встречи.","review":"caribe-ride-del-caribe-2027","paths":[],"exactPaths":["/"]},
-  {"name":"Autentico Adventures · сплавы Хенераль и Гуабо","url":"https://www.autenticoadventures.com/rafting-trips-costa-rica.php","language":"en","focus":"Подтверждённые маршруты, класс воды, трансфер и регламент лагерей на реках южных гор.","review":"general-raft-programs-library","paths":[],"exactPaths":["/rafting-trips-costa-rica.php","/rio-general.php","/rio-general-3.php","/savegre-guabo.php"]},
-  {"name":"Enjoy Osa · сплавы на юге","url":"https://enjoyosa.com/trip/white-water-rafting/","language":"en","focus":"Сезонные программы на Кото-Брусе, снаряжение и исходная площадка связи с проводниками.","review":"coto-enjoy-osa-raft-owner","paths":[],"exactPaths":["/trip/white-water-rafting/"]},
-  {"name":"Visita Coto Brus · местный каталог района","url":"https://www.visitacotobrus.com/turismo/atractivos/parque-la-amistad-pittier","language":"es","focus":"Местные тропы, сельские проекты, парк Ла-Амистад и подходы к Метапонто.","review":"south-coto-visitor-index","paths":["/turismo/atractivos/"],"exactPaths":["/turismo/atractivos/parque-la-amistad-pittier"]},
-  {"name":"Soul Planet Cycles · велосипедные маршруты Бокете","url":"https://www.soulplanetcycles.com/tours","language":"en","focus":"Дистанции e-bike, кафе, остановки, аренда и условия организатора.","review":"pa-boquete-soul-tour-details","paths":[],"exactPaths":["/tours","/"]},
-  {"name":"Finca Lérida · тропы облачного леса","url":"https://hotelfincalerida.com/cloud-forest-trails-boquete/","language":"en","focus":"Плантация, тропы, допуск к частному резерву и программа с местным проводником.","review":"pa-lerida-trails-owner","paths":[],"exactPaths":["/cloud-forest-trails-boquete/"]},
-  {"name":"Caballito’s Mar · каяк в Мериде","url":"https://www.caballitosmar.com/kayak","language":"en","focus":"Река Истиан, выходы на каяках и база местного оператора на Ометепе.","review":"ni-istian-kayak-caballitos","paths":[],"exactPaths":["/kayak","/contact"]},
-  {"name":"El Zopilote · самостоятельные поездки по Ометепе","url":"https://ometepezopilote.net/rio-istian-kayak-tour-ometepe/","language":"en","focus":"Транспорт острова, паром, каяк в Истиане и условия базы на стороне Мадераса.","review":"ni-istian-zopilote-booking","paths":[],"exactPaths":["/rio-istian-kayak-tour-ometepe/"]},
-  {"name":"Puesta del Sol · местный туризм Ла-Паломы","url":"https://www.puestadelsol.org/services.php","language":"es","focus":"Семейное размещение, обычные велосипеды, каяк и экскурсия к косе.","review":"ni-puesta-bikes-cooperative","paths":[],"exactPaths":["/services.php","/contact.php"]},
-  {"name":"Hacienda AltaGracia · e-MTB по деревням Кахона","url":"https://auberge.com/altagracia/experiences/mountain-biking/","language":"en","focus":"Две поездки e-MTB, возраст и уровень, открытость семейных программ в Перес-Селедоне.","review":"alta-emtb-programs","paths":[],"exactPaths":["/altagracia/experiences/mountain-biking/","/altagracia/contact-us"]},
-  {"name":"Pura Vida Ride · актуальные велопрограммы Лас-Каталинас","url":"https://www.puravidaride.com/rentals","language":"en","focus":"Аренда e-MTB, короткий и длинный синглтрек, выезды к водопаду и консультация по доступу.","review":"catalinas-emtb-rent","paths":[],"exactPaths":["/rentals","/rentals-legacy","/world-class-mountain-biking","/contact"]},
-  {"name":"ARA Tours · программы e-bike по регионам Коста-Рики","url":"https://www.aratours.com/es/excursiones/pura-vida-e-biking","language":"es","focus":"Маршруты под руководством гида, от долины Ороси и Турриальбы до Сарапики, Ла-Фортуны и Самары.","review":"ara-pura-vida-ebike-itinerary","paths":["/es/excursiones/bike-e-bike/"],"exactPaths":["/es/excursiones/pura-vida-e-biking","/es/excursiones/bike-e-bike"]},
-  {"name":"Vista Golfo · водопады, канопи и кемпинг в Мирамаре","url":"https://adventureparkcostarica.net/blog/","language":"es","focus":"Официальные программы владельца в Тахо-Альто, условия кемпинга, новые маршруты и изменение контактов.","review":"vista-golfo-spanish-blog","paths":["/tours/","/servicios/","/blog/"],"exactPaths":["/blog/","/tours/tour-de-cataratas/","/tours/tour-big-papa/","/servicios/camping-vista-golfo/"]},
-  {"name":"SUPHERR · прокат на двух побережьях залива","url":"https://www.supherr.com/servicios-sup-y-kayak-una-experiencia-para-todos-los-niveles/","language":"es","focus":"Прокат SUP и каяков в Эррадуре и в заливе Никоя, адреса, занятия и правила выхода.","review":"supherr-operator-water-herradura","paths":["/tours/"],"exactPaths":["/servicios-sup-y-kayak-una-experiencia-para-todos-los-niveles/","/contacto/","/"]},
-  {"name":"Amarena Canvas Beach Hotel · программы Místico","url":"https://amarenabeachhotel.com/es/activities/","language":"es","focus":"Озёрные программы, доступ к пляжу, велосипедные выезды и лодочные предложения.","review":"amarena-mistico-activities","paths":["/es/activities/"],"exactPaths":["/es/activities/","/es/","/location/","/contact/"]},
-  {"name":"Colina Secreta · форматы размещения в Коклесе","url":"https://colinasecreta.com/es/stay/","language":"es","focus":"Карты шатров, варианты семейного размещения, услуги, сообщаемый возраст и условия заезда.","review":"colina-secreta-host-stay","paths":["/es/stay/"],"exactPaths":["/es/stay/","/es/preguntas-frecuentes/","/es/elementor-8682/"]},
-  {"name":"Bike Tour Costa Rica · Носара по дням","url":"https://biketourcostarica.com/tours/","paths":["/tours/","/bike-rental/","/contact/"],"language":"en","focus":"Пятиэтапное катание в районе Носары и Остионаля. Недельная программа, велосипеды и поддержка."},
-  {"name":"Lizard Head · велоэкспедиция через Коста-Рику","url":"https://lizardheadcyclingguides.com/road-mountain-bike-tours/spring-fall-bike-tours/costa-rica-bike-tour/","exactPaths":["/road-mountain-bike-tours/spring-fall-bike-tours/costa-rica-bike-tour/"],"language":"en","focus":"Дальняя программа. Даты, дистанции, питание, аренда e-bike, рафтинг и лодки."},
-  {"name":"ICT · путеводитель по дорогам для велосипеда","url":"https://es.visitcostarica.com/blog/learn-right-routes-road-cycling","exactPaths":["/blog/learn-right-routes-road-cycling"],"language":"es","focus":"Опубликованные ICT велокоридоры Сарапики, долины Ороси, Никои и Карибики."},
-  {"name":"Visit Panamá · тропы Тьеррас-Альтас","url":"https://es.tourismpanama.com/blog/post/senderos-en-tierras-altas/","language":"es","focus":"Короткие и длинные маршруты, природоохранные участки, доступ и фотографии гор Чирики.","paths":["/blog/post/senderos-","/lugares-para-visitar/tierras-altas/","/aire-libre-y-naturaleza/parques-naturales/"]},
-  {"name":"Mount Totumas · подъезд и тропы","url":"https://www.mounttotumas.com/about-1","language":"en","focus":"Требования к 4×4, состояние подъезда, трансфер, лесная сеть и термальные источники.","exactPaths":["/gallery","/reservations","/accomodations"]},
-  {"name":"Pachamama Eco Camp · палатки, каяки и уроки","url":"https://pachamamaecocamp.com/","language":"en","focus":"Палаточная площадка у Лас-Лахас, запрос каяка по манграм, сёрф-уроков и контакты.","exactPaths":["/contact-us"]},
-  {"name":"Sencijo · анонсы катания в Тьеррас-Альтас","url":"https://sencijo.com/es/alquiler-de-bicicletas/","language":"es","focus":"Проверка начала выдачи велосипедов и условий объявленных выездов в Волькане, Бамбито и Серро-Пунте.","paths":["/es/tours/"],"exactPaths":["/es/contacto/"]},
-  {"name":"Buen Camino · допуск, состояние трасс и прокат","url":"https://buencaminocr.com/es/ride/","language":"es","focus":"Схема троп, правила, пауза и возобновление проката e-MTB, часы и ночёвки.","review":"buen-camino-owner-ride","exactPaths":["/es/ride/","/es/","/es/sleep/","/es/eat/"]},
-  {"name":"Todo Jacó · велосипеды и транспорт","url":"https://todojaco.com/c/bikerent","language":"es-en","focus":"Местный каталог аренды, размещение стоек и перевозки.","review":"jaco-pedal-rentals-list","exactPaths":["/c/bikerent","/docs/getting-around.html"]},
-  {"name":"Ticos A Pata · календарь El Camino de Costa Rica","url":"https://ticosapata.com/el-camino-de-costa-rica/","language":"es","focus":"Выходы по этапам, даты, включённая логистика и регистрация.","review":"camino-ticos-a-pata","exactPaths":["/el-camino-de-costa-rica/"]},
-  {"name":"Visit Nicaragua · Ла-Флор","url":"https://www.visitanicaragua.com/en/espacios-naturales/refugio-de-vida-silvestre-la-flor/","language":"en","focus":"Охрана черепах, вход, условия кемпинга и доступ к заповеднику.","review":"ni-rivas-flor-intur","exactPaths":["/en/espacios-naturales/refugio-de-vida-silvestre-la-flor/"]},
-  {"name":"Casa Oro · сёрф и Ла-Флор","url":"https://casaorogroup.com/en/experiencias/surf/","language":"en","focus":"Школа сёрфа, трансферы к пляжам, выходы с местным гидом в Ла-Флор.","review":"ni-rivas-casaoro-maderas","exactPaths":["/en/experiencias/surf/","/en/experiencias/tortugas-la-flor/"]},
-  {"name":"Nica Sail · катамараны Сан-Хуан-дель-Сура","url":"https://www.nicasail.com/charters/","language":"en","focus":"Формат рейсов, причал, остановки, фото, контакт и условия выхода.","review":"ni-rivas-sail-charter","exactPaths":["/charters/"]},
-  {"name":"Fundación Verdiazul · черепахи Хункильяля","url":"https://www.verdiazul.org/","language":"en","focus":"Программа питомника, дни работы, правила посетителей и ориентировочные данные о выходе черепах.","review":"junquillal-verdiazul-home","exactPaths":["/","/help-center/"]},
-  {"name":"Los Vivos · выход из Почоте и домики","url":"https://playalosvivos.com/getting-here","language":"en","focus":"Посадка в Don Trino, движение лодки, расписание, ночёвка и дневной визит.","review":"pochote-los-vivos-boarding","exactPaths":["/getting-here","/","/contact"]},
-  {"name":"Rafiki · подъезд и подготовка к визиту","url":"https://rafikisafari.com/wp/plan-your-trip/","language":"en","focus":"Особенности грунтового подъезда, 4×4, готовые палатки и правила для семей.","review":"rafiki-journey-road-required","exactPaths":["/wp/plan-your-trip/","/wp/stay/","/wp/stay/beach-camp/"]},
-  {"name":"Shana by the Beach · морские и наземные экскурсии","url":"https://shanabythebeach.com/tours/","language":"en","focus":"Открытые программы каяков, мангров, лодок, рыбалки и водопадов из Мануэль-Антонио.","paths":["/tours/"],"exactPaths":["/tours/"]},
-  {"name":"Los Sueños · рыболовные выходы из марины","url":"https://lossuenos.com/deepsea-fishing/","language":"en","focus":"Текущие форматы чартеров, прибрежная и дальняя рыбалка.","exactPaths":["/deepsea-fishing/"]},
-  {"name":"Toucan Rescue Ranch · форматы визита","url":"https://toucanrescueranch.org/tours/onsite-tours/","language":"en","focus":"Официальные экскурсии, языки, правила у животных, бронирование и изменения программы.","paths":["/tours/"],"exactPaths":["/tours/onsite-tours/","/faq/","/contact-2/"]},
-  {"name":"Dreamsea · сёрф, глэмпинг и тренировки в Тамариндо","url":"https://dreamseacostarica.com/experience-dreamsea-surf-camp/","language":"en","focus":"Группы по уровню, уроки, снаряжение, размещение, расписание и блоги лагеря.","exactPaths":["/experience-dreamsea-surf-camp/","/surf-camp-rates/","/contact-dreamsea-surf-camp/"]},
-  {"name":"Montaña de Fuego · действующие занятия у Ареналя","url":"https://montanadefuego.com/activities/","paths":[],"exactPaths":["/activities/","/es/actividades/","/es/contactenos/"],"language":"es-en","focus":"Программы лесной прогулки, терм, канопи и речного тюбинга. Запись и детские ограничения проверяются у площадки."},
-  {"name":"Reserva Conchal · тропы, вода и заповедник","url":"https://reservaconchal.com/experiences/","review":"conchal-reserva-program","paths":[],"exactPaths":["/experiences/","/sustainability/","/beachclub/","/phonedirectory/"],"language":"en","focus":"Карта пяти троп, договорённость о посещении заповедника, водная программа и режим пляжного клуба."},
-  {"name":"Остиональ · календарь местных гидов и поездок","url":"https://www.ostional.cr/","review":"ostional-local-calendar","paths":["/es/tour-de-avistamiento","/es/tour-de-tortugas","/tour-"],"exactPaths":["/","/es/tour-de-avistamiento-de-tortugas-solitarias"],"language":"es-en","focus":"Местный календарь наблюдений и варианты выезда с гидами. Разрешение на вход подтверждается в SINAC и у местных ассоциаций."},
-  {"name":"Las Mercedes · кофейная ферма и посещения","url":"https://lasmercedesfarm.com/","paths":[],"exactPaths":["/"],"language":"es-en","focus":"Актуальные часы, кофейный тур и контакты владельца.","review":"las-mercedes-farm-owner"},
-  {"name":"Arenal Rafting · комбинация Бальсы с ATV","url":"https://arenalrafting.com/es/combo-rafting-atv/","paths":[],"exactPaths":["/es/combo-rafting-atv/","/es/preguntas-frecuentes/"],"language":"es","focus":"Возраст, время выезда, маршрут сплава и условия допуска к управлению ATV.","review":"arenal-balsa-atv-owner"},
-  {"name":"ICT · посещение археологического Гуаябо","url":"https://es.visitcostarica.com/where-to-go/protected-areas/guayabo-national-archeological-monument","paths":[],"exactPaths":["/where-to-go/protected-areas/guayabo-national-archeological-monument","/blog/learn-history-guayabo-monument"],"language":"es","focus":"Условия захода, достопримечательности и официальная схема троп.","review":"guayabo-visit-ict"},
-  {"name":"Vive Dos Ríos · водопады и проводники Упалы","url":"https://www.vivedosrios.com/ruta-del-agua","paths":[],"exactPaths":["/ruta-del-agua","/directorio","/reservaciones"],"language":"es","focus":"Различия в программах Эль-Сантуарио и Морфо-Асуль, новые местные туры, размещение и контакт проводников.","review":"upala-water-community"},
-  {"name":"Blue River · дневные форматы и доступ из Гавилана","url":"https://www.blueriverresort.com/day-tours","paths":[],"exactPaths":["/day-tours","/contact-us"],"language":"en","focus":"Термы, Dino Park, дневные билеты и контакты в Дос-Риос-де-Упала.","review":"upala-blue-river-day"},
-  {"name":"Jaguar Corcovado Tours · выходы в Гольфо-Дульсе","url":"https://www.jaguarcorcovadotourscr.com/islands","paths":[],"exactPaths":["/islands"],"language":"en","focus":"Начала рейсов из Плайя-Бланки, условия лодки, гребля, время прилива и контакты.","review":"osa-blanca-gulf-boat"},
-  {"name":"Mistico · ночная и сумеречная экскурсии","url":"https://misticopark.com/tours/mistico-night-walk/","paths":[],"exactPaths":["/tours/mistico-night-walk/","/tours/twilight-walk/","/es/tours/self-guided-hanging-bridges/"],"language":"es-en","focus":"Актуальные часы, длина, возраст и условия вечернего входа.","review":"mistico-official-night"},
-  {"name":"Museo Nacional · посещение Bellavista","url":"https://www.museocostarica.go.cr/visitar/","paths":[],"exactPaths":["/visitar/","/visitar/plano-interactivo/","/visitar/visitas-guiadas/"],"language":"es","focus":"Тарифы и условия льготного входа, доступ в сад бабочек и семейные программы.","review":"museum-national-entry"},
-  {"name":"Maverick · экипаж Trophy Fly","url":"https://www.mavericksportfish.com/fishing-charters/trophy-fly/","paths":[],"exactPaths":["/fishing-charters/trophy-fly/","/team/","/fishing-reports/"],"language":"en","focus":"Катер, капитан, сезонные отчёты, контакты и правила организации рыбалки.","review":"trophy-fly-maverick"},
-  {"name":"Costa Rica Ecotours · водопады, ATV и каньонинг","url":"https://crecotours.com/adventure-tours-costa-rica/","language":"es-en","focus":"Местные программы Марсельи, Венесии и Бахос-дель-Торо. Условия воды, встреча, допуск по возрасту и пешие варианты.","review":"toro-ecotours-adventures","paths":["/adventure-tours-costa-rica/","/es/tours-aventura-costa-rica/"],"exactPaths":["/contact/"]},
-  {"name":"Cinchona Waterfall Trails · вход к Сан-Фернандо","url":"https://www.descubramoscostarica.com/es/destino/cinchona-waterfall-trails","language":"es","focus":"Режим входа к водопадам, парковка, семейные условия и контакты финки.","review":"cinchona-trails-operator","exactPaths":["/es/destino/cinchona-waterfall-trails"]},
-  {"name":"PuroMTB · Lumen 905 и выдача проката","url":"https://puromtb.com/products/e-bike-scott-lumen-905-bateria-tq-hpr50-33-km-h","language":"es","focus":"Публичная цена Lumen, таблица компонентов, размеры при их появлении и условия выдачи проката.","paths":[],"exactPaths":["/products/e-bike-scott-lumen-905-bateria-tq-hpr50-33-km-h","/products/rent-a-bicycle","/pages/contact"],"review":"scott-puro-local-light-emtb"},
-  {"name":"Bike Outlet · e-MTB в Линдоре","url":"https://bikeoutletcr.com/collections/e-bike","language":"es","focus":"Объявления о горных e-bike, цена, размеры и фото конкретных экземпляров. Наличие подтверждает магазин.","paths":[],"exactPaths":["/collections/e-bike","/products/s-works-kenevo-sl","/products/cannondale-moterra","/products/cannondale-moterra-neo-carbon-se"],"review":"lindora-kenevo-and-service"},
-  {"name":"Bógarin Trail · лесная петля и экскурсии","url":"https://bogarintrail.com/tours/guided-tour","language":"es-en","focus":"Дневное расписание, вход, правила наблюдения и контакты экскурсии.","paths":[],"exactPaths":["/tours/guided-tour","/faq","/contact"],"review":"fortuna-bogarin-wildlife-owner"},
-  {"name":"Else Kientzler · сад и кафе в Сарчи","url":"https://www.elsegarden.com/","language":"es","focus":"Часы сада, последнее время входа, доступность кафе и контакты.","paths":[],"exactPaths":["/","/contact.html","/cafe.html"],"review":"sarchi-jardin-else-garden"},
-  {"name":"Museo de los Niños · семейная афиша Сан-Хосе","url":"https://museocr.org/ninos/category/eventos/","language":"es","focus":"Официальные события, интерактивные программы, часы посещения и праздничные дни.","review":"publisher-archive-museocr-family-events","paths":["/ninos/"],"exactPaths":["/ninos/tu-visita/","/ninos/salas-interactivas/","/ninos/iluminacion-de-la-fachada-del-museo-de-los-ninos-2026/"]},
-  {"name":"Museos del Banco Central · текущие выставки","url":"https://museosdelbancocentral.org/portfolio_group/exhibiciones/","language":"es","focus":"Выставки археологии, истории денег и коста-риканского искусства.","review":"publisher-archive-bccr-exhibitions","paths":["/exhibiciones/"],"exactPaths":["/preguntas-frecuentes/"]},
-  {"name":"Kids Saving the Rainforest · журнал центра спасения","url":"https://www.kidssavingtherainforest.org/news","language":"en","focus":"Новости центра, наблюдения о животных и семейные экскурсии.","review":"publisher-archive-kstr-rescue-news","paths":[],"exactPaths":["/news","/tour"]},
-  {"name":"Makanda · заметки об отдыхе в Мануэле-Антонио","url":"https://makanda.com/en/hotel-makanda-blog","language":"en","focus":"Сезон, прогулки, пляжи и программы местных партнёров отеля.","review":"publisher-archive-makanda-travel","paths":["/en/hotel-makanda-blog/"],"exactPaths":["/en/tours"]},
-  {"name":"Fly With Us · обзорные полёты на Никое","url":"https://www.flywithus.aero/day-tours","language":"en","focus":"Раздельные программы Самары и Тамариндо, маршруты над берегом, продолжительность и контакты.","review":"flywithus-day-tours-operator","paths":[],"exactPaths":["/samara","/tamarindo","/day-tours","/contact"]}
+  {
+    "name": "Visit Costa Rica · активный отдых",
+    "url": "https://www.visitcostarica.com/things-to-do/adventure",
+    "paths": [
+      "/where-to-go/protected-areas/",
+      "/things-to-do/adventure/",
+      "/planning-your-trip/itineraries/"
+    ]
+  },
+  {
+    "name": "SINAC · карта заповедников",
+    "url": "https://www.sinac.go.cr/ES/Paginas/map.aspx",
+    "paths": [
+      "/es/ac/",
+      "/es/turismo/"
+    ]
+  },
+  {
+    "name": "Área de Conservación Guanacaste · экотуризм",
+    "url": "https://www.acguanacaste.ac.cr/turismo/",
+    "paths": [
+      "/turismo/sector-",
+      "/noticias/noticias-programa-de-ecoturismo/"
+    ]
+  },
+  {
+    "name": "El Camino de Costa Rica · этапы",
+    "url": "https://caminodecostarica.org/es/descubre-el-camino/etapas-del-camino/",
+    "paths": [
+      "/es/descubre/etapa/",
+      "/es/planifica-tu-excursion/"
+    ],
+    "language": "es",
+    "focus": "Официальные этапы похода между двумя океанами. Схемы, ночёвки, местные гиды и GPX от Asociación Mar a Mar."
+  },
+  {
+    "name": "Costa Rica Camping Guide · Тихий океан",
+    "url": "https://costaricacampsites.com/pacific-coast/",
+    "paths": [
+      "/camp-sites/"
+    ],
+    "language": "en",
+    "focus": "Описания кемпингов с фотографиями, заездом и типами стоянок для наземных и крышевых палаток."
+  },
+  {
+    "name": "Costa Rica Camping Guide · горы и север",
+    "url": "https://costaricacampsites.com/northern-highlands-volcanoes/",
+    "paths": [
+      "/camp-sites/"
+    ]
+  },
+  {
+    "name": "Costa Rica 4x4 Adventure · опубликованные маршруты",
+    "url": "https://costarica4x4adventure.com/es/routes/",
+    "paths": [
+      "/es/routes/"
+    ],
+    "language": "es",
+    "focus": "Местные автомобильные маршруты по долинам и побережьям. Проходимость и въезд на частные участки требуют сверки на дату."
+  },
+  {
+    "name": "Sarapiquí Outdoor Center · программы",
+    "url": "https://www.costaricaraft.com/rafting",
+    "paths": [
+      "/rafting/"
+    ]
+  },
+  {
+    "name": "Pacuare Outdoor Center · программы",
+    "url": "https://pacuareoutdoorcenter.com/es/experiencias/",
+    "paths": [
+      "/es/experiencias/",
+      "/es/actividades/"
+    ]
+  },
+  {
+    "name": "Qué Buen Lugar · места",
+    "url": "https://www.quebuenlugar.com/es/lugares/",
+    "paths": [
+      "/es/lugares/",
+      "/es/hospedajes/"
+    ],
+    "exactPaths": [
+      "/es/lugares/playa-iguanita/",
+      "/es/lugares/rio-la-mina-y-mirador-miramar-2/"
+    ],
+    "language": "es",
+    "focus": "Отчёты местных авторов о выходных. Сельские подъезды, тропы, водопады, ночёвки и фото с места."
+  },
+  {
+    "name": "The Trail Running CR · календарь",
+    "url": "https://thetrailrunningcr.com/eventos/",
+    "paths": [
+      "/dantica-",
+      "/columbia-",
+      "/eventos/"
+    ],
+    "language": "es",
+    "focus": "Календарь трейлраннинга. Дистанции, набор и условия конкретного выпуска берутся из материалов организаторов."
+  },
+  {
+    "name": "Муниципалитет Перес-Селедона · туризм",
+    "url": "https://www.perezzeledon.go.cr/component/phocadownload/category/1109-turismo.html",
+    "paths": [
+      "/component/phocadownload/category/1109-turismo.html",
+      "/turismo/"
+    ]
+  },
+  {
+    "name": "Go Bike CR · велопрограммы и поездки на e-bike",
+    "url": "https://www.gobikecr.com/e-bike-tours-costa-rica.html",
+    "paths": [
+      "/tour-",
+      "/tours-",
+      "/mountain-"
+    ]
+  },
+  {
+    "name": "Gran Fondo Guanacaste · карты и выпуск",
+    "url": "https://www.granfondoguanacaste.com/",
+    "paths": [
+      "/storage/gpx/",
+      "/storage/documentos/"
+    ]
+  },
+  {
+    "name": "Carrera Chirripó · запись и регламент",
+    "url": "https://www.carrerachirripo.com/",
+    "paths": [
+      "/inscripcion/",
+      "/reglamento-",
+      "/wp-content/uploads/"
+    ]
+  },
+  {
+    "name": "Ríos Lodge · участие со своей лодкой",
+    "url": "https://rioslodge.com/pacuare-costa-rica-faq/",
+    "paths": [
+      "/pacuare-costa-rica-",
+      "/rafting-",
+      "/contact-"
+    ]
+  },
+  {
+    "name": "Mar a Mar · действующий комплект GPX",
+    "url": "https://caminodecostarica.org/es/planifica-tu-excursion/autoguiado/",
+    "paths": [
+      "/scl/fo/",
+      "/es/descubre/etapa/",
+      "/es/planifica-tu-excursion/"
+    ]
+  },
+  {
+    "name": "Visit Paquera · местные активности и сообщества",
+    "url": "https://www.visitpaquera.com/es/",
+    "paths": [
+      "/es/"
+    ]
+  },
+  {
+    "name": "Caño Negro Experience · местные наблюдения и маршруты",
+    "url": "https://www.canonegroexperience.com/",
+    "paths": [
+      "/tours",
+      "/packages",
+      "/package",
+      "/lacotinga",
+      "/blog/"
+    ]
+  },
+  {
+    "name": "Bahía Rica · каяк, SUP и рыбалка",
+    "url": "https://www.bahiarica.com/tours",
+    "paths": [
+      "/tour/",
+      "/news/"
+    ]
+  },
+  {
+    "name": "Isla de Chira · лодки и сельский туризм",
+    "url": "https://islachira.com/",
+    "paths": [
+      "/como-",
+      "/tour",
+      "/hosp",
+      "/contact",
+      "/actividad"
+    ]
+  },
+  {
+    "name": "Hacienda La Central · тропы и overlanding",
+    "url": "https://www.haciendalacentral.com/",
+    "paths": [
+      "/tour_",
+      "/act_",
+      "/posada-",
+      "/nuestra-"
+    ]
+  },
+  {
+    "name": "Cross Costa Rica MTB · этапы и официальные GPX",
+    "url": "https://crosscostaricamtb.com/Home/Etapas",
+    "paths": [
+      "/descargar/gpx/",
+      "/home/"
+    ]
+  },
+  {
+    "name": "Gran Fondo Zona Sur · Кепос и GPX",
+    "url": "https://www.fondozonasur.com/",
+    "paths": [
+      "/storage/gpx/",
+      "/storage/guia_tecnica/"
+    ]
+  },
+  {
+    "name": "Nosara MTB · местные тропы и велопрокат",
+    "url": "https://nosaramtb.com/the-guide/",
+    "paths": [
+      "/product/",
+      "/tours/",
+      "/product-category/"
+    ],
+    "language": "en",
+    "focus": "Местные петли, GPX по условиям владельца, приливы, сезонность и программы e-bike с проводником."
+  },
+  {
+    "name": "Rafiki · глэмпинг и водные маршруты",
+    "url": "https://rafikisafari.com/wp/",
+    "paths": [
+      "/wp/experiences/",
+      "/wp/packages/",
+      "/wp/stay/"
+    ]
+  },
+  {
+    "name": "GoRafting · Pejibaye и местные речные участки",
+    "url": "https://gorafting.com/costa-rica/pejibaye-river/",
+    "paths": [
+      "/costa-rica/"
+    ],
+    "language": "en",
+    "focus": "Речные схемы с порогами, вариантами старта и высадки. Сведения о воде и доступе к берегу уточняются на месте."
+  },
+  {
+    "name": "RCR · реки Гуанакасте",
+    "url": "https://www.raftingguanacaste.com/es/safari-corobici-rio-floating/",
+    "paths": [
+      "/es/rio-",
+      "/es/safari-",
+      "/es/como-"
+    ]
+  },
+  {
+    "name": "Trivium Academy · занятия на Сарапики",
+    "url": "https://costaricaraft.com/workshops",
+    "paths": [
+      "/academy/",
+      "/workshops/",
+      "/rafting/",
+      "/kayaking/"
+    ]
+  },
+  {
+    "name": "Guardavidas Costa Ballena · пляжи и сводки",
+    "url": "https://www.lifeguardscostaballena.com/",
+    "paths": [
+      "/beaches",
+      "/about",
+      "/program",
+      "/blog",
+      "/updates"
+    ]
+  },
+  {
+    "name": "Todo Uvita · местный сёрф и пляжи",
+    "url": "https://todouvita.com/c/surf",
+    "paths": [
+      "/c/",
+      "/p/",
+      "/es/"
+    ]
+  },
+  {
+    "name": "Pavones Hub · местные поездки и транспорт",
+    "url": "https://pavoneshub.com/transporte-transportation/",
+    "paths": [
+      "/transporte-",
+      "/category/",
+      "/surf",
+      "/guide",
+      "/event"
+    ]
+  },
+  {
+    "name": "Camping Babsita · проживание и вода на Río Estrella",
+    "url": "https://campingbabsita.com/tours",
+    "paths": [
+      "/tours",
+      "/accommodation",
+      "/getting-to-us-directions",
+      "/about-us",
+      "/faqs"
+    ]
+  },
+  {
+    "name": "Alouatta · кемперы и канопи в Кауите",
+    "url": "https://alouattalodgeandcanopy.com/cabanas/",
+    "paths": [
+      "/cabanas/",
+      "/canopy-aventura/",
+      "/parking",
+      "/contacto/"
+    ]
+  },
+  {
+    "name": "Gandoca Tours · местные программы на лагуне",
+    "url": "https://www.gandocatours.com/tour/kayaking-en-laguna-gandoca/",
+    "paths": [
+      "/tour/",
+      "/nosotros/",
+      "/contact"
+    ]
+  },
+  {
+    "name": "Tortugas Costa Rica · вода и мангры у Парриты",
+    "url": "https://tortugascostarica.org/es/tours/manglar",
+    "paths": [
+      "/es/tours/",
+      "/es/proyectos/",
+      "/es/conservacion/"
+    ]
+  },
+  {
+    "name": "Marlin del Rey · посадка и рейсы Coco и Tamarindo",
+    "url": "https://marlindelrey.com/faq/",
+    "paths": [
+      "/sailing-tours/",
+      "/playa-del-coco-",
+      "/contact",
+      "/faq/"
+    ]
+  },
+  {
+    "name": "Panache Sailing · рейсы от Marina Flamingo",
+    "url": "https://panachesailing.com/",
+    "paths": [
+      "/tours/",
+      "/faq/",
+      "/contact-us-2/"
+    ]
+  },
+  {
+    "name": "Coco’s Tours · местные выезды из Пунтаренаса",
+    "url": "https://cocostours.cr/tour-category/tours/",
+    "paths": [
+      "/tour/",
+      "/contacto/"
+    ]
+  },
+  {
+    "name": "The Majestic · рейсы от Tambor Pier",
+    "url": "https://themajesticcostarica.com/",
+    "paths": [
+      "/tour-",
+      "/es/",
+      "/contact"
+    ]
+  },
+  {
+    "name": "Ecotours Toro Amarillo · маршруты долины",
+    "url": "https://bajosdeltoroamarillo.com/es/",
+    "paths": [
+      "/es/",
+      "/senderismo-",
+      "/cataratas-",
+      "/best-hiking-"
+    ]
+  },
+  {
+    "name": "Senderos del Toro · походы и водопады",
+    "url": "https://senderosdeltoro.com/tours/",
+    "paths": [
+      "/pozo-azul-",
+      "/catarata-rio-agrio",
+      "/catarata-vuelta-",
+      "/catarata-blue-",
+      "/catarata-la-diana"
+    ],
+    "language": "es",
+    "focus": "Местные проводники Бахос-дель-Торо. Походы к водопадам, условия допуска и снаряжение."
+  },
+  {
+    "name": "Монтес-де-Оро · сельские тропы",
+    "url": "https://montesdeoro.go.cr/tajo-alto/",
+    "paths": [
+      "/finca-",
+      "/senderismo/",
+      "/caminata-al-",
+      "/canon-del-"
+    ]
+  },
+  {
+    "name": "Valhalla · местные туры и треки",
+    "url": "https://valhallamodotapir.com/tours/",
+    "paths": [
+      "/tours/"
+    ]
+  },
+  {
+    "name": "Finca Curubanda · походы у Рио-Бланко",
+    "url": "https://www.leonawaterfallcurubanda.com/en",
+    "paths": [
+      "/en/",
+      "/post/"
+    ]
+  },
+  {
+    "name": "Costa Rica Sin Filtros · водопады",
+    "url": "https://costaricasinfiltros.com/cataratas/",
+    "paths": [
+      "/cataratas/"
+    ],
+    "language": "es",
+    "focus": "Поездки авторов к водопадам и речным чашам, фотографии и описания подходов в разных провинциях."
+  },
+  {
+    "name": "JorleHike · местный проводник",
+    "url": "https://jorlehike.com/",
+    "paths": [
+      "/gira-",
+      "/guia-"
+    ],
+    "language": "es",
+    "focus": "Опыт костариканского проводника на El Camino. Подготовка к длинному походу и программа перехода за 15 дней."
+  },
+  {
+    "name": "Two Weeks in Costa Rica · регионы",
+    "url": "https://www.twoweeksincostarica.com/destinations/",
+    "paths": [
+      "/hiking-",
+      "/catarata-",
+      "/fishing-",
+      "/things-to-do/",
+      "/nauyaca-",
+      "/belen-",
+      "/montezuma-",
+      "/king-louis-"
+    ],
+    "language": "en",
+    "focus": "Отчёты живущих в стране авторов. Семейные поездки, семейные тропы, рыбалка, побережья и сельские районы."
+  },
+  {
+    "name": "Paradise Catchers · Коста-Рика",
+    "url": "https://www.paradisecatchers.com/category/central-america/costa-rica/",
+    "paths": [
+      "/how-to-get-",
+      "/waterfalls-",
+      "/la-fortuna-",
+      "/costa-ballena-",
+      "/drake-bay-",
+      "/floating-in-",
+      "/2-days-in-",
+      "/5-days-in-",
+      "/10-days-in-"
+    ],
+    "language": "en",
+    "focus": "Опыт авторов из Коста-Рики. Маршруты на несколько дней, дороги, общественный транспорт, водопады и труднодоступные районы."
+  },
+  {
+    "name": "Costa Rica Travel Blog · малолюдные места",
+    "url": "https://costaricatravelblog.com/costa-rica-off-the-beaten-path/",
+    "paths": [
+      "/category/where-to-go-in-costa-rica/",
+      "/category/what-to-do-in-costa-rica/",
+      "/costa-rica-waterfalls",
+      "/free-hot-springs-",
+      "/driving-to-"
+    ],
+    "language": "en",
+    "focus": "Поездки авторов в малолюдные места. Пляжи, водопады, горячие источники и остановки в небольших сообществах."
+  },
+  {
+    "name": "Pérez Zeledón · карта водопадов",
+    "url": "https://perezzeledon.com/waterfalls",
+    "paths": [
+      "/sendero-",
+      "/itinerar",
+      "/bus-routes-"
+    ],
+    "language": "es-en",
+    "focus": "Региональный путеводитель по долине Эль-Хенераль. Карта водопадов, районные маршруты и местный транспорт."
+  },
+  {
+    "name": "Mytanfeet · подготовка и транспорт",
+    "url": "https://mytanfeet.com/costa-rica-travel-planning-tips/",
+    "language": "en",
+    "focus": "Проверка подъездов и пересадок, поездки без машины, экипировка на сезон дождей и выбор жилья."
+  },
+  {
+    "name": "Visit Costa Rica · статьи портала",
+    "url": "https://www.visitcostarica.com/blog",
+    "paths": [
+      "/blog/",
+      "/planning-your-trip/itineraries/"
+    ]
+  },
+  {
+    "name": "Costa Rica Cool · местные репортажи",
+    "url": "https://cool-cr.com/editorial/categoria/lugares-visitados",
+    "paths": [
+      "/editorial/"
+    ],
+    "language": "es",
+    "focus": "Редакционные репортажи из небольших пляжных посёлков, отелей и кафе."
+  },
+  {
+    "name": "Costa Rica Experts · статьи о регионах",
+    "url": "https://costaricaexperts.com/destinations/",
+    "paths": [
+      "/destinations/"
+    ],
+    "language": "en",
+    "focus": "Региональные путеводители местного туроператора от Дрейка и Пуэрто-Хименеса до Ареналя и Тортугеро."
+  },
+  {
+    "name": "Costa Rican Vacations · логистика и активности",
+    "url": "https://www.vacationscostarica.com/travel/",
+    "paths": [
+      "/travel/",
+      "/things-to-do/"
+    ]
+  },
+  {
+    "name": "Surf Simply · журнал школы",
+    "url": "https://surfsimply.com/magazine",
+    "paths": [
+      "/magazine/"
+    ],
+    "language": "en",
+    "focus": "Пособия школы из Носары о подготовке, выборе доски и тренировках в воде."
+  },
+  {
+    "name": "Místico · прогулки у подвесных мостов",
+    "url": "https://misticopark.com/blog/",
+    "paths": [
+      "/blog/",
+      "/tours/"
+    ]
+  },
+  {
+    "name": "Hacienda Guachipelín · поездки у вулкана",
+    "url": "https://www.guachipelin.com/blog/en/",
+    "paths": [
+      "/blog/",
+      "/tours/"
+    ]
+  },
+  {
+    "name": "Selvatura · тропы и канопи Монтеверде",
+    "url": "https://www.selvatura.com/blog/",
+    "paths": [
+      "/blog/",
+      "/tours/"
+    ]
+  },
+  {
+    "name": "Vista Los Sueños · материалы о поездках из Хако",
+    "url": "https://vistalossuenosadventurepark.com/blog/",
+    "paths": [
+      "/blog/",
+      "/tours/"
+    ]
+  },
+  {
+    "name": "Arenal Manoa · термы и поездки из Ла-Фортуны",
+    "url": "https://arenalmanoa.com/blog/",
+    "paths": [
+      "/blog/",
+      "/tours/"
+    ]
+  },
+  {
+    "name": "Hotel Belmar · журнал Монтеверде",
+    "url": "https://www.hotelbelmar.net/happenings/blog",
+    "paths": [
+      "/blog/",
+      "/es/blog/"
+    ]
+  },
+  {
+    "name": "Diamante · журнал парка",
+    "url": "https://diamanteecoadventurepark.com/blog/",
+    "paths": [
+      "/blog/",
+      "/es/blog/"
+    ]
+  },
+  {
+    "name": "Visita Coto Brus · сельские места и тропы",
+    "url": "https://www.visitacotobrus.com/turismo",
+    "paths": [
+      "/turismo/atractivos/"
+    ],
+    "language": "es",
+    "focus": "Местный каталог южной Таламанки с указаниями подъезда, маршрутами, ночёвками и контактами."
+  },
+  {
+    "name": "AsoProLA · Альтамира и Биоллей",
+    "url": "https://asoprola.com/",
+    "paths": [
+      "/tours",
+      "/posada",
+      "/cafe"
+    ],
+    "language": "es",
+    "focus": "Программы сельской ассоциации у входа в Ла-Амистад, ночёвки и местный кофе."
+  },
+  {
+    "name": "ATEC · местные программы Таламанки",
+    "url": "https://ateccr.org/ecotours/",
+    "paths": [
+      "/producto/"
+    ],
+    "language": "en",
+    "focus": "Поездки общественной ассоциации на южной Карибике и в Таламанке. Многодневные походы, лодки, местные гиды и снаряжение."
+  },
+  {
+    "name": "La Fiebre de Viajar · отчёты из поездок",
+    "url": "https://lafiebredeviajar.com/pages/blog",
+    "paths": [
+      "/blogs/blog/"
+    ],
+    "language": "es",
+    "focus": "Испаноязычные отчёты об окрестностях Центральной долины, национальных парках, ночёвках и тропах."
+  },
+  {
+    "name": "Las Catalinas · блог о природе и тропах",
+    "url": "https://theblog.lascatalinascr.com/",
+    "paths": [
+      "/las-catalinas-trails",
+      "/birdwatching-",
+      "/access-to-nature",
+      "/development-and-conservation",
+      "/10-things-to-do",
+      "/in-harmony",
+      "/what-to-do"
+    ],
+    "language": "en",
+    "focus": "Пешая и велосипедная сеть, наблюдение за птицами, побережье и природоохранные работы."
+  },
+  {
+    "name": "Marina Pez Vela · хроника и водные события",
+    "url": "https://marinapezvela.com/news/",
+    "paths": [
+      "/a-rockstar-",
+      "/pelagic-",
+      "/bisbees-",
+      "/record-",
+      "/fishing-",
+      "/events/"
+    ],
+    "language": "en",
+    "focus": "Морские программы Кепоса, хроника рыболовных выходов и регламенты организаторов."
+  },
+  {
+    "name": "Ebiking Costa Rica · дневные программы и экспедиции",
+    "url": "https://ebikingcostarica.com/",
+    "paths": [
+      "/full-adventure-",
+      "/crossing-",
+      "/ebike-tours-",
+      "/wp-content/uploads/"
+    ],
+    "language": "en",
+    "focus": "Дневные выезды и экспедиции с местными гидами. Дистанции, высотные профили и логистика по этапам."
+  },
+  {
+    "name": "Paraíso Tropical · лагеря и лодки в Каньо-Негро",
+    "url": "https://es.canonegrotours.com/",
+    "paths": [
+      "/camping",
+      "/sportfishing",
+      "/copia-de-",
+      "/one-day-",
+      "/tour",
+      "/boat-",
+      "/night-walk"
+    ],
+    "language": "es",
+    "focus": "Кемпинг, лодочные прогулки и рыбалка от семьи из Каньо-Негро."
+  },
+  {
+    "name": "Bolita · самостоятельные лесные тропы Осы",
+    "url": "https://bolitatrails.com/portfolio/",
+    "paths": [
+      "/portfolio/",
+      "/trail-"
+    ],
+    "language": "en",
+    "focus": "Местные описания троп Брюха и Бонанса. Дневной вход и ночёвки у Дос-Брасос."
+  },
+  {
+    "name": "Ticos A Pata · выходные пешие маршруты и многодневные экспедиции",
+    "url": "https://ticosapata.com/rutas-nacionales/",
+    "sitemap": "https://ticosapata.com/wp-sitemap-posts-post-1.xml",
+    "paths": [
+      "/2026/",
+      "/2027/",
+      "/2028/"
+    ],
+    "language": "es",
+    "focus": "Местные пешие маршруты, частные тропы, ночёвки и дневные выходы. Карта сайта даёт отдельные программы из архива."
+  },
+  {
+    "name": "Vamos a Turistear · маршруты для жителей Коста-Рики",
+    "url": "https://vamosaturistear.com/blog/",
+    "sitemap": "https://vamosaturistear.com/actividades-sitemap.xml",
+    "paths": [
+      "/actividades/"
+    ],
+    "language": "es",
+    "focus": "Проект ICT о поездках выходного дня, природных местах и местных занятиях. Индекс включает архив статей всех страниц."
+  },
+  {
+    "name": "Camping.cr · кемпинги с разрешённым костром",
+    "url": "https://camping.cr/features/fogatas/",
+    "paths": [
+      "/listing/"
+    ],
+    "language": "es",
+    "focus": "Местный каталог лагерей. Фото, подъезды, контакты и отзывы о площадках. Правила конкретного очага уточняют у хозяев."
+  },
+  {
+    "name": "MotoRumbo · отчёты с грунтовых дорог",
+    "url": "https://motorumbo.com/rutas/?todas=1",
+    "paths": [
+      "/rutas/"
+    ],
+    "language": "es",
+    "focus": "Отчёты местных мотоциклистов о грунтовых дорогах, примерных расстояниях и сезонном состоянии. Для выезда на 4×4 сверяют допуск и проходимость отдельно."
+  },
+  {
+    "name": "Vista Los Sueños · багги, квадроциклы и вода",
+    "url": "https://vistalossuenosadventurepark.com/adventuretours/",
+    "paths": [
+      "/adventure-tours/"
+    ],
+    "language": "en",
+    "focus": "Программы парка у Эррадуры. Багги, квадроциклы, сплавы и каньонинг с опубликованными фотографиями."
+  },
+  {
+    "name": "Cabuya CR · местные тропы и ночёвки",
+    "url": "https://www.cabuyacr.com/where-to-stay-in-cabuya/",
+    "paths": [
+      "/cabuya-",
+      "/where-to-",
+      "/how-to-",
+      "/beaches-",
+      "/things-to-do-",
+      "/montezuma-"
+    ],
+    "language": "en",
+    "focus": "Маршруты и ночёвки в Кабуе, береговые прогулки и подъезд к Кабо-Бланко."
+  },
+  {
+    "name": "Pavones Hub · кемпинги и жильё",
+    "url": "https://pavoneshub.com/alojamiento-lodging/",
+    "paths": [
+      "/transporte-",
+      "/category/",
+      "/surf",
+      "/guide",
+      "/event",
+      "/alojamiento-"
+    ],
+    "language": "es-en",
+    "focus": "Местное размещение и поездки вокруг Павонеса. Контакты кемпингов, жильё и транспорт."
+  },
+  {
+    "name": "YöKö CR · overlanding и кемпинги",
+    "url": "https://yokocr.com/camping",
+    "paths": [
+      "/camping/"
+    ],
+    "language": "es",
+    "focus": "Испаноязычный каталог мест под обычную палатку и автостоянок. Фото, навигация и контакты отдельных кемпингов."
+  },
+  {
+    "name": "Sea Saw · маршруты лодок из Гарсы",
+    "url": "https://nosaraseasawtours.com/experience/unwind/",
+    "paths": [
+      "/tour/",
+      "/experience/"
+    ],
+    "language": "en",
+    "focus": "Катамараны, снорклинг и рыбалка небольших местных экипажей, расписания и условия."
+  },
+  {
+    "name": "A Dónde Ir Costa Rica · архив мест по провинциям",
+    "url": "https://adondeircr.com/category/guanacaste/",
+    "sitemap": "https://adondeircr.com/post-sitemap.xml",
+    "paths": [
+      "/guanacaste/",
+      "/puntarenas/",
+      "/heredia/",
+      "/alajuela/",
+      "/cartago/",
+      "/limon/",
+      "/san-jose/"
+    ],
+    "language": "es",
+    "focus": "Испаноязычный архив туристических заметок. Публикации о береговых подходах, тропах и местах Никои."
+  },
+  {
+    "name": "Costa Tours · поездки и кемпинги",
+    "url": "https://costatourscr.com/es/",
+    "paths": [
+      "/es/tour/"
+    ],
+    "language": "es",
+    "focus": "Программы из Центральной долины, островные пересадки, палаточные выезды и региональные маршруты."
+  },
+  {
+    "name": "Special Places of Costa Rica · Гуанакасте",
+    "url": "https://www.specialplacesofcostarica.com/blog/all/",
+    "paths": [
+      "/blog/"
+    ],
+    "language": "en",
+    "focus": "Подробные материалы по пляжам, экскурсиям и логистике побережья Гуанакасте."
+  },
+  {
+    "name": "Hideaway Río Celeste · туры и тропы",
+    "url": "https://www.riocelestehideaway.com/tours",
+    "paths": [
+      "/tours/"
+    ],
+    "language": "en",
+    "focus": "Тенорио и Рио-Селесте, водные активности, верховые маршруты и выходы с проводниками."
+  },
+  {
+    "name": "Муниципалитет Сан-Рамона · местные поездки",
+    "url": "https://visit.sanramon.go.cr/actividades-turisticas/aventura",
+    "paths": [
+      "/actividades-turisticas/",
+      "/declaratorias-turisticas/"
+    ],
+    "language": "es",
+    "focus": "Тропы, сельские семейные проекты, водопады и программы по округам Сан-Рамона."
+  },
+  {
+    "name": "Adventure Park Barva · MTB, тропы и ночёвки",
+    "url": "https://www.adventureparkcr.com/es/nuestros-servicios/camping",
+    "paths": [
+      "/es/nuestros-servicios/",
+      "/es/faqs"
+    ],
+    "language": "es",
+    "focus": "Парк в Сан-Хосе-де-ла-Монтанья, правила приёма 4×4, кемпинг, велотропы и пешие маршруты."
+  },
+  {
+    "name": "Tapir Valley · природный заповедник у Бихагуа",
+    "url": "https://www.tapirvalley.com/",
+    "paths": [
+      "/morning-tour.php",
+      "/night-tour.php",
+      "/contact.php",
+      "/about.php"
+    ],
+    "language": "en",
+    "focus": "Официальные программы прогулок, экипировка, сбор и связь с командой местного заповедника."
+  },
+  {
+    "name": "Sentir Costa Rica · длинные трейлы и экспедиции",
+    "url": "https://www.sentircostarica.com/costa-rica-200",
+    "paths": [
+      "/costa-rica-200",
+      "/costa-rica-100",
+      "/la-ruta-sukia"
+    ],
+    "language": "es-en",
+    "focus": "Обновления трасс от побережья до побережья, регламенты дистанций свыше 100 км и официальный трек при публикации."
+  },
+  {
+    "name": "Undersea Hunter · журнал выходов к острову Кокос",
+    "url": "https://underseahunter.com/cocos-island-trip-reports/",
+    "paths": [
+      "/trip-report/"
+    ],
+    "language": "en",
+    "focus": "Датированные рейсы, морские условия, участки погружений и фотографии групп.",
+    "exactPaths": [
+      "/cocos-island/",
+      "/faq/",
+      "/terms-conditions/",
+      "/schedule-and-rates/"
+    ]
+  },
+  {
+    "name": "The Gilded Iguana · журнал Носары",
+    "url": "https://www.thegildediguana.com/blog/",
+    "paths": [
+      "/costa-rica-costas-verdes-",
+      "/celebrating-costa-ricas-"
+    ],
+    "language": "en",
+    "focus": "Уроки серфинга в Гионесе, семейные программы, сезонные события и охрана берега.",
+    "exactPaths": [
+      "/beginner-guide-surfing-playa-guiones",
+      "/why-you-should-join-a-channel-islands-surf-camp",
+      "/a-weekend-with-britt-merrick",
+      "/kids-club-costa-rica-benefits",
+      "/whats-new-in-playa-guiones",
+      "/visit-nosara-green-season",
+      "/day-in-the-life-at-kids-club",
+      "/green-season-escape",
+      "/mountain"
+    ]
+  },
+  {
+    "name": "El Silencio Lodge · журнал Бахос-дель-Торо",
+    "url": "https://www.elsilenciolodge.com/es/blog",
+    "paths": [
+      "/es/blog/"
+    ],
+    "language": "es",
+    "focus": "Облачный лес, водопады, семейное размещение и поездки в районе Toro Amarillo."
+  },
+  {
+    "name": "Parador · журнал Мануэль-Антонио",
+    "url": "https://hotelparador.com/blog/",
+    "paths": [
+      "/blog/"
+    ],
+    "language": "en",
+    "focus": "Туры Кепоса, сезон китов, прогулки для детей и местные природные программы."
+  },
+  {
+    "name": "Tabacón · журнал о Ла-Фортуне",
+    "url": "https://www.tabacon.com/blog/",
+    "paths": [
+      "/blog/"
+    ],
+    "language": "en",
+    "focus": "Термальные источники, условия визита и программы в районе вулкана Ареналь."
+  },
+  {
+    "name": "The Springs · программы Club Río",
+    "url": "https://www.thespringscostarica.com/club-rio-adventure-center/",
+    "paths": [
+      "/club-rio/",
+      "/club-rio-adventure-center/"
+    ],
+    "language": "en",
+    "focus": "Речные каяки и тюбинг, верховые прогулки, ночная тропа и наблюдение птиц."
+  },
+  {
+    "name": "Pacuare Lodge · программы в речном каньоне",
+    "url": "https://www.pacuarelodge.com/activities-adventure/",
+    "paths": [
+      "/activities-"
+    ],
+    "language": "en",
+    "focus": "Рафтинг по участкам, каньонинг, подвесные тросы, прогулки с гидом и транспорт к лоджу.",
+    "exactPaths": [
+      "/rafting",
+      "/canopy",
+      "/canyoning",
+      "/the-nest",
+      "/rainforest-canopy",
+      "/faq",
+      "/pacuare",
+      "/whats-included"
+    ]
+  },
+  {
+    "name": "Costa Rica Guide · путевые отчёты и маршруты",
+    "url": "https://costa-rica-guide.com/",
+    "paths": [
+      "/stories/",
+      "/activities/",
+      "/trips/itineraries/",
+      "/nature/national-parks/"
+    ],
+    "language": "en",
+    "focus": "Авторские поездки, походные и велосипедные маршруты, карты, транспорт и природные районы."
+  },
+  {
+    "name": "Aguas Claras · велосипед, каяк и тропы Карибского берега",
+    "url": "https://hotelaguasclaras.com/",
+    "paths": [],
+    "language": "en",
+    "focus": "Пунта-Ува, байки, каякинг, природные маршруты Кауиты и Гандоки, визиты к Брибри.",
+    "exactPaths": [
+      "/puerto-viejo",
+      "/cahuita",
+      "/punta-uva",
+      "/talamanca-bribri",
+      "/jungle-hike",
+      "/wildlife-season"
+    ]
+  },
+  {
+    "name": "Arenas Del Mar · маршруты у Мануэль-Антонио",
+    "url": "https://arenasdelmar.com/",
+    "paths": [],
+    "language": "en",
+    "focus": "Пляжные подходы, лодки, пешие и семейные программы Кепоса, природные сезоны.",
+    "exactPaths": [
+      "/beach-of-arenas-del-mar",
+      "/manuel-antonio-beaches",
+      "/manuel-antonio-activities",
+      "/adventure-adrenaline-tours",
+      "/ocean-tours",
+      "/wildlife-season",
+      "/naturalist-guides",
+      "/family-vacation",
+      "/dock-to-dish-manuel-antonio"
+    ]
+  },
+  {
+    "name": "Hacienda Pinilla · велотропы, берег и конные маршруты",
+    "url": "https://haciendapinilla.com/amenities.html",
+    "paths": [],
+    "language": "en",
+    "focus": "Карты и правила доступа к MTB-тропам, пляжам, серфингу и верховым прогулкам на ранчо.",
+    "exactPaths": [
+      "/mtb.html",
+      "/surf.html",
+      "/horseback-riding.html",
+      "/our-beaches.html",
+      "/beach-club.html"
+    ]
+  },
+  {
+    "name": "Río Perdido · тропы и каньон",
+    "url": "https://www.rioperdido.com/",
+    "sitemap": "https://www.rioperdido.com/sitemap.xml",
+    "paths": [
+      "/our-attractions/",
+      "/blog/"
+    ],
+    "language": "en",
+    "focus": "Программы MTB, трейлраннинга, прогулок, тюбинга и термальной реки. Условия площадки."
+  },
+  {
+    "name": "Bike Arenal · веломаршруты и экспедиции",
+    "url": "https://www.bikearenal.com/",
+    "paths": [
+      "/tour/",
+      "/package/"
+    ],
+    "language": "en",
+    "focus": "Программы, карты Ride with GPS, прокат, отзывы и многодневные выезды школы из Ла-Фортуны."
+  },
+  {
+    "name": "Arenal Epic · регламент MTB, gravel и e‑bike",
+    "url": "https://www.arenalepic.com/",
+    "paths": [],
+    "exactPaths": [
+      "/45km.html",
+      "/90km.html",
+      "/148km.html",
+      "/galeria.html"
+    ],
+    "language": "es",
+    "focus": "Ветки вокруг Ареналя, свежие выпуски, фотографии и данные о трассах."
+  },
+  {
+    "name": "My Adventure Costa Rica · гравийные этапы",
+    "url": "https://www.myadventurecostarica.com/es/journeys/gravel-cycling",
+    "paths": [
+      "/es/journeys/gravel-cycling/"
+    ],
+    "language": "es-en",
+    "focus": "Карта этапов Никойи, даты, форматы поддержки и объезды устьев по сезону."
+  },
+  {
+    "name": "Migración Panamá · официальные обновления",
+    "url": "https://www.migracion.gob.pa/",
+    "paths": [
+      "/noticias/",
+      "/turistas/"
+    ],
+    "exactPaths": [
+      "/preguntas-frecuentes",
+      "/turistas"
+    ],
+    "language": "es",
+    "focus": "Требования к туристам, уведомления ведомства и пункты оформления."
+  },
+  {
+    "name": "INTUR · дороги, вода и маршруты с юга Никарагуа",
+    "url": "https://www.visitanicaragua.com/sobre-nicaragua/como-llegar-a-nicaragua/",
+    "paths": [
+      "/sobre-nicaragua/",
+      "/playas/",
+      "/espacios-naturales/"
+    ],
+    "language": "es",
+    "focus": "Сухопутные переходы, прибрежные места и правила поездки на машине и общественном транспорте."
+  },
+  {
+    "name": "Turismo Panamá · Чирики и Бокас-дель-Торо",
+    "url": "https://es.tourismpanama.com/lugares-para-visitar/",
+    "paths": [
+      "/lugares-para-visitar/boquete/",
+      "/lugares-para-visitar/bocas-del-toro/",
+      "/blog/post/"
+    ],
+    "language": "es",
+    "focus": "Тропы, кофе, местные лодки и варианты выезда из приграничных районов."
+  },
+  {
+    "name": "Asociación de Punta Morales · местные лодки и фермы",
+    "url": "https://turismopuntamoralesgolfodenicoyaadi.com/Atracciones.html",
+    "paths": [],
+    "exactPaths": [
+      "/Atracciones.html"
+    ],
+    "language": "es",
+    "focus": "Публикуемые программы и контакты лодок, проката каяков, фермы Тенорио и конной базы у Lagartos."
+  },
+  {
+    "name": "Viviendo la Pesca · рыбалка с лодки и каяка",
+    "url": "https://viviendolapesca.com/",
+    "paths": [
+      "/tours/"
+    ],
+    "language": "es",
+    "focus": "Программы местных рыболовов, даты, стартовые точки и условия участия со своей лодкой."
+  },
+  {
+    "name": "Pura Paddle · прокат и морская гребля Папагайо",
+    "url": "https://www.wowsurfcamp.com/purapaddle",
+    "paths": [],
+    "exactPaths": [
+      "/purapaddle"
+    ],
+    "language": "en",
+    "focus": "Прокат, семейные программы, снаряжение и районы старта по ветру и воде."
+  },
+  {
+    "name": "SINAC · режим посещения Игуаниты",
+    "url": "https://demo.sinac.go.cr/ES/ASP/Ficha/rnvs-iguanita",
+    "paths": [],
+    "exactPaths": [
+      "/ES/ASP/Ficha/rnvs-iguanita"
+    ],
+    "language": "es",
+    "focus": "Дневной вход, палаточная зона, режим и контакты управляющей территории."
+  },
+  {
+    "name": "Arenal Rafting · журнал River Society",
+    "url": "https://arenalrafting.com/arenal-rafting-blog-the-river-society/",
+    "paths": [
+      "/arenal-rafting-tours-la-fortuna/",
+      "/combo-rafting-",
+      "/category/"
+    ],
+    "exactPaths": [
+      "/arenal-rafting-risk-assessment/",
+      "/hotel-pick-up-times-and-departure-times-for-rafting-tours/",
+      "/arenal-rafting-tours-la-fortuna/balsa-river-white-water-rafting-class-ii-iii/",
+      "/arenal-rafting-tours-la-fortuna/balsa-river-white-water-rafting-class-3-4-la-fortuna/",
+      "/arenal-rafting-tours-la-fortuna/rio-sarapiqui-river/",
+      "/combo-rafting-canyoning/"
+    ],
+    "language": "en",
+    "focus": "Тексты команды по участкам Balsa и Sarapiquí, трансферам, условиям и сочетаниям рафтинга с другими занятиями."
+  },
+  {
+    "name": "Ponderosa · журнал и семейные программы",
+    "url": "https://ponderosacostarica.com/blog/",
+    "paths": [
+      "/tienda-en-linea/actividades/",
+      "/tienda-en-linea/paquetes/"
+    ],
+    "exactPaths": [
+      "/tienda-en-linea/actividades/lazy-river-float/",
+      "/tienda-en-linea/actividades/safari-tour-guanacaste/",
+      "/tienda-en-linea/actividades/cabalgata/",
+      "/tienda-en-linea/paquetes/paquete-full-day-tour/",
+      "/exoneracion-de-responsabilidad-en-actividades/"
+    ],
+    "language": "es",
+    "focus": "Официальные материалы для семейных выездов в Либерии, водных прогулок и знакомства с животными."
+  },
+  {
+    "name": "Jaguar Rescue Center · новости и программы",
+    "url": "https://www.jaguarrescue.foundation/en-us/News",
+    "paths": [
+      "/en-us/News",
+      "/en-us/SupportUs/Tours/"
+    ],
+    "exactPaths": [
+      "/en-us/SupportUs/Tours/PublicTour",
+      "/en-us/SupportUs/Tours/PrivateTour",
+      "/en-us/HowtoGetHere",
+      "/en-us/AboutJRC/LaCeibaPrimaryForestFoundation"
+    ],
+    "language": "en",
+    "focus": "Обновления центра на карибском побережье, посещение с гидом, подъезд и природоохранные работы в Таламанке."
+  },
+  {
+    "name": "ArtVillas · путеводитель по занятиям у Увиты",
+    "url": "https://artvillas.com/experiences",
+    "paths": [
+      "/experiences/"
+    ],
+    "exactPaths": [
+      "/experiences",
+      "/our-story"
+    ],
+    "language": "en",
+    "focus": "Открытый раздел владельцев ArtVillas о занятиях в Увите и районе южного Тихого океана."
+  },
+  {
+    "name": "Hacienda Orosi · карты и условия семейного визита",
+    "url": "https://haciendaorosi.com/booking/",
+    "paths": [
+      "/booking/producto/"
+    ],
+    "exactPaths": [
+      "/hacienda-orosi/",
+      "/booking/terminos-y-condiciones/",
+      "/booking/producto/coffee-tour-adventure-granja/",
+      "/booking/producto/entrada-a-la-granja/",
+      "/booking/producto/pase-de-dia/",
+      "/booking/producto/pase-de-noche/"
+    ],
+    "language": "es",
+    "focus": "Действующие программы кофе, фермы, термалов, возрастные билеты, длительность и условия посещения."
+  },
+  {
+    "name": "Osa Tourism · маршруты и велосипеды",
+    "url": "https://www.osatourism.com/osa-bike-tour-company/",
+    "paths": [],
+    "exactPaths": [
+      "/puerto-jimenez-tours/",
+      "/osa-bike-tour-company/"
+    ],
+    "language": "en",
+    "focus": "Участки Дос-Брасос, прокат MTB, программы местных проводников и альтернативные короткие поездки."
+  },
+  {
+    "name": "CATURSANTOS · поездки с местными гидами",
+    "url": "https://catursantos.com/directory/dota-es-dota/",
+    "paths": [
+      "/directory/"
+    ],
+    "exactPaths": [
+      "/directory/dota-es-dota/",
+      "/directory/coopedota-r-l/"
+    ],
+    "language": "es",
+    "focus": "Велосипедные поездки, финки, гиды, кофе и кемпинги в Лос-Сантос."
+  },
+  {
+    "name": "Puerto Viejo Club · активности Таламанки",
+    "url": "https://www.puertoviejoclub.com/en/activities-offers/",
+    "paths": [
+      "/en/activities-offers/"
+    ],
+    "exactPaths": [
+      "/en/contact/"
+    ],
+    "language": "en",
+    "focus": "Программы с проводниками, MTB, речная гребля и береговые поездки, контакты местных команд."
+  },
+  {
+    "name": "MonteTours · e‑MTB Монтеверде",
+    "url": "https://montetours.com/monteverde-mountain-ebike-tours/",
+    "paths": [
+      "/epic-sunrise-",
+      "/epic-sunset-",
+      "/monteverde-cloud-forest-mountain-bike-",
+      "/el-tigre-monteverde-mountain-bike-",
+      "/lake-trail-monteverde-mountain-bike-"
+    ],
+    "language": "en",
+    "focus": "Условия по погоде, время выезда, возраст, состав услуг и ссылки на операторские маршруты."
+  },
+  {
+    "name": "Bimba · доки и велопрокат Санта-Тересы",
+    "url": "https://gobimba.com/locations-2/",
+    "paths": [
+      "/vehicles/",
+      "/es/"
+    ],
+    "exactPaths": [
+      "/es/terms-of-service/",
+      "/vehicles/electric-bikes/"
+    ],
+    "language": "en",
+    "focus": "Смены точек выдачи, коридор прокатного сервиса и правила поездки."
+  },
+  {
+    "name": "Onda Teresa · местный транспорт и велосипедные маршруты",
+    "url": "https://www.ondateresa.com/guides/scooter-golf-cart-bike-rentals-santa-teresa",
+    "paths": [
+      "/guides/"
+    ],
+    "language": "en",
+    "focus": "Практические заметки о прокате, покрытии, дожде, трафике и перемещении без автомобиля."
+  },
+  {
+    "name": "Copa de Árbol · программы Баия-Дрейк",
+    "url": "https://www.copadearbol.com/activities/",
+    "language": "en",
+    "focus": "Водопады Лос-Планес, конные и лесные маршруты, лодки, семейные условия и трансферы.",
+    "paths": [],
+    "exactPaths": [
+      "/nagualafalls/",
+      "/trillo-de-la-danta-drake-bay/",
+      "/drake-bay-horseback/",
+      "/copa-de-arbol-guided-wildlife-hike/",
+      "/transportation/",
+      "/location/",
+      "/faq/",
+      "/rio-claro-nature-hike/",
+      "/sierpe-mangrove-forest-tour/",
+      "/sunset-boat-cruise/"
+    ]
+  },
+  {
+    "name": "Buena Vista del Rincón · маршруты и условия визита",
+    "url": "https://www.buenavistadelrincon.com/experiences",
+    "language": "en",
+    "focus": "Походы, водопады, конные прогулки и термалы на склонах Ринкон-де-ла-Вьеха.",
+    "paths": [
+      "/experiences/",
+      "/blog/"
+    ],
+    "exactPaths": [
+      "/experiences/nature",
+      "/experiences/adventure",
+      "/experiences/wellness",
+      "/day-pass"
+    ]
+  },
+  {
+    "name": "Peninsula Papagayo · программы и заметки Explorers",
+    "url": "https://peninsulapapagayo.com/explore/",
+    "language": "en",
+    "focus": "Пальмарес, e-MTB, доступ к тропам, карта района, гиды и береговые программы.",
+    "paths": [],
+    "exactPaths": [
+      "/ebikes/",
+      "/mountain-biking-bliss/",
+      "/new-wilderness-outpost-in-palmares-to-debut-in-november/"
+    ]
+  },
+  {
+    "name": "Oxygen · природные и морские программы Увиты",
+    "url": "https://oxygenjunglevillas.com/adventures/",
+    "language": "en",
+    "focus": "Походы, гребля, морские прогулки и условия работы операторов у Марино-Бальена.",
+    "paths": [
+      "/blog/"
+    ],
+    "exactPaths": [
+      "/bird-watching-hikes/",
+      "/ziplining-canopy-tours/",
+      "/whale-dolphin-tour/",
+      "/white-water-rafting/",
+      "/contact/",
+      "/kayaking/",
+      "/paddle-boarding/",
+      "/snorkeling-and-diving/",
+      "/surfing/",
+      "/waterfall-rappelling/"
+    ]
+  },
+  {
+    "name": "Cariblue · программы и логистика Карибского берега",
+    "url": "https://cariblue.com/actividades-caribe",
+    "language": "es",
+    "focus": "Прогулки из Коклеса, пляжи, доступ для семей и местные туры из Пуэрто-Вьехо.",
+    "paths": [],
+    "exactPaths": [
+      "/preguntas-frecuentes/",
+      "/como-llegar/",
+      "/day-pass/",
+      "/en/actividades-caribe/",
+      "/contacto/"
+    ]
+  },
+  {
+    "name": "Sky Adventures · программы и правила Ареналя",
+    "url": "https://skyadventures.travel/",
+    "language": "en",
+    "focus": "Тропы с подвесными мостами, подъёмник, канопи и требования к посещению.",
+    "paths": [],
+    "exactPaths": [
+      "/ziplines/",
+      "/hanging-bridges/",
+      "/aerial-tram/",
+      "/hand-of-arenal/",
+      "/faqs/"
+    ]
+  },
+  {
+    "name": "Rescate Wildlife · статьи и посещение центра",
+    "url": "https://rescatewildlife.org/blogs/",
+    "language": "en",
+    "focus": "Уход за животными, семейное посещение приюта и карта территории.",
+    "paths": [
+      "/blogs/"
+    ],
+    "exactPaths": [
+      "/tickets-tours/",
+      "/sanctuary-map/",
+      "/educational-group-tours/",
+      "/capybara-rescue-story/",
+      "/the-story-of-guapo-our-jaguar/",
+      "/directions/"
+    ]
+  },
+  {
+    "name": "Museo Nacional · доступные выставки и материалы",
+    "url": "https://www.museocostarica.go.cr/exhibiciones/",
+    "language": "es",
+    "focus": "Экспозиции, сад бабочек и программы Национального музея для семейного дня в Сан-Хосе.",
+    "paths": [
+      "/exhibiciones/"
+    ],
+    "exactPaths": [
+      "/visitar/plano-interactivo/",
+      "/exhibiciones/jardin-de-mariposas/",
+      "/exhibiciones/de-cuartel-a-museo/"
+    ]
+  },
+  {
+    "name": "Tulemar · путеводитель Мануэль-Антонио",
+    "url": "https://www.tulemar.com/blog/",
+    "language": "en",
+    "focus": "Наблюдение животных, пляжные заходы, рыбалка и поездки из Кепоса.",
+    "paths": [
+      "/blog/"
+    ],
+    "exactPaths": [
+      "/map/",
+      "/experiences",
+      "/activities/dining/"
+    ]
+  },
+  {
+    "name": "Maverick · рыболовные отчёты Тихого океана",
+    "url": "https://www.mavericksportfish.com/fishing-reports/",
+    "language": "en",
+    "focus": "Отчёты по сезонам и выездам, условия чартеров, береговые и дальние маршруты.",
+    "paths": [
+      "/los-suenos-fishing-report-",
+      "/los-sueos-fishing-report-"
+    ],
+    "exactPaths": []
+  },
+  {
+    "name": "Vive Dos Ríos · маршруты сельских сообществ Упалы",
+    "url": "https://www.vivedosrios.com/nuestras-rutas",
+    "language": "es",
+    "focus": "Местные фермы, сезонные водопады, термалы, виды трансфера и семейное размещение.",
+    "paths": [],
+    "exactPaths": [
+      "/ruta-del-agua",
+      "/ruta-agroturismo",
+      "/ruta-aguas-termales",
+      "/ruta-aves",
+      "/directorio",
+      "/reservaciones"
+    ]
+  },
+  {
+    "name": "Pacific Coast Dive Center · занятия в Фламинго и Тамариндо",
+    "url": "https://www.pacificcoastdivecenter.com/tours/",
+    "language": "es-en",
+    "focus": "Гиды, допуск к дайвингу, занятия для новичков, лодки и снорклинг.",
+    "review": "catalina-pcdc-tours-library",
+    "paths": [
+      "/es/tour/",
+      "/tour/"
+    ],
+    "exactPaths": [
+      "/es/tour/buceo/",
+      "/es/tour/discover-scuba-diving-es/",
+      "/es/islas-catalinas-costa-rica/",
+      "/booking/"
+    ]
+  },
+  {
+    "name": "Punta Uva Dive Center · условия карибского рифа",
+    "url": "https://puntauvadivecenter.com/",
+    "language": "en",
+    "focus": "Выезды к рифам, вводное погружение и курсы местной команды в Таламанке.",
+    "review": "punta-uva-dive-owner",
+    "paths": [],
+    "exactPaths": [
+      "/padi-courses/",
+      "/discover-scuba-diving/",
+      "/open-water/",
+      "/advanced-open-water-diver/",
+      "/divemaster/",
+      "/rescue-diver/",
+      "/emergency-first-response/"
+    ]
+  },
+  {
+    "name": "Boca Brava Lodge · остров и водное такси из Бока-Чики",
+    "url": "https://bocabravalodge.com/",
+    "language": "en",
+    "focus": "Семейные домики в Панаме, маршруты к берегу и правила короткого лодочного трансфера.",
+    "paths": [],
+    "exactPaths": [
+      "/getting-here.html",
+      "/island.html",
+      "/cabins.html",
+      "/contact.html",
+      "/gallery.html"
+    ]
+  },
+  {
+    "name": "Monkeys Travels · паром и маршрут по Ометепе",
+    "url": "https://monkeytravelstours.com/en/guides/san-jorge-ometepe-ferry-schedule",
+    "language": "es-en",
+    "focus": "Повседневные паромы, два причала острова, природные места и маршруты местных гидов.",
+    "review": "ni-ometepe-ferry-guide",
+    "paths": [
+      "/en/guides/ometepe-",
+      "/es/guides/ometepe-"
+    ],
+    "exactPaths": [
+      "/en/tours/ometepe-island",
+      "/en/guides/ometepe-in-one-day-from-san-juan-del-sur"
+    ]
+  },
+  {
+    "name": "Chiriqui Tours · морской парк и выходы из Бока-Чики",
+    "url": "https://www.chiriquitours.com/book-online",
+    "language": "en",
+    "focus": "Островные лодки, экипировка и программы местного оператора.",
+    "review": "pa-chiriqui-tours-catalog",
+    "paths": [
+      "/service-page/"
+    ],
+    "exactPaths": [
+      "/service-page/gulf-of-chiriqui"
+    ]
+  },
+  {
+    "name": "Electric Bike Costa Rica · велосипедные маршруты из Коко",
+    "url": "https://www.electricbikecostarica.com/",
+    "language": "en",
+    "focus": "e-MTB к водопадам и вулканам, прокат, доступ, подготовка и условия.",
+    "review": "ebike-coco-electricbike-catalog",
+    "paths": [],
+    "exactPaths": [
+      "/rentals",
+      "/guided-tours",
+      "/las-pilas-ebike-tour",
+      "/rincon-de-le-vieja-e-bike-tour",
+      "/palo-verde-ebike-tour",
+      "/contact"
+    ]
+  },
+  {
+    "name": "Sámara Explorers · прибрежный e-bike и прокат",
+    "url": "https://www.samaraexplorers.com/rentals/bikes",
+    "language": "en",
+    "focus": "Прокат для Самары и Каррильо, транспорт и условия семейных выездов.",
+    "review": "ebike-samara-explorers-rent",
+    "paths": [],
+    "exactPaths": [
+      "/rentals/bikes",
+      "/rentals",
+      "/transportation"
+    ]
+  },
+  {
+    "name": "Costa Rica MTB · технические e-MTB синглтреки",
+    "url": "https://www.costaricamtb.com/mtb-guide-trip-costa-rica",
+    "language": "en",
+    "focus": "Однодневные маршруты с гидами и многодневные велопоездки. Техника, комплектация, транспорт.",
+    "review": "ebike-costaricamtb-guide-trips",
+    "paths": [],
+    "exactPaths": [
+      "/emtb-singletrack-tours",
+      "/mtb-guide-trip-costa-rica",
+      "/mountain-bike-trips/trail-surfing-week"
+    ]
+  },
+  {
+    "name": "Wikiloc · Коста-Рика на электровелосипеде",
+    "url": "https://es.wikiloc.com/rutas/bicicleta-electrica/costa-rica",
+    "language": "es",
+    "focus": "Открытые записи поездок, поиск по провинции и статистика автора, проверка прав проезда вручную.",
+    "paths": [],
+    "exactPaths": []
+  },
+  {
+    "name": "Proyecto Aguaepipa · велопутеводитель по Коста-Рике",
+    "url": "https://proyectoaguaepipa.com/es/costa-rica/activities/biking-in-costa-rica",
+    "language": "es",
+    "focus": "Дороги, велозоны Ареналя и Лас-Каталинас, региональные подробности на испанском.",
+    "paths": [],
+    "exactPaths": [
+      "/es/costa-rica/activities/biking-in-costa-rica"
+    ]
+  },
+  {
+    "name": "PérezZeledón.com · местные поездки в Ривасе",
+    "url": "https://perezzeledon.com/es/rivas",
+    "language": "es",
+    "focus": "Пешие тропы, подтверждённые места у терм, режимы подъезда и экскурсии в долине Чиррипо.",
+    "review": "rural-rivas-perezzeledon-district",
+    "paths": [],
+    "exactPaths": [
+      "/es/rivas",
+      "/es/sendero-los-gigantes-rivas-perez-zeledon",
+      "/es/chirripo",
+      "/es/things-to-do"
+    ]
+  },
+  {
+    "name": "The Trail Adventure CR · местные трейлы и забеги",
+    "url": "https://thetrailadventurecr.com/",
+    "language": "es",
+    "focus": "Календарь трейлраннинга Ла-Фортуны, Рио-Куарто, Сан-Висенте и горной зоны Сарсеро.",
+    "review": "rural-trail-adventure-series",
+    "paths": [],
+    "exactPaths": [
+      "/"
+    ]
+  },
+  {
+    "name": "Valle del Chirripó · гостевые программы CATURCOCHI",
+    "url": "https://valledelchirripo.com/",
+    "language": "es",
+    "focus": "Гиды долины, маршруты для семей и пеших групп, фермерские программы и кемпинг.",
+    "review": "rural-caturcochi-valle-chirripo",
+    "paths": [],
+    "exactPaths": [
+      "/acampe-a-los-pies-de-los-gigantes/",
+      "/experiencia-chirripo/",
+      "/entrenamiento-para-conquistar-la-cima-del-chirripo/"
+    ]
+  },
+  {
+    "name": "Osa Tourism · прокат и транспорт Пуэрто-Хименеса",
+    "url": "https://www.osatourism.com/puerto-jimenez/",
+    "language": "en",
+    "focus": "Велопрокат, лодки, транспорт, часы и местные варианты поездок в Пуэрто-Хименесе и по Осе.",
+    "review": "rural-osa-jimenez-current-transport",
+    "paths": [],
+    "exactPaths": [
+      "/puerto-jimenez/",
+      "/osa-whatsapp-directory/",
+      "/osa-peninsula-specialized-tours/"
+    ]
+  },
+  {
+    "name": "Almonds & Corals · путеводитель по Мансанильо",
+    "url": "https://almondsandcorals.com/why-you-should-not-miss-costa-rica-caribbean-coast/",
+    "language": "en",
+    "focus": "Пляжи, пеший Мансанильо, подходы к заказнику, питание и советы по Карибскому берегу.",
+    "paths": [],
+    "exactPaths": [
+      "/why-you-should-not-miss-costa-rica-caribbean-coast/",
+      "/the-hotel/",
+      "/contact/"
+    ]
+  },
+  {
+    "name": "Le Caméléon · поездки и каяки из Коклеса",
+    "url": "https://www.lecameleonhotel.com/experiences",
+    "language": "en",
+    "focus": "Каяк, проводники, природные выезды, контакт и варианты поездок из Коклеса.",
+    "paths": [],
+    "exactPaths": [
+      "/experiences",
+      "/contact-location"
+    ]
+  },
+  {
+    "name": "Banana Azul · Южный Кариб с местными организаторами",
+    "url": "https://www.bananaazul.com/activities",
+    "language": "en",
+    "focus": "Кауита, сёрф, пляжи, программы Caribe Fun Tours и другие операторы Таламанки.",
+    "paths": [],
+    "exactPaths": [
+      "/activities",
+      "/contact"
+    ]
+  },
+  {
+    "name": "Maquenque Lodge · лодки, каяки и лесная база",
+    "url": "https://maquenquelodge.com/experiences/",
+    "language": "en",
+    "focus": "Río San Carlos, Rio Tres Amigos, выезды на лодках, гребля и лесные прогулки.",
+    "paths": [],
+    "exactPaths": [
+      "/experiences/",
+      "/sustainability/"
+    ]
+  },
+  {
+    "name": "Ride del Caribe · велогонка Кауиты",
+    "url": "https://ridedelcaribe.com/",
+    "language": "es",
+    "focus": "Календарь велогонки, регистрация, e-bike, шоссе, профиль и места встречи.",
+    "review": "caribe-ride-del-caribe-2027",
+    "paths": [],
+    "exactPaths": [
+      "/"
+    ]
+  },
+  {
+    "name": "Autentico Adventures · сплавы Хенераль и Гуабо",
+    "url": "https://www.autenticoadventures.com/rafting-trips-costa-rica.php",
+    "language": "en",
+    "focus": "Подтверждённые маршруты, класс воды, трансфер и регламент лагерей на реках южных гор.",
+    "review": "general-raft-programs-library",
+    "paths": [],
+    "exactPaths": [
+      "/rafting-trips-costa-rica.php",
+      "/rio-general.php",
+      "/rio-general-3.php",
+      "/savegre-guabo.php"
+    ]
+  },
+  {
+    "name": "Enjoy Osa · сплавы на юге",
+    "url": "https://enjoyosa.com/trip/white-water-rafting/",
+    "language": "en",
+    "focus": "Сезонные программы на Кото-Брусе, снаряжение и исходная площадка связи с проводниками.",
+    "review": "coto-enjoy-osa-raft-owner",
+    "paths": [],
+    "exactPaths": [
+      "/trip/white-water-rafting/"
+    ]
+  },
+  {
+    "name": "Visita Coto Brus · местный каталог района",
+    "url": "https://www.visitacotobrus.com/turismo/atractivos/parque-la-amistad-pittier",
+    "language": "es",
+    "focus": "Местные тропы, сельские проекты, парк Ла-Амистад и подходы к Метапонто.",
+    "review": "south-coto-visitor-index",
+    "paths": [
+      "/turismo/atractivos/"
+    ],
+    "exactPaths": [
+      "/turismo/atractivos/parque-la-amistad-pittier"
+    ]
+  },
+  {
+    "name": "Soul Planet Cycles · велосипедные маршруты Бокете",
+    "url": "https://www.soulplanetcycles.com/tours",
+    "language": "en",
+    "focus": "Дистанции e-bike, кафе, остановки, аренда и условия организатора.",
+    "review": "pa-boquete-soul-tour-details",
+    "paths": [],
+    "exactPaths": [
+      "/tours",
+      "/"
+    ]
+  },
+  {
+    "name": "Finca Lérida · тропы облачного леса",
+    "url": "https://hotelfincalerida.com/cloud-forest-trails-boquete/",
+    "language": "en",
+    "focus": "Плантация, тропы, допуск к частному резерву и программа с местным проводником.",
+    "review": "pa-lerida-trails-owner",
+    "paths": [],
+    "exactPaths": [
+      "/cloud-forest-trails-boquete/"
+    ]
+  },
+  {
+    "name": "Caballito’s Mar · каяк в Мериде",
+    "url": "https://www.caballitosmar.com/kayak",
+    "language": "en",
+    "focus": "Река Истиан, выходы на каяках и база местного оператора на Ометепе.",
+    "review": "ni-istian-kayak-caballitos",
+    "paths": [],
+    "exactPaths": [
+      "/kayak",
+      "/contact"
+    ]
+  },
+  {
+    "name": "El Zopilote · самостоятельные поездки по Ометепе",
+    "url": "https://ometepezopilote.net/rio-istian-kayak-tour-ometepe/",
+    "language": "en",
+    "focus": "Транспорт острова, паром, каяк в Истиане и условия базы на стороне Мадераса.",
+    "review": "ni-istian-zopilote-booking",
+    "paths": [],
+    "exactPaths": [
+      "/rio-istian-kayak-tour-ometepe/"
+    ]
+  },
+  {
+    "name": "Puesta del Sol · местный туризм Ла-Паломы",
+    "url": "https://www.puestadelsol.org/services.php",
+    "language": "es",
+    "focus": "Семейное размещение, обычные велосипеды, каяк и экскурсия к косе.",
+    "review": "ni-puesta-bikes-cooperative",
+    "paths": [],
+    "exactPaths": [
+      "/services.php",
+      "/contact.php"
+    ]
+  },
+  {
+    "name": "Hacienda AltaGracia · e-MTB по деревням Кахона",
+    "url": "https://auberge.com/altagracia/experiences/mountain-biking/",
+    "language": "en",
+    "focus": "Две поездки e-MTB, возраст и уровень, открытость семейных программ в Перес-Селедоне.",
+    "review": "alta-emtb-programs",
+    "paths": [],
+    "exactPaths": [
+      "/altagracia/experiences/mountain-biking/",
+      "/altagracia/contact-us"
+    ]
+  },
+  {
+    "name": "Pura Vida Ride · актуальные велопрограммы Лас-Каталинас",
+    "url": "https://www.puravidaride.com/rentals",
+    "language": "en",
+    "focus": "Аренда e-MTB, короткий и длинный синглтрек, выезды к водопаду и консультация по доступу.",
+    "review": "catalinas-emtb-rent",
+    "paths": [],
+    "exactPaths": [
+      "/rentals",
+      "/rentals-legacy",
+      "/world-class-mountain-biking",
+      "/contact"
+    ]
+  },
+  {
+    "name": "ARA Tours · программы e-bike по регионам Коста-Рики",
+    "url": "https://www.aratours.com/es/excursiones/pura-vida-e-biking",
+    "language": "es",
+    "focus": "Маршруты под руководством гида, от долины Ороси и Турриальбы до Сарапики, Ла-Фортуны и Самары.",
+    "review": "ara-pura-vida-ebike-itinerary",
+    "paths": [
+      "/es/excursiones/bike-e-bike/"
+    ],
+    "exactPaths": [
+      "/es/excursiones/pura-vida-e-biking",
+      "/es/excursiones/bike-e-bike"
+    ]
+  },
+  {
+    "name": "Vista Golfo · водопады, канопи и кемпинг в Мирамаре",
+    "url": "https://adventureparkcostarica.net/blog/",
+    "language": "es",
+    "focus": "Официальные программы владельца в Тахо-Альто, условия кемпинга, новые маршруты и изменение контактов.",
+    "review": "vista-golfo-spanish-blog",
+    "paths": [
+      "/tours/",
+      "/servicios/",
+      "/blog/"
+    ],
+    "exactPaths": [
+      "/blog/",
+      "/tours/tour-de-cataratas/",
+      "/tours/tour-big-papa/",
+      "/servicios/camping-vista-golfo/"
+    ]
+  },
+  {
+    "name": "SUPHERR · прокат на двух побережьях залива",
+    "url": "https://www.supherr.com/servicios-sup-y-kayak-una-experiencia-para-todos-los-niveles/",
+    "language": "es",
+    "focus": "Прокат SUP и каяков в Эррадуре и в заливе Никоя, адреса, занятия и правила выхода.",
+    "review": "supherr-operator-water-herradura",
+    "paths": [
+      "/tours/"
+    ],
+    "exactPaths": [
+      "/servicios-sup-y-kayak-una-experiencia-para-todos-los-niveles/",
+      "/contacto/",
+      "/"
+    ]
+  },
+  {
+    "name": "Amarena Canvas Beach Hotel · программы Místico",
+    "url": "https://amarenabeachhotel.com/es/activities/",
+    "language": "es",
+    "focus": "Озёрные программы, доступ к пляжу, велосипедные выезды и лодочные предложения.",
+    "review": "amarena-mistico-activities",
+    "paths": [
+      "/es/activities/"
+    ],
+    "exactPaths": [
+      "/es/activities/",
+      "/es/",
+      "/location/",
+      "/contact/"
+    ]
+  },
+  {
+    "name": "Colina Secreta · форматы размещения в Коклесе",
+    "url": "https://colinasecreta.com/es/stay/",
+    "language": "es",
+    "focus": "Карты шатров, варианты семейного размещения, услуги, сообщаемый возраст и условия заезда.",
+    "review": "colina-secreta-host-stay",
+    "paths": [
+      "/es/stay/"
+    ],
+    "exactPaths": [
+      "/es/stay/",
+      "/es/preguntas-frecuentes/",
+      "/es/elementor-8682/"
+    ]
+  },
+  {
+    "name": "Bike Tour Costa Rica · Носара по дням",
+    "url": "https://biketourcostarica.com/tours/",
+    "paths": [
+      "/tours/",
+      "/bike-rental/",
+      "/contact/"
+    ],
+    "language": "en",
+    "focus": "Пятиэтапное катание в районе Носары и Остионаля. Недельная программа, велосипеды и поддержка."
+  },
+  {
+    "name": "Lizard Head · велоэкспедиция через Коста-Рику",
+    "url": "https://lizardheadcyclingguides.com/road-mountain-bike-tours/spring-fall-bike-tours/costa-rica-bike-tour/",
+    "exactPaths": [
+      "/road-mountain-bike-tours/spring-fall-bike-tours/costa-rica-bike-tour/"
+    ],
+    "language": "en",
+    "focus": "Дальняя программа. Даты, дистанции, питание, аренда e-bike, рафтинг и лодки."
+  },
+  {
+    "name": "ICT · путеводитель по дорогам для велосипеда",
+    "url": "https://es.visitcostarica.com/blog/learn-right-routes-road-cycling",
+    "exactPaths": [
+      "/blog/learn-right-routes-road-cycling"
+    ],
+    "language": "es",
+    "focus": "Опубликованные ICT велокоридоры Сарапики, долины Ороси, Никои и Карибики."
+  },
+  {
+    "name": "Visit Panamá · тропы Тьеррас-Альтас",
+    "url": "https://es.tourismpanama.com/blog/post/senderos-en-tierras-altas/",
+    "language": "es",
+    "focus": "Короткие и длинные маршруты, природоохранные участки, доступ и фотографии гор Чирики.",
+    "paths": [
+      "/blog/post/senderos-",
+      "/lugares-para-visitar/tierras-altas/",
+      "/aire-libre-y-naturaleza/parques-naturales/"
+    ]
+  },
+  {
+    "name": "Mount Totumas · подъезд и тропы",
+    "url": "https://www.mounttotumas.com/about-1",
+    "language": "en",
+    "focus": "Требования к 4×4, состояние подъезда, трансфер, лесная сеть и термальные источники.",
+    "exactPaths": [
+      "/gallery",
+      "/reservations",
+      "/accomodations"
+    ]
+  },
+  {
+    "name": "Pachamama Eco Camp · палатки, каяки и уроки",
+    "url": "https://pachamamaecocamp.com/",
+    "language": "en",
+    "focus": "Палаточная площадка у Лас-Лахас, запрос каяка по манграм, сёрф-уроков и контакты.",
+    "exactPaths": [
+      "/contact-us"
+    ]
+  },
+  {
+    "name": "Sencijo · анонсы катания в Тьеррас-Альтас",
+    "url": "https://sencijo.com/es/alquiler-de-bicicletas/",
+    "language": "es",
+    "focus": "Проверка начала выдачи велосипедов и условий объявленных выездов в Волькане, Бамбито и Серро-Пунте.",
+    "paths": [
+      "/es/tours/"
+    ],
+    "exactPaths": [
+      "/es/contacto/"
+    ]
+  },
+  {
+    "name": "Buen Camino · допуск, состояние трасс и прокат",
+    "url": "https://buencaminocr.com/es/ride/",
+    "language": "es",
+    "focus": "Схема троп, правила, пауза и возобновление проката e-MTB, часы и ночёвки.",
+    "review": "buen-camino-owner-ride",
+    "exactPaths": [
+      "/es/ride/",
+      "/es/",
+      "/es/sleep/",
+      "/es/eat/"
+    ]
+  },
+  {
+    "name": "Todo Jacó · велосипеды и транспорт",
+    "url": "https://todojaco.com/c/bikerent",
+    "language": "es-en",
+    "focus": "Местный каталог аренды, размещение стоек и перевозки.",
+    "review": "jaco-pedal-rentals-list",
+    "exactPaths": [
+      "/c/bikerent",
+      "/docs/getting-around.html"
+    ]
+  },
+  {
+    "name": "Ticos A Pata · календарь El Camino de Costa Rica",
+    "url": "https://ticosapata.com/el-camino-de-costa-rica/",
+    "language": "es",
+    "focus": "Выходы по этапам, даты, включённая логистика и регистрация.",
+    "review": "camino-ticos-a-pata",
+    "exactPaths": [
+      "/el-camino-de-costa-rica/"
+    ]
+  },
+  {
+    "name": "Visit Nicaragua · Ла-Флор",
+    "url": "https://www.visitanicaragua.com/en/espacios-naturales/refugio-de-vida-silvestre-la-flor/",
+    "language": "en",
+    "focus": "Охрана черепах, вход, условия кемпинга и доступ к заповеднику.",
+    "review": "ni-rivas-flor-intur",
+    "exactPaths": [
+      "/en/espacios-naturales/refugio-de-vida-silvestre-la-flor/"
+    ]
+  },
+  {
+    "name": "Casa Oro · сёрф и Ла-Флор",
+    "url": "https://casaorogroup.com/en/experiencias/surf/",
+    "language": "en",
+    "focus": "Школа сёрфа, трансферы к пляжам, выходы с местным гидом в Ла-Флор.",
+    "review": "ni-rivas-casaoro-maderas",
+    "exactPaths": [
+      "/en/experiencias/surf/",
+      "/en/experiencias/tortugas-la-flor/"
+    ]
+  },
+  {
+    "name": "Nica Sail · катамараны Сан-Хуан-дель-Сура",
+    "url": "https://www.nicasail.com/charters/",
+    "language": "en",
+    "focus": "Формат рейсов, причал, остановки, фото, контакт и условия выхода.",
+    "review": "ni-rivas-sail-charter",
+    "exactPaths": [
+      "/charters/"
+    ]
+  },
+  {
+    "name": "Fundación Verdiazul · черепахи Хункильяля",
+    "url": "https://www.verdiazul.org/",
+    "language": "en",
+    "focus": "Программа питомника, дни работы, правила посетителей и ориентировочные данные о выходе черепах.",
+    "review": "junquillal-verdiazul-home",
+    "exactPaths": [
+      "/",
+      "/help-center/"
+    ]
+  },
+  {
+    "name": "Los Vivos · выход из Почоте и домики",
+    "url": "https://playalosvivos.com/getting-here",
+    "language": "en",
+    "focus": "Посадка в Don Trino, движение лодки, расписание, ночёвка и дневной визит.",
+    "review": "pochote-los-vivos-boarding",
+    "exactPaths": [
+      "/getting-here",
+      "/",
+      "/contact"
+    ]
+  },
+  {
+    "name": "Rafiki · подъезд и подготовка к визиту",
+    "url": "https://rafikisafari.com/wp/plan-your-trip/",
+    "language": "en",
+    "focus": "Особенности грунтового подъезда, 4×4, готовые палатки и правила для семей.",
+    "review": "rafiki-journey-road-required",
+    "exactPaths": [
+      "/wp/plan-your-trip/",
+      "/wp/stay/",
+      "/wp/stay/beach-camp/"
+    ]
+  },
+  {
+    "name": "Shana by the Beach · морские и наземные экскурсии",
+    "url": "https://shanabythebeach.com/tours/",
+    "language": "en",
+    "focus": "Открытые программы каяков, мангров, лодок, рыбалки и водопадов из Мануэль-Антонио.",
+    "paths": [
+      "/tours/"
+    ],
+    "exactPaths": [
+      "/tours/"
+    ]
+  },
+  {
+    "name": "Los Sueños · рыболовные выходы из марины",
+    "url": "https://lossuenos.com/deepsea-fishing/",
+    "language": "en",
+    "focus": "Текущие форматы чартеров, прибрежная и дальняя рыбалка.",
+    "exactPaths": [
+      "/deepsea-fishing/"
+    ]
+  },
+  {
+    "name": "Toucan Rescue Ranch · форматы визита",
+    "url": "https://toucanrescueranch.org/tours/onsite-tours/",
+    "language": "en",
+    "focus": "Официальные экскурсии, языки, правила у животных, бронирование и изменения программы.",
+    "paths": [
+      "/tours/"
+    ],
+    "exactPaths": [
+      "/tours/onsite-tours/",
+      "/faq/",
+      "/contact-2/"
+    ]
+  },
+  {
+    "name": "Dreamsea · сёрф, глэмпинг и тренировки в Тамариндо",
+    "url": "https://dreamseacostarica.com/experience-dreamsea-surf-camp/",
+    "language": "en",
+    "focus": "Группы по уровню, уроки, снаряжение, размещение, расписание и блоги лагеря.",
+    "exactPaths": [
+      "/experience-dreamsea-surf-camp/",
+      "/surf-camp-rates/",
+      "/contact-dreamsea-surf-camp/"
+    ]
+  },
+  {
+    "name": "Montaña de Fuego · действующие занятия у Ареналя",
+    "url": "https://montanadefuego.com/activities/",
+    "paths": [],
+    "exactPaths": [
+      "/activities/",
+      "/es/actividades/",
+      "/es/contactenos/"
+    ],
+    "language": "es-en",
+    "focus": "Программы лесной прогулки, терм, канопи и речного тюбинга. Запись и детские ограничения проверяются у площадки."
+  },
+  {
+    "name": "Reserva Conchal · тропы, вода и заповедник",
+    "url": "https://reservaconchal.com/experiences/",
+    "review": "conchal-reserva-program",
+    "paths": [],
+    "exactPaths": [
+      "/experiences/",
+      "/sustainability/",
+      "/beachclub/",
+      "/phonedirectory/"
+    ],
+    "language": "en",
+    "focus": "Карта пяти троп, договорённость о посещении заповедника, водная программа и режим пляжного клуба."
+  },
+  {
+    "name": "Остиональ · календарь местных гидов и поездок",
+    "url": "https://www.ostional.cr/",
+    "review": "ostional-local-calendar",
+    "paths": [
+      "/es/tour-de-avistamiento",
+      "/es/tour-de-tortugas",
+      "/tour-"
+    ],
+    "exactPaths": [
+      "/",
+      "/es/tour-de-avistamiento-de-tortugas-solitarias"
+    ],
+    "language": "es-en",
+    "focus": "Местный календарь наблюдений и варианты выезда с гидами. Разрешение на вход подтверждается в SINAC и у местных ассоциаций."
+  },
+  {
+    "name": "Las Mercedes · кофейная ферма и посещения",
+    "url": "https://lasmercedesfarm.com/",
+    "paths": [],
+    "exactPaths": [
+      "/"
+    ],
+    "language": "es-en",
+    "focus": "Актуальные часы, кофейный тур и контакты владельца.",
+    "review": "las-mercedes-farm-owner"
+  },
+  {
+    "name": "Arenal Rafting · комбинация Бальсы с ATV",
+    "url": "https://arenalrafting.com/es/combo-rafting-atv/",
+    "paths": [],
+    "exactPaths": [
+      "/es/combo-rafting-atv/",
+      "/es/preguntas-frecuentes/"
+    ],
+    "language": "es",
+    "focus": "Возраст, время выезда, маршрут сплава и условия допуска к управлению ATV.",
+    "review": "arenal-balsa-atv-owner"
+  },
+  {
+    "name": "ICT · посещение археологического Гуаябо",
+    "url": "https://es.visitcostarica.com/where-to-go/protected-areas/guayabo-national-archeological-monument",
+    "paths": [],
+    "exactPaths": [
+      "/where-to-go/protected-areas/guayabo-national-archeological-monument",
+      "/blog/learn-history-guayabo-monument"
+    ],
+    "language": "es",
+    "focus": "Условия захода, достопримечательности и официальная схема троп.",
+    "review": "guayabo-visit-ict"
+  },
+  {
+    "name": "Vive Dos Ríos · водопады и проводники Упалы",
+    "url": "https://www.vivedosrios.com/ruta-del-agua",
+    "paths": [],
+    "exactPaths": [
+      "/ruta-del-agua",
+      "/directorio",
+      "/reservaciones"
+    ],
+    "language": "es",
+    "focus": "Различия в программах Эль-Сантуарио и Морфо-Асуль, новые местные туры, размещение и контакт проводников.",
+    "review": "upala-water-community"
+  },
+  {
+    "name": "Blue River · дневные форматы и доступ из Гавилана",
+    "url": "https://www.blueriverresort.com/day-tours",
+    "paths": [],
+    "exactPaths": [
+      "/day-tours",
+      "/contact-us"
+    ],
+    "language": "en",
+    "focus": "Термы, Dino Park, дневные билеты и контакты в Дос-Риос-де-Упала.",
+    "review": "upala-blue-river-day"
+  },
+  {
+    "name": "Jaguar Corcovado Tours · выходы в Гольфо-Дульсе",
+    "url": "https://www.jaguarcorcovadotourscr.com/islands",
+    "paths": [],
+    "exactPaths": [
+      "/islands"
+    ],
+    "language": "en",
+    "focus": "Начала рейсов из Плайя-Бланки, условия лодки, гребля, время прилива и контакты.",
+    "review": "osa-blanca-gulf-boat"
+  },
+  {
+    "name": "Mistico · ночная и сумеречная экскурсии",
+    "url": "https://misticopark.com/tours/mistico-night-walk/",
+    "paths": [],
+    "exactPaths": [
+      "/tours/mistico-night-walk/",
+      "/tours/twilight-walk/",
+      "/es/tours/self-guided-hanging-bridges/"
+    ],
+    "language": "es-en",
+    "focus": "Актуальные часы, длина, возраст и условия вечернего входа.",
+    "review": "mistico-official-night"
+  },
+  {
+    "name": "Museo Nacional · посещение Bellavista",
+    "url": "https://www.museocostarica.go.cr/visitar/",
+    "paths": [],
+    "exactPaths": [
+      "/visitar/",
+      "/visitar/plano-interactivo/",
+      "/visitar/visitas-guiadas/"
+    ],
+    "language": "es",
+    "focus": "Тарифы и условия льготного входа, доступ в сад бабочек и семейные программы.",
+    "review": "museum-national-entry"
+  },
+  {
+    "name": "Maverick · экипаж Trophy Fly",
+    "url": "https://www.mavericksportfish.com/fishing-charters/trophy-fly/",
+    "paths": [],
+    "exactPaths": [
+      "/fishing-charters/trophy-fly/",
+      "/team/",
+      "/fishing-reports/"
+    ],
+    "language": "en",
+    "focus": "Катер, капитан, сезонные отчёты, контакты и правила организации рыбалки.",
+    "review": "trophy-fly-maverick"
+  },
+  {
+    "name": "Costa Rica Ecotours · водопады, ATV и каньонинг",
+    "url": "https://crecotours.com/adventure-tours-costa-rica/",
+    "language": "es-en",
+    "focus": "Местные программы Марсельи, Венесии и Бахос-дель-Торо. Условия воды, встреча, допуск по возрасту и пешие варианты.",
+    "review": "toro-ecotours-adventures",
+    "paths": [
+      "/adventure-tours-costa-rica/",
+      "/es/tours-aventura-costa-rica/"
+    ],
+    "exactPaths": [
+      "/contact/"
+    ]
+  },
+  {
+    "name": "Cinchona Waterfall Trails · вход к Сан-Фернандо",
+    "url": "https://www.descubramoscostarica.com/es/destino/cinchona-waterfall-trails",
+    "language": "es",
+    "focus": "Режим входа к водопадам, парковка, семейные условия и контакты финки.",
+    "review": "cinchona-trails-operator",
+    "exactPaths": [
+      "/es/destino/cinchona-waterfall-trails"
+    ]
+  },
+  {
+    "name": "PuroMTB · Lumen 905 и выдача проката",
+    "url": "https://puromtb.com/products/e-bike-scott-lumen-905-bateria-tq-hpr50-33-km-h",
+    "language": "es",
+    "focus": "Публичная цена Lumen, таблица компонентов, размеры при их появлении и условия выдачи проката.",
+    "paths": [],
+    "exactPaths": [
+      "/products/e-bike-scott-lumen-905-bateria-tq-hpr50-33-km-h",
+      "/products/rent-a-bicycle",
+      "/pages/contact"
+    ],
+    "review": "puromtb-lumen-905-spec"
+  },
+  {
+    "name": "Bike Outlet · e-MTB в Линдоре",
+    "url": "https://bikeoutletcr.com/collections/e-bike",
+    "language": "es",
+    "focus": "Объявления о горных e-bike, цена, размеры и фото конкретных экземпляров. Наличие подтверждает магазин.",
+    "paths": [],
+    "exactPaths": [
+      "/collections/e-bike",
+      "/products/s-works-kenevo-sl",
+      "/products/cannondale-moterra",
+      "/products/cannondale-moterra-neo-carbon-se"
+    ],
+    "review": "bike-outlet-electric-collection"
+  },
+  {
+    "name": "Bógarin Trail · лесная петля и экскурсии",
+    "url": "https://bogarintrail.com/tours/guided-tour",
+    "language": "es-en",
+    "focus": "Дневное расписание, вход, правила наблюдения и контакты экскурсии.",
+    "paths": [],
+    "exactPaths": [
+      "/tours/guided-tour",
+      "/faq",
+      "/contact"
+    ],
+    "review": "fortuna-bogarin-guided"
+  },
+  {
+    "name": "Else Kientzler · сад и кафе в Сарчи",
+    "url": "https://www.elsegarden.com/",
+    "language": "es",
+    "focus": "Часы сада, последнее время входа, доступность кафе и контакты.",
+    "paths": [],
+    "exactPaths": [
+      "/",
+      "/contact.html",
+      "/cafe.html"
+    ],
+    "review": "sarchi-kientzler-owner"
+  },
+  {
+    "name": "Museo de los Niños · семейная афиша Сан-Хосе",
+    "url": "https://museocr.org/ninos/category/eventos/",
+    "language": "es",
+    "focus": "Официальные события, интерактивные программы, часы посещения и праздничные дни.",
+    "review": "publisher-archive-museocr-family-events",
+    "paths": [
+      "/ninos/"
+    ],
+    "exactPaths": [
+      "/ninos/tu-visita/",
+      "/ninos/salas-interactivas/",
+      "/ninos/iluminacion-de-la-fachada-del-museo-de-los-ninos-2026/"
+    ]
+  },
+  {
+    "name": "Museos del Banco Central · текущие выставки",
+    "url": "https://museosdelbancocentral.org/portfolio_group/exhibiciones/",
+    "language": "es",
+    "focus": "Выставки археологии, истории денег и коста-риканского искусства.",
+    "review": "publisher-archive-bccr-exhibitions",
+    "paths": [
+      "/exhibiciones/"
+    ],
+    "exactPaths": [
+      "/preguntas-frecuentes/"
+    ]
+  },
+  {
+    "name": "Kids Saving the Rainforest · журнал центра спасения",
+    "url": "https://www.kidssavingtherainforest.org/news",
+    "language": "en",
+    "focus": "Новости центра, наблюдения о животных и семейные экскурсии.",
+    "review": "publisher-archive-kstr-rescue-news",
+    "paths": [],
+    "exactPaths": [
+      "/news",
+      "/tour"
+    ]
+  },
+  {
+    "name": "Makanda · заметки об отдыхе в Мануэле-Антонио",
+    "url": "https://makanda.com/en/hotel-makanda-blog",
+    "language": "en",
+    "focus": "Сезон, прогулки, пляжи и программы местных партнёров отеля.",
+    "review": "publisher-archive-makanda-travel",
+    "paths": [
+      "/en/hotel-makanda-blog/"
+    ],
+    "exactPaths": [
+      "/en/tours"
+    ]
+  },
+  {
+    "name": "Fly With Us · обзорные полёты на Никое",
+    "url": "https://www.flywithus.aero/day-tours",
+    "language": "en",
+    "focus": "Раздельные программы Самары и Тамариндо, маршруты над берегом, продолжительность и контакты.",
+    "review": "flywithus-day-tours-operator",
+    "paths": [],
+    "exactPaths": [
+      "/samara",
+      "/tamarindo",
+      "/day-tours",
+      "/contact"
+    ]
+  }
 ]

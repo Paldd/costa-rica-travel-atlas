@@ -10,6 +10,7 @@ on:
       - scripts/refresh.py
       - scripts/review_publisher_archives.py
       - .github/workflows/refresh.yml
+      - data/feeds.json
 
 permissions:
   contents: read

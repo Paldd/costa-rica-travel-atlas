@@ -9,7 +9,7 @@
     "prebuild": "python3 scripts/build_catalog.py",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1",
-    "check": "python3 scripts/build_catalog.py && node scripts/check_catalog.mjs"
+    "check": "python3 scripts/refresh.py --check-config && python3 scripts/build_catalog.py && node scripts/check_catalog.mjs"
   },
   "dependencies": {
     "leaflet": "1.9.4",

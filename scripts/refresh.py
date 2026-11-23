@@ -176,6 +176,7 @@ def editorial_feeds(feeds, sources):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", type=Path, default=Path(".cache/refresh.json"))
+    parser.add_argument("--check-config", action="store_true", help="validate feed and source references without fetching")
     config = parser.parse_args()
     feeds = [feed for feed in json.loads((DATA / "feeds.json").read_text()) if feed.get("paths") or feed.get("exactPaths")]
     sources = {row["id"]: row["url"] for row in read_sources()}
@@ -183,6 +184,9 @@ def main():
     publisher_archives = {canonical(sources[row["archive"]]) for row in read_table(DATA / "profile-publishers.tsv", PUBLISHER_FIELDS)
                           if row["archive"]}
     publisher_archives.update(canonical(url) for url in editorial_feeds(feeds, sources).values())
+    if config.check_config:
+        print(f"{len(feeds)} feeds and {len(publisher_archives)} publisher archives validated")
+        return
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         results = list(pool.map(lambda feed: inspect(feed, known, publisher_archives), feeds))
     summary = {
