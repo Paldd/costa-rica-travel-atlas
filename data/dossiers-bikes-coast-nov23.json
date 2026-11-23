@@ -1,0 +1,150 @@
+{
+  "juan-vinas-infiernillo-pejibaye-ebike-64": {
+    "stops": [
+      {
+        "point": "ebike-turrialba-pastor",
+        "role": "Пастор · ориентир в районе старта",
+        "note": "Точная отметка начала и возвращения есть на исходном треке Jorge Segura."
+      },
+      {
+        "point": "ebike-juan-vinas",
+        "role": "Хуан-Виньяс · город на круге",
+        "note": "Удобный ориентир для встречи и обсуждения состояния дорог с муниципальной службой."
+      },
+      {
+        "point": "pejibaye-humo",
+        "role": "Эль-Умо · площадка возле посёлка",
+        "note": "Местный ориентир для остановки. Сверьте подходы к мосту и отметки на актуальном треке."
+      },
+      {
+        "point": "pejibaye",
+        "role": "Пехибайе · остановка в посёлке",
+        "note": "Запланируйте короткий отдых и проверьте возможность набрать питьевую воду."
+      }
+    ],
+    "track": "infiernillo-segura-field-64",
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Уточните подходы к мосту Эль-Какао",
+      "text": "В сентябре 2026 года совет Хименеса обсуждал недостаточную видимость и разметку на подходе от моста Пехибайе — Эль-Умо к Эль-Какао. Узнайте у дорожной службы, какие работы завершили и открыт ли проезд.",
+      "sources": [
+        "jimenez-pejibaye-humo-bridge-minutes",
+        "jimenez-road-team-directory"
+      ]
+    },
+    "sections": [
+      {
+        "title": "Замер местного велосипедиста",
+        "text": "В мае 2026 года Jorge Segura записал круг 64,32 км с набором 2 128 м. В записи 4 часа 57 минут движения и 7 часов 2 минуты с остановками. Оставьте световой запас на толкание велосипеда и проверку развилок.",
+        "sources": [
+          "infiernillo-segura-field-64",
+          "infiernillo-enbici-field-film"
+        ]
+      },
+      {
+        "title": "Спуски, жара и снаряжение",
+        "text": "В видео из Эль-Инфьернильо есть каменистые проходы, крутые участки и пеший провод велосипеда. Возьмите защиту, запас воды, насос, камеру или жгуты, телефон с офлайн-картой и проверьте колодки. Рассчитайте заряд на набор более двух тысяч метров.",
+        "sources": [
+          "infiernillo-enbici-field-film",
+          "infiernillo-segura-field-64"
+        ]
+      },
+      {
+        "title": "Короткий вариант и ночёвка",
+        "text": "Для выезда с опытными подростками рассмотрите отдельный участок Ла-Суиса — Атирро. В районе Пехибайе есть отдельные варианты ночёвки в La Marta и Río del Valle. Спросите у площадки, где хранить велосипед и можно ли заряжать батарею.",
+        "sources": [
+          "jimenez-road-team-directory",
+          "infiernillo-segura-field-64"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Муниципалитет Хименеса · дорожная служба",
+        "source": "jimenez-road-team-directory",
+        "url": "https://munijimenez.go.cr/index.php/contactenos/directorio-telefonico",
+        "phone": "+506 2532 2061",
+        "email": "gestionvial@munijimenez.go.cr",
+        "note": "Добавочный 116. Спросите про дорогу у Эль-Умо и Эль-Какао, работы на подъездах к мосту и состояние грунтовок."
+      }
+    ],
+    "nearby": [
+      "la-suiza-atirro-pejibaye-pedelec-16",
+      "la-marta",
+      "rio-del-valle-camp",
+      "la-roca-pejibaye"
+    ],
+    "galleries": [
+      "infiernillo-segura-field-64"
+    ],
+    "videos": [
+      "infiernillo-enbici-field-film"
+    ]
+  },
+  "playa-san-miguel-nandayure": {
+    "stops": [
+      {
+        "point": "san-miguel-nandayure-beach",
+        "role": "Сан-Мигель · берег",
+        "note": "Ориентир внутри большого контура пляжа. Машину оставляйте у разрешённого подхода."
+      },
+      {
+        "point": "san-miguel-nandayure-avenida",
+        "role": "Avenida Playa San Miguel · подход с суши",
+        "note": "Улица в районе Ла-Хабильи. Состояние последнего съезда и место стоянки уточняйте на месте."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Серый песок и открытое побережье",
+        "text": "ICT выделяет широкий берег со светло-серым песком и сильным прибоем. Для семейного выезда выберите прогулку по сухому песку и точку отдыха в тени. Сёрферы оценивают волны, отлив и течение на месте.",
+        "sources": [
+          "san-miguel-ict-south-guide",
+          "san-miguel-ict-beach"
+        ]
+      },
+      {
+        "title": "Подъезд из Ла-Хабильи",
+        "text": "Подъезжайте днём и сохраните карту подхода. Продавцы и кафе сосредоточены в небольших посёлках. Запаситесь водой и перекусом заранее. Путь к Койоте идёт через холм с видами на два пляжа.",
+        "sources": [
+          "san-miguel-avenida-osm",
+          "san-miguel-ict-beach",
+          "casa-laureles-san-miguel-road"
+        ]
+      },
+      {
+        "title": "Ночёвка поблизости",
+        "text": "Хозяева Casa Laureles указывают 7–10 минут до берега по местной дороге. У них есть отдельный домик на шестерых. Запросите пин въезда и состояние грунта после дождя. Для крышной палатки согласуйте разрешённую площадку с её владельцем.",
+        "sources": [
+          "casa-laureles-san-miguel-contact",
+          "casa-laureles-san-miguel-road"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Laureles · домики и комнаты",
+        "source": "casa-laureles-san-miguel-contact",
+        "note": "Парковка, бытовые условия и дорога после дождя. В Waze найдите Casa Laureles Cabins & Guest Rooms.",
+        "url": "https://www.casa-laureles.com/contact/",
+        "phone": "+506 8633 7880",
+        "email": "reservation.info@casa-laureles.com"
+      }
+    ],
+    "nearby": [
+      "santa-teresa-nosara-gravel-101",
+      "nicoya-bikepack-6"
+    ],
+    "photos": [
+      "san-miguel-nandayure-marxer"
+    ],
+    "galleries": [
+      "san-miguel-marxer-view",
+      "san-miguel-ict-south-guide"
+    ],
+    "videos": [
+      "nicoya-coast-velo-surf-field-2023"
+    ]
+  }
+}

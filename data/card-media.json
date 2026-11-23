@@ -796,6 +796,9 @@
   "lagunillas-bajamar-gravel-21": {
     "galleries": [
       "orotina-bajamar-ebike-report"
+    ],
+    "videos": [
+      "orotina-coast-san-ramon-film"
     ]
   },
   "lapa-rios": {
@@ -1637,7 +1640,8 @@
     ],
     "videos": [
       "film-nicoya-cyclingabout-traverse",
-      "paquera-ferry-mytanfeet-video"
+      "paquera-ferry-mytanfeet-video",
+      "nicoya-coast-velo-surf-field-2023"
     ],
     "galleries": [
       "nicoya-bikepacking-ride"
@@ -2111,6 +2115,42 @@
     "videos": [
       "ara-pura-vida-ride-film",
       "ara-pura-vida-bike-gear-film"
+    ]
+  },
+  "arenal-dam-el-castillo-mtb": {
+    "photos": [
+      "arenal-dam"
+    ]
+  },
+  "arenal-tumbas-guided-mtb-24": {
+    "photos": [
+      "arenal-dam"
+    ]
+  },
+  "la-angelina-azul-ebike-7": {
+    "videos": [
+      "angelina-video-xc"
+    ]
+  },
+  "orotina-bajamar-trinidad-54": {
+    "videos": [
+      "orotina-coast-san-ramon-film",
+      "guacalillo-rail-field-film"
+    ]
+  },
+  "orotina-ebike-55": {
+    "videos": [
+      "orotina-coast-san-ramon-film"
+    ]
+  },
+  "santa-elena-tronadora-ebike-50": {
+    "photos": [
+      "tronadora"
+    ]
+  },
+  "santa-teresa-nosara-gravel-101": {
+    "videos": [
+      "nicoya-coast-velo-surf-field-2023"
     ]
   }
 }

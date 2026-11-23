@@ -2470,5 +2470,18 @@
       "/visitantes/ayuda-y-reglamento",
       "/visitantes/atracciones-y-experiencias"
     ]
+  },
+  {
+    "name": "Vuelta al Lago Arenal · новости организатора",
+    "url": "https://www.vueltaallagoarenal.com/noticias",
+    "paths": [
+      "/noticias",
+      "/ruta",
+      "/reglamento",
+      "/inscripcion",
+      "/viaje/"
+    ],
+    "language": "es",
+    "focus": "Официальные изменения трассы, допуска, регистрации и подготовки велопоездки вокруг Ареналя."
   }
 ]

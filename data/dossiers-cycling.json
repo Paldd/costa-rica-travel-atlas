@@ -209,7 +209,7 @@
         "note": "Проверьте дату и условия регистрации."
       }
     ],
-    "track": "vuelta-arenal-map",
+    "track": "vuelta-arenal-2027-garmin-course",
     "sections": [
       {
         "title": "107,07 км и 1 409 м",
@@ -220,19 +220,12 @@
         ]
       },
       {
-        "title": "Ограниченный въезд",
-        "text": "Частный отрезок Finca Chiripa примерно с 5,5 до 8,7 км входит в выпуск 2027. Подтверждение для события относится к зарегистрированным участникам. При самостоятельном выезде проверьте альтернативный общедоступный маршрут.",
+        "title": "29 мая 2027 · старт и допуск",
+        "text": "Организатор планирует два старта, быстрый и любительский. FAQ указывает допуск с 12 лет, а регламент формулирует возраст как «старше 12». Для участника, которому ровно 12, получите подтверждение организатора. На выдачу стартового пакета возьмите документ. Текущая комплектация опубликована на странице регистрации.",
         "sources": [
-          "vuelta-arenal-map",
-          "vuelta-arenal-faq"
-        ]
-      },
-      {
-        "title": "Даты и заряд",
-        "text": "Организатор планирует выезд на 29 мая 2027. Перед регистрацией подтвердите категорию, питание на трассе и тактику для запаса батареи.",
-        "sources": [
-          "vuelta-arenal-event",
-          "vuelta-arenal-faq"
+          "vuelta-arenal-faq",
+          "vuelta-arenal-2027-rules",
+          "vuelta-arenal-2027-registration"
         ]
       },
       {
@@ -242,6 +235,15 @@
           "arenal-vuelta-2026-rider",
           "vuelta-arenal-map",
           "tq-hpr60-manual"
+        ]
+      },
+      {
+        "title": "Прокат, ночёвка и просмотр полного круга",
+        "text": "Официальная линия на Garmin с профилем высот и точками организатора. Заезд проходит по грунту и асфальту. Уточните подтверждённый прокат у организатора. На странице Тронадоры есть вариант ночёвки с палаткой и отдельные контакты площадки.",
+        "sources": [
+          "vuelta-arenal-2027-garmin-course",
+          "vuelta-arenal-2027-rental",
+          "vuelta-arenal-map"
         ]
       }
     ],
@@ -257,14 +259,28 @@
     ],
     "nearby": [
       "tronadora-roof",
-      "sj-orotina-gravel",
-      "pinilla-emtb"
+      "arenal-roof-ebike-own-paddle-3",
+      "santa-elena-tronadora-ebike-50"
     ],
     "photos": [
-      "arenal-open-aerial"
+      "arenal-open-aerial",
+      "arenal-dam"
     ],
     "videos": [
       "arenal-vuelta-2026-rider"
+    ],
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Участок Finca Chiripa открыт по правилам велозаезда",
+      "text": "Организатор согласовал частный отрезок между 5,5 и 8,7 км для выпуска 2027 года. Для самостоятельной поездки через этот участок согласуйте доступ с землевладельцами.",
+      "sources": [
+        "vuelta-arenal-map",
+        "vuelta-arenal-2027-rules"
+      ]
+    },
+    "galleries": [
+      "vuelta-arenal-map",
+      "vuelta-arenal-event"
     ]
   },
   "pinilla-emtb": {

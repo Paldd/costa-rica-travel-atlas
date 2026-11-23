@@ -327,6 +327,11 @@
         "note": "Проверьте погоду, тормоза и запас батареи после спуска."
       },
       {
+        "point": "rio-chiquito-bike-road-start",
+        "role": "Начало выгружаемого участка",
+        "note": "Отсюда линия идёт по Vía 926 и Calle El Silencio до посёлка Тронадора."
+      },
+      {
         "point": "tronadora-town",
         "role": "Тронадора · финиш и место встречи",
         "note": "Выберите точку встречи с машиной или продолжайте к лагерю после согласования."
@@ -355,6 +360,14 @@
           "ebike-tronadora-field",
           "tronadora-osm"
         ]
+      },
+      {
+        "title": "На карте · 14,6 км от Рио-Чикито",
+        "text": "Встроенная линия вычислена от Calle Río Chiquito до Тронадоры по дорогам Vía 926 и Calle El Silencio. Её можно скачать в GPX. Внешний авторский трек показывает поездку от Санта-Элены на 49,68 км. Перед выездом проверьте спуски, грунт, дорожные работы и подъезды после дождя.",
+        "sources": [
+          "rio-chiquito-tronadora-osm-pretour",
+          "ebike-tronadora-field"
+        ]
       }
     ],
     "contacts": [],
@@ -371,7 +384,8 @@
     ],
     "galleries": [
       "ebike-tronadora-field"
-    ]
+    ],
+    "line": "rio-chiquito-tronadora-ebike-section"
   },
   "palmital-santa-elena-ebike-51": {
     "stops": [
