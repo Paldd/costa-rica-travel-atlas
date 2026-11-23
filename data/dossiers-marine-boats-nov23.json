@@ -1,0 +1,487 @@
+{
+  "puerto-jimenez-osa-wild-marine-3h": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Муниципальный причал",
+        "note": "Утренний сбор у публичного причала Пуэрто-Хименеса. Точное место встречи подтверждают при бронировании.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Osa Wild Travel",
+        "source": "osa-wild-golfo-dulce-marine-product",
+        "note": "Спросите про детские жилеты, вместимость, время утреннего выхода и условия рифовой остановки.",
+        "phone": "+506 2735 5848",
+        "email": "info@osawild.travel"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Морской выход на три часа",
+        "text": "Osa Wild публикует встречу в 8:00 на муниципальном причале. В программе сначала наблюдение за животными с лодки, потом остановка у рифа. Точную акваторию и остановку определяет экипаж с учётом моря.",
+        "sources": [
+          "osa-wild-golfo-dulce-marine-product",
+          "world-cetacean-alliance-golfo-dulce"
+        ]
+      },
+      {
+        "title": "Подготовка и что включено",
+        "text": "В описании есть частная лодка, двуязычный гид, маски, жилеты, вода и фрукты. Предусмотрите полотенце и дорогу до причала. Туалета на борту в программе нет. При поездке с детьми уточните размер жилета и возраст для снорклинга.",
+        "sources": [
+          "osa-wild-golfo-dulce-marine-product",
+          "iwc-costa-rica-whale-observation",
+          "incopesca-cetaceans-decree-32495"
+        ]
+      },
+      {
+        "title": "Киты в Гольфо-Дульсе",
+        "text": "В Коста-Рике выраженные окна миграции горбачей приходятся на декабрь–март и июль–середину ноября. Для выбранного берега и недели спросите у местной команды про свежие наблюдения и состояние воды.",
+        "sources": [
+          "world-cetacean-alliance-golfo-dulce",
+          "iwc-costa-rica-whale-observation"
+        ]
+      }
+    ],
+    "photos": [
+      "puerto-jimenez-sunrise-badilla",
+      "osa-golfo-dulce-nasa"
+    ],
+    "galleries": [
+      "osa-wild-golfo-dulce-marine-product"
+    ],
+    "videos": [
+      "golfo-dulce-pura-vida-humans-dolphin-film"
+    ],
+    "nearby": [
+      "puerto-jimenez-dona-tere-catamaran",
+      "golfo-dulce-mangrove-kayak",
+      "puerto-jimenez-sunset-bioluminescence-kayak",
+      "pavones-golfo-dulce-water-taxi"
+    ]
+  },
+  "samara-carrillo-dolphin-snorkel": {
+    "stops": [
+      {
+        "point": "carrillo-shore-area",
+        "role": "Один из районов посадки",
+        "note": "Carrillo Tours указывает пляжи Самара и Каррильо. Подтвердите нужный берег и место подхвата у отеля.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Carrillo Tours · Самара и Каррильо",
+        "source": "carrillotours-dolphin-snorkel-program",
+        "note": "Подтвердите пляж посадки, трансфер и возраст детей на вашу дату.",
+        "phone": "+506 2656 0584",
+        "whatsapp": "https://wa.me/50687467567",
+        "email": "info@carrillotours.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Расписание на полдня",
+        "text": "У оператора базовый выход в 8:00 на четыре часа, трансфер от отеля и ориентир по возрасту от трёх лет. Встречу и условия для ребёнка подтвердите при записи. Компания указывает варианты от половины до целого дня.",
+        "sources": [
+          "carrillotours-dolphin-snorkel-program",
+          "carrillotours-costa-rica-activities"
+        ]
+      },
+      {
+        "title": "Снорклинг и запасной береговой день",
+        "text": "В программу входят гид, снаряжение для снорклинга и лёгкое угощение. При плохой видимости спросите, можно ли ограничиться наблюдением с лодки или перенести выезд. После возвращения можно остаться на Каррильо.",
+        "sources": [
+          "carrillotours-dolphin-snorkel-program",
+          "iwc-costa-rica-whale-observation",
+          "incopesca-cetaceans-decree-32495"
+        ]
+      }
+    ],
+    "photos": [
+      "carrillo",
+      "samara-beach-commons"
+    ],
+    "galleries": [
+      "carrillotours-dolphin-snorkel-program"
+    ],
+    "videos": [
+      "carrillo-free-range-squad-dolphin-film"
+    ],
+    "nearby": [
+      "samara",
+      "carrillo",
+      "samara-carrillo-ebike-camp-2",
+      "samara-garza-camp-bike-water-3"
+    ]
+  },
+  "pavones-panga-reef-charter": {
+    "stops": [
+      {
+        "point": "pavones-adventures-panga-base",
+        "role": "Посадка в Павонесе",
+        "note": "От Río Claro Market к берегу, затем на Calle Puerto Pilón. Участок посадки в день выхода подтверждает капитан.",
+        "activity": "boat"
+      },
+      {
+        "point": "rio-claro-pavones",
+        "role": "Район въезда из Рио-Кларо",
+        "note": "Ориентир посёлка. Оператор публикует схему подъезда от рынка и ориентир парковки через дорогу.",
+        "activity": "car"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Golfo Dulce Adventures · Pavones Boat Tours",
+        "source": "pavones-golfo-dulce-adventures-charters",
+        "note": "Уточните дату и время, тип лодки, число участников и точку посадки.",
+        "phone": "+506 8444 4853",
+        "whatsapp": "https://wa.me/50684473717",
+        "email": "PavonesBoatTours@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Короткий частный выход",
+        "text": "У Golfo Dulce Adventures есть вариант на половину дня или целый день для группы до пяти человек. Позвоните с числом и возрастом участников. Попросите показать место остановки и подтвердите, какие маски, ласты и жилеты есть в наличии.",
+        "sources": [
+          "pavones-golfo-dulce-adventures-charters",
+          "pavones-adventure-golfo-dulce-boat"
+        ]
+      },
+      {
+        "title": "Риф, берег и животные",
+        "text": "Возьмите защиту от солнца, воду на переход к лодке и сухой пакет для телефона. Уточните детские жилеты и способ посадки. Для наблюдения оставайтесь на борту. Снорклинг проводят на отдельной остановке с разрешения экипажа.",
+        "sources": [
+          "pavones-golfo-dulce-adventures-charters",
+          "iwc-costa-rica-whale-observation",
+          "incopesca-cetaceans-decree-32495"
+        ]
+      }
+    ],
+    "galleries": [
+      "pavones-golfo-dulce-adventures-charters",
+      "pavones-adventure-golfo-dulce-boat"
+    ],
+    "nearby": [
+      "pavones",
+      "pavones-pineapple-creek-camp",
+      "pavones-panga-surf-matapalo",
+      "pavones-panga-inshore-and-offshore",
+      "pavones-golfo-dulce-water-taxi"
+    ]
+  },
+  "pavones-panga-surf-matapalo": {
+    "stops": [
+      {
+        "point": "pavones-adventures-panga-base",
+        "role": "Посадка в Павонесе",
+        "note": "От Río Claro Market к берегу, затем на Calle Puerto Pilón. Участок посадки в день выхода подтверждает капитан.",
+        "activity": "boat"
+      },
+      {
+        "point": "pan-dulce-osa-shore",
+        "role": "Берег Пан-Дульсе",
+        "note": "Ориентир одного из заявленных сёрф-секторов. Саму точку захода и обратную посадку выбирает капитан.",
+        "activity": "surf"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Golfo Dulce Adventures · Pavones Boat Tours",
+        "source": "pavones-golfo-dulce-adventures-charters",
+        "note": "Уточните дату и время, тип лодки, число участников и точку посадки.",
+        "phone": "+506 8444 4853",
+        "whatsapp": "https://wa.me/50684473717",
+        "email": "PavonesBoatTours@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Матапало на панге",
+        "text": "Оператор перечисляет Пан-Дульсе, Бэквош и Матапало. Перед оплатой уточните опыт группы, прогноз волн, прилив, способ входа и кто отвечает за доски. Для первого урока есть отдельная карточка с инструкторами Пан-Дульсе.",
+        "sources": [
+          "pavones-golfo-dulce-adventures-charters",
+          "osa-wild-pan-dulce-lesson"
+        ]
+      },
+      {
+        "title": "Вариант Пунта-Бурика",
+        "text": "Капитан также предлагает отдельный выход к Пунта-Бурика. При согласовании спросите точный сектор, длительность, условия посадки и укладывается ли сессия в прогноз. Заложите резерв на перенос.",
+        "sources": [
+          "pavones-golfo-dulce-adventures-charters",
+          "go-pavones-panga-boat-guide"
+        ]
+      }
+    ],
+    "galleries": [
+      "pavones-golfo-dulce-adventures-charters"
+    ],
+    "videos": [
+      "osa-cabo-matapalo-pan-dulce-surf-film"
+    ],
+    "nearby": [
+      "osa-pan-dulce-lesson",
+      "cabo-matapalo-backwash",
+      "pavones",
+      "pavones-punta-banco-coast-3",
+      "pavones-golfo-dulce-water-taxi"
+    ]
+  },
+  "pavones-panga-inshore-and-offshore": {
+    "stops": [
+      {
+        "point": "pavones-adventures-panga-base",
+        "role": "Посадка в Павонесе",
+        "note": "От Río Claro Market к берегу, затем на Calle Puerto Pilón. Участок посадки в день выхода подтверждает капитан.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Golfo Dulce Adventures · Pavones Boat Tours",
+        "source": "pavones-golfo-dulce-adventures-charters",
+        "note": "Уточните дату и время, тип лодки, число участников и точку посадки.",
+        "phone": "+506 8444 4853",
+        "whatsapp": "https://wa.me/50684473717",
+        "email": "PavonesBoatTours@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Береговой и дальний выход",
+        "text": "В формате inshore у Golfo Dulce Adventures перечислены рыба-петух, макрель и луцианы. В дальнем чартере — тунец, марлин, махи-махи и парусник. Есть варианты полдня и целого дня до пяти пассажиров. Уточните район, мореходность лодки, снаряжение и правила для выбранных видов.",
+        "sources": [
+          "pavones-golfo-dulce-adventures-charters",
+          "incopesca-sport-fishing"
+        ]
+      },
+      {
+        "title": "Перед бронью",
+        "text": "Попросите письменный состав тарифа и спросите о лицензии на вашу дату, документах экипажа, воде, тени и детских жилетах. Команда подбирает места с учётом погоды и заявленного формата.",
+        "sources": [
+          "pavones-golfo-dulce-adventures-charters",
+          "incopesca-sport-fishing",
+          "go-pavones-panga-boat-guide"
+        ]
+      }
+    ],
+    "galleries": [
+      "pavones-golfo-dulce-adventures-charters"
+    ],
+    "nearby": [
+      "pavones-pineapple-creek-camp",
+      "sierpe-fishing",
+      "pavones-panga-reef-charter",
+      "pavones-golfo-dulce-water-taxi"
+    ]
+  },
+  "pavones-golfo-dulce-water-taxi": {
+    "stops": [
+      {
+        "point": "pavones-adventures-panga-base",
+        "role": "Посадка в Павонесе",
+        "note": "От Río Claro Market к берегу, затем на Calle Puerto Pilón. Участок посадки в день выхода подтверждает капитан.",
+        "activity": "boat"
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · вариант прибытия",
+        "note": "Укажите капитану выбранный причал и следующую поездку.",
+        "activity": "boat"
+      },
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Гольфито · вариант прибытия",
+        "note": "Ориентир порта. Согласуйте точный причал частной лодки отдельно.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Golfo Dulce Adventures · Pavones Boat Tours",
+        "source": "pavones-golfo-dulce-adventures-charters",
+        "note": "Уточните дату и время, тип лодки, число участников и точку посадки.",
+        "phone": "+506 8444 4853",
+        "whatsapp": "https://wa.me/50684473717",
+        "email": "PavonesBoatTours@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два направления",
+        "text": "Golfo Dulce Adventures отдельно указывает водное такси в Пуэрто-Хименес и Гольфито. При запросе выберите одну точку высадки, сообщите количество пассажиров, размеры багажа, наличие досок и ограничение по времени.",
+        "sources": [
+          "pavones-golfo-dulce-adventures-charters",
+          "pavones-golfo-dulce-adventures-boat-google"
+        ]
+      },
+      {
+        "title": "Пересадки и багаж",
+        "text": "Запросите время и стоимость на нужную дату, правила посадки и перевозки крупного снаряжения. В Гольфито есть отдельная пассажирская лодка в Пуэрто-Хименес. Между разными перевозчиками оставьте запас на пересадку.",
+        "sources": [
+          "pavones-golfo-dulce-adventures-charters",
+          "go-pavones-panga-boat-guide"
+        ]
+      }
+    ],
+    "photos": [
+      "golfito-golfo-dulce-coast",
+      "puerto-jimenez-sunrise-badilla"
+    ],
+    "galleries": [
+      "pavones-golfo-dulce-adventures-charters"
+    ],
+    "nearby": [
+      "pavones",
+      "golfo-dulce-weekend-no-car",
+      "puerto-jimenez-osa-wild-marine-3h",
+      "pavones-panga-inshore-and-offshore"
+    ]
+  },
+  "drake-divine-dolphin-wildlife-boat": {
+    "stops": [
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Береговая посадка в Дрейке",
+        "note": "Основное место сбора на Playa Colorada. Конкретное место на берегу или подхват у другого пляжа уточните у экипажа.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "The Divine Dolphin · Баия-Дрейк",
+        "source": "divine-dolphin-drake-business-contact",
+        "note": "Место встречи, состав группы, детские жилеты, перенос по погоде и питание.",
+        "phone": "+506 8818 9784",
+        "email": "info@divinedolphin.com",
+        "whatsapp": "https://wa.me/50688189784"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Встреча на Playa Colorada",
+        "text": "Основной сбор в 8:00. The Divine Dolphin обычно указывает возвращение между 13:00 и 13:30. При удалённой гостинице возможна встреча на ближайшем пляже по согласованию. В пакет входят обед, закуски и вода. Сверьте число участников и возраст ребёнка при записи.",
+        "sources": [
+          "divine-dolphin-colorada-day-program",
+          "divine-dolphin-drake-business-contact"
+        ]
+      },
+      {
+        "title": "Береговой отрезок или открытый океан",
+        "text": "В сезон горбачей экипаж может идти вдоль берега. В другие дни дельфинов ищут дальше в море. Точку и длительность выбирает капитан. Наблюдение проходит с борта, купание и снорклинг возможны лишь на отдельной остановке в подходящих условиях.",
+        "sources": [
+          "divine-dolphin-colorada-day-program",
+          "iwc-costa-rica-whale-observation",
+          "incopesca-cetaceans-decree-32495"
+        ]
+      }
+    ],
+    "photos": [
+      "drake"
+    ],
+    "galleries": [
+      "divine-dolphin-colorada-day-program",
+      "divine-dolphin-public-field-blog"
+    ],
+    "videos": [
+      "divine-dolphin-drake-bryde-whale-film"
+    ],
+    "nearby": [
+      "drake-without-car-3",
+      "drake-pirate-catamaran-sunset",
+      "cano-island",
+      "drake-wildlife-package-7"
+    ]
+  },
+  "drake-wildlife-package-7": {
+    "stops": [
+      {
+        "point": "south-water-sjo-airport",
+        "role": "Начало и завершение поездки",
+        "note": "Международный аэропорт, затем ночёвка в районе Сан-Хосе по программе."
+      },
+      {
+        "point": "drake-bay-airport-drk",
+        "role": "Аэропорт Баия-Дрейк",
+        "note": "Внутренний перелёт и местный трансфер к выбранному лоджу.",
+        "activity": "scenic-flight"
+      },
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Береговая посадка в Дрейке",
+        "note": "Основное место сбора на Playa Colorada. Конкретное место на берегу или подхват у другого пляжа уточните у экипажа.",
+        "activity": "boat"
+      },
+      {
+        "point": "osa-sirena-station",
+        "role": "Район станции Сирена",
+        "note": "Один из вариантов сектора Корковадо. Гид, точная станция и разрешение должны быть указаны в подтверждении.",
+        "activity": "hiking"
+      },
+      {
+        "point": "cano-island-reserve-orientation",
+        "role": "Остров Каньо · возможный свободный день",
+        "note": "Морская экскурсия по отдельной брони. Ориентир острова без линии прохода.",
+        "activity": "snorkel"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "The Divine Dolphin · Баия-Дрейк",
+        "source": "divine-dolphin-drake-business-contact",
+        "note": "Место встречи, состав группы, детские жилеты, перенос по погоде и питание.",
+        "phone": "+506 8818 9784",
+        "email": "info@divinedolphin.com",
+        "whatsapp": "https://wa.me/50688189784"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как распределены шесть ночей",
+        "text": "Один ночлег в районе Сан-Хосе, пять ночей в Дрейке. В опубликованной программе есть два морских выхода, экскурсия с натуралистом в Корковадо и свободный день. В пакете на восемь дней есть ещё один выход, подъезд и расписание нужно запрашивать по выбранному варианту.",
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "sansa-bahia-drake-domestic-air",
+          "divine-dolphin-colorada-day-program"
+        ]
+      },
+      {
+        "title": "Что сверить перед покупкой билетов",
+        "text": "Подтвердите договорённость по внутренним перелётам, гостиницу, кормление по дням, багаж, фактический сектор Корковадо и условия переноса при волнах. Снорклинг Каньо и другие опции свободного дня бронируют отдельно.",
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "sansa-bahia-drake-domestic-air",
+          "cano-sinac-visit"
+        ]
+      }
+    ],
+    "photos": [
+      "drake",
+      "sirena-station-uwebart"
+    ],
+    "galleries": [
+      "divine-dolphin-drake-multi-packages",
+      "divine-dolphin-public-field-blog"
+    ],
+    "videos": [
+      "divine-dolphin-drake-bryde-whale-film"
+    ],
+    "nearby": [
+      "drake-divine-dolphin-wildlife-boat",
+      "drake-without-car-3",
+      "drake-copa-de-arbol-lodge",
+      "cano-island",
+      "drake-san-josecito-coastal"
+    ]
+  }
+}

@@ -2934,5 +2934,29 @@
     "exactPaths": [
       "/en/explore-the-magic-of-las-catalinas/kayaking"
     ]
+  },
+  {
+    "name": "The Divine Dolphin · полевой журнал Баия-Дрейк",
+    "url": "https://divinedolphin.com/blog/",
+    "paths": [
+      "/blog/"
+    ],
+    "review": "divine-dolphin-public-field-blog"
+  },
+  {
+    "name": "Osa Wild · маршруты Гольфо-Дульсе",
+    "url": "https://www.osawild.travel/es/product-category/golfo-dulce-magic",
+    "paths": [
+      "/es/product/"
+    ],
+    "review": "osa-wild-golfo-dulce-programs"
+  },
+  {
+    "name": "Carrillo Tours · лодки и тропы Самары",
+    "url": "https://carrillotours.com/",
+    "paths": [
+      "/tour-item/"
+    ],
+    "review": "carrillotours-costa-rica-activities"
   }
 ]

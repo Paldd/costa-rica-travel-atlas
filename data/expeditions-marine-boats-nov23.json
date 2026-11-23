@@ -1,0 +1,157 @@
+[
+  {
+    "id": "drake-wildlife-package-7",
+    "kind": "trip",
+    "region": "south",
+    "title": "Баия-Дрейк за семь дней · океан и Корковадо",
+    "native": "The Divine Dolphin · Best of Drake Bay · San José, Bahía Drake y Corcovado",
+    "level": "moderate",
+    "days": 7,
+    "activities": [
+      "multi",
+      "boat",
+      "wildlife",
+      "hiking",
+      "snorkel",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "divine-dolphin-drake-multi-packages",
+      "divine-dolphin-colorada-day-program",
+      "sansa-bahia-drake-domestic-air",
+      "divine-dolphin-drake-business-contact",
+      "corcovado",
+      "cano-sinac-visit",
+      "iwc-costa-rica-whale-observation"
+    ],
+    "summary": "Одна ночь рядом с Сан-Хосе и пять в Дрейке. Два лодочных дня с наблюдением за дельфинами и китами, день в Корковадо и свободный день у берега.",
+    "plan": "Выберите гостиницу, подтвердите внутренние рейсы и трансфер. Океанские дни оставьте с возможностью перестановки. На свободный день отдельно можно записаться на Каньо.",
+    "conditions": "Сверьте размеры багажа, доступ ребёнка на все этапы, условия отмены, сектор Корковадо и включённое питание. Закладывайте запас до международного вылета.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Прилёт и ночь в районе Сан-Хосе",
+        "note": "Согласуйте встречу в аэропорту и гостиницу. Подтвердите час выезда и ограничения по багажу на внутреннем рейсе.",
+        "stops": [],
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "sansa-bahia-drake-domestic-air"
+        ],
+        "points": [
+          "south-water-sjo-airport"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Перелёт в Баия-Дрейк",
+        "note": "Прилетите в DRK, переезжайте в выбранную гостиницу и оставьте остаток дня на берег.",
+        "stops": [
+          "drake-san-josecito-coastal"
+        ],
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "sansa-bahia-drake-domestic-air"
+        ],
+        "points": [
+          "drake-bay-airport-drk",
+          "drake-agujitas-landing"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Первый лодочный выход",
+        "note": "Встретьтесь утром на пляже, следуйте за маршрутом капитана. Обед предусмотрен на лодке.",
+        "stops": [
+          "drake-divine-dolphin-wildlife-boat"
+        ],
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "divine-dolphin-colorada-day-program",
+          "iwc-costa-rica-whale-observation"
+        ],
+        "points": [
+          "drake-agujitas-landing"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "День в Корковадо",
+        "note": "Выход с натуралистом. Подтвердите бронирование парка и станцию, указанную организатором в вашей программе.",
+        "stops": [
+          "corcovado-sirena"
+        ],
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "corcovado"
+        ],
+        "points": [
+          "drake-agujitas-landing",
+          "osa-sirena-station"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Второй лодочный выход",
+        "note": "Повторите выход в другой день, чтобы оставить больше времени на наблюдение. Капитан выбирает акваторию по условиям.",
+        "stops": [
+          "drake-divine-dolphin-wildlife-boat"
+        ],
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "divine-dolphin-colorada-day-program"
+        ],
+        "points": [
+          "drake-agujitas-landing"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Свободный день",
+        "note": "Отдых в Дрейке, береговая прогулка или отдельный снорклинг на Каньо. На карте ориентир острова для необязательной поездки.",
+        "stops": [
+          "cano-island",
+          "drake-san-josecito-coastal"
+        ],
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "cano-sinac-visit"
+        ],
+        "points": [
+          "drake-agujitas-landing",
+          "cano-island-reserve-orientation"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Обратный рейс в район Сан-Хосе",
+        "note": "Подтвердите трансфер в DRK и рейс. Для международной стыковки оставьте запас.",
+        "stops": [],
+        "sources": [
+          "divine-dolphin-drake-multi-packages",
+          "sansa-bahia-drake-domestic-air"
+        ],
+        "points": [
+          "drake-bay-airport-drk",
+          "south-water-sjo-airport"
+        ]
+      }
+    ]
+  }
+]
