@@ -436,7 +436,14 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "San Ramón · дорожная служба Gestión Vial",
+        "source": "san-ramon-public-road-contact",
+        "note": "Спросите о работах в Пьедадес-Сур, проезде по местным дорогам к Ла-Пас и участках после дождя.",
+        "phone": "+506 2456 9440"
+      }
+    ],
     "nearby": [
       "san-ramon-piedades-sur-ebike-49",
       "piedades-sur-musas-ambar-2"

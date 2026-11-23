@@ -402,7 +402,14 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Atenas · муниципальная служба дорог",
+        "source": "atenas-public-road-contact",
+        "note": "Проверьте ремонт и проезд на местной части круга в округе Хесус и районе Эстанкильоса.",
+        "email": "utgv@atenasmuni.go.cr"
+      }
+    ],
     "nearby": [
       "orotina-bajamar-trinidad-54",
       "sarchi-bajos-toro-ebike-rider-report"
@@ -458,7 +465,14 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Escazú · муниципальная справочная",
+        "source": "escazu-public-road-contact",
+        "note": "Спросите о ремонте и доступе на участках Бебедеро и подъезда к Вентолере в пределах Эскасу.",
+        "phone": "+506 2208 7500"
+      }
+    ],
     "nearby": [
       "barva-adventure-emtb-guided"
     ],
@@ -510,7 +524,13 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Paraíso · муниципальный справочник",
+        "source": "paraiso-public-road-contact",
+        "note": "Запросите действующий подъезд к Ороси и Ухаррасу, местные перекрытия и условия у смотровых."
+      }
+    ],
     "nearby": [
       "orosi-cachi-224-32",
       "cafe-1743-orosi",

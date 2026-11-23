@@ -370,7 +370,15 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Monteverde · муниципальная служба дорог",
+        "source": "monteverde-public-road-contact",
+        "note": "Уточните состояние спуска со стороны Санта-Элены и участок, за который отвечает Монтеверде. Проезд у озера сверяйте отдельно.",
+        "phone": "+506 2645 6909",
+        "email": "utgv@monteverde.go.cr"
+      }
+    ],
     "nearby": [
       "tronadora-roof",
       "tronadora-weekend-roof",
@@ -421,7 +429,15 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "Monteverde · муниципальная служба дорог",
+        "source": "monteverde-public-road-contact",
+        "note": "Спросите о технических работах и проезде на подъёмном участке со стороны Монтеверде.",
+        "phone": "+506 2645 6909",
+        "email": "utgv@monteverde.go.cr"
+      }
+    ],
     "nearby": [
       "santa-elena-tronadora-ebike-50",
       "monteverde-ebike-cloud-forest",
@@ -555,7 +571,14 @@
         ]
       }
     ],
-    "contacts": [],
+    "contacts": [
+      {
+        "name": "San Ramón · дорожная служба Gestión Vial",
+        "source": "san-ramon-public-road-contact",
+        "note": "Проверьте местные дороги между Ла-Пас, Сокорро и Пьедадес-Сур на выбранную дату.",
+        "phone": "+506 2456 9440"
+      }
+    ],
     "nearby": [
       "palmital-santa-elena-ebike-51",
       "arenal-private-ebike-2-6"

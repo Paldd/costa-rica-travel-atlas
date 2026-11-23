@@ -1,6 +1,6 @@
 {
-  "archives": 148,
-  "archivesRead": 142,
+  "archives": 149,
+  "archivesRead": 139,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -65,7 +65,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Finca de Cacao de Marvin",
           "url": "https://auberge.com/es/altagracia/experiences/marvins-finca-cacao/"
         }
@@ -136,19 +135,16 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-16",
-          "readThisRun": true,
           "title": "Frequently Asked Questions | Arenal Manoa Hot Springs Resort",
           "url": "https://arenalmanoa.com/frequently-asked-questions/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Hot springs | Arenal Manoa Hot Springs Resort",
           "url": "https://arenalmanoa.com/hot-springs/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Contact | Arenal Manoa Hot Springs Resort",
           "url": "https://arenalmanoa.com/contact/"
         }
@@ -442,7 +438,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": 1,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -450,7 +446,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": 1
+      "read": null
     },
     "catalina-pcdc-tours-library": {
       "indexed": 13,
@@ -645,6 +641,18 @@
         }
       ],
       "read": 20
+    },
+    "caturcochi-perezzeledon-directory": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "CATURCOCHI en Pérez Zeledón, Zona Sur - Costa Rica",
+          "url": "https://www.perezzeledon.cr/directorios/caturcochi/"
+        }
+      ],
+      "read": 1
     },
     "cinchona-trails-operator": {
       "indexed": 1,
@@ -1038,7 +1046,7 @@
       "read": 0
     },
     "general-raft-programs-library": {
-      "indexed": 4,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -1056,7 +1064,7 @@
           "url": "https://www.autenticoadventures.com/rio-general.php"
         }
       ],
-      "read": 3
+      "read": null
     },
     "gilded-surf-journal": {
       "indexed": 12,
@@ -1139,7 +1147,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Certified field training course in Tropical Conservation & Wildlife Rehabilitation in Costa Rica",
           "url": "https://rescatewildlife.org/tropical-conservation-and-wildlife-rehabilitation-course/"
         }
@@ -1183,13 +1190,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Volunteer & Intern Opportunities | KSTR WILDLIFE RESCUE",
           "url": "https://www.kidssavingtherainforest.org/volunteer"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Contact Us for Volunteering & Info | KSTR WILDLIFE RESCUE",
           "url": "https://www.kidssavingtherainforest.org/contact"
         }
@@ -1320,7 +1325,7 @@
       "read": 2
     },
     "ni-rivas-casaoro-maderas": {
-      "indexed": 2,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -1333,7 +1338,7 @@
           "url": "https://casaorogroup.com/en/experiencias/surf/"
         }
       ],
-      "read": 2
+      "read": null
     },
     "ni-rivas-sail-charter": {
       "indexed": 1,
@@ -2219,14 +2224,12 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-24",
-          "readThisRun": true,
           "title": "Refugio Natural de Vida Silvestre Caño Negro",
           "url": "https://adondeircr.com/alajuela/refugio-natural-de-vida-silvestre-cano-negro/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-24",
-          "readThisRun": true,
           "title": "Costa Rica registra hoy 2.240 pacientes recuperados",
           "url": "https://adondeircr.com/heredia/costa-rica-registra-hoy-2-240-pacientes-recuperados/?c1"
         },
@@ -2239,23 +2242,55 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-23",
-          "readThisRun": true,
           "title": "La Leyenda del Árbol Embrujado en Prusia",
           "url": "https://adondeircr.com/cartago/la-leyenda-del-arbol-embrujado-en-prusia/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-22",
-          "readThisRun": true,
           "title": "Conozca la espectacular mano mantra en Hacienda La Chimba",
           "url": "https://adondeircr.com/san-jose/conozca-la-espectacular-mano-mantra-en-hacienda-la-chimba/?c1"
         },
         {
           "checked": "2026-11-23",
+          "published": "2020-08-21",
+          "readThisRun": true,
+          "title": "Surfista descubrió a un hermoso jaguar en Guanacaste",
+          "url": "https://adondeircr.com/guanacaste/surfista-descubrio-a-un-hermoso-jaguar-en-guanacaste/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-21",
+          "readThisRun": true,
+          "title": "Parque Nacional los Quetzales",
+          "url": "https://adondeircr.com/san-jose/parque-nacional-los-quetzales-2/?c1"
+        },
+        {
+          "checked": "2026-11-23",
           "published": "2020-08-20",
           "readThisRun": true,
+          "title": "Residentes de seis estados de EE.UU. podrán ingresar vía aérea a Costa Rica",
+          "url": "https://adondeircr.com/alajuela/residentes-de-seis-estados-de-ee-uu-podran-ingresar-via-aerea-a-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-20",
+          "readThisRun": true,
+          "title": "Parque Nacional Volcán Tenorio",
+          "url": "https://adondeircr.com/guanacaste/parque-nacional-volcan-tenorio/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-20",
           "title": "Parque Nacional Tortuguero",
           "url": "https://adondeircr.com/limon/parque-nacional-tortuguero/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-19",
+          "readThisRun": true,
+          "title": "Mansión abandonada en Orosí",
+          "url": "https://adondeircr.com/cartago/mansion-abandonada-en-orosi/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2558,7 +2593,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 150
+      "read": 155
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -3066,7 +3101,7 @@
       "read": 26
     },
     "publisher-archive-diamanteecoadventurepark-com": {
-      "indexed": 12,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3129,7 +3164,7 @@
           "url": "https://diamanteecoadventurepark.com/blog/costa-rica-animal-bucket-list/"
         }
       ],
-      "read": 12
+      "read": null
     },
     "publisher-archive-guachipelin-com": {
       "indexed": 10,
@@ -3188,7 +3223,7 @@
       "read": 10
     },
     "publisher-archive-hacienda-orosi": {
-      "indexed": 6,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-22",
@@ -3223,7 +3258,7 @@
           "url": "https://haciendaorosi.com/booking/producto/coffee-tour-adventure-granja/"
         }
       ],
-      "read": 6
+      "read": null
     },
     "publisher-archive-hotelbelmar-net": {
       "indexed": 6,
@@ -3395,7 +3430,7 @@
       "read": 4
     },
     "publisher-archive-misticopark-com": {
-      "indexed": 17,
+      "indexed": 0,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3493,7 +3528,7 @@
           "url": "https://misticopark.com/tours/birding-guided-tour/"
         }
       ],
-      "read": 17
+      "read": 0
     },
     "publisher-archive-museo-exhibitions": {
       "indexed": 33,
@@ -4293,7 +4328,6 @@
         {
           "checked": "2026-11-23",
           "published": "2026-08-31",
-          "readThisRun": true,
           "title": "Volcanes Tajumulco y Tacaná",
           "url": "https://ticosapata.com/2026/08/30/volcanes-tajumulco-y-tacana/"
         },
@@ -4841,6 +4875,12 @@
       "pages": [
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "¿Vamos a Turistear a playa Muertos?",
+          "url": "https://vamosaturistear.com/actividades/vamos-a-turistear-a-playa-muertos/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "¿Un cafecito en el corazón del Teatro Nacional?",
           "url": "https://vamosaturistear.com/actividades/un-cafecito-en-el-corazon-del-teatro-nacional/"
         },
@@ -4926,7 +4966,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Una catarata ácida en medio de dinosaurios",
           "url": "https://vamosaturistear.com/actividades/una-catarata-acida-en-medio-de-dinosaurios/"
         },
@@ -5072,6 +5111,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Nosara esconde una playa de color rosa",
+          "url": "https://vamosaturistear.com/actividades/nosara-esconde-una-playa-de-color-rosa/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Montezuma: Disfrutá de una catarata cerca de la playa",
           "url": "https://vamosaturistear.com/actividades/montezuma-disfruta-de-una-catarata-cerca-de-la-playa/"
         },
@@ -5117,6 +5162,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "La grandiosa Catarata San Fernando",
+          "url": "https://vamosaturistear.com/actividades/la-grandiosa-catarata-san-fernando/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "La cueva de Punta Uva",
           "url": "https://vamosaturistear.com/actividades/la-cueva-de-punta-uva/"
         },
@@ -5152,7 +5203,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Explorá la Catarata El Santuario",
           "url": "https://vamosaturistear.com/actividades/explora-la-catarata-el-santuario/"
         },
@@ -5343,9 +5393,14 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Bienvenidos a la Catarata El Rey",
           "url": "https://vamosaturistear.com/actividades/bienvenidos-a-catarata-el-rey/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Bienvenidos a la Catarata Bribri",
+          "url": "https://vamosaturistear.com/actividades/bienvenidos-a-la-catarata-bribri/"
         },
         {
           "checked": "2026-11-23",
@@ -5354,7 +5409,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Arrecife: una piscina natural en el Caribe",
           "url": "https://vamosaturistear.com/actividades/arrecife-una-piscina-natural-en-el-caribe/"
         },
@@ -5674,7 +5728,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 166
+      "read": 170
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5738,6 +5792,18 @@
         }
       ],
       "read": 3
+    },
+    "publisher-hotelpuntaislita-com": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Hotel Punta Islita – A Timeless Sensory Journey",
+          "url": "https://www.hotelpuntaislita.com/"
+        }
+      ],
+      "read": 1
     },
     "publisher-jw-marriott-guanacaste-activities": {
       "indexed": 1,
@@ -5951,13 +6017,20 @@
       "read": 13
     },
     "publisher-site-archive-senderos-toro": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
           "published": "2024-07-06",
           "title": "catarata vuelta al cañón - Senderos del toro",
           "url": "https://senderosdeltoro.com/catarata-vuelta-al-canon/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2024-06-28",
+          "readThisRun": true,
+          "title": "Cataratas - Senderos del toro",
+          "url": "https://senderosdeltoro.com/cataratas/"
         },
         {
           "checked": "2026-11-21",
@@ -5978,7 +6051,7 @@
           "url": "https://senderosdeltoro.com/pozo-azul-waterfall-and-rio-seco-waterfall/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "publisher-site-archive-specialplaces": {
       "indexed": 24,
@@ -6131,7 +6204,7 @@
       "read": 24
     },
     "publisher-site-costa-tours": {
-      "indexed": 14,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6199,7 +6272,7 @@
           "url": "https://costatourscr.com/es/tour/puerto-viejo-manzanillo-y-punta-uva/"
         }
       ],
-      "read": 13
+      "read": null
     },
     "publisher-toucan-onsite-tours": {
       "indexed": 7,
@@ -6574,19 +6647,16 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Waterfall magic | El Silencio Lodge & Spa",
           "url": "https://www.elsilenciolodge.com/experiences/waterfall-magic"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Night walk | El Silencio Lodge & Spa",
           "url": "https://www.elsilenciolodge.com/experiences/night-walk"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Frequently Asked Questions | El Silencio Lodge & Spa",
           "url": "https://www.elsilenciolodge.com/faqs"
         }
@@ -7371,10 +7441,17 @@
       "url": "https://www.instagram.com/p/C6T67AJuPyv/"
     },
     {
-      "article": "https://adondeircr.com/limon/parque-nacional-tortuguero/?c1",
+      "article": "https://adondeircr.com/cartago/mansion-abandonada-en-orosi/?c1",
       "checked": "2026-11-23",
       "platform": "Instagram",
-      "title": "Parque Nacional Tortuguero",
+      "title": "Mansión abandonada en Orosí",
+      "url": "https://www.instagram.com/p/CD_7OHTpe8Y/"
+    },
+    {
+      "article": "https://adondeircr.com/alajuela/residentes-de-seis-estados-de-ee-uu-podran-ingresar-via-aerea-a-costa-rica/?c1",
+      "checked": "2026-11-23",
+      "platform": "Instagram",
+      "title": "Residentes de seis estados de EE.UU. podrán ingresar vía aérea a Costa Rica",
       "url": "https://www.instagram.com/p/CEFC0WUJUCJ/"
     },
     {
@@ -7812,8 +7889,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 21,
-  "pagesRead": 20,
-  "pagesReadToDate": 1185,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45253578738"
+  "pagesChecked": 51,
+  "pagesRead": 12,
+  "pagesReadToDate": 1197,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45258431458"
 }
