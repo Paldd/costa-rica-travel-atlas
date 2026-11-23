@@ -1,6 +1,6 @@
 {
-  "archives": 127,
-  "archivesRead": 121,
+  "archives": 129,
+  "archivesRead": 122,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -209,7 +209,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Precios",
           "url": "https://ferrybocas.com/es/prices/"
         }
@@ -222,39 +221,68 @@
         {
           "checked": "2026-11-23",
           "published": "2026-11-20",
-          "readThisRun": true,
           "title": "Tour en bote en Bocas del Toro: Delfines, Cayo Coral y Zapatillas",
           "url": "https://go.bocasdeltoro.travel/es/blog-es/tour-en-bote-bocas-del-toro/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-11-20",
-          "readThisRun": true,
           "title": "Bocas del Toro Boat Tour: Dolphin Bay, Coral Cay & Zapatillas",
           "url": "https://go.bocasdeltoro.travel/blog/bocas-del-toro-boat-tour/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-11-18",
-          "readThisRun": true,
           "title": "Starfish Beach Bocas del Toro (2026): How to Get There and Tips",
           "url": "https://go.bocasdeltoro.travel/blog/starfish-beach-bocas-del-toro/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-11-18",
-          "readThisRun": true,
           "title": "Playa Estrella, Bocas del Toro (2026): cómo llegar y consejos",
           "url": "https://go.bocasdeltoro.travel/es/blog-es/playa-estrella-bocas-del-toro/"
         },
         {
           "checked": "2026-11-23",
+          "published": "2026-11-13",
           "readThisRun": true,
+          "title": "Dónde hospedarse en Bocas del Toro (2026): zonas y hoteles",
+          "url": "https://go.bocasdeltoro.travel/es/blog-es/donde-hospedarse-en-bocas-del-toro/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-11-11",
+          "readThisRun": true,
+          "title": "¿Vale la pena Bocas del Toro? Qué hacer en 3 y 4 días",
+          "url": "https://go.bocasdeltoro.travel/es/blog-es/vale-la-pena-bocas-del-toro/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-11-08",
+          "readThisRun": true,
+          "title": "Surf en Bocas del Toro: mejores spots y temporada de olas",
+          "url": "https://go.bocasdeltoro.travel/es/blog-es/donde-aprender-a-surfear-en-bocas-del-toro/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-11-08",
+          "readThisRun": true,
+          "title": "Mejor época para ir a Bocas del Toro: clima mes a mes (2026)",
+          "url": "https://go.bocasdeltoro.travel/es/blog-es/bocas-del-toro-tiene-una-temporada-de-lluvia/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Wanderlust Panama · Isla Colón | Visit Bocas",
+          "url": "https://go.bocasdeltoro.travel/es/recommended/wanderlust-panama/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Cayo Coral Restaurante · Isla Bastimentos | Visit Bocas",
           "url": "https://go.bocasdeltoro.travel/es/recommended/cayo-coral-restaurante/"
         }
       ],
-      "read": 5
+      "read": 10
     },
     "buen-camino-owner-ride": {
       "indexed": 4,
@@ -358,7 +386,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": 1,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -366,7 +394,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": 1
+      "read": null
     },
     "catalina-pcdc-tours-library": {
       "indexed": 13,
@@ -456,6 +484,42 @@
       ],
       "read": 2
     },
+    "cativo-activities-direct": {
+      "indexed": 26,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Que hacer en Golfo Dulce, Costa Rica | Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Tour de Observación de Fauna Silvestre |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/tour-de-observacion-de-fauna-silvestre"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Corcovado Wilderness Adventure Tour |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/corcovado-wilderness-adventure-tour"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Clase de Cocina Costarricense |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/clase-de-cocina-costarricense"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Aventura a Caballo en Puerto Jiménez |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/aventura-a-caballo-en-puerto-jimenez"
+        }
+      ],
+      "read": 5
+    },
     "cinchona-trails-operator": {
       "indexed": 1,
       "pages": [
@@ -514,7 +578,7 @@
       "read": 9
     },
     "colina-secreta-host-stay": {
-      "indexed": 15,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -594,7 +658,7 @@
           "url": "https://colinasecreta.com/es/stay/belvedere-house/"
         }
       ],
-      "read": 15
+      "read": null
     },
     "conchal-reserva-program": {
       "indexed": 4,
@@ -832,7 +896,7 @@
       "read": 0
     },
     "general-raft-programs-library": {
-      "indexed": null,
+      "indexed": 4,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -850,7 +914,7 @@
           "url": "https://www.autenticoadventures.com/rio-general.php"
         }
       ],
-      "read": null
+      "read": 3
     },
     "gilded-surf-journal": {
       "indexed": 12,
@@ -917,7 +981,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Mountain Biking - Gilded Iguana",
           "url": "https://www.thegildediguana.com/mountain/"
         },
@@ -965,6 +1028,36 @@
       "indexed": 1,
       "pages": [],
       "read": 0
+    },
+    "mastatal-rancho-tours-owner": {
+      "indexed": 4,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Tours Permaculture Costa Rica Rancho Mastatal",
+          "url": "https://ranchomastatal.com/tours"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "FAQs Rancho Mastatal",
+          "url": "https://ranchomastatal.com/faqs"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Directions Rancho Mastatal",
+          "url": "https://ranchomastatal.com/directions"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Activities Permaculture Costa Rica Rancho Mastatal",
+          "url": "https://ranchomastatal.com/activities"
+        }
+      ],
+      "read": 4
     },
     "mistico-official-night": {
       "indexed": 3,
@@ -1690,37 +1783,67 @@
         {
           "checked": "2026-11-23",
           "published": "2020-10-23",
-          "readThisRun": true,
           "title": "Conozca las mágicas Columnas Basálticas en Bajo Rodriguez",
           "url": "https://adondeircr.com/alajuela/conozca-las-magicas-columnas-basalticas-en-bajo-rodriguez/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-10-22",
-          "readThisRun": true,
           "title": "3 Playas de Arena Blanca en el País",
           "url": "https://adondeircr.com/guanacaste/3-playas-de-arena-blanca-en-el-pais/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-10-14",
-          "readThisRun": true,
           "title": "Gobierno de EE.UU. mejora recomendación de viaje para Costa Rica",
           "url": "https://adondeircr.com/heredia/gobierno-de-ee-uu-mejora-recomendacion-de-viaje-para-costa-rica/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-10-13",
-          "readThisRun": true,
           "title": "Las 4 mejores cascadas del País",
           "url": "https://adondeircr.com/alajuela/las-4-mejores-cascadas-del-pais/?c1"
         },
         {
           "checked": "2026-11-23",
-          "published": "2020-10-02",
+          "published": "2020-10-03",
           "readThisRun": true,
+          "title": "4 Playas del país que deberías visitar",
+          "url": "https://adondeircr.com/guanacaste/4-playas-del-pais-que-deberias-visitar/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-10-02",
           "title": "El Top 5 de los Mejores Lugares Turísticos de Costa Rica para visitar este 2020",
           "url": "https://adondeircr.com/guanacaste/el-top-5-de-los-mejores-lugares-turisticos-de-costa-rica-para-visitar-este-2020/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-09-25",
+          "readThisRun": true,
+          "title": "Sinac solicitó a Ponderosa prohibir a los visitantes alimentar a los animales",
+          "url": "https://adondeircr.com/guanacaste/sinac-solicito-a-ponderosa-prohibir-a-los-visitantes-alimentar-a-los-animales/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-09-24",
+          "readThisRun": true,
+          "title": "Le piden a Ponderosa Adventure Park frenar reproducción de animales",
+          "url": "https://adondeircr.com/guanacaste/le-piden-a-ponderosa-adventure-park-frenar-reproduccion-de-animales/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-09-22",
+          "readThisRun": true,
+          "title": "Por aumento de casos COVID-19 suben 2 cantones y 4 distritos a alerta naranja",
+          "url": "https://adondeircr.com/heredia/por-aumento-de-casos-covid-19-suben-2-cantones-y-4-distritos-a-alerta-naranja/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-09-06",
+          "readThisRun": true,
+          "title": "Sitios románticos en Costa Rica para turistear en pareja",
+          "url": "https://adondeircr.com/san-jose/sitios-romanticos-en-costa-rica-para-turistear-en-pareja/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2023,7 +2146,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 115
+      "read": 120
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
@@ -2376,30 +2499,55 @@
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "Tamarindo Beach: Things To Do, When To Go, Where To Stay",
+          "url": "https://costaricaexperts.com/destinations/tamarindo/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Southern Caribbean Coast of Costa Rica - Costa Rica Experts",
+          "url": "https://costaricaexperts.com/destinations/caribbean/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Santa Teresa: Things To Do & Where To Stay | Costa Rica Experts",
+          "url": "https://costaricaexperts.com/destinations/santa-teresa/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "San Jose, Costa Rica: An Expert Guide To The Capital City",
+          "url": "https://costaricaexperts.com/destinations/san-jose/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Puerto Viejo de Talamanca | A Caribbean Gem in Costa Rica",
+          "url": "https://costaricaexperts.com/destinations/puerto-viejo/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Puerto Jimenez: Things to Do, Where to Stay, How to Get There",
           "url": "https://costaricaexperts.com/destinations/puerto-jimenez/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Playa Conchal: BEST Things To Do & Where To Stay - Costa Rica Experts",
           "url": "https://costaricaexperts.com/destinations/playa-conchal/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Papagayo Peninsula: The Best Things To Do & Where To Stay",
           "url": "https://costaricaexperts.com/destinations/papagayo/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Osa Peninsula: Home To Corcovado National Park Rainforest",
           "url": "https://costaricaexperts.com/destinations/osa-peninsula/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Ojochal: Best Things To Do + Where To Stay",
           "url": "https://costaricaexperts.com/destinations/ojochal/"
         },
@@ -2465,31 +2613,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Tamarindo Beach: Things To Do, When To Go, Where To Stay",
-          "url": "https://costaricaexperts.com/destinations/tamarindo/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "Southern Caribbean Coast of Costa Rica - Costa Rica Experts",
-          "url": "https://costaricaexperts.com/destinations/caribbean/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "Santa Teresa: Things To Do & Where To Stay | Costa Rica Experts",
-          "url": "https://costaricaexperts.com/destinations/santa-teresa/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "San Jose, Costa Rica: An Expert Guide To The Capital City",
-          "url": "https://costaricaexperts.com/destinations/san-jose/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "Puerto Viejo de Talamanca | A Caribbean Gem in Costa Rica",
-          "url": "https://costaricaexperts.com/destinations/puerto-viejo/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Panama: Best Destinations & Where To Stay",
           "url": "https://costaricaexperts.com/destinations/panama/"
         },
@@ -2531,13 +2654,11 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Tamarindo Day Trip to Diamante Eco Adventure Park",
           "url": "https://diamanteecoadventurepark.com/tamarindo-day-trip/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Playas del Coco Day Trip to Diamante Eco Adventure Park",
           "url": "https://diamanteecoadventurepark.com/playas-del-coco-day-trip/"
         },
@@ -2636,7 +2757,7 @@
       "read": 10
     },
     "publisher-archive-hacienda-orosi": {
-      "indexed": null,
+      "indexed": 6,
       "pages": [
         {
           "checked": "2026-11-22",
@@ -2671,7 +2792,7 @@
           "url": "https://haciendaorosi.com/booking/producto/coffee-tour-adventure-granja/"
         }
       ],
-      "read": null
+      "read": 6
     },
     "publisher-archive-hotelbelmar-net": {
       "indexed": 6,
@@ -2714,13 +2835,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Why Saving the Rainforest Matters",
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/124/WhySavingRainforestMatters"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Saving the Sea Turtles",
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/125/SavingTheSeaTurtles"
         },
@@ -2776,13 +2895,11 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "From Fragile Baby to Fearless Monkey: Kembi’s Journey",
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/123/FromFragileBabyToFearlessMokeyKembiJourney"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "An Ocelot’s Journey Back to the Wild",
           "url": "https://www.jaguarrescue.foundation/en-us/News/ArticleID/122/OcelotJourneyBackToTheWild"
         }
@@ -2810,7 +2927,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Tours from Makanda | All Within 45 Min | Manuel Antonio",
           "url": "https://makanda.com/en/tours"
         }
@@ -2848,7 +2964,7 @@
       "read": 4
     },
     "publisher-archive-misticopark-com": {
-      "indexed": 0,
+      "indexed": 17,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -2861,6 +2977,13 @@
           "published": "2026-09-09",
           "title": "Where to See Wildlife and Hanging Bridges Near Arenal",
           "url": "https://misticopark.com/blog/blog/where-to-see-wildlife-and-hanging-bridges-near-arenal/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-09-03",
+          "readThisRun": true,
+          "title": "Things to Do in La Fortuna After Hot Springs: Top 10",
+          "url": "https://misticopark.com/blog/costa-rica-travel-tips/things-to-do-in-la-fortuna-after-hot-springs/"
         },
         {
           "checked": "2026-11-23",
@@ -2903,12 +3026,6 @@
         },
         {
           "checked": "2026-11-21",
-          "published": "2026-09-03",
-          "title": "Things to Do in La Fortuna After Hot Springs: Top 10",
-          "url": "https://misticopark.com/blog/costa-rica-travel-tips/things-to-do-in-la-fortuna-after-hot-springs/"
-        },
-        {
-          "checked": "2026-11-21",
           "published": "2026-09-02",
           "title": "How to Avoid Crowds at La Fortuna's Hanging Bridges",
           "url": "https://misticopark.com/blog/blog/avoid-crows-in-la-fortuna-hanging-bridges/"
@@ -2946,7 +3063,7 @@
           "url": "https://misticopark.com/tours/birding-guided-tour/"
         }
       ],
-      "read": 0
+      "read": 17
     },
     "publisher-archive-museo-exhibitions": {
       "indexed": 33,
@@ -3020,30 +3137,35 @@
         {
           "checked": "2026-11-23",
           "published": "2020-12-11",
+          "readThisRun": true,
           "title": "El 48 realidad virtual « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/el-48-realidad-virtual/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-25",
+          "readThisRun": true,
           "title": "Artefacto 112 « Exhibiciones Anteriores « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/anteriores/artefacto-112/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-03",
+          "readThisRun": true,
           "title": "Barreras Blandas « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/barreras-blandas/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-02-11",
+          "readThisRun": true,
           "title": "Diálogo « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/dialogo/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-01-29",
+          "readThisRun": true,
           "title": "Somos Vecinos « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/somos-vecinos/"
         },
@@ -3062,28 +3184,24 @@
         {
           "checked": "2026-11-23",
           "published": "2019-10-11",
-          "readThisRun": true,
           "title": "Historia Precolombina « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/historia-precolombina/"
         },
         {
           "checked": "2026-11-23",
           "published": "2019-10-10",
-          "readThisRun": true,
           "title": "Casas de los Comandantes « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/casas-de-los-comandantes/"
         },
         {
           "checked": "2026-11-23",
           "published": "2019-09-17",
-          "readThisRun": true,
           "title": "Enfermería: disciplina ancestral « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/enfermeria-disciplina-ancestral/"
         },
         {
           "checked": "2026-11-23",
           "published": "2019-09-16",
-          "readThisRun": true,
           "title": "Tesoros del Herbario « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/tesoros-del-herbario/"
         },
@@ -3096,7 +3214,6 @@
         {
           "checked": "2026-11-23",
           "published": "2019-09-16",
-          "readThisRun": true,
           "title": "Alas de Sarapiquí « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/alas-de-sarapiqui/"
         },
@@ -3256,7 +3373,7 @@
       "read": 10
     },
     "publisher-archive-ponderosa": {
-      "indexed": 9,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-22",
@@ -3304,7 +3421,7 @@
           "url": "https://ponderosacostarica.com/tienda-en-linea/paquetes/day-pass/"
         }
       ],
-      "read": 9
+      "read": null
     },
     "publisher-archive-puntaleona-magazine": {
       "indexed": 8,
@@ -3362,6 +3479,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Río La Mina y mirador - Miramar · Qué Buen Lugar",
+          "url": "https://www.quebuenlugar.com/es/lugares/rio-la-mina-y-mirador-miramar-2/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Restaurante Senderos: Cataratas, pozas y comida rica en San Ramón · Qué Buen Lugar",
           "url": "https://www.quebuenlugar.com/es/lugares/restaurante-senderos-cataratas-pozas-y-comida-rica-en-san-ramn/"
         },
@@ -3372,12 +3495,17 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Playa Iguanita · Qué Buen Lugar",
+          "url": "https://www.quebuenlugar.com/es/lugares/playa-iguanita/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Parque Nacional Corcovado - Sector San Pedrillo: Aventura pura en la selva · Qué Buen Lugar",
           "url": "https://www.quebuenlugar.com/es/lugares/parque-nacional-corcovado-sector-san-pedrillo-aventura-pura-en-la-selva/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Oxygen Jungle Villas: Un pedacito de Bali en las montañas de Uvita · Qué Buen Lugar",
           "url": "https://www.quebuenlugar.com/es/lugares/oxygen-jungle-villas-un-pedacito-de-bali-en-las-montaas-de-uvita/"
         },
@@ -3388,7 +3516,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "La Leona – Corcovado · Qué Buen Lugar",
           "url": "https://www.quebuenlugar.com/es/lugares/la-leona-corcovado/"
         },
@@ -3399,7 +3526,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Drake – Parte 1: Aventura en la Península de Osa · Qué Buen Lugar",
           "url": "https://www.quebuenlugar.com/es/lugares/drake-parte-1-aventura-en-la-pennsula-de-osa/"
         },
@@ -3415,7 +3541,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Cerro Ojo De Agua & Catarata La Maravilla · Qué Buen Lugar",
           "url": "https://www.quebuenlugar.com/es/lugares/cerro-ojo-de-agua-catarata-la-maravilla/"
         },
@@ -3431,19 +3556,8 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "BAHÍA DRAKE - PUNTARENAS · Qué Buen Lugar",
           "url": "https://www.quebuenlugar.com/es/lugares/baha-drake-puntarenas/"
-        },
-        {
-          "checked": "2026-11-22",
-          "title": "Río La Mina y mirador - Miramar · Qué Buen Lugar",
-          "url": "https://www.quebuenlugar.com/es/lugares/rio-la-mina-y-mirador-miramar-2/"
-        },
-        {
-          "checked": "2026-11-22",
-          "title": "Playa Iguanita · Qué Buen Lugar",
-          "url": "https://www.quebuenlugar.com/es/lugares/playa-iguanita/"
         },
         {
           "checked": "2026-11-21",
@@ -3726,14 +3840,12 @@
         {
           "checked": "2026-11-23",
           "published": "2026-08-30",
-          "readThisRun": true,
           "title": "De las Brisas a Cimarrones",
           "url": "https://ticosapata.com/2026/08/30/de-las-brisas-a-cimarrones/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-08-30",
-          "readThisRun": true,
           "title": "De la Suiza a Pejibaye",
           "url": "https://ticosapata.com/2026/08/30/de-la-suiza-a-pejibaye/"
         },
@@ -3741,15 +3853,27 @@
           "checked": "2026-11-23",
           "published": "2026-08-30",
           "readThisRun": true,
+          "title": "De Tres Equis a Pacayitas",
+          "url": "https://ticosapata.com/2026/08/30/de-tres-equis-a-pacayitas/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-08-30",
           "title": "De Tapantí a Humo de Pejibaye",
           "url": "https://ticosapata.com/2026/08/30/de-tapanti-a-humo-de-pejibaye/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-08-30",
-          "readThisRun": true,
           "title": "De San Pablo a Nápoles de Tarrazú",
           "url": "https://ticosapata.com/2026/08/30/de-san-pablo-a-napoles-de-tarrazu/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-08-30",
+          "readThisRun": true,
+          "title": "De Purisil a Navarro de Muñeco",
+          "url": "https://ticosapata.com/2026/08/30/de-purisil-a-navarro-de-muneco/"
         },
         {
           "checked": "2026-11-23",
@@ -3766,6 +3890,20 @@
         {
           "checked": "2026-11-23",
           "published": "2026-08-30",
+          "readThisRun": true,
+          "title": "De Pacayitas a la Suiza de Turrialba",
+          "url": "https://ticosapata.com/2026/08/30/de-pacayitas-a-la-suiza-de-turrialba/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-08-30",
+          "readThisRun": true,
+          "title": "De Nápoles a Villa Nueva",
+          "url": "https://ticosapata.com/2026/08/30/de-napoles-a-villa-nueva/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-08-30",
           "title": "De Llano Grande a Piedras Negras",
           "url": "https://ticosapata.com/2026/08/30/de-llano-grande-a-piedras-negras/"
         },
@@ -3778,9 +3916,15 @@
         {
           "checked": "2026-11-23",
           "published": "2026-08-30",
-          "readThisRun": true,
           "title": "De Jardín a San Pablo de León Cortés",
           "url": "https://ticosapata.com/2026/08/30/de-jardin-a-san-pablo-de-leon-cortes/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-08-30",
+          "readThisRun": true,
+          "title": "Comunidad Cabécar de Jameikari",
+          "url": "https://ticosapata.com/2026/08/30/comunidad-cabecar-de-jameikari/"
         },
         {
           "checked": "2026-11-23",
@@ -4043,30 +4187,6 @@
         {
           "checked": "2026-11-21",
           "published": "2026-08-30",
-          "title": "De Tres Equis a Pacayitas",
-          "url": "https://ticosapata.com/2026/08/30/de-tres-equis-a-pacayitas/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-30",
-          "title": "De Purisil a Navarro de Muñeco",
-          "url": "https://ticosapata.com/2026/08/30/de-purisil-a-navarro-de-muneco/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-30",
-          "title": "De Pacayitas a la Suiza de Turrialba",
-          "url": "https://ticosapata.com/2026/08/30/de-pacayitas-a-la-suiza-de-turrialba/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-30",
-          "title": "De Nápoles a Villa Nueva",
-          "url": "https://ticosapata.com/2026/08/30/de-napoles-a-villa-nueva/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-30",
           "title": "De Navarro a Palo Verde",
           "url": "https://ticosapata.com/2026/08/30/de-navarro-a-palo-verde/"
         },
@@ -4075,12 +4195,6 @@
           "published": "2026-08-30",
           "title": "De Balsilla a Llano Grande",
           "url": "https://ticosapata.com/2026/08/30/de-balsilla-a-llano-grande/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-30",
-          "title": "Comunidad Cabécar de Jameikari",
-          "url": "https://ticosapata.com/2026/08/30/comunidad-cabecar-de-jameikari/"
         },
         {
           "checked": "2026-11-21",
@@ -4162,13 +4276,11 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Horseback Riding in Costa Rica",
           "url": "https://www.vacationscostarica.com/things-to-do/horseback-riding/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Driving in Costa Rica — Costa Rica Vacations",
           "url": "https://www.vacationscostarica.com/travel/driving-costa-rica/"
         },
@@ -4355,6 +4467,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Visitá Poza El Salto",
+          "url": "https://vamosaturistear.com/actividades/visita-poza-el-salto/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Visitá Isla Venado",
           "url": "https://vamosaturistear.com/actividades/visita-isla-venado/"
         },
@@ -4380,7 +4498,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Tour de un día en El Cerro Pasquí",
           "url": "https://vamosaturistear.com/actividades/tour-de-un-dia-en-el-cerro-pasqui/"
         },
@@ -4416,7 +4533,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Puriscal: Catarata el Indio - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/puriscal-catarata-el-indio/"
         },
@@ -4427,7 +4543,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Poza Los Coyotes: Una joya de color turquesa - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/poza-los-coyotes-una-joya-de-color-turquesa/"
         },
@@ -4458,7 +4573,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Playa Cativo: un paraíso de un parque nacional y con un paraje virgen",
           "url": "https://vamosaturistear.com/actividades/playa-cativo-un-paraiso-de-un-parque-nacional-y-con-un-paraje-virgen/"
         },
@@ -4475,6 +4589,11 @@
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "Mirá todo lo que podés hacer en Punta Uva",
+          "url": "https://vamosaturistear.com/actividades/mira-todo-lo-que-podes-hacer-en-punta-uva/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Laguna don Manuel: un destino cerca de San José y a bajo costo",
           "url": "https://vamosaturistear.com/actividades/laguna-don-manuel-un-destino-cerca-de-san-jose-y-a-bajo-costo/"
         },
@@ -4600,6 +4719,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Conocé la refrescante Catarata la Cangreja",
+          "url": "https://vamosaturistear.com/actividades/conoce-la-refrescante-catarata-la-cangreja/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Conocé estas joyas de Puntarenas - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/conoce-estas-joyas-de-puntarenas/"
         },
@@ -4607,6 +4732,12 @@
           "checked": "2026-11-23",
           "title": "Conocé el parque de dinosaurios en Bajos del Toro - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/conoce-el-parque-de-dinosaurios-en-bajos-del-toro/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Conocé 8 playas con oleaje suave",
+          "url": "https://vamosaturistear.com/actividades/conoce-8-playas-con-oleaje-suave/"
         },
         {
           "checked": "2026-11-23",
@@ -4637,6 +4768,12 @@
           "checked": "2026-11-23",
           "title": "Catarata Las Chorreras: Curubandé, Liberia - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-las-chorreras-curubande-liberia/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Catarata La Diana: Una joya escondida en Cinchona",
+          "url": "https://vamosaturistear.com/actividades/catarata-la-diana-una-joya-escondida-en-cinchona/"
         },
         {
           "checked": "2026-11-23",
@@ -4974,7 +5111,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 132
+      "read": 137
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5172,7 +5309,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Kayak Rio Celeste | Rio Celeste Hideaway Hotel Tour",
           "url": "https://www.riocelestehideaway.com/tours/kayak-rio-celeste"
         },
@@ -5203,7 +5339,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Bird Watching Costa Rica | Rio Celeste Hideaway Hotel",
           "url": "https://www.riocelestehideaway.com/tours/bird-watching"
         },
@@ -5311,21 +5446,18 @@
         {
           "checked": "2026-11-23",
           "published": "2026-04-21",
-          "readThisRun": true,
           "title": "How to Experience Costa Rica Authentically | Local Stays",
           "url": "https://www.specialplacesofcostarica.com/blog/authentic-costa-rica-experiences/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-04-15",
-          "readThisRun": true,
           "title": "Costa Rica Vacation Rental Safety Regulations Explained",
           "url": "https://www.specialplacesofcostarica.com/blog/costa-rica-vacation-rental-safety-regulations/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-02-11",
-          "readThisRun": true,
           "title": "US Embassy Costa Rica Travel Advisory: What Travelers Should Know",
           "url": "https://www.specialplacesofcostarica.com/blog/us-embassy-travel-advisory-costa-rica/"
         },
@@ -5779,36 +5911,37 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Savia Monteverde | Experience: Nightfall",
           "url": "https://www.saviamonteverde.com/experiences/nightfall"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Savia Monteverde | Experience: Morning view",
           "url": "https://www.saviamonteverde.com/experiences/morning-view"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Savia Monteverde | Experience: Ficus Adventure",
           "url": "https://www.saviamonteverde.com/experiences/ficus-adventure"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Savia Monteverde | Experience: Canopy Lunch",
           "url": "https://www.saviamonteverde.com/experiences/canopy-lunch"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Savia Monteverde | Experience: Breakfast In The Canopy + Private Morning View",
           "url": "https://www.saviamonteverde.com/experiences/canopy-breakfast"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Savia Monteverde | Experience: Bird quest",
+          "url": "https://www.saviamonteverde.com/experiences/bird-quest"
         }
       ],
-      "read": 5
+      "read": 6
     },
     "silencio-cloud-forest-journal": {
       "indexed": 17,
@@ -6059,20 +6192,19 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "Poás Volcano Tour: Active Crater Day Trip | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/poas-volcano-tour/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "Pineapple Tour Costa Rica: Organic Farm | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/pineapple-tour-costa-rica/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
+          "readThisRun": true,
           "title": "La Paz Waterfall Gardens Tour & Poás | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/la-paz-waterfall-gardens-tour/"
         },
@@ -6085,6 +6217,7 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
+          "readThisRun": true,
           "title": "Dinoland Costa Rica: Dinosaur Park | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/dinoland-bajos-del-toro/"
         },
@@ -6097,14 +6230,12 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "Coffee Tour Sarapiquí: Farm & Waterfall | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/coffee-tour-sarapiqui/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "Chocolate Tour Sarapiquí: Bean to Bar | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/chocolate-tour-sarapiqui/"
         },
@@ -6129,13 +6260,13 @@
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
-          "readThisRun": true,
           "title": "Birdwatching Sarapiquí: Guided Bird Tour | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/birdwatching-sarapiqui/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-09-27",
+          "readThisRun": true,
           "title": "Arenal Volcano Tour: Lava Trails & Views | Costa Rica Ecotours",
           "url": "https://crecotours.com/adventure-tours-costa-rica/arenal-volcano-tour/"
         },
@@ -6299,7 +6430,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Salón de Eventos | Adventure Park Costa Rica",
           "url": "https://adventureparkcostarica.net/servicios/salon-de-eventos/"
         },
@@ -6320,7 +6450,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Laberinto Vista Golfo | Adventure Park Costa Rica",
           "url": "https://adventureparkcostarica.net/servicios/laberinto-vista-golfo/"
         },
@@ -6350,8 +6479,8 @@
   },
   "dayUtc": "2026-11-23",
   "history": true,
-  "pagesChecked": 68,
-  "pagesRead": 63,
-  "pagesReadToDate": 1037,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45197224178"
+  "pagesChecked": 46,
+  "pagesRead": 46,
+  "pagesReadToDate": 1062,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45201477389"
 }

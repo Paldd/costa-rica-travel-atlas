@@ -1456,5 +1456,41 @@
     "license": "CC BY 2.0",
     "original": "https://commons.wikimedia.org/wiki/File:Golfo_Dulce%2C_Golfito.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "riosanjuan-sancarlos-malecon": {
+    "file": "riosanjuan-sancarlos-malecon.jpg",
+    "alt": "Закат над Кочиболькой с набережной Сан-Карлоса",
+    "caption": "Сан-Карлос · набережная у Кочибольки, 2013",
+    "author": "Hobbitschuster",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sunset_Malecon_San_Carlos_Rio_San_Juan2.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "riosanjuan-elcastillo-fortress": {
+    "file": "riosanjuan-elcastillo-fortress.jpg",
+    "alt": "Каменные стены крепости Эль-Кастильо",
+    "caption": "Эль-Кастильо · историческая крепость, архивный снимок",
+    "author": "Hobbitschuster",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:El_castillo_fortress.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "riosanjuan-elcastillo-river": {
+    "file": "riosanjuan-elcastillo-river.jpg",
+    "alt": "Вид на Рио-Сан-Хуан рядом с Эль-Кастильо",
+    "caption": "Рио-Сан-Хуан у Эль-Кастильо · архивный снимок, 2011",
+    "author": "Stoschmidt",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:El_Castillo05.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  "riosanjuan-solentiname-lake": {
+    "file": "riosanjuan-solentiname-lake.jpg",
+    "alt": "Острова Солентинаме в озере Кочиболька",
+    "caption": "Архипелаг Солентинаме · архивный снимок, опубликован в 2006",
+    "author": "Tabla",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Solentiname1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   }
 }

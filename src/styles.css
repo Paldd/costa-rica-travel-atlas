@@ -418,7 +418,7 @@ footer > div { display: flex; flex-wrap: wrap; gap: 14px; color: var(--muted); f
   color: #245745;
 }
 .route-preview:is(.region-guanacaste, .region-nicoya, .region-rivas-coast) { background-color: #f3e6d1; color: #714915; }
-.route-preview:is(.region-caribbean, .region-south, .region-chiriqui-coast, .region-bocas) { background-color: #dceceb; color: #245d67; }
+.route-preview:is(.region-caribbean, .region-south, .region-rio-san-juan, .region-chiriqui-coast, .region-bocas) { background-color: #dceceb; color: #245d67; }
 .preview-activity { padding-left: clamp(8px, 3vw, 28px); }
 .preview-activity .activity-icon { width: 52px; height: 52px; border-radius: 13px; }
 .preview-plot { display: block; width: 100%; max-height: 100%; }

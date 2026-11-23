@@ -2642,5 +2642,40 @@
     ],
     "language": "es-en",
     "focus": "Официальные описания лодочных выездов, условий проживания и маршрутов леса в Гольфо-Дульсе."
+  },
+  {
+    "name": "Visit Centroamérica · Рио-Сан-Хуан и Солентинаме",
+    "url": "https://www.visitcentroamerica.com/visitar/rio-san-juan/",
+    "exactPaths": [
+      "/visitar/rio-san-juan/"
+    ],
+    "review": "riosanjuan-centroamerica-river-guide",
+    "language": "es",
+    "focus": "Официальный региональный путеводитель по речным остановкам, островам и прогулкам."
+  },
+  {
+    "name": "Grand River Lodge · доступ по дороге и по воде",
+    "url": "https://www.grandriverlodgenicaragua.com/es/contact/",
+    "exactPaths": [
+      "/es/contact/",
+      "/es/"
+    ],
+    "review": "riosanjuan-grand-river-lodge-contacts",
+    "language": "es",
+    "focus": "Связь с лоджем и условия пересадки из Сан-Карлоса, обновления дорожного подъезда."
+  },
+  {
+    "name": "NicaBuses · рейсы от причала Сан-Карлоса",
+    "url": "https://www.nicabuses.com/terminales/san-carlos-muelle",
+    "paths": [
+      "/rutas/san-carlos-"
+    ],
+    "exactPaths": [
+      "/terminales/san-carlos-muelle",
+      "/rutas/san-carlos-el-castillo-lancha",
+      "/rutas/san-carlos-solentiname-lancha"
+    ],
+    "language": "es",
+    "focus": "Справочные лодочные отправления, адрес муниципального причала и точки пересадки."
   }
 ]

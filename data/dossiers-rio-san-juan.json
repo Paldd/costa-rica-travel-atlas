@@ -1,0 +1,1213 @@
+{
+  "tablillas-san-pancho-san-carlos-transfer": {
+    "stops": [
+      {
+        "point": "frontier-los-chiles-cr",
+        "role": "Автобусная база Лос-Чилес",
+        "note": "Сверьте расписание до перехода и заранее сохраните альтернативу.",
+        "activity": "car"
+      },
+      {
+        "point": "riosanjuan-tablillas-bus",
+        "role": "Последняя остановка автобуса в Коста-Рике",
+        "note": "При пересадке запишите время последнего автобуса обратно.",
+        "activity": "car"
+      },
+      {
+        "point": "frontier-las-tablillas-cr",
+        "role": "Коста-Рика · контроль в Лас-Таблильясе",
+        "note": "Подойдите к официальному окну перед проездом.",
+        "activity": "border"
+      },
+      {
+        "point": "frontier-san-pancho-ni",
+        "role": "Никарагуа · контроль в Сан-Панчо",
+        "note": "Подтвердите въезд, документы и продолжение на наземном транспорте.",
+        "activity": "border"
+      },
+      {
+        "point": "riosanjuan-castillo-boat-quarter",
+        "role": "Сектор лодок к Эль-Кастильо",
+        "note": "Ориентир рядом с рынком, место посадки подтвердит касса.",
+        "activity": "boat"
+      },
+      {
+        "point": "frontier-san-carlos-ni",
+        "role": "Сан-Карлос · район муниципального причала",
+        "note": "В ланчах несколько линий. Пирс и касса назначаются при покупке.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Поездка без своей машины",
+        "text": "Сначала проверьте остановку и отправления в Лос-Чилесе. В региональной справочной указаны автобусы Сан-Карлос — Сан-Панчо. Уточните день, направление, багаж и место посадки. При позднем приезде договоритесь о трансфере.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "frontier-ni-land-vehicle",
+          "riosanjuan-viajacongus-town"
+        ]
+      },
+      {
+        "title": "Документы и своя машина",
+        "text": "Проверьте правила въезда по гражданству и разрешение несовершеннолетнему, если применимо. Для своего или арендованного автомобиля получите согласие владельца, актуальные требования к временному ввозу и страхованию. Изменения работы окон проверяйте в соответствующей службе.",
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-cr-minors",
+          "frontier-ni-land-vehicle",
+          "frontier-cr-vehicle-exit",
+          "riosanjuan-cr-customs-notices"
+        ]
+      },
+      {
+        "title": "Пограничный сектор на карте",
+        "text": "Линия показывает существующую дорогу между службами. В пределах погранпункта следуйте указаниям сотрудников. Пункты посадки в Сан-Карлосе выбирайте уже по билету.",
+        "sources": [
+          "riosanjuan-osm-bridge-between-offices",
+          "riosanjuan-ni-border-public-law",
+          "riosanjuan-intur-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      },
+      {
+        "name": "Сан-Карлос · касса муниципального причала",
+        "source": "riosanjuan-nicabuses-municipal-pier",
+        "note": "На месте подтвердите время, причал, число свободных мест, багаж и жилеты."
+      },
+      {
+        "name": "INTUR · требования для туристов",
+        "source": "frontier-ni-tourist-req",
+        "note": "Сверьте нужный комплект документов для вашей семьи и транспорта."
+      }
+    ],
+    "galleries": [
+      "riosanjuan-local-border-photo-report",
+      "riosanjuan-viajacongus-town"
+    ],
+    "videos": [
+      "riosanjuan-san-carlos-destination-video"
+    ],
+    "photos": [
+      "riosanjuan-sancarlos-malecon"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-malecon-walk",
+      "rio-san-juan-san-carlos-el-castillo-lancha",
+      "rio-san-juan-san-carlos-solentiname-lancha",
+      "tablillas-san-carlos-river-4",
+      "tablillas-solentiname-el-castillo-7"
+    ],
+    "line": "riosanjuan-tablillas-ground"
+  },
+  "rio-san-juan-san-carlos-malecon-walk": {
+    "stops": [
+      {
+        "point": "riosanjuan-sancarlos-market",
+        "role": "Рынок · продукты и ориентир кассы",
+        "note": "Сверьте запас воды, наличные и билеты.",
+        "activity": "cafe"
+      },
+      {
+        "point": "riosanjuan-castillo-boat-quarter",
+        "role": "Сектор лодок к Эль-Кастильо",
+        "note": "Ориентир рядом с рынком, место посадки подтвердит касса.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-sancarlos-malecon-pin",
+        "role": "Городская набережная",
+        "note": "Вид на Лаго-Кочиболька, удобен первый короткий вечер.",
+        "activity": "views"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Полчаса в городе",
+        "text": "Заберите билеты или спросите время последней ланчи. От набережной открывается вид на Кочибольку. Воду и перекус проще взять у рынка, где останавливаются автобусы.",
+        "sources": [
+          "riosanjuan-nicabuses-municipal-pier",
+          "riosanjuan-intur-san-carlos",
+          "riosanjuan-viajacongus-town"
+        ]
+      },
+      {
+        "title": "Семейная пауза",
+        "text": "Возьмите воду, шляпу и мелкие наличные. При ливне выделите время на кафе и вечер у воды, когда условия улучшатся. На следующий день используйте отдельную карточку своего направления.",
+        "sources": [
+          "riosanjuan-intur-san-carlos",
+          "riosanjuan-viajacongus-town",
+          "riosanjuan-intur-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Сан-Карлос · касса муниципального причала",
+        "source": "riosanjuan-nicabuses-municipal-pier",
+        "note": "На месте подтвердите время, причал, число свободных мест, багаж и жилеты."
+      }
+    ],
+    "galleries": [
+      "riosanjuan-viajacongus-town",
+      "riosanjuan-intur-san-carlos"
+    ],
+    "videos": [
+      "riosanjuan-san-carlos-destination-video"
+    ],
+    "photos": [
+      "riosanjuan-sancarlos-malecon"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-el-castillo-lancha",
+      "rio-san-juan-san-carlos-solentiname-lancha",
+      "rio-san-juan-san-carlos-guided-tarpon",
+      "tablillas-san-carlos-river-4"
+    ],
+    "line": "riosanjuan-malecon-walk-osm"
+  },
+  "rio-san-juan-san-carlos-el-castillo-lancha": {
+    "stops": [
+      {
+        "point": "frontier-san-carlos-ni",
+        "role": "Сан-Карлос · район муниципального причала",
+        "note": "В ланчах несколько линий. Пирс и касса назначаются при покупке.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-castillo-boat-quarter",
+        "role": "Сектор лодок к Эль-Кастильо",
+        "note": "Ориентир рядом с рынком, место посадки подтвердит касса.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-castillo-muelle",
+        "role": "Эль-Кастильо · выход с ланчи",
+        "note": "При прибытии решите, каким рейсом возвращаться.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Откуда уходят ланчи",
+        "text": "Терминал находится у рынка в Сан-Карлосе. На линии есть быстрые и более медленные рейсы. Порядок остановок различается. Возьмите билет и адрес посадки в кассе.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-nicabuses-municipal-pier",
+          "riosanjuan-nicabuses-castillo-boat"
+        ]
+      },
+      {
+        "title": "Семейный вариант",
+        "text": "Разбейте поездку на два дня с ночёвкой в Эль-Кастильо или узнайте про безопасное окно для возвращения. Воду, защиту от солнца и дождя удобно держать при себе.",
+        "sources": [
+          "riosanjuan-intur-elcastillo",
+          "riosanjuan-intur-transport",
+          "riosanjuan-moon-elcastillo-report"
+        ]
+      },
+      {
+        "title": "Геометрия карты",
+        "text": "Нанесён коридор OpenStreetMap между пассажирскими причалами. В GPX для этой переправы остаются точки. Условия остановок и движения на воде проверяют у перевозчика.",
+        "sources": [
+          "riosanjuan-osm-san-carlos-el-castillo",
+          "riosanjuan-nicabuses-municipal-pier"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Сан-Карлос · касса муниципального причала",
+        "source": "riosanjuan-nicabuses-municipal-pier",
+        "note": "На месте подтвердите время, причал, число свободных мест, багаж и жилеты."
+      },
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-moon-elcastillo-report",
+      "riosanjuan-intur-elcastillo"
+    ],
+    "videos": [
+      "riosanjuan-castillo-town-walk-video"
+    ],
+    "photos": [
+      "riosanjuan-elcastillo-river"
+    ],
+    "nearby": [
+      "rio-san-juan-el-castillo-fortress-walk",
+      "rio-san-juan-el-castillo-bartola-guided",
+      "rio-san-juan-san-carlos-malecon-walk",
+      "rio-san-juan-grand-river-lodge",
+      "tablillas-san-carlos-river-4",
+      "tablillas-solentiname-el-castillo-7"
+    ],
+    "line": "riosanjuan-castillo-ferry-osm"
+  },
+  "rio-san-juan-san-carlos-solentiname-lancha": {
+    "stops": [
+      {
+        "point": "frontier-san-carlos-ni",
+        "role": "Сан-Карлос · район муниципального причала",
+        "note": "В ланчах несколько линий. Пирс и касса назначаются при покупке.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-mancarron-village",
+        "role": "Манкаррон · деревня и местная культура",
+        "note": "При бронировании уточните конкретный островной пирс.",
+        "activity": "history"
+      },
+      {
+        "point": "riosanjuan-fernando-village",
+        "role": "Сан-Фернандо · район музея и ремесла",
+        "note": "Гид или хозяин ночлега сообщает точный пирс и открытые мастерские.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Обратная лодка нужна заранее",
+        "text": "Попросите в кассе расписание на ваш день. Оставьте запасную ночь для слабого хода или переноса при ветре. Рейсовую и частную лодку сравнивайте по времени возвращения, возрасту участников и полной цене группы.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-nicabuses-solentiname-boat",
+          "riosanjuan-mancarron-hotel-owner",
+          "riosanjuan-stolas-sancarlos-solentiname"
+        ]
+      },
+      {
+        "title": "Выбор острова",
+        "text": "На Манкарроне и Сан-Фернандо разные места высадки. Информацию о пирсе даст отель или мастерская. Карта показывает сёла на островах и район муниципального причала.",
+        "sources": [
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-mancarron-hotel-owner",
+          "riosanjuan-nicabuses-municipal-pier"
+        ]
+      },
+      {
+        "title": "Ветер на озере",
+        "text": "Лодку и высадку согласует капитан. Для электровелосипеда, своей лодки и большого груза отдельно проверьте возможность перевозки. Сухой мешок, жилет и вода нужны независимо от длительности.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-nicabuses-solentiname-boat"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Сан-Карлос · касса муниципального причала",
+        "source": "riosanjuan-nicabuses-municipal-pier",
+        "note": "На месте подтвердите время, причал, число свободных мест, багаж и жилеты."
+      },
+      {
+        "name": "Hotel Mancarrón · ночёвка и посадка на острове",
+        "source": "riosanjuan-mancarron-hotel-owner",
+        "note": "Запросите точный пирс, доступность кухни и помощь с обратной лодкой.",
+        "phone": "+505 8852 3380",
+        "email": "info@hotelmancarron.com"
+      },
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-intur-solentiname",
+      "riosanjuan-stolas-sancarlos-solentiname"
+    ],
+    "videos": [
+      "riosanjuan-solentiname-intur-video"
+    ],
+    "photos": [
+      "riosanjuan-solentiname-lake"
+    ],
+    "nearby": [
+      "solentiname-mancarron-art-chapel-lodge",
+      "solentiname-san-fernando-artist-walk",
+      "rio-san-juan-la-esquina-solentiname-kayak",
+      "rio-san-juan-san-carlos-malecon-walk",
+      "tablillas-solentiname-el-castillo-7"
+    ]
+  },
+  "solentiname-mancarron-art-chapel-lodge": {
+    "stops": [
+      {
+        "point": "riosanjuan-mancarron-village",
+        "role": "Манкаррон · деревня и местная культура",
+        "note": "При бронировании уточните конкретный островной пирс.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что посмотреть с местными",
+        "text": "В районах общин развивались живопись и резьба. Интересно попросить хозяев организовать посещение действующей мастерской и уточнить правила фото. Прогулка по селу обычно строится вокруг доступных троп и встреч.",
+        "sources": [
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-intur-islands-community-art"
+        ]
+      },
+      {
+        "title": "Быт и ночёвка",
+        "text": "У Hotel Mancarrón есть публичная связь с владельцами. Узнайте тёплую еду, воду, размер семейного номера и место высадки с лодки.",
+        "sources": [
+          "riosanjuan-mancarron-hotel-owner",
+          "riosanjuan-stolas-sancarlos-solentiname"
+        ]
+      },
+      {
+        "title": "Прогулки и памятники",
+        "text": "Территория архипелага охраняется. Выберите маршрут с учётом частных участков и доступности культурных объектов. При дожде замените тропу встречей с мастерами.",
+        "sources": [
+          "riosanjuan-marena-solentiname-plan",
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-intur-islands-community-art"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Hotel Mancarrón · ночёвка и посадка на острове",
+        "source": "riosanjuan-mancarron-hotel-owner",
+        "note": "Запросите точный пирс, доступность кухни и помощь с обратной лодкой.",
+        "phone": "+505 8852 3380",
+        "email": "info@hotelmancarron.com"
+      },
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-mancarron-hotel-owner",
+      "riosanjuan-intur-islands-community-art"
+    ],
+    "videos": [
+      "riosanjuan-mancarron-island-video",
+      "riosanjuan-solentiname-intur-video"
+    ],
+    "photos": [
+      "riosanjuan-solentiname-lake"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-solentiname-lancha",
+      "solentiname-san-fernando-artist-walk",
+      "rio-san-juan-la-esquina-solentiname-kayak",
+      "tablillas-solentiname-el-castillo-7"
+    ]
+  },
+  "solentiname-san-fernando-artist-walk": {
+    "stops": [
+      {
+        "point": "riosanjuan-fernando-village",
+        "role": "Сан-Фернандо · район музея и ремесла",
+        "note": "Гид или хозяин ночлега сообщает точный пирс и открытые мастерские.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Искусство и деревня",
+        "text": "Используйте местный музей и мастерские как ориентиры. При точной записи уточните часы и способ посещения. Покупки ремесленников и экскурсия обычно обсуждаются у конкретного хозяина.",
+        "sources": [
+          "riosanjuan-san-fernando-community-tourism",
+          "riosanjuan-intur-islands-community-art",
+          "riosanjuan-intur-solentiname"
+        ]
+      },
+      {
+        "title": "Тропы острова",
+        "text": "INTUR указывает пешие тропы Сан-Фернандо. Их выбор зависит от состояния земли, входа и времени рейсов. На короткий выезд достаточно берега и деревни.",
+        "sources": [
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-marena-solentiname-plan"
+        ]
+      },
+      {
+        "title": "Семейный темп",
+        "text": "Если вода неспокойная или экскурсия переносится, останьтесь на острове своей ночёвки. Спросите про доступ к воде у лодочника и конкретное время возвращения.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-mancarron-hotel-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      },
+      {
+        "name": "Hotel Mancarrón · ночёвка и посадка на острове",
+        "source": "riosanjuan-mancarron-hotel-owner",
+        "note": "Запросите точный пирс, доступность кухни и помощь с обратной лодкой.",
+        "phone": "+505 8852 3380",
+        "email": "info@hotelmancarron.com"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-intur-solentiname",
+      "riosanjuan-san-fernando-community-tourism"
+    ],
+    "videos": [
+      "riosanjuan-solentiname-intur-video"
+    ],
+    "photos": [
+      "riosanjuan-solentiname-lake"
+    ],
+    "nearby": [
+      "solentiname-mancarron-art-chapel-lodge",
+      "rio-san-juan-san-carlos-solentiname-lancha",
+      "tablillas-solentiname-el-castillo-7"
+    ]
+  },
+  "rio-san-juan-el-castillo-fortress-walk": {
+    "stops": [
+      {
+        "point": "riosanjuan-castillo-muelle",
+        "role": "Эль-Кастильо · выход с ланчи",
+        "note": "При прибытии решите, каким рейсом возвращаться.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-castillo-church",
+        "role": "Церковь · ориентир подъёма",
+        "note": "Картографическая линия заканчивается у церкви. Далее поднимайтесь к входу по указателям.",
+        "activity": "hiking"
+      },
+      {
+        "point": "frontier-el-castillo-ni",
+        "role": "Крепость и музей",
+        "note": "Сверьте часы и допуск к верхним площадкам. После ливня ступени скользкие.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что показывает карта",
+        "text": "От причала нанесена связная пешеходная линия до церкви. Отдельный пин отмечает исторический комплекс. Следующие метры зависят от открытых ворот и маршрута музея.",
+        "sources": [
+          "riosanjuan-osm-elcastillo-streets",
+          "riosanjuan-intur-elcastillo"
+        ]
+      },
+      {
+        "title": "Крепость и прогулка у воды",
+        "text": "В крепости и посёлке можно провести несколько часов. Согласуйте часы, вход в музей и возврат до темноты. Набережная остаётся доступной как короткий план при влажных ступенях.",
+        "sources": [
+          "riosanjuan-intur-elcastillo",
+          "riosanjuan-moon-elcastillo-report",
+          "riosanjuan-intur-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      },
+      {
+        "name": "Сан-Карлос · касса муниципального причала",
+        "source": "riosanjuan-nicabuses-municipal-pier",
+        "note": "На месте подтвердите время, причал, число свободных мест, багаж и жилеты."
+      }
+    ],
+    "galleries": [
+      "riosanjuan-intur-elcastillo",
+      "riosanjuan-moon-elcastillo-report"
+    ],
+    "videos": [
+      "riosanjuan-castillo-visit-video",
+      "riosanjuan-castillo-town-walk-video"
+    ],
+    "photos": [
+      "riosanjuan-elcastillo-fortress",
+      "riosanjuan-elcastillo-river"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-el-castillo-lancha",
+      "rio-san-juan-el-castillo-bartola-guided",
+      "tablillas-san-carlos-river-4",
+      "tablillas-solentiname-el-castillo-7"
+    ],
+    "line": "riosanjuan-el-castillo-walk-osm"
+  },
+  "rio-san-juan-el-castillo-bartola-guided": {
+    "stops": [
+      {
+        "point": "riosanjuan-castillo-muelle",
+        "role": "Эль-Кастильо · выход с ланчи",
+        "note": "При прибытии решите, каким рейсом возвращаться.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-bartola-area",
+        "role": "Бартола · район лесного лоджа",
+        "note": "Доступный пирс и часть лесной тропы подтверждает местная команда.",
+        "activity": "forest"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два разных места старта",
+        "text": "В Эль-Кастильо находится пассажирский причал. Для поездки к Бартоле капитан называет точное место встречи, посадки и время. Сразу спросите, сколько часов группа проводит на воде.",
+        "sources": [
+          "riosanjuan-bartola-tourism-lodge",
+          "riosanjuan-indio-maiz-tour-report",
+          "riosanjuan-intur-transport",
+          "riosanjuan-bartola-region-map",
+          "riosanjuan-centroamerica-river-guide"
+        ]
+      },
+      {
+        "title": "Открытые сектора",
+        "text": "Попросите гида подтвердить, какая часть прогулки проходит по участкам лоджа и какая по режиму охраны. Уточните текущий допуск и согласие на вход до оплаты или выезда.",
+        "sources": [
+          "riosanjuan-marena-river-management",
+          "riosanjuan-bartola-tourism-lodge",
+          "riosanjuan-indio-maiz-tour-report"
+        ]
+      },
+      {
+        "title": "Запасной план",
+        "text": "При высоком уровне воды оставьте крепость и набережную Эль-Кастильо. Если ночуете у Бартолы, сверяйте возможность возвращения в Сан-Карлос до дня пересечения границы.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-moon-elcastillo-report",
+          "riosanjuan-bartola-tourism-lodge"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Refugio Bartola · бронирование через региональный каталог",
+        "source": "riosanjuan-bartola-tourism-lodge",
+        "note": "Запросите сектор буферной зоны, проводника, лодку, время и текущую доступность."
+      },
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-bartola-tourism-lodge",
+      "riosanjuan-indio-maiz-tour-report"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-el-castillo-lancha",
+      "rio-san-juan-el-castillo-fortress-walk",
+      "tablillas-san-carlos-river-4",
+      "tablillas-solentiname-el-castillo-7"
+    ],
+    "accessNotice": {
+      "title": "Лесной доступ согласуйте с проводником",
+      "text": "Точку высадки и доступный сектор охраняемой зоны подтверждают в день поездки.",
+      "sources": [
+        "riosanjuan-bartola-tourism-lodge",
+        "riosanjuan-marena-river-management"
+      ]
+    }
+  },
+  "rio-san-juan-papaturro-los-guatuzos": {
+    "stops": [
+      {
+        "point": "frontier-san-carlos-ni",
+        "role": "Сан-Карлос · район муниципального причала",
+        "note": "В ланчах несколько линий. Пирс и касса назначаются при покупке.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-papaturro-river-area",
+        "role": "Река Папатурро · ориентир заповедника",
+        "note": "Пин показывает участок реки. Расположение кассы и высадки подтвердит гид.",
+        "activity": "kayak"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как организовать лодку",
+        "text": "Региональный справочник различает быстрые и медленные рейсы в Папатурро. Спросите кассу, подходит ли рейс для вашего посещения и возможен ли возврат в тот же день.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-nicabuses-municipal-pier",
+          "riosanjuan-intur-los-guatuzos"
+        ]
+      },
+      {
+        "title": "Что можно делать у воды",
+        "text": "INTUR указывает каяк в эстуарии Папатурро. Запросите сопровождаемую прогулку и подходящие жилеты. Для собственной лодки сначала выясните разрешение на спуск, вход и выход.",
+        "sources": [
+          "riosanjuan-intur-los-guatuzos",
+          "riosanjuan-ramsar-los-guatuzos"
+        ]
+      },
+      {
+        "title": "Точки и экипировка",
+        "text": "В атласе показаны район порта и ориентир реки. Фактический выход согласует команда. Возьмите закрытую обувь, защиту от ливня, запас воды и оптику для наблюдения за птицами.",
+        "sources": [
+          "riosanjuan-intur-los-guatuzos",
+          "riosanjuan-ramsar-los-guatuzos",
+          "riosanjuan-intur-transport"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      },
+      {
+        "name": "Сан-Карлос · касса муниципального причала",
+        "source": "riosanjuan-nicabuses-municipal-pier",
+        "note": "На месте подтвердите время, причал, число свободных мест, багаж и жилеты."
+      }
+    ],
+    "galleries": [
+      "riosanjuan-intur-los-guatuzos"
+    ],
+    "videos": [
+      "riosanjuan-guatuzos-intur-video"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-malecon-walk",
+      "rio-san-juan-la-esquina-solentiname-kayak",
+      "rio-san-juan-san-carlos-solentiname-lancha",
+      "tablillas-solentiname-el-castillo-7"
+    ]
+  },
+  "rio-san-juan-la-esquina-solentiname-kayak": {
+    "stops": [
+      {
+        "point": "riosanjuan-esquina-lago-base",
+        "role": "La Esquina del Lago · база организатора",
+        "note": "У причала учитывайте уровень воды. Договоритесь о встрече с экипажем.",
+        "activity": "kayak"
+      },
+      {
+        "point": "riosanjuan-mancarron-village",
+        "role": "Манкаррон · деревня и местная культура",
+        "note": "При бронировании уточните конкретный островной пирс.",
+        "activity": "history"
+      },
+      {
+        "point": "riosanjuan-fernando-village",
+        "role": "Сан-Фернандо · район музея и ремесла",
+        "note": "Гид или хозяин ночлега сообщает точный пирс и открытые мастерские.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Маршрут с поддержкой",
+        "text": "Оператор публикует каяк по Солентинаме. Попросите часы на воде, размер группы, расстояние, возмещение при отмене и список оборудования. Островные точки служат ориентирами вариантов.",
+        "sources": [
+          "riosanjuan-esquina-kayak-owner",
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-esquina-public-location"
+        ]
+      },
+      {
+        "title": "Подбор для семьи",
+        "text": "Для группы с детьми обсудите защищённый участок, двухместный каяк и сопровождение. При плохой погоде альтернативой остаются ремесленные прогулки по островной базе.",
+        "sources": [
+          "riosanjuan-esquina-kayak-owner",
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-mancarron-hotel-owner"
+        ]
+      },
+      {
+        "title": "Природоохранный режим",
+        "text": "Перед выходом сверяйте допустимые берега и высадку у островов. Наблюдайте птиц с дистанции, возьмите сухой мешок, жилет и защиту от солнца.",
+        "sources": [
+          "riosanjuan-marena-solentiname-plan",
+          "riosanjuan-intur-solentiname"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Esquina del Lago · сопровождаемая лодочная программа",
+        "source": "riosanjuan-esquina-kayak-owner",
+        "note": "Сообщите опыт, возраст, даты и группу. Уточните воду, суда, программу поддержки и разрешения.",
+        "phone": "+505 5768 4623",
+        "email": "contact@laesquinadellago.com"
+      },
+      {
+        "name": "Hotel Mancarrón · ночёвка и посадка на острове",
+        "source": "riosanjuan-mancarron-hotel-owner",
+        "note": "Запросите точный пирс, доступность кухни и помощь с обратной лодкой.",
+        "phone": "+505 8852 3380",
+        "email": "info@hotelmancarron.com"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-esquina-kayak-owner",
+      "riosanjuan-intur-solentiname"
+    ],
+    "videos": [
+      "riosanjuan-solentiname-intur-video"
+    ],
+    "photos": [
+      "riosanjuan-solentiname-lake"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-solentiname-lancha",
+      "solentiname-mancarron-art-chapel-lodge",
+      "rio-san-juan-papaturro-los-guatuzos",
+      "rio-san-juan-caribbean-guided-kayak-5",
+      "tablillas-solentiname-el-castillo-7"
+    ]
+  },
+  "rio-san-juan-san-carlos-guided-tarpon": {
+    "stops": [
+      {
+        "point": "riosanjuan-esquina-lago-base",
+        "role": "La Esquina del Lago · база организатора",
+        "note": "У причала учитывайте уровень воды. Договоритесь о встрече с экипажем.",
+        "activity": "kayak"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как выбрать выезд",
+        "text": "Спросите, сколько часов на воде, есть ли тень, жилеты, снасти, вода и обед. Если едете с подростком, заранее согласуйте участие и инструктаж на лодке.",
+        "sources": [
+          "riosanjuan-esquina-fishing-owner",
+          "riosanjuan-esquina-fishing-permits",
+          "riosanjuan-copdetoursj-fishing"
+        ]
+      },
+      {
+        "title": "Разрешения и выпуск рыбы",
+        "text": "Проверьте требования действующего разрешения у INPESCA. Попросите документы лодки и сопровождающего, согласуйте выпуск рыбы и закрытые участки до оплаты.",
+        "sources": [
+          "riosanjuan-inpesca-sport-application",
+          "riosanjuan-esquina-fishing-permits"
+        ]
+      },
+      {
+        "title": "На что смотреть в плане",
+        "text": "Разные ветви предлагают ловлю в реке и на озере. Капитан выбирает участок под условия и действующий режим. Возьмите защиту от дождя и солнца и сухой мешок.",
+        "sources": [
+          "riosanjuan-esquina-fishing-owner",
+          "riosanjuan-esquina-fishing-permits",
+          "riosanjuan-copdetoursj-fishing"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Esquina del Lago · поездки на рыбалку",
+        "source": "riosanjuan-esquina-fishing-owner",
+        "note": "Сверьте полную смету группы, страховку, допуск, разрешения и выданные снасти.",
+        "phone": "+505 5768 4623",
+        "email": "contact@laesquinadellago.com"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-esquina-fishing-owner",
+      "riosanjuan-esquina-fishing-permits"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-malecon-walk",
+      "rio-san-juan-la-esquina-solentiname-kayak",
+      "tablillas-san-carlos-river-4",
+      "tablillas-solentiname-el-castillo-7"
+    ],
+    "videos": [
+      "riosanjuan-san-carlos-tarpon-film"
+    ]
+  },
+  "rio-san-juan-grand-river-lodge": {
+    "stops": [
+      {
+        "point": "riosanjuan-castillo-boat-quarter",
+        "role": "Сектор лодок к Эль-Кастильо",
+        "note": "Ориентир рядом с рынком, место посадки подтвердит касса.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-grand-lodge-area",
+        "role": "Grand River Lodge · ориентир отеля",
+        "note": "Для рейсовой лодки назовите лодж при покупке. Команда сообщит точную высадку.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как приехать на рейсовой ланче",
+        "text": "Лодж публикует пересадку у автостанции и высадку по запросу. Назовите Grand River Lodge кассиру и капитану. Обратный рейс обговорите при заселении.",
+        "sources": [
+          "riosanjuan-grand-river-lodge-contacts",
+          "riosanjuan-intur-transport"
+        ]
+      },
+      {
+        "title": "Подъезд по дороге",
+        "text": "Хозяева дают отдельное описание дороги и возможность добраться автобусом или машиной. Состояние последнего участка и парковку уточняют на день приезда.",
+        "sources": [
+          "riosanjuan-grand-river-lodge-contacts",
+          "riosanjuan-grand-river-lodge-owner"
+        ]
+      },
+      {
+        "title": "Что согласовать в лодже",
+        "text": "Вечером около берега учитывайте состояние ступеней и тропы. Запросите детское питание, возврат, прогулки по открытому участку либо следующее направление по реке.",
+        "sources": [
+          "riosanjuan-grand-river-lodge-owner",
+          "riosanjuan-grand-river-lodge-contacts"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Grand River Lodge · бронирование и перевозка",
+        "source": "riosanjuan-grand-river-lodge-contacts",
+        "note": "Согласуйте причал, дорогу, питание и возврат.",
+        "email": "hotelgrandriverlodge@gmail.com"
+      },
+      {
+        "name": "Сан-Карлос · касса муниципального причала",
+        "source": "riosanjuan-nicabuses-municipal-pier",
+        "note": "На месте подтвердите время, причал, число свободных мест, багаж и жилеты."
+      }
+    ],
+    "galleries": [
+      "riosanjuan-grand-river-lodge-owner"
+    ],
+    "photos": [
+      "riosanjuan-elcastillo-river"
+    ],
+    "nearby": [
+      "rio-san-juan-san-carlos-el-castillo-lancha",
+      "rio-san-juan-el-castillo-fortress-walk",
+      "tablillas-san-carlos-river-4",
+      "tablillas-solentiname-el-castillo-7"
+    ]
+  },
+  "tablillas-solentiname-el-castillo-7": {
+    "stops": [
+      {
+        "point": "frontier-los-chiles-cr",
+        "role": "Автобусная база Лос-Чилес",
+        "note": "Сверьте расписание до перехода и заранее сохраните альтернативу.",
+        "activity": "car"
+      },
+      {
+        "point": "riosanjuan-tablillas-bus",
+        "role": "Последняя остановка автобуса в Коста-Рике",
+        "note": "При пересадке запишите время последнего автобуса обратно.",
+        "activity": "car"
+      },
+      {
+        "point": "frontier-las-tablillas-cr",
+        "role": "Коста-Рика · контроль в Лас-Таблильясе",
+        "note": "Подойдите к официальному окну перед проездом.",
+        "activity": "border"
+      },
+      {
+        "point": "frontier-san-pancho-ni",
+        "role": "Никарагуа · контроль в Сан-Панчо",
+        "note": "Подтвердите въезд, документы и продолжение на наземном транспорте.",
+        "activity": "border"
+      },
+      {
+        "point": "riosanjuan-castillo-boat-quarter",
+        "role": "Сектор лодок к Эль-Кастильо",
+        "note": "Ориентир рядом с рынком, место посадки подтвердит касса.",
+        "activity": "boat"
+      },
+      {
+        "point": "frontier-san-carlos-ni",
+        "role": "Сан-Карлос · район муниципального причала",
+        "note": "В ланчах несколько линий. Пирс и касса назначаются при покупке.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-sancarlos-market",
+        "role": "Рынок · продукты и ориентир кассы",
+        "note": "Сверьте запас воды, наличные и билеты.",
+        "activity": "cafe"
+      },
+      {
+        "point": "riosanjuan-sancarlos-malecon-pin",
+        "role": "Городская набережная",
+        "note": "Вид на Лаго-Кочиболька, удобен первый короткий вечер.",
+        "activity": "views"
+      },
+      {
+        "point": "riosanjuan-mancarron-village",
+        "role": "Манкаррон · деревня и местная культура",
+        "note": "При бронировании уточните конкретный островной пирс.",
+        "activity": "history"
+      },
+      {
+        "point": "riosanjuan-fernando-village",
+        "role": "Сан-Фернандо · район музея и ремесла",
+        "note": "Гид или хозяин ночлега сообщает точный пирс и открытые мастерские.",
+        "activity": "history"
+      },
+      {
+        "point": "riosanjuan-castillo-muelle",
+        "role": "Эль-Кастильо · выход с ланчи",
+        "note": "При прибытии решите, каким рейсом возвращаться.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-castillo-church",
+        "role": "Церковь · ориентир подъёма",
+        "note": "Картографическая линия заканчивается у церкви. Далее поднимайтесь к входу по указателям.",
+        "activity": "hiking"
+      },
+      {
+        "point": "frontier-el-castillo-ni",
+        "role": "Крепость и музей",
+        "note": "Сверьте часы и допуск к верхним площадкам. После ливня ступени скользкие.",
+        "activity": "history"
+      },
+      {
+        "point": "riosanjuan-papaturro-river-area",
+        "role": "Река Папатурро · ориентир заповедника",
+        "note": "Пин показывает участок реки. Расположение кассы и высадки подтвердит гид.",
+        "activity": "kayak"
+      },
+      {
+        "point": "riosanjuan-esquina-lago-base",
+        "role": "La Esquina del Lago · база организатора",
+        "note": "У причала учитывайте уровень воды. Договоритесь о встрече с экипажем.",
+        "activity": "kayak"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Острова строятся вокруг обратного рейса",
+        "text": "Основной вариант — две ночи на Манкарроне, а Сан-Фернандо посещают отдельной маленькой лодкой. Выход на озеро согласуйте с хозяевами. При сбое расписания замените острова дневной программой из Сан-Карлоса.",
+        "sources": [
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-intur-transport",
+          "riosanjuan-nicabuses-solentiname-boat",
+          "riosanjuan-mancarron-hotel-owner"
+        ]
+      },
+      {
+        "title": "Город между водными участками",
+        "text": "Сначала вернитесь в Сан-Карлос, затем собирайте речной участок. Лос-Гуатусос можно выбрать отдельной заменой при подходящей лодке. Для семьи с младшими участниками оставьте прогулку по набережной.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-intur-los-guatuzos",
+          "riosanjuan-viajacongus-town"
+        ]
+      },
+      {
+        "title": "Эль-Кастильо и запас на возврат",
+        "text": "Выделите ночь к крепости. В Бартолу выезжайте только с подтверждённым проводником и временем возвращения. В день границы отправляйтесь из Сан-Карлоса после резервной ночи в городе.",
+        "sources": [
+          "riosanjuan-intur-elcastillo",
+          "riosanjuan-bartola-tourism-lodge",
+          "riosanjuan-intur-transport",
+          "frontier-ni-tourist-req"
+        ]
+      },
+      {
+        "title": "Что бронировать",
+        "text": "Уточните две островные лодки, ночёвку, речные билеты, обращение с багажом, детские жилеты и сухопутный трансфер. Для семейной поездки разумно сохранить телефоны и офлайн-карты.",
+        "sources": [
+          "riosanjuan-mancarron-hotel-owner",
+          "riosanjuan-nicabuses-municipal-pier",
+          "frontier-ni-land-vehicle",
+          "frontier-cr-minors"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      },
+      {
+        "name": "Сан-Карлос · касса муниципального причала",
+        "source": "riosanjuan-nicabuses-municipal-pier",
+        "note": "На месте подтвердите время, причал, число свободных мест, багаж и жилеты."
+      },
+      {
+        "name": "Hotel Mancarrón · ночёвка и посадка на острове",
+        "source": "riosanjuan-mancarron-hotel-owner",
+        "note": "Запросите точный пирс, доступность кухни и помощь с обратной лодкой.",
+        "phone": "+505 8852 3380",
+        "email": "info@hotelmancarron.com"
+      },
+      {
+        "name": "Refugio Bartola · бронирование через региональный каталог",
+        "source": "riosanjuan-bartola-tourism-lodge",
+        "note": "Запросите сектор буферной зоны, проводника, лодку, время и текущую доступность."
+      },
+      {
+        "name": "La Esquina del Lago · сопровождаемая лодочная программа",
+        "source": "riosanjuan-esquina-kayak-owner",
+        "note": "Сообщите опыт, возраст, даты и группу. Уточните воду, суда, программу поддержки и разрешения.",
+        "phone": "+505 5768 4623",
+        "email": "contact@laesquinadellago.com"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-intur-solentiname",
+      "riosanjuan-intur-elcastillo",
+      "riosanjuan-viajacongus-town",
+      "riosanjuan-intur-los-guatuzos"
+    ],
+    "videos": [
+      "riosanjuan-solentiname-intur-video",
+      "riosanjuan-mancarron-island-video",
+      "riosanjuan-castillo-visit-video"
+    ],
+    "photos": [
+      "riosanjuan-solentiname-lake",
+      "riosanjuan-elcastillo-fortress",
+      "riosanjuan-sancarlos-malecon"
+    ],
+    "nearby": [
+      "tablillas-san-carlos-river-4",
+      "rio-san-juan-grand-river-lodge",
+      "rio-san-juan-papaturro-los-guatuzos",
+      "rio-san-juan-la-esquina-solentiname-kayak"
+    ],
+    "line": "riosanjuan-family-seven-map"
+  },
+  "rio-san-juan-caribbean-guided-kayak-5": {
+    "stops": [
+      {
+        "point": "riosanjuan-esquina-lago-base",
+        "role": "La Esquina del Lago · база организатора",
+        "note": "У причала учитывайте уровень воды. Договоритесь о встрече с экипажем.",
+        "activity": "kayak"
+      },
+      {
+        "point": "frontier-san-carlos-ni",
+        "role": "Сан-Карлос · район муниципального причала",
+        "note": "В ланчах несколько линий. Пирс и касса назначаются при покупке.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-castillo-muelle",
+        "role": "Эль-Кастильо · выход с ланчи",
+        "note": "При прибытии решите, каким рейсом возвращаться.",
+        "activity": "boat"
+      },
+      {
+        "point": "riosanjuan-caribbean-town",
+        "role": "Сан-Хуан-де-Никарагуа · город у Карибского моря",
+        "note": "При бронировании попросите точную точку финиша, место ночёвки и маршрут возврата.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Описание оператора и длительность",
+        "text": "La Esquina del Lago предлагает четыре-пять дней вниз по реке до Карибского побережья. В программе нужно подтвердить место первого спуска, график, сопровождающую лодку, ночёвки и экипаж.",
+        "sources": [
+          "riosanjuan-esquina-kayak-owner",
+          "riosanjuan-intur-transport",
+          "riosanjuan-intur-terminus-san-juan"
+        ]
+      },
+      {
+        "title": "Доступ и навигация",
+        "text": "На маршруте есть пограничные и природоохранные процедуры. У команды уточняют действующие правила, возможность прохода, секторы, состояние порогов и время моторной помощи. Для своей лодки свяжитесь с оператором отдельно.",
+        "sources": [
+          "riosanjuan-marena-river-management",
+          "riosanjuan-ni-border-public-law",
+          "riosanjuan-esquina-kayak-owner"
+        ]
+      },
+      {
+        "title": "Экипировка и финиш",
+        "text": "Спросите, кто предоставляет жилет, каску по условиям, сухие мешки, связь, воду и запас питания. При изменении воды или погоды план эвакуации и возврата должен быть оговорён заранее.",
+        "sources": [
+          "riosanjuan-esquina-kayak-owner",
+          "riosanjuan-intur-transport",
+          "riosanjuan-intur-terminus-san-juan"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Esquina del Lago · сопровождаемая лодочная программа",
+        "source": "riosanjuan-esquina-kayak-owner",
+        "note": "Сообщите опыт, возраст, даты и группу. Уточните воду, суда, программу поддержки и разрешения.",
+        "phone": "+505 5768 4623",
+        "email": "contact@laesquinadellago.com"
+      },
+      {
+        "name": "INTUR Río San Juan · транспорт и местные ориентиры",
+        "source": "riosanjuan-intur-transport",
+        "note": "Запросите расписание ланч на даты, обратный рейс и справочную кассу.",
+        "email": "cit@intur.gob.ni"
+      }
+    ],
+    "galleries": [
+      "riosanjuan-esquina-kayak-owner",
+      "riosanjuan-intur-terminus-san-juan"
+    ],
+    "videos": [
+      "riosanjuan-caribbean-town-video"
+    ],
+    "photos": [
+      "riosanjuan-elcastillo-river"
+    ],
+    "nearby": [
+      "rio-san-juan-la-esquina-solentiname-kayak",
+      "rio-san-juan-san-carlos-el-castillo-lancha",
+      "rio-san-juan-el-castillo-bartola-guided",
+      "tablillas-solentiname-el-castillo-7"
+    ],
+    "accessNotice": {
+      "title": "Индивидуальная программа с сопровождающим",
+      "text": "Дневные отрезки и точки выхода утверждает оператор с учётом уровня воды и режима посещения.",
+      "sources": [
+        "riosanjuan-esquina-kayak-owner",
+        "riosanjuan-marena-river-management",
+        "riosanjuan-intur-transport"
+      ]
+    }
+  }
+}

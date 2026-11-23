@@ -1,0 +1,208 @@
+[
+  {
+    "id": "tablillas-solentiname-el-castillo-7",
+    "kind": "trip",
+    "region": "rio-san-juan",
+    "title": "Лас-Таблильяс → Солентинаме → Эль-Кастильо · семь дней",
+    "native": "Los Chiles · Las Tablillas · San Pancho · San Carlos · Solentiname · El Castillo",
+    "level": "moderate",
+    "days": 7,
+    "activities": [
+      "border",
+      "boat",
+      "lake",
+      "river",
+      "hiking",
+      "history",
+      "wildlife"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat",
+      "car",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "frontier-ni-tourist-req",
+      "frontier-ni-land-vehicle",
+      "riosanjuan-intur-transport",
+      "riosanjuan-intur-solentiname",
+      "riosanjuan-nicabuses-solentiname-boat",
+      "riosanjuan-intur-elcastillo",
+      "riosanjuan-bartola-tourism-lodge",
+      "riosanjuan-intur-los-guatuzos"
+    ],
+    "summary": "Неделя с двумя разными водными частями. Сначала озёрные деревни Солентинаме и местные мастерские, затем ланча по реке к крепости Эль-Кастильо.",
+    "plan": "Постройте даты вокруг обратной ланчи с островов. Ночи в Сан-Карлосе помогают разделить пограничный переезд, озёрный этап и речной участок.",
+    "conditions": "Выходы по воде зависят от дня и прогноза. До поездки закрепите резервный день и подтвердите пересадки с детьми. Регулярные рейсы проверяйте по каждой ветви.",
+    "distance": null,
+    "countries": [
+      "cr",
+      "ni"
+    ],
+    "regions": [
+      "north"
+    ],
+    "stages": [
+      {
+        "day": 1,
+        "title": "Лос-Чилес — Сан-Панчо — Сан-Карлос",
+        "note": "Утренний сухопутный переезд, оформление в обеих странах и ночёвка в городе. Проверьте островной рейс.",
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-ni-land-vehicle",
+          "riosanjuan-intur-transport"
+        ],
+        "stops": [
+          "tablillas-san-pancho-san-carlos-transfer",
+          "rio-san-juan-san-carlos-malecon-walk"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Сан-Карлос — Манкаррон",
+        "note": "Подтвердите свою высадку и час обратного рейса. Заселитесь и прогуляйтесь с хозяевами по селу.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-nicabuses-solentiname-boat",
+          "riosanjuan-mancarron-hotel-owner"
+        ],
+        "stops": [
+          "rio-san-juan-san-carlos-solentiname-lancha",
+          "solentiname-mancarron-art-chapel-lodge"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Мастерские Сан-Фернандо или Манкаррона",
+        "note": "Договоритесь о короткой межостровной лодке. В спокойную погоду можно выбрать сопровождаемый каяк.",
+        "sources": [
+          "riosanjuan-intur-solentiname",
+          "riosanjuan-intur-islands-community-art",
+          "riosanjuan-san-fernando-community-tourism",
+          "riosanjuan-esquina-kayak-owner"
+        ],
+        "stops": [
+          "solentiname-san-fernando-artist-walk",
+          "solentiname-mancarron-art-chapel-lodge",
+          "rio-san-juan-la-esquina-solentiname-kayak"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Возврат в Сан-Карлос и резервный день",
+        "note": "Возвращайтесь по согласованной ланче. Оставьте время на билеты в Эль-Кастильо. Если поездка с островами отменена, рассмотрите отдельный день в Лос-Гуатусос.",
+        "sources": [
+          "riosanjuan-nicabuses-solentiname-boat",
+          "riosanjuan-nicabuses-municipal-pier",
+          "riosanjuan-intur-los-guatuzos"
+        ],
+        "stops": [
+          "rio-san-juan-san-carlos-solentiname-lancha",
+          "rio-san-juan-san-carlos-malecon-walk",
+          "rio-san-juan-papaturro-los-guatuzos"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Речная ланча в Эль-Кастильо",
+        "note": "Ланча, прогулка по улицам и крепости, ночёвка у реки.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-nicabuses-castillo-boat",
+          "riosanjuan-intur-elcastillo"
+        ],
+        "stops": [
+          "rio-san-juan-san-carlos-el-castillo-lancha",
+          "rio-san-juan-el-castillo-fortress-walk"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Эль-Кастильо — Сан-Карлос",
+        "note": "Вернитесь в город подтверждённым рейсом. Короткий выход к Бартоле возможен при согласованной лодке и более позднем возвращении.",
+        "sources": [
+          "riosanjuan-intur-transport",
+          "riosanjuan-bartola-tourism-lodge",
+          "riosanjuan-moon-elcastillo-report"
+        ],
+        "stops": [
+          "rio-san-juan-el-castillo-bartola-guided",
+          "rio-san-juan-san-carlos-el-castillo-lancha",
+          "rio-san-juan-san-carlos-malecon-walk"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Сан-Карлос — Сан-Панчо — Лос-Чилес",
+        "note": "Сухопутная пересадка к границе и оформление обеих сторон. Оставьте запас на часы работы и багаж.",
+        "sources": [
+          "frontier-ni-tourist-req",
+          "frontier-ni-land-vehicle",
+          "frontier-cr-minors",
+          "frontier-cr-vehicle-exit"
+        ],
+        "stops": [
+          "tablillas-san-pancho-san-carlos-transfer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rio-san-juan-caribbean-guided-kayak-5",
+    "kind": "trip",
+    "region": "rio-san-juan",
+    "title": "Рио-Сан-Хуан до Карибского моря · 4–5 дней на каяке с поддержкой",
+    "native": "La Esquina del Lago · Río San Juan · El Castillo · San Juan de Nicaragua",
+    "level": "expedition",
+    "days": 5,
+    "activities": [
+      "kayak",
+      "boat",
+      "river",
+      "forest",
+      "wildlife",
+      "multi"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "confirm"
+    ],
+    "sources": [
+      "riosanjuan-esquina-kayak-owner",
+      "riosanjuan-intur-transport",
+      "riosanjuan-intur-terminus-san-juan",
+      "riosanjuan-marena-river-management",
+      "riosanjuan-ni-border-public-law"
+    ],
+    "summary": "Оператор публикует сопровождаемый спуск по Рио-Сан-Хуану к Карибскому морю на четыре-пять дней. Дневные участки, ночёвки и перевозку группа утверждает с местной командой.",
+    "plan": "Сначала запросите действующий маршрут, дневные расстояния, поддержку моторной лодки, охраняемые сектора и выход к финишу. На карибской стороне заранее согласуйте возврат.",
+    "conditions": "Дни и география зависят от воды и действующих правил. Уровень подготовки, контакты на суше, страховку, связь и выходы проговаривают до оплаты.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  }
+]

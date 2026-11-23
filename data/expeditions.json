@@ -8355,7 +8355,7 @@
     "id": "tablillas-san-carlos-river-4",
     "kind": "trip",
     "region": "north",
-    "title": "Лас-Таблильяс — Сан-Карлос · четыре дня у Рио-Сан-Хуана",
+    "title": "Лас-Таблильяс — Эль-Кастильо · четыре дня у Рио-Сан-Хуана",
     "native": "Los Chiles · Las Tablillas · San Pancho · San Carlos · El Castillo",
     "level": "moderate",
     "days": 4,
@@ -8376,6 +8376,7 @@
       "solo"
     ],
     "access": [
+      "public",
       "car",
       "transfer",
       "boat",
@@ -8387,59 +8388,81 @@
     "sources": [
       "frontier-ni-tourist-req",
       "frontier-ni-land-vehicle",
-      "frontier-ni-rio-san-juan",
-      "frontier-cr-vehicle-exit"
+      "frontier-cr-vehicle-exit",
+      "riosanjuan-intur-transport",
+      "riosanjuan-nicabuses-municipal-pier",
+      "riosanjuan-intur-elcastillo",
+      "riosanjuan-ni-border-public-law"
     ],
-    "summary": "Сухопутный переход из северной Коста-Рики к городу Сан-Карлос. Дальше отдельный лодочный день по Рио-Сан-Хуану, например к Эль-Кастильо.",
-    "plan": "Начните в Лос-Чилесе и оформите границу через Лас-Таблильяс и Сан-Панчо. Первую ночь оставьте в Сан-Карлосе. Время рейса, обратную лодку и ночёвку согласуйте в местном порту.",
-    "conditions": "Рейсы зависят от дня недели и условий на реке. До поездки подтвердите перевозку и оба пограничных окна. Для короткого выезда оставьте водную программу рядом с Сан-Карлосом.",
+    "summary": "Сухопутный переход из Лос-Чилеса, одна ночь в Сан-Карлосе, встреча с Рио-Сан-Хуаном и крепостью Эль-Кастильо. Переезды помечены отдельными слоями карты.",
+    "plan": "В первый день оформите оба контроля и переночуйте в Сан-Карлосе. На второй день поезжайте утренней ланчей в Эль-Кастильо и осмотрите крепость. Третий день оставьте на возвращение в Сан-Карлос и городской вечер.",
+    "conditions": "До отъезда подтвердите часы пограничных окон, обратный рейс и детские документы. Водную часть выбирайте по прогнозу и условиям местной кассы.",
     "distance": null,
     "stages": [
       {
         "day": 1,
-        "title": "Лос-Чилес — Лас-Таблильяс — Сан-Карлос",
-        "note": "Границу пересекайте по суше. Для поездки без своей машины согласуйте подвоз по каждой стороне и точку встречи.",
+        "title": "Лос-Чилес — Сан-Панчо — Сан-Карлос",
+        "note": "Наземные пересадки, два контроля и заселение. В Сан-Карлосе сходите в кассу до вечерней прогулки.",
         "sources": [
           "frontier-ni-land-vehicle",
-          "frontier-ni-tourist-req",
-          "frontier-cr-minors"
+          "riosanjuan-intur-transport",
+          "riosanjuan-nicabuses-municipal-pier"
         ],
-        "stops": []
+        "stops": [
+          "tablillas-san-pancho-san-carlos-transfer",
+          "rio-san-juan-san-carlos-malecon-walk"
+        ]
       },
       {
         "day": 2,
-        "title": "Лодка из Сан-Карлоса к Эль-Кастильо",
-        "note": "Согласуйте утреннее отправление, высадку и посещение крепости. Выберите ночлег в посёлке или возвращение подтверждённым рейсом.",
+        "title": "Утренняя ланча и крепость Эль-Кастильо",
+        "note": "Переход по реке, короткий подъём и осмотр верхней площадки при открытом входе. Ночёвка в посёлке.",
         "sources": [
-          "frontier-ni-rio-san-juan",
-          "frontier-ni-el-castillo-map"
+          "riosanjuan-intur-transport",
+          "riosanjuan-nicabuses-castillo-boat",
+          "riosanjuan-intur-elcastillo"
         ],
-        "stops": []
+        "stops": [
+          "rio-san-juan-san-carlos-el-castillo-lancha",
+          "rio-san-juan-el-castillo-fortress-walk"
+        ]
       },
       {
         "day": 3,
-        "title": "Сан-Карлос и запас на воду",
-        "note": "Вернитесь в Сан-Карлос и оставьте время на перенос. Солентинаме имеет отдельное расписание. Лучше выбрать его вместо Эль-Кастильо, если подходят отправление и возврат.",
+        "title": "Обратная ланча и вечер в Сан-Карлосе",
+        "note": "Раннее возвращение уменьшает риск опоздать на границу. Короткая Бартола остаётся вариантом, если проводник и обратная лодка подтверждены с запасом.",
         "sources": [
-          "frontier-ni-rio-san-juan"
+          "riosanjuan-intur-transport",
+          "riosanjuan-moon-elcastillo-report",
+          "riosanjuan-bartola-tourism-lodge"
         ],
-        "stops": []
+        "stops": [
+          "rio-san-juan-el-castillo-bartola-guided",
+          "rio-san-juan-san-carlos-el-castillo-lancha",
+          "rio-san-juan-san-carlos-malecon-walk"
+        ]
       },
       {
         "day": 4,
         "title": "Сан-Панчо — Лас-Таблильяс — Лос-Чилес",
-        "note": "До выезда уточните работу перехода и транспорта. На своей машине завершите таможенные формальности и проверьте статус разрешения.",
+        "note": "Оформите выезд и въезд в обе стороны и оставьте запас между автобусами.",
         "sources": [
-          "frontier-ni-land-vehicle",
+          "frontier-ni-tourist-req",
+          "frontier-cr-minors",
           "frontier-cr-vehicle-exit",
-          "frontier-ni-tourist-req"
+          "frontier-ni-land-vehicle"
         ],
-        "stops": []
+        "stops": [
+          "tablillas-san-pancho-san-carlos-transfer"
+        ]
       }
     ],
     "countries": [
       "cr",
       "ni"
+    ],
+    "regions": [
+      "rio-san-juan"
     ]
   },
   {

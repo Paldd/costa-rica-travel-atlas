@@ -2280,5 +2280,550 @@
     "countries": [
       "pa"
     ]
+  },
+  {
+    "id": "tablillas-san-pancho-san-carlos-transfer",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Лос-Чилес → Лас-Таблильяс → Сан-Карлос · переход по суше",
+    "native": "Los Chiles · Las Tablillas · San Pancho · San Carlos · Río San Juan",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "border",
+      "car"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "frontier-ni-land-vehicle",
+      "frontier-ni-tourist-req",
+      "frontier-cr-minors",
+      "frontier-cr-vehicle-exit",
+      "riosanjuan-intur-transport",
+      "riosanjuan-local-border-photo-report",
+      "riosanjuan-osm-los-chiles-tablillas",
+      "riosanjuan-osm-san-pancho-san-carlos"
+    ],
+    "summary": "Из Лос-Чилеса к официальному пограничному пункту, затем из Сан-Панчо до Сан-Карлоса. На карте отдельные дорожные участки и проход через официальные службы.",
+    "plan": "Спланируйте обе наземные пересадки. Согласуйте подвоз от Сан-Панчо по времени работы перехода и места выдачи багажа. Оставьте первую ночь в Сан-Карлосе.",
+    "conditions": "На дороге около 6,3 км по Коста-Рике и 37,3 км по Никарагуа. К этим участкам прибавьте оформление. Для машины, детей и повторного въезда заранее сверяйте документы.",
+    "distance": null,
+    "countries": [
+      "cr",
+      "ni"
+    ],
+    "regions": [
+      "north"
+    ]
+  },
+  {
+    "id": "rio-san-juan-san-carlos-malecon-walk",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Сан-Карлос · рынок, порт и набережная Кочибольки",
+    "native": "San Carlos · Mercado Municipal · Malecón · Lago Cocibolca",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "hiking",
+      "views",
+      "lake",
+      "history",
+      "cafe",
+      "relax"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "car",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-intur-san-carlos",
+      "riosanjuan-viajacongus-town",
+      "riosanjuan-nicabuses-municipal-pier",
+      "riosanjuan-osm-sancarlos-waterfront"
+    ],
+    "summary": "Короткая городская прогулка между рынком, кассами речных ланч и набережной. Подходит на вечер прибытия или на время ожидания рейса.",
+    "plan": "Начните у муниципального рынка, проверьте билеты, затем прогуляйтесь до Parque El Malecón. При желании вернитесь через центральные улицы Сан-Карлоса.",
+    "conditions": "От района порта до набережной около 370 м по нанесённой линии. Дополнительная прогулка через рынок зависит от темпа и открытых улиц.",
+    "distance": 0.75,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rio-san-juan-san-carlos-el-castillo-lancha",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Сан-Карлос → Эль-Кастильо · пассажирская ланча",
+    "native": "Muelle Municipal San Carlos · Río San Juan · Muelle de El Castillo",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "boat",
+      "river",
+      "views",
+      "wildlife"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-intur-transport",
+      "riosanjuan-nicabuses-municipal-pier",
+      "riosanjuan-nicabuses-castillo-boat",
+      "riosanjuan-intur-elcastillo",
+      "riosanjuan-osm-san-carlos-el-castillo"
+    ],
+    "summary": "Пассажирская ланча по Рио-Сан-Хуану. В справочниках переход обычно занимает около двух с половиной часов. На открытой карте водный коридор около 59 км.",
+    "plan": "Купите билет в муниципальном порту и спросите про промежуточные остановки. На тот же день заказывайте обратный рейс только после подтверждения времени в обе стороны.",
+    "conditions": "Сверьте день, причал, обратную лодку и жилеты. Для багажа пригодится гермомешок. Фактический маршрут выбирает капитан.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rio-san-juan-san-carlos-solentiname-lancha",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Сан-Карлос → Солентинаме · ланча к островным деревням",
+    "native": "Muelle Municipal San Carlos · Lago Cocibolca · Mancarrón · San Fernando",
+    "level": "moderate",
+    "days": 0.5,
+    "activities": [
+      "boat",
+      "lake",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-intur-transport",
+      "riosanjuan-nicabuses-municipal-pier",
+      "riosanjuan-nicabuses-solentiname-boat",
+      "riosanjuan-intur-solentiname",
+      "riosanjuan-mancarron-hotel-owner"
+    ],
+    "summary": "Озёрный переход от Сан-Карлоса к архипелагу. Региональный справочник ориентирует на два с половиной часа. Некоторые рейсы и чартеры останавливаются на разных островах.",
+    "plan": "Назовите остров, хозяина и место ночёвки при покупке. Запросите обратный день и место посадки. При коротком окне удобнее заранее согласовать частную лодку.",
+    "conditions": "Проверьте обе стороны перехода и прогноз. С детьми заранее подтвердите жилеты, условия высадки и защиту от дождя. У расписания могут меняться дни и часы.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "solentiname-mancarron-art-chapel-lodge",
+    "kind": "place",
+    "region": "rio-san-juan",
+    "title": "Манкаррон · часовня, живопись и островная ночёвка",
+    "native": "Isla Mancarrón · Solentiname · comunidad y alojamiento",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "history",
+      "hiking",
+      "forest",
+      "lake",
+      "views",
+      "cafe"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "riosanjuan-intur-solentiname",
+      "riosanjuan-intur-islands-community-art",
+      "riosanjuan-marena-solentiname-plan",
+      "riosanjuan-mancarron-hotel-owner"
+    ],
+    "summary": "Островной день с небольшими прогулками и знакомством с местной живописью. В районе деревни — места, связанные с общиной и Эрнесто Карденалем.",
+    "plan": "Согласуйте лодку до Манкаррона. У хозяев уточните часовню, мастерские, часы еды и короткую прогулку. Если обратная ланча неудобна, заложите ночь на острове.",
+    "conditions": "Движение между островами планируйте после подтверждения лодки. Храните адрес, время возвращения и контакт хозяев офлайн.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "solentiname-san-fernando-artist-walk",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Сан-Фернандо · островные мастерские и прогулка",
+    "native": "Isla San Fernando · Solentiname · Museo y arte local",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "history",
+      "hiking",
+      "forest",
+      "views",
+      "lake"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-intur-solentiname",
+      "riosanjuan-intur-islands-community-art",
+      "riosanjuan-san-fernando-community-tourism",
+      "riosanjuan-marena-solentiname-plan"
+    ],
+    "summary": "Короткий островной выезд к Сан-Фернандо с ремесленными встречами и прогулкой по деревне. Местный архив описывает музей и домики, открытие которых проверяют перед рейсом.",
+    "plan": "От Сан-Карлоса договоритесь о высадке на Сан-Фернандо. Если база на Манкарроне, согласуйте короткую межостровную лодку и обратный час.",
+    "conditions": "Возможность посетить мастерскую, музей и берег уточняйте у местных. Возьмите наличные, воду и гермоупаковку. После сильного ветра перенесите межостровный переход.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rio-san-juan-el-castillo-fortress-walk",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Эль-Кастильо · каменная крепость, музей и вид на реку",
+    "native": "El Castillo · Fortaleza de la Inmaculada Concepción · Río San Juan",
+    "level": "easy",
+    "days": 0.5,
+    "activities": [
+      "history",
+      "hiking",
+      "views",
+      "river"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "transfer"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-intur-elcastillo",
+      "riosanjuan-moon-elcastillo-report",
+      "riosanjuan-osm-elcastillo-streets",
+      "riosanjuan-intur-transport"
+    ],
+    "summary": "Пешая прогулка от пассажирского причала Эль-Кастильо до улиц у исторической крепости. С верхних точек открывается вид на Рио-Сан-Хуан.",
+    "plan": "Проверьте время обратной ланчи. От пристани следуйте к церкви, от неё поднимитесь к указанному входу в крепость. Оставьте время на музей и верхнюю площадку.",
+    "conditions": "До церкви около 275 м по открытым улицам. У входа есть подъём и ступени. После дождя проверьте состояние подхода, часы работы и допустимость коляски.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rio-san-juan-el-castillo-bartola-guided",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Эль-Кастильо → Бартола · лодка и лес с проводником",
+    "native": "El Castillo · Refugio Bartola · zona de amortiguamiento Indio Maíz",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "boat",
+      "hiking",
+      "forest",
+      "wildlife",
+      "river"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-bartola-tourism-lodge",
+      "riosanjuan-indio-maiz-tour-report",
+      "riosanjuan-marena-river-management",
+      "riosanjuan-intur-elcastillo"
+    ],
+    "summary": "Лодочный выход из Эль-Кастильо в сторону Бартолы и ограниченные прогулки с местным проводником. Окрестности относятся к буферной зоне Индьо-Маис.",
+    "plan": "Согласуйте сопровождающего, лодку, точку высадки и открытый сектор. Выберите короткий дневной лесной выход или программу с подтверждённой ночёвкой.",
+    "conditions": "Маршрут зависит от воды и действующего допуска. Соблюдайте правила прилегающих охраняемых территорий. У выхода уточняйте закрытую обувь, дождевик, жилеты и обратный рейс.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rio-san-juan-papaturro-los-guatuzos",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Лос-Гуатусос · лодка и каяк в эстуарии Папатурро",
+    "native": "Refugio Los Guatuzos · río Papaturro · Lago Cocibolca",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "boat",
+      "kayak",
+      "hiking",
+      "forest",
+      "wildlife",
+      "river"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-intur-los-guatuzos",
+      "riosanjuan-ramsar-los-guatuzos",
+      "riosanjuan-intur-transport",
+      "riosanjuan-intur-solentiname"
+    ],
+    "summary": "Выезд в заповедник южных угодий Кочибольки. В плане INTUR есть наблюдение за птицами, пеший выход и каяк в эстуарии Папатурро.",
+    "plan": "Уточните лодку из Сан-Карлоса и согласуйте короткую сопровождаемую прогулку. Перед отправлением получите положение причала и время обратного рейса.",
+    "conditions": "Рейсы в Папатурро различаются по дням и типу лодки. Проверьте возможность входа в воду, уровень воды, работу гида и правила заповедника.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rio-san-juan-la-esquina-solentiname-kayak",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Солентинаме · островная прогулка на каяке с местной командой",
+    "native": "La Esquina del Lago · San Carlos · Archipiélago de Solentiname",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "kayak",
+      "lake",
+      "boat",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-esquina-kayak-owner",
+      "riosanjuan-esquina-public-location",
+      "riosanjuan-intur-solentiname",
+      "riosanjuan-marena-solentiname-plan"
+    ],
+    "summary": "Организованный выезд на каяках вокруг островов Солентинаме. Состав, длина и место спуска зависят от прогноза, подготовленности группы и программы лодочной поддержки.",
+    "plan": "До записи согласуйте участок, сопровождение и возможность вернуться на моторной лодке при ветре. Уточните маршрут к базе в Сан-Карлосе и перевод снаряжения.",
+    "conditions": "На открытом озере маршрут меняют по ветру. В начале проверьте жилеты и способ эвакуации. Спуск собственной лодки и перевозка требуют отдельного согласования.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rio-san-juan-san-carlos-guided-tarpon",
+    "kind": "trail",
+    "region": "rio-san-juan",
+    "title": "Сан-Карлос · рыбалка на тарпона с лодкой и гидом",
+    "native": "San Carlos Sport Fishing · La Esquina del Lago · Río San Juan",
+    "level": "moderate",
+    "days": 1,
+    "activities": [
+      "fishing",
+      "boat",
+      "river",
+      "lake"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "day"
+    ],
+    "sources": [
+      "riosanjuan-esquina-fishing-owner",
+      "riosanjuan-esquina-fishing-permits",
+      "riosanjuan-inpesca-sport-application",
+      "riosanjuan-copdetoursj-fishing",
+      "riosanjuan-esquina-public-location"
+    ],
+    "summary": "Выезд с рыболовным гидом из района Сан-Карлоса. Оператор предлагает день на лодке, снасти и несколько вариантов длины поездки.",
+    "plan": "Попросите тип лодки, разрешённую акваторию, план станции при высоком уровне воды, снасти и экипировку. Письменно уточните лицензию и правила обращения с уловом.",
+    "conditions": "Оператор публикует программы выпуска рыбы. Применимость разрешения, сезонных ограничений и правила конкретного участка сверяют с INPESCA и капитаном.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
+  },
+  {
+    "id": "rio-san-juan-grand-river-lodge",
+    "kind": "place",
+    "region": "rio-san-juan",
+    "title": "Рио-Сан-Хуан · домики Grand River Lodge и лодочный подъезд",
+    "native": "Grand River Lodge · Río San Juan · San Carlos – El Castillo",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "boat",
+      "forest",
+      "relax",
+      "cafe",
+      "views"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "riosanjuan-grand-river-lodge-owner",
+      "riosanjuan-grand-river-lodge-contacts",
+      "riosanjuan-intur-transport"
+    ],
+    "summary": "Тихая база у реки между Сан-Карлосом и Эль-Кастильо. Домики на склоне и ресторан подходят как самостоятельная ночёвка или остановка речной поездки.",
+    "plan": "На лодке сообщите название лоджа при покупке билета. Подтвердите, где капитан высаживает группу и кто встретит. Для своей машины спросите отдельный наземный подъезд.",
+    "conditions": "Оператор оценивает проход из Сан-Карлоса примерно в 1–1,5 часа. После высадки ещё короткий подъём. С багажом, коляской и детским снаряжением подготовьте помощь.",
+    "distance": null,
+    "countries": [
+      "ni"
+    ]
   }
 ]

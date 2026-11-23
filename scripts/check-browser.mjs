@@ -373,6 +373,20 @@ async function checkViewport(browser, width) {
     await kuraPosts.first().waitFor();
     assert.equal(await kuraPosts.count(), 3);
     await checkWidth();
+
+    const riverTrip = records.get("tablillas-solentiname-el-castillo-7");
+    await open("expeditions?country=ni&region=rio-san-juan&duration=seven&activity=border");
+    await page.getByRole("link", { name: riverTrip.title, exact: true }).click();
+    await heading(riverTrip);
+    await page.waitForFunction(() => Array.from(document.images).some(img =>
+      img.src.endsWith("/riosanjuan-solentiname-lake.jpg") && img.naturalWidth > 0));
+    const sanJuanMap = page.getByRole("region", { name: "Карта маршрута" });
+    await sanJuanMap.getByLabel("Участок на карте").selectOption("riosanjuan-castillo-ferry-osm");
+    const sanJuanGpx = await exportText(sanJuanMap.getByRole("button", { name: "Скачать точки GPX" }));
+    assert.equal((sanJuanGpx.match(/<wpt /g) || []).length, 3);
+    assert(!sanJuanGpx.includes("<trk>"));
+    assert.equal(await page.locator(".stages li").count(), 7);
+    await checkWidth();
     assert.deepEqual(errors, []);
     console.log(width + " px: catalog, media, route and stage GPX, published sources and access notices passed.");
   } finally {

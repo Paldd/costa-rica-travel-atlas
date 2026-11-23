@@ -240,6 +240,23 @@ for (const id of ["sixaola-bocas-family-3", "sixaola-bocas-colon-bastimentos-fam
 const carFerry = records.find(row => row.id === "bocas-almirante-isla-colon-car-ferry");
 assert(carFerry.access.includes("4x4") && atlas.lines[carFerry.dossier.line].water);
 assert(carFerry.dossier.stops.every(stop => stop.point.endsWith("-car")));
+for (const [id, length] of [["tablillas-san-carlos-river-4", "five"], ["tablillas-solentiname-el-castillo-7", "seven"]]) {
+  const expedition = find({ country: "ni", region: "rio-san-juan", duration: length, activity: "border" }, "expeditions")
+    .find(row => row.id === id);
+  assert(expedition?.stages.every(day => day.stops.length > 0), id);
+  const route = atlas.lines[expedition.dossier.line];
+  const legs = route.stages.map(leg => atlas.lines[leg]);
+  assert(legs.some(leg => leg.water) && legs.some(leg => !leg.water), id);
+  const gpx = createGpx(expedition.title, [{ title: expedition.title, line: route, stops: expedition.dossier.stops }], atlas);
+  assert.equal((gpx.match(/<trkseg>/g) || []).length, legs.filter(leg => !leg.water).length);
+  assert.equal((gpx.match(/<wpt /g) || []).length, expedition.dossier.stops.length);
+}
+const lakeBoat = records.find(row => row.id === "rio-san-juan-san-carlos-solentiname-lancha");
+assert(lakeBoat.dossier.stops.length === 3 && !lakeBoat.dossier.line);
+const sanJuanPaddle = find({ country: "ni", region: "rio-san-juan", duration: "five", activity: "kayak" }, "expeditions")
+  .find(row => row.id === "rio-san-juan-caribbean-guided-kayak-5");
+assert(sanJuanPaddle.dossier.accessNotice && sanJuanPaddle.dossier.stops.length >= 4);
+assert(!sanJuanPaddle.activities.includes("own-craft"));
 assert(find({ activity: "own-craft", detail: "map" }).some(row => row.id === "pacuare-own-craft"));
 assert.equal(find({ region: "caribbean" }, "saved", new Set(["sabana-oka"])).length, 0);
 assert.equal(find({}, "saved", new Set(["sabana-oka"])).length, 1);

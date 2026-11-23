@@ -11,6 +11,7 @@ export const regions = {
   caribbean: "Карибское побережье",
   ometepe: "Ометепе и озеро Кокиболька",
   "rivas-coast": "Ривас и побережье Сан-Хуан-дель-Сур",
+  "rio-san-juan": "Рио-Сан-Хуан и Солентинаме",
   "chiriqui-coast": "Залив Чирики",
   "chiriqui-highlands": "Горы Чирики",
   bocas: "Бокас-дель-Торо",
