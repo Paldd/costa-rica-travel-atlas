@@ -27,7 +27,7 @@ MIN_BODY_CHARS = 350
 ARTICLE_BODY_CLASSES = {
     "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg",
 }
-EXTRACTOR_VERSION = 8
+EXTRACTOR_VERSION = 9
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
 VIDEO_METADATA = {"og:video", "og:video:url", "og:video:secure_url", "twitter:player"}
@@ -97,6 +97,13 @@ class EditorialPage(HTMLParser):
         for key in ("href", "src", "data-src", "data-href", "data-instgrm-permalink"):
             if value := attrs.get(key):
                 self.add_media(value, placement)
+        if attrs.get("data-widget_type") == "video.default" and (settings := attrs.get("data-settings")):
+            try:
+                video_widget = json.loads(settings)
+            except json.JSONDecodeError:
+                return
+            if isinstance(video_widget, dict) and isinstance(value := video_widget.get("youtube_url"), str):
+                self.add_video(value, placement)
 
     def handle_startendtag(self, tag, attrs):
         self.handle_starttag(tag, attrs)

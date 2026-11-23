@@ -1,0 +1,214 @@
+{
+  "punta-leona-gigantes-butterfly": {
+    "stops": [
+      {
+        "point": "punta-leona-club-meeting",
+        "role": "Зона комплекса и встреча с гидом",
+        "note": "Точный вход на тропу попросите указать на ресепшене. Пин показывает территорию комплекса."
+      },
+      {
+        "point": "punta-leona-butterfly-garden",
+        "role": "Марипосарио · сад бабочек",
+        "note": "Согласуйте воскресные и будние часы отдельно. Обозначенный сад можно посетить вместе с прогулкой."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два коротких занятия в одном месте",
+        "text": "У владельца описаны три размеченные лесные тропы. Биолог комплекса в репортаже Universidad Nacional указывает 800 м для тропы Гигантес. На выход в лес и визит в сад удобно выделить около двух часов с остановками. На карте отмечены ориентиры базы и сада. Открытую схему троп возьмите перед выходом.",
+        "sources": [
+          "punta-leona-guided-trails",
+          "punta-leona-una-gigantes"
+        ]
+      },
+      {
+        "title": "Когда приезжать",
+        "text": "В недельной афише встречаются ранний выход на птиц и отдельная прогулка к бабочкам. На странице расписания также указан марипосарио с 06:00 до 14:00. Спросите в день поездки, доступен ли конкретный выезд для дневных гостей, когда проходит семейная группа и сколько стоит вход.",
+        "sources": [
+          "punta-leona-calendar",
+          "punta-leona-contact-office"
+        ]
+      },
+      {
+        "title": "Снаряжение и наблюдения",
+        "text": "Для лесной дорожки пригодятся лёгкая закрытая обувь, вода, средство от насекомых и бинокль. Для коляски проверьте покрытие к саду у ресепшена. Публичные камеры проекта показывают гнездование красных ара в сезон, а отчёт Universidad Nacional даёт представление о тропе и лесовосстановлении.",
+        "sources": [
+          "punta-leona-wildlife-live",
+          "punta-leona-una-gigantes"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Punta Leona · ресепшен",
+        "source": "punta-leona-calendar",
+        "phone": "+506 2630 1000",
+        "url": "https://www.puntaleona.com/es/contacto",
+        "note": "Уточните место сбора, часы программы, способы въезда и условия разового посещения."
+      }
+    ],
+    "galleries": [
+      "punta-leona-una-gigantes",
+      "punta-leona-guided-trails",
+      "punta-leona-calendar",
+      "publisher-archive-puntaleona-magazine"
+    ],
+    "videos": [
+      "punta-leona-una-forest-video",
+      "punta-leona-operator-film",
+      "punta-leona-wildlife-live"
+    ],
+    "nearby": [
+      "punta-leona-mantas-blanca-day",
+      "punta-leona-blanca-underwater-museum",
+      "carara"
+    ]
+  },
+  "punta-leona-blanca-underwater-museum": {
+    "stops": [
+      {
+        "point": "punta-leona-blanca-terraces",
+        "role": "Берег перед террасами Punta Leona",
+        "note": "Уточните подход к воде и положение спасательного поста. Подводные точки зависят от разметки участка."
+      },
+      {
+        "point": "punta-leona-blanca-beach",
+        "role": "Playa Blanca · береговой ориентир",
+        "note": "Согласуйте место выхода с берега и возможность вернуться той же дорожкой."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что видно под водой",
+        "text": "Скульптуры размещены перед террасами на расстоянии около 50 м от берега. На странице комплекса указана глубина примерно от 2 м при отливе до 5 м при приливе. В сентябрьском выпуске журнала владельца описаны девять скульптур и работа с Fundación MareBlu по восстановлению рифов.",
+        "sources": [
+          "punta-leona-blanca-museum-owner",
+          "punta-leona-blanca-reef-2026"
+        ]
+      },
+      {
+        "title": "Снаряжение, собственная маска и дайвинг",
+        "text": "Владелец сообщает, что можно приехать со своей маской или спросить прокат у поста спасателей. Уточните размеры ласт, жилет, состояние воды и где проходит разрешённый выход. Для дайвинга на сайте есть программа с гидами центра. Отдельно уточните оплату проката, гида и парковки.",
+        "sources": [
+          "punta-leona-blanca-museum-owner",
+          "punta-leona-dive-and-nature"
+        ]
+      },
+      {
+        "title": "Когда оставить только береговую прогулку",
+        "text": "Решение о выходе принимают по волне, видимости, приливу и указаниям спасателей в день визита. На камнях бывает скользко. Держитесь вдали от рифа, избегайте контакта со скульптурами и присматривайте за детьми. На ролике владельца видно, на что похожи объекты под водой.",
+        "sources": [
+          "punta-leona-blanca-museum-owner",
+          "punta-leona-reef-museum-video",
+          "red-cross"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Punta Leona · ресепшен",
+        "source": "punta-leona-calendar",
+        "phone": "+506 2630 1000",
+        "url": "https://www.puntaleona.com/es/contacto",
+        "note": "Спросите о спасательном посте, условиях выхода к музею, прокате и гиде Dive Center."
+      }
+    ],
+    "galleries": [
+      "punta-leona-blanca-museum-owner",
+      "punta-leona-blanca-reef-2026",
+      "punta-leona-blanca-archival-photo"
+    ],
+    "videos": [
+      "punta-leona-reef-museum-video"
+    ],
+    "nearby": [
+      "punta-leona-mantas-blanca-day",
+      "punta-leona-gigantes-butterfly"
+    ],
+    "photos": [
+      "punta-leona-blanca-kajikawa"
+    ]
+  },
+  "punta-leona-mantas-blanca-day": {
+    "stops": [
+      {
+        "point": "punta-leona-mantas-parking",
+        "role": "Playa Mantas · район парковки",
+        "note": "Уточните оплату на месте и берите вещи с собой. Пин помогает найти парковочную площадку."
+      },
+      {
+        "point": "punta-leona-mantas-sand",
+        "role": "Playa Mantas · берег",
+        "note": "Отдельная бухта. Для семейной короткой остановки удобно остаться на берегу в тени."
+      },
+      {
+        "point": "punta-leona-blanca-foot-access",
+        "role": "Playa Blanca · подход с Calle Playa Blanca",
+        "note": "Короткая пешеходная дорожка открывается на карте. Уточните сегодняшний автомобильный подъезд и ближайшую стоянку."
+      },
+      {
+        "point": "punta-leona-blanca-beach",
+        "role": "Playa Blanca · светлый берег",
+        "note": "Проверьте обстановку на берегу и возвращайтесь по подходящему наземному выходу."
+      }
+    ],
+    "connectStops": false,
+    "line": "punta-leona-blanca-shore-path",
+    "sections": [
+      {
+        "title": "Маршрут и условия проезда",
+        "text": "В июне 2026 года муниципалитет снял шлагбаум и сообщил о свободном доступе к Плайя-Бланка. Представители комплекса тогда уточнили, что спор о статусе дороги продолжается. Используйте актуальный наземный подъезд, уточняйте его перед поездкой по местным объявлениям и на ресепшене. Парковочные площадки обеспечивают отдельные операторы.",
+        "sources": [
+          "punta-leona-road-june-municipality",
+          "punta-leona-road-june-resort",
+          "punta-leona-blanca-field-report"
+        ]
+      },
+      {
+        "title": "Две бухты с детьми",
+        "text": "На Мантас обычно есть тень возле берега. Для Бланки возьмите воду и головные уборы. Переход по скалам между бухтами зависит от прилива и бывает скользким. Для маленьких детей и коляски выбирайте наземный подход. Линия на карте показывает только последнюю размеченную пешеходную дорожку к Бланке.",
+        "sources": [
+          "punta-leona-mantas-beach-map",
+          "punta-leona-blanca-shore-path-osm",
+          "punta-leona-blanca-field-report"
+        ]
+      },
+      {
+        "title": "Варианты на полдня",
+        "text": "Заложите 2–4 часа на один пляж или обе короткие остановки. При спокойной прозрачной воде можно обсудить выход к подводному музею со спасателями. Для прогулки в лесу запросите отдельный дневной доступ к тропе Гигантес.",
+        "sources": [
+          "punta-leona-blanca-museum-owner",
+          "punta-leona-guided-trails",
+          "punta-leona-calendar"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Punta Leona · ресепшен",
+        "source": "punta-leona-calendar",
+        "phone": "+506 2630 1000",
+        "url": "https://www.puntaleona.com/es/contacto",
+        "note": "Уточните место сбора, часы программы, способы въезда и условия разового посещения."
+      }
+    ],
+    "galleries": [
+      "punta-leona-blanca-field-report",
+      "punta-leona-blanca-archival-photo",
+      "publisher-punta-leona-com"
+    ],
+    "videos": [
+      "punta-leona-operator-film"
+    ],
+    "nearby": [
+      "punta-leona-blanca-underwater-museum",
+      "punta-leona-gigantes-butterfly",
+      "carara"
+    ],
+    "photos": [
+      "punta-leona-blanca-kajikawa"
+    ]
+  }
+}

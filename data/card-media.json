@@ -457,102 +457,211 @@
   },
   "el-camino-102": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-stage-8-visitor-walk",
+      "camino-stage-9-visitor-walk",
+      "camino-esencial-episode-5",
+      "camino-esencial-episode-6",
+      "camino-esencial-episode-7",
+      "camino-esencial-episode-8",
+      "camino-esencial-episode-9-10",
+      "camino-esencial-episode-11"
     ]
   },
   "el-camino-3": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-stage-8-visitor-walk",
+      "camino-stage-9-visitor-walk",
+      "camino-esencial-episode-8",
+      "camino-esencial-episode-9-10"
     ]
   },
   "el-camino-34": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-stage-8-visitor-walk",
+      "camino-esencial-episode-7",
+      "camino-esencial-episode-8"
     ]
   },
   "el-camino-crossing": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-1",
+      "camino-esencial-episode-2",
+      "camino-esencial-episode-3",
+      "camino-esencial-episode-4",
+      "camino-esencial-episode-5",
+      "camino-esencial-episode-6",
+      "camino-esencial-episode-7",
+      "camino-esencial-episode-8",
+      "camino-esencial-episode-9-10",
+      "camino-esencial-episode-11",
+      "camino-esencial-episode-12",
+      "camino-esencial-episode-13",
+      "camino-esencial-episode-14-15",
+      "camino-esencial-episode-16"
     ]
   },
   "el-camino-etapa-10": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-9-10"
     ]
   },
   "el-camino-etapa-12": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-12"
     ]
   },
   "el-camino-etapa-13": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-13"
     ]
   },
   "el-camino-etapa-14": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-14-15"
     ]
   },
   "el-camino-etapa-15": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-14-15"
     ]
   },
   "el-camino-etapa-16": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-16"
     ]
   },
   "el-camino-etapa-1a": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-1",
+      "camino-esencial-episode-2"
     ]
   },
   "el-camino-etapa-1b": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-2"
     ]
   },
   "el-camino-etapa-2": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-3"
     ]
   },
   "el-camino-etapa-3": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-3",
+      "camino-esencial-episode-4"
     ]
   },
   "el-camino-etapa-4": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-4"
     ]
   },
   "el-camino-etapa-5": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-5"
     ]
   },
   "el-camino-etapa-6": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-6"
     ]
   },
   "el-camino-etapa-7": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-7"
     ]
   },
   "el-camino-etapa-8": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-stage-8-visitor-walk",
+      "camino-esencial-episode-8"
     ]
   },
   "el-camino-etapa-9": {
     "galleries": [
-      "media-camino-urri-gallery"
+      "media-camino-urri-gallery",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-stage-9-visitor-walk",
+      "camino-esencial-episode-9-10"
     ]
   },
   "elysiana-forest": {
@@ -1050,7 +1159,11 @@
   },
   "palo-verde-cerro-alto": {
     "galleries": [
-      "camino-stage-11"
+      "camino-stage-11",
+      "camino-esencial-video-series"
+    ],
+    "videos": [
+      "camino-esencial-episode-11"
     ]
   },
   "paquera-bioluminescence-kayak": {

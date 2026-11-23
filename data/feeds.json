@@ -2495,5 +2495,26 @@
     ],
     "language": "es",
     "focus": "Как согласовать лодку, подъехать к Ла-Пенке и выбрать местные маршруты и места для обеда."
+  },
+  {
+    "name": "Esencial Costa Rica · видеодневник El Camino",
+    "url": "https://www.esencialcostarica.com/camino-de-costa-rica/",
+    "paths": [
+      "/camino-de-costa-rica/"
+    ],
+    "exactPaths": [
+      "/camino-de-costa-rica/"
+    ],
+    "review": "camino-esencial-video-series"
+  },
+  {
+    "name": "Revista Punta Leona · программы и природа",
+    "url": "https://revistapuntaleona.com/",
+    "paths": [
+      "/punta-leona-",
+      "/arranca-anidacion-",
+      "/playa-blanca-",
+      "/natural-lab/"
+    ]
   }
 ]
