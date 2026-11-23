@@ -1,0 +1,81 @@
+[
+  {
+    "id": "rio-cuarto-hule-2",
+    "kind": "trip",
+    "region": "north",
+    "title": "Два дня у кратерных озёр · Рио-Куарто, ночлег в Венесии и пешком к Уле",
+    "native": "Laguna Río Cuarto · Finca 360° · Refugio Bosque Alegre · Laguna Hule",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "kayak",
+      "hiking",
+      "lake",
+      "forest",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "rio-cuarto-goout-contact",
+      "rio-cuarto-goout-catalog",
+      "finca360-venecia-contact",
+      "hule-ict",
+      "hule-plan",
+      "rio-cuarto-finca-car-map",
+      "finca-hule-car-map"
+    ],
+    "summary": "Выходные в Алахуэле с каяком на Рио-Куарто, ночёвкой у Венесии и спуском к озеру Уле. Для тех, кто хочет больше леса, есть отдельный отворот к Конго.",
+    "plan": "В первый день проведите время на Рио-Куарто и переезжайте в Венесию. На второй выезжайте к публичному входу в Bosque Alegre и идите к Уле пешком.",
+    "conditions": "Подтвердите размер детского жилета и частный подъезд к Рио-Куарто. На Уле учитывайте спуск и обратный подъём по мокрой почве. При плохой погоде сократите день до наземных посещений и уточните у хозяев проезд.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Каяк на Рио-Куарто и ночлег в Венесии",
+        "note": "Проведите утро у лагуны. К часу гребли можно добавить пикник или заказать отдельную программу на ATV. Во второй половине дня переезжайте к гостинице.",
+        "stops": [
+          "laguna-rio-cuarto-paddle",
+          "rio-cuarto-goout-atv-kayak",
+          "venecia-finca360-lodge"
+        ],
+        "sources": [
+          "rio-cuarto-goout-catalog",
+          "rio-cuarto-goout-atv",
+          "finca360-venecia-contact",
+          "rio-cuarto-finca-car-map"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Уле и лес заказника Bosque Alegre",
+        "note": "Доедьте до опубликованного ICT входа. Для короткой прогулки спуститесь к Уле и вернитесь тем же путём. Более длинный отворот к Конго оставьте на открытый и сухой день.",
+        "stops": [
+          "laguna-hule-trail",
+          "laguna-hule-paddle-visit"
+        ],
+        "sources": [
+          "hule-ict",
+          "hule-plan",
+          "finca-hule-car-map",
+          "hule-congo-field-film"
+        ]
+      }
+    ]
+  }
+]

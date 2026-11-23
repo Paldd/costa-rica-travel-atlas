@@ -761,16 +761,27 @@
   "laguna-hule-paddle-visit": {
     "photos": [
       "atlas-hule-crater"
+    ],
+    "videos": [
+      "hule-congo-field-film"
     ]
   },
   "laguna-hule-trail": {
     "photos": [
       "atlas-hule-crater"
+    ],
+    "videos": [
+      "hule-congo-field-film"
     ]
   },
   "laguna-rio-cuarto-paddle": {
     "galleries": [
-      "finca360-rio-cuarto-lake"
+      "finca360-rio-cuarto-lake",
+      "rio-cuarto-goout-atv"
+    ],
+    "videos": [
+      "rio-cuarto-kayak-field-film",
+      "rio-cuarto-road-launch-film"
     ]
   },
   "lagunillas-bajamar-gravel-21": {
@@ -2010,6 +2021,67 @@
   "arenal-balsa-adrenaline-12": {
     "videos": [
       "balsa-arenal-adrenaline-film"
+    ]
+  },
+  "guachipelin": {
+    "videos": [
+      "fb-crguide-rincon-adventure"
+    ]
+  },
+  "tronadora-roof": {
+    "videos": [
+      "tronadora-touristico-field-video"
+    ]
+  },
+  "tronadora-weekend-roof": {
+    "videos": [
+      "tronadora-touristico-field-video"
+    ]
+  },
+  "tres-equis-pacuare-farm-camp": {
+    "videos": [
+      "tres-equis-asomove-field-film"
+    ]
+  },
+  "tres-equis-pacuare-ebike-3": {
+    "videos": [
+      "tres-equis-asomove-field-film"
+    ]
+  },
+  "cabuya-lajas-montezuma-camp-2": {
+    "videos": [
+      "cabuya-fernando-morales-video"
+    ]
+  },
+  "maverick": {
+    "videos": [
+      "maverick-offshore-fleet-film"
+    ]
+  },
+  "herradura-trophy-fly-offshore": {
+    "videos": [
+      "maverick-offshore-fleet-film"
+    ],
+    "galleries": [
+      "trophy-maverick-triple-crown-2026"
+    ]
+  },
+  "samara-autogyro-camaronal": {
+    "videos": [
+      "samara-flywithus-archival-landing"
+    ]
+  },
+  "puerto-viejo-cahuita-ebike": {
+    "videos": [
+      "caribe-blandon-76-ride-video"
+    ]
+  },
+  "arenal-azucar-view-fire": {
+    "videos": [
+      "arenal-azucar-tvn-field-video"
+    ],
+    "galleries": [
+      "arenal-azucar-tvn-nov17-report"
     ]
   }
 }

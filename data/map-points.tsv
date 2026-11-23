@@ -360,7 +360,7 @@ tortuguero-cuatro-esquinas-station	Cuatro Esquinas · пост SINAC и вход
 tortuguero-cano-mora-mouth	Caño Mora · граница у основного канала	10.5285831	-83.5109775	osm-cr-points
 tortuguero-cano-mora-forest-sector	Caño Mora · лесной конец размеченной линии	10.5102686	-83.52969	osm-cr-points
 laguna-rio-cuarto-lake-center	Laguna Río Cuarto · центр озера	10.35604	-84.21687	mapcarta-laguna-rio-cuarto
-finca360-venecia-location	Finca 360° · гостиница в Венесии	10.313549	-84.2808227	finca360-rio-cuarto-lake
+finca360-venecia-location	Finca 360° · гостиница в Венесии	10.313549	-84.2808227	finca360-venecia-contact
 rio-cuarto-lake-approach-orientation	Laguna Río Cuarto · береговой ориентир из путеводителя	10.35782918	-84.21405616	finca360-rio-cuarto-lake
 savegre-el-brujo-community	El Brujo · береговой район и посёлок	9.4252355	-83.9439778	osm-cr-points
 savegre-el-silencio-community	El Silencio · посёлок в долине Savegre	9.4110724	-84.0270845	osm-cr-points
@@ -966,3 +966,5 @@ ranchito-mio-arrival	El Ranchito Mío · вход и встреча с гидо�
 wildcamp-la-forestal-road-end	Calle La Forestal · дорожная отметка у Wildcamp	10.249652	-84.558048	source-3f1-wildcamp-road
 pura-vista-calle-pavones-road	Calle Pavones · дорожная отметка у Pura Vista	10.116222	-84.72929	source-3f1-miramar-pavones-road
 finca-san-rafael-toro-road-pin	Finca San Rafael · опубликованный ориентир въезда	10.2648139	-84.2639139	san-rafael-author-waze
+rio-cuarto-goout-published-location	Go Out Tours · координаты организатора у Laguna Río Cuarto	10.356062	-84.217705	rio-cuarto-goout-atv
+rio-cuarto-west-mapped-road	Calle Laguna Río Cuarto · ориентир начала автомобильной линии	10.356388	-84.22082	rio-cuarto-finca-car-map

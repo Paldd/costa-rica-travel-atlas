@@ -422,6 +422,11 @@
         "point": "finca360-venecia-location",
         "role": "Венесия · Finca 360° и местная информация",
         "note": "Точка гостиницы. Инструкции по посещению водоёма приведены у оператора."
+      },
+      {
+        "point": "rio-cuarto-goout-published-location",
+        "role": "База и зона выхода на воду",
+        "note": "Координаты опубликовал Go Out Tours. Въезд к самой базе уточните у команды."
       }
     ],
     "sections": [
@@ -450,6 +455,16 @@
           "hule-ict",
           "finca360-bosque-alegre-hule"
         ]
+      },
+      {
+        "title": "Каяк, жилет и тень у берега",
+        "text": "Go Out Tours публикует варианты каяка примерно на час и отдельные тенты для дневного отдыха. Уточните подходящий жилет по весу ребёнка, наличие SUP, допуск собственной лодки и конкретную точку выхода. В роликах можно рассмотреть подход и берег в условиях тех визитов.",
+        "sources": [
+          "rio-cuarto-goout-catalog",
+          "rio-cuarto-goout-contact",
+          "rio-cuarto-kayak-field-film",
+          "rio-cuarto-road-launch-film"
+        ]
       }
     ],
     "contacts": [
@@ -459,13 +474,25 @@
         "note": "Уточните действующий береговой вход, спуск со своей доской или каяком, наличие проката и условия на день.",
         "phone": "+1 979 219 2868",
         "url": "https://finca360cr.com/es/actividades/laguna-de-rio-cuarto-es/"
+      },
+      {
+        "name": "Go Out Tours · квадроциклы и каяки",
+        "source": "rio-cuarto-goout-contact",
+        "note": "Запросите место старта, проезд к парковке, возраст и размеры экипировки. Для выхода только на воду попросите программу проката.",
+        "phone": "+506 8848 9087",
+        "whatsapp": "https://wa.me/50688489087",
+        "email": "info@goouttours.com",
+        "url": "https://goouttours.com/services"
       }
     ],
     "nearby": [
       "laguna-hule-paddle-visit",
       "laguna-hule-trail",
       "pozo-azul-toro-falls",
-      "pozo-azul-toro-camp"
+      "pozo-azul-toro-camp",
+      "rio-cuarto-goout-atv-kayak",
+      "venecia-finca360-lodge",
+      "rio-cuarto-hule-2"
     ]
   },
   "savegre-abajo-family-14": {

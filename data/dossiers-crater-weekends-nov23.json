@@ -1,0 +1,235 @@
+{
+  "rio-cuarto-goout-atv-kayak": {
+    "stops": [
+      {
+        "point": "rio-cuarto-goout-published-location",
+        "role": "База Go Out Tours · встреча по подтверждению",
+        "note": "Проверьте точную площадку для парковки. Персонал назначает дорогу к Поса-Ла-Флор и площадку спуска."
+      },
+      {
+        "point": "laguna-rio-cuarto-lake-center",
+        "role": "Лагуна · географический ориентир",
+        "note": "Место спуска и спокойный участок определяет команда. Маркер показывает само озеро."
+      }
+    ],
+    "track": "rio-cuarto-atv-rider-track",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Программа и длительность",
+        "text": "У организатора заявлены около трёх часов, обед, остановка у Поса-Ла-Флор и час каяка. В программу включены гид, шлем, парковка и страховка. На сайте есть фотографии с заездов.",
+        "sources": [
+          "rio-cuarto-goout-atv",
+          "rio-cuarto-goout-contact"
+        ]
+      },
+      {
+        "title": "Возраст, права и одежда",
+        "text": "По правилам команды водитель должен быть старше или ровно 18 лет и иметь действующие права типа A или B по условиям оператора. Пассажиров принимают с 10 лет. Возьмите закрытую обувь, репеллент, защиту от солнца, сухой комплект одежды и полотенце. Заранее запросите жилет подходящего размера.",
+        "sources": [
+          "rio-cuarto-goout-atv",
+          "rio-cuarto-goout-catalog"
+        ]
+      },
+      {
+        "title": "Трек участника и берег",
+        "text": "Авторский круг за февраль 2025 года составляет 12,54 км и включает отметки парковки у Поса-Ла-Флор. Откройте его для понимания местности. Маршрут и доступ к участкам на дату подтвердит проводник. Видео показывает выход на каяке на той же лагуне.",
+        "sources": [
+          "rio-cuarto-atv-rider-track",
+          "rio-cuarto-kayak-field-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Go Out Tours · квадроциклы и каяки",
+        "source": "rio-cuarto-goout-contact",
+        "note": "Запросите место старта, проезд к парковке, возраст и размеры экипировки. Для выхода только на воду попросите программу проката.",
+        "phone": "+506 8848 9087",
+        "whatsapp": "https://wa.me/50688489087",
+        "email": "info@goouttours.com",
+        "url": "https://goouttours.com/services"
+      }
+    ],
+    "galleries": [
+      "rio-cuarto-goout-atv",
+      "rio-cuarto-atv-rider-track",
+      "finca360-rio-cuarto-lake"
+    ],
+    "videos": [
+      "rio-cuarto-kayak-field-film",
+      "rio-cuarto-road-launch-film"
+    ],
+    "nearby": [
+      "laguna-rio-cuarto-paddle",
+      "venecia-finca360-lodge",
+      "rio-cuarto-hule-2"
+    ]
+  },
+  "venecia-finca360-lodge": {
+    "stops": [
+      {
+        "point": "finca360-venecia-location",
+        "role": "Гостиница и ориентир на заезд",
+        "note": "Телефон и пункт на карте опубликованы хозяевами. Въезд и парковку сверяйте с ними."
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Ночь и комнаты",
+        "text": "Посмотрите фотографии и планировку комнат. У Orquídea вид на долину. Для семьи заранее уточните кровати, питание, возможность раннего завтрака и время заезда.",
+        "sources": [
+          "finca360-venecia-rooms",
+          "finca360-venecia-gallery",
+          "finca360-venecia-contact"
+        ]
+      },
+      {
+        "title": "Что показала местная съёмка",
+        "text": "В репортаже TVN 2026 года показаны виды на северные равнины и рассказано о ночных прогулках с наблюдением за дикой природой. Уточните расписание у хозяев. Вечером пригодятся лёгкая тёплая одежда и фонарь.",
+        "sources": [
+          "finca360-tvn-field-report",
+          "finca360-tvn-field-film"
+        ]
+      },
+      {
+        "title": "Два разных озера от базы",
+        "text": "Прокат каяков можно организовать в Рио-Куарто. У второго озера, Laguna Hule, есть публичный пеший вход по координатам ICT. Закладывайте дополнительное время в дождь на грунтовых подъездах.",
+        "sources": [
+          "rio-cuarto-goout-catalog",
+          "finca360-rio-cuarto-lake",
+          "finca360-bosque-alegre-hule",
+          "hule-ict"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca 360° · бронирование",
+        "source": "finca360-venecia-contact",
+        "note": "Запросите вместимость для вашей семьи, меню, наличие ночной прогулки и инструкцию по подъезду после дождя.",
+        "phone": "+1 979 219 2868",
+        "whatsapp": "https://wa.me/19792192868",
+        "email": "finca360cr@gmail.com",
+        "url": "https://finca360cr.com/es/contacto/"
+      }
+    ],
+    "galleries": [
+      "finca360-venecia-gallery",
+      "finca360-venecia-rooms"
+    ],
+    "videos": [
+      "finca360-tvn-field-film"
+    ],
+    "nearby": [
+      "laguna-rio-cuarto-paddle",
+      "laguna-hule-trail",
+      "rio-cuarto-hule-2"
+    ]
+  },
+  "rio-cuarto-hule-2": {
+    "stops": [
+      {
+        "point": "rio-cuarto-goout-published-location",
+        "role": "День 1 · вода и оператор",
+        "note": "Начало каяка и адрес парковки подтвердите у Go Out Tours."
+      },
+      {
+        "point": "rio-cuarto-west-mapped-road",
+        "role": "День 1 · ориентир начала автомобильной линии",
+        "note": "Это точка дорожной сети. Оператор укажет, как доехать от фактического места выхода с воды."
+      },
+      {
+        "point": "finca360-venecia-location",
+        "role": "День 1 · ночлег в Венесии",
+        "note": "Съезд к гостинице подтвердите у хозяев перед поездкой."
+      },
+      {
+        "point": "hule-entry",
+        "role": "День 2 · официальный пеший вход",
+        "note": "Указанная ICT отправная точка. Безопасную парковку ищите по дорожным знакам."
+      },
+      {
+        "point": "hule-shore",
+        "role": "День 2 · ориентир на лагуне Уле",
+        "note": "Маркер обозначает озеро. Идите по открытой тропе от официального входа."
+      }
+    ],
+    "line": "rio-cuarto-hule-two-drives",
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Тихий вариант на первый день",
+        "text": "Выберите каяк на час, если хочется больше времени на берегу. Для активного дня есть отдельная трёхчасовая программа ATV с минимальным возрастом пассажира 10 лет. Для каяка и собственной лодки согласуйте состав группы и вход с оператором.",
+        "sources": [
+          "rio-cuarto-goout-atv",
+          "rio-cuarto-goout-catalog",
+          "rio-cuarto-kayak-field-film"
+        ]
+      },
+      {
+        "title": "Пешая тропа и дополнительная ветка",
+        "text": "От официального входа до Уле примерно километровый спуск. ICT описывает отдельный лесной отворот примерно 3 км до Конго. На ветку выходите с запасом времени, после проверки грязи и открытия. Для короткого дня достаточно Уле и возвращения тем же путём.",
+        "sources": [
+          "hule-ict",
+          "hule-plan",
+          "hule-congo-field-film"
+        ]
+      },
+      {
+        "title": "Линии на карте и экипировка",
+        "text": "На карте и в GPX показаны два расчётных автомобильных участка. Маршруты на воде, на квадроциклах и пешком размещены в отдельных карточках. Возьмите дождевик, обувь с протектором, сухой мешок и запас воды. Согласуйте подъезд и парковку после сильного дождя.",
+        "sources": [
+          "rio-cuarto-finca-car-map",
+          "finca-hule-car-map",
+          "finca360-bosque-alegre-hule"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Go Out Tours · квадроциклы и каяки",
+        "source": "rio-cuarto-goout-contact",
+        "note": "Запросите место старта, проезд к парковке, возраст и размеры экипировки. Для выхода только на воду попросите программу проката.",
+        "phone": "+506 8848 9087",
+        "whatsapp": "https://wa.me/50688489087",
+        "email": "info@goouttours.com",
+        "url": "https://goouttours.com/services"
+      },
+      {
+        "name": "Finca 360° · бронирование",
+        "source": "finca360-venecia-contact",
+        "note": "Запросите вместимость для вашей семьи, меню, наличие ночной прогулки и инструкцию по подъезду после дождя.",
+        "phone": "+1 979 219 2868",
+        "whatsapp": "https://wa.me/19792192868",
+        "email": "finca360cr@gmail.com",
+        "url": "https://finca360cr.com/es/contacto/"
+      },
+      {
+        "name": "ICT · публичный вход на Уле",
+        "source": "hule-ict",
+        "note": "Сверьте координаты входа и пеший доступ. Режим водного посещения уточняют у администрации территории."
+      }
+    ],
+    "photos": [
+      "atlas-hule-crater"
+    ],
+    "galleries": [
+      "finca360-venecia-gallery",
+      "finca360-rio-cuarto-lake"
+    ],
+    "videos": [
+      "rio-cuarto-kayak-field-film",
+      "hule-congo-field-film",
+      "finca360-tvn-field-film"
+    ],
+    "nearby": [
+      "laguna-rio-cuarto-paddle",
+      "rio-cuarto-goout-atv-kayak",
+      "venecia-finca360-lodge",
+      "laguna-hule-trail",
+      "laguna-hule-paddle-visit"
+    ]
+  }
+}

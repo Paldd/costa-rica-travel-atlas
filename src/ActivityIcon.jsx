@@ -2,7 +2,7 @@ import React from "react";
 import {
   Bike, Bird, CarFront, Coffee, Compass, Fish, Flame, Footprints,
   House, Landmark, Mountain, Plane, Route, Sailboat, Ship, Sun,
-  TentTree, TreePine, Truck, Waves, Wind, Zap,
+  TentTree, TreePine, Waves, Wind,
 } from "lucide-react";
 
 function sportIcon(drawing) {
@@ -42,6 +42,24 @@ const Mtb = sportIcon(<>
   <circle cx="5" cy="17" r="3" /><circle cx="19" cy="17" r="3" />
   <path d="m5 17 4-8 4 8h6l-3-8h3M7 9h5m-4-3 4-4 3 3m-4-2 1 3 1-1" />
 </>);
+const ElectricBike = sportIcon(<>
+  <circle cx="5" cy="17" r="3" /><circle cx="19" cy="17" r="3" />
+  <path d="m5 17 4-7 3 7h7l-3-9h3M7 10h4m3-8-3 4h4l-2 4" />
+</>);
+
+const Offroad = sportIcon(<>
+  <circle cx="6" cy="16.5" r="2.5" /><circle cx="18" cy="16.5" r="2.5" />
+  <path d="M3.5 15H2V9h3l2-4h9l4 5h2v5h-1.5M8.5 16.5h7M5 10h15M12 5v5M2 22l4-2 4 2 5-2 4 2 3-1" />
+</>);
+
+const Zipline = sportIcon(<>
+  <path d="m2 4 20 7m-11-4 1 5m-5 0 5 2 3-1m-3 1-2 3 4 1 3 3m-7-4-3 3-3 1" />
+  <circle cx="11" cy="10.5" r="1.5" />
+</>);
+
+const HotSpring = sportIcon(<>
+  <path d="M4 14c-4 5 1 8 8 8s12-3 8-8M5 17c3 2 11 2 14 0M8 13c2-3-2-4 0-7m4 7c3-5-3-5 0-11m4 11c2-3-2-4 0-7" />
+</>);
 
 const Buggy = sportIcon(<>
   <circle cx="5" cy="18" r="2.5" /><circle cx="19" cy="18" r="2.5" />
@@ -71,11 +89,11 @@ const TrailRun = sportIcon(<>
 </>);
 
 const groups = [
-  ["rides", Zap, "ebike"],
+  ["rides", ElectricBike, "ebike"],
   ["rides", Mtb, "mtb"],
   ["rides", Gravel, "gravel"],
   ["rides", Bike, "road-bike", "cycling"],
-  ["land", Truck, "offroad"],
+  ["land", Offroad, "offroad"],
   ["land", Buggy, "utv"],
   ["land", Quad, "atv"],
   ["land", RoofTent, "rooftent"],
@@ -94,7 +112,7 @@ const groups = [
   ["water", Sailboat, "catamaran"],
   ["water", Ship, "boat", "own-craft"],
   ["land", Plane, "scenic-flight"],
-  ["land", Flame, "thermal"],
+  ["water", HotSpring, "thermal"],
   ["nature", Canyoning, "canyoning"],
   ["nature", Mountain, "summit", "volcano", "cave"],
   ["nature", TrailRun, "trailrun"],
@@ -103,7 +121,8 @@ const groups = [
   ["land", Coffee, "coffee", "cafe"],
   ["land", Landmark, "history"],
   ["nature", Bird, "wildlife"],
-  ["nature", TreePine, "forest", "canopy", "horseback"],
+  ["nature", Zipline, "canopy"],
+  ["nature", TreePine, "forest", "horseback"],
   ["water", Sun, "beach", "white-sand", "dark-sand", "relax"],
   ["water", Waterfall, "waterfall"],
   ["water", Waves, "lake", "river"],
