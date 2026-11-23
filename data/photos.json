@@ -1492,5 +1492,14 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Solentiname1.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "osa-golfo-dulce-nasa": {
+    "file": "osa-golfo-dulce-nasa.jpg",
+    "alt": "Спутниковый вид на Гольфо-Дульсе и полуостров Оса",
+    "caption": "Гольфо-Дульсе и полуостров Оса · спутниковый снимок NASA World Wind · изображение уменьшено",
+    "author": "NASA World Wind",
+    "license": "Public domain",
+    "original": "https://commons.wikimedia.org/wiki/File:Golfo_Dulce_NASA.jpg",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Golfo_Dulce_NASA.jpg#Licensing"
   }
 }

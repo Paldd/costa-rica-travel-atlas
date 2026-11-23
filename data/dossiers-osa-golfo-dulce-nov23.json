@@ -1,0 +1,886 @@
+{
+  "playa-cativo-pan-dulce-lesson": {
+    "stops": [
+      {
+        "point": "cativo-lodge-gps",
+        "role": "Плайя-Кативо · лодж и место встречи",
+        "note": "Программа зависит от доступности и группы. Тропу, береговую высадку и вход на ферму ведёт команда лоджа.",
+        "activity": "boat"
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · ориентир у воды",
+        "note": "Уточните точную посадку, разгрузку и водителя. Здесь отмечен район муниципальной пристани.",
+        "activity": "boat"
+      },
+      {
+        "point": "pan-dulce-osa-shore",
+        "role": "Пан-Дульсе · место урока",
+        "note": "Согласуйте участок берега и время старта с инструктором. При изменении волны возможен перенос.",
+        "activity": "surf"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Порядок и время",
+        "text": "Посадка у лоджа, машина после причала, урок в песчаной бухте, обед и обратный трансфер. Около двух часов относятся к уроку. Всю поездку и окно прилива подтвердит оператор.",
+        "sources": [
+          "osa-cativo-paddle-to-surf-matapalo-owner",
+          "cativo-boat-transfer-contact"
+        ]
+      },
+      {
+        "title": "Для первого урока",
+        "text": "Сообщите возраст, рост и опыт каждого. Уточните, входят ли мягкая доска и лайкра, есть ли частный урок для ребёнка или начинающего и с кем могут поехать сопровождающие. Возьмите воду, сменную одежду и защиту от солнца.",
+        "sources": [
+          "osa-cativo-paddle-to-surf-matapalo-owner",
+          "playa-cativo-lodge-faq-owner",
+          "cabo-matapalo-aguaepipa"
+        ]
+      },
+      {
+        "title": "Другие варианты берега",
+        "text": "В отдельном полевом отчёте Qué Buen Lugar показаны разные пляжи полуострова. В каталог также добавлены самостоятельная логистика урока и отдельная карточка Бэквош для опытных.",
+        "sources": [
+          "media-osa-matapalo-qbl-beaches",
+          "cabo-matapalo-aguaepipa",
+          "media-qbl-cabo-matapalo-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Cativo Lodge · программы, лодка и размещение",
+        "source": "playa-cativo-contact-location-owner",
+        "note": "Попросите время посадки, стоимость, минимальный возраст конкретной экскурсии и пин встречи.",
+        "url": "https://www.playacativo.com/about/contact-and-location"
+      }
+    ],
+    "galleries": [
+      "osa-cativo-paddle-to-surf-matapalo-owner",
+      "media-osa-matapalo-qbl-beaches"
+    ],
+    "videos": [
+      "media-qbl-cabo-matapalo-film",
+      "playa-cativo-lodge-original-video"
+    ],
+    "photos": [
+      "puerto-jimenez-sunrise-badilla"
+    ],
+    "nearby": [
+      "golfito-playa-cativo-lodge-boat",
+      "osa-pan-dulce-lesson",
+      "cabo-matapalo-backwash",
+      "cabo-matapalo-king-louis-guided-rappel",
+      "playa-cativo-golfo-dulce-matapalo-4"
+    ],
+    "line": "osa-jimenez-pan-dulce-transfer"
+  },
+  "playa-cativo-reserve-cayetano-walk": {
+    "stops": [
+      {
+        "point": "cativo-lodge-gps",
+        "role": "Плайя-Кативо · лодж и место встречи",
+        "note": "Программа зависит от доступности и группы. Тропу, береговую высадку и вход на ферму ведёт команда лоджа.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Две прогулки на выбор",
+        "text": "На вводной прогулке знакомят с основными экосистемами, включая лес, болота, пляж и угодья. Маршрут резерва отдельно включает посещение органической фермы. Если нужен короткий выход с детьми, спросите о первом варианте.",
+        "sources": [
+          "osa-cativo-rainforest-intro-owner",
+          "osa-cativo-finca-cayetano-owner"
+        ]
+      },
+      {
+        "title": "Что проверить у принимающей команды",
+        "text": "На странице лоджа нет длины и подъёма. Запросите схему разрешённой тропы, наличие ступеней и дождевой вариант. Пригодятся закрытая обувь, вода, дождевик и бинокль.",
+        "sources": [
+          "osa-cativo-finca-cayetano-owner",
+          "playa-cativo-lodge-faq-owner"
+        ]
+      },
+      {
+        "title": "Полевой рассказ о месте",
+        "text": "Vamos a Turistear описывает сам берег и выход из Гольфито. Для фермы и видов на тропе используйте галерею программы владельца.",
+        "sources": [
+          "playa-cativo-vamos-field",
+          "osa-cativo-finca-cayetano-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Cativo Lodge · программы, лодка и размещение",
+        "source": "playa-cativo-contact-location-owner",
+        "note": "Попросите время посадки, стоимость, минимальный возраст конкретной экскурсии и пин встречи.",
+        "url": "https://www.playacativo.com/about/contact-and-location"
+      }
+    ],
+    "galleries": [
+      "osa-cativo-finca-cayetano-owner",
+      "osa-cativo-rainforest-intro-owner",
+      "playa-cativo-vamos-field"
+    ],
+    "videos": [
+      "playa-cativo-lodge-original-video"
+    ],
+    "photos": [
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "golfito-playa-cativo-lodge-boat",
+      "playa-cativo-guided-night-forest",
+      "golfito-cativo-rio-esquinas-kayak",
+      "playa-cativo-golfo-dulce-matapalo-4"
+    ]
+  },
+  "playa-cativo-guided-night-forest": {
+    "stops": [
+      {
+        "point": "cativo-lodge-gps",
+        "role": "Плайя-Кативо · лодж и место встречи",
+        "note": "Программа зависит от доступности и группы. Тропу, береговую высадку и вход на ферму ведёт команда лоджа.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Вечерний темп",
+        "text": "Рассчитывайте на остановки в темноте. Для ребёнка уточните допустимый возраст, длину и возможность завершить прогулку раньше с проводником.",
+        "sources": [
+          "osa-cativo-nocturnal-owner",
+          "playa-cativo-lodge-faq-owner"
+        ]
+      },
+      {
+        "title": "Связь и снаряжение",
+        "text": "Подтвердите место встречи и условия ночёвки. Дождевик, закрытая обувь, сухой пакет для телефона и фонарь пригодятся на подходе. Уточните режим наблюдения за животными.",
+        "sources": [
+          "osa-cativo-nocturnal-owner",
+          "playa-cativo-contact-location-owner"
+        ]
+      },
+      {
+        "title": "Как выглядит территория",
+        "text": "Обзорный фильм лоджа показывает берег и лес. На странице ночного выхода есть изображение ночной амфибии и описание времени.",
+        "sources": [
+          "playa-cativo-lodge-original-video",
+          "osa-cativo-nocturnal-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Cativo Lodge · программы, лодка и размещение",
+        "source": "playa-cativo-contact-location-owner",
+        "note": "Попросите время посадки, стоимость, минимальный возраст конкретной экскурсии и пин встречи.",
+        "url": "https://www.playacativo.com/about/contact-and-location"
+      }
+    ],
+    "galleries": [
+      "osa-cativo-nocturnal-owner",
+      "osa-cativo-rainforest-intro-owner"
+    ],
+    "videos": [
+      "playa-cativo-lodge-original-video"
+    ],
+    "photos": [
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "golfito-playa-cativo-lodge-boat",
+      "playa-cativo-reserve-cayetano-walk",
+      "playa-cativo-golfo-dulce-matapalo-4",
+      "golfito-cativo-rio-esquinas-kayak"
+    ]
+  },
+  "puerto-jimenez-carate-route-245-4x4": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · сбор и пополнение запасов",
+        "note": "Проверьте связь, прогноз для Карате, состояние RN245 и обратный выезд.",
+        "activity": "car"
+      },
+      {
+        "point": "osa-carate",
+        "role": "Карате · конец дорожной части",
+        "note": "Ориентир у берега. Присланный хозяевами пин стоянки и входа сверяйте отдельно.",
+        "activity": "car"
+      },
+      {
+        "point": "osa-luna-lodge-landmark",
+        "role": "Luna Lodge · запрос на крышную палатку",
+        "note": "Положение лоджа. Стоянку автомобиля, разрешение на крышную палатку и последний подъезд подтвердите напрямую.",
+        "activity": "rooftent"
+      },
+      {
+        "point": "carate-leona-ecolodge-area",
+        "role": "La Leona Eco Lodge · размещение у леса",
+        "note": "Пешая логистика от парковки в Карате согласуется с лоджем. Для визита в парк действуют отдельные условия SINAC.",
+        "activity": "glamping"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Дорожный расчёт и мосты",
+        "text": "От центра до дорожного ориентира около 42,4 км, возвращаются по этой же дороге. В 2022 власти передали пять мостов, в 2025 MOPT сообщал о работах на Тамалесе и Коросале. У хозяев узнайте текущее состояние каждого нужного участка.",
+        "sources": [
+          "osa-carate-rn245-road-geometry",
+          "osa-carate-rn245-bridges-2022",
+          "osa-carate-mopt-bridges-2025",
+          "osa-luna-how-to-road"
+        ]
+      },
+      {
+        "title": "Крышная палатка и глэмпинг",
+        "text": "Costa Rica Camping Guide рассказывает о крышных палатках на стоянке Luna Lodge. Подтвердите площадку и последние километры по телефону. La Leona Eco Lodge публикует палаточное размещение и отдельный пеший подход. Костровую зону спрашивайте у принимающих хозяев.",
+        "sources": [
+          "osa-luna-rooftop-field",
+          "osa-luna-how-to-road",
+          "carate-leona-ecolodge-contact",
+          "carate-leona-ecolodge-tents"
+        ]
+      },
+      {
+        "title": "План при непогоде",
+        "text": "До выезда сообщите маршрут принимающим хозяевам. При ливнях ночуйте в Пуэрто-Хименесе или рассмотрите локальный трансфер. Из снаряжения пригодятся вода, запаска, фонарь, сухая одежда, аптечка и сохранённые контакты сопровождения.",
+        "sources": [
+          "osa-carros506-carate-4x4-field",
+          "osa-luna-how-to-road"
+        ]
+      },
+      {
+        "title": "Что посмотреть у берега",
+        "text": "Для рассветной прогулки с местной природоохранной командой есть COPROT. Для посещения сектора Ла-Леона нужны отдельная программа и условия SINAC.",
+        "sources": [
+          "osa-carate-coprot-guided-patrol-owner",
+          "corcovado"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Luna Lodge · подъезд и ночёвка",
+        "source": "osa-luna-how-to-road",
+        "note": "Дайте длину и высоту машины в походной комплектации. Запросите площадку, стоимость, туалет, воду, возможность костра и время заезда.",
+        "phone": "+506 4070 0010",
+        "url": "https://lunalodge.com/how-to-get-here-luna-lodge/"
+      },
+      {
+        "name": "La Leona Eco Lodge · размещение и пешая часть",
+        "source": "carate-leona-ecolodge-contact",
+        "note": "Сверьте место парковки, доступ с багажом и возможность позднего приезда.",
+        "url": "https://laleonaecolodge.com/pages/contact.html"
+      }
+    ],
+    "galleries": [
+      "osa-carros506-carate-4x4-field",
+      "osa-luna-rooftop-field",
+      "carate-leona-ecolodge-tents"
+    ],
+    "videos": [
+      "osa-carate-road-movilistica",
+      "osa-carate-piro-leahy-video"
+    ],
+    "photos": [
+      "osa-carate-historical-coast",
+      "puerto-jimenez-sunrise-badilla"
+    ],
+    "nearby": [
+      "osa-luna-lodge-rooftent",
+      "carate-la-leona-tented-lodge",
+      "puerto-jimenez-carate-gravel-mtb-2",
+      "rancho-piro-beach-waterfall-horse",
+      "carate-coprot-nesting-patrol",
+      "corcovado-leona",
+      "osa-two-camps-roof-3"
+    ],
+    "line": "osa-jimenez-carate-road-outbound",
+    "accessNotice": {
+      "title": "Подъезд и ночёвка по согласованию",
+      "text": "Спросите принимающую команду о состоянии Ruta 245 в обе стороны, последнем подъезде и месте стоянки. После закрытия дождитесь подтверждения открытия от местных служб и хозяев.",
+      "sources": [
+        "osa-carate-mopt-bridges-2025",
+        "osa-luna-how-to-road",
+        "osa-luna-rooftop-field"
+      ]
+    }
+  },
+  "puerto-jimenez-carate-gravel-mtb-2": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · сбор и пополнение запасов",
+        "note": "Проверьте связь, прогноз для Карате, состояние RN245 и обратный выезд.",
+        "activity": "car"
+      },
+      {
+        "point": "osa-carate",
+        "role": "Карате · конец дорожной части",
+        "note": "Ориентир у берега. Присланный хозяевами пин стоянки и входа сверяйте отдельно.",
+        "activity": "car"
+      },
+      {
+        "point": "osa-luna-lodge-landmark",
+        "role": "Luna Lodge · запрос на крышную палатку",
+        "note": "Положение лоджа. Стоянку автомобиля, разрешение на крышную палатку и последний подъезд подтвердите напрямую.",
+        "activity": "rooftent"
+      },
+      {
+        "point": "carate-leona-ecolodge-area",
+        "role": "La Leona Eco Lodge · размещение у леса",
+        "note": "Пешая логистика от парковки в Карате согласуется с лоджем. Для визита в парк действуют отдельные условия SINAC.",
+        "activity": "glamping"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Километраж и исторический опыт",
+        "text": "Расчёт для двух направлений около 84,8 км. Отдельный отчёт Very показывает поездку в марте 2015 года, 47,65 км в одну сторону и +450 м; автор отмечал жару и влажность. Проезжая часть с тех пор менялась, поэтому у оценки есть дата и отдельная ссылка.",
+        "sources": [
+          "osa-carate-rn245-road-geometry",
+          "osa-carate-very-cycle-track-2015",
+          "osa-carate-rn245-bridges-2022",
+          "osa-carate-mopt-bridges-2025"
+        ]
+      },
+      {
+        "title": "Как выбрать велосипед",
+        "text": "Гравел с подходящими покрышками для неровного грунта или MTB. Osa Bike Tours публикует прокат MTB. Согласуйте именно двухдневный выезд, перевозку, насос, запаску и инструмент. Подтвердите состояние маршрута засветло.",
+        "sources": [
+          "osa-carate-very-cycle-track-2015",
+          "osa-bike-tour-direct",
+          "osa-luna-how-to-road"
+        ]
+      },
+      {
+        "title": "Поддержка и ночлег",
+        "text": "Спросите у лоджа, где оставить велосипед и наполнить фляги. Машина поддержки должна помещать людей и велосипеды. Если погода испортилась, дождитесь безопасного транспорта или перенесите участок.",
+        "sources": [
+          "carate-leona-ecolodge-contact",
+          "osa-luna-how-to-road"
+        ]
+      },
+      {
+        "title": "Более короткие выезды",
+        "text": "До Кабо-Матапало есть отдельный маршрут на 39,5 км. Пресьоса даёт около 10,8 км туда и обратно по береговой дороге. Это разные выезды с отдельными картами.",
+        "sources": [
+          "osa-carate-rn245-road-geometry",
+          "osa-preciosa-ebike-road-geometry",
+          "osa-carate-very-cycle-track-2015"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Bike Tours · MTB и местный гид",
+        "source": "osa-bike-tour-direct",
+        "note": "Спросите про размер рамы, день возврата, запаску, прокол в пути и вариант забрать велосипед при закрытии дороги.",
+        "url": "https://www.osatourism.com/osa-bike-tour-company/"
+      },
+      {
+        "name": "Luna Lodge · подъезд и ночёвка",
+        "source": "osa-luna-how-to-road",
+        "note": "Дайте длину и высоту машины в походной комплектации. Запросите площадку, стоимость, туалет, воду, возможность костра и время заезда.",
+        "phone": "+506 4070 0010",
+        "url": "https://lunalodge.com/how-to-get-here-luna-lodge/"
+      },
+      {
+        "name": "La Leona Eco Lodge · размещение и пешая часть",
+        "source": "carate-leona-ecolodge-contact",
+        "note": "Сверьте место парковки, доступ с багажом и возможность позднего приезда.",
+        "url": "https://laleonaecolodge.com/pages/contact.html"
+      }
+    ],
+    "galleries": [
+      "osa-carate-very-cycle-track-2015",
+      "osa-carros506-carate-4x4-field",
+      "carate-leona-ecolodge-tents"
+    ],
+    "videos": [
+      "osa-carate-road-movilistica",
+      "osa-carate-piro-leahy-video"
+    ],
+    "photos": [
+      "osa-carate-historical-coast",
+      "puerto-jimenez-sunrise-badilla"
+    ],
+    "nearby": [
+      "puerto-jimenez-carate-route-245-4x4",
+      "osa-luna-lodge-rooftent",
+      "carate-la-leona-tented-lodge",
+      "puerto-jimenez-playa-preciosa-ebike",
+      "puerto-jimenez-matapalo-gravel-ride",
+      "osa-dos-brazos-guided-mtb"
+    ],
+    "line": "osa-jimenez-carate-road-outbound",
+    "track": "osa-carate-very-cycle-track-2015",
+    "accessNotice": {
+      "title": "Дорога и машина поддержки по согласованию",
+      "text": "Уточните текущие дорожные работы и проезд на оба дня. Согласуйте с хозяевами или прокатом вывоз велосипедов при переносе.",
+      "sources": [
+        "osa-carate-mopt-bridges-2025",
+        "osa-luna-how-to-road",
+        "osa-carate-very-cycle-track-2015"
+      ]
+    }
+  },
+  "rancho-piro-beach-waterfall-horse": {
+    "stops": [
+      {
+        "point": "osa-playa-piro-shore",
+        "role": "Берег у Плайя-Пиро",
+        "note": "Геометка пляжа. Старт и окончание конной программы уточните у хозяев. К водопаду другая ветка.",
+        "activity": "horseback"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Разница между программами",
+        "text": "Osa Tourism указывает около 2½ часа к пляжу и 3½ часа к водопаду. Местный партнёр описывает примерно два и четыре часа соответственно. Уточните последнее расписание и откуда начинается подготовка лошадей.",
+        "sources": [
+          "osa-rancho-piro-horse-osatourism",
+          "osa-rancho-piro-sanchez-host"
+        ]
+      },
+      {
+        "title": "Лошади, экипировка и дорога",
+        "text": "Сообщите рост, вес, возраст и опыт участников. Запросите шлем, закрытую обувь и лимит группы. Находящийся на карте пляж служит ориентиром района. Организатор сообщит безопасный проезд и место встречи.",
+        "sources": [
+          "osa-rancho-piro-horse-osatourism",
+          "osa-rancho-piro-sanchez-host",
+          "osa-playa-piro-mapcarta",
+          "osa-carate-rn245-bridges-2022"
+        ]
+      },
+      {
+        "title": "Обед и берег",
+        "text": "У принимающей семьи можно уточнить традиционный обед и продукты. Прибой и уровень воды меняют остановки у берега. Приложены кадры района Пиро и Карате и фотостраница местного партнёра.",
+        "sources": [
+          "osa-rancho-piro-horse-osatourism",
+          "osa-rancho-piro-sanchez-host",
+          "osa-carate-piro-leahy-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Tourism · связь с местными организаторами",
+        "source": "osa-rancho-piro-horse-osatourism",
+        "note": "Запросите контакт команды, карту встречи, вариант программы и цену на свою дату.",
+        "email": "info@osatourism.com",
+        "url": "https://www.osatourism.com/rancho-piro-horse-riding-osa-peninsula/"
+      },
+      {
+        "name": "Naturaleza y Gracia · региональный партнёр Rancho Piro",
+        "source": "osa-rancho-piro-sanchez-host",
+        "note": "Попросите телефон команды Мигеля, пин старта и условия для детей.",
+        "url": "https://www.naturaleza-y-gracia.com/horseback-riding"
+      }
+    ],
+    "galleries": [
+      "osa-rancho-piro-horse-osatourism",
+      "osa-rancho-piro-sanchez-host"
+    ],
+    "videos": [
+      "osa-carate-piro-leahy-video"
+    ],
+    "nearby": [
+      "puerto-jimenez-carate-route-245-4x4",
+      "carate-coprot-nesting-patrol",
+      "carate-la-leona-tented-lodge",
+      "cabo-matapalo-king-louis-guided-rappel"
+    ]
+  },
+  "puerto-jimenez-sunset-bioluminescence-kayak": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · ориентир в центре",
+        "note": "Точный офис и слип подтверждает команда. Привязка офиса и отзывы открываются на Google Maps.",
+        "activity": "kayak"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Опубликованный распорядок",
+        "text": "На странице встреча в 16:20, старт около 16:30 и возвращение около 19:30. Перед выездом подтвердите расписание и встречу. Возвращение и поиск транспорта после темноты.",
+        "sources": [
+          "osa-jimenez-corcovado-wild-night-kayak",
+          "osa-jimenez-corcovado-wild-contact"
+        ]
+      },
+      {
+        "title": "Для семьи и начинающих",
+        "text": "Оператор принимает начинающих. Уточните минимальный возраст, тандем, детский жилет и возможный укороченный вариант. Возьмите быстро сохнущую одежду, сухой мешок и воду. Спрашивайте о погоде, сопровождении и освещении.",
+        "sources": [
+          "osa-jimenez-corcovado-wild-night-kayak",
+          "osa-jimenez-corcovado-wild-contact"
+        ]
+      },
+      {
+        "title": "Фото и условия явления",
+        "text": "Отзывы по ссылке относятся к работе проводника, включая другие выезды. Видео другой команды показывает тот же залив. Фотографии вашего организатора есть на странице программы. Видимость планктона зависит от воды, света и текущей обстановки.",
+        "sources": [
+          "osa-jimenez-corcovado-wild-night-kayak",
+          "osa-jimenez-corcovado-wild-google",
+          "osa-jimenez-golfo-dulce-bioluminescence-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Corcovado Wild Tours · Хайро Ривера и команда",
+        "source": "osa-jimenez-corcovado-wild-contact",
+        "note": "Уточните точку встречи, жилет, возраст, освещение, компанию после темноты и отмену при ветре.",
+        "url": "https://corcovadowildtours.com/contact/",
+        "phone": "+506 8450 6783",
+        "email": "info@corcovadowildtours.com"
+      }
+    ],
+    "galleries": [
+      "osa-jimenez-corcovado-wild-night-kayak"
+    ],
+    "videos": [
+      "osa-jimenez-golfo-dulce-bioluminescence-film"
+    ],
+    "photos": [
+      "puerto-jimenez-sunrise-badilla",
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "puerto-jimenez-playa-preciosa-ebike",
+      "golfito-cativo-rio-esquinas-kayak",
+      "puerto-jimenez-inshore-boat",
+      "golfito-playa-cativo-lodge-boat"
+    ]
+  },
+  "corcovado-sirena-helicopter-hike": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-town-center",
+        "role": "Пуэрто-Хименес · один из городов вылета",
+        "note": "Пин города. Площадку для выбранного рейса назначает авиаоператор. Возможны также Гольфито и Дрейк.",
+        "activity": "scenic-flight"
+      },
+      {
+        "point": "osa-sirena-station",
+        "role": "Сирена · район станции",
+        "note": "Здесь в программе обед, встреча с натуралистом и прогулка на допущенных тропах. Траекторию и посадочную точку определяет оператор.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что входит и когда летят",
+        "text": "Оператор перечисляет разрешение на посадку, входные сборы, натуралиста и обед. На странице указаны варианты вылета из трёх городов. Уточните стоимость группы, действующее разрешение и возврат при непогоде на дату выезда.",
+        "sources": [
+          "osa-adventure-air-sirena-program",
+          "osa-adventure-air-reservations",
+          "osa-sirena-sinac"
+        ]
+      },
+      {
+        "title": "Сколько придётся идти",
+        "text": "Страница оператора приводит два числа для пешей части, около трёх и пяти часов. Попросите прислать согласованную программу и возможность короткого варианта. Возьмите защиту от дождя, воду, обувь для влажной тропы и заявленный лёгкий багаж.",
+        "sources": [
+          "osa-adventure-air-sirena-program",
+          "corcovado"
+        ]
+      },
+      {
+        "title": "Как читать карту и фото",
+        "text": "На карте отмечены район города вылета и станция. Галерея показывает станцию в 2025 году и спутниковый вид полуострова. Видео Jeff Hyer снято на тропах и у станции. У Adventure Air есть фотографии своей программы.",
+        "sources": [
+          "osa-adventure-air-sirena-program",
+          "osa-adventure-air-jimenez-town",
+          "osa-sirena-sinac",
+          "osa-sirena-hyer-field-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Adventure Air · бронирование и авиационная логистика",
+        "source": "osa-adventure-air-reservations",
+        "note": "Подтвердите место сбора, разрешения, ограничения багажа и расписание прогулки.",
+        "url": "https://www.flyadventureair.com/book/",
+        "phone": "+506 6022 3778"
+      }
+    ],
+    "galleries": [
+      "osa-adventure-air-sirena-program"
+    ],
+    "photos": [
+      "atlas-sirena-corco",
+      "osa-golfo-dulce-nasa"
+    ],
+    "nearby": [
+      "corcovado-sirena",
+      "corcovado-leona",
+      "golfito-playa-cativo-lodge-boat",
+      "puerto-jimenez-carate-route-245-4x4"
+    ],
+    "videos": [
+      "osa-sirena-hyer-field-video"
+    ]
+  },
+  "carate-coprot-nesting-patrol": {
+    "stops": [
+      {
+        "point": "osa-carate",
+        "role": "Карате · район базы Mariposa Azul",
+        "note": "На карте общедоступный дорожный ориентир. Организатор подтверждает встречу, актуальный подход и ночёвку.",
+        "activity": "wildlife"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Утро и вечер",
+        "text": "Рассветная программа включает поиск следов и визит к инкубатору. Ночью наблюдают за берегом с командой. У пакета с ночёвкой есть обе прогулки и завтрак. В письме спросите часы, тариф, формат размещения и питание.",
+        "sources": [
+          "osa-carate-coprot-guided-patrol-owner",
+          "osa-carate-coprot-base-camp-owner",
+          "osa-carate-coprot-conservation-owner"
+        ]
+      },
+      {
+        "title": "Возраст и питание",
+        "text": "Страница COPROT описывает льготу для детей в базовых программах. Подтвердите возраст и цену напрямую, особенно для ночёвки. Для пешей части пригодятся закрытая обувь, вода и сменный комплект. Правила подсветки задаёт проводник.",
+        "sources": [
+          "osa-carate-coprot-guided-patrol-owner",
+          "osa-carate-coprot-local-tourism"
+        ]
+      },
+      {
+        "title": "Как попасть на берег",
+        "text": "После темноты удобнее оставаться рядом с принимающей командой. Спросите о состоянии RN245 на выезд и возврат. Короткий выезд к другой части побережья планируйте через карточку Пиро.",
+        "sources": [
+          "osa-carate-coprot-base-camp-owner",
+          "osa-carate-rn245-road-geometry",
+          "osa-luna-how-to-road"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "COPROT · запись на наблюдения",
+        "source": "osa-carate-coprot-guided-patrol-owner",
+        "note": "Попросите текущий тариф, точку встречи, условия детям и ночёвку.",
+        "email": "tortugasdeosa@gmail.com",
+        "url": "https://www.tortugasdeosa.org/tours"
+      }
+    ],
+    "galleries": [
+      "osa-carate-coprot-guided-patrol-owner",
+      "osa-carate-coprot-base-camp-owner",
+      "osa-carate-coprot-conservation-owner"
+    ],
+    "videos": [
+      "osa-carate-piro-leahy-video"
+    ],
+    "photos": [
+      "osa-carate-historical-coast"
+    ],
+    "nearby": [
+      "puerto-jimenez-carate-route-245-4x4",
+      "carate-la-leona-tented-lodge",
+      "osa-luna-lodge-rooftent",
+      "rancho-piro-beach-waterfall-horse",
+      "corcovado-leona"
+    ]
+  },
+  "cabo-matapalo-king-louis-guided-rappel": {
+    "stops": [
+      {
+        "point": "backwash-matapalo-road-bend",
+        "role": "Кабо-Матапало · дорожный ориентир",
+        "note": "Место встречи и разрешённую тропу к водопаду укажет выбранная команда.",
+        "activity": "canyoning"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Выбор программы",
+        "text": "IrthTours описывает два каскада и выдачу технического комплекта. Naturaleza y Gracia публикует программу партнёра Everyday Adventures. Если нужен только пеший участок, запросите вариант напрямую у владельца тропы или гида.",
+        "sources": [
+          "osa-matapalo-king-louis-irthtours",
+          "osa-matapalo-king-louis-everyday-adventures-host",
+          "osa-matapalo-bosque-cabo-trails-owner"
+        ]
+      },
+      {
+        "title": "Что подтвердить у гида",
+        "text": "Укажите опыт, возраст, вес и ограничения движения. Согласуйте при дожде, кто решает о переносе и как меняется программа. Запросите список снаряжения, подходящую обувь и время подъезда.",
+        "sources": [
+          "osa-matapalo-king-louis-irthtours",
+          "osa-matapalo-king-louis-everyday-adventures-host",
+          "osa-carate-coprot-local-tourism"
+        ]
+      },
+      {
+        "title": "Фото и ориентиры",
+        "text": "Панорама показывает сам водопад. Видеоматериал Qué Buen Lugar показывает побережье полуострова. Для каждого организатора узнайте отдельно, где начинается подход.",
+        "sources": [
+          "osa-matapalo-king-louis-discover-panorama",
+          "media-qbl-cabo-matapalo-film",
+          "cabo-matapalo-aguaepipa"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "IrthTours · каскады и проводник",
+        "source": "osa-matapalo-king-louis-irthtours",
+        "note": "Запросите программу, возраст, посадку, местный трансфер и условия отмены.",
+        "url": "https://www.irthtours.com/product-page/waterfall-rappelling"
+      },
+      {
+        "name": "Naturaleza y Gracia · партнёр Everyday Adventures",
+        "source": "osa-matapalo-king-louis-everyday-adventures-host",
+        "note": "Спросите о формате пешей прогулки и спуска и запросите прямую связь с гидом.",
+        "url": "https://www.naturaleza-y-gracia.com/tree-climb-waterfall-rappel"
+      }
+    ],
+    "galleries": [
+      "osa-matapalo-king-louis-discover-panorama",
+      "osa-matapalo-king-louis-irthtours",
+      "osa-matapalo-king-louis-everyday-adventures-host"
+    ],
+    "videos": [
+      "media-qbl-cabo-matapalo-film"
+    ],
+    "nearby": [
+      "playa-cativo-pan-dulce-lesson",
+      "rancho-piro-beach-waterfall-horse",
+      "puerto-jimenez-carate-route-245-4x4",
+      "cabo-matapalo-backwash"
+    ],
+    "accessNotice": {
+      "title": "Подход с местной командой",
+      "text": "Уточните право прохода, точку встречи и условия воды. Пин показывает район Кабо-Матапало, где организатор встречает по согласованию.",
+      "sources": [
+        "osa-matapalo-king-louis-irthtours",
+        "osa-matapalo-king-louis-everyday-adventures-host",
+        "osa-matapalo-bosque-cabo-trails-owner"
+      ]
+    }
+  },
+  "playa-cativo-golfo-dulce-matapalo-4": {
+    "stops": [
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Гольфито · район пассажирских причалов",
+        "note": "Подтвердите точный причал лоджа, время и пересадку.",
+        "activity": "boat"
+      },
+      {
+        "point": "cativo-lodge-gps",
+        "role": "Плайя-Кативо · лодж и место встречи",
+        "note": "Программа зависит от доступности и группы. Тропу, береговую высадку и вход на ферму ведёт команда лоджа.",
+        "activity": "boat"
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · ориентир у воды",
+        "note": "Уточните точную посадку, разгрузку и водителя. Здесь отмечен район муниципальной пристани.",
+        "activity": "boat"
+      },
+      {
+        "point": "pan-dulce-osa-shore",
+        "role": "Пан-Дульсе · место урока",
+        "note": "Согласуйте участок берега и время старта с инструктором. При изменении волны возможен перенос.",
+        "activity": "surf"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Порядок бронирований",
+        "text": "Запросите трансфер и три ночи. Затем согласуйте четыре программы и подтверждённое время возврата. Получите состав включённых услуг, окна прилива и условия отмены.",
+        "sources": [
+          "cativo-boat-transfer-contact",
+          "playa-cativo-lodge-faq-owner",
+          "osa-cativo-paddle-to-surf-matapalo-owner",
+          "cativo-mangrove-kayak"
+        ]
+      },
+      {
+        "title": "Как устроен маршрут на карте",
+        "text": "Посадка, пересадка и пляж видны как отдельные точки. Прорисована наземная часть Пуэрто-Хименес → Пан-Дульсе. Для частных лесных троп и маршрута лодки действуют ориентиры и согласование с хозяевами.",
+        "sources": [
+          "osa-matapalo-pan-dulce-road-geometry",
+          "osa-cativo-paddle-to-surf-matapalo-owner",
+          "cativo-boat-transfer-contact",
+          "osa-cativo-finca-cayetano-owner"
+        ]
+      },
+      {
+        "title": "Варианты по погоде и группе",
+        "text": "Держите береговую прогулку и ферму как варианты на день без урока. Подтвердите с лоджем возраст, обувь, жилет, доску, электричество ночью, диеты и ранний выезд.",
+        "sources": [
+          "playa-cativo-lodge-faq-owner",
+          "osa-cativo-finca-cayetano-owner",
+          "osa-cativo-nocturnal-owner",
+          "osa-cativo-paddle-to-surf-matapalo-owner"
+        ]
+      },
+      {
+        "title": "Сторонний взгляд",
+        "text": "Vamos a Turistear показывает местную логистику и берег Кативо. Qué Buen Lugar снимали южные пляжи Оса, в том числе Пан-Дульсе. Фильмы относятся к разным частям поездки.",
+        "sources": [
+          "playa-cativo-vamos-field",
+          "media-qbl-cabo-matapalo-film",
+          "playa-cativo-lodge-original-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Cativo Lodge · программы, лодка и размещение",
+        "source": "playa-cativo-contact-location-owner",
+        "note": "Попросите время посадки, стоимость, минимальный возраст конкретной экскурсии и пин встречи.",
+        "url": "https://www.playacativo.com/about/contact-and-location"
+      }
+    ],
+    "galleries": [
+      "osa-cativo-finca-cayetano-owner",
+      "osa-cativo-paddle-to-surf-matapalo-owner",
+      "playa-cativo-vamos-field",
+      "media-osa-matapalo-qbl-beaches"
+    ],
+    "videos": [
+      "playa-cativo-lodge-original-video",
+      "media-qbl-cabo-matapalo-film"
+    ],
+    "photos": [
+      "puerto-jimenez-sunrise-badilla",
+      "outings-golfo-dulce",
+      "osa-golfo-dulce-nasa"
+    ],
+    "nearby": [
+      "golfito-playa-cativo-lodge-boat",
+      "playa-cativo-reserve-cayetano-walk",
+      "playa-cativo-guided-night-forest",
+      "playa-cativo-pan-dulce-lesson",
+      "golfito-cativo-rio-esquinas-kayak",
+      "puerto-jimenez-playa-preciosa-ebike",
+      "puerto-jimenez-sunset-bioluminescence-kayak"
+    ],
+    "line": "osa-jimenez-pan-dulce-transfer"
+  }
+}

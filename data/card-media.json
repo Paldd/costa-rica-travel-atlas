@@ -346,7 +346,11 @@
   },
   "corcovado-sirena": {
     "photos": [
-      "atlas-sirena-corco"
+      "atlas-sirena-corco",
+      "osa-golfo-dulce-nasa"
+    ],
+    "videos": [
+      "osa-sirena-hyer-field-video"
     ]
   },
   "corobici-canas-safari-float": {

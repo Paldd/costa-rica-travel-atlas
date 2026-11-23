@@ -640,6 +640,15 @@
         ]
       },
       {
+        "title": "Линия велосипеда и возврат",
+        "text": "В атласе 5,4 км по дороге до улицы у Iguana Lodge. Обратно тот же путь, всего около 10,8 км. Пин берега отмечает место перехода к прогулке. Первые остановки у воды согласуйте по местным знакам.",
+        "sources": [
+          "osa-preciosa-ebike-road-geometry",
+          "rural-platanares-municipal-road",
+          "rural-playa-preciosa-osm-iguana"
+        ]
+      },
+      {
         "title": "Прокат и береговая остановка",
         "text": "Уточните, как включается педальная помощь, какой рост подходит для велосипеда и в каком месте помогает прокатчик при проколе. Мангровые и черепашьи участки посещают пешком по правилам охраны берега.",
         "sources": [
@@ -661,13 +670,19 @@
     "nearby": [
       "puerto-jimenez-matapalo-gravel-ride",
       "osa-dos-brazos-guided-mtb",
-      "aventuras-cafe-puerto-jimenez"
+      "aventuras-cafe-puerto-jimenez",
+      "puerto-jimenez-carate-gravel-mtb-2",
+      "puerto-jimenez-sunset-bioluminescence-kayak"
     ],
     "connectStops": false,
     "galleries": [
       "rural-playa-platanares-aguaepipa",
       "rural-platanares-oasis-host",
       "rural-osa-jimenez-current-transport"
+    ],
+    "line": "osa-jimenez-preciosa-ebike-road",
+    "photos": [
+      "puerto-jimenez-sunrise-badilla"
     ]
   },
   "golfo-dulce-ferry-ebike-kayak-2": {

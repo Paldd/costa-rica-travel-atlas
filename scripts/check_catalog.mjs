@@ -368,6 +368,22 @@ assert(find({ region: "caribbean", activity: "own-craft" }).some(row => row.id =
 assert(find({ region: "north", activity: "rooftent", duration: "two", detail: "map" }).some(row => row.id === "cano-negro-poponjoche-rooftent"));
 assert(find({ region: "central", activity: "ebike", duration: "seven", km: "long" }, "expeditions").some(row => row.id === "turrialba-full-ebike-7"));
 assert(find({ region: "south", activity: "rooftent", transport: "4x4", duration: "three" }, "expeditions").some(row => row.id === "osa-two-camps-roof-3"));
+const carateBike = find({ region: "south", activity: "gravel", duration: "two", detail: "line" }, "expeditions")
+  .find(row => row.id === "puerto-jimenez-carate-gravel-mtb-2");
+assert.equal(carateBike.distance, 84.8);
+assert.equal(carateBike.dossier.track, "osa-carate-very-cycle-track-2015");
+const preciosa = find({ region: "south", activity: "ebike", detail: "line" })
+  .find(row => row.id === "puerto-jimenez-playa-preciosa-ebike");
+assert.equal(preciosa.distance, 10.8);
+assert.match(createGpx(preciosa.title, [{ title: preciosa.title, line: atlas.lines[preciosa.dossier.line],
+  stops: preciosa.dossier.stops }], atlas), /<trkpt /);
+const cativo = find({ region: "south", activity: "surf", transport: "noCar", detail: "line" }, "expeditions")
+  .find(row => row.id === "playa-cativo-golfo-dulce-matapalo-4");
+assert.equal(cativo.stages.length, 4);
+assert.deepEqual(atlas.lines[cativo.dossier.line].points, ["puerto-jimenez-port", "pan-dulce-osa-shore"]);
+const sirenaFlight = find({ region: "south", activity: "scenic-flight", material: "video" })
+  .find(row => row.id === "corcovado-sirena-helicopter-hike");
+assert(!sirenaFlight.dossier.line && !sirenaFlight.dossier.connectStops);
 const poceron = records.find(row => row.id === "providencia-poceron-calle-la-piedra");
 const poceronLong = find({ region: "mountains", activity: "hiking", km: "thirty", detail: "track" })
   .find(row => row.id === "dota-quebrada-arroyo-poceron-26");

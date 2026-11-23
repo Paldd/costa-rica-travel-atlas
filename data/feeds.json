@@ -2677,5 +2677,29 @@
     ],
     "language": "es",
     "focus": "Справочные лодочные отправления, адрес муниципального причала и точки пересадки."
+  },
+  {
+    "name": "COPROT · черепашьи пляжи Оса и программы",
+    "url": "https://www.tortugasdeosa.org/tours",
+    "review": "osa-carate-coprot-guided-patrol-owner",
+    "exactPaths": [
+      "/tours",
+      "/carate",
+      "/sea-turtle-conservation"
+    ],
+    "language": "en",
+    "focus": "Официальные программы сообщества, правила посещения, база в Карате и условия наблюдений."
+  },
+  {
+    "name": "Adventure Air · природные вылеты над полуостровом Оса",
+    "url": "https://www.flyadventureair.com/experience/sirena-station-corcovado-expedition/",
+    "review": "osa-adventure-air-sirena-program",
+    "exactPaths": [
+      "/experience/sirena-station-corcovado-expedition/",
+      "/experience/ultimate-corcovado-golfo-dulce-helicopter-adventure/",
+      "/private-air-charters/puerto-jimenez/"
+    ],
+    "language": "en",
+    "focus": "Программы вылетов, остановки у Корковадо, условия допуска, вылета и возвращения."
   }
 ]

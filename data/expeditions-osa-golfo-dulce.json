@@ -1,0 +1,178 @@
+[
+  {
+    "id": "puerto-jimenez-carate-gravel-mtb-2",
+    "kind": "trip",
+    "region": "south",
+    "title": "Карате на гравеле или MTB · два дня, около 85 км",
+    "native": "Puerto Jiménez ⇄ Carate · Ruta Nacional 245 · Gravel / MTB",
+    "level": "hard",
+    "days": 2,
+    "activities": [
+      "cycling",
+      "gravel",
+      "mtb",
+      "beach",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "4x4",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "glamping",
+      "confirm"
+    ],
+    "sources": [
+      "osa-carate-rn245-road-geometry",
+      "osa-carate-very-cycle-track-2015",
+      "osa-bike-tour-direct",
+      "osa-luna-how-to-road",
+      "carate-leona-ecolodge-contact",
+      "osa-carate-mopt-bridges-2025"
+    ],
+    "summary": "Два велодня до Карате и обратно с ночёвкой в районе берега. По предложенной линии примерно 42,4 км на сторону. Полевой велоотчёт показывает исторический вариант на 47,65 км в один конец.",
+    "plan": "Запасите воду и договоритесь с водителем подстраховки. Педалируйте по открытой главной дороге. Как запасной вариант выберите поездку на день к Кабо-Матапало или короткую Пресьосу.",
+    "conditions": "В дождь гравий и спуски меняются. Уточните, доедет ли поддержка, где пополняется вода, как перенести ночёвку и как вернуть взятые в прокате велосипеды.",
+    "distance": 84.8,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Пуэрто-Хименес → Карате",
+        "note": "Около 42,4 км по расчёту. Начните утром, ночуйте на подтверждённой площадке или у хозяев. Реальный маршрут на день решайте с местной командой.",
+        "sources": [
+          "osa-carate-rn245-road-geometry",
+          "osa-carate-very-cycle-track-2015",
+          "carate-leona-ecolodge-contact"
+        ],
+        "stops": [
+          "puerto-jimenez-carate-route-245-4x4",
+          "carate-la-leona-tented-lodge"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Карате → Пуэрто-Хименес",
+        "note": "Вернитесь по согласованной открытой дороге или заранее договоритесь о машине для группы и велосипедов. Оставьте время на возврат проката.",
+        "sources": [
+          "osa-carate-rn245-road-geometry",
+          "osa-luna-how-to-road",
+          "osa-bike-tour-direct"
+        ],
+        "stops": [
+          "puerto-jimenez-carate-route-245-4x4",
+          "puerto-jimenez-playa-preciosa-ebike"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "playa-cativo-golfo-dulce-matapalo-4",
+    "kind": "trip",
+    "region": "south",
+    "title": "Гольфо-Дульсе и Кабо-Матапало · четыре дня без арендной машины",
+    "native": "Golfito / Puerto Jiménez · Playa Cativo · Río Esquinas · Cabo Matapalo",
+    "level": "moderate",
+    "days": 4,
+    "activities": [
+      "boat",
+      "kayak",
+      "surf",
+      "school",
+      "hiking",
+      "beach",
+      "forest",
+      "wildlife",
+      "views"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "boat",
+      "transfer"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "cativo-boat-transfer-contact",
+      "playa-cativo-lodge-faq-owner",
+      "osa-cativo-finca-cayetano-owner",
+      "osa-cativo-nocturnal-owner",
+      "osa-cativo-paddle-to-surf-matapalo-owner",
+      "cativo-mangrove-kayak",
+      "osa-matapalo-pan-dulce-road-geometry"
+    ],
+    "summary": "Одна береговая база на три ночи. Лодка до Кативо, прогулка по резерву с фермой и ночным лесом, урок в Пан-Дульсе и отдельное окно для мангров Эскинас.",
+    "plan": "Сначала получите подтверждение от лоджа по условиям лодки, возрасту и размещению. Выберите выезды по волне, приливу и погоде. Порядок дней и возврат планируйте с хозяевами.",
+    "conditions": "Лодж указывает размещение с пяти лет. Допуск к воде и отдельным занятиям уточняют у проводника. Для мангров нужен запас времени до лодки обратно.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Гольфито или Пуэрто-Хименес → Кативо",
+        "note": "Подтвердите причал, связь с капитаном и багаж. После заезда пройдите береговой участок вместе с командой.",
+        "sources": [
+          "cativo-boat-transfer-contact",
+          "playa-cativo-lodge-faq-owner"
+        ],
+        "stops": [
+          "golfito-playa-cativo-lodge-boat"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Лес, ферма и вечер с натуралистом",
+        "note": "Выйдите на дневную экскурсию или короткое знакомство с угодьями. В сумерках запланируйте прогулку с натуралистом, если подходит возраст и погода.",
+        "sources": [
+          "osa-cativo-finca-cayetano-owner",
+          "osa-cativo-rainforest-intro-owner",
+          "osa-cativo-nocturnal-owner"
+        ],
+        "stops": [
+          "playa-cativo-reserve-cayetano-walk",
+          "playa-cativo-guided-night-forest"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Лодка и занятие в Пан-Дульсе",
+        "note": "Через Пуэрто-Хименес пересядьте на машину к пляжу. Урок и обед по программе оператора. Время возвращения подтвердите заранее.",
+        "sources": [
+          "osa-cativo-paddle-to-surf-matapalo-owner",
+          "cativo-boat-transfer-contact",
+          "osa-matapalo-pan-dulce-road-geometry"
+        ],
+        "stops": [
+          "playa-cativo-pan-dulce-lesson"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Мангры Эскинас и лодка обратно",
+        "note": "Назначьте мангры на приливное окно, которое оставляет время до возврата. Если прилив поздний, поменяйте дни по рекомендации капитана.",
+        "sources": [
+          "cativo-mangrove-kayak",
+          "cativo-boat-transfer-contact"
+        ],
+        "stops": [
+          "golfito-cativo-rio-esquinas-kayak",
+          "golfito-playa-cativo-lodge-boat"
+        ]
+      }
+    ]
+  }
+]
