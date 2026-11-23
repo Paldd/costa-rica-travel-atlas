@@ -1,6 +1,6 @@
 {
   "archives": 152,
-  "archivesRead": 148,
+  "archivesRead": 147,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -453,13 +453,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Hotel | Casa Luna Hotel",
           "url": "https://casalunahotel.com/es/hotel/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Casa Luna Hotel | Casa Luna Hotel",
           "url": "https://casalunahotel.com/es/casa-luna-hotel/"
         }
@@ -687,13 +685,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Hot Springs Day Pass - The Springs Resort & Spa",
           "url": "https://www.thespringscostarica.com/day-pass/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Club Rio Adventure Center – Best Nature and Adventure Tours in Arenal",
           "url": "https://www.thespringscostarica.com/club-rio-adventure-center/"
         },
@@ -957,7 +953,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Kayaking Adventures in Las Catalinas | Explore Playa Danta",
           "url": "https://www.lascatalinasdoorway.com/en/explore-the-magic-of-las-catalinas/kayaking"
         }
@@ -1627,13 +1622,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Resort Amenities in Manuel Antonio | Hotel Parador",
           "url": "https://hotelparador.com/amenities/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Monkey Trail Nature Hike and Bird Watching | QVA Tours",
           "url": "https://hotelparador.com/tours/nature-hike/"
         }
@@ -2337,7 +2330,6 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-20",
-          "readThisRun": true,
           "title": "Parque Nacional Volcán Barva",
           "url": "https://adondeircr.com/heredia/parque-nacional-volcan-barva/?c1"
         },
@@ -2350,7 +2342,6 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-19",
-          "readThisRun": true,
           "title": "¿Qué hacer el próximo 22 de agosto?",
           "url": "https://adondeircr.com/puntarenas/que-hacer-el-proximo-22-de-agosto/?c1"
         },
@@ -2363,23 +2354,41 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-19",
-          "readThisRun": true,
           "title": "COVID-19: Costa Rica registra hoy 766 casos nuevos y 7 lamentables fallecimientos",
           "url": "https://adondeircr.com/san-jose/los-recordados-bbs-vuelven-la-marca-blackberry-hizo-el-anuncio-oficial-de-sus-nuevos-smartphones-que-mantendran-su-caracteristico-teclado-fisico-qwerty-y-soporte-para-redes-5g/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-19",
-          "readThisRun": true,
           "title": "3 increíbles miradores del país",
           "url": "https://adondeircr.com/cartago/3-increibles-miradores-del-pais/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-19",
-          "readThisRun": true,
           "title": "(Vídeo) Ciclista reacciona eufórico y despedaza un autobús",
           "url": "https://adondeircr.com/san-jose/video-ciclista-reacciona-euforico-y-despedaza-un-autobus/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-18",
+          "readThisRun": true,
+          "title": "Conozca el Parque Nacional Tapantí",
+          "url": "https://adondeircr.com/cartago/conozca-el-parque-nacional-tapanti-2/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-18",
+          "readThisRun": true,
+          "title": "3 Volcanes nacionales que deberías visitar",
+          "url": "https://adondeircr.com/cartago/3-volcanes-nacionales-que-deberias-visitar/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-17",
+          "readThisRun": true,
+          "title": "Espectacular fenómeno de bioluminiscencia se podrá disfrutar en Puntarenas",
+          "url": "https://adondeircr.com/puntarenas/espectacular-fenomeno-de-bioluminiscencia-se-podra-disfrutar-en-puntarenas/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2682,7 +2691,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 160
+      "read": 163
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -3282,6 +3291,12 @@
           "checked": "2026-11-23",
           "title": "Luxury Glamping in Costa Rica’s Tropical Dry Forest | Hacienda Guachipelin",
           "url": "https://www.guachipelin.com/blog/en/luxury-glamping-in-costa-rica-inside-the-tropical-dry-forest-at-rincon-de-la-vieja/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Guanacaste Lookout Point: Mirador 360° at Guachipelín",
+          "url": "https://www.guachipelin.com/blog/en/mirador-360-between-the-gulf-of-papagayo-and-rincon-de-la-vieja/"
         },
         {
           "checked": "2026-11-23",
@@ -5099,6 +5114,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Temporada de tortugas en Costa Rica: dónde y cuándo ver este espectáculo natural",
+          "url": "https://vamosaturistear.com/actividades/temporada-de-tortugas-en-costa-rica-donde-y-cuando-ver-este-espectaculo-natural/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Tardeá en el Cráter La Olla",
           "url": "https://vamosaturistear.com/actividades/tardea-en-el-crater-la-olla/"
         },
@@ -5109,7 +5130,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Sabana Oka y Laguna Los Corderos: aventura entre montañas y espejos de agua - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/sabana-oka-y-laguna-los-corderos-aventura-entre-montanas-y-espejos-de-agua/"
         },
@@ -5117,6 +5137,12 @@
           "checked": "2026-11-23",
           "title": "Río Savegre: el más limpio de Centroamérica y Reserva de la Biosfera - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/rio-savegre-el-mas-limpio-de-centroamerica-y-reserva-de-la-biosfera/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Río Peñas Blancas: aventura natural entre pozas y bosque nuboso - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/rio-penas-blancas-aventura-natural-entre-pozas-y-bosque-nuboso/"
         },
         {
           "checked": "2026-11-23",
@@ -5200,7 +5226,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Parques nacionales accesibles en Costa Rica: Guía completa para turismo inclusivo - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/parques-nacionales-accesibles-en-costa-rica-guia-completa-para-turismo-inclusivo/"
         },
@@ -5281,6 +5306,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Isla Murciélago: viví una aventurasalvaje en el Pacífico Norte - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/isla-murcielago-vivi-una-aventurasalvaje-en-el-pacifico-norte/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Humedal Térraba-Sierpe - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/humedal-terraba-sierpe/"
         },
@@ -5321,7 +5352,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Estos son los parques nacionales que tenés que conocer en Guanacaste",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-guanacaste/"
         },
@@ -5372,7 +5402,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "El barco instagrameable de Manzanillo",
           "url": "https://vamosaturistear.com/actividades/el-barco-instagrameable-de-manzanillo/"
         },
@@ -5453,6 +5482,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Cerro Paraguas: donde el cielo toca la montaña - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/cerro-paraguas-donde-el-cielo-toca-la-montana/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Catarata Tesoro Escondido: una joya de Bajos del Toro - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-tesoro-escondido-una-joya-de-bajos-del-toro/"
         },
@@ -5513,6 +5548,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Bahía Salinas: playa y aventura en uno de los rincones más ventosos de Costa Rica - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/bahia-salinas-playa-y-aventura-en-uno-de-los-rincones-mas-ventosos-de-costa-rica/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Aventurate en bote por el río Sarapiquí",
           "url": "https://vamosaturistear.com/actividades/aventurate-en-bote-por-el-rio-sarapiqui/"
         },
@@ -5528,7 +5569,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "5 lugares para conocer en Sarchí - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/5-lugares-para-conocer-en-sarchi/"
         },
@@ -5624,16 +5664,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Temporada de tortugas en Costa Rica: dónde y cuándo ver este espectáculo natural",
-          "url": "https://vamosaturistear.com/actividades/temporada-de-tortugas-en-costa-rica-donde-y-cuando-ver-este-espectaculo-natural/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "Río Peñas Blancas: aventura natural entre pozas y bosque nuboso - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/rio-penas-blancas-aventura-natural-entre-pozas-y-bosque-nuboso/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Restaurante Flotante de Isla Venado: Golfo de Nicoya - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/restaurante-flotante-de-isla-venado-golfo-de-nicoya/"
         },
@@ -5694,11 +5724,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Isla Murciélago: viví una aventurasalvaje en el Pacífico Norte - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/isla-murcielago-vivi-una-aventurasalvaje-en-el-pacifico-norte/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Isla Damas: aventuranatural entre manglares y canales - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/isla-damas-aventuranatural-entre-manglares-y-canales/"
         },
@@ -5709,18 +5734,8 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Cerro Paraguas: donde el cielo toca la montaña - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/cerro-paraguas-donde-el-cielo-toca-la-montana/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Catarata Morpho Azul: Un paseo en medio de la naturaleza de Upala - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-morpho-azul-un-paseo-en-medio-de-la-naturaleza-de-upala/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "Bahía Salinas: playa y aventura en uno de los rincones más ventosos de Costa Rica - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/bahia-salinas-playa-y-aventura-en-uno-de-los-rincones-mas-ventosos-de-costa-rica/"
         },
         {
           "checked": "2026-11-21",
@@ -6949,7 +6964,7 @@
       "read": 3
     },
     "south-water-sea-kayaking-8-day-owner": {
-      "indexed": 3,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6968,7 +6983,7 @@
           "url": "https://seakayakingcostarica.com/8-day-lodge-to-lodge-golfo-dulce-sea-kayaking-trip-november-may/"
         }
       ],
-      "read": 3
+      "read": null
     },
     "supherr-operator-water-herradura": {
       "indexed": 3,
@@ -8061,8 +8076,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 57,
-  "pagesRead": 17,
-  "pagesReadToDate": 1209,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45274867979"
+  "pagesChecked": 18,
+  "pagesRead": 9,
+  "pagesReadToDate": 1213,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45278445797"
 }
