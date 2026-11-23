@@ -73,7 +73,8 @@ def publication_path(value, platform):
     return parts if len(parts) >= 2 and parts[-2] in {"posts", "reel", "videos"} else None
 
 
-def build_social(sources_by_id, record_ids, aliases):
+def build_social(sources_by_id, record_ids, aliases, *,
+                 review_path=DATA / "publisher-review-coverage.json"):
     social = json.loads((DATA / "social-coverage.json").read_text())
     profiles = {profile["url"]: profile for profile in social["profiles"]}
     ranks = {platform: set() for platform in SOCIAL_DOMAINS}
@@ -111,7 +112,6 @@ def build_social(sources_by_id, record_ids, aliases):
             raise ValueError(f"Invalid publisher link for {site}")
         publisher["checked"] = date.fromisoformat(publisher["checked"]).isoformat()
         profile["publisher"] = publisher
-    review_path = DATA / "publisher-review-coverage.json"
     if review_path.exists():
         review = json.loads(review_path.read_text(encoding="utf-8"))
         archives = review.pop("bySource")

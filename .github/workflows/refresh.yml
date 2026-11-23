@@ -9,6 +9,7 @@ on:
     paths:
       - scripts/refresh.py
       - scripts/review_publisher_archives.py
+      - scripts/publish_publisher_coverage.py
       - .github/workflows/refresh.yml
       - data/feeds.json
 
@@ -54,3 +55,34 @@ jobs:
             .cache/publisher-review-coverage.json
           include-hidden-files: true
           retention-days: 30
+
+  publish_receipt:
+    if: github.ref == 'refs/heads/main'
+    needs: discover
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/download-artifact@v4
+        with:
+          name: atlas-candidates
+          path: ${{ runner.temp }}/atlas-receipt
+      - name: Validate the report against the current catalog
+        run: |
+          python3 scripts/publish_publisher_coverage.py \
+            "$RUNNER_TEMP/atlas-receipt/publisher-review-coverage.json" \
+            "$GITHUB_RUN_ID"
+      - name: Publish the validated receipt
+        run: |
+          git add -- data/publisher-review-coverage.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+            -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -m "Publish source discovery report ${GITHUB_RUN_ID}"
+          git push origin HEAD:refs/heads/main
