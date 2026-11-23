@@ -1,6 +1,6 @@
 {
-  "archives": 131,
-  "archivesRead": 127,
+  "archives": 133,
+  "archivesRead": 128,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -269,28 +269,24 @@
         {
           "checked": "2026-11-23",
           "published": "2026-11-06",
-          "readThisRun": true,
           "title": "Cómo llegar a Bocas del Toro (2026): vuelo, bus, shuttle y ferry",
           "url": "https://go.bocasdeltoro.travel/es/blog-es/como-llegar-a-bocas-del-toro/"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-03-14",
-          "readThisRun": true,
           "title": "Descubre con Flytrip a Bocas del Toro, un paraíso natural con proyección internacional",
           "url": "https://go.bocasdeltoro.travel/es/blog-es/descubre-con-flytrip-a-bocas-del-toro-un-paraiso-natural-con-proyeccion-internacional/"
         },
         {
           "checked": "2026-11-23",
           "published": "2021-04-02",
-          "readThisRun": true,
           "title": "Aventura en Bocas: La excursión de un día a Panamá que te encantará | Visita Bocas del Toro",
           "url": "https://go.bocasdeltoro.travel/es/blog-es/aventura-en-bocas-la-excursion-de-un-dia-a-panama-que-te-encantara/"
         },
         {
           "checked": "2026-11-23",
           "published": "2021-04-02",
-          "readThisRun": true,
           "title": "Alquilando Bicicletas en Bocas del Toro | Visit Panama Bocas del Toro",
           "url": "https://go.bocasdeltoro.travel/es/blog-es/alquilar-una-bicicleta-en-isla-colon-y-adonde-ir/"
         },
@@ -409,7 +405,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": 1,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -417,7 +413,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": 1
+      "read": null
     },
     "catalina-pcdc-tours-library": {
       "indexed": 13,
@@ -522,15 +518,31 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Surfing en Matapalo |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/surf-en-matapalo"
         },
         {
           "checked": "2026-11-23",
           "readThisRun": true,
+          "title": "Descubra Senderos para Caminatas Auto-Guiados |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/senderos-auto-guiados"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Descubra Recorrido Guiado: Bosque Tropical Lluvioso |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/introduccion-al-bosque-lluvioso-guia"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Parque Nacional Piedras Blancas |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/parque-nacional-piedras-blancas"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Jardín de Perezosos La Perica |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/jardin-perezosos-la-perica"
         },
         {
           "checked": "2026-11-23",
@@ -544,15 +556,25 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Caminata en la Reserva Natural de Cativo |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/caminata-reserva-cativo-naturaleza"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubra Caminata Guiada Nocturna en el Bosque Lluvioso |Playa Cativo Lodge",
           "url": "https://www.playacativo.com/es/experiencias/caminata-guiada-nocturna-bosque-lluvioso"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Búsqueda de Delfines & Ballenas |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/busqueda-observacion-delfin-ballena"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Descubra Avistamiento de Aves |Playa Cativo Lodge",
+          "url": "https://www.playacativo.com/es/experiencias/observacion-aves"
         },
         {
           "checked": "2026-11-23",
@@ -560,7 +582,7 @@
           "url": "https://www.playacativo.com/es/experiencias/aventura-a-caballo-en-puerto-jimenez"
         }
       ],
-      "read": 9
+      "read": 14
     },
     "cinchona-trails-operator": {
       "indexed": 1,
@@ -1232,6 +1254,31 @@
       ],
       "read": 2
     },
+    "osa-adventure-air-sirena-program": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "published": "2025-05-20",
+          "readThisRun": true,
+          "title": "Puerto Jimenez",
+          "url": "https://www.flyadventureair.com/private-air-charters/puerto-jimenez/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Ultimate Corcovado & Golfo Dulce Helicopter Adventure",
+          "url": "https://www.flyadventureair.com/experience/ultimate-corcovado-golfo-dulce-helicopter-adventure/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Sirena Station Corcovado Expedition",
+          "url": "https://www.flyadventureair.com/experience/sirena-station-corcovado-expedition/"
+        }
+      ],
+      "read": 3
+    },
     "osa-blanca-gulf-boat": {
       "indexed": 1,
       "pages": [
@@ -1242,6 +1289,30 @@
         }
       ],
       "read": 1
+    },
+    "osa-carate-coprot-guided-patrol-owner": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Tours | COPROT",
+          "url": "https://www.tortugasdeosa.org/tours"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Sea Turtle Conservation | COPROT",
+          "url": "https://www.tortugasdeosa.org/sea-turtle-conservation"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Our Home",
+          "url": "https://www.tortugasdeosa.org/carate"
+        }
+      ],
+      "read": 3
     },
     "pa-boquete-soul-tour-details": {
       "indexed": 2,
@@ -1875,43 +1946,73 @@
         {
           "checked": "2026-11-23",
           "published": "2020-09-21",
-          "readThisRun": true,
           "title": "Isla Tortuga un lugar mágico",
           "url": "https://adondeircr.com/guanacaste/isla-tortuga-un-lugar-magico/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-21",
-          "readThisRun": true,
           "title": "Bus místico del parque nacional Braulio Carrillo desaparecerá en los próximos días",
           "url": "https://adondeircr.com/heredia/bus-mistico-del-parque-nacional-braulio-carrillo-desaparecera-en-los-proximos-dias/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-16",
-          "readThisRun": true,
           "title": "La Isla San Lucas, donde antes había una prisión, se convierte en un parque nacional",
           "url": "https://adondeircr.com/puntarenas/la-isla-san-lucas-donde-antes-habia-una-prision-se-convierte-en-un-parque-nacional/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-16",
-          "readThisRun": true,
           "title": "Amanecer espectacular con el desove de cientos de tortugas Baula",
           "url": "https://adondeircr.com/guanacaste/amanecer-espectacular-con-el-desove-de-cientos-de-tortugas-baula/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-16",
-          "readThisRun": true,
           "title": "(Fotos) Así quedaron algunas playas del pacífico tras el fin de semana largo",
           "url": "https://adondeircr.com/guanacaste/fotos-asi-quedaron-algunas-playas-del-pacifico-tras-el-fin-de-semana-largo/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-09-13",
+          "readThisRun": true,
+          "title": "(Fotos) Playa Manuel Antonio está a reventar este fin de semana largo",
+          "url": "https://adondeircr.com/puntarenas/fotos-playa-manuel-antonio-esta-a-reventar-este-fin-de-semana-largo/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-09-09",
+          "readThisRun": true,
+          "title": "Municipalidad de Limón aplicará cierre de playas durante todo un mes",
+          "url": "https://adondeircr.com/limon/municipalidad-de-limon-aplicara-cierre-de-playas-durante-todo-un-mes/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-09-06",
           "title": "Sitios románticos en Costa Rica para turistear en pareja",
           "url": "https://adondeircr.com/san-jose/sitios-romanticos-en-costa-rica-para-turistear-en-pareja/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-09-05",
+          "readThisRun": true,
+          "title": "Refugio Gandoca Manzanillo",
+          "url": "https://adondeircr.com/limon/refugio-gandoca-manzanillo/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-09-03",
+          "readThisRun": true,
+          "title": "Las 5 Mejores Playas de Guanacaste",
+          "url": "https://adondeircr.com/guanacaste/las-5-mejores-playas-de-guanacaste/?c1"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2020-08-31",
+          "readThisRun": true,
+          "title": "Parque Nacional Manuel Antonio",
+          "url": "https://adondeircr.com/puntarenas/parque-nacional-manuel-antonio/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -2214,7 +2315,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 125
+      "read": 130
     },
     "publisher-archive-arenal-rafting": {
       "indexed": 6,
@@ -2566,7 +2667,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Uvita: Things To Do + Where To Stay | Costa Rica Experts",
           "url": "https://costaricaexperts.com/destinations/uvita/"
         },
@@ -3134,18 +3234,21 @@
         {
           "checked": "2026-11-23",
           "published": "2024-09-28",
+          "readThisRun": true,
           "title": "Mucho más que verde « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/mucho-mas-que-verde/"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-07-05",
+          "readThisRun": true,
           "title": "Memoria Brunca « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/memoria-brunca/"
         },
         {
           "checked": "2026-11-23",
           "published": "2023-04-17",
+          "readThisRun": true,
           "title": "Páramos de Costa Rica « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/paramos-de-costa-rica/"
         },
@@ -3158,6 +3261,7 @@
         {
           "checked": "2026-11-23",
           "published": "2022-08-24",
+          "readThisRun": true,
           "title": "Naturanima « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/naturanima/"
         },
@@ -3170,35 +3274,30 @@
         {
           "checked": "2026-11-23",
           "published": "2022-04-06",
-          "readThisRun": true,
           "title": "Manglares: barrera y libertad « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/manglares-barrera-y-libertad/"
         },
         {
           "checked": "2026-11-23",
           "published": "2021-06-03",
-          "readThisRun": true,
           "title": "Blanco, azul y rojo « Exhibiciones Anteriores « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/anteriores/blanco-azul-y-rojo/"
         },
         {
           "checked": "2026-11-23",
           "published": "2021-03-26",
-          "readThisRun": true,
           "title": "Legado en Piedra « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/legado-en-piedra/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-12-16",
-          "readThisRun": true,
           "title": "Nidos y Huevos « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/nidos-y-huevos/"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-12-15",
-          "readThisRun": true,
           "title": "Amos de la Noche « Exhibiciones « Museo Nacional de Costa Rica",
           "url": "https://www.museocostarica.go.cr/exhibiciones/amos-de-la-noche-2/"
         },
@@ -3871,14 +3970,12 @@
         {
           "checked": "2026-11-23",
           "published": "2026-11-03",
-          "readThisRun": true,
           "title": "Comunidad Cábecar de Tisobata",
           "url": "https://ticosapata.com/2026/11/03/comunidad-cabecar-de-tisobata/"
         },
         {
           "checked": "2026-11-23",
           "published": "2026-10-24",
-          "readThisRun": true,
           "title": "Tour a la Capilla Ámbar",
           "url": "https://ticosapata.com/2026/10/24/tour-a-la-capilla-ambar/"
         },
@@ -3886,8 +3983,42 @@
           "checked": "2026-11-23",
           "published": "2026-10-24",
           "readThisRun": true,
+          "title": "Ruta entre Volcanes",
+          "url": "https://ticosapata.com/2026/10/24/ruta-entre-volcanes/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-10-24",
+          "readThisRun": true,
+          "title": "Parque Nacional Cahuita",
+          "url": "https://ticosapata.com/2026/10/24/parque-nacional-cahuita/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-10-24",
           "title": "Nocturna de Satan María a Cañón",
           "url": "https://ticosapata.com/2026/10/24/nocturna-de-satan-maria-a-canon/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-10-24",
+          "readThisRun": true,
+          "title": "Las Piedras de Julio",
+          "url": "https://ticosapata.com/2026/10/24/las-piedras-de-julio/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-10-24",
+          "readThisRun": true,
+          "title": "De Santa María a Cañón del Guarco",
+          "url": "https://ticosapata.com/2026/10/24/de-santa-maria-a-canon-del-guarco/"
+        },
+        {
+          "checked": "2026-11-23",
+          "published": "2026-10-24",
+          "readThisRun": true,
+          "title": "Cerro Utyum",
+          "url": "https://ticosapata.com/2026/10/24/cerro-utyum/"
         },
         {
           "checked": "2026-11-23",
@@ -3898,7 +4029,6 @@
         {
           "checked": "2026-11-23",
           "published": "2026-10-24",
-          "readThisRun": true,
           "title": "Cerro Dragón",
           "url": "https://ticosapata.com/2026/10/24/cerro-dragon/"
         },
@@ -3989,7 +4119,6 @@
         {
           "checked": "2026-11-23",
           "published": "2026-08-30",
-          "readThisRun": true,
           "title": "De Navarro a Palo Verde",
           "url": "https://ticosapata.com/2026/08/30/de-navarro-a-palo-verde/"
         },
@@ -4056,24 +4185,6 @@
         {
           "checked": "2026-11-22",
           "published": "2026-10-24",
-          "title": "Ruta entre Volcanes",
-          "url": "https://ticosapata.com/2026/10/24/ruta-entre-volcanes/"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2026-10-24",
-          "title": "Parque Nacional Cahuita",
-          "url": "https://ticosapata.com/2026/10/24/parque-nacional-cahuita/"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2026-10-24",
-          "title": "Las Piedras de Julio",
-          "url": "https://ticosapata.com/2026/10/24/las-piedras-de-julio/"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2026-10-24",
           "title": "Las Minas del Aguacate",
           "url": "https://ticosapata.com/2026/10/24/las-minas-del-aguacate/"
         },
@@ -4082,12 +4193,6 @@
           "published": "2026-10-24",
           "title": "Laguna Pozo Verde",
           "url": "https://ticosapata.com/2026/10/24/laguna-pozo-verde/"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2026-10-24",
-          "title": "De Santa María a Cañón del Guarco",
-          "url": "https://ticosapata.com/2026/10/24/de-santa-maria-a-canon-del-guarco/"
         },
         {
           "checked": "2026-11-22",
@@ -4118,12 +4223,6 @@
           "published": "2026-10-24",
           "title": "Cerro la Carpintera",
           "url": "https://ticosapata.com/2026/10/24/cerro-la-carpintera/"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2026-10-24",
-          "title": "Cerro Utyum",
-          "url": "https://ticosapata.com/2026/10/24/cerro-utyum/"
         },
         {
           "checked": "2026-11-22",
@@ -4508,6 +4607,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Viví una experiencia única con este tour nocturno",
+          "url": "https://vamosaturistear.com/actividades/vivi-una-experiencia-unica-con-este-tour-nocturno/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Viví una experiencia de 5 sentidos en Coopedota",
           "url": "https://vamosaturistear.com/actividades/vivi-una-experiencia-de-5-sentidos-en-coopedota/"
         },
@@ -4643,7 +4748,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Paseá en bicicleta por las nubes",
           "url": "https://vamosaturistear.com/actividades/pasea-en-bicicleta-por-las-nubes/"
         },
@@ -4654,7 +4758,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Montezuma: Disfrutá de una catarata cerca de la playa",
           "url": "https://vamosaturistear.com/actividades/montezuma-disfruta-de-una-catarata-cerca-de-la-playa/"
         },
@@ -4662,6 +4765,12 @@
           "checked": "2026-11-23",
           "title": "Mirá todo lo que podés hacer en Punta Uva",
           "url": "https://vamosaturistear.com/actividades/mira-todo-lo-que-podes-hacer-en-punta-uva/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Los secretos del Sitio Arqueológico Finca 6",
+          "url": "https://vamosaturistear.com/actividades/los-secretos-del-sitio-arqueologico-finca-6/"
         },
         {
           "checked": "2026-11-23",
@@ -4725,6 +4834,12 @@
         },
         {
           "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Explorá la Catarata El Tigre",
+          "url": "https://vamosaturistear.com/actividades/explora-la-catarata-el-tigre/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Estos son los parques nacionales que tenés que conocer en San José",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-san-jose/"
         },
@@ -4750,7 +4865,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Este es el parque nacional que tenés que conocer en Heredia",
           "url": "https://vamosaturistear.com/actividades/este-es-el-parque-nacional-que-tenes-que-conocer-en-heredia/"
         },
@@ -4761,7 +4875,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "En la cima del Cerro Caballito",
           "url": "https://vamosaturistear.com/actividades/en-la-cima-del-cerro-caballito/"
         },
@@ -4772,7 +4885,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "El Chollín: el río de agua termal gratuito",
           "url": "https://vamosaturistear.com/actividades/el-chollin-el-rio-de-agua-termal-gratuito/"
         },
@@ -4880,6 +4992,18 @@
           "checked": "2026-11-23",
           "title": "Cascada El Pavón: Bienvenidos a Ciudad Cortés de Osa - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/cascada-el-pavon-bienvenidos-a-ciudad-cortes-de-osa/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Bienvenidos al Cañón de Aranjuez y Cerro el Encanto",
+          "url": "https://vamosaturistear.com/actividades/bienvenidos-al-canon-de-aranjuez-y-cerro-el-encanto/"
+        },
+        {
+          "checked": "2026-11-23",
+          "readThisRun": true,
+          "title": "Aventurate en bote por el río Sarapiquí",
+          "url": "https://vamosaturistear.com/actividades/aventurate-en-bote-por-el-rio-sarapiqui/"
         },
         {
           "checked": "2026-11-23",
@@ -5197,7 +5321,7 @@
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
-      "read": 142
+      "read": 147
     },
     "publisher-archive-visitcostarica-com": {
       "indexed": 1,
@@ -5908,7 +6032,6 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Río San Juan en Nicaragua, historia de Centroamérica",
           "url": "https://www.visitcentroamerica.com/visitar/rio-san-juan/"
         }
@@ -5920,13 +6043,11 @@
       "pages": [
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Grand River Lodge – Hotel, bar y restaurante",
           "url": "https://www.grandriverlodgenicaragua.com/es/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Contacto Grand River Lodge",
           "url": "https://www.grandriverlodgenicaragua.com/es/contact/"
         }
@@ -6591,8 +6712,8 @@
   },
   "dayUtc": "2026-11-23",
   "history": true,
-  "pagesChecked": 33,
-  "pagesRead": 32,
-  "pagesReadToDate": 1083,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45209729660"
+  "pagesChecked": 30,
+  "pagesRead": 30,
+  "pagesReadToDate": 1104,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45215998064"
 }

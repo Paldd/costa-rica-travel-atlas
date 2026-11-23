@@ -2460,6 +2460,11 @@
         "sources": [
           "pelago-golfo-dulce-kayak-camp",
           "ict-aventuras-tropicales-golfo-dulce"
+        ],
+        "points": [
+          "puerto-jimenez-town-center",
+          "golfo-dulce-rincon-sector",
+          "golfo-dulce-mogos-sector"
         ]
       },
       {
@@ -2472,6 +2477,11 @@
         "sources": [
           "pelago-golfo-dulce-kayak-camp",
           "ict-golfito-jimenez-map"
+        ],
+        "points": [
+          "golfo-dulce-mogos-sector",
+          "golfo-dulce-esquinas-sector",
+          "golfo-dulce-sanjosecito-sector"
         ]
       },
       {
@@ -2485,6 +2495,10 @@
         "sources": [
           "pelago-golfo-dulce-kayak-camp",
           "hoja-de-oro-lanchas"
+        ],
+        "points": [
+          "golfo-dulce-sanjosecito-sector",
+          "puerto-jimenez-town-center"
         ]
       }
     ]

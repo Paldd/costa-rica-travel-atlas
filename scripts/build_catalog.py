@@ -490,11 +490,16 @@ def main():
     if unknown_dossiers := dossiers.keys() - known_records:
         raise ValueError(f"Unknown records with dossiers: {', '.join(sorted(unknown_dossiers))}")
     for record in records:
+        map_points = {stop["point"] for stop in record.get("dossier", {}).get("stops", [])}
         for stage in record.get("stages", []):
             stage["stops"] = [aliases.get(stop, stop) for stop in stage["stops"]]
             for stop in stage["stops"]:
                 if stop not in known_records or stop == record["id"]:
                     raise ValueError(f"Unknown or circular stop {stop} in {record['id']}")
+            if "points" in stage:
+                ids = stage["points"]
+                if not isinstance(ids, list) or not ids or len(set(ids)) != len(ids) or not set(ids) <= map_points:
+                    raise ValueError(f"Invalid map points for day {stage['day']} in {record['id']}")
     attach_stop_media(records, dossiers)
     out = ROOT / "public" / "atlas.json"
     out.write_text(json.dumps({

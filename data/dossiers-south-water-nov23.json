@@ -1,0 +1,1029 @@
+{
+  "cativo-bay-kayak-sup": {
+    "stops": [
+      {
+        "point": "cativo-lodge-gps",
+        "role": "Кативо · прибрежный лодж и спуск",
+        "note": "Команда лоджа подберёт снаряжение и подскажет точку запуска на день.",
+        "activity": "sup"
+      },
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Гольфито · район причалов",
+        "note": "Ориентир города. Номер причала для переезда присылает лодж или капитан.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Каяк и SUP у берега",
+        "text": "На странице программы описана помощь при выборе снаряжения, выходе и возвращении. Для начинающего согласуйте ближний участок и короткое окно. Более длинный выезд по манграм Эскинас оформляют отдельной программой.",
+        "sources": [
+          "south-water-playa-cativo-sup-owner",
+          "south-water-cativo-stand-up-paddle-blog",
+          "cativo-mangrove-kayak"
+        ]
+      },
+      {
+        "title": "Для семьи",
+        "text": "Лодж указывает приём детей от пяти лет. Уточните отдельный возрастной порог для SUP, возможность тандемного каяка и размер жилета. Для мокрой высадки пригодится обувь, для телефона гермомешок.",
+        "sources": [
+          "south-water-playa-cativo-sup-owner",
+          "playa-cativo-lodge-faq-owner"
+        ]
+      },
+      {
+        "title": "Как попасть на берег",
+        "text": "Отправление лодки из Гольфито или Пуэрто-Хименеса назначает команда. При своём разборном судне укажите упаковку, длину и вес и спросите об условиях перевозки и спуска.",
+        "sources": [
+          "playa-cativo-lodge-faq-owner",
+          "cativo-boat-transfer-contact",
+          "playa-cativo-contact-location-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Cativo Lodge · размещение и спуск",
+        "source": "playa-cativo-contact-location-owner",
+        "note": "Подтвердите возраст, старт, размеры жилетов, включённое снаряжение и допуск с личной доской.",
+        "url": "https://www.playacativo.com/about/contact-and-location"
+      }
+    ],
+    "galleries": [
+      "south-water-playa-cativo-sup-owner",
+      "south-water-cativo-stand-up-paddle-blog"
+    ],
+    "videos": [
+      "playa-cativo-lodge-original-video"
+    ],
+    "photos": [
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "golfito-playa-cativo-lodge-boat",
+      "golfito-cativo-rio-esquinas-kayak",
+      "playa-nicuesa-sup-kayak",
+      "san-josecito-gallardo-kayak-ocean-trail",
+      "puerto-jimenez-dona-tere-catamaran"
+    ]
+  },
+  "playa-nicuesa-sup-kayak": {
+    "stops": [
+      {
+        "point": "south-water-nicuesa-dock",
+        "role": "Playa Nicuesa · лодж и спуск у берега",
+        "note": "Для приезда требуется заранее подтверждённая лодка. Пин обозначает лодж.",
+        "activity": "sup"
+      },
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Гольфито · район причалов",
+        "note": "Ориентир города. Номер причала для переезда присылает лодж или капитан.",
+        "activity": "boat"
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · муниципальный причал",
+        "note": "Место посадки сверяйте с оператором выбранного маршрута.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Ближний берег и экскурсия",
+        "text": "Лодж публикует короткое катание у причала, экскурсию на каяке к пляжу и отдельный маршрут на SUP. Для первого выхода выберите ближнее окно и уточните, возможен ли инструктор.",
+        "sources": [
+          "south-water-nicuesa-ocean-owner",
+          "south-water-nicuesa-multisport"
+        ]
+      },
+      {
+        "title": "Трансфер и питание",
+        "text": "Выберите город старта и подтвердите точку посадки, багаж, обед и последнее время лодки. В размещение и дневной выезд могут входить разные услуги.",
+        "sources": [
+          "south-water-nicuesa-location",
+          "south-water-nicuesa-multisport"
+        ]
+      },
+      {
+        "title": "Что взять на воду",
+        "text": "Возьмите сухой мешок, лёгкую закрывающую одежду, воду и обувь на мокрый берег. Если хотите взять личную доску или весло, сначала согласуйте их перевозку. В галерее FrogTV показана территория лоджа.",
+        "sources": [
+          "south-water-nicuesa-ocean-owner",
+          "south-water-nicuesa-location",
+          "south-water-nicuesa-frogtv"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Playa Nicuesa · трансфер и водные программы",
+        "source": "south-water-nicuesa-location",
+        "note": "Спросите о лодке из выбранного города, жилетах, досках и условиях однодневного посещения.",
+        "url": "https://www.nicuesalodge.com/location",
+        "email": "info@nicuesalodge.com"
+      }
+    ],
+    "galleries": [
+      "south-water-nicuesa-ocean-owner",
+      "south-water-nicuesa-multisport"
+    ],
+    "videos": [
+      "south-water-nicuesa-frogtv"
+    ],
+    "photos": [
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "cativo-bay-kayak-sup",
+      "golfito-saladero-kayak-lodge",
+      "san-josecito-gallardo-kayak-ocean-trail",
+      "golfito-private-boat-marinas",
+      "golfito-banana-bay-reef-wreck-diving"
+    ]
+  },
+  "san-josecito-gallardo-kayak-ocean-trail": {
+    "stops": [
+      {
+        "point": "golfo-dulce-sanjosecito-sector",
+        "role": "Сан-Хосесито-де-Гальярдо · береговой сектор",
+        "note": "Ориентир на востоке Гольфо-Дульсе. Точную высадку, старт досок и возврат подтверждает команда Retreat.",
+        "activity": "kayak"
+      },
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Гольфито · район причалов",
+        "note": "Ориентир города. Номер причала для переезда присылает лодж или капитан.",
+        "activity": "boat"
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · муниципальный причал",
+        "note": "Место посадки сверяйте с оператором выбранного маршрута.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что считается Ocean Trail",
+        "text": "Оператор публикует прибрежную экскурсию в своём темпе на его каяках и досках. Попросите схему доступных остановок и программу на ветер. Лодочный выезд с гидом в Эскинас заказывают отдельно.",
+        "sources": [
+          "south-water-golfo-dulce-retreat-ocean-trail",
+          "south-water-retreat-lodge-field"
+        ]
+      },
+      {
+        "title": "Как ориентироваться",
+        "text": "Для лоджа указан берег Сан-Хосесито-де-Гальярдо на востоке залива между Пунта-Энканто и Пунта-Эль-Бао. Место высадки назначает команда. Сан-Хосесито рядом с Дрейком находится на другом берегу Оса.",
+        "sources": [
+          "south-water-retreat-arrive-gallardo",
+          "south-water-retreat-contact"
+        ]
+      },
+      {
+        "title": "Что предусмотреть",
+        "text": "Спросите, подходит ли выход по возрасту, есть ли тандем, какой жилет выдаётся и как сообщить команде о задержке. Возьмите воду, закрывающую одежду и гермомешок. Полевой обзор показывает расположение и берег лоджа.",
+        "sources": [
+          "south-water-golfo-dulce-retreat-ocean-trail",
+          "south-water-retreat-contact",
+          "south-water-retreat-lodge-field"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Golfo Dulce Retreat · Kayak Ocean Trail",
+        "source": "south-water-retreat-contact",
+        "note": "Попросите схему, условия перевозки, судно и причал для выбранной даты.",
+        "url": "https://www.golfodulceretreat.com/get-in-touch"
+      }
+    ],
+    "galleries": [
+      "south-water-golfo-dulce-retreat-ocean-trail",
+      "south-water-retreat-lodge-field"
+    ],
+    "photos": [
+      "osa-golfo-dulce-nasa"
+    ],
+    "nearby": [
+      "playa-nicuesa-sup-kayak",
+      "cativo-bay-kayak-sup",
+      "golfito-saladero-kayak-lodge",
+      "drake-pirate-catamaran-sunset",
+      "golfito-cativo-rio-esquinas-kayak"
+    ],
+    "videos": [
+      "south-water-retreat-aerial-video"
+    ]
+  },
+  "golfito-saladero-kayak-lodge": {
+    "stops": [
+      {
+        "point": "golfo-dulce-esquinas-sector",
+        "role": "Рио-Эскинас · северный берег залива",
+        "note": "Ориентир мангрового сектора. Точное прибытие лоджа и выход в мангры согласуйте с проводником.",
+        "activity": "kayak"
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · муниципальный причал",
+        "note": "Место посадки сверяйте с оператором выбранного маршрута.",
+        "activity": "boat"
+      },
+      {
+        "point": "golfito-jimenez-passenger-pier",
+        "role": "Гольфито · район причалов",
+        "note": "Ориентир города. Номер причала для переезда присылает лодж или капитан.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Два водных формата",
+        "text": "На месте можно спросить о коротком выходе с берега. Для поездки в мангры Эскинас команда публикует отдельную активность. Выход к рифу, наблюдение за дельфинами и прогулку в лесу планируют отдельно по времени и условиям.",
+        "sources": [
+          "south-water-saladero-activities",
+          "south-water-saladero-reserve-lodge",
+          "south-water-saladero-ecoclub-interview"
+        ]
+      },
+      {
+        "title": "Переезд к ночёвке",
+        "text": "Лодж принимает гостей с обоих городов залива. При поездке на машине хозяева перечисляют варианты парковки в Пуэрто-Хименесе. При транзите с Дрейка можно спросить о встрече на Плайя-Бланке.",
+        "sources": [
+          "south-water-saladero-boat-access",
+          "south-water-saladero-reserve-lodge"
+        ]
+      },
+      {
+        "title": "Точки и снаряжение",
+        "text": "Карта даёт ориентир сектора Эскинас. Точный пин спуска или высадки присылает гид. Запросите жилет, гермомешок, вариант с детьми, запасной час при дожде и питание.",
+        "sources": [
+          "south-water-saladero-boat-access",
+          "south-water-saladero-activities"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Saladero Ecolodge · лодка, занятия и ночёвка",
+        "source": "south-water-saladero-boat-access",
+        "note": "Попросите пин посадки, время погрузки, условия отдыха с детьми и гидов на нужный день.",
+        "url": "https://www.saladeroecolodge.com/lodge/getting-here",
+        "email": "contact@saladeroecolodge.com"
+      }
+    ],
+    "galleries": [
+      "south-water-saladero-activities",
+      "south-water-saladero-reserve-lodge",
+      "south-water-saladero-ecoclub-interview"
+    ],
+    "videos": [
+      "south-water-saladero-estate-field-film"
+    ],
+    "photos": [
+      "golfito-boat-bay-sussexbirder",
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "golfito-cativo-rio-esquinas-kayak",
+      "golfo-dulce-sea-kayak-lodge-expedition-8",
+      "san-josecito-gallardo-kayak-ocean-trail",
+      "playa-nicuesa-sup-kayak",
+      "osa-playa-blanca-mangrove-kayak"
+    ]
+  },
+  "rincon-el-chontal-camping": {
+    "stops": [
+      {
+        "point": "golfo-dulce-rincon-sector",
+        "role": "Ринкон · береговой сектор",
+        "note": "Хозяева дают отдельный пин въезда у школы. Для группы подтверждают спуск на воду на дату поездки.",
+        "activity": "camping"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Что есть на площадке",
+        "text": "Хозяева перечисляют наземный лагерь с душем, туалетом, парковкой и навесом с холодильником. Кабины бронируются отдельно. Для группы спросите, на каком участке могут разместить палатки и машины.",
+        "sources": [
+          "south-water-el-chontal-owner",
+          "south-water-sea-kayaking-8-day-owner"
+        ]
+      },
+      {
+        "title": "Выход к воде",
+        "text": "Эту базу использует организованная морская каяк-экспедиция. Запросите у хозяев допуск, спуск и разрешённый маршрут на день, если едете отдельно. Вариант с длинным водным этапом смотрите в карточке экспедиции.",
+        "sources": [
+          "south-water-el-chontal-owner",
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-sea-kayaking-local-guides"
+        ]
+      },
+      {
+        "title": "Короткие планы без каяка",
+        "text": "По берегу выбирайте только разрешённый проход. У хозяев можно спросить про местные фермы, обед, места для прогулки и удобный выезд к Плайя-Бланке. Для палатки возьмите дождевой тент и защиту от насекомых.",
+        "sources": [
+          "south-water-el-chontal-owner",
+          "south-water-sea-kayaking-8-day-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "El Chontal Ecolodge · палатки и кабины",
+        "source": "south-water-el-chontal-owner",
+        "note": "Запросите пин, тариф, воду, место для машины и условия костра или спуска лодки.",
+        "url": "https://elchontalecolodge.com/"
+      }
+    ],
+    "galleries": [
+      "south-water-el-chontal-owner",
+      "south-water-sea-kayaking-8-day-owner"
+    ],
+    "videos": [
+      "south-water-sea-kayaking-manke-2025"
+    ],
+    "photos": [
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "golfo-dulce-sea-kayak-lodge-expedition-8",
+      "golfo-dulce-kayak-camp-3",
+      "osa-playa-blanca-mangrove-kayak",
+      "osa-zompopas-rooftent-playa-blanca"
+    ]
+  },
+  "puerto-jimenez-dona-tere-catamaran": {
+    "stops": [
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · муниципальный причал",
+        "note": "Место посадки сверяйте с оператором выбранного маршрута.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Дневной и вечерний варианты",
+        "text": "Утром программа сосредоточена на побережье и поиске животных. Вечером есть постановка у берега и закат. Опубликованное время дневного возвращения требует уточнения у команды. Спланируйте ещё резерв до последней местной лодки.",
+        "sources": [
+          "south-water-dona-tere-catamaran-owner",
+          "south-water-osa-tourism-water-trips"
+        ]
+      },
+      {
+        "title": "Семья или компания",
+        "text": "У оператора подтверждены две палубы и туалет. Спросите про возраст, тень, посадку с ребёнком, жилет, питание, горку и условия купания. Небольшим группам центр предлагает варианты на меньшей лодке или присоединение к группе.",
+        "sources": [
+          "south-water-dona-tere-catamaran-owner",
+          "south-water-osa-tourism-water-trips"
+        ]
+      },
+      {
+        "title": "Точка на карте и видео",
+        "text": "На карте муниципальный причал Пуэрто-Хименеса. Точки остановок на воде зависят от капитана. В галерее видно судно, а видео показывает формат водной поездки.",
+        "sources": [
+          "south-water-dona-tere-catamaran-owner",
+          "south-water-dona-tere-vimeo"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osa Tourism · катамаран Doña Tere",
+        "source": "south-water-dona-tere-catamaran-owner",
+        "note": "Запросите состав группы, подтверждённый причал, слот и цену для детей.",
+        "url": "https://www.osatourism.com/golfo-dulce-cruises-dona-tere/",
+        "email": "info@osatourism.com"
+      }
+    ],
+    "galleries": [
+      "south-water-dona-tere-catamaran-owner",
+      "south-water-osa-tourism-water-trips"
+    ],
+    "videos": [
+      "south-water-dona-tere-vimeo"
+    ],
+    "photos": [
+      "puerto-jimenez-sunrise-badilla",
+      "osa-golfo-dulce-nasa"
+    ],
+    "nearby": [
+      "golfito-private-boat-marinas",
+      "cativo-bay-kayak-sup",
+      "playa-nicuesa-sup-kayak",
+      "puerto-jimenez-sunset-bioluminescence-kayak"
+    ]
+  },
+  "drake-pirate-catamaran-sunset": {
+    "stops": [
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Дрейк · берег Агуахитас",
+        "note": "Уточните фактическую переправу с берега на борт и где ждать возвращения.",
+        "activity": "catamaran"
+      },
+      {
+        "point": "drake-san-josecito-beach",
+        "role": "Сан-Хосесито · пляж рядом с Дрейком",
+        "note": "Район якорной стоянки. Выбор высадки и купания зависит от моря и капитана.",
+        "activity": "beach"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Маршрут и география",
+        "text": "Катамаран идёт из Баия-Дрейк к тихоокеанскому Сан-Хосесито. Одноимённый берег у Гольфо-Дульсе расположен на другой стороне полуострова. На карте показаны районы посадки и стоянки.",
+        "sources": [
+          "south-water-pirate-drake-sunset-owner",
+          "south-water-san-josecito-digital-panorama",
+          "osa-drake-josecito-osm"
+        ]
+      },
+      {
+        "title": "Как выбрать условия",
+        "text": "Спросите, входит ли пешая остановка, бывают ли мокрые посадки и когда возвращаются. Для ребёнка подтвердите подходящий жилет и способ подняться на борт. Возьмите сухой мешок и смену одежды.",
+        "sources": [
+          "south-water-pirate-drake-sunset-owner",
+          "south-water-pirate-drake-tour-operator"
+        ]
+      },
+      {
+        "title": "Береговая альтернатива",
+        "text": "Для короткой прогулки по берегу можно сравнить карту с отдельным пешим маршрутом из Агуахитас. Панорама показывает пляж, ролик даёт вид бухты, а судно видно на странице Pirate Drake.",
+        "sources": [
+          "south-water-san-josecito-digital-panorama",
+          "south-water-bahia-drake-coast-video",
+          "south-water-pirate-drake-sunset-owner"
+        ]
+      },
+      {
+        "title": "История поездок и проверка расписания",
+        "text": "Qué Buen Lugar ездили на катамаране Pirate Drake к Каньо в апреле 2023 года. Сравните полевые фотографии с программой заката и спросите оператора, по каким дням она доступна.",
+        "sources": [
+          "south-water-pirate-drake-contact-public",
+          "south-water-drake-qbl-field",
+          "south-water-pirate-drake-customer-reports"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pirate Drake · посадка и программа",
+        "source": "south-water-pirate-drake-contact-public",
+        "note": "Обратитесь напрямую за подтверждением выезда. Попросите прислать название судна, точку посадки, дату, цену и условия возврата.",
+        "url": "https://www.piratedrake.com/contact",
+        "phone": "+506 8787 2555"
+      }
+    ],
+    "galleries": [
+      "south-water-pirate-drake-sunset-owner",
+      "south-water-san-josecito-digital-panorama",
+      "south-water-drake-qbl-field",
+      "south-water-pirate-drake-customer-reports"
+    ],
+    "videos": [
+      "south-water-bahia-drake-coast-video"
+    ],
+    "photos": [
+      "drake"
+    ],
+    "nearby": [
+      "drake-san-josecito-coastal",
+      "drake-copa-rio-claro-canoe",
+      "uvita-pirate-catamaran-whales",
+      "san-josecito-gallardo-kayak-ocean-trail"
+    ],
+    "accessNotice": {
+      "title": "Рейс требует прямого подтверждения",
+      "text": "Проверьте у команды, доступен ли маршрут на вашу дату. При сверке сайт не ответил на прямой запрос. Ссылка на опубликованную программу и телефон сохранены в карточке.",
+      "sources": [
+        "south-water-pirate-drake-contact-public",
+        "south-water-pirate-drake-sunset-owner"
+      ]
+    }
+  },
+  "uvita-pirate-catamaran-whales": {
+    "stops": [
+      {
+        "point": "marino-uvita-gate",
+        "role": "Сектор Увита · вход у Лас-Эсферас",
+        "note": "Уточните сбор у туроператора, сектор билета и приход к берегу.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Порядок пересадки",
+        "text": "У оператора описана перевозка небольшой лодкой до катамарана. Узнайте, до какого места придётся идти по воде, как подают багаж и где встречает человек с группой.",
+        "sources": [
+          "south-water-pirate-uvita-whales-owner",
+          "south-water-pirate-drake-tour-operator"
+        ]
+      },
+      {
+        "title": "Парк и наблюдение",
+        "text": "ICT выделяет тихоокеанские миграционные окна с июля по сентябрь и с декабря по март. Южная миграция приходит к Оса и бухтам южного побережья с июля. Спросите капитана о недавних наблюдениях, приливе, билете парка и посадке с детьми.",
+        "sources": [
+          "south-water-pirate-uvita-whales-owner",
+          "marino",
+          "marino-ballena-sector-map",
+          "south-water-ict-whale-seasons"
+        ]
+      },
+      {
+        "title": "План после лодки",
+        "text": "При подходящем приливе добавьте пеший сектор Увиты. У точки доступа дежурные уточняют состояние пляжа. Фото катамарана и галерея животных доступны у организатора.",
+        "sources": [
+          "south-water-pirate-uvita-whales-owner",
+          "marino-ballena-sector-map"
+        ]
+      },
+      {
+        "title": "История поездок и проверка расписания",
+        "text": "Bahía Aventuras публикует отдельный маршрут на обычной моторной лодке в Марино-Бальена примерно на 2½–3 часа. Для катамарана используйте прямое подтверждение Pirate Drake.",
+        "sources": [
+          "south-water-pirate-drake-contact-public",
+          "south-water-bahia-aventuras-whale-day",
+          "south-water-pirate-drake-customer-reports"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pirate Drake · посадка и программа",
+        "source": "south-water-pirate-drake-contact-public",
+        "note": "Обратитесь напрямую за подтверждением выезда. Попросите прислать название судна, точку посадки, дату, цену и условия возврата.",
+        "url": "https://www.piratedrake.com/contact",
+        "phone": "+506 8787 2555"
+      },
+      {
+        "name": "Bahía Aventuras · обычная лодка из Увиты",
+        "source": "south-water-bahia-aventuras-whale-day",
+        "url": "https://www.bahiaaventuras.com/tours/whale-dolphin-combo-tour/",
+        "phone": "+506 8846 6576",
+        "note": "Сверьте наличие мест, возраст и плату за парк у организатора."
+      }
+    ],
+    "galleries": [
+      "south-water-pirate-uvita-whales-owner",
+      "south-water-pirate-drake-tour-operator",
+      "south-water-bahia-aventuras-whale-day",
+      "south-water-pirate-drake-customer-reports"
+    ],
+    "photos": [
+      "punta-uvita-commons"
+    ],
+    "nearby": [
+      "uvita-whale-tail-reef-kayak",
+      "drake-pirate-catamaran-sunset",
+      "marino-ballena",
+      "pinuela-beach",
+      "uvita-colonia-surf"
+    ],
+    "videos": [
+      "south-water-uvita-whale-kimiko-film"
+    ],
+    "accessNotice": {
+      "title": "Рейс требует прямого подтверждения",
+      "text": "Проверьте у команды, доступен ли маршрут на вашу дату. При сверке сайт не ответил на прямой запрос. Ссылка на опубликованную программу и телефон сохранены в карточке.",
+      "sources": [
+        "south-water-pirate-drake-contact-public",
+        "south-water-pirate-uvita-whales-owner"
+      ]
+    }
+  },
+  "uvita-whale-tail-reef-kayak": {
+    "stops": [
+      {
+        "point": "marino-uvita-gate",
+        "role": "Сектор Увита · вход у Лас-Эсферас",
+        "note": "Уточните сбор у туроператора, сектор билета и приход к берегу.",
+        "activity": "boat"
+      },
+      {
+        "point": "punta-ballena-tide",
+        "role": "Пунта-Увита · ориентир у косы",
+        "note": "Ориентир на карте. Место высадки, границу рифа и подход со стороны воды сообщает гид.",
+        "activity": "kayak"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Как выглядит занятие",
+        "text": "В опубликованной программе переход к рифовому району занимает примерно 30–45 минут в зависимости от темпа. Гид распределяет время между греблей, снорклингом и манграми по погоде и приливу.",
+        "sources": [
+          "south-water-bahia-aventuras-kayak-owner",
+          "marino-ballena-sector-map"
+        ]
+      },
+      {
+        "title": "Оборудование и семья",
+        "text": "В программе перечислены каяк, весло, жилет и шлем. Подтвердите тандем для ребёнка, размеры жилетов и оборудование для снорклинга. На лодку возьмите воду, защиту от солнца и сухой мешок.",
+        "sources": [
+          "south-water-bahia-aventuras-kayak-owner",
+          "marino"
+        ]
+      },
+      {
+        "title": "Свой комплект и вариант на SUP",
+        "text": "У рейнджеров уточните допуск и фактическую точку перед спуском своей лодки. Для SUP есть отдельные организованные программы у косы или в манграх, с оборудованием и согласованным приливом.",
+        "sources": [
+          "marino",
+          "marino-ballena-sector-map",
+          "south-water-uvita-sup-alternative"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Bahía Aventuras · каяк Пунта-Увита",
+        "source": "south-water-bahia-aventuras-kayak-owner",
+        "note": "Запросите подтверждённый сектор входа, размер тандема, стоимость парка и окно отлива.",
+        "url": "https://www.bahiaaventuras.com/tours/sea-kayaking-uvita-beach/"
+      },
+      {
+        "name": "SINAC Marino Ballena · доступ на воду",
+        "source": "marino-ballena-sector-map",
+        "note": "Для своей лодки сначала уточните сектор, точку спуска, режим и возможность выхода на дату.",
+        "url": "https://www.sinac.go.cr/ES/ac/Brochures/MarinoBallena_esp.pdf",
+        "email": "pnmarinoballena@gmail.com"
+      }
+    ],
+    "galleries": [
+      "south-water-bahia-aventuras-kayak-owner",
+      "south-water-uvita-sup-alternative"
+    ],
+    "photos": [
+      "marino-ballena-panoramio",
+      "punta-uvita-commons"
+    ],
+    "nearby": [
+      "uvita-pirate-catamaran-whales",
+      "marino-ballena",
+      "pinuela-beach",
+      "sierpe-estero-azul-kayak"
+    ],
+    "videos": [
+      "south-water-uvita-whale-kimiko-film"
+    ]
+  },
+  "golfito-private-boat-marinas": {
+    "stops": [
+      {
+        "point": "south-water-banana-bay-dock",
+        "role": "Banana Bay Marina · причал и дайв-центр",
+        "note": "Места стоянки и спуска уточняют у марины. У дайв-центра отдельная запись.",
+        "activity": "boat"
+      },
+      {
+        "point": "south-water-fish-hook-dock",
+        "role": "Fish Hook Marina · гостевой причал",
+        "note": "Согласуйте длину, осадку, судовые документы и время связи с дежурным.",
+        "activity": "boat"
+      },
+      {
+        "point": "south-water-marina-bahia-golfito",
+        "role": "Bahía Golfito · северная гостевая марина",
+        "note": "Служба марины подтверждает подход к выделенному месту и условия стоянки.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Какая марина подойдёт",
+        "text": "Fish Hook публикует 20 причальных мест для яхт и парусных судов. Banana Bay публикует порядок подхода и связи. Marina Bahía Golfito заявляет места для судов длиной 40–350 футов. Для небольшой моторной лодки размеры и цену согласуют напрямую.",
+        "sources": [
+          "south-water-fish-hook-marina-owner",
+          "south-water-banana-bay-marina-arrivals",
+          "south-water-marina-bahia-golfito-slips"
+        ]
+      },
+      {
+        "title": "Свой прицеп или заход по воде",
+        "text": "Для захода с моря передайте данные судна и получите инструкции диспетчера. При въезде из другой страны уточните актуальные процедуры у марины и портовых служб. Для спуска с прицепа запросите тип рампы, время прилива и парковку.",
+        "sources": [
+          "south-water-banana-bay-marina-arrivals",
+          "south-water-golfito-docking-noonsite",
+          "south-water-fish-hook-marina-owner"
+        ]
+      },
+      {
+        "title": "Что есть на берегу",
+        "text": "В районе Fish Hook и Banana Bay есть размещение и услуги для путешественников. Из Banana Bay начинает работу местный дайв-центр. Полевой фильм показывает прошлый поход в заливе, условия стоянки берут у причалов.",
+        "sources": [
+          "south-water-fish-hook-marina-owner",
+          "south-water-oceans-pro-contact",
+          "south-water-golfo-dulce-sailing-log",
+          "south-water-golfito-docking-noonsite"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Fish Hook Marina · размещение судна",
+        "source": "south-water-fish-hook-marina-owner",
+        "note": "Размеры, стоимость, наличие места, ночная связь и трансфер на берег.",
+        "url": "https://en.fishhookcr.com/"
+      },
+      {
+        "name": "Banana Bay Marina · согласование захода",
+        "source": "south-water-banana-bay-marina-arrivals",
+        "note": "Режим захода, дневное место и допуск для небольшой лодки.",
+        "url": "https://bananabaymarinagolfito.com/marina/arrival-information/"
+      },
+      {
+        "name": "Marina Bahía Golfito · действующий причал",
+        "source": "south-water-marina-bahia-golfito-slips",
+        "note": "Запросите место с учётом размеров и список услуг, которые входят в цену.",
+        "url": "https://www.marinabahiagolfito.com/marina-services"
+      }
+    ],
+    "galleries": [
+      "south-water-fish-hook-marina-owner",
+      "south-water-marina-bahia-golfito-slips"
+    ],
+    "videos": [
+      "south-water-golfo-dulce-sailing-log"
+    ],
+    "photos": [
+      "golfito-boat-bay-sussexbirder",
+      "golfito-dulce-commons",
+      "osa-golfo-dulce-nasa"
+    ],
+    "nearby": [
+      "golfito-banana-bay-reef-wreck-diving",
+      "golfito-banana-bay-discover-scuba",
+      "puerto-jimenez-dona-tere-catamaran",
+      "playa-nicuesa-sup-kayak"
+    ],
+    "accessNotice": {
+      "title": "Заход по подтверждению марины",
+      "text": "Тип причала, осадку, связь и возможность спуска с прицепа сверяют с дежурной командой. Береговые места для каяков и SUP согласуются отдельно.",
+      "sources": [
+        "south-water-fish-hook-marina-owner",
+        "south-water-banana-bay-marina-arrivals",
+        "south-water-marina-bahia-golfito-slips"
+      ]
+    }
+  },
+  "golfito-banana-bay-reef-wreck-diving": {
+    "stops": [
+      {
+        "point": "south-water-banana-bay-dock",
+        "role": "Banana Bay Marina · причал и дайв-центр",
+        "note": "Места стоянки и спуска уточняют у марины. У дайв-центра отдельная запись.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Полдня или целый день",
+        "text": "Центр публикует полудневный выезд с двумя погружениями и варианты более длинных поездок. Подтвердите время сбора, допустимые глубины для своего уровня, состав группы и выбор рифа или рэка.",
+        "sources": [
+          "south-water-oceans-pro-divers-trips",
+          "south-water-golfito-padi-half-day"
+        ]
+      },
+      {
+        "title": "Снаряжение и допуск",
+        "text": "Уточните прокат, размер гидрокостюма, карточку сертификации, меданкету и интервал до вашего перелёта по рекомендациям школы. При длительном перерыве спросите о занятии перед выходом.",
+        "sources": [
+          "south-water-oceans-pro-divers-trips",
+          "south-water-oceans-pro-contact",
+          "south-water-oceans-pro-dsd"
+        ]
+      },
+      {
+        "title": "Планирование базы",
+        "text": "Пин ведёт к Banana Bay Marina в Гольфито. Место погружения определяет центр в день выезда. Отдельная карточка марины охватывает гостевую стоянку своего судна.",
+        "sources": [
+          "south-water-banana-bay-marina-map",
+          "south-water-oceans-pro-contact",
+          "south-water-banana-bay-marina-arrivals"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Oceans Pro Divers Golfito · запись в Banana Bay",
+        "source": "south-water-oceans-pro-contact",
+        "note": "Сообщите возраст, уровень, число предыдущих погружений и даты. Запросите размер экипировки и медицинскую анкету.",
+        "url": "https://oceansprodiversgolfito.com/contact/",
+        "phone": "+506 8402 2222"
+      }
+    ],
+    "galleries": [
+      "south-water-oceans-pro-divers-trips",
+      "south-water-golfito-padi-half-day"
+    ],
+    "photos": [
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "golfito-banana-bay-discover-scuba",
+      "golfito-private-boat-marinas",
+      "cativo-bay-kayak-sup",
+      "playa-nicuesa-sup-kayak",
+      "drake-cano-guided-scuba"
+    ]
+  },
+  "golfito-banana-bay-discover-scuba": {
+    "stops": [
+      {
+        "point": "south-water-banana-bay-dock",
+        "role": "Banana Bay Marina · причал и дайв-центр",
+        "note": "Места стоянки и спуска уточняют у марины. У дайв-центра отдельная запись.",
+        "activity": "boat"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Для первого опыта",
+        "text": "На странице программы указаны возраст от 10 лет и формат от одного до двух дней. Спросите о занятии в закрытой воде, количестве участников, возможности индивидуального инструктора и расписании для ребёнка.",
+        "sources": [
+          "south-water-oceans-pro-dsd",
+          "south-water-oceans-pro-contact"
+        ]
+      },
+      {
+        "title": "Подготовка",
+        "text": "Центр подтвердит медицинскую анкету, языки инструктажа, размеры маски и гидрокостюма, документы взрослого для несовершеннолетнего и оборудование.",
+        "sources": [
+          "south-water-oceans-pro-dsd",
+          "south-water-oceans-pro-contact"
+        ]
+      },
+      {
+        "title": "Место встречи",
+        "text": "Занятия координируют из школы в Banana Bay Marina. Подходящую площадку для практики назначит инструктор. Сертифицированные дайверы могут выбрать отдельный маршрут к рифу и рэку.",
+        "sources": [
+          "south-water-banana-bay-marina-map",
+          "south-water-oceans-pro-contact",
+          "south-water-oceans-pro-divers-trips"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Oceans Pro Divers Golfito · запись в Banana Bay",
+        "source": "south-water-oceans-pro-contact",
+        "note": "Сообщите возраст, уровень, число предыдущих погружений и даты. Запросите размер экипировки и медицинскую анкету.",
+        "url": "https://oceansprodiversgolfito.com/contact/",
+        "phone": "+506 8402 2222"
+      }
+    ],
+    "galleries": [
+      "south-water-oceans-pro-dsd",
+      "south-water-golfito-padi-half-day"
+    ],
+    "photos": [
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "golfito-banana-bay-reef-wreck-diving",
+      "golfito-private-boat-marinas",
+      "playa-nicuesa-sup-kayak",
+      "uvita-whale-tail-reef-kayak"
+    ]
+  },
+  "golfo-dulce-sea-kayak-lodge-expedition-8": {
+    "stops": [
+      {
+        "point": "south-water-sjo-airport",
+        "role": "SJO · прибытие и вылет",
+        "note": "Хозяева сообщают, у какого выхода ждать трансфер. Альтернативный вариант начинается в лодже на Оса.",
+        "activity": "scenic-flight"
+      },
+      {
+        "point": "golfo-dulce-rincon-sector",
+        "role": "Ринкон · береговой сектор",
+        "note": "Хозяева дают отдельный пин въезда у школы. Для группы подтверждают спуск на воду на дату поездки.",
+        "activity": "camping"
+      },
+      {
+        "point": "golfo-dulce-esquinas-sector",
+        "role": "Рио-Эскинас · северный берег залива",
+        "note": "Ориентир мангрового сектора. Точное прибытие лоджа и выход в мангры согласуйте с проводником.",
+        "activity": "kayak"
+      },
+      {
+        "point": "osa-playa-blanca-coast",
+        "role": "Плайя-Бланка · сектор Lapamar",
+        "note": "Ориентир берега. Организатор подтверждает лодж, место высадки и распорядок дня.",
+        "activity": "kayak"
+      },
+      {
+        "point": "puerto-jimenez-port",
+        "role": "Пуэрто-Хименес · муниципальный причал",
+        "note": "Место посадки сверяйте с оператором выбранного маршрута.",
+        "activity": "boat"
+      },
+      {
+        "point": "osa-sirena-station",
+        "role": "Сирена · посещение станции",
+        "note": "Пеший этап с натуралистом по правилам парка. Место лодочной высадки подтверждает оператор.",
+        "activity": "hiking"
+      },
+      {
+        "point": "golfo-dulce-mogos-sector",
+        "role": "Могос · северный берег и островки",
+        "note": "Береговой ориентир района Могос. Капитан и проводник выбирают линию перехода.",
+        "activity": "kayak"
+      },
+      {
+        "point": "south-water-puerto-jimenez-airport",
+        "role": "Аэродром Пуэрто-Хименеса",
+        "note": "Пункт внутреннего перелёта при включённом пакете. Фактический рейс подтверждает оператор.",
+        "activity": "scenic-flight"
+      }
+    ],
+    "connectStops": false,
+    "sections": [
+      {
+        "title": "Водные дистанции по дням",
+        "text": "Во второй день около 5 км, в третий 6–12 км, в четвёртый 12 км. Для шестого дня оператор разделяет около 15 км до Могоса и около 20 км за полный этап. Пятый день проходит на лодке и тропах Корковадо.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-sea-kayaking-golfo-dulce-field",
+          "osa-sirena-sinac"
+        ]
+      },
+      {
+        "title": "Ночёвки и самостоятельное прибытие",
+        "text": "Организатор публикует сезон с ноября по май. На берегу ночуют в El Chontal и Lapamar. В полном пакете предусмотрены дни у международного аэропорта. При самостоятельном заезде уточните парковку и время начала в El Chontal.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-el-chontal-owner"
+        ]
+      },
+      {
+        "title": "Снаряжение и допуск подростков",
+        "text": "Минимальный возраст в программе 12 лет. До оплаты сообщите опыт и ограничения, согласуйте одиночный или тандемный каяк, жилет, перевозку багажа, сухие мешки, питание и план на непогоду.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-sea-kayaking-local-guides",
+          "south-water-sea-kayaking-golfo-dulce-field"
+        ]
+      },
+      {
+        "title": "Как пользоваться картой",
+        "text": "Выбирайте день, чтобы увидеть его причалы, берега и остановки. GPX сохраняет ориентиры выбранного дня. Переходом на воде руководит инструктор, фактические места высадки подтверждает команда.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-puerto-jimenez-aerodrome-map",
+          "osa-sirena-sinac"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sea Kayaking Costa Rica · сбор группы и гиды",
+        "source": "south-water-sea-kayaking-8-day-owner",
+        "note": "Подтвердите долю времени на воде, опыт группы, снаряжение, полёт и формат самостоятельного заезда.",
+        "url": "https://seakayakingcostarica.com/8-day-lodge-to-lodge-golfo-dulce-sea-kayaking-trip-november-may/",
+        "email": "contact@seakayakingcostarica.com"
+      },
+      {
+        "name": "El Chontal Ecolodge · старт, парковка и кабины",
+        "source": "south-water-el-chontal-owner",
+        "note": "Получите точку встречи и условия для машины при самостоятельном заезде.",
+        "url": "https://elchontalecolodge.com/"
+      }
+    ],
+    "galleries": [
+      "south-water-sea-kayaking-8-day-owner",
+      "south-water-sea-kayaking-golfo-dulce-field",
+      "south-water-el-chontal-owner"
+    ],
+    "videos": [
+      "south-water-sea-kayaking-manke-2025"
+    ],
+    "photos": [
+      "osa-golfo-dulce-nasa",
+      "outings-golfo-dulce"
+    ],
+    "nearby": [
+      "rincon-el-chontal-camping",
+      "osa-playa-blanca-mangrove-kayak",
+      "golfito-cativo-rio-esquinas-kayak",
+      "golfito-saladero-kayak-lodge",
+      "golfo-dulce-kayak-camp-3",
+      "corcovado-sirena"
+    ]
+  }
+}

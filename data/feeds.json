@@ -2701,5 +2701,63 @@
     ],
     "language": "en",
     "focus": "Программы вылетов, остановки у Корковадо, условия допуска, вылета и возвращения."
+  },
+  {
+    "name": "Sea Kayaking Costa Rica · морские экспедиции и проводники",
+    "url": "https://seakayakingcostarica.com/8-day-lodge-to-lodge-golfo-dulce-sea-kayaking-trip-november-may/",
+    "review": "south-water-sea-kayaking-8-day-owner",
+    "exactPaths": [
+      "/8-day-lodge-to-lodge-golfo-dulce-sea-kayaking-trip-november-may/",
+      "/golfo-dulce-costa-rica/",
+      "/our-company/"
+    ],
+    "language": "en",
+    "focus": "Многодневные морские маршруты, дневной километраж, локальные проводники, условия входа."
+  },
+  {
+    "name": "Osa Tourism · катамаран и другие лодки на Оса",
+    "url": "https://www.osatourism.com/golfo-dulce-cruises-dona-tere/",
+    "review": "south-water-dona-tere-catamaran-owner",
+    "exactPaths": [
+      "/golfo-dulce-cruises-dona-tere/",
+      "/osa-peninsula-water-tours/"
+    ],
+    "language": "en",
+    "focus": "Местные программы по заливу, условия посадки, группы, сезон и контакты."
+  },
+  {
+    "name": "Saladero Ecolodge · вода, тропы и береговая логистика",
+    "url": "https://www.saladeroecolodge.com/activities",
+    "review": "south-water-saladero-activities",
+    "exactPaths": [
+      "/activities",
+      "/lodge",
+      "/lodge/getting-here"
+    ],
+    "language": "en",
+    "focus": "Местный лодж публикует маршруты, поездки в мангры и согласование лодки."
+  },
+  {
+    "name": "Oceans Pro Divers · дайвинг и вводные занятия в Гольфито",
+    "url": "https://oceansprodiversgolfito.com/trips/",
+    "review": "south-water-oceans-pro-divers-trips",
+    "exactPaths": [
+      "/trips/",
+      "/discover-scuba-diving/"
+    ],
+    "language": "en",
+    "focus": "Вводные занятия, рифы, рэки, контакт школы и точка регистрации."
+  },
+  {
+    "name": "Playa Nicuesa · лодка, вода и лесные программы",
+    "url": "https://www.nicuesalodge.com/experiences/ocean-activities",
+    "review": "south-water-nicuesa-ocean-owner",
+    "exactPaths": [
+      "/experiences/ocean-activities",
+      "/location",
+      "/specials-packages/rainforest-multisport"
+    ],
+    "language": "en",
+    "focus": "Каяки, доски, размещение, лодочные переезды и программа лесных занятий."
   }
 ]

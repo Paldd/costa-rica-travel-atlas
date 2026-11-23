@@ -14,15 +14,24 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
   const mapView = useRef(null);
   const [selected, setSelected] = useState(null);
   const [stageId, setStageId] = useState("");
-  const stages = useMemo(() => (line?.stages || []).map(id => ({ id, ...lines[id] })), [line, lines]);
+  const stages = useMemo(() => {
+    if (line) return (line.stages || []).map(id => ({ id, ...lines[id] }));
+    return (record.stages || []).filter(stage => stage.points?.length).map(stage => ({
+      id: `day-${stage.day}`,
+      title: `День ${stage.day} · ${stage.title}`,
+      points: stage.points,
+      stageSource: stage.sources?.[0],
+    }));
+  }, [line, lines, record.stages]);
   const activeStage = stages.find(stage => stage.id === stageId);
   const numberedStops = stops.map((stop, index) => ({ stop, index }));
-  const visibleStops = activeStage
-    ? activeStage.points.flatMap(point => numberedStops.filter(({ stop }) => stop.point === point))
+  const stopsForStage = stage => stage
+    ? stage.points.flatMap(point => numberedStops.filter(({ stop }) => stop.point === point))
     : numberedStops;
+  const visibleStops = stopsForStage(activeStage);
   const lineSource = sources[activeStage?.source || line?.source];
   const stageSource = sources[activeStage?.stageSource];
-  const exportLine = activeStage || line;
+  const exportLine = activeStage?.coords ? activeStage : line;
   const exportTitle = activeStage?.title || record.title;
   const hasTracks = openMapLines(exportLine, lines, sources).length > 0;
 
@@ -30,14 +39,14 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
     const map = createOsmMap(container.current);
 
     const positions = stops.map(stop => stop.coords);
+    const bounds = L.latLngBounds(positions);
+    const paths = (line?.stages ? stages : line ? [line] : []).map(stage => {
+      const layer = L.polyline(stage.coords, routePathStyle(stage.water)).addTo(map);
+      bounds.extend(layer.getBounds());
+      return { id: stage.id, layer };
+    });
+    mapView.current = { map, paths, bounds };
     if (line) {
-      const bounds = L.latLngBounds(positions);
-      const paths = (stages.length ? stages : [line]).map(stage => {
-        const layer = L.polyline(stage.coords, routePathStyle(stage.water)).addTo(map);
-        bounds.extend(layer.getBounds());
-        return { id: stage.id, layer };
-      });
-      mapView.current = { map, paths, bounds };
       map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });
     } else if (positions.length > 1) {
       if (connectStops) L.polyline(positions, { color: "#874916", weight: 3, dashArray: "6 8", interactive: false }).addTo(map);
@@ -82,15 +91,20 @@ export default function RouteMap({ record, stops, track, line, lines, sources, c
     if (!view) return;
     const stage = stages.find(item => item.id === id);
     view.map.closePopup();
-    let bounds = view.bounds;
+    const dayStops = stopsForStage(stage);
+    const bounds = stage ? L.latLngBounds(dayStops.map(({ stop }) => stop.coords)) : view.bounds;
     for (const path of view.paths) {
       path.layer.setStyle({ opacity: !id || path.id === id ? 1 : 0.28 });
       if (id && path.id === id) {
         path.layer.bringToFront();
-        bounds = L.latLngBounds(path.layer.getBounds());
-        for (const stop of stops) {
-          if (stage.points.includes(stop.point)) bounds.extend(stop.coords);
-        }
+        bounds.extend(path.layer.getBounds());
+      }
+    }
+    if (!line) {
+      const dayMarkers = new Set(dayStops.map(({ index }) => markers.current[index]));
+      for (const marker of new Set(markers.current)) {
+        if (dayMarkers.has(marker)) marker.addTo(view.map);
+        else marker.remove();
       }
     }
     view.map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });

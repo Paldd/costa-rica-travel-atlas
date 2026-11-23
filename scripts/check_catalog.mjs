@@ -384,6 +384,15 @@ assert.deepEqual(atlas.lines[cativo.dossier.line].points, ["puerto-jimenez-port"
 const sirenaFlight = find({ region: "south", activity: "scenic-flight", material: "video" })
   .find(row => row.id === "corcovado-sirena-helicopter-hike");
 assert(!sirenaFlight.dossier.line && !sirenaFlight.dossier.connectStops);
+const gulfExpedition = find({ region: "south", activity: "kayak", duration: "long" }, "expeditions")
+  .find(row => row.id === "golfo-dulce-sea-kayak-lodge-expedition-8");
+assert.equal(gulfExpedition.stages.length, 8);
+assert.deepEqual(gulfExpedition.stages[5].points, ["osa-playa-blanca-coast", "golfo-dulce-mogos-sector", "golfo-dulce-rincon-sector"]);
+assert(!gulfExpedition.dossier.line && !gulfExpedition.dossier.connectStops);
+const privateMarinas = find({ region: "south", activity: "own-craft", detail: "map" })
+  .find(row => row.id === "golfito-private-boat-marinas");
+assert.equal(privateMarinas.dossier.stops.length, 3);
+assert(!privateMarinas.activities.some(tag => tag === "sup" || tag === "kayak"));
 const poceron = records.find(row => row.id === "providencia-poceron-calle-la-piedra");
 const poceronLong = find({ region: "mountains", activity: "hiking", km: "thirty", detail: "track" })
   .find(row => row.id === "dota-quebrada-arroyo-poceron-26");

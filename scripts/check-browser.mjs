@@ -387,6 +387,24 @@ async function checkViewport(browser, width) {
     assert(!sanJuanGpx.includes("<trk>"));
     assert.equal(await page.locator(".stages li").count(), 7);
     await checkWidth();
+
+    const gulfExpedition = records.get("golfo-dulce-sea-kayak-lodge-expedition-8");
+    await open("expeditions?region=south&activity=kayak&duration=long");
+    await page.getByRole("link", { name: gulfExpedition.title, exact: true }).click();
+    await heading(gulfExpedition);
+    const gulfMap = page.getByRole("region", { name: "Карта маршрута" });
+    const gulfDays = gulfMap.getByLabel("Участок на карте");
+    await gulfMap.locator(".leaflet-marker-pane .route-map-marker").first().waitFor();
+    await gulfDays.selectOption("day-6");
+    assert.equal(await gulfMap.locator(".route-map-stops li").count(), 3);
+    assert.equal(await gulfMap.locator(".leaflet-marker-pane .route-map-marker").count(), 3);
+    assert.equal(await gulfMap.locator(".leaflet-overlay-pane path").count(), 0);
+    const gulfDayGpx = await exportText(gulfMap.getByRole("button", { name: "Скачать точки GPX" }));
+    assert.equal((gulfDayGpx.match(/<wpt /g) || []).length, 3);
+    assert(!gulfDayGpx.includes("<trk>") && gulfDayGpx.includes("Могос"));
+    await gulfDays.selectOption("");
+    assert.equal(await gulfMap.locator(".leaflet-marker-pane .route-map-marker").count(), gulfExpedition.dossier.stops.length);
+    await checkWidth();
     assert.deepEqual(errors, []);
     console.log(width + " px: catalog, media, route and stage GPX, published sources and access notices passed.");
   } finally {

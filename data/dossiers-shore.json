@@ -878,6 +878,15 @@
           "uvita360-chaman-lesson",
           "imn-tides-table"
         ]
+      },
+      {
+        "title": "Морская прогулка из Увиты",
+        "text": "Bahía Aventuras публикует выход на обычной лодке за китами и дельфинами на 2½–3 часа. Уточните срок, возраст ребёнка и билет парка. Для прогулки на SUP или каяке смотрите варианты у Пунта-Увита.",
+        "sources": [
+          "south-water-bahia-aventuras-whale-day",
+          "south-water-bahia-aventuras-kayak-owner",
+          "marino-ballena-sector-map"
+        ]
       }
     ],
     "contacts": [
@@ -919,7 +928,9 @@
       "cola-ballena-rooftop",
       "pinuela-beach",
       "ventanas-shore",
-      "costa-ballena-rooftop-surf-3"
+      "costa-ballena-rooftop-surf-3",
+      "uvita-pirate-catamaran-whales",
+      "uvita-whale-tail-reef-kayak"
     ],
     "track": "marino-ballena-sector-map"
   },

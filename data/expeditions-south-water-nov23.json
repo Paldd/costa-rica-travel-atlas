@@ -1,0 +1,176 @@
+[
+  {
+    "id": "golfo-dulce-sea-kayak-lodge-expedition-8",
+    "kind": "trip",
+    "region": "south",
+    "title": "Гольфо-Дульсе · восемь дней на морских каяках с ночёвками в лоджах",
+    "native": "Sea Kayaking Costa Rica · El Chontal · Lapamar · Río Esquinas · Mogos Isles · Sirena",
+    "level": "expedition",
+    "days": 8,
+    "activities": [
+      "kayak",
+      "boat",
+      "hiking",
+      "forest",
+      "wildlife",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "south-water-sea-kayaking-8-day-owner",
+      "south-water-sea-kayaking-local-guides",
+      "south-water-sea-kayaking-golfo-dulce-field",
+      "south-water-el-chontal-owner",
+      "osa-sirena-sinac",
+      "south-water-puerto-jimenez-aerodrome-map"
+    ],
+    "summary": "Программа с морским каяком, двумя лоджами, манграми Эскинас и днём в Корковадо. Оператор принимает от 12 лет и предлагает полный тур из SJO и вариант с самостоятельным заездом на Оса.",
+    "plan": "Согласуйте опыт, возраст подростков, группу 4–14 человек, комплект каяка, условия перелёта и график. В базовом варианте приезжают к обеду второго дня и возвращаются своим транспортом после завтрака седьмого дня.",
+    "conditions": "Это морская экспедиция с проводником. Последний каячный день достигает 20 км. Маршрут меняют по приливу и ветру. Уточните доступ к Сирене, своё место в группе и условия переноса.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Прилёт в SJO и ночёвка рядом с аэропортом",
+        "note": "Полная программа включает встречу с представителем и переезд в отель у аэропорта. Подтвердите окно встречи при покупке билета.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-sea-kayaking-local-guides"
+        ],
+        "stops": [],
+        "points": [
+          "south-water-sjo-airport"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Переезд в Ринкон, примерка снаряжения и первые 5 км",
+        "note": "После переезда на Оса и размещения в El Chontal команда проводит инструктаж и короткий выход по берегу. Базовый пакет начинается с обеда здесь.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-el-chontal-owner"
+        ],
+        "stops": [
+          "rincon-el-chontal-camping"
+        ],
+        "points": [
+          "south-water-sjo-airport",
+          "golfo-dulce-rincon-sector"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Мангры Рио-Эскинас · 6–12 км на воде",
+        "note": "По программе катер завозит группу к речному участку, дальше переход ведёт инструктор. Расстояние и время на воде зависят от прилива и условий.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "piedras"
+        ],
+        "stops": [
+          "golfito-cativo-rio-esquinas-kayak"
+        ],
+        "points": [
+          "golfo-dulce-rincon-sector",
+          "golfo-dulce-esquinas-sector"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Ринкон → Плайя-Бланка · около 12 км",
+        "note": "Переход вдоль берега через район Пунта-Пальмас в Lapamar Ecolodge. В приливное окно возможен дополнительный выезд в мангры Барригонес.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-sea-kayaking-golfo-dulce-field"
+        ],
+        "stops": [
+          "rincon-el-chontal-camping",
+          "osa-playa-blanca-mangrove-kayak"
+        ],
+        "points": [
+          "golfo-dulce-rincon-sector",
+          "osa-playa-blanca-coast"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Корковадо и станция Сирена",
+        "note": "Из Плайя-Бланки группа выезжает в Пуэрто-Хименес и садится на моторную лодку к парку. Ходьба по тропам с гидом около 5–10 км по программе, по условиям парка.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "osa-sirena-sinac"
+        ],
+        "stops": [
+          "corcovado-sirena"
+        ],
+        "points": [
+          "osa-playa-blanca-coast",
+          "puerto-jimenez-port",
+          "osa-sirena-station"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Плайя-Бланка → Могос → Ринкон",
+        "note": "В описании до Могоса указано примерно 15 км. В сводке у организатора весь день занимает до 20 км. После возвращения в El Chontal запланирован визит на какао-ферму.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-sea-kayaking-golfo-dulce-field"
+        ],
+        "stops": [
+          "osa-playa-blanca-mangrove-kayak",
+          "rincon-el-chontal-camping"
+        ],
+        "points": [
+          "osa-playa-blanca-coast",
+          "golfo-dulce-mogos-sector",
+          "golfo-dulce-rincon-sector"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Пуэрто-Хименес → Сан-Хосе",
+        "note": "В полном пакете переезд в аэропорт, перелёт и гостиница у SJO. В базовом пакете поездка заканчивается у El Chontal после завтрака, дальше участники едут сами.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-puerto-jimenez-aerodrome-map"
+        ],
+        "stops": [
+          "rincon-el-chontal-camping"
+        ],
+        "points": [
+          "golfo-dulce-rincon-sector",
+          "south-water-puerto-jimenez-airport",
+          "south-water-sjo-airport"
+        ]
+      },
+      {
+        "day": 8,
+        "title": "Отъезд или продолжение поездки",
+        "note": "Сверьте с оператором время трансфера до SJO. Для продолжения отдыха на юге согласуйте замену последнего трансфера раньше.",
+        "sources": [
+          "south-water-sea-kayaking-8-day-owner",
+          "south-water-sea-kayaking-local-guides"
+        ],
+        "stops": [],
+        "points": [
+          "south-water-sjo-airport"
+        ]
+      }
+    ]
+  }
+]
