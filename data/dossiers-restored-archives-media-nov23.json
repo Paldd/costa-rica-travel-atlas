@@ -1,0 +1,124 @@
+{
+  "ostional-turtle-hatchling-dawn": {
+    "stops": [
+      {
+        "point": "ostional-village-road",
+        "role": "Остиональ · дорожный ориентир в посёлке",
+        "note": "В тёмное время сначала сверяйте дорогу и место сбора, указанные гидом.",
+        "activity": "car"
+      },
+      {
+        "point": "ostional-dawn-area",
+        "role": "Метка из программы Osti Tours",
+        "note": "Координаты из карточки оператора. Место сбора зависит от участка, на который ведут группу.",
+        "activity": "wildlife"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два разных события",
+        "text": "На рассвете здесь предлагают наблюдать выход черепашат. Массовый выход взрослых на кладку проходит по отдельной программе. Возможность увидеть животных зависит от состояния кладок и текущего режима заповедника.",
+        "sources": [
+          "ostional-sunrise-operator",
+          "ostional-sinac-adio"
+        ]
+      },
+      {
+        "title": "Когда выезжать",
+        "text": "Osti Tours публикует окно 05:00–06:30. Спросите накануне о времени сбора, состоянии въезда после дождя, длительности и возрасте детей. При раннем старте удобно остаться в районе Остионаля или Носары.",
+        "sources": [
+          "ostional-sunrise-operator",
+          "ostional-sunrise-meeting-map"
+        ]
+      },
+      {
+        "title": "На пляже",
+        "text": "Следуйте указаниям местного гида о свете, фото и расстоянии. Планируйте приключение как наблюдение. Архивный видеоотчёт полезен, чтобы показать детям, как движение по пляжу выглядит со стороны.",
+        "sources": [
+          "ostional-sinac-adio",
+          "ostional-hatchlings-david-burns-film"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Osti Tours · рассветный выход",
+        "source": "ostional-sunrise-operator",
+        "note": "Спросите о выходе на нужную дату, точке встречи, цене и детской группе.",
+        "phone": "+506 8493 5775",
+        "url": "https://wa.me/50684935775"
+      }
+    ],
+    "nearby": [
+      "ostional-turtle-guides",
+      "guiones-ostional-30",
+      "nosara-ostional-pachamama-guided-ebike"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "ostional-sunrise-operator"
+    ],
+    "videos": [
+      "ostional-hatchlings-david-burns-film"
+    ]
+  },
+  "punta-islita-macaw-reserve-tour": {
+    "stops": [
+      {
+        "point": "gravel-punta-islita-area",
+        "role": "Пунта-Ислита · ориентир в районе заповедника",
+        "note": "Запросите точку встречи у центра. Прямой проезд к площадке есть по ссылке Waze.",
+        "activity": "wildlife"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Час с проводником",
+        "text": "На странице центра указаны старты в 07:30 и 16:00. Сначала проходит небольшое знакомство с проектом, затем наблюдение за стаей в лесу. Посещение открыто для гостей заповедника по записи.",
+        "sources": [
+          "islita-mrn-tours",
+          "islita-macaw-visitor-booking"
+        ]
+      },
+      {
+        "title": "Два часа для фотографии",
+        "text": "Фотопрограмма начинается около 07:00. Возьмите подходящий объектив, воду, головной убор и закрытую обувь. В бронировании действуют отдельные места и цены для детей, уточните также длину пешей части.",
+        "sources": [
+          "islita-mrn-tours",
+          "islita-macaw-visitor-contact"
+        ]
+      },
+      {
+        "title": "Куда подъехать",
+        "text": "Уточните у команды парковку и точку регистрации по почте. Центр разведения закрыт для посещения. Если едете с детьми, после тура можно посмотреть мозаики в деревне.",
+        "sources": [
+          "islita-mrn-tours",
+          "islita-macaw-waze",
+          "islita-museum-cultura"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Macaw Recovery Network · визиты в Пунта-Ислите",
+        "source": "islita-macaw-visitor-contact",
+        "note": "Уточните свободную дату, условия с детьми, парковку и точку встречи.",
+        "phone": "+506 8505 3336",
+        "email": "islita@macawrecoverynetwork.org",
+        "url": "https://www.waze.com/live-map/directions/cr/guanacaste-province/punta-islita/macaw-recovery-network-%28previously-the-ara-project%29?to=place.ChIJ63NJ7MMJn48RAoo26i2wlTs"
+      }
+    ],
+    "nearby": [
+      "punta-islita-art-walk",
+      "punta-islita-ora-mangrove-kayak",
+      "punta-islita-resort-ebike"
+    ],
+    "connectStops": false,
+    "galleries": [
+      "islita-mrn-tours"
+    ],
+    "videos": [
+      "islita-macaw-live-high"
+    ]
+  }
+}

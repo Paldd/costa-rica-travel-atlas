@@ -287,6 +287,14 @@
           "ostional-sinac-adio",
           "ostional-osti-solitarias"
         ]
+      },
+      {
+        "title": "Рассветный вариант",
+        "text": "Если интересуют черепашата, у Osti Tours есть отдельная программа на рассвете. Свяжитесь с местной командой накануне и подтвердите подход к пляжу. Архивное видео показывает типичный вид массового выхода черепах на этом берегу.",
+        "sources": [
+          "ostional-sunrise-operator",
+          "ostional-el-periodico-arribada-film"
+        ]
       }
     ],
     "contacts": [
@@ -305,7 +313,8 @@
     ],
     "nearby": [
       "guiones-ostional-30",
-      "nosara-ostional-pachamama-guided-ebike"
+      "nosara-ostional-pachamama-guided-ebike",
+      "ostional-turtle-hatchling-dawn"
     ],
     "connectStops": false,
     "galleries": [

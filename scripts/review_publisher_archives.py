@@ -25,9 +25,10 @@ VOID = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "met
 SECTION_PATH = re.compile(r"/(?:author|authors|category|categoria|tag|tags|page|search|searchtag)(?:/|$)", re.I)
 MIN_BODY_CHARS = 350
 ARTICLE_BODY_CLASSES = {
-    "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content", "section-gutenberg",
+    "adventure--detail", "blogDetailBodyContent", "elementor-widget-theme-post-content",
+    "full-description", "section-gutenberg",
 }
-EXTRACTOR_VERSION = 9
+EXTRACTOR_VERSION = 10
 CATALOG_MATCH_VERSION = 1
 SOCIAL_HOSTS = {"facebook.com": "Facebook", "m.facebook.com": "Facebook", "web.facebook.com": "Facebook", "instagram.com": "Instagram"}
 VIDEO_ID = re.compile(r"[A-Za-z0-9_-]{11}")
@@ -89,8 +90,12 @@ class EditorialPage(HTMLParser):
                 or bool(classes & ARTICLE_BODY_CLASSES) or wordpress_post
                 or attrs.get("id") == "tnCol" and "boxSize" in classes
             )
-            # DNN wraps the page in a form, with editorial content inside dnn_content.
-            layout_form = tag == "form" and attrs.get("id") == "Form" and self.stack and self.stack[-1][0] == "body"
+            # DNN and nopCommerce wrap editorial text in the platform's layout form.
+            form_id = attrs.get("id")
+            layout_form = tag == "form" and (
+                form_id == "product-details-form"
+                or form_id == "Form" and self.stack and self.stack[-1][0] == "body"
+            )
             excluded = excluded or tag in SKIP and not layout_form
             self.stack.append((tag, content, excluded))
             self.main_depth += content

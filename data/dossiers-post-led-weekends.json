@@ -307,7 +307,8 @@
     ],
     "nearby": [
       "punta-islita-art-walk",
-      "punta-islita-resort-ebike"
+      "punta-islita-resort-ebike",
+      "punta-islita-macaw-reserve-tour"
     ],
     "connectStops": false,
     "galleries": [
@@ -317,9 +318,10 @@
   "punta-islita-resort-ebike": {
     "stops": [
       {
-        "point": "gravel-punta-islita-area",
-        "role": "Punta Islita · посёлок и район базы",
-        "note": "Общий ориентир деревни. Точный пункт выдачи и встречу согласуйте с Hotel Punta Islita."
+        "point": "islita-hotel-property",
+        "role": "Hotel Punta Islita · ориентир базы и проката",
+        "note": "Метка территории отеля. Стойку выдачи, место встречи и договорённость о доступе уточните заранее.",
+        "activity": "ebike"
       }
     ],
     "sections": [
@@ -345,6 +347,15 @@
           "islita-hotel-art-trails-guide",
           "islita-mrn-tours"
         ]
+      },
+      {
+        "title": "Рельеф и местный проезд",
+        "text": "В дорожном видео из Пунта-Ислиты виден профиль деревенских улиц. С гостиницей согласуйте старт, покрытие, возврат с зарядом, допустимость собственной батареи и ограничения маршрута после дождя.",
+        "sources": [
+          "islita-batchmox-town-bike-film",
+          "islita-operator-guide-2026",
+          "publisher-hotelpuntaislita-com"
+        ]
       }
     ],
     "contacts": [
@@ -356,7 +367,8 @@
     ],
     "nearby": [
       "punta-islita-art-walk",
-      "punta-islita-ora-mangrove-kayak"
+      "punta-islita-ora-mangrove-kayak",
+      "punta-islita-macaw-reserve-tour"
     ],
     "connectStops": false,
     "galleries": [

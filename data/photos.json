@@ -97,7 +97,8 @@
     "author": "BNP-CR506",
     "license": "CC BY-SA 4.0",
     "original": "https://commons.wikimedia.org/wiki/File:Arenal_Lake_dam.jpg",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "point": "arenal-dam"
   },
   "tronadora": {
     "file": "water-tronadora.jpg",
@@ -1904,5 +1905,86 @@
     "license": "CC BY-SA 2.0",
     "original": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Long-tailed_Manakin_(Chiroxiphia_linearis)_in_habitat_(1).jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "islita-kajikawa-coast": {
+    "file": "islita-kajikawa-coast.jpg",
+    "alt": "Побережье Пунта-Ислиты с крышей и лесом на переднем плане",
+    "caption": "Бухта Пунта-Ислиты с холма · архивный кадр 2013 года · уменьшенная копия",
+    "author": "kajikawa",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Guanacaste_Province,_Punta_Islita,_Costa_Rica_-_panoramio_(41).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "islita-kajikawa-walkway": {
+    "file": "islita-kajikawa-walkway.jpg",
+    "alt": "Деревянная дорожка над садом в Пунта-Ислите",
+    "caption": "Дорожка среди садов Пунта-Ислиты · архивный кадр 2013 года · уменьшенная копия",
+    "author": "kajikawa",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Guanacaste_Province,_Punta_Islita,_Costa_Rica_-_panoramio_(35).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "islita-kajikawa-hills": {
+    "file": "islita-kajikawa-hills.jpg",
+    "alt": "Прибрежный хребет и лес у Пунта-Ислиты",
+    "caption": "Рельеф окрестностей Пунта-Ислиты · архивный кадр 2013 года · уменьшенная копия",
+    "author": "kajikawa",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Guanacaste_Province,_Punta_Islita,_Costa_Rica_-_panoramio_(24).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "san-gerardo-chirripo-pacifico": {
+    "file": "san-gerardo-chirripo-pacifico.jpg",
+    "alt": "Каменистое русло Рио-Чиррипо-Пасифико в Сан-Херардо",
+    "caption": "Река Чиррипо-Пасифико в Сан-Херардо-де-Ривас · апрель 2026 года · уменьшенная копия",
+    "author": "Cephas",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:R%C3%ADo_Chirrip%C3%B3_Pac%C3%ADfico_01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "san-gerardo-cephas-pasture": {
+    "file": "san-gerardo-cephas-pasture.jpg",
+    "alt": "Горное пастбище Сан-Херардо-де-Ривас",
+    "caption": "Сельский пейзаж долины Чиррипо возле Сан-Херардо-де-Ривас · апрель 2026 года · уменьшенная копия",
+    "author": "Cephas",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Pasture_SaGeRi_02.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "arenal-ksaraf-lake": {
+    "file": "arenal-ksaraf-lake.jpg",
+    "alt": "Вид на вулкан Ареналь с противоположного берега озера",
+    "caption": "Панорама озера и вулкана Ареналь · май 2009 года · уменьшенная копия",
+    "author": "Ksaraf",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:ARENAL_VOLCANO_LAKE_PANORAMA.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  "rincon-pailas-granovetter-fumaroles": {
+    "file": "rincon-pailas-granovetter-fumaroles.jpg",
+    "alt": "Камни и пар на геотермальном участке Ринкон-де-ла-Вьеха",
+    "caption": "Геотермальный участок Лас-Пайлас в национальном парке Ринкон-де-ла-Вьеха · ноябрь 2021 года · уменьшенная копия",
+    "author": "Panegyrics of Granovetter",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:27786-_hot_rocks_in_a_hot_pot.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "rincon-pailas-granovetter-capuchin": {
+    "file": "rincon-pailas-granovetter-capuchin.jpg",
+    "alt": "Капуцин в лесу Ринкон-де-ла-Вьеха",
+    "caption": "Капуцин на участке Лас-Пайлас в национальном парке Ринкон-де-ла-Вьеха · ноябрь 2021 года · уменьшенная копия",
+    "author": "Panegyrics of Granovetter",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:27781-_forest_light_on_capuchin_monkey.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "arenal-grez-dam": {
+    "file": "arenal-grez-dam.jpg",
+    "alt": "Гидротехнические сооружения у восточной стороны озера Ареналь",
+    "caption": "Сооружения плотины на озере Ареналь · апрель 2007 года · уменьшенная копия",
+    "author": "Grez",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Lac_Arenal_Costa_Rica_Barrage.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 }

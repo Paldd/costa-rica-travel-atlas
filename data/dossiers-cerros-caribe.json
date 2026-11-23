@@ -899,9 +899,16 @@
   "punta-islita-art-walk": {
     "stops": [
       {
-        "point": "gravel-punta-islita-area",
-        "role": "Пунта-Ислита · район деревни",
-        "note": "Попросите музей уточнить начало прогулки и предложение на дату визита."
+        "point": "islita-museo-reception",
+        "role": "Начало прогулки у музея",
+        "note": "Галерею и мастерскую согласуйте заранее.",
+        "activity": "history"
+      },
+      {
+        "point": "islita-vista-approach",
+        "role": "Дополнительная смотровая",
+        "note": "Уточните у местных, какой подход открыт на дату прогулки.",
+        "activity": "views"
       }
     ],
     "sections": [
@@ -923,6 +930,16 @@
           "islita-visitor-embed",
           "islita-video-experience"
         ]
+      },
+      {
+        "title": "Пеший вариант до смотровой",
+        "text": "Начните у здания Museo Islita в деревне. До ориентира смотровой по Ruta del Sol около 1,66 км в одну сторону. Идите по дороге вместе с местным проводником либо уточните обочину и проход перед выходом. С маленькими детьми можно провести больше времени у музея и доехать к смотровой отдельно.",
+        "sources": [
+          "islita-museum-osm-marker",
+          "islita-vista-osm-marker",
+          "islita-village-lookout-local",
+          "islita-museo-vista-ruta-sol"
+        ]
       }
     ],
     "contacts": [
@@ -937,16 +954,19 @@
     "nearby": [
       "santa-teresa-nosara-gravel-101",
       "carrillo",
-      "samara"
+      "samara",
+      "punta-islita-macaw-reserve-tour"
     ],
-    "track": null,
+    "track": "islita-museo-vista-ruta-sol",
     "galleries": [
       "islita-museum-cultura",
       "islita-photos-marriott"
     ],
     "videos": [
       "islita-video-experience"
-    ]
+    ],
+    "connectStops": false,
+    "line": "punta-islita-art-walk"
   },
   "amubri-katsi-yorkin-3": {
     "photos": [

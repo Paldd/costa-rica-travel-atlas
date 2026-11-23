@@ -172,7 +172,8 @@
       "cano-negro-rio-frio-commons"
     ],
     "videos": [
-      "film-379-cano-negro-mytanfeet"
+      "film-379-cano-negro-mytanfeet",
+      "cano-negro-vamos-humedal-film"
     ]
   },
   "caribe-bus-3": {
@@ -745,6 +746,9 @@
     ],
     "galleries": [
       "media-fortuna-adifort"
+    ],
+    "videos": [
+      "fortuna-el-atlas-de-jon-waterfall-film"
     ]
   },
   "gandoca": {
@@ -1408,10 +1412,12 @@
   },
   "rincon-mtb": {
     "videos": [
-      "media-rincon-mtb-curubande-ride"
+      "media-rincon-mtb-curubande-ride",
+      "guachipelin-cusuko-mtb-archive"
     ],
     "galleries": [
-      "rincon-bike"
+      "rincon-bike",
+      "guachipelin-hacienda-public-gallery"
     ]
   },
   "rincon-mtb-30": {
@@ -2303,6 +2309,13 @@
   "guachipelin": {
     "videos": [
       "fb-crguide-rincon-adventure"
+    ],
+    "photos": [
+      "rincon-pailas-granovetter-fumaroles",
+      "rincon-pailas-granovetter-capuchin"
+    ],
+    "galleries": [
+      "guachipelin-hacienda-public-gallery"
     ]
   },
   "tronadora-roof": {
@@ -2381,7 +2394,8 @@
   "arenal-dam-el-castillo-mtb": {
     "photos": [
       "arenal-dam",
-      "arenal-el-millon-volcanoes"
+      "arenal-el-millon-volcanoes",
+      "arenal-grez-dam"
     ]
   },
   "arenal-tumbas-guided-mtb-24": {
@@ -2479,6 +2493,13 @@
   "ostional-turtle-guides": {
     "photos": [
       "ostional-refuge-volunteers"
+    ],
+    "galleries": [
+      "ostional-sunrise-operator"
+    ],
+    "videos": [
+      "ostional-el-periodico-arribada-film",
+      "ostional-hatchlings-david-burns-film"
     ]
   },
   "playa-grande": {
@@ -2606,6 +2627,13 @@
   "punta-islita-ora-mangrove-kayak": {
     "videos": [
       "rio-ora-field-kayak-video"
+    ],
+    "photos": [
+      "islita-kajikawa-coast",
+      "islita-kajikawa-hills"
+    ],
+    "galleries": [
+      "publisher-hotelpuntaislita-com"
     ]
   },
   "coto-brus-camp-ride-metaponto-3": {
@@ -2620,7 +2648,8 @@
   },
   "rivas-los-gigantes-6-km": {
     "videos": [
-      "rivas-gigantes-local-tv-video"
+      "rivas-gigantes-local-tv-video",
+      "rivas-gigantes-destino511-film"
     ]
   },
   "agujas-bijagual-weekend-2": {
@@ -2806,6 +2835,133 @@
     "galleries": [
       "asoprola-altamira-community-gallery",
       "asoprola-altamira-community-walk"
+    ]
+  },
+  "arenal-paddle": {
+    "photos": [
+      "arenal-ksaraf-lake"
+    ]
+  },
+  "boca-tapada-lodge-river-weekend-2": {
+    "videos": [
+      "maquenque-tres-amigos-owner-kayak-film",
+      "maquenque-forest-rivers-owner-documentary"
+    ]
+  },
+  "boca-tapada-maquenque-wildlife-2": {
+    "videos": [
+      "maquenque-fabian-visit-film"
+    ]
+  },
+  "guachipelin-emtb-base": {
+    "galleries": [
+      "guachipelin-hacienda-public-gallery"
+    ],
+    "videos": [
+      "guachipelin-cusuko-mtb-archive"
+    ]
+  },
+  "guiones-ostional-30": {
+    "videos": [
+      "guiones-corky-local-electric-bikes"
+    ]
+  },
+  "guiones-samara-carrillo-27": {
+    "videos": [
+      "guiones-corky-local-electric-bikes"
+    ]
+  },
+  "maquenque-dawn-birding-walk": {
+    "videos": [
+      "maquenque-forest-rivers-owner-documentary"
+    ]
+  },
+  "maquenque-san-carlos-river-boat": {
+    "videos": [
+      "maquenque-forest-rivers-owner-documentary"
+    ]
+  },
+  "maquenque-tres-amigos-guided-kayak": {
+    "videos": [
+      "maquenque-tres-amigos-owner-kayak-film"
+    ]
+  },
+  "nosara-ostional-pachamama-guided-ebike": {
+    "videos": [
+      "guiones-corky-local-electric-bikes"
+    ]
+  },
+  "punta-islita-art-walk": {
+    "photos": [
+      "islita-kajikawa-coast"
+    ]
+  },
+  "punta-islita-macaw-reserve-tour": {
+    "photos": [
+      "islita-kajikawa-hills"
+    ]
+  },
+  "punta-islita-resort-ebike": {
+    "photos": [
+      "islita-kajikawa-hills",
+      "islita-kajikawa-coast",
+      "islita-kajikawa-walkway"
+    ],
+    "galleries": [
+      "publisher-hotelpuntaislita-com"
+    ],
+    "videos": [
+      "islita-batchmox-town-bike-film",
+      "islita-wanderpow-hotel-film"
+    ]
+  },
+  "rincon-guachipelin-rider-emtb-53": {
+    "galleries": [
+      "guachipelin-hacienda-public-gallery"
+    ],
+    "videos": [
+      "guachipelin-cusuko-mtb-archive"
+    ]
+  },
+  "rivas-gigantes-gevi-weekend-2": {
+    "photos": [
+      "san-gerardo-chirripo-pacifico",
+      "san-gerardo-cephas-pasture"
+    ],
+    "videos": [
+      "rivas-gigantes-destino511-film"
+    ]
+  },
+  "rivas-la-flor-permitted-tent": {
+    "galleries": [
+      "ni-rivas-la-flor-marena-visit",
+      "ni-rivas-la-flor-marena-2026"
+    ],
+    "videos": [
+      "la-flor-cgtn-nesting-film"
+    ]
+  },
+  "rivas-la-flor-turtle-ranger-night": {
+    "galleries": [
+      "ni-rivas-la-flor-marena-2026"
+    ],
+    "videos": [
+      "la-flor-cgtn-nesting-film"
+    ]
+  },
+  "rivas-los-gigantes-family-tent": {
+    "videos": [
+      "rivas-gigantes-destino511-film"
+    ]
+  },
+  "san-gerardo-rivas-gevi-thermal": {
+    "photos": [
+      "san-gerardo-chirripo-pacifico"
+    ]
+  },
+  "ostional-turtle-hatchling-dawn": {
+    "photos": [
+      "ostional-refuge-volunteers"
     ]
   }
 }

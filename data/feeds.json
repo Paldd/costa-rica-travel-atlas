@@ -380,7 +380,7 @@
   },
   {
     "name": "Senderos del Toro · походы и водопады",
-    "url": "https://senderosdeltoro.com/tours/",
+    "url": "https://senderosdeltoro.com/cataratas/",
     "paths": [
       "/pozo-azul-",
       "/catarata-rio-agrio",
@@ -389,7 +389,10 @@
       "/catarata-la-diana"
     ],
     "language": "es",
-    "focus": "Местные проводники Бахос-дель-Торо. Походы к водопадам, условия допуска и снаряжение."
+    "focus": "Местные проводники Бахос-дель-Торо. Походы к водопадам, условия допуска и снаряжение.",
+    "exactPaths": [
+      "/cataratas/"
+    ]
   },
   {
     "name": "Монтес-де-Оро · сельские тропы",
@@ -2023,13 +2026,14 @@
     ]
   },
   {
-    "name": "Visit Nicaragua · Ла-Флор",
-    "url": "https://www.visitanicaragua.com/en/espacios-naturales/refugio-de-vida-silvestre-la-flor/",
-    "language": "en",
-    "focus": "Охрана черепах, вход, условия кемпинга и доступ к заповеднику.",
-    "review": "ni-rivas-flor-intur",
+    "name": "MARENA · береговой заповедник Ла-Флор",
+    "url": "https://www.marena.gob.ni/2026/09/08/ii-arribada-de-tortugas-en-la-flor/",
+    "language": "es",
+    "focus": "Ведомственные сводки о событиях на пляже и условия посещения заповедника.",
+    "review": "ni-rivas-la-flor-marena-2026",
     "exactPaths": [
-      "/en/espacios-naturales/refugio-de-vida-silvestre-la-flor/"
+      "/2026/09/08/ii-arribada-de-tortugas-en-la-flor/",
+      "/2025/04/15/refugio-de-vida-silvestre-la-flor-en-san-juan-del-sur-un-sitio-para-descubrir-en-semana-santa/"
     ]
   },
   {
@@ -2136,11 +2140,11 @@
   },
   {
     "name": "Montaña de Fuego · действующие занятия у Ареналя",
-    "url": "https://montanadefuego.com/activities/",
+    "url": "https://montanadefuego.com/es/actividades/",
     "paths": [],
     "exactPaths": [
-      "/activities/",
       "/es/actividades/",
+      "/es/todo-incluido/",
       "/es/contactenos/"
     ],
     "language": "es-en",
@@ -2162,7 +2166,7 @@
   },
   {
     "name": "Остиональ · календарь местных гидов и поездок",
-    "url": "https://www.ostional.cr/",
+    "url": "https://www.ostional.cr/es/",
     "review": "ostional-local-calendar",
     "paths": [
       "/es/tour-de-avistamiento",
@@ -2170,8 +2174,8 @@
       "/tour-"
     ],
     "exactPaths": [
-      "/",
-      "/es/tour-de-avistamiento-de-tortugas-solitarias"
+      "/es/tour-de-avistamiento-de-tortugas-solitarias",
+      "/es/tour-de-crias-de-tortuga-marina-en-ostional-al-amanecer"
     ],
     "language": "es-en",
     "focus": "Местный календарь наблюдений и варианты выезда с гидами. Разрешение на вход подтверждается в SINAC и у местных ассоциаций."
@@ -2875,5 +2879,24 @@
     ],
     "language": "en",
     "focus": "Часы бассейнов, семейный доступ к термам и контакты лоджа."
+  },
+  {
+    "name": "Hotel Punta Islita · сайт отеля и гостевые программы",
+    "url": "https://www.hotelpuntaislita.com/",
+    "language": "en",
+    "focus": "Официальный сайт гостиницы, от которой ведётся профиль Instagram. Брошюра 2026–2027 хранится отдельно.",
+    "exactPaths": [
+      "/"
+    ]
+  },
+  {
+    "name": "PérezZeledón.cr · местная туристическая палата CATURCOCHI",
+    "url": "https://www.perezzeledon.cr/directorios/caturcochi/",
+    "language": "es",
+    "focus": "Публичная карточка с контактами палаты. Сайт палаты остаётся самостоятельным источником программ.",
+    "review": "caturcochi-perezzeledon-directory",
+    "exactPaths": [
+      "/directorios/caturcochi/"
+    ]
   }
 ]
