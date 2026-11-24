@@ -13,8 +13,9 @@ from urllib.parse import parse_qs, urlsplit
 from urllib.request import build_opener
 
 from build_catalog import DATA, PUBLISHER_FIELDS, read_records, read_sources, read_table
+from editorial_urls import canonical, host
 from import_social import normalized, recurring_names
-from refresh import AGENT, SameSiteRedirect, canonical, editorial_feeds, host, request, robots_rules, sitemap_date
+from refresh import AGENT, SameSiteRedirect, editorial_feeds, request, robots_rules, sitemap_date
 from review_social_posts import COMMON_NAMES, PLACE_NAME, TOPICS, publication
 
 

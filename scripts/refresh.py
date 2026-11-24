@@ -16,33 +16,10 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from build_catalog import DATA, PUBLISHER_FIELDS, read_sources, read_table
+from editorial_urls import canonical, encoded_path, host, package_query
 
 AGENT = "CostaRicaTravelAtlas"
 MAX_BYTES = 3_000_000
-
-
-def host(url):
-    return (urllib.parse.urlsplit(url).hostname or "").lower().removeprefix("www.")
-
-
-def encoded_path(path):
-    return urllib.parse.quote(path, safe="/%:@!$&'()*+,;=")
-
-
-def package_query(location):
-    if host(location.geturl()) != "liriolodge.com" or location.path.lower().rstrip("/") not in {"/paquete", "/en/package"}:
-        return ""
-    package_ids = urllib.parse.parse_qs(location.query).get("toursys_package_id", [])
-    if len(package_ids) == 1 and re.fullmatch(r"[0-9]+", package_ids[0]):
-        return urllib.parse.urlencode({"toursys_package_id": package_ids[0]})
-    return ""
-
-
-def canonical(url):
-    parsed = urllib.parse.urlsplit(url)
-    address = host(url) + encoded_path(parsed.path).lower().rstrip("/")
-    query = package_query(parsed)
-    return address + ("?" + query if query else "")
 
 
 def sitemap_date(value):

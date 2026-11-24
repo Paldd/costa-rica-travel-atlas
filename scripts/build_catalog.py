@@ -7,6 +7,8 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import urlsplit
 
+from editorial_urls import canonical, host
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -137,13 +139,13 @@ def build_social(sources_by_id, record_ids, aliases, *,
                 raise ValueError(f"Invalid publisher archive coverage for {source}")
             if not history and len(pages) > read:
                 raise ValueError(f"Invalid displayed archive pages for {source}")
-            archive_host = urlsplit(sources_by_id[source]["url"]).hostname.removeprefix("www.")
+            archive_host = host(sources_by_id[source]["url"])
             for page in pages:
                 url = urlsplit(page["url"])
-                page_key = archive_host + url.path.lower().rstrip("/")
+                page_key = canonical(page["url"])
                 if (
                     url.scheme != "https" or url.username or url.password or not url.hostname
-                    or url.hostname.removeprefix("www.") != archive_host or not page["title"].strip()
+                    or host(page["url"]) != archive_host or not page["title"].strip()
                     or page_key in pages_seen
                 ):
                     raise ValueError(f"Invalid read page for {source}: {page['url']}")

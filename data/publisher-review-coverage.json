@@ -1,6 +1,6 @@
 {
-  "archives": 163,
-  "archivesRead": 158,
+  "archives": 167,
+  "archivesRead": 164,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -72,7 +72,7 @@
       "read": 1
     },
     "amarena-mistico-activities": {
-      "indexed": null,
+      "indexed": 4,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -95,7 +95,7 @@
           "url": "https://amarenabeachhotel.com/contact/"
         }
       ],
-      "read": null
+      "read": 4
     },
     "ara-pura-vida-ebike-itinerary": {
       "indexed": 2,
@@ -438,7 +438,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -446,7 +446,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "carrillotours-costa-rica-activities": {
       "indexed": 30,
@@ -468,15 +468,19 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Puntarenas - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/puntarenas/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Private Transfer to Tamarindo - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/tamarindo/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Playas del Coco - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/playasdelcoco/"
         },
         {
           "checked": "2026-11-24",
@@ -495,13 +499,31 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Nosara - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/nosara/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Nature Trail: Sloths & Butterflies - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/hiking/"
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Montezuma - Santa Teresa - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/montezuma-santateresa/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Monteverde Day Trip - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/monteverdedaytrip/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Manuel Antonio - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/manuel-antonio/"
         },
         {
           "checked": "2026-11-24",
@@ -515,13 +537,11 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Liberia Airport Transfer to Samara and Carrillo - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/liberiaairport/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Jaco - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/jaco/"
         },
@@ -547,7 +567,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Caldera - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/caldera/"
         },
@@ -555,6 +574,12 @@
           "checked": "2026-11-24",
           "title": "COFFEE TOUR - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/coffetour/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Alajuela Airport - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/sjoairport/"
         },
         {
           "checked": "2026-11-23",
@@ -582,7 +607,7 @@
           "url": "https://carrillotours.com/tour-item/arenalvolcano/"
         }
       ],
-      "read": 25
+      "read": 30
     },
     "casa-luna-own-forest-trail": {
       "indexed": 2,
@@ -1169,8 +1194,19 @@
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "November 2022 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2022/11/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "May 2024 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2024/05/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "June 2023 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2023/06/"
         },
         {
           "checked": "2026-11-24",
@@ -1184,18 +1220,34 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "February 2024 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2024/02/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "August 2023 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2023/08/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Are We on the Verge of Chatting with Whales? | Hakai Magazine",
           "url": "https://divinedolphin.com/blog/2021/11/12/are-we-on-the-verge-of-chatting-with-whales-hakai-magazine/"
         },
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "April 2023 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2023/04/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Among Dolphins – Experience the Dolphins, Whales and Rainforest of Costa Rica!",
           "url": "https://divinedolphin.com/blog/among-dolphins-experience-the-humpback-whales-dolphins-and-rainforest-of-costa-rica/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "AMONG WHALES – Experience the Humpback Whales, Dolphins and Rainforest of Costa Rica!",
           "url": "https://divinedolphin.com/blog/experience-the-humpback-whales-and-rainforest-of-costa-rica/"
         },
@@ -1235,7 +1287,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 23
+      "read": 28
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -1482,7 +1534,6 @@
         {
           "checked": "2026-11-24",
           "published": "2025-05-23",
-          "readThisRun": true,
           "title": "Punta Islita",
           "url": "https://www.flyadventureair.com/private-air-charters/punta-islita/"
         }
@@ -1876,6 +1927,46 @@
       ],
       "read": 7
     },
+    "pacuare-reserve-updates": {
+      "indexed": 8,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "published": "2025-02-18",
+          "readThisRun": true,
+          "title": "An adventure on the Caribbean coast of Costa Rica!",
+          "url": "https://www.pacuarereserve.org/post/un-laberinto-de-canales-naturales-que-crean-un-ecosistema-%C3%BAnico"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2024-10-18",
+          "readThisRun": true,
+          "title": "My dream to see a leatherback turtle",
+          "url": "https://www.pacuarereserve.org/post/my-dream-to-see-a-leatherback-turtle"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2024-09-30",
+          "readThisRun": true,
+          "title": "Forging Partnerships for Conservation: 35 Years of Impact in the Pacuare Reserve",
+          "url": "https://www.pacuarereserve.org/post/forging-partnerships-for-conservation-35-years-of-impact-in-the-pacuare-reserve"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2024-09-03",
+          "readThisRun": true,
+          "title": "Celebrating 35 Years of Conservation and Education at Pacuare Reserve",
+          "url": "https://www.pacuarereserve.org/post/celebrating-35-years-of-conservation-and-education-at-pacuare-reserve"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "BLOG | Pacuare Reserve",
+          "url": "https://www.pacuarereserve.org/blog"
+        }
+      ],
+      "read": 5
+    },
     "palmares-explorers-planning": {
       "indexed": 3,
       "pages": [
@@ -1972,6 +2063,54 @@
       ],
       "read": 2
     },
+    "parismina-astop-home": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Our Project | ASTOP",
+          "url": "https://www.parisminaturtles.org/our-project"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Join | ASTOP",
+          "url": "https://www.parisminaturtles.org/your-experience"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "About | ASTOP",
+          "url": "https://www.parisminaturtles.org/our-village"
+        }
+      ],
+      "read": 3
+    },
+    "parismina-lirio-packages": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Paquetes",
+          "url": "https://liriolodge.com/paquetes/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Escapada a los Canales de Tortuguero — 2 días / 1 noche",
+          "url": "https://liriolodge.com/paquete/?toursys_package_id=32936"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Aventura en los Canales de Tortuguero — 3 días / 2 noches",
+          "url": "https://liriolodge.com/paquete/?toursys_package_id=32818"
+        }
+      ],
+      "read": 3
+    },
     "pinilla-activity-index": {
       "indexed": 5,
       "pages": [
@@ -2045,6 +2184,18 @@
       ],
       "read": 3
     },
+    "potrero-undersea-courses": {
+      "indexed": 2,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "PADI Certification Costa Rica | Get Certified in Guanacaste",
+          "url": "https://undertheseadivingcr.com/scuba-certification-costa-rica/"
+        }
+      ],
+      "read": 1
+    },
     "publisher-adondeircr-guanacaste": {
       "indexed": 207,
       "pages": [
@@ -2111,7 +2262,6 @@
         {
           "checked": "2026-11-24",
           "published": "2020-03-10",
-          "readThisRun": true,
           "title": "Parque Nacional Volcán Arenal",
           "url": "https://adondeircr.com/alajuela/parque-nacional-volcan-arenal/?c1"
         },
@@ -2148,14 +2298,12 @@
         {
           "checked": "2026-11-24",
           "published": "2020-03-09",
-          "readThisRun": true,
           "title": "El bus místico, Heredia, Costa Rica",
           "url": "https://adondeircr.com/heredia/el-bus-mistico-heredia-costa-rica/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2020-03-09",
-          "readThisRun": true,
           "title": "Cerro Dantas, Heredia, Costa Rica",
           "url": "https://adondeircr.com/heredia/cerro-dantas-heredia-costa-rica/?c1"
         },
@@ -2163,15 +2311,48 @@
           "checked": "2026-11-24",
           "published": "2020-03-08",
           "readThisRun": true,
+          "title": "POZA LAS GRADAS – CARTAGO, COSTA RICA",
+          "url": "https://adondeircr.com/cartago/poza-las-gradas-cartago-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-08",
           "title": "CATARATA LA BRUJA – BONILLA TURRIALBA, COSTA RICA",
           "url": "https://adondeircr.com/cartago/catarata-la-bruja-bonilla-turrialba-costa-rica/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2020-03-08",
-          "readThisRun": true,
           "title": "CATARATA LA 28 – TURRIALBA, CARTAGO, COSTA RICA",
           "url": "https://adondeircr.com/cartago/catarata-la-28-turrialba-cartago-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-04",
+          "readThisRun": true,
+          "title": "Parque Nacional los Quetzales",
+          "url": "https://adondeircr.com/san-jose/parque-nacional-los-quetzales/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-04",
+          "readThisRun": true,
+          "title": "Hotel Chalet Tirol un pedacito de Suiza que se esconde en las montañas de Heredia",
+          "url": "https://adondeircr.com/heredia/hotel-chalet-tirol-un-pedacito-de-suiza-que-se-esconde-en-las-montanas-de-heredia/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-04",
+          "readThisRun": true,
+          "title": "Conozca el Volcán Irazú",
+          "url": "https://adondeircr.com/cartago/conozca-el-volcan-irazu/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-04",
+          "readThisRun": true,
+          "title": "Conozca el Parque Nacional Tapantí",
+          "url": "https://adondeircr.com/cartago/conozca-el-parque-nacional-tapanti/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -3182,7 +3363,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 188
+      "read": 193
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -4024,7 +4205,7 @@
       "read": 4
     },
     "publisher-archive-misticopark-com": {
-      "indexed": 17,
+      "indexed": 0,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -4122,7 +4303,7 @@
           "url": "https://misticopark.com/tours/birding-guided-tour/"
         }
       ],
-      "read": 17
+      "read": 0
     },
     "publisher-archive-museo-exhibitions": {
       "indexed": 33,
@@ -5494,6 +5675,12 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Playa Chiquita: Un paraíso escondido en Talamanca - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-chiquita-un-paraiso-escondido-en-talamanca/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Pavones: el paraíso de los surfistas",
           "url": "https://vamosaturistear.com/actividades/pavones-el-paraiso-de-los-surfistas/"
         },
@@ -5509,12 +5696,29 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "La majestuosa Eco Chontales",
+          "url": "https://vamosaturistear.com/actividades/la-majestuosa-eco-chontales/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "La impresionante Catarata San Luis: San Isidro de El General, Pérez Zeledón - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/la-impresionante-catarata-san-luis-san-isidro-de-el-general-perez-zeledon/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "El bosque quemado del Volcán Turrialba - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/el-bosque-quemado-del-volcan-turrialba/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "El Bosque del Niño",
           "url": "https://vamosaturistear.com/actividades/el-bosque-del-nino/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Descubrí 5 playas para hacer snorkeling - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/descubri-5-playas-para-hacer-snorkeling/"
         },
@@ -5525,7 +5729,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Buceo en Isla Santa Catalina: El paraíso submarino de Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/buceo-en-isla-santa-catalina-el-paraiso-submarino-de-guanacaste/"
         },
@@ -5537,6 +5740,11 @@
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "8 tours que tenés que vivir en Golfito - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/8-tours-que-tenes-que-vivir-en-golfito/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "8 lugares para turistear en Heredia",
           "url": "https://vamosaturistear.com/actividades/6-lugares-para-turistear-en-heredia/"
         },
@@ -5862,16 +6070,6 @@
         },
         {
           "checked": "2026-11-23",
-          "title": "La majestuosa Eco Chontales",
-          "url": "https://vamosaturistear.com/actividades/la-majestuosa-eco-chontales/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "La impresionante Catarata San Luis: San Isidro de El General, Pérez Zeledón - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/la-impresionante-catarata-san-luis-san-isidro-de-el-general-perez-zeledon/"
-        },
-        {
-          "checked": "2026-11-23",
           "title": "La grandiosa Catarata San Fernando",
           "url": "https://vamosaturistear.com/actividades/la-grandiosa-catarata-san-fernando/"
         },
@@ -5979,11 +6177,6 @@
           "checked": "2026-11-23",
           "title": "En el paraíso de playa Virador",
           "url": "https://vamosaturistear.com/actividades/en-el-paraiso-de-playa-virador/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "El bosque quemado del Volcán Turrialba - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/el-bosque-quemado-del-volcan-turrialba/"
         },
         {
           "checked": "2026-11-23",
@@ -6187,11 +6380,6 @@
         },
         {
           "checked": "2026-11-22",
-          "title": "Playa Chiquita: Un paraíso escondido en Talamanca - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/playa-chiquita-un-paraiso-escondido-en-talamanca/"
-        },
-        {
-          "checked": "2026-11-22",
           "title": "Paseos gratuitos: Museo de Arte Costarricense",
           "url": "https://vamosaturistear.com/actividades/paseos-gratuitos-museo-de-arte-costarricense/"
         },
@@ -6259,11 +6447,6 @@
           "checked": "2026-11-21",
           "title": "Catarata Morpho Azul: Un paseo en medio de la naturaleza de Upala - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-morpho-azul-un-paseo-en-medio-de-la-naturaleza-de-upala/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "8 tours que tenés que vivir en Golfito - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/8-tours-que-tenes-que-vivir-en-golfito/"
         },
         {
           "checked": "2026-11-21",
@@ -6340,40 +6523,70 @@
         {
           "checked": "2026-11-24",
           "published": "2026-09-08",
-          "readThisRun": true,
           "title": "Costa Rica Family Adventure: Activities by Age 4-16 (2027)",
           "url": "https://vistalossuenosadventurepark.com/costa-rica-family-adventure-activities-by-age/"
         },
         {
           "checked": "2026-11-24",
-          "published": "2026-08-18",
+          "published": "2026-09-01",
           "readThisRun": true,
+          "title": "Horseback Riding on Costa Rica's Pacific Coast (2027)",
+          "url": "https://vistalossuenosadventurepark.com/horseback-riding-costa-rica-pacific/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-08-18",
           "title": "White Water Rafting Costa Rica for First-Timers (2027)",
           "url": "https://vistalossuenosadventurepark.com/white-water-rafting-costa-rica-first-timers/"
         },
         {
           "checked": "2026-11-24",
-          "published": "2026-07-28",
+          "published": "2026-08-11",
           "readThisRun": true,
+          "title": "ATV Tour Costa Rica: Beginner's Guide (2027)",
+          "url": "https://vistalossuenosadventurepark.com/atv-tour-costa-rica-beginners-guide/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-08-04",
+          "readThisRun": true,
+          "title": "Best Ziplines in Costa Rica: 2027 Comparison Guide",
+          "url": "https://vistalossuenosadventurepark.com/best-ziplines-costa-rica-comparison/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-07-28",
           "title": "Caldera & Puntarenas Cruise Shore Excursions Guide (2027)",
           "url": "https://vistalossuenosadventurepark.com/caldera-puntarenas-cruise-shore-excursions-guide/"
         },
         {
           "checked": "2026-11-24",
           "published": "2026-07-14",
-          "readThisRun": true,
           "title": "Costa Rica Zipline Safety, Age & Weight Requirements (2027)",
           "url": "https://vistalossuenosadventurepark.com/costa-rica-zipline-safety-age-weight-requirements/"
         },
         {
           "checked": "2026-11-24",
           "published": "2026-07-07",
-          "readThisRun": true,
           "title": "Day Trip from SJO Airport: Best Costa Rica Itinerary (2027)",
           "url": "https://vistalossuenosadventurepark.com/sjo-airport-day-trip-costa-rica/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-05-07",
+          "readThisRun": true,
+          "title": "What to Wear Ziplining in Jacó (Packing List)",
+          "url": "https://vistalossuenosadventurepark.com/what-to-wear-ziplining-costa-rica/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-05-07",
+          "readThisRun": true,
+          "title": "Manuel Antonio vs Jacó: Which is Better for Adventure? (2027)",
+          "url": "https://vistalossuenosadventurepark.com/manuel-antonio-vs-jaco-which-is-better-adventure/"
         }
       ],
-      "read": 5
+      "read": 10
     },
     "publisher-bosque-del-mar-hermosa": {
       "indexed": 4,
@@ -7921,36 +8134,61 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Zipline + Chocolate Experience",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/zipline-chocolate-experience/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Zip Line + Horseback Riding + Natural Pool Combo",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-horseback-riding-natural-pool-combo/"
         },
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "Tarzan Swing — Vista Los Sueños Adventure Park, Jacó",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/tarzan-swing/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Shore Excursion from Caldera & Puntarenas Port",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/shore-excursion-from-caldera-and-puntarenas-port/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Self Guided Hiking Trail",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/hiking-trail/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Savegre White Water Rafting",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/savegre-white-water-rafting/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Jaco Canopy Zipline Tour: 12 Platforms",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/zipline-canopy-tour/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Horseback Riding in Jacó, Costa Rica",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/jungle-horseback-riding/"
         },
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "Horseback Riding + 2 Hour ATV + Waterfalls Combo",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-riding-waterfalls-2-hrs-atv-combo/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "2 Hour ATV Adventure + Chocolate Experience",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/2-hour-atv-adventure-chocolate-experience/"
         }
       ],
-      "read": 5
+      "read": 10
     }
   },
   "dayUtc": "2026-11-24",
@@ -8636,8 +8874,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 31,
-  "pagesRead": 27,
-  "pagesReadToDate": 1302,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45308648599"
+  "pagesChecked": 43,
+  "pagesRead": 42,
+  "pagesReadToDate": 1339,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45314217917"
 }

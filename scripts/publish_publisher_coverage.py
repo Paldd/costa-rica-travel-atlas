@@ -6,7 +6,7 @@ from pathlib import Path
 import re
 
 from build_catalog import DATA, build_social, read_records, read_sources
-from refresh import canonical
+from editorial_urls import canonical
 
 
 RECEIPT = DATA / "publisher-review-coverage.json"

@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - scripts/refresh.py
+      - scripts/editorial_urls.py
       - scripts/review_publisher_archives.py
       - scripts/publish_publisher_coverage.py
       - .github/workflows/refresh.yml
