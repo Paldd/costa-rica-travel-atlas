@@ -1,6 +1,6 @@
 {
-  "archives": 171,
-  "archivesRead": 161,
+  "archives": 175,
+  "archivesRead": 172,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -130,7 +130,7 @@
       "read": 2
     },
     "arenal-manoa-thermal-areas": {
-      "indexed": null,
+      "indexed": 3,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -149,7 +149,7 @@
           "url": "https://arenalmanoa.com/contact/"
         }
       ],
-      "read": null
+      "read": 3
     },
     "arenas-del-mar-activity-index": {
       "indexed": 9,
@@ -367,7 +367,7 @@
       "read": 4
     },
     "camino-esencial-video-series": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -375,7 +375,7 @@
           "url": "https://www.esencialcostarica.com/camino-de-costa-rica/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "camino-ticos-a-pata": {
       "indexed": 1,
@@ -438,7 +438,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -446,7 +446,7 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "carrillotours-costa-rica-activities": {
       "indexed": 30,
@@ -1104,6 +1104,66 @@
       ],
       "read": 1
     },
+    "coyote-alouatta-owner": {
+      "indexed": 5,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Hostel Alouatta I Contact",
+          "url": "https://www.alouatta.org/contact"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Hostel Alouatta I Car rental",
+          "url": "https://www.alouatta.org/carrental"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Hostel Alouatta I Accommodation",
+          "url": "https://www.alouatta.org/accommodation"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Hostel Alouatta",
+          "url": "https://www.alouatta.org"
+        }
+      ],
+      "read": 4
+    },
+    "coyote-caletas-activities": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Inicio",
+          "url": "https://hotelcasacaletas.net"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Actividades & Tours",
+          "url": "https://hotelcasacaletas.net/actividades-tours/"
+        }
+      ],
+      "read": 2
+    },
+    "coyote-rancho-campervan": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Rancho Victoria Coyote – Costa Rider – Campervan",
+          "url": "https://www.costarider-campervan.com/rancho-victoria-coyote/"
+        }
+      ],
+      "read": 1
+    },
     "danta-doorway-own-kayak": {
       "indexed": 1,
       "pages": [
@@ -1198,7 +1258,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "November 2021 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2021/11/"
         },
@@ -1209,7 +1268,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "May 2021 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2021/05/"
         },
@@ -1220,9 +1278,14 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "March 2021 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2021/03/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "March 2020 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2020/03/"
         },
         {
           "checked": "2026-11-24",
@@ -1231,9 +1294,14 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "July 2021 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2021/07/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "July 2020 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2020/07/"
         },
         {
           "checked": "2026-11-24",
@@ -1242,9 +1310,14 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "January 2021 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2021/01/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "January 2020 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2020/01/"
         },
         {
           "checked": "2026-11-24",
@@ -1273,6 +1346,12 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "December 2020 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2020/12/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "August 2023 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2023/08/"
         },
@@ -1285,6 +1364,12 @@
           "checked": "2026-11-24",
           "title": "April 2023 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2023/04/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "April 2020 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2020/04/"
         },
         {
           "checked": "2026-11-24",
@@ -1332,7 +1417,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 38
+      "read": 43
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -1674,6 +1759,18 @@
         }
       ],
       "read": 3
+    },
+    "montana-sagrada-coopelesca": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "La Reserva - Montaña Sagrada",
+          "url": "https://reservamontanasagrada.com/la-reserva/"
+        }
+      ],
+      "read": 1
     },
     "museum-national-entry": {
       "indexed": 3,
@@ -2166,13 +2263,11 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Tours in Pavones, Costa Rica — Directory & Guide | Todo Pavones",
           "url": "https://todopavones.com/c/tours"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Fishing & Boat Tours in Pavones, Costa Rica — Directory & Guide | Todo Pavones",
           "url": "https://todopavones.com/c/fish"
         }
@@ -2184,7 +2279,6 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Pineapple Creek Camping - Costa Rica Camping Guide",
           "url": "https://costaricacampsites.com/camp-sites/pineapple-creek-camping/"
         }
@@ -2278,6 +2372,27 @@
     "publisher-adondeircr-guanacaste": {
       "indexed": 207,
       "pages": [
+        {
+          "checked": "2026-11-24",
+          "published": "2024-11-04",
+          "readThisRun": true,
+          "title": "Descubre el parque acuático que transformará la comunidad de Cobano",
+          "url": "https://adondeircr.com/puntarenas/descubre-el-parque-acuatico-que-transformara-la-comunidad-de-cobano/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2024-10-24",
+          "readThisRun": true,
+          "title": "Los 10 mejores destinos para explorar en Guanacaste",
+          "url": "https://adondeircr.com/guanacaste/los-10-mejores-destinos-para-explorar-en-guanacaste/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2024-10-24",
+          "readThisRun": true,
+          "title": "Descubre el Parque Nacional Barra Honda",
+          "url": "https://adondeircr.com/guanacaste/descubre-el-parque-nacional-barra-honda/?c1"
+        },
         {
           "checked": "2026-11-24",
           "published": "2020-08-14",
@@ -2437,7 +2552,6 @@
         {
           "checked": "2026-11-24",
           "published": "2019-10-07",
-          "readThisRun": true,
           "title": "Playa Blanca,Papagayo, hermosa armonía con la Naturaleza.",
           "url": "https://adondeircr.com/guanacaste/playa-blanca-papagayo-hermosa-armonia-con-la-naturaleza/?c1"
         },
@@ -2462,28 +2576,24 @@
         {
           "checked": "2026-11-24",
           "published": "2019-10-07",
-          "readThisRun": true,
           "title": "Playa Blanca, Junquillal, hermoso lugar escondido.",
           "url": "https://adondeircr.com/guanacaste/playa-blanca-junquillal-hermoso-lugar-escondido/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2019-10-07",
-          "readThisRun": true,
           "title": "Playa Biesanz",
           "url": "https://adondeircr.com/guanacaste/playa-biesanz/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2019-10-07",
-          "readThisRun": true,
           "title": "Playa Barrigona, un lugar paradisíaco.",
           "url": "https://adondeircr.com/guanacaste/playa-barrigona-un-lugar-paradisiaco/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2019-10-07",
-          "readThisRun": true,
           "title": "Playa Bahía Junquillal, hermoso lugar para vacacionar con la familia.",
           "url": "https://adondeircr.com/guanacaste/playa-bahia-junquillal-hermoso-lugar-para-vacacionar-con-la-familia/?c1"
         },
@@ -2492,6 +2602,20 @@
           "published": "2019-10-07",
           "title": "Playa Avellanas, un lugar hermoso para fotografías.",
           "url": "https://adondeircr.com/puntarenas/playa-avellanas-un-lugar-hermoso-para-fotografias/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2019-08-23",
+          "readThisRun": true,
+          "title": "Playa Nacascolo, un paraíso lleno de arena blanca",
+          "url": "https://adondeircr.com/guanacaste/playa-nacascolo-un-paraiso-lleno-de-arena-blanca/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2019-06-24",
+          "readThisRun": true,
+          "title": "Catarata escondida",
+          "url": "https://adondeircr.com/alajuela/catarata-escondida/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -3335,27 +3459,9 @@
         },
         {
           "checked": "2026-11-21",
-          "published": "2024-11-04",
-          "title": "Descubre el parque acuático que transformará la comunidad de Cobano",
-          "url": "https://adondeircr.com/puntarenas/descubre-el-parque-acuatico-que-transformara-la-comunidad-de-cobano/?c1"
-        },
-        {
-          "checked": "2026-11-21",
           "published": "2024-10-24",
           "title": "Parque Nacional Los Quetzales: un paraíso para los amantes de la naturaleza y el avistamiento de aves",
           "url": "https://adondeircr.com/san-jose/parque-nacional-los-quetzales-un-paraiso-para-los-amantes-de-la-naturaleza-y-el-avistamiento-de-aves/?c1"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2024-10-24",
-          "title": "Los 10 mejores destinos para explorar en Guanacaste",
-          "url": "https://adondeircr.com/guanacaste/los-10-mejores-destinos-para-explorar-en-guanacaste/?c1"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2024-10-24",
-          "title": "Descubre el Parque Nacional Barra Honda",
-          "url": "https://adondeircr.com/guanacaste/descubre-el-parque-nacional-barra-honda/?c1"
         },
         {
           "checked": "2026-11-21",
@@ -3502,7 +3608,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 203
+      "read": 205
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -3566,7 +3672,7 @@
       "read": 6
     },
     "publisher-archive-arenalmanoa-com": {
-      "indexed": null,
+      "indexed": 15,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3659,7 +3765,7 @@
           "url": "https://arenalmanoa.com/blog/rainy-day-in-la-fortuna/"
         }
       ],
-      "read": null
+      "read": 15
     },
     "publisher-archive-artvillas-experiences": {
       "indexed": 2,
@@ -4798,7 +4904,7 @@
       "read": 9
     },
     "publisher-archive-puntaleona-magazine": {
-      "indexed": null,
+      "indexed": 8,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -4841,7 +4947,7 @@
           "url": "https://revistapuntaleona.com/playa-blanca-figura-entre-los-destinos-costeros-mas-higienicos-del-pais-afirma-exdirector-del-laboratorio-nacional-de-aguas/"
         }
       ],
-      "read": null
+      "read": 8
     },
     "publisher-archive-quebuenlugar-com": {
       "indexed": 26,
@@ -5795,6 +5901,11 @@
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "¿Qué actividades puedo hacer en el Lago de Arenal?",
+          "url": "https://vamosaturistear.com/actividades/que-actividades-puedo-hacer-en-el-lago-de-arenal/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Turisteando cerca de Caldera - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/turisteando-cerca-de-caldera/"
         },
@@ -5820,18 +5931,28 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Playa Sámara: un destino vacacional perfecto - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-samara-un-destino-vacacional-perfecto/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Playa Santa Teresa: el paraíso de la arena blanca y el surf - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-santa-teresa-el-paraiso-de-la-arena-blanca-y-el-surf/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Playa Minas: un destino para desconectarse - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-minas-un-destino-para-desconectarse/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Playa Conchal: Santa Cruz, Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-conchal-santa-cruz-guanacaste/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Playa Cocles: Una joya costarricense en el Caribe sur - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-cocles-una-joya-costarricense-en-el-caribe-sur/"
         },
@@ -5862,6 +5983,12 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Laguna de Río Cuarto: la más profunda del país",
+          "url": "https://vamosaturistear.com/actividades/laguna-de-rio-cuarto-la-mas-profunda-del-pais/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "La majestuosa Eco Chontales",
           "url": "https://vamosaturistear.com/actividades/la-majestuosa-eco-chontales/"
         },
@@ -5877,7 +6004,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Golfo Dulce: Un Refugio Natural - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/golfo-dulce-un-refugio-natural/"
         },
@@ -5898,9 +6024,14 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Descubrí la magia de Playa Grande - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/descubri-la-magia-de-playa-grande/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Descubrí la magia de Isla Cedros - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/descubri-la-magia-de-isla-cedros/"
         },
         {
           "checked": "2026-11-24",
@@ -5971,11 +6102,6 @@
           "checked": "2026-11-23",
           "title": "¿Qué hacer cerca de Playa Herradura?",
           "url": "https://vamosaturistear.com/actividades/que-hacer-cerca-de-playa-herradura/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "¿Qué actividades puedo hacer en el Lago de Arenal?",
-          "url": "https://vamosaturistear.com/actividades/que-actividades-puedo-hacer-en-el-lago-de-arenal/"
         },
         {
           "checked": "2026-11-23",
@@ -6154,16 +6280,6 @@
         },
         {
           "checked": "2026-11-23",
-          "title": "Playa Sámara: un destino vacacional perfecto - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/playa-samara-un-destino-vacacional-perfecto/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Playa Santa Teresa: el paraíso de la arena blanca y el surf - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/playa-santa-teresa-el-paraiso-de-la-arena-blanca-y-el-surf/"
-        },
-        {
-          "checked": "2026-11-23",
           "title": "Playa Pelada: Un paraíso en Nosara - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-pelada-un-paraiso-en-nosara/"
         },
@@ -6216,11 +6332,6 @@
           "checked": "2026-11-23",
           "title": "Laguna don Manuel: un destino cerca de San José y a bajo costo",
           "url": "https://vamosaturistear.com/actividades/laguna-don-manuel-un-destino-cerca-de-san-jose-y-a-bajo-costo/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Laguna de Río Cuarto: la más profunda del país",
-          "url": "https://vamosaturistear.com/actividades/laguna-de-rio-cuarto-la-mas-profunda-del-pais/"
         },
         {
           "checked": "2026-11-23",
@@ -6346,11 +6457,6 @@
           "checked": "2026-11-23",
           "title": "Despejate en el Monte de la Cruz",
           "url": "https://vamosaturistear.com/actividades/despejate-en-el-monte-de-la-cruz/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Descubrí la magia de Isla Cedros - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/descubri-la-magia-de-isla-cedros/"
         },
         {
           "checked": "2026-11-23",
@@ -6716,7 +6822,6 @@
         {
           "checked": "2026-11-24",
           "published": "2026-07-21",
-          "readThisRun": true,
           "title": "Best Month to Visit Costa Rica for Adventure (2027 Guide)",
           "url": "https://vistalossuenosadventurepark.com/best-month-visit-costa-rica-adventure/"
         },
@@ -6735,14 +6840,12 @@
         {
           "checked": "2026-11-24",
           "published": "2026-05-07",
-          "readThisRun": true,
           "title": "What to Wear Ziplining in Jacó (Packing List)",
           "url": "https://vistalossuenosadventurepark.com/what-to-wear-ziplining-costa-rica/"
         },
         {
           "checked": "2026-11-24",
           "published": "2026-05-07",
-          "readThisRun": true,
           "title": "The Ultimate Guide to Things to Do in Jacó, Costa Rica (2027)",
           "url": "https://vistalossuenosadventurepark.com/things-to-do-in-jaco-costa-rica/"
         },
@@ -6809,7 +6912,7 @@
       "read": 3
     },
     "publisher-hotelpuntaislita-com": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6817,7 +6920,7 @@
           "url": "https://www.hotelpuntaislita.com/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "publisher-jw-marriott-guanacaste-activities": {
       "indexed": 1,
@@ -6908,7 +7011,7 @@
       "read": 6
     },
     "publisher-lossuenos-deepsea": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -6916,7 +7019,7 @@
           "url": "https://lossuenos.com/deepsea-fishing/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "publisher-marinapezvela-news": {
       "indexed": 4,
@@ -8317,6 +8420,24 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Zip Line + 3 Hour ATV + Waterfalls Combo",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-3-hrs-atv-waterfalls-combo/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Zip Line + 2 Hour ATV Combo",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-2-hrs-atv-combo/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Vista Los Suenos Canyoning",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/vista-los-suenos-canyoning/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Tarzan Swing — Vista Los Sueños Adventure Park, Jacó",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/tarzan-swing/"
         },
@@ -8347,7 +8468,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Horseback Riding + 3 Hour Buggy & Waterfalls Combo",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-riding-3-hour-buggy-waterfalls-combo/"
         },
@@ -8363,15 +8483,19 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Full Day Buggy Tour - Jungle, Mountains & 3 Waterfalls",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/full-day-buggy-tour-jungle-mountains-3-waterfalls/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Full Day Adventure Combo Tour from San José",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/one-day-adventure-combo-tour-from-san-jose/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Chocolate Experience Tour",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/chocolate-experience/"
         },
         {
           "checked": "2026-11-24",
@@ -8381,6 +8505,11 @@
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "4 Hour Single ATV & Waterfalls",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/4-hour-single-atv-waterfalls/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "4 Hour Jungle Buggy Tour to Bijagual Waterfall",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/4-hour-jungle-buggy-tour-to-bijagual-waterfall/"
         },
@@ -8391,7 +8520,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "3 Hour Double Buggy Tour Including Waterfalls",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/double-3-hrs-buggy-tour-including-waterfalls/"
         },
@@ -8411,14 +8539,13 @@
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/2-hour-atv-adventure-chocolate-experience/"
         }
       ],
-      "read": 20
+      "read": 25
     },
     "zancudo-pavones-tours-kayak": {
       "indexed": 2,
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Tour de Kayak - Pavones Tours",
           "url": "https://pavonestours.com/tour-de-kayak/"
         }
@@ -8430,7 +8557,6 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "AWordPressSite | Just another WordPress site",
           "url": "https://solymarcostarica.com/"
         }
@@ -9121,8 +9247,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 29,
+  "pagesChecked": 30,
   "pagesRead": 28,
-  "pagesReadToDate": 1383,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45318441512"
+  "pagesReadToDate": 1403,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45321869374"
 }
