@@ -1,0 +1,384 @@
+{
+  "horizontes-guayacan-mtb-93": {
+    "stops": [
+      {
+        "point": "horizontes-acg-visitor-pin",
+        "role": "Точка приезда · администрация станции",
+        "note": "Зарегистрируйтесь и получите действующую схему выезда и возвращения.",
+        "activity": "mtb"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Estación Experimental Forestal Horizontes · ACG",
+        "source": "horizontes-acg-three-mtb-routes",
+        "note": "Закажите доступ на конкретное велокольцо, попросите актуальную схему и подтвердите, принимают ли на ней ваш велосипед.",
+        "phone": "+506 8997 3341",
+        "whatsapp": "https://wa.me/50689973341",
+        "email": "reservaciones.horizontes@acguanacaste.ac.cr"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Петля и длительность",
+        "text": "ACG указывает около часа в седле для короткой петли. На площадке попросите показать ответвление к лагуне и актуальную схему возвращения.",
+        "sources": [
+          "horizontes-acg-three-mtb-routes",
+          "horizontes-acg-visitor-nov23"
+        ]
+      },
+      {
+        "title": "Условия визита и снаряжение",
+        "text": "В общей информации станции указаны две MTB-тропы. Подтвердите выбранный вариант из обзора ACG при бронировании и попросите правила для e-bike. Возьмите шлем, воду, еду, перчатки, насос и набор для ремонта проколов. В тёплый день удобнее выехать утром.",
+        "sources": [
+          "horizontes-acg-three-mtb-routes",
+          "horizontes-acg-2026-booking-nov23"
+        ]
+      }
+    ],
+    "galleries": [
+      "horizontes-acg-three-mtb-routes",
+      "horizontes-acg-visitor-nov23"
+    ],
+    "nearby": [
+      "horizontes-mtb-station",
+      "horizontes-san-pancho-mtb-14",
+      "horizontes-guapinol-mtb-22",
+      "horizontes-dry-forest-trails"
+    ],
+    "photos": [
+      "horizontes-forest-espinoza"
+    ],
+    "track": "horizontes-acg-three-mtb-routes"
+  },
+  "horizontes-san-pancho-mtb-14": {
+    "stops": [
+      {
+        "point": "horizontes-acg-visitor-pin",
+        "role": "Точка приезда · администрация станции",
+        "note": "Зарегистрируйтесь и получите действующую схему выезда и возвращения.",
+        "activity": "mtb"
+      },
+      {
+        "point": "horizontes-saltillo-mapped-start",
+        "role": "Район тропы Эль-Сальтийо",
+        "note": "Ориентир пешей дорожки у водопада. Линию велосипедной петли уточните на схеме ACG.",
+        "activity": "waterfall"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Estación Experimental Forestal Horizontes · ACG",
+        "source": "horizontes-acg-three-mtb-routes",
+        "note": "Закажите доступ на конкретное велокольцо, попросите актуальную схему и подтвердите, принимают ли на ней ваш велосипед.",
+        "phone": "+506 8997 3341",
+        "whatsapp": "https://wa.me/50689973341",
+        "email": "reservaciones.horizontes@acguanacaste.ac.cr"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Петля и длительность",
+        "text": "В публикации ACG указано около часа движения. Для семьи оставьте запас. Станция описывала дневной и ночной выезды, вечерний доступ уточняйте отдельно.",
+        "sources": [
+          "horizontes-acg-three-mtb-routes",
+          "horizontes-acg-visitor-nov23"
+        ]
+      },
+      {
+        "title": "Условия визита и снаряжение",
+        "text": "В общей информации станции указаны две MTB-тропы. Подтвердите выбранный вариант из обзора ACG при бронировании и попросите правила для e-bike. Возьмите шлем, воду, еду, перчатки, насос и набор для ремонта проколов. В тёплый день удобнее выехать утром.",
+        "sources": [
+          "horizontes-acg-three-mtb-routes",
+          "horizontes-acg-2026-booking-nov23"
+        ]
+      }
+    ],
+    "galleries": [
+      "horizontes-acg-three-mtb-routes",
+      "horizontes-acg-visitor-nov23"
+    ],
+    "nearby": [
+      "horizontes-mtb-station",
+      "horizontes-guayacan-mtb-93",
+      "horizontes-guapinol-mtb-22",
+      "horizontes-dry-forest-trails",
+      "horizontes-el-saltillo-6"
+    ],
+    "photos": [
+      "horizontes-forest-espinoza"
+    ],
+    "track": "horizontes-acg-three-mtb-routes"
+  },
+  "horizontes-guapinol-mtb-22": {
+    "stops": [
+      {
+        "point": "horizontes-acg-visitor-pin",
+        "role": "Точка приезда · администрация станции",
+        "note": "Зарегистрируйтесь и получите действующую схему выезда и возвращения.",
+        "activity": "mtb"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Estación Experimental Forestal Horizontes · ACG",
+        "source": "horizontes-acg-three-mtb-routes",
+        "note": "Закажите доступ на конкретное велокольцо, попросите актуальную схему и подтвердите, принимают ли на ней ваш велосипед.",
+        "phone": "+506 8997 3341",
+        "whatsapp": "https://wa.me/50689973341",
+        "email": "reservaciones.horizontes@acguanacaste.ac.cr"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Петля и длительность",
+        "text": "На месте возьмите схему длинной петли. Согласуйте время возврата, состояние грунта после дождя и правила для e-bike.",
+        "sources": [
+          "horizontes-acg-three-mtb-routes",
+          "horizontes-acg-visitor-nov23"
+        ]
+      },
+      {
+        "title": "Условия визита и снаряжение",
+        "text": "В общей информации станции указаны две MTB-тропы. Подтвердите выбранный вариант из обзора ACG при бронировании и попросите правила для e-bike. Возьмите шлем, воду, еду, перчатки, насос и набор для ремонта проколов. В тёплый день удобнее выехать утром.",
+        "sources": [
+          "horizontes-acg-three-mtb-routes",
+          "horizontes-acg-2026-booking-nov23"
+        ]
+      }
+    ],
+    "galleries": [
+      "horizontes-acg-three-mtb-routes",
+      "horizontes-acg-visitor-nov23"
+    ],
+    "nearby": [
+      "horizontes-mtb-station",
+      "horizontes-guayacan-mtb-93",
+      "horizontes-san-pancho-mtb-14",
+      "horizontes-dry-forest-trails"
+    ],
+    "photos": [
+      "horizontes-forest-espinoza"
+    ],
+    "track": "horizontes-acg-three-mtb-routes"
+  },
+  "tenorio-hideaway-tapir-river": {
+    "stops": [
+      {
+        "point": "nov24-hideaway-tapir-reception",
+        "role": "Приёмная отеля · запросить схему частных троп",
+        "note": "Речная купальня на территории отеля. Состояние подхода и воды узнавайте у сотрудников при регистрации.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Hideaway Río Celeste",
+        "source": "hideaway-tapir-owner-contact",
+        "note": "Условия проживания и доступа к реке, расписание троп и трансфер к Теньорио.",
+        "phone": "+506 2206 4000",
+        "whatsapp": "https://wa.me/50660617193",
+        "email": "recepcion@riocelestehideaway.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Две прогулки от гостиницы",
+        "text": "Armadillo около 700 м, вариант с небольшими подъёмами. Tapir около 1,3 км, есть более длинный подъём. Закрытая обувь пригодится даже для короткого выхода к воде.",
+        "sources": [
+          "hideaway-tapir-owner-trails",
+          "fb-guest-nov24-1980460462646498"
+        ]
+      },
+      {
+        "title": "Купальня и ночной лес",
+        "text": "В FAQ отель указывает часы троп 06:00–17:00. Отдельный ночной выход согласуют с проводником. При дожде и изменении обычного цвета воды выбирайте сухопутный вариант.",
+        "sources": [
+          "hideaway-tapir-stay-faq",
+          "hideaway-tapir-owner-trails"
+        ]
+      }
+    ],
+    "galleries": [
+      "hideaway-tapir-owner-trails"
+    ],
+    "nearby": [
+      "tenorio-celeste",
+      "rio-celeste-tubing"
+    ],
+    "videos": [
+      "fb-guest-nov24-1980460462646498",
+      "fb-guest-nov24-1830597054790944"
+    ],
+    "accessNotice": {
+      "title": "Купальня на территории отеля",
+      "text": "Вход к реке согласуйте у Hideaway. У национального парка отдельный вход и действует запрет на купание.",
+      "sources": [
+        "hideaway-tapir-stay-faq",
+        "hideaway-tapir-owner-trails"
+      ]
+    }
+  },
+  "arenal-titoku-thermal-day": {
+    "stops": [
+      {
+        "point": "nov24-titoku-thermal-complex",
+        "role": "Вход в Titokú",
+        "note": "На карте отмечен отдельный комплекс Titokú. Семь чаш на территории самого Arenal Kioro относятся к гостинице.",
+        "activity": "thermal"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Titokú Hot Springs · запись через Arenal Kioro",
+        "source": "kioro-titoku-owner-hot-springs",
+        "note": "Подтвердите время визита и условия для детей.",
+        "phone": "+506 2479 1700"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Бассейны и режим посещения",
+        "text": "Оператор указывает восемь чаш в Titokú с разной вместимостью и температурой. На записи уточняйте доступные слоты, условия раздевалок и полотенца.",
+        "sources": [
+          "kioro-titoku-owner-hot-springs",
+          "titoku-local-guide-photo"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Возьмите купальные вещи, сандалии и воду. Перед приездом с детьми спросите, в каких чашах им разрешён вход.",
+        "sources": [
+          "kioro-titoku-owner-hot-springs"
+        ]
+      }
+    ],
+    "galleries": [
+      "titoku-local-guide-photo",
+      "kioro-titoku-owner-hot-springs"
+    ],
+    "nearby": [
+      "tabacon"
+    ],
+    "videos": [
+      "titoku-visit-film"
+    ]
+  },
+  "san-jose-museos-banco-central": {
+    "stops": [
+      {
+        "point": "nov24-mbccr-gold-museum",
+        "role": "Подземный музей · вход у Plaza de la Cultura",
+        "note": "Для встречи используйте вход на площади. На сайте есть схема музейных уровней.",
+        "activity": "history"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Museos del Banco Central",
+        "source": "publisher-museosdelbancocentral-org",
+        "note": "Билеты, льготы для детей, доступность и запись на экскурсию.",
+        "phone": "+506 2243 6000",
+        "email": "servicioalpublico@museosbccr.org"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Под одной площадью",
+        "text": "В Музее золота есть постоянная археологическая коллекция. В том же здании музей показывает монеты и временные экспозиции. Артефакты и схема этажей доступны на сайте.",
+        "sources": [
+          "publisher-museosdelbancocentral-org",
+          "mbccr-gold-permanent"
+        ]
+      },
+      {
+        "title": "Упоминание выставки Circular el cambio",
+        "text": "В открытой ноябрьской публикации музей рассказывает о новом монетном ряде. Даты для посещения временных залов уточняйте по текущей афише.",
+        "sources": [
+          "fb-guest-nov24-2206649750243324",
+          "publisher-museosdelbancocentral-org"
+        ]
+      }
+    ],
+    "galleries": [
+      "mbccr-gold-permanent"
+    ],
+    "nearby": [
+      "san-jose-teatro-plaza-cultura",
+      "san-jose-museo-bellavista"
+    ],
+    "videos": [
+      "mbccr-gold-official-film",
+      "fb-guest-nov24-2206649750243324"
+    ]
+  },
+  "jaco-el-miro-view-hike-23": {
+    "stops": [
+      {
+        "point": "nov24-el-miro-puddlefish-landmark",
+        "role": "Ориентир подъезда · Ruta 34",
+        "note": "Используйте ориентир для встречи. Действующий открытый вход на тропу находится в этом районе.",
+        "activity": "hiking"
+      },
+      {
+        "point": "nov24-el-miro-ruins",
+        "role": "Район верхних видов",
+        "note": "Осматривайте залив с доступных внешних площадок. У недостроенного здания есть крутые перепады.",
+        "activity": "views"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "PuddleFish Brewery",
+        "source": "el-miro-puddlefish-stop",
+        "note": "Место для еды после прогулки и наземный ориентир. Правила прохода сверяйте у входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Подъём от южной части Хако",
+        "text": "Полевой маршрут начинается у Ruta 34. До первой смотровой идёт подъём по грунту. Запланируйте воду, защиту от солнца и обратный спуск засветло.",
+        "sources": [
+          "el-miro-pura-vida-local-hike",
+          "el-miro-jaco-area-guide"
+        ]
+      },
+      {
+        "title": "Виды без захода в постройку",
+        "text": "Издатель Los Sueños отмечает виды на залив и лес по пути. Используйте открытые видовые участки и соблюдайте указания на местности.",
+        "sources": [
+          "fb-guest-nov24-1395238152422667",
+          "el-miro-jaco-area-guide"
+        ]
+      }
+    ],
+    "galleries": [
+      "el-miro-jaco-area-guide",
+      "el-miro-pura-vida-local-hike"
+    ],
+    "videos": [
+      "el-miro-field-video",
+      "fb-guest-nov24-1395238152422667"
+    ],
+    "nearby": [
+      "jaco-surf",
+      "hermosa-jaco",
+      "jaco-pastor-diaz-ebike-4"
+    ],
+    "accessNotice": {
+      "title": "Условия доступа меняются",
+      "text": "Участок маршрута частный. Проходите через действующий открытый вход и соблюдайте ограждения и знаки.",
+      "sources": [
+        "el-miro-pura-vida-local-hike",
+        "el-miro-jaco-area-guide"
+      ]
+    }
+  }
+}

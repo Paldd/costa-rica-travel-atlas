@@ -2988,5 +2988,35 @@
     "exactPaths": [
       "/2025/02/04/the-different-sections-of-the-pacuare-river/"
     ]
+  },
+  {
+    "name": "Hideaway Río Celeste · две тропы и речной доступ",
+    "url": "https://www.riocelestehideaway.com/es/senderos-y-acceso-rio-celeste",
+    "exactPaths": [
+      "/es/senderos-y-acceso-rio-celeste"
+    ],
+    "review": "hideaway-tapir-owner-trails",
+    "language": "es",
+    "focus": "Частные тропы Armadillo и Tapir, речная купальня и прогулки с проводником."
+  },
+  {
+    "name": "Arenal Kioro · горячие источники Titokú",
+    "url": "https://www.hotelarenalkioro.com/es/aguas-termales",
+    "exactPaths": [
+      "/es/aguas-termales"
+    ],
+    "review": "kioro-titoku-owner-hot-springs",
+    "language": "es",
+    "focus": "Дневной вход в Titokú, опубликованный режим и бронирование."
+  },
+  {
+    "name": "Museos del Banco Central · Museo del Oro Precolombino",
+    "url": "https://museosdelbancocentral.org/exhibiciones/museo-del-oro-precolombino/",
+    "exactPaths": [
+      "/exhibiciones/museo-del-oro-precolombino/"
+    ],
+    "review": "mbccr-gold-permanent",
+    "language": "es",
+    "focus": "Постоянная археологическая коллекция и материалы для семейного визита."
   }
 ]

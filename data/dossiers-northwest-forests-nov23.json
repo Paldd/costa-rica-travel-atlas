@@ -192,6 +192,14 @@
           "horizontes-acg-2026-booking-nov23",
           "horizontes-reservations-nov23"
         ]
+      },
+      {
+        "title": "Длины основных велопетель",
+        "text": "ACG отдельно описывает Эль-Гуаякан (9,3 км), Сан-Панчо (14 км) и Эль-Гуапиноль (22 км). Карточки этих петель содержат детали маршрутов. Допуск к каждой петле подтверждает станция.",
+        "sources": [
+          "horizontes-acg-three-mtb-routes",
+          "horizontes-acg-2026-booking-nov23"
+        ]
       }
     ],
     "line": "horizontes-road-approach-gpx",
@@ -217,7 +225,10 @@
     "nearby": [
       "horizontes-dry-forest-trails",
       "horizontes-el-saltillo-6",
-      "junquillal"
+      "junquillal",
+      "horizontes-guayacan-mtb-93",
+      "horizontes-san-pancho-mtb-14",
+      "horizontes-guapinol-mtb-22"
     ]
   },
   "murcielago-hachal-walk-12": {

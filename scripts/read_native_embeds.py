@@ -41,6 +41,7 @@ class CaptionWidget(HTMLParser):
         excluded = (
             excluded or tag in {"script", "style", "noscript", "template"}
             or "hidden" in attrs or attrs.get("data-log-event") == "captionCommentsClick"
+            or "see_more_link" in classes
         )
         if not excluded:
             caption = caption or "Caption" in classes or attrs.get("data-testid") == "post_message"
@@ -153,12 +154,16 @@ def widget_url(platform, url):
 def main():
     cli = argparse.ArgumentParser(description=__doc__)
     cli.add_argument("--url", action="append", default=[], help="Additional known public permalink")
+    cli.add_argument("--discovered", type=Path, help="Local JSON with URLs from a public profile scan")
     cli.add_argument("--limit", type=int, default=60, help="Maximum number of widget requests")
     cli.add_argument("--out", type=Path, default=Path(".cache/native-embeds.json"))
     args = cli.parse_args()
     if args.limit < 1:
         cli.error("--limit must be positive")
-    pool = candidates(args.url)
+    discovered = json.loads(args.discovered.read_text(encoding="utf-8"))["urls"] if args.discovered else []
+    if not isinstance(discovered, list) or any(not isinstance(url, str) for url in discovered):
+        cli.error("--discovered must contain a urls array with public link strings")
+    pool = candidates([*args.url, *discovered])
     path = args.out
     path.parent.mkdir(parents=True, exist_ok=True)
     if path.exists():

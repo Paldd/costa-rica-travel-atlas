@@ -296,3 +296,16 @@ python3 scripts/review_social_posts.py --embeds .cache/native-embeds.json --out 
 В Chromium повторно проверены 45 страниц Facebook и два профиля Instagram без прямых оригиналов. Для 17 страниц Facebook найдены адреса публикаций, прочитаны подписи и подтверждена связь автора со страницей. В плеере имена страниц открываются по ссылкам с числовым идентификатором или псевдонимом. Идентичность сопоставлена с рейтингом. В реестре теперь 76 оригиналов от 72 страниц Facebook. По 28 страницам Facebook продолжается поиск прямых оригиналов. [Реестр оригиналов](../data/public-posts.tsv) · [Журнал гостевого просмотра](../data/profile-browser-checks.tsv)
 
 При наличии точного адреса `--url` помещает его в начало очереди виджетов. Сырой ответ хранится в локальном кэше. Найденные ссылки ведут к отдельным публикациям. Для карты Upper Upper Pacuare, каяков Travesías Naturales и лесной тропы Los Congos добавлены страницы владельцев для регулярного обхода. [Подключённые источники](../data/feeds.json)
+
+## Оригиналы у всех 100 страниц Facebook, 24 ноября 2026 года
+
+Повторный гостевой просмотр вкладок Posts, Reels и Videos дал 224 прямых адреса-кандидата. Из них 191 публикацию удалось прочитать и сопоставить с её автором в рейтинге. Это добавило оригиналы у 28 ранее непокрытых страниц. Атлас хранит 267 подтверждённых оригиналов от 100 страниц Facebook. По двум профилям Instagram остаётся поиск прямых оригиналов. В каждой сети показатель отвечает за наличие подтверждённых публикаций у профиля. [Реестр оригиналов](../data/public-posts.tsv) · [Журнал проверок](../data/profile-browser-checks.tsv)
+
+Скрипт гостевого просмотра получает ограниченную выборку видимых адресов без входа в аккаунт. Затем отдельный проход читает подпись и проверяет ссылку на автора в виджете. Сырой текст остаётся в локальном кэше. Для запуска сканирования нужен установленный Playwright, путь к которому задаёт `ATLAS_PLAYWRIGHT`.
+
+```bash
+npm run check
+node scripts/discover_facebook_posts.mjs --rank 21 --limit 1 --out .cache/facebook-guest-links.json
+python3 scripts/read_native_embeds.py --discovered .cache/facebook-guest-links.json --limit 8 --out .cache/facebook-native-captions.json
+python3 scripts/review_social_posts.py --embeds .cache/facebook-native-captions.json --out .cache/facebook-native-analysis.json
+```
