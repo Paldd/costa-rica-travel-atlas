@@ -1,6 +1,6 @@
 {
-  "archives": 175,
-  "archivesRead": 172,
+  "archives": 176,
+  "archivesRead": 173,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -1109,25 +1109,21 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Hostel Alouatta I Contact",
           "url": "https://www.alouatta.org/contact"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Hostel Alouatta I Car rental",
           "url": "https://www.alouatta.org/carrental"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Hostel Alouatta I Accommodation",
           "url": "https://www.alouatta.org/accommodation"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Hostel Alouatta",
           "url": "https://www.alouatta.org"
         }
@@ -1139,13 +1135,11 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Inicio",
           "url": "https://hotelcasacaletas.net"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Actividades & Tours",
           "url": "https://hotelcasacaletas.net/actividades-tours/"
         }
@@ -1157,7 +1151,6 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Rancho Victoria Coyote – Costa Rider – Campervan",
           "url": "https://www.costarider-campervan.com/rancho-victoria-coyote/"
         }
@@ -1233,6 +1226,12 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "September 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/09/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Scientists observed humpback whales swimming as far as 3,700 miles to mate, much further than previously thought",
           "url": "https://divinedolphin.com/blog/2022/03/01/scientists-observed-humpback-whales-swimming-as-far-as-3700-miles-to-mate-much-further-than-previously-thought-2/"
         },
@@ -1253,6 +1252,12 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "October 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/10/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "November 2022 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2022/11/"
         },
@@ -1260,6 +1265,12 @@
           "checked": "2026-11-24",
           "title": "November 2021 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2021/11/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "November 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/11/"
         },
         {
           "checked": "2026-11-24",
@@ -1283,7 +1294,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "March 2020 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2020/03/"
         },
@@ -1299,9 +1309,14 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "July 2020 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2020/07/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "July 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/07/"
         },
         {
           "checked": "2026-11-24",
@@ -1315,7 +1330,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "January 2020 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2020/01/"
         },
@@ -1346,9 +1360,14 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "December 2020 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2020/12/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "December 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/12/"
         },
         {
           "checked": "2026-11-24",
@@ -1367,7 +1386,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "April 2020 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2020/04/"
         },
@@ -1417,7 +1435,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 43
+      "read": 48
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -1765,7 +1783,6 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "La Reserva - Montaña Sagrada",
           "url": "https://reservamontanasagrada.com/la-reserva/"
         }
@@ -2375,7 +2392,6 @@
         {
           "checked": "2026-11-24",
           "published": "2024-11-04",
-          "readThisRun": true,
           "title": "Descubre el parque acuático que transformará la comunidad de Cobano",
           "url": "https://adondeircr.com/puntarenas/descubre-el-parque-acuatico-que-transformara-la-comunidad-de-cobano/?c1"
         },
@@ -2383,15 +2399,48 @@
           "checked": "2026-11-24",
           "published": "2024-10-24",
           "readThisRun": true,
+          "title": "Parque Nacional Los Quetzales: un paraíso para los amantes de la naturaleza y el avistamiento de aves",
+          "url": "https://adondeircr.com/san-jose/parque-nacional-los-quetzales-un-paraiso-para-los-amantes-de-la-naturaleza-y-el-avistamiento-de-aves/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2024-10-24",
           "title": "Los 10 mejores destinos para explorar en Guanacaste",
           "url": "https://adondeircr.com/guanacaste/los-10-mejores-destinos-para-explorar-en-guanacaste/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2024-10-24",
-          "readThisRun": true,
           "title": "Descubre el Parque Nacional Barra Honda",
           "url": "https://adondeircr.com/guanacaste/descubre-el-parque-nacional-barra-honda/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2024-10-05",
+          "readThisRun": true,
+          "title": "La Fortuna se viste de ofertas: descuentos de hasta el 50% para disfrutar en octubre",
+          "url": "https://adondeircr.com/alajuela/la-fortuna-se-viste-de-ofertas-descuentos-de-hasta-el-50-para-disfrutar-en-octubre/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2024-09-30",
+          "readThisRun": true,
+          "title": "Restauración de Corales en Isla Tortuga: Mil Fragmentos Cultivados para Salvar el Ecosistema",
+          "url": "https://adondeircr.com/guanacaste/restauracion-de-corales-en-isla-tortuga-mil-fragmentos-cultivados-para-salvar-el-ecosistema/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2023-04-25",
+          "readThisRun": true,
+          "title": "Usuarios podrán disfrutar de un nuevo ferry en Puntarenas y Playa Naranjo",
+          "url": "https://adondeircr.com/puntarenas/usuarios-podran-disfrutar-de-un-nuevo-ferry-en-puntarenas-y-playa-naranjo/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2023-04-17",
+          "readThisRun": true,
+          "title": "Brillo natural en Playa Cuarzo: Una joya escondida en Guanacaste, Costa Rica",
+          "url": "https://adondeircr.com/guanacaste/brillo-natural-en-playa-cuarzo-una-joya-escondida-en-guanacaste-costa-rica/?c1"
         },
         {
           "checked": "2026-11-24",
@@ -2606,14 +2655,12 @@
         {
           "checked": "2026-11-24",
           "published": "2019-08-23",
-          "readThisRun": true,
           "title": "Playa Nacascolo, un paraíso lleno de arena blanca",
           "url": "https://adondeircr.com/guanacaste/playa-nacascolo-un-paraiso-lleno-de-arena-blanca/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2019-06-24",
-          "readThisRun": true,
           "title": "Catarata escondida",
           "url": "https://adondeircr.com/alajuela/catarata-escondida/?c1"
         },
@@ -3364,12 +3411,6 @@
         {
           "checked": "2026-11-22",
           "published": "2023-04-25",
-          "title": "Usuarios podrán disfrutar de un nuevo ferry en Puntarenas y Playa Naranjo",
-          "url": "https://adondeircr.com/puntarenas/usuarios-podran-disfrutar-de-un-nuevo-ferry-en-puntarenas-y-playa-naranjo/?c1"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2023-04-25",
           "title": "Juan Luis Guerra confirma su concierto en Costa Rica para este año",
           "url": "https://adondeircr.com/san-jose/juan-luis-guerra-confirma-su-concierto-en-costa-rica-para-este-ano/?c1"
         },
@@ -3384,12 +3425,6 @@
           "published": "2023-04-21",
           "title": "Un viaje culinario a Perú: visita La Sucursal Limeña en Mercado La Cartonera",
           "url": "https://adondeircr.com/san-jose/un-viaje-culinario-a-peru-visita-la-sucursal-limena-en-mercado-la-cartonera/?c1"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2023-04-17",
-          "title": "Brillo natural en Playa Cuarzo: Una joya escondida en Guanacaste, Costa Rica",
-          "url": "https://adondeircr.com/guanacaste/brillo-natural-en-playa-cuarzo-una-joya-escondida-en-guanacaste-costa-rica/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -3459,12 +3494,6 @@
         },
         {
           "checked": "2026-11-21",
-          "published": "2024-10-24",
-          "title": "Parque Nacional Los Quetzales: un paraíso para los amantes de la naturaleza y el avistamiento de aves",
-          "url": "https://adondeircr.com/san-jose/parque-nacional-los-quetzales-un-paraiso-para-los-amantes-de-la-naturaleza-y-el-avistamiento-de-aves/?c1"
-        },
-        {
-          "checked": "2026-11-21",
           "published": "2024-10-08",
           "title": "El festival de verano que transformará San José en marzo: ¡conciertos, teatro y más!",
           "url": "https://adondeircr.com/san-jose/el-festival-de-verano-que-transformara-san-jose-en-marzo-conciertos-teatro-y-mas/?c1"
@@ -3480,12 +3509,6 @@
           "published": "2024-10-05",
           "title": "Las imágenes inéditas de Ricardo Arjona en Costa Rica",
           "url": "https://adondeircr.com/limon/las-imagenes-ineditas-de-ricardo-arjona-en-costa-rica/?c1"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2024-10-05",
-          "title": "La Fortuna se viste de ofertas: descuentos de hasta el 50% para disfrutar en octubre",
-          "url": "https://adondeircr.com/alajuela/la-fortuna-se-viste-de-ofertas-descuentos-de-hasta-el-50-para-disfrutar-en-octubre/?c1"
         },
         {
           "checked": "2026-11-21",
@@ -3516,12 +3539,6 @@
           "published": "2024-09-30",
           "title": "¡Increíble avistamiento! Flamenco rosado sorprende a todos en Limón",
           "url": "https://adondeircr.com/limon/increible-avistamiento-flamenco-rosado-sorprende-a-todos-en-limon/?c1"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2024-09-30",
-          "title": "Restauración de Corales en Isla Tortuga: Mil Fragmentos Cultivados para Salvar el Ecosistema",
-          "url": "https://adondeircr.com/guanacaste/restauracion-de-corales-en-isla-tortuga-mil-fragmentos-cultivados-para-salvar-el-ecosistema/?c1"
         },
         {
           "checked": "2026-11-21",
@@ -5900,9 +5917,26 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "¿Qué actividades puedo hacer en el Lago de Arenal?",
           "url": "https://vamosaturistear.com/actividades/que-actividades-puedo-hacer-en-el-lago-de-arenal/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "¿Por qué sucede la bioluminiscencia?",
+          "url": "https://vamosaturistear.com/actividades/por-que-sucede-la-bioluminiscencia/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "¡Bienvenidos a Catarata Uvita!",
+          "url": "https://vamosaturistear.com/actividades/bienvenidos-a-catarata-uvita/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Visitá Isla Venado",
+          "url": "https://vamosaturistear.com/actividades/visita-isla-venado/"
         },
         {
           "checked": "2026-11-24",
@@ -5931,13 +5965,11 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Playa Sámara: un destino vacacional perfecto - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-samara-un-destino-vacacional-perfecto/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Playa Santa Teresa: el paraíso de la arena blanca y el surf - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-santa-teresa-el-paraiso-de-la-arena-blanca-y-el-surf/"
         },
@@ -5983,7 +6015,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Laguna de Río Cuarto: la más profunda del país",
           "url": "https://vamosaturistear.com/actividades/laguna-de-rio-cuarto-la-mas-profunda-del-pais/"
         },
@@ -6014,6 +6045,18 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Estos son los parques nacionales que tenés que conocer en Puntarenas",
+          "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-puntarenas/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Estos son los parques nacionales que tenés que conocer en Limón",
+          "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-limon/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "El bosque quemado del Volcán Turrialba - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/el-bosque-quemado-del-volcan-turrialba/"
         },
@@ -6029,7 +6072,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Descubrí la magia de Isla Cedros - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/descubri-la-magia-de-isla-cedros/"
         },
@@ -6105,18 +6147,8 @@
         },
         {
           "checked": "2026-11-23",
-          "title": "¿Por qué sucede la bioluminiscencia?",
-          "url": "https://vamosaturistear.com/actividades/por-que-sucede-la-bioluminiscencia/"
-        },
-        {
-          "checked": "2026-11-23",
           "title": "¿Por qué no debemos llevarnos las conchas del mar?",
           "url": "https://vamosaturistear.com/actividades/por-que-no-debemos-llevarnos-las-conchas-del-mar/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "¡Bienvenidos a Catarata Uvita!",
-          "url": "https://vamosaturistear.com/actividades/bienvenidos-a-catarata-uvita/"
         },
         {
           "checked": "2026-11-23",
@@ -6162,11 +6194,6 @@
           "checked": "2026-11-23",
           "title": "Visitá Poza El Salto",
           "url": "https://vamosaturistear.com/actividades/visita-poza-el-salto/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Visitá Isla Venado",
-          "url": "https://vamosaturistear.com/actividades/visita-isla-venado/"
         },
         {
           "checked": "2026-11-23",
@@ -6382,16 +6409,6 @@
           "checked": "2026-11-23",
           "title": "Explorá la Catarata El Santuario",
           "url": "https://vamosaturistear.com/actividades/explora-la-catarata-el-santuario/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Estos son los parques nacionales que tenés que conocer en Puntarenas",
-          "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-puntarenas/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Estos son los parques nacionales que tenés que conocer en Limón",
-          "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-limon/"
         },
         {
           "checked": "2026-11-23",
@@ -7493,6 +7510,24 @@
       ],
       "read": 3
     },
+    "quesada-termales-bosque-home": {
+      "indexed": 2,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Hotel Termales del Bosque Resort & Hot Springs - Hotel Termales del Bosque",
+          "url": "https://termalesdelbosquecr.com/index/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Contáctanos - Hotel Termales del Bosque",
+          "url": "https://termalesdelbosquecr.com/index/contact-us/"
+        }
+      ],
+      "read": 2
+    },
     "rafiki-journey-road-required": {
       "indexed": 3,
       "pages": [
@@ -8421,18 +8456,21 @@
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "Zip Line + 3 Hour Double Buggy + Waterfalls Combo",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-double-3-hrs-buggy-waterfalls-combo/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Zip Line + 3 Hour ATV + Waterfalls Combo",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-3-hrs-atv-waterfalls-combo/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Zip Line + 2 Hour ATV Combo",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-2-hrs-atv-combo/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Vista Los Suenos Canyoning",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/vista-los-suenos-canyoning/"
         },
@@ -8468,6 +8506,12 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Horseback Riding + Chocolate Experience",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-riding-chocolate-experience/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Horseback Riding + 3 Hour Buggy & Waterfalls Combo",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-riding-3-hour-buggy-waterfalls-combo/"
         },
@@ -8478,8 +8522,20 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Full-day Combo Tour from Fiesta Resort Central Pacific",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/one-day-tour-combo-from-fiesta-resort-central-pacific/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Full-Day Vista Los Sueños Tri-Combo Tour",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/full-day-vista-los-suenos-tri-combo-tour/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Full-Day Adventure Combo Tour from Manuel Antonio & Quepos",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/one-day-adventure-combo-tour-from-manuel-antonio-quepos/"
         },
         {
           "checked": "2026-11-24",
@@ -8494,6 +8550,11 @@
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "Exclusive Beach Day Tour From San José",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/exclusive-beach-day-tour-from-san-jose/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Chocolate Experience Tour",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/chocolate-experience/"
         },
@@ -8504,7 +8565,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "4 Hour Single ATV & Waterfalls",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/4-hour-single-atv-waterfalls/"
         },
@@ -8539,7 +8599,7 @@
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/2-hour-atv-adventure-chocolate-experience/"
         }
       ],
-      "read": 25
+      "read": 30
     },
     "zancudo-pavones-tours-kayak": {
       "indexed": 2,
@@ -9247,8 +9307,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 30,
-  "pagesRead": 28,
-  "pagesReadToDate": 1403,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45321869374"
+  "pagesChecked": 22,
+  "pagesRead": 22,
+  "pagesReadToDate": 1415,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45323502361"
 }
