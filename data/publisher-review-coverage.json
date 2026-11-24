@@ -1,5 +1,5 @@
 {
-  "archives": 161,
+  "archives": 163,
   "archivesRead": 158,
   "bySource": {
     "aguas-claras-activity-index": {
@@ -72,7 +72,7 @@
       "read": 1
     },
     "amarena-mistico-activities": {
-      "indexed": 4,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -95,7 +95,7 @@
           "url": "https://amarenabeachhotel.com/contact/"
         }
       ],
-      "read": 4
+      "read": null
     },
     "ara-pura-vida-ebike-itinerary": {
       "indexed": 2,
@@ -438,7 +438,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": 1,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -446,32 +446,40 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": 1
+      "read": null
     },
     "carrillotours-costa-rica-activities": {
       "indexed": 30,
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "TURTLE TOUR OSTIONAL - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/tourtletour-2/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Samara and Carrillo sportfishing - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/inshore-fishing/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "RIO CELESTE DAY TRIP - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/rio-celeste-day-trip/"
         },
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "Puntarenas - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/puntarenas/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Private Transfer to Tamarindo - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/tamarindo/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "PALO VERDE NATIONAL PARK TOUR - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/paloverde/"
         },
@@ -482,7 +490,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "OFFSHORE FISHING - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/offshore-fishing/"
         },
@@ -508,6 +515,18 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Liberia Airport Transfer to Samara and Carrillo - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/liberiaairport/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Jaco - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/jaco/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Horseback Riding - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/horsebackriding/"
         },
@@ -525,6 +544,12 @@
           "checked": "2026-11-24",
           "title": "Dolphin, Whales, & Snorkeling - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/dolphinandsnorkelingtour/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Caldera - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/caldera/"
         },
         {
           "checked": "2026-11-24",
@@ -557,7 +582,7 @@
           "url": "https://carrillotours.com/tour-item/arenalvolcano/"
         }
       ],
-      "read": 20
+      "read": 25
     },
     "casa-luna-own-forest-trail": {
       "indexed": 2,
@@ -1098,7 +1123,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Whales Removed an Abundance of Carbon From Earth. Then Humans Killed 3 Million of Them",
           "url": "https://divinedolphin.com/blog/2021/11/08/whales-removed-an-abundance-of-carbon-from-earth-then-humans-killed-3-million-of-them/"
         },
@@ -1119,7 +1143,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Snow-White Albino Dolphin Looks Like Something Out of a Mystical Fantasy Realm – Green Living Tribe",
           "url": "https://divinedolphin.com/blog/2021/11/14/snow-white-albino-dolphin-looks-like-something-out-of-a-mystical-fantasy-realm-green-living-tribe/"
         },
@@ -1130,7 +1153,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Scientists Discover That Dolphins Can Do Something Incredible That No Species Can Except Humans – Green Living Tribe",
           "url": "https://divinedolphin.com/blog/2021/11/10/scientists-discover-that-dolphins-can-do-something-incredible-that-no-species-can-except-humans-green-living-tribe/"
         },
@@ -1147,6 +1169,11 @@
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "May 2024 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2024/05/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "How Whales Can Teach Us to Be Better Humans",
           "url": "https://divinedolphin.com/blog/2021/07/04/how-whales-can-teach-us-to-be-better-humans/"
         },
@@ -1157,9 +1184,20 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Are We on the Verge of Chatting with Whales? | Hakai Magazine",
           "url": "https://divinedolphin.com/blog/2021/11/12/are-we-on-the-verge-of-chatting-with-whales-hakai-magazine/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Among Dolphins – Experience the Dolphins, Whales and Rainforest of Costa Rica!",
+          "url": "https://divinedolphin.com/blog/among-dolphins-experience-the-humpback-whales-dolphins-and-rainforest-of-costa-rica/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "AMONG WHALES – Experience the Humpback Whales, Dolphins and Rainforest of Costa Rica!",
+          "url": "https://divinedolphin.com/blog/experience-the-humpback-whales-and-rainforest-of-costa-rica/"
         },
         {
           "checked": "2026-11-24",
@@ -1197,7 +1235,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 20
+      "read": 23
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -1432,9 +1470,21 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Rio Celeste Tubing y Senderos | Rio Celeste Hotel",
           "url": "https://www.riocelestehideaway.com/es/senderos-y-acceso-rio-celeste"
+        }
+      ],
+      "read": 1
+    },
+    "islita-adventure-air-charters": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "published": "2025-05-23",
+          "readThisRun": true,
+          "title": "Punta Islita",
+          "url": "https://www.flyadventureair.com/private-air-charters/punta-islita/"
         }
       ],
       "read": 1
@@ -1460,7 +1510,6 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "The Hot Springs Lodge Costa Rica - Hotel Arenal Kioro",
           "url": "https://www.hotelarenalkioro.com/es/aguas-termales"
         }
@@ -2044,21 +2093,18 @@
         {
           "checked": "2026-11-24",
           "published": "2020-03-10",
-          "readThisRun": true,
           "title": "Río La Mina y Mirador, Miramar Puntarenas, Costa Rica",
           "url": "https://adondeircr.com/puntarenas/rio-la-mina-y-mirador-miramar-puntarenas-costa-rica/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2020-03-10",
-          "readThisRun": true,
           "title": "Reserva Natural Absoluta Cabo Blanco, Puntarenas Costa Rica",
           "url": "https://adondeircr.com/puntarenas/reserva-natural-absoluta-cabo-blanco-puntarenas-costa-rica/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2020-03-10",
-          "readThisRun": true,
           "title": "Reserva Karen Mogensen – Puntarenas, Costa Rica",
           "url": "https://adondeircr.com/puntarenas/reserva-karen-mogensen-puntarenas-costa-rica/?c1"
         },
@@ -2066,13 +2112,18 @@
           "checked": "2026-11-24",
           "published": "2020-03-10",
           "readThisRun": true,
+          "title": "Parque Nacional Volcán Arenal",
+          "url": "https://adondeircr.com/alajuela/parque-nacional-volcan-arenal/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-10",
           "title": "Parque Nacional Corcovado",
           "url": "https://adondeircr.com/puntarenas/parque-nacional-corcovado/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2020-03-10",
-          "readThisRun": true,
           "title": "Monumento Guayabo",
           "url": "https://adondeircr.com/cartago/monumento-guayabo/?c1"
         },
@@ -2093,6 +2144,34 @@
           "published": "2020-03-10",
           "title": "Catarata Chorro Parado – San Ramón, Alajuela Costa Rica",
           "url": "https://adondeircr.com/alajuela/catarata-chorro-parado-san-ramon-alajuela-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-09",
+          "readThisRun": true,
+          "title": "El bus místico, Heredia, Costa Rica",
+          "url": "https://adondeircr.com/heredia/el-bus-mistico-heredia-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-09",
+          "readThisRun": true,
+          "title": "Cerro Dantas, Heredia, Costa Rica",
+          "url": "https://adondeircr.com/heredia/cerro-dantas-heredia-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-08",
+          "readThisRun": true,
+          "title": "CATARATA LA BRUJA – BONILLA TURRIALBA, COSTA RICA",
+          "url": "https://adondeircr.com/cartago/catarata-la-bruja-bonilla-turrialba-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-03-08",
+          "readThisRun": true,
+          "title": "CATARATA LA 28 – TURRIALBA, CARTAGO, COSTA RICA",
+          "url": "https://adondeircr.com/cartago/catarata-la-28-turrialba-cartago-costa-rica/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -3103,7 +3182,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 183
+      "read": 188
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -3318,7 +3397,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Museo del Oro Precolombino",
           "url": "https://museosdelbancocentral.org/exhibiciones/museo-del-oro-precolombino/"
         },
@@ -5401,13 +5479,11 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Reserva Forestal Grecia (Bosque del Niño)",
           "url": "https://vamosaturistear.com/actividades/reserva-forestal-grecia-bosque-del-nino/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Pozas y Cascadas La Presa: Paraíso natural en Río Cuarto - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/pozas-y-cascadas-la-presa-paraiso-natural-en-rio-cuarto/"
         },
@@ -5438,8 +5514,20 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Descubrí 5 playas para hacer snorkeling - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/descubri-5-playas-para-hacer-snorkeling/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Cueva del Dragón de Acosta: Aventura de hiking en San José - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/cueva-del-dragon-de-acosta-aventura-de-hiking-en-san-jose/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Buceo en Isla Santa Catalina: El paraíso submarino de Guanacaste - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/buceo-en-isla-santa-catalina-el-paraiso-submarino-de-guanacaste/"
         },
         {
           "checked": "2026-11-24",
@@ -5448,18 +5536,22 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "8 lugares para turistear en Heredia",
+          "url": "https://vamosaturistear.com/actividades/6-lugares-para-turistear-en-heredia/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "7 playas accesibles para que salgás a turistear - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/7-playas-accesibles-para-que-salgas-a-turistear/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "12 actividades que podés hacer en La Fortuna en tus vacaciones",
           "url": "https://vamosaturistear.com/actividades/12-actividades-que-podes-hacer-en-la-fortuna-en-tus-vacaciones/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "10 razones para visitar la Catarata Nauyaca",
           "url": "https://vamosaturistear.com/actividades/10-razones-para-visitar-la-catarata-nauyaca/"
         },
@@ -6110,11 +6202,6 @@
         },
         {
           "checked": "2026-11-22",
-          "title": "Descubrí 5 playas para hacer snorkeling - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/descubri-5-playas-para-hacer-snorkeling/"
-        },
-        {
-          "checked": "2026-11-22",
           "title": "Conocé la historia del Monumento Guayabo - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/conoce-la-historia-del-monumento-guayabo/"
         },
@@ -6122,11 +6209,6 @@
           "checked": "2026-11-22",
           "title": "Catarata La Golondrina: La Joya escondida de Guácimo de Limón - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-la-golondrina-la-joya-escondida-de-guacimo-de-limon/"
-        },
-        {
-          "checked": "2026-11-22",
-          "title": "Buceo en Isla Santa Catalina: El paraíso submarino de Guanacaste - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/buceo-en-isla-santa-catalina-el-paraiso-submarino-de-guanacaste/"
         },
         {
           "checked": "2026-11-22",
@@ -6182,11 +6264,6 @@
           "checked": "2026-11-21",
           "title": "8 tours que tenés que vivir en Golfito - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/8-tours-que-tenes-que-vivir-en-golfito/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "8 lugares para turistear en Heredia",
-          "url": "https://vamosaturistear.com/actividades/6-lugares-para-turistear-en-heredia/"
         },
         {
           "checked": "2026-11-21",
@@ -6258,9 +6335,45 @@
       "read": 1
     },
     "publisher-archive-vistalossuenosadventurepark-com": {
-      "indexed": 0,
-      "pages": [],
-      "read": 0
+      "indexed": 18,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "published": "2026-09-08",
+          "readThisRun": true,
+          "title": "Costa Rica Family Adventure: Activities by Age 4-16 (2027)",
+          "url": "https://vistalossuenosadventurepark.com/costa-rica-family-adventure-activities-by-age/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-08-18",
+          "readThisRun": true,
+          "title": "White Water Rafting Costa Rica for First-Timers (2027)",
+          "url": "https://vistalossuenosadventurepark.com/white-water-rafting-costa-rica-first-timers/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-07-28",
+          "readThisRun": true,
+          "title": "Caldera & Puntarenas Cruise Shore Excursions Guide (2027)",
+          "url": "https://vistalossuenosadventurepark.com/caldera-puntarenas-cruise-shore-excursions-guide/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-07-14",
+          "readThisRun": true,
+          "title": "Costa Rica Zipline Safety, Age & Weight Requirements (2027)",
+          "url": "https://vistalossuenosadventurepark.com/costa-rica-zipline-safety-age-weight-requirements/"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2026-07-07",
+          "readThisRun": true,
+          "title": "Day Trip from SJO Airport: Best Costa Rica Itinerary (2027)",
+          "url": "https://vistalossuenosadventurepark.com/sjo-airport-day-trip-costa-rica/"
+        }
+      ],
+      "read": 5
     },
     "publisher-bosque-del-mar-hermosa": {
       "indexed": 4,
@@ -7802,6 +7915,42 @@
         }
       ],
       "read": 12
+    },
+    "vls-bookings-buggy-options": {
+      "indexed": 35,
+      "pages": [
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Zipline + Chocolate Experience",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/zipline-chocolate-experience/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Zip Line + Horseback Riding + Natural Pool Combo",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-horseback-riding-natural-pool-combo/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Jaco Canopy Zipline Tour: 12 Platforms",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/zipline-canopy-tour/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Horseback Riding in Jacó, Costa Rica",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/jungle-horseback-riding/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "2 Hour ATV Adventure + Chocolate Experience",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/2-hour-atv-adventure-chocolate-experience/"
+        }
+      ],
+      "read": 5
     }
   },
   "dayUtc": "2026-11-24",
@@ -8487,8 +8636,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 25,
-  "pagesRead": 22,
-  "pagesReadToDate": 1278,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45303434508"
+  "pagesChecked": 31,
+  "pagesRead": 27,
+  "pagesReadToDate": 1302,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45308648599"
 }
