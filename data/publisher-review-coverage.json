@@ -1226,7 +1226,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "September 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/09/"
         },
@@ -1252,7 +1251,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "October 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/10/"
         },
@@ -1268,7 +1266,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "November 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/11/"
         },
@@ -1281,6 +1278,12 @@
           "checked": "2026-11-24",
           "title": "May 2021 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2021/05/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "May 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/05/"
         },
         {
           "checked": "2026-11-24",
@@ -1299,8 +1302,20 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "March 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/03/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "June 2023 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2023/06/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "June 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/06/"
         },
         {
           "checked": "2026-11-24",
@@ -1314,7 +1329,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "July 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/07/"
         },
@@ -1332,6 +1346,12 @@
           "checked": "2026-11-24",
           "title": "January 2020 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2020/01/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "January 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/01/"
         },
         {
           "checked": "2026-11-24",
@@ -1355,6 +1375,12 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "February 2019 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2019/02/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "December 2021 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2021/12/"
         },
@@ -1365,7 +1391,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "December 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/12/"
         },
@@ -1435,7 +1460,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 48
+      "read": 53
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -2398,7 +2423,6 @@
         {
           "checked": "2026-11-24",
           "published": "2024-10-24",
-          "readThisRun": true,
           "title": "Parque Nacional Los Quetzales: un paraíso para los amantes de la naturaleza y el avistamiento de aves",
           "url": "https://adondeircr.com/san-jose/parque-nacional-los-quetzales-un-paraiso-para-los-amantes-de-la-naturaleza-y-el-avistamiento-de-aves/?c1"
         },
@@ -2417,30 +2441,61 @@
         {
           "checked": "2026-11-24",
           "published": "2024-10-05",
-          "readThisRun": true,
           "title": "La Fortuna se viste de ofertas: descuentos de hasta el 50% para disfrutar en octubre",
           "url": "https://adondeircr.com/alajuela/la-fortuna-se-viste-de-ofertas-descuentos-de-hasta-el-50-para-disfrutar-en-octubre/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2024-09-30",
-          "readThisRun": true,
           "title": "Restauración de Corales en Isla Tortuga: Mil Fragmentos Cultivados para Salvar el Ecosistema",
           "url": "https://adondeircr.com/guanacaste/restauracion-de-corales-en-isla-tortuga-mil-fragmentos-cultivados-para-salvar-el-ecosistema/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2023-04-25",
-          "readThisRun": true,
           "title": "Usuarios podrán disfrutar de un nuevo ferry en Puntarenas y Playa Naranjo",
           "url": "https://adondeircr.com/puntarenas/usuarios-podran-disfrutar-de-un-nuevo-ferry-en-puntarenas-y-playa-naranjo/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2023-04-17",
-          "readThisRun": true,
           "title": "Brillo natural en Playa Cuarzo: Una joya escondida en Guanacaste, Costa Rica",
           "url": "https://adondeircr.com/guanacaste/brillo-natural-en-playa-cuarzo-una-joya-escondida-en-guanacaste-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2023-04-13",
+          "readThisRun": true,
+          "title": "Harmony Mini Casa: ¡La forma más única y emocionante de hospedarte en Puerto Viejo!",
+          "url": "https://adondeircr.com/limon/harmony-mini-casa-la-forma-mas-unica-y-emocionante-de-hospedarte-en-puerto-viejo/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2023-04-12",
+          "readThisRun": true,
+          "title": "Descubre el auténtico sabor caribeño en PARADISE",
+          "url": "https://adondeircr.com/limon/descubre-el-autentico-sabor-caribeno-en-paradise/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2023-04-07",
+          "readThisRun": true,
+          "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
+          "url": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2023-04-02",
+          "readThisRun": true,
+          "title": "Descubriendo la misteriosa sirena de Esterillos Oeste: una escultura única en la costa del Pacífico de Costa Rica.",
+          "url": "https://adondeircr.com/puntarenas/descubriendo-la-misteriosa-sirena-de-esterillos-oeste-una-escultura-unica-en-la-costa-del-pacifico-de-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2023-04-02",
+          "readThisRun": true,
+          "title": "Descubre la majestuosidad de Oro Péndola: una de las cataratas más hermosas de Guanacaste",
+          "url": "https://adondeircr.com/guanacaste/descubre-la-majestuosidad-de-oro-pendola-una-de-las-cataratas-mas-hermosas-de-guanacaste/?c1"
         },
         {
           "checked": "2026-11-24",
@@ -2681,18 +2736,6 @@
           "published": "2023-04-04",
           "title": "¡Prepárate para el calor! Temperaturas en Semana Santa alcanzarán los 37 grados en Guanacaste, según IMN",
           "url": "https://adondeircr.com/guanacaste/preparate-para-el-calor-temperaturas-en-semana-santa-alcanzaran-los-37-grados-en-guanacaste-segun-imn/?c1"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2023-04-02",
-          "title": "Descubriendo la misteriosa sirena de Esterillos Oeste: una escultura única en la costa del Pacífico de Costa Rica.",
-          "url": "https://adondeircr.com/puntarenas/descubriendo-la-misteriosa-sirena-de-esterillos-oeste-una-escultura-unica-en-la-costa-del-pacifico-de-costa-rica/?c1"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2023-04-02",
-          "title": "Descubre la majestuosidad de Oro Péndola: una de las cataratas más hermosas de Guanacaste",
-          "url": "https://adondeircr.com/guanacaste/descubre-la-majestuosidad-de-oro-pendola-una-de-las-cataratas-mas-hermosas-de-guanacaste/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -3428,18 +3471,6 @@
         },
         {
           "checked": "2026-11-22",
-          "published": "2023-04-13",
-          "title": "Harmony Mini Casa: ¡La forma más única y emocionante de hospedarte en Puerto Viejo!",
-          "url": "https://adondeircr.com/limon/harmony-mini-casa-la-forma-mas-unica-y-emocionante-de-hospedarte-en-puerto-viejo/?c1"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2023-04-12",
-          "title": "Descubre el auténtico sabor caribeño en PARADISE",
-          "url": "https://adondeircr.com/limon/descubre-el-autentico-sabor-caribeno-en-paradise/?c1"
-        },
-        {
-          "checked": "2026-11-22",
           "published": "2023-04-12",
           "title": "Catarata Chindama: Un impresionante tesoro natural a corta distancia de San José",
           "url": "https://adondeircr.com/limon/catarata-chindama-un-impresionante-tesoro-natural-a-corta-distancia-de-san-jose/?c1"
@@ -3449,12 +3480,6 @@
           "published": "2023-04-07",
           "title": "¿Sin miedo a nada? Periodista deportiva Gabriela Jiménez se lanza en paracaídas en sus vacaciones",
           "url": "https://adondeircr.com/puntarenas/sin-miedo-a-nada-periodista-deportiva-gabriela-jimenez-se-lanza-en-paracaidas-en-sus-vacaciones/?c1"
-        },
-        {
-          "checked": "2026-11-22",
-          "published": "2023-04-07",
-          "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
-          "url": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1"
         },
         {
           "checked": "2026-11-22",
@@ -4467,7 +4492,7 @@
       "read": 4
     },
     "publisher-archive-misticopark-com": {
-      "indexed": 17,
+      "indexed": 0,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -4565,7 +4590,7 @@
           "url": "https://misticopark.com/tours/birding-guided-tour/"
         }
       ],
-      "read": 17
+      "read": 0
     },
     "publisher-archive-museo-exhibitions": {
       "indexed": 33,
@@ -5922,19 +5947,16 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "¿Por qué sucede la bioluminiscencia?",
           "url": "https://vamosaturistear.com/actividades/por-que-sucede-la-bioluminiscencia/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "¡Bienvenidos a Catarata Uvita!",
           "url": "https://vamosaturistear.com/actividades/bienvenidos-a-catarata-uvita/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Visitá Isla Venado",
           "url": "https://vamosaturistear.com/actividades/visita-isla-venado/"
         },
@@ -6030,6 +6052,12 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "La cueva de Punta Uva",
+          "url": "https://vamosaturistear.com/actividades/la-cueva-de-punta-uva/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Isla Pan de Azúcar: Golfo de Nicoya - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/isla-pan-de-azucar-golfo-de-nicoya/"
         },
@@ -6045,15 +6073,19 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Estos son los parques nacionales que tenés que conocer en Puntarenas",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-puntarenas/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Estos son los parques nacionales que tenés que conocer en Limón",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-limon/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Estos son los parques nacionales que tenés que conocer en Cartago",
+          "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-cartago/"
         },
         {
           "checked": "2026-11-24",
@@ -6087,6 +6119,18 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Catarata Las Chorreras: Curubandé, Liberia - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/catarata-las-chorreras-curubande-liberia/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Cascadas Pozo Azul: Catarata Nieve y Paz - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/cascadas-pozo-azul-catarata-nieve-y-paz/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Buceo en Isla Santa Catalina: El paraíso submarino de Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/buceo-en-isla-santa-catalina-el-paraiso-submarino-de-guanacaste/"
         },
@@ -6114,6 +6158,12 @@
           "checked": "2026-11-24",
           "title": "7 playas accesibles para que salgás a turistear - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/7-playas-accesibles-para-que-salgas-a-turistear/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "6 playas con pasarelas accesibles - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/6-playas-con-pasarelas-accesibles/"
         },
         {
           "checked": "2026-11-24",
@@ -6377,11 +6427,6 @@
         },
         {
           "checked": "2026-11-23",
-          "title": "La cueva de Punta Uva",
-          "url": "https://vamosaturistear.com/actividades/la-cueva-de-punta-uva/"
-        },
-        {
-          "checked": "2026-11-23",
           "title": "Isla Pájaros: Golfo de Nicoya - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/isla-pajaros-golfo-de-nicoya/"
         },
@@ -6414,11 +6459,6 @@
           "checked": "2026-11-23",
           "title": "Estos son los parques nacionales que tenés que conocer en Guanacaste",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-guanacaste/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Estos son los parques nacionales que tenés que conocer en Cartago",
-          "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-cartago/"
         },
         {
           "checked": "2026-11-23",
@@ -6552,11 +6592,6 @@
         },
         {
           "checked": "2026-11-23",
-          "title": "Catarata Las Chorreras: Curubandé, Liberia - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/catarata-las-chorreras-curubande-liberia/"
-        },
-        {
-          "checked": "2026-11-23",
           "title": "Catarata La Diana: Una joya escondida en Cinchona",
           "url": "https://vamosaturistear.com/actividades/catarata-la-diana-una-joya-escondida-en-cinchona/"
         },
@@ -6569,11 +6604,6 @@
           "checked": "2026-11-23",
           "title": "Catarata Aquiares: un tesoro de Turrialba",
           "url": "https://vamosaturistear.com/actividades/catarata-aquiares-un-tesoro-de-turrialba/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Cascadas Pozo Azul: Catarata Nieve y Paz - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/cascadas-pozo-azul-catarata-nieve-y-paz/"
         },
         {
           "checked": "2026-11-23",
@@ -6714,11 +6744,6 @@
           "checked": "2026-11-21",
           "title": "8 datos curiosos sobre el “Baile de los Diablitos”",
           "url": "https://vamosaturistear.com/actividades/8-datos-curiosos-sobre-el-baile-de-los-diablitos/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "6 playas con pasarelas accesibles - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/6-playas-con-pasarelas-accesibles/"
         },
         {
           "checked": "2026-11-21",
@@ -7515,13 +7540,11 @@
       "pages": [
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Hotel Termales del Bosque Resort & Hot Springs - Hotel Termales del Bosque",
           "url": "https://termalesdelbosquecr.com/index/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Contáctanos - Hotel Termales del Bosque",
           "url": "https://termalesdelbosquecr.com/index/contact-us/"
         }
@@ -8450,12 +8473,17 @@
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Zipline + ATV Shore Excursion from Caldera and Puntarenas",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/zipline-atv-shore-excursion/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Zip Line + Horseback Riding + Natural Pool Combo",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-horseback-riding-natural-pool-combo/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Zip Line + 3 Hour Double Buggy + Waterfalls Combo",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/zip-line-double-3-hrs-buggy-waterfalls-combo/"
         },
@@ -8506,7 +8534,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Horseback Riding + Chocolate Experience",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-riding-chocolate-experience/"
         },
@@ -8523,6 +8550,17 @@
         {
           "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "Horseback Riding & Chocolate Experience Shore Excursion from Caldera and Puntarenas",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-riding-chocolate-experience-shore-excursion-from-caldera-and-puntarenas/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Horseback + Zipline Shore Excursion from Caldera and Puntarenas",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-zipline-shore-excursion/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Full-day Combo Tour from Fiesta Resort Central Pacific",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/one-day-tour-combo-from-fiesta-resort-central-pacific/"
         },
@@ -8533,7 +8571,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Full-Day Adventure Combo Tour from Manuel Antonio & Quepos",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/one-day-adventure-combo-tour-from-manuel-antonio-quepos/"
         },
@@ -8549,14 +8586,25 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Exclusive Beach Day Tour From San José",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/exclusive-beach-day-tour-from-san-jose/"
         },
         {
           "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Crocodile Safari + ATV Tour Shore Excursion from Caldera and Puntarenas",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/crocodile-safari-atv-tour-shore-excursion-from-caldera-and-puntarenas/"
+        },
+        {
+          "checked": "2026-11-24",
           "title": "Chocolate Experience Tour",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/chocolate-experience/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "ATV Tour & Chocolate Experience Shore Excursion from Caldera and Puntarenas",
+          "url": "https://vistalossuenosadventurepark.com/adventure-tours/atv-tour-chocolate-experience-shore-excursion-from-caldera-and-puntarenas/"
         },
         {
           "checked": "2026-11-24",
@@ -8599,7 +8647,7 @@
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/2-hour-atv-adventure-chocolate-experience/"
         }
       ],
-      "read": 30
+      "read": 35
     },
     "zancudo-pavones-tours-kayak": {
       "indexed": 2,
@@ -8627,6 +8675,48 @@
   "dayUtc": "2026-11-24",
   "history": true,
   "nativeCandidates": [
+    {
+      "article": "https://adondeircr.com/limon/harmony-mini-casa-la-forma-mas-unica-y-emocionante-de-hospedarte-en-puerto-viejo/?c1",
+      "checked": "2026-11-24",
+      "platform": "Facebook",
+      "title": "Harmony Mini Casa: ¡La forma más única y emocionante de hospedarte en Puerto Viejo!",
+      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/1175508656468765"
+    },
+    {
+      "article": "https://adondeircr.com/limon/descubre-el-autentico-sabor-caribeno-en-paradise/?c1",
+      "checked": "2026-11-24",
+      "platform": "Instagram",
+      "title": "Descubre el auténtico sabor caribeño en PARADISE",
+      "url": "https://www.instagram.com/p/Cq5_U7dt9Ha/"
+    },
+    {
+      "article": "https://adondeircr.com/puntarenas/descubriendo-la-misteriosa-sirena-de-esterillos-oeste-una-escultura-unica-en-la-costa-del-pacifico-de-costa-rica/?c1",
+      "checked": "2026-11-24",
+      "platform": "Instagram",
+      "title": "Descubriendo la misteriosa sirena de Esterillos Oeste: una escultura única en la costa del Pacífico de Costa Rica.",
+      "url": "https://www.instagram.com/p/CqEwVsNumeB/"
+    },
+    {
+      "article": "https://adondeircr.com/guanacaste/descubre-la-majestuosidad-de-oro-pendola-una-de-las-cataratas-mas-hermosas-de-guanacaste/?c1",
+      "checked": "2026-11-24",
+      "platform": "Instagram",
+      "title": "Descubre la majestuosidad de Oro Péndola: una de las cataratas más hermosas de Guanacaste",
+      "url": "https://www.instagram.com/p/Cqanly1OKEi/"
+    },
+    {
+      "article": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1",
+      "checked": "2026-11-24",
+      "platform": "Instagram",
+      "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
+      "url": "https://www.instagram.com/p/CqoMIbtptOp/"
+    },
+    {
+      "article": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1",
+      "checked": "2026-11-24",
+      "platform": "Instagram",
+      "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
+      "url": "https://www.instagram.com/p/CqqnUe6uD8u/"
+    },
     {
       "article": "https://adondeircr.com/heredia/santo-pecado/?c1",
       "checked": "2026-11-23",
@@ -8857,20 +8947,6 @@
       "platform": "Instagram",
       "title": "Descubre con Flytrip a Bocas del Toro, un paraíso natural con proyección internacional",
       "url": "https://www.instagram.com/p/CpaKGIzv8Km/"
-    },
-    {
-      "article": "https://adondeircr.com/puntarenas/descubriendo-la-misteriosa-sirena-de-esterillos-oeste-una-escultura-unica-en-la-costa-del-pacifico-de-costa-rica/?c1",
-      "checked": "2026-11-23",
-      "platform": "Instagram",
-      "title": "Descubriendo la misteriosa sirena de Esterillos Oeste: una escultura única en la costa del Pacífico de Costa Rica.",
-      "url": "https://www.instagram.com/p/CqEwVsNumeB/"
-    },
-    {
-      "article": "https://adondeircr.com/guanacaste/descubre-la-majestuosidad-de-oro-pendola-una-de-las-cataratas-mas-hermosas-de-guanacaste/?c1",
-      "checked": "2026-11-23",
-      "platform": "Instagram",
-      "title": "Descubre la majestuosidad de Oro Péndola: una de las cataratas más hermosas de Guanacaste",
-      "url": "https://www.instagram.com/p/Cqanly1OKEi/"
     },
     {
       "article": "https://www.thegildediguana.com/mountain/",
@@ -9195,13 +9271,6 @@
       "url": "https://www.facebook.com/ADondeIrCostaRica/posts/pfbid02mSW8myZfuwxNHNY8Hi4av6Bt9Ln7HDUkeLU1QfJ4dJbxVkkXuz2PszWmMSDkzAgFl"
     },
     {
-      "article": "https://adondeircr.com/limon/harmony-mini-casa-la-forma-mas-unica-y-emocionante-de-hospedarte-en-puerto-viejo/?c1",
-      "checked": "2026-11-22",
-      "platform": "Facebook",
-      "title": "Harmony Mini Casa: ¡La forma más única y emocionante de hospedarte en Puerto Viejo!",
-      "url": "https://www.facebook.com/ADondeIrCostaRica/videos/1175508656468765"
-    },
-    {
       "article": "https://adondeircr.com/puntarenas/el-sonesta-jaco-resort-and-beach-club-una-promesa-interrumpida-que-dejo-interrogantes/?c1",
       "checked": "2026-11-22",
       "platform": "Facebook",
@@ -9242,27 +9311,6 @@
       "platform": "Facebook",
       "title": "Undersea Hunter Sept 11-21, 2026 | Cocos Island Trip Report | Sea Hunter",
       "url": "https://www.facebook.com/reel/1848633063160984"
-    },
-    {
-      "article": "https://adondeircr.com/limon/descubre-el-autentico-sabor-caribeno-en-paradise/?c1",
-      "checked": "2026-11-22",
-      "platform": "Instagram",
-      "title": "Descubre el auténtico sabor caribeño en PARADISE",
-      "url": "https://www.instagram.com/p/Cq5_U7dt9Ha/"
-    },
-    {
-      "article": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1",
-      "checked": "2026-11-22",
-      "platform": "Instagram",
-      "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
-      "url": "https://www.instagram.com/p/CqoMIbtptOp/"
-    },
-    {
-      "article": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1",
-      "checked": "2026-11-22",
-      "platform": "Instagram",
-      "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
-      "url": "https://www.instagram.com/p/CqqnUe6uD8u/"
     },
     {
       "article": "https://adondeircr.com/puntarenas/sin-miedo-a-nada-periodista-deportiva-gabriela-jimenez-se-lanza-en-paracaidas-en-sus-vacaciones/?c1",
@@ -9307,8 +9355,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 22,
-  "pagesRead": 22,
-  "pagesReadToDate": 1415,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45323502361"
+  "pagesChecked": 20,
+  "pagesRead": 20,
+  "pagesReadToDate": 1425,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45413680112"
 }
