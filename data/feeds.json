@@ -2958,5 +2958,35 @@
       "/tour-item/"
     ],
     "review": "carrillotours-costa-rica-activities"
+  },
+  {
+    "name": "Lomas del Volcán · лесная тропа Los Congos",
+    "url": "https://www.lomasdelvolcan.com/es/congos.html",
+    "paths": [
+      "/es/congos.html"
+    ],
+    "review": "nov24-los-congos-owner",
+    "language": "es",
+    "focus": "Частная тропа у Ареналя, время прогулки и условия посещения."
+  },
+  {
+    "name": "Travesías Naturales · надувной каяк на Пехибайе",
+    "url": "https://www.travesiasnaturales.com/tour-de-kayak/",
+    "paths": [
+      "/tour-de-kayak/"
+    ],
+    "review": "nov24-travesias-inflatable-kayak",
+    "language": "es",
+    "focus": "Местный оператор по надувным каякам, инструктаж, трансфер и связь."
+  },
+  {
+    "name": "Pacuare Outdoor Center · карта участков Пакуаре",
+    "url": "https://pacuareoutdoorcenter.com/2025/02/04/the-different-sections-of-the-pacuare-river/",
+    "paths": [
+      "/2025/02/04/the-different-sections-of-the-pacuare-river/"
+    ],
+    "review": "nov24-poc-pacuare-sections",
+    "language": "en",
+    "focus": "Карта участков Пакуаре, входы, выходы и отличия верхних рек от нижней части."
   }
 ]

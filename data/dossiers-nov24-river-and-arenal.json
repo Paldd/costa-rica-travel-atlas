@@ -1,0 +1,402 @@
+{
+  "rio-gato-la-marta-packraft-54": {
+    "stops": [
+      {
+        "point": "la-marta-entry",
+        "role": "Заказник · приёмная",
+        "note": "Запросите разрешённое место посадки у охраны. Это вход на территорию, откуда начинается наземный подход.",
+        "activity": "packraft"
+      },
+      {
+        "point": "pejibaye-gato-river-junction",
+        "role": "Впадение Río Gato в Pejibaye",
+        "note": "Ниже слияния ещё около 400 м до выхода по полевому описанию.",
+        "activity": "river"
+      },
+      {
+        "point": "pejibaye-cobble-takeout-area",
+        "role": "Район обычного выхода на Пехибайе",
+        "note": "Подтвердите доступ берега, парковку и путь до машины.",
+        "activity": "packraft"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Refugio La Marta",
+        "source": "lamarta-trails",
+        "note": "Уточните допуск к берегу Río Gato, где хранить машину и снаряжение и нужна ли запись в кемпинг.",
+        "phone": "+506 8743 9822",
+        "url": "https://wa.me/50687439822"
+      },
+      {
+        "name": "Pacuare Outdoor Center",
+        "source": "poc-contact",
+        "note": "Местный оператор принимает запросы на технические выезды. Подтвердите с проводником участок, воду, трансфер и объём аренды.",
+        "phone": "+506 8922 4570",
+        "email": "info@pacuareoutdoorcenter.com",
+        "url": "https://wa.me/50689224570"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Река и окно по воде",
+        "text": "Автор прошёл 5,4 км от Ла-Марты и описывает длинный технический участок с короткими паузами. Каменные пороги и прижимы требуют опыта, а подъём воды бывает быстрым.",
+        "sources": [
+          "nov24-gorafting-gato",
+          "lamarta"
+        ]
+      },
+      {
+        "title": "Ночёвка и снаряжение",
+        "text": "В заказнике есть оборудованный кемпинг. Запросите правила входа к берегу и порядок ночёвки. Пакрафт, весло, жилет для бурной воды, шлем, обувь с зацепом, аптечка, бросательный конец и сухой мешок. План эвакуации и связь при отсутствии сигнала согласуйте с группой.",
+        "sources": [
+          "la-marta-official-covered-camping",
+          "nov24-gorafting-gato"
+        ]
+      }
+    ],
+    "galleries": [
+      "la-marta-vamos-weekend-field-visit"
+    ],
+    "nearby": [
+      "la-marta",
+      "pejibaye-school-own-packraft",
+      "rio-del-valle-camp"
+    ],
+    "photos": [
+      "rio-gato-la-marta-commons"
+    ],
+    "track": "nov24-gorafting-gato",
+    "accessNotice": {
+      "title": "Посадку согласуйте с заказником",
+      "text": "Точка приёмной отмечает вход в Ла-Марту. Береговой подход и день доступа к Рио-Гато подтвердите у охраны отдельно от кемпинга.",
+      "sources": [
+        "nov24-gorafting-gato",
+        "lamarta"
+      ]
+    }
+  },
+  "rio-atirro-quijote-packraft": {
+    "stops": [
+      {
+        "point": "quijote-lookout-camping",
+        "role": "Район верхнего подхода · Quijote",
+        "note": "Опубликованная точка финки. Описанная береговая тропа отходит от дороги перед хозяйством. Согласуйте точный вход заранее.",
+        "activity": "packraft"
+      },
+      {
+        "point": "nov24-atirro-ruta225-bridge",
+        "role": "Мост Ruta 225 · ориентир финиша",
+        "note": "Отметка на дороге. В полевом отчёте группа вышла через соседнее частное владение. Разрешение и выход на дорогу подтвердите заранее.",
+        "activity": "river"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Quijote Experiencia Rural",
+        "source": "quijote-camping-cr",
+        "url": "https://camping.cr/listing/quijote-experiencia-rural/",
+        "note": "Уточните дорогу к финке и условия ночёвки. Получите отдельное согласие владельцев обоих береговых участков для сплава.",
+        "phone": "+506 8421 4403"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Небольшая река с серьёзными порогами",
+        "text": "Быстрое начало со ступенями и каменными щелями. В отчёте были обносы. Уровень у моста следует оценить с местным проводником, условия зависят от дождей.",
+        "sources": [
+          "nov24-gorafting-atirro",
+          "nov24-atirro-mopt-roads"
+        ]
+      },
+      {
+        "title": "Два разрешения и наземный запасной план",
+        "text": "Отдельно спросите про вход, разрешённую парковку и частный выход. Если доступа или подходящей воды нет, у финки можно согласовать сухопутный отдых. Пакрафт, весло, жилет для бурной воды, шлем, обувь с зацепом, аптечка, бросательный конец и сухой мешок. План эвакуации и связь при отсутствии сигнала согласуйте с группой.",
+        "sources": [
+          "nov24-gorafting-atirro",
+          "quijote-camping-cr"
+        ]
+      }
+    ],
+    "galleries": [
+      "quijote-camping-guide"
+    ],
+    "nearby": [
+      "atirro-quijote-camp",
+      "la-suiza-atirro-pejibaye-pedelec-16",
+      "pejibaye-school-own-packraft"
+    ],
+    "track": "nov24-gorafting-atirro",
+    "accessNotice": {
+      "title": "Береговой выход требует разрешения",
+      "text": "Речной отчёт описывает выход через частный участок у Ruta 225. До выезда согласуйте доступ с собственником и проверьте место встречи машины.",
+      "sources": [
+        "nov24-gorafting-atirro",
+        "nov24-atirro-mopt-roads"
+      ]
+    }
+  },
+  "pacuare-upper-upper-packraft-103": {
+    "stops": [
+      {
+        "point": "nov24-upper-pacuare-putin",
+        "role": "Посадка · точка POC",
+        "note": "Попросите водителя подтвердить дорогу, разрешение на подъезд и фактическое место сбора.",
+        "activity": "packraft"
+      },
+      {
+        "point": "nov24-upper-pacuare-por-donde",
+        "role": "Порог Por Donde Me Voy",
+        "note": "Полевые путеводители описывают порог IV класса. Разведку и возможность обноса определяют по воде.",
+        "activity": "river"
+      },
+      {
+        "point": "nov24-upper-pacuare-early-exit",
+        "role": "Ранний выход по карте оператора",
+        "note": "Группа заранее выбирает этот или конечный выход и организует встречу с водителем.",
+        "activity": "packraft"
+      },
+      {
+        "point": "nov24-upper-pacuare-full-exit",
+        "role": "Конечный выход · стык с Upper Pacuare",
+        "note": "Отдельный более сложный участок Upper Pacuare начинается здесь. Окончание своего сплава и место встречи подтвердите заранее.",
+        "activity": "kayak"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Pacuare Outdoor Center",
+        "source": "poc-contact",
+        "note": "Местный оператор принимает запросы на технические выезды. Подтвердите с проводником участок, воду, трансфер и объём аренды.",
+        "phone": "+506 8922 4570",
+        "email": "info@pacuareoutdoorcenter.com",
+        "url": "https://wa.me/50689224570"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Стандартный участок и вода",
+        "text": "На карте POC длина 10,3 км. Речные ориентиры полезны для подготовки заброски. Пороги меняются после паводков, а рабочее окно и поздний выход выбирают с проводником.",
+        "sources": [
+          "nov24-poc-pacuare-sections",
+          "nov24-gorafting-upper-upper"
+        ]
+      },
+      {
+        "title": "Как организовать выезд",
+        "text": "Согласуйте тип лодки и водителя до выезда в долину. На некоторых подходах уместна машина с высоким клиренсом. Пакрафт, весло, жилет для бурной воды, шлем, обувь с зацепом, аптечка, бросательный конец и сухой мешок. План эвакуации и связь при отсутствии сигнала согласуйте с группой.",
+        "sources": [
+          "poc-upper-pacuare-local",
+          "poc-contact"
+        ]
+      }
+    ],
+    "galleries": [
+      "nov24-poc-upper-pacuare-gallery"
+    ],
+    "nearby": [
+      "pacuare-own-craft",
+      "pacuare-weekend",
+      "turrialba-packraft-3",
+      "turrialba-pacuare-packraft-5"
+    ],
+    "track": "nov24-poc-pacuare-sections"
+  },
+  "pejibaye-travesias-inflatable-kayak": {
+    "stops": [
+      {
+        "point": "pejibaye-school-river-sector",
+        "role": "Район школьного спуска",
+        "note": "Один из известных местных входов. Сбор и посадку именно вашей группы задаёт оператор.",
+        "activity": "kayak"
+      },
+      {
+        "point": "pejibaye-footbridge-river-marker",
+        "role": "Пешеходный мост · ориентир Camino",
+        "note": "В районе моста El Camino проходит рядом с Пехибайе, опубликован вариант совместить сплав с тропой.",
+        "activity": "river"
+      },
+      {
+        "point": "pejibaye-cobble-takeout-area",
+        "role": "Обычный район выхода",
+        "note": "Подтвердите место выхода и обратный трансфер у своего гида.",
+        "activity": "kayak"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Travesías Naturales",
+        "source": "nov24-travesias-inflatable-kayak",
+        "note": "Программа, возраст, экипировка и место посадки. На странице есть форма записи и WhatsApp.",
+        "whatsapp": "https://wa.me/50660957130"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит в пять часов",
+        "text": "Оператор включает трансфер, питание, инструктаж и сопровождение. В карточке указаны географические ориентиры Пехибайе. Порядок остановок согласуйте с экипажем.",
+        "sources": [
+          "nov24-travesias-inflatable-kayak",
+          "pejibaye-gorafting-school-map"
+        ]
+      },
+      {
+        "title": "Совместить с El Camino",
+        "text": "Путеводитель связывает сплав с этапом у Finca CoVaCam и Río del Valle. Запланируйте запас на мокрую одежду, дорогу до ночёвки и перенос при высокой воде.",
+        "sources": [
+          "pejibaye-pack-story",
+          "nov24-travesias-inflatable-kayak"
+        ]
+      }
+    ],
+    "galleries": [
+      "pejibaye-pack-story"
+    ],
+    "nearby": [
+      "pejibaye-pack",
+      "pejibaye-school-own-packraft",
+      "rio-del-valle-camp",
+      "la-roca-pejibaye"
+    ],
+    "videos": [
+      "nov24-pejibaye-clip-camino"
+    ]
+  },
+  "arenal-lomas-los-congos-walk": {
+    "stops": [
+      {
+        "point": "nov24-lomas-reception",
+        "role": "Гостиница · уточнить допуск и старт",
+        "note": "Подойдите на стойку за схемой и условиями допуска на лесную тропу.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Hotel Lomas del Volcán",
+        "source": "nov24-lomas-location",
+        "note": "Спросите, можно ли пройти без проживания, и попросите схему закрытых после дождя участков.",
+        "phone": "+506 2479 9000",
+        "whatsapp": "https://wa.me/50684159000"
+      }
+    ],
+    "sections": [
+      {
+        "title": "У подножия Ареналя",
+        "text": "Частная тропа 1,5 км. На объекте указывают 60–90 минут с остановками. Можно наблюдать птиц и лесных животных, особенно при спокойной утренней прогулке.",
+        "sources": [
+          "nov24-los-congos-owner",
+          "nov24-lomas-family-directory"
+        ]
+      },
+      {
+        "title": "Условия для семей",
+        "text": "Согласуйте подходящую обувь, время начала и условия для гостей. В ноябрьской публикации хозяева описывают влажные дорожки и густую растительность.",
+        "sources": [
+          "nov24-los-congos-owner",
+          "fb-nov24-lomas-del-volcan"
+        ]
+      }
+    ],
+    "galleries": [
+      "nov24-lomas-family-directory",
+      "nov24-los-congos-owner"
+    ],
+    "nearby": [
+      "tabacon"
+    ],
+    "videos": [
+      "nov24-lomas-visitor-film"
+    ]
+  },
+  "turrialba-pacuare-packraft-5": {
+    "stops": [
+      {
+        "point": "sitio-de-mata-anchor",
+        "role": "День 1 · район базы в долине",
+        "note": "Выберите ночлег и обсудите условия сухого хранения лодок.",
+        "activity": "river"
+      },
+      {
+        "point": "pejibaye-school-river-sector",
+        "role": "День 2 · район Пехибайе",
+        "note": "Участок настраивают по уровню участников и воды.",
+        "activity": "packraft"
+      },
+      {
+        "point": "nov24-upper-pacuare-putin",
+        "role": "День 3 · Upper Upper Pacuare",
+        "note": "Речной старт по карте POC. Выход и транспорт согласуйте утром.",
+        "activity": "packraft"
+      },
+      {
+        "point": "pacuare-san-martin-river-sector",
+        "role": "День 4 · район Нижнего Пакуаре",
+        "note": "Стандартная география начала, конкретная точка посадки зависит от программы.",
+        "activity": "river"
+      },
+      {
+        "point": "rios-lodge-pacuare",
+        "role": "День 4 · ориентир ночёвки у реки",
+        "note": "Попросите подтвердить остановку лоджа и приём группы со своей экипировкой.",
+        "activity": "packraft"
+      },
+      {
+        "point": "pacuare-siquirres-takeout-sector",
+        "role": "День 5 · выход у Сикирреса",
+        "note": "Место встречи с водителем выберите вместе с экипажем.",
+        "activity": "river"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Pacuare Outdoor Center",
+        "source": "poc-contact",
+        "note": "Местный оператор принимает запросы на технические выезды. Подтвердите с проводником участок, воду, трансфер и объём аренды.",
+        "phone": "+506 8922 4570",
+        "email": "info@pacuareoutdoorcenter.com",
+        "url": "https://wa.me/50689224570"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Логистика пяти дней",
+        "text": "План собран по участкам из полевого маршрута. Заезд в долину даёт время собрать лодки и проверить воду. Для Верхнего Верхнего нужен отдельный водитель. На Нижнем подтверждайте береговой доступ для своей лодки.",
+        "sources": [
+          "packraft-turrialba-report",
+          "nov24-poc-pacuare-sections",
+          "pacuare-whitewater"
+        ]
+      },
+      {
+        "title": "Сон и резерв",
+        "text": "На первой части можно ночевать в палатке в долине. Для ночи у Нижнего Пакуаре запросите лодж и размещение экипировки. При неподходящей воде запланируйте лесной выход в Ла-Марту. Пакрафт, весло, жилет для бурной воды, шлем, обувь с зацепом, аптечка, бросательный конец и сухой мешок. План эвакуации и связь при отсутствии сигнала согласуйте с группой.",
+        "sources": [
+          "packraft-turrialba-report",
+          "la-marta-official-covered-camping",
+          "rioslodge-map"
+        ]
+      }
+    ],
+    "galleries": [
+      "nov24-poc-upper-pacuare-gallery",
+      "pejibaye-pack-story"
+    ],
+    "nearby": [
+      "pacuare-upper-upper-packraft-103",
+      "pacuare-weekend",
+      "turrialba-packraft-3",
+      "la-marta"
+    ],
+    "videos": [
+      "nov24-pejibaye-clip-camino",
+      "film-poc-dos-montanas-2024"
+    ]
+  }
+}

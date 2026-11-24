@@ -50,10 +50,17 @@ class CaptionWidget(HTMLParser):
             if href and tag == "a":
                 href = urljoin("https://www.facebook.com/", href) if self.platform == "Facebook" else href
                 link = urlsplit(href)
-                if self.platform == "Facebook" and attrs.get("title") and link.hostname == "www.facebook.com":
-                    page = re.fullmatch(r"/watch/(\d+)/?", link.path)
+                if (self.platform == "Facebook" and not caption and not self.owner
+                        and attrs.get("title") and link.hostname == "www.facebook.com"):
+                    page = re.fullmatch(r"/watch/([A-Za-z0-9_.-]+)/?", link.path)
                     if page:
-                        self.owner = "https://www.facebook.com/profile.php?id=" + page[1]
+                        name = page[1]
+                        profile = "profile.php?id=" + name if name.isdigit() else name
+                        self.owner = "https://www.facebook.com/" + profile
+                    elif ("ref=embed_video" in link.query.split("&")
+                          and re.fullmatch(r"/[A-Za-z0-9_.-]+/?", link.path)):
+                        self.owner = href
+                    if self.owner:
                         self.author = [attrs["title"]]
                 self.links.append(href)
                 if caption_author:
@@ -115,9 +122,9 @@ class CaptionWidget(HTMLParser):
 def candidates(extra_urls):
     review = json.loads((DATA / "publisher-review-coverage.json").read_text(encoding="utf-8"))
     values = [
+        *((None, value) for value in extra_urls),
         *((item["platform"], item["url"]) for item in review.get("nativeCandidates", [])),
         *((None, item["url"]) for item in read_sources()),
-        *((None, value) for value in extra_urls),
     ]
     result = {}
     for platform, url in values:

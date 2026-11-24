@@ -290,3 +290,9 @@ python3 scripts/review_social_posts.py \
 python3 scripts/read_native_embeds.py --limit 60 --out .cache/native-embeds.json
 python3 scripts/review_social_posts.py --embeds .cache/native-embeds.json --out .cache/native-analysis.json
 ```
+
+## Повторный гостевой просмотр 24 ноября 2026 года
+
+В Chromium повторно проверены 45 страниц Facebook и два профиля Instagram без прямых оригиналов. Для 17 страниц Facebook найдены адреса публикаций, прочитаны подписи и подтверждена связь автора со страницей. В плеере имена страниц открываются по ссылкам с числовым идентификатором или псевдонимом. Идентичность сопоставлена с рейтингом. В реестре теперь 76 оригиналов от 72 страниц Facebook. По 28 страницам Facebook продолжается поиск прямых оригиналов. [Реестр оригиналов](../data/public-posts.tsv) · [Журнал гостевого просмотра](../data/profile-browser-checks.tsv)
+
+При наличии точного адреса `--url` помещает его в начало очереди виджетов. Сырой ответ хранится в локальном кэше. Найденные ссылки ведут к отдельным публикациям. Для карты Upper Upper Pacuare, каяков Travesías Naturales и лесной тропы Los Congos добавлены страницы владельцев для регулярного обхода. [Подключённые источники](../data/feeds.json)

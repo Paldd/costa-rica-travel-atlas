@@ -9933,5 +9933,115 @@
         ]
       }
     ]
+  },
+  {
+    "id": "turrialba-pacuare-packraft-5",
+    "kind": "trip",
+    "region": "central",
+    "regions": [
+      "caribbean"
+    ],
+    "title": "Пять дней с пакрафтом · Пехибайе и два участка Пакуаре",
+    "native": "Turrialba, Pejibaye, Upper Upper Pacuare, Lower Pacuare · 5 días",
+    "level": "expedition",
+    "days": 5,
+    "activities": [
+      "packraft",
+      "kayak",
+      "river",
+      "forest",
+      "multi"
+    ],
+    "audience": [
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge",
+      "tent"
+    ],
+    "sources": [
+      "packraft-turrialba-report",
+      "poc-rent",
+      "poc-contact",
+      "nov24-poc-pacuare-sections",
+      "pacuare-whitewater",
+      "rioslodge-map"
+    ],
+    "summary": "Маршрут для опытной команды. После подготовки в долине четыре водных дня с ночёвкой у Нижнего Пакуаре и выходом в Сикирресе.",
+    "plan": "Один день на сбор, затем Пехибайе, Upper Upper Pacuare и два этапа Нижнего Пакуаре. Договоритесь с местным речным гидом и водителем до выезда.",
+    "conditions": "Сверяйте уровень каждое утро и держите запасное занятие на суше. Палатка возможна в долине на оснащённой площадке, ночёвку у реки подтверждает лодж.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Сан-Хосе → база в долине",
+        "note": "Доезжайте до Sitio de Mata или Пехибайе. Просушите экипировку и договоритесь о машине на два разных речных участка.",
+        "stops": [
+          "rio-del-valle-camp"
+        ],
+        "sources": [
+          "packraft-turrialba-report",
+          "poc-rent"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Пехибайе для проверки уровня",
+        "note": "Выберите подходящий вход на реку с гидом. Проверьте управление лодкой и работу команды до более сложной воды.",
+        "stops": [
+          "pejibaye-pack",
+          "pejibaye-travesias-inflatable-kayak",
+          "la-roca-pejibaye"
+        ],
+        "sources": [
+          "poc-pejibaye-local",
+          "pejibaye-pack-story"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Upper Upper Pacuare",
+        "note": "Выезд с местным водителем. Заранее выберите ранний или конечный выход, с поправкой на уровень воды и опыт участников.",
+        "stops": [
+          "pacuare-upper-upper-packraft-103"
+        ],
+        "sources": [
+          "nov24-poc-pacuare-sections",
+          "poc-upper-pacuare-local"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Нижний Пакуаре и ночёвка у реки",
+        "note": "Первый отрезок Нижнего Пакуаре до лоджа выбирайте вместе с командой на месте. Для своей лодки отдельно подтверждаются береговой доступ и ночёвка.",
+        "stops": [
+          "pacuare-own-craft",
+          "rios-lodge-own-kayak"
+        ],
+        "sources": [
+          "pacuare-whitewater",
+          "rioslodge-map"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Выход в Сикирресе и возвращение",
+        "note": "Дальнейший выход к Ruta 32 зависит от воды. Заранее закажите встречу с машиной и выделите время на дорогу до Сан-Хосе.",
+        "stops": [
+          "pacuare-own-craft"
+        ],
+        "sources": [
+          "packraft-turrialba-report",
+          "pacuare-whitewater"
+        ]
+      }
+    ]
   }
 ]
