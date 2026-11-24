@@ -2216,5 +2216,23 @@
     "original": "https://commons.wikimedia.org/wiki/File:Corozalito,_Provincia_de_Guanacaste,_Costa_Rica_-_panoramio_(1).jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "point": "nov24-islita-airfield-pbp"
+  },
+  "parismina-village-worldwide": {
+    "file": "parismina-world-wide-gifts.jpg",
+    "alt": "Улица карибского посёлка Барра-де-Парисмина с пальмами и местной содой",
+    "caption": "Барра-де-Парисмина · поселение на берегу реки, фотография 2012 года",
+    "author": "World Wide Gifts",
+    "license": "CC BY-SA 2.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Costa_Rica_-_Caribbean_Sea_-_Parismina_(Eco-Tourism).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  "parismina-astop-tinss": {
+    "file": "parismina-astop-building-tinss.jpg",
+    "alt": "Деревянное здание ассоциации ASTOP в Барра-де-Парисмина",
+    "caption": "Офис ASTOP · архивная фотография 2013 года",
+    "author": "Tinss",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:ASTOP_headquarters.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 }

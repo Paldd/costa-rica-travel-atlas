@@ -1865,6 +1865,10 @@
       {
         "profile": "Surf Simply",
         "url": "https://www.facebook.com/reel/2950016272020247"
+      },
+      {
+        "profile": "Vamos a Turistear",
+        "url": "https://www.facebook.com/reel/2535053957017153"
       }
     ],
     "cerro-pelado": [
@@ -2225,6 +2229,10 @@
       {
         "profile": "Special Places of Costa Rica",
         "url": "https://www.facebook.com/reel/1090260793609574/"
+      },
+      {
+        "profile": "Descubre Costa Rica",
+        "url": "https://www.facebook.com/reel/2499003493934497"
       }
     ],
     "manzanillo-almonds-forest-stay": [
@@ -2255,6 +2263,36 @@
       {
         "profile": "Vista Los Sueños Adventure Park",
         "url": "https://www.facebook.com/reel/998450626600479"
+      }
+    ],
+    "irazu-craters": [
+      {
+        "profile": "Visit Costa Rica",
+        "url": "https://www.facebook.com/reel/1620542419536494"
+      }
+    ],
+    "pacuare-day": [
+      {
+        "profile": "Vamos a Turistear",
+        "url": "https://www.facebook.com/reel/1624890328730147"
+      }
+    ],
+    "guayabo-archaeology-walk": [
+      {
+        "profile": "Vamos a Turistear",
+        "url": "https://www.facebook.com/reel/2054502848592305"
+      }
+    ],
+    "potrero-padi-open-water-3": [
+      {
+        "profile": "Descubre Costa Rica",
+        "url": "https://www.facebook.com/reel/1017021021479607"
+      }
+    ],
+    "palo-verde-cerro-alto": [
+      {
+        "profile": "Ticos A Pata",
+        "url": "https://www.facebook.com/reel/1352990230203903"
       }
     ]
   }

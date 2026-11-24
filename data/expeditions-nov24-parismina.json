@@ -1,0 +1,487 @@
+[
+  {
+    "id": "parismina-green-gold-coast-2",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Парисмина и Оро-Верде · два дня по берегу и каналам",
+    "native": "Caño Blanco · Barra de Parismina · Green Gold Ecolodge · Goshen",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "boat",
+      "hiking",
+      "beach",
+      "forest",
+      "wildlife",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "public",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "camino-stage-1a",
+      "camino-maram-gpx-library",
+      "parismina-astop-village",
+      "parismina-ict-miniguide",
+      "parismina-green-gold-map",
+      "parismina-nano-field-video"
+    ],
+    "summary": "Местная лодка, прогулка по карибскому берегу и ночёвка в небольшом лодже у Оро-Верде.",
+    "plan": "Сначала закажите лодку и ночлег у Джейсона. На второй день можно выйти к Госену по воде или вернуться тем же способом в Caño Blanco, если там оставлена машина.",
+    "conditions": "Пешая часть у Mar a Mar около 5,5 км, с береговым ответвлением. Путь к лоджу и причалу сверяйте у хозяина. Устья и каналы пересекают на лодке.",
+    "distance": 5.5,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Два причала, посёлок и Оро-Верде",
+        "note": "На лодке из Caño Blanco до Muelle Boca Parismina. Купите воду и перекус в посёлке. Пройдите согласованный с хозяином береговой участок до ночёвки.",
+        "stops": [
+          "cano-blanco-parismina-water-taxi",
+          "el-camino-etapa-1a"
+        ],
+        "sources": [
+          "camino-stage-1a",
+          "parismina-astop-village"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Каналы до Госена или возврат к автомобилю",
+        "note": "Утром сядьте на согласованную лодку. Для поездки в одну сторону организуйте встречу в Goshen. Для поездки на собственной машине подберите обратную лодку в Caño Blanco.",
+        "stops": [
+          "cano-blanco-parismina-water-taxi",
+          "el-camino-etapa-1b"
+        ],
+        "sources": [
+          "camino-stage-1a",
+          "parismina-esmeralda-arrival"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "parismina-astop-community-5",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Барра-Парисмина · пять дней с волонтёрами ASTOP",
+    "native": "ASTOP · turtle monitoring · homestay · Barra de Parismina",
+    "level": "moderate",
+    "days": 5,
+    "activities": [
+      "hiking",
+      "wildlife",
+      "beach",
+      "boat",
+      "history",
+      "multi"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "parismina-astop-home",
+      "parismina-astop-five-days",
+      "parismina-astop-contact",
+      "parismina-astop-village",
+      "camino-stage-1a",
+      "parismina-nano-field-video"
+    ],
+    "summary": "Пятидневный формат участия в мониторинге карибских черепах с ночёвкой у семьи из посёлка.",
+    "plan": "Согласуйте даты, смены, размещение и лодку с ASTOP. Карточка показывает пример распределения пяти дней. Точные задания и время назначает ассоциация.",
+    "conditions": "Ночные патрули могут длиться около четырёх часов. Узнайте заранее ограничения для группы, требования к свету и условия на берегу. Наблюдения зависят от сезона.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Переправа, знакомство и семейный дом",
+        "note": "Прибудьте по воде. Встретьтесь с координатором, заселитесь и узнайте время инструктажа. Возвращение и питание согласуйте на весь период.",
+        "stops": [
+          "cano-blanco-parismina-water-taxi"
+        ],
+        "sources": [
+          "parismina-astop-contact",
+          "parismina-astop-five-days"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Инструктаж, посёлок и первая смена",
+        "note": "Оставьте дневное время на отдых и разговор с командой. На берег отправляйтесь на назначенную смену вместе с исследовательским ассистентом.",
+        "stops": [],
+        "sources": [
+          "parismina-astop-home",
+          "parismina-astop-five-days"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Задания команды",
+        "note": "По назначению команды присоединитесь к мониторингу, учебному визиту в инкубатор или работе с местным проектом.",
+        "stops": [],
+        "sources": [
+          "parismina-astop-home",
+          "parismina-astop-five-days"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Вторая половина программы",
+        "note": "Оставьте время на восстановление после ночной работы. По согласованию можно принять участие в общественном проекте или повторной смене.",
+        "stops": [],
+        "sources": [
+          "parismina-astop-home",
+          "parismina-astop-village"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Утро у хозяев и обратная лодка",
+        "note": "Заранее назначьте время выхода из посёлка. Сверьте лодку с наземной пересадкой, оставив запас до следующего транспорта.",
+        "stops": [
+          "cano-blanco-parismina-water-taxi"
+        ],
+        "sources": [
+          "parismina-astop-contact",
+          "camino-stage-1a"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madre-dios-lirio-kayak-2",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Мадре-де-Дьос · 2 дня на лодке и каяке у Lirio",
+    "native": "Lirio Lodge · Laguna Madre de Dios · Escapada",
+    "level": "easy",
+    "days": 2,
+    "activities": [
+      "boat",
+      "kayak",
+      "wildlife",
+      "hiking",
+      "river",
+      "forest",
+      "relax",
+      "multi"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "parismina-lirio-package-2",
+      "parismina-lirio-transport",
+      "parismina-lirio-owner",
+      "parismina-lirio-packages",
+      "pacuare-lirio-map-node",
+      "camino-stage-1a"
+    ],
+    "summary": "Одна ночь и одна экскурсия пешком в лагуне на юге системы каналов Тортугеро. Включены лодочный тур и каяки лоджа.",
+    "plan": "Автомобиль остаётся на частной парковке Muelle Goshen. Бунгало и питание включены по программе. Узнайте, какой размер жилетов есть в день визита и можно ли взять ребёнка в двухместный каяк.",
+    "conditions": "Наземный трансфер оплачивается отдельно по запросу. Во время грозы, течения или ограничений хозяева выбирают доступные участки. Материалы оператора указывают каяки лоджа.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Goshen, лодка и прогулка с проводником",
+        "note": "Прибудьте на Muelle Goshen к 10:10 для отправления в 10:30. Лодка идёт около 20–25 минут. После заселения и обеда проходит прогулка в согласованном секторе.",
+        "stops": [],
+        "sources": [
+          "parismina-lirio-package-2",
+          "parismina-lirio-transport"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Утренний выход по каналам и обратно",
+        "note": "Лодочная экскурсия обычно проходит до выезда. Сверьте время возвращения, завтрак и своё окно для каяка у лоджа заранее.",
+        "stops": [],
+        "sources": [
+          "parismina-lirio-package-2",
+          "parismina-lirio-transport"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "madre-dios-lirio-canals-3",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Мадре-де-Дьос · 3 дня на лодке и каяке у Lirio",
+    "native": "Lirio Lodge · Laguna Madre de Dios · Experiencia Completa",
+    "level": "easy",
+    "days": 3,
+    "activities": [
+      "boat",
+      "kayak",
+      "wildlife",
+      "hiking",
+      "river",
+      "forest",
+      "relax",
+      "multi"
+    ],
+    "audience": [
+      "family-small",
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "boat",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "parismina-lirio-package-3",
+      "parismina-lirio-transport",
+      "parismina-lirio-owner",
+      "parismina-lirio-packages",
+      "pacuare-lirio-map-node",
+      "camino-stage-1a"
+    ],
+    "summary": "Две ночи и две экскурсии пешком в лагуне на юге системы каналов Тортугеро. Включены лодочный тур и каяки лоджа.",
+    "plan": "Автомобиль остаётся на частной парковке Muelle Goshen. Бунгало и питание включены по программе. Узнайте, какой размер жилетов есть в день визита и можно ли взять ребёнка в двухместный каяк.",
+    "conditions": "Наземный трансфер оплачивается отдельно по запросу. Во время грозы, течения или ограничений хозяева выбирают доступные участки. Материалы оператора указывают каяки лоджа.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Goshen, лодка и прогулка с проводником",
+        "note": "Прибудьте на Muelle Goshen к 10:10 для отправления в 10:30. Лодка идёт около 20–25 минут. После заселения и обеда проходит прогулка в согласованном секторе.",
+        "stops": [],
+        "sources": [
+          "parismina-lirio-package-3",
+          "parismina-lirio-transport"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Утро на каналах и вторая тропа",
+        "note": "В программе утренний лодочный выход с натуралистом. Для оставшейся части дня оставьте время на каяк у лоджа и вторую прогулку.",
+        "stops": [],
+        "sources": [
+          "parismina-lirio-package-3",
+          "parismina-lirio-owner"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Утро у лагуны и возвращение в Госен",
+        "note": "После завтрака соберите вещи к лодке. Регулярный выезд от лоджа в 9:45. В Госене заберите машину или встречайтесь с водителем.",
+        "stops": [],
+        "sources": [
+          "parismina-lirio-package-3",
+          "parismina-lirio-transport"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "parismina-angler-long-weekend-4",
+    "kind": "trip",
+    "region": "caribbean",
+    "title": "Парисмина · три рыболовных дня на длинных выходных",
+    "native": "Rio Parismina Lodge · Long Weekend Special · tarpon y róbalo",
+    "level": "moderate",
+    "days": 4,
+    "activities": [
+      "fishing",
+      "boat",
+      "river",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "parismina-fishing-owner-packages",
+      "parismina-fishing-owner-programs",
+      "parismina-fishing-lodge-owner",
+      "parismina-fishing-lodge-map",
+      "parismina-angler-brit-trips",
+      "parismina-angler-wide-open",
+      "incopesca-angling-card",
+      "acto-rio-parismina-corridor"
+    ],
+    "summary": "У оператора это три дня рыбалки с субботы по понедельник и выезд во вторник. Полный календарный диапазон четыре дня.",
+    "plan": "Уточните цену, время чартера и лицензию по выбранному водоёму. В лодже договоритесь, будет ли выход по реке, в прибрежную воду или дальше в море.",
+    "conditions": "Решение о пересечении устья принимает капитан по условиям. Лодж рекомендует по ночи в Сан-Хосе до и после программы. Проверьте ограничение чартера на багаж.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Чартер и первый выход",
+        "note": "Субботний сбор по указаниям оператора. После прилёта получите инструктаж и согласуйте первый речной выход. Держите с собой разрешение, когда этого требует район ловли.",
+        "stops": [],
+        "sources": [
+          "parismina-fishing-lodge-owner",
+          "parismina-fishing-owner-packages"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Выход на тарпона и снука",
+        "note": "В воскресенье капитан выбирает реку или доступные прибрежные воды и сообщает фактический маршрут. У лоджа есть снасти для гостей.",
+        "stops": [],
+        "sources": [
+          "parismina-fishing-owner-programs",
+          "parismina-angler-wide-open"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Третий день рядом с базой или на другой лодке",
+        "note": "В понедельник решите с капитаном, повторить ли речную ловлю или менять тип выхода. По отдельному морскому варианту заранее проверьте доступность, снасти и стоимость.",
+        "stops": [],
+        "sources": [
+          "parismina-fishing-owner-packages",
+          "parismina-fishing-owner-programs"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Выезд во вторник",
+        "note": "Сверьте трансфер, допустимый багаж и время до следующего перелёта. На случай переноса держите запас до международного вылета.",
+        "stops": [],
+        "sources": [
+          "parismina-fishing-owner-packages",
+          "parismina-fishing-lodge-owner"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "potrero-padi-open-water-3",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Потреро · курс дайвинга PADI Open Water за три дня",
+    "native": "Under The Sea Diving · Playa Potrero · PADI Open Water Diver",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "scuba",
+      "boat",
+      "wildlife",
+      "multi"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "potrero-undersea-courses",
+      "potrero-undersea-open-water",
+      "potrero-undersea-contact",
+      "potrero-undersea-padi-directory",
+      "potrero-undersea-map",
+      "fb-potrero-open-water-report",
+      "padi-open-water-enrollment"
+    ],
+    "summary": "Обучение с практикой в бассейне и двумя днями погружений на открытой воде в районе Playa Potrero.",
+    "plan": "Сверьте время теории, требования к здоровью и плаванию, возраст участников и комплектацию снаряжения. Подберите ночёвку в Потреро или в соседнем Фламинго.",
+    "conditions": "Общий минимальный возраст PADI 10 лет. Допуск Junior, глубину, здоровье и интервал перед полётом сверяйте с инструктором. Сертификат выдаётся после выполнения условий курса.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Центр и учебный бассейн",
+        "note": "Приходите к центру у Hemingways. Сверьте теорию, списки снаряжения и медицинские формы. Первый практический день оператор проводит в бассейне.",
+        "stops": [],
+        "sources": [
+          "potrero-undersea-courses",
+          "potrero-undersea-padi-directory"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Первые упражнения на открытой воде",
+        "note": "Место выхода и лодку подтвердит инструктор. Проверьте размер гидрокостюма, время повторного сбора и свои вопросы после первого дня.",
+        "stops": [],
+        "sources": [
+          "potrero-undersea-courses",
+          "potrero-undersea-contact"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Открытая вода и завершение курса",
+        "note": "Продолжите учебные погружения. Уточните, какие упражнения закрыты и когда появится цифровая карточка. У автора местного отчёта есть видео о его собственном прохождении.",
+        "stops": [],
+        "sources": [
+          "potrero-undersea-open-water",
+          "fb-potrero-open-water-report"
+        ]
+      }
+    ]
+  }
+]

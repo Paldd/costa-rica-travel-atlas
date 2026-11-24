@@ -3054,5 +3054,58 @@
     "review": "islita-adventure-air-charters",
     "language": "en",
     "focus": "Пункты вылета, ориентировочное время в полёте, аэропорт PBP и встреча с машиной."
+  },
+  {
+    "name": "ACTo · реестр документов и резолюций",
+    "url": "https://www.acto.go.cr/documentacion-importante/",
+    "paths": [
+      "/wp-content/uploads/"
+    ]
+  },
+  {
+    "name": "Lirio Lodge · действующий список программ",
+    "url": "https://liriolodge.com/paquetes/",
+    "paths": [
+      "/paquete/"
+    ],
+    "exactPaths": [
+      "/paquetes"
+    ],
+    "review": "parismina-lirio-packages"
+  },
+  {
+    "name": "ASTOP · местная ассоциация и ночные патрули",
+    "url": "https://www.parisminaturtles.org/",
+    "exactPaths": [
+      "/our-project",
+      "/our-village",
+      "/your-experience"
+    ],
+    "review": "parismina-astop-home"
+  },
+  {
+    "name": "Reserva Pacuare · обновления команды",
+    "url": "https://www.pacuarereserve.org/blog",
+    "paths": [
+      "/post/"
+    ],
+    "exactPaths": [
+      "/arrival-information",
+      "/visit-us",
+      "/blog"
+    ],
+    "review": "pacuare-reserve-updates"
+  },
+  {
+    "name": "Under The Sea Diving · курсы в Гуанакасте",
+    "url": "https://undertheseadivingcr.com/guanacaste-diving-courses/",
+    "paths": [
+      "/blog/"
+    ],
+    "exactPaths": [
+      "/guanacaste-diving-courses",
+      "/scuba-certification-costa-rica"
+    ],
+    "review": "potrero-undersea-courses"
   }
 ]

@@ -88,14 +88,14 @@
   "parismina-jalova-water": {
     "stops": [
       {
-        "point": "cano-blanco-siquirres-village",
-        "role": "Caño Blanco · район посадки",
-        "note": "Береговой ориентир из реестра IGN. Точную пристань и парковку пришлёт перевозчик."
+        "point": "parismina-cano-blanco-pier",
+        "role": "Caño Blanco · пассажирский причал",
+        "note": "Посадку и парковку сверяйте у перевозчика. Точка соответствует причалу у реки."
       },
       {
-        "point": "parismina",
-        "role": "Barra de Parismina",
-        "note": "Береговой ориентир посёлка. Согласуйте дальнейший переход с оператором и администрацией парка."
+        "point": "parismina-boca-public-pier",
+        "role": "Muelle Boca Parismina · береговая пересадка",
+        "note": "Фактический дальнейший выход до Jalova сообщает перевозчик."
       }
     ],
     "contacts": [
@@ -130,6 +130,14 @@
           "tortuguero-acto-sectors",
           "ict-parismina-planning-map"
         ]
+      },
+      {
+        "title": "Участок до Парисмины на карте",
+        "text": "Линия показывает водное такси между двумя причалами. Участок до Jalova и его фактическую высадку согласуйте отдельно.",
+        "sources": [
+          "parismina-ferry-osm",
+          "camino-stage-1a"
+        ]
       }
     ],
     "galleries": [
@@ -137,9 +145,11 @@
     ],
     "nearby": [
       "tortuguero-no-car",
-      "tortuguero-harold-own-kayak"
+      "tortuguero-harold-own-kayak",
+      "cano-blanco-parismina-water-taxi"
     ],
-    "track": "ict-parismina-planning-map"
+    "track": "ict-parismina-planning-map",
+    "line": "cano-blanco-parismina-public-ferry"
   },
   "tamarindo-estuary-kayak": {
     "stops": [

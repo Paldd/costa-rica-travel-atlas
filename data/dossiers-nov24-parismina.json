@@ -1,0 +1,603 @@
+{
+  "cano-blanco-parismina-water-taxi": {
+    "stops": [
+      {
+        "point": "parismina-cano-blanco-pier",
+        "role": "Посадка · Puerto de Caño Blanco",
+        "note": "Причал на реке, отдельно от одноимённого посёлка. Здесь уточняют место, где оставить автомобиль."
+      },
+      {
+        "point": "parismina-boca-public-pier",
+        "role": "Высадка · Muelle Boca Parismina",
+        "note": "Дальше по посёлку пешком. Обратную лодку согласуйте до высадки."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога и багаж",
+        "text": "Уточните стыковку местного автобуса или такси из Сикирреса с лодкой на ваш день. Маршрут из Moín через каналы длиннее и требует отдельной договорённости. В маленькой лодке удобны мягкая сумка и гермомешок.",
+        "sources": [
+          "camino-stage-1a",
+          "parismina-cano-directory",
+          "parismina-esmeralda-arrival"
+        ]
+      },
+      {
+        "title": "Два точных причала",
+        "text": "Линия по OpenStreetMap идёт по воде между пассажирскими причалами. Длина по геометрии около 4,7 км. Фактический курс и время зависят от условий и остановок.",
+        "sources": [
+          "parismina-ferry-osm",
+          "parismina-cano-blanco-dock-osm",
+          "parismina-muelle-boca-osm"
+        ]
+      },
+      {
+        "title": "Что в деревне",
+        "text": "На берегу есть небольшие соды, фрукты и бытовые магазины. ASTOP даёт актуальный список типов услуг. У местного справочника полезны названия улиц и пересадок, а расписание и цены датированы.",
+        "sources": [
+          "parismina-astop-village",
+          "parismina-cano-directory",
+          "parismina-ict-miniguide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Jason Taylor · Green Gold Ecolodge",
+        "source": "camino-stage-1a",
+        "note": "Местное лодочное сообщение, выход к дому и ночёвка на береговой части El Camino.",
+        "phone": "+506 8697 2322",
+        "whatsapp": "https://wa.me/50686972322",
+        "email": "greengoldecolodge.bp@gmail.com"
+      },
+      {
+        "name": "Julio Knight · Aventuras del Caribe",
+        "source": "camino-stage-1a",
+        "note": "Лодка, встреча у причалов и согласование экскурсии по побережью.",
+        "url": "https://wa.me/50687254119",
+        "email": "aventurasdelcaribe@hotmail.com"
+      }
+    ],
+    "photos": [
+      "parismina-village-worldwide"
+    ],
+    "galleries": [
+      "parismina-astop-village",
+      "parismina-ict-miniguide"
+    ],
+    "videos": [
+      "parismina-nano-field-video"
+    ],
+    "nearby": [
+      "parismina-green-gold-coast-2",
+      "parismina-astop-community-5",
+      "parismina-angler-long-weekend-4",
+      "parismina-jalova-water"
+    ],
+    "line": "cano-blanco-parismina-public-ferry"
+  },
+  "parismina-green-gold-coast-2": {
+    "stops": [
+      {
+        "point": "parismina-cano-blanco-pier",
+        "role": "День 1 · лодка до посёлка",
+        "note": "Отметьте водителю, если обратный путь запланирован через Goshen."
+      },
+      {
+        "point": "parismina-boca-public-pier",
+        "role": "День 1 · начало прогулки",
+        "note": "Докупите припасы и уточните, где сходить с пляжа к лоджу."
+      },
+      {
+        "point": "camino-gpx-stop-parismina",
+        "role": "День 1 · начало опубликованной пешей линии",
+        "note": "Отметка выхода от пассажирского причала в файле Mar a Mar."
+      },
+      {
+        "point": "camino-gpx-stop-coast-edge",
+        "role": "День 1 · конец записанного берегового отрезка",
+        "note": "Дальнейшую тропу к лоджу уточните у хозяина."
+      },
+      {
+        "point": "parismina-green-gold-property",
+        "role": "Дни 1–2 · район ночёвки Green Gold",
+        "note": "Метка из публичной карты размещения. Фактическую точку встречи передаст хозяин."
+      },
+      {
+        "point": "camino-gpx-stop-perlas",
+        "role": "День 2 · ориентир пересадки у Laguna Perlas",
+        "note": "Точка начала отдельной записи маршрута по воде. Фактическую посадку подтвердит хозяин."
+      },
+      {
+        "point": "camino-gpx-stop-goshen",
+        "role": "День 2 · возможная высадка",
+        "note": "Используется по договорённости для поездки в одну сторону."
+      }
+    ],
+    "sections": [
+      {
+        "title": "До Оро-Верде пешком",
+        "text": "Mar a Mar описывает 5,5 км с береговым отклонением. Опубликованный GPX даёт непрерывный участок берега и отдельно водный участок. Подтвердите последние подходы, отливы и фактическую точку посадки.",
+        "sources": [
+          "camino-stage-1a",
+          "camino-maram-gpx-library",
+          "parismina-green-gold-map"
+        ]
+      },
+      {
+        "title": "Где поесть и переночевать",
+        "text": "У Джейсона доступны комнаты, питание и лодочная связь. На старте посёлка есть семейные соды. В видеодневнике рыболова отдельно упомянут Parismina Green Camping. Эту площадку, режим, место палатки, душ и правила огня сверяйте у хозяев до выезда.",
+        "sources": [
+          "camino-stage-1a",
+          "parismina-astop-village",
+          "parismina-pescando-orilla-report"
+        ]
+      },
+      {
+        "title": "Что взять",
+        "text": "Мягкий рюкзак, дождевик, фонарь, гермомешок и защиту от насекомых. Для экипировки на несколько дней попросите заранее уточнить вес и габарит багажа на лодке.",
+        "sources": [
+          "camino-stage-1a",
+          "parismina-esmeralda-arrival"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Jason Taylor · Green Gold Ecolodge",
+        "source": "camino-stage-1a",
+        "note": "Местное лодочное сообщение, выход к дому и ночёвка на береговой части El Camino.",
+        "phone": "+506 8697 2322",
+        "whatsapp": "https://wa.me/50686972322",
+        "email": "greengoldecolodge.bp@gmail.com"
+      },
+      {
+        "name": "Julio Knight · Aventuras del Caribe",
+        "source": "camino-stage-1a",
+        "note": "Лодка, встреча у причалов и согласование экскурсии по побережью.",
+        "url": "https://wa.me/50687254119",
+        "email": "aventurasdelcaribe@hotmail.com"
+      },
+      {
+        "name": "ASTOP · Макко, координатор волонтёров",
+        "source": "parismina-astop-contact",
+        "note": "Даты, ночные смены, возрастные условия, семейное размещение и транспорт.",
+        "phone": "+506 5008 0430",
+        "email": "parisminaturtles@gmail.com"
+      }
+    ],
+    "photos": [
+      "parismina-village-worldwide"
+    ],
+    "galleries": [
+      "camino-stage-1a",
+      "parismina-astop-village"
+    ],
+    "videos": [
+      "parismina-nano-field-video",
+      "parismina-pescando-orilla-report"
+    ],
+    "nearby": [
+      "cano-blanco-parismina-water-taxi",
+      "pacuare-reserve-casa-grande-visit",
+      "parismina-astop-community-5"
+    ],
+    "line": "parismina-green-gold-approach-and-goshen",
+    "track": "camino-stage-1a"
+  },
+  "parismina-astop-community-5": {
+    "stops": [
+      {
+        "point": "parismina-cano-blanco-pier",
+        "role": "Дни 1 и 5 · материковый причал",
+        "note": "Проверьте стыковку наземных переездов с договорённым лодочным рейсом."
+      },
+      {
+        "point": "parismina-boca-public-pier",
+        "role": "Дни 1–5 · встреча в посёлке",
+        "note": "Точку встречи и адрес семьи сообщит координатор. Патрули размечает команда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Что входит в местный формат",
+        "text": "Пример пятидневного участия на сайте ASTOP указывает лекцию, знакомство с общиной, сопровождение ассистентами и проживание у семьи с едой. Просите актуальный расчёт под свои даты и длительность.",
+        "sources": [
+          "parismina-astop-five-days",
+          "parismina-astop-home"
+        ]
+      },
+      {
+        "title": "Патрули и время",
+        "text": "Исследовательский ассистент ведёт ночную смену около четырёх часов. Задачи могут включать мониторинг, помощь инкубатору и общественные проекты. Спросите, как одеваться, какой свет разрешён и какие задания подходят вашей группе.",
+        "sources": [
+          "parismina-astop-home",
+          "parismina-astop-contact"
+        ]
+      },
+      {
+        "title": "Быт и снаряжение",
+        "text": "Дождевик, закрытая обувь, лёгкие длинные брюки, гермомешок и запасная смена одежды. Дайте семье знать о диете и уточните питание по времени смен. Заранее продумайте наземный выезд из Caño Blanco.",
+        "sources": [
+          "parismina-astop-village",
+          "parismina-astop-five-days",
+          "camino-stage-1a"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASTOP · Макко, координатор волонтёров",
+        "source": "parismina-astop-contact",
+        "note": "Даты, ночные смены, возрастные условия, семейное размещение и транспорт.",
+        "phone": "+506 5008 0430",
+        "email": "parisminaturtles@gmail.com"
+      },
+      {
+        "name": "Jason Taylor · Green Gold Ecolodge",
+        "source": "camino-stage-1a",
+        "note": "Местное лодочное сообщение, выход к дому и ночёвка на береговой части El Camino.",
+        "phone": "+506 8697 2322",
+        "whatsapp": "https://wa.me/50686972322",
+        "email": "greengoldecolodge.bp@gmail.com"
+      }
+    ],
+    "photos": [
+      "parismina-astop-tinss",
+      "parismina-village-worldwide"
+    ],
+    "galleries": [
+      "parismina-astop-home",
+      "parismina-astop-five-days"
+    ],
+    "videos": [
+      "parismina-nano-field-video"
+    ],
+    "nearby": [
+      "cano-blanco-parismina-water-taxi",
+      "parismina-green-gold-coast-2",
+      "pacuare-reserve-casa-grande-visit"
+    ],
+    "line": "cano-blanco-parismina-public-ferry"
+  },
+  "pacuare-reserve-casa-grande-visit": {
+    "stops": [
+      {
+        "point": "goshen-pier",
+        "role": "Возможная лодочная посадка",
+        "note": "Один из подтверждаемых вариантов. Команда может назначить посадку Alcantarilla."
+      },
+      {
+        "point": "pacuare-casa-grande-reserve-base",
+        "role": "Южная база · Casa Grande",
+        "note": "Точка гостевого дома. Получите свой причал и место ночлега при записи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и менее людный берег",
+        "text": "EPI предлагает комнаты Casa Grande и отдельный семейный Casa Baula. Между лоджем, лагуной и берегом ходят вместе с командой. Согласуйте перечень доступных прогулок под даты визита.",
+        "sources": [
+          "pacuare-reserve-visit",
+          "pacuare-reserve-wildlife"
+        ]
+      },
+      {
+        "title": "На машине и без машины",
+        "text": "Через Batán можно оставить машину на частной парковке у населённого пункта или у Goshen. При подходе на автобусе EPI описывает связку San José, Siquirres, Batán и такси до согласованного причала.",
+        "sources": [
+          "pacuare-reserve-arrival",
+          "camino-stage-1a"
+        ]
+      },
+      {
+        "title": "Сезон и вечерний выход",
+        "text": "Резерват указывает март–июль для наблюдений во время мониторинга кожистой черепахи. Команда говорит, что происходит в конкретную ночь. Возьмите свой налобный фонарь, лёгкую одежду, дождезащиту и средство от насекомых. Правила света спрашивайте у проводника.",
+        "sources": [
+          "pacuare-reserve-wildlife",
+          "pacuare-reserve-arrival"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Ecology Project International · Reserva Pacuare",
+        "source": "pacuare-reserve-visit",
+        "note": "Спросите, какой корпус и какая высадка подтверждены. Сообщите состав семьи и дату приезда как минимум за неделю.",
+        "phone": "+506 8909 9122",
+        "whatsapp": "https://wa.me/50689099122"
+      },
+      {
+        "name": "Julio Knight · Aventuras del Caribe",
+        "source": "camino-stage-1a",
+        "note": "Лодка, встреча у причалов и согласование экскурсии по побережью.",
+        "url": "https://wa.me/50687254119",
+        "email": "aventurasdelcaribe@hotmail.com"
+      }
+    ],
+    "galleries": [
+      "pacuare-reserve-visit",
+      "pacuare-reserve-arrival",
+      "camino-stage-1a"
+    ],
+    "nearby": [
+      "madre-dios-lirio-kayak-2",
+      "madre-dios-lirio-canals-3",
+      "el-camino-etapa-1a"
+    ],
+    "connectStops": false
+  },
+  "parismina-angler-long-weekend-4": {
+    "stops": [
+      {
+        "point": "parismina-fishing-lodge-property",
+        "role": "Дни 1–4 · база Rio Parismina Lodge",
+        "note": "Точку прилёта и посадку на рыбалку подтверждает персонал. Ловля ведётся в выбранных капитаном водах."
+      },
+      {
+        "point": "parismina-boca-public-pier",
+        "role": "Ориентир · общественный причал в деревне",
+        "note": "Посёлок на другом берегу. Для отдельного посещения спросите на месте о лодке."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Календарь пакета",
+        "text": "В Long Weekend три рыболовных дня с субботы по понедельник и выезд во вторник. Уточните стыковки в Сан-Хосе, оплату проживания за пределами пакета и правила багажа небольшого самолёта.",
+        "sources": [
+          "parismina-fishing-owner-packages",
+          "parismina-fishing-lodge-owner"
+        ]
+      },
+      {
+        "title": "Лодки и снасти",
+        "text": "Лодж публикует речной формат на тарпона и снука и отдельный морской формат на 21-футовом корпусе. Он предлагает удилища и катушки. Спросите, какие приманки входят, где закрепить снаряжение и какие жилеты выдаются.",
+        "sources": [
+          "parismina-fishing-owner-programs",
+          "parismina-fishing-owner-packages"
+        ]
+      },
+      {
+        "title": "Лицензия и граница вод",
+        "text": "Попросите капитана назвать сектор, нужную лицензию, разрешённые снасти и правила выпуска до поездки. Для морских зон информацию сверяйте с INCOPESCA. На карте этой карточки есть база и посёлок.",
+        "sources": [
+          "incopesca-angling-card",
+          "acto-rio-parismina-corridor",
+          "parismina-fishing-owner-programs"
+        ]
+      },
+      {
+        "title": "Что увидели гости",
+        "text": "Brit Trips показывает лодж и отдельные фрагменты рыбалки. Wide Open Sportsman описывает выбор воды по мутности и работу команды с тарпоном. Оба отчёта архивные, а действующие условия берите у оператора.",
+        "sources": [
+          "parismina-angler-brit-trips",
+          "parismina-angler-wide-open"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rio Parismina Lodge · бронирование и чартер",
+        "source": "parismina-fishing-owner-packages",
+        "note": "Уточните тариф, стыковки, откуда вылет, условия лодки и сборы по выбранной воде.",
+        "phone": "+1 800 338 5688"
+      },
+      {
+        "name": "INCOPESCA · спортивная рыбалка",
+        "source": "incopesca-angling-card",
+        "note": "Подберите документ для фактической морской зоны и даты выхода."
+      }
+    ],
+    "galleries": [
+      "parismina-fishing-lodge-owner",
+      "parismina-fishing-owner-programs"
+    ],
+    "videos": [
+      "parismina-angler-brit-trips",
+      "parismina-angler-wide-open",
+      "parismina-pescando-orilla-report"
+    ],
+    "nearby": [
+      "cano-blanco-parismina-water-taxi",
+      "parismina-astop-community-5",
+      "barra-colorado-tarpon-boat"
+    ],
+    "connectStops": false
+  },
+  "potrero-padi-open-water-3": {
+    "stops": [
+      {
+        "point": "potrero-undersea-dive-shop",
+        "role": "День 1 · центр и бассейн",
+        "note": "Собственный учебный бассейн и центр по адресу у Hemingways. Точка посадки на морскую часть подтверждается инструктором."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как распределены три дня",
+        "text": "Центр указывает первый день в бассейне и ещё два дня открытой воды. Сверьте, как устроено изучение теории, полный комплект снаряжения, какие лодки и сколько морских упражнений будут в вашей группе.",
+        "sources": [
+          "potrero-undersea-courses",
+          "potrero-undersea-open-water",
+          "potrero-undersea-padi-directory"
+        ]
+      },
+      {
+        "title": "Условия допуска и подготовка",
+        "text": "У центра уточняют анкету здоровья, уверенное плавание, требования к возрасту, размеры жилета и гидрокостюма. Нужны купальные вещи, полотенце, вода и одежда для ожидания на лодке.",
+        "sources": [
+          "potrero-undersea-courses",
+          "potrero-undersea-contact",
+          "padi-open-water-enrollment"
+        ]
+      },
+      {
+        "title": "Как это выглядит у ученика",
+        "text": "Descubre Costa Rica показывает свой выбор школы и этапы получения сертификата. Локации и время в его отчёте относятся к его группе. Программу и условия вашего выхода подтвердит центр.",
+        "sources": [
+          "fb-potrero-open-water-report",
+          "potrero-undersea-padi-directory"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Under The Sea Diving · Playa Potrero",
+        "source": "potrero-undersea-contact",
+        "note": "PADI указывает испанский и английский. Согласуйте язык, время старта, комплект и фактический причал.",
+        "phone": "+506 8751 5650",
+        "whatsapp": "https://wa.me/50687515650",
+        "email": "aaron@undertheseadivingcr.com"
+      }
+    ],
+    "galleries": [
+      "potrero-undersea-courses",
+      "potrero-undersea-open-water",
+      "potrero-undersea-padi-directory"
+    ],
+    "videos": [
+      "fb-potrero-open-water-report"
+    ],
+    "nearby": [
+      "flamingo",
+      "flamingo-marina-catamarans"
+    ],
+    "connectStops": false
+  },
+  "madre-dios-lirio-kayak-2": {
+    "stops": [
+      {
+        "point": "goshen-pier",
+        "role": "День 1 · парковка и посадка Goshen",
+        "note": "По информации лоджа, встреча к 10:10 для отправления в 10:30. Подход на карте можно открыть из инструкции."
+      },
+      {
+        "point": "pacuare-lirio-lodge-property",
+        "role": "Бунгало и каяки · Laguna Madre de Dios",
+        "note": "Условие о выдаче каяков даёт оператор. Старт и разрешённый сектор лагуны показывает команда."
+      },
+      {
+        "point": "pacuare-north-station-area",
+        "role": "Возможная прогулка · Reserva Pacuare Norte",
+        "note": "Это один из секторов, которые оператор перечисляет для прогулки. Конкретный маршрут выбирает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога с детьми",
+        "text": "Оставьте авто на частной парковке Muelle Goshen. Лодка идёт около 20–25 минут. Уточните нужные размеры жилетов и посадку для маленьких детей. Мокрые вещи удобно держать отдельно в гермомешке.",
+        "sources": [
+          "parismina-lirio-transport",
+          "parismina-lirio-package-2"
+        ]
+      },
+      {
+        "title": "Лодка, каяк и прогулка",
+        "text": "Пакет содержит одну пешую экскурсию с гидом, одну поездку на лодке по каналам и пользование каяками у лоджа. Сторону лагуны и выход на каяке согласуйте на месте. Точки отмечены по источникам.",
+        "sources": [
+          "parismina-lirio-package-2",
+          "parismina-lirio-owner",
+          "pacuare-lirio-map-node"
+        ]
+      },
+      {
+        "title": "Холод, дождь и питание",
+        "text": "Подтвердите меню и время еды, если ребёнок встаёт рано. Возьмите лёгкую закрытую одежду, дождевик, нескользящую обувь и запас сухих вещей. Свой пакрафт или SUP везите после согласования перевозки и спуска.",
+        "sources": [
+          "parismina-lirio-transport",
+          "parismina-lirio-package-2",
+          "camino-stage-1a"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Lirio Lodge · размещение и лодка",
+        "source": "parismina-lirio-transport",
+        "note": "Подтвердите причал и время, комплектацию пакета, размер детских жилетов и правила пребывания.",
+        "phone": "+506 8301 0870",
+        "whatsapp": "https://wa.me/50683010870",
+        "email": "info@liriolodge.com"
+      }
+    ],
+    "galleries": [
+      "parismina-lirio-package-2",
+      "parismina-lirio-owner",
+      "parismina-lirio-packages"
+    ],
+    "nearby": [
+      "madre-dios-lirio-canals-3",
+      "pacuare-reserve-casa-grande-visit",
+      "parismina-green-gold-coast-2"
+    ],
+    "connectStops": false
+  },
+  "madre-dios-lirio-canals-3": {
+    "stops": [
+      {
+        "point": "goshen-pier",
+        "role": "День 1 · парковка и посадка Goshen",
+        "note": "По информации лоджа, встреча к 10:10 для отправления в 10:30. Подход на карте можно открыть из инструкции."
+      },
+      {
+        "point": "pacuare-lirio-lodge-property",
+        "role": "Бунгало и каяки · Laguna Madre de Dios",
+        "note": "Условие о выдаче каяков даёт оператор. Старт и разрешённый сектор лагуны показывает команда."
+      },
+      {
+        "point": "pacuare-north-station-area",
+        "role": "Возможная прогулка · Reserva Pacuare Norte",
+        "note": "Это один из секторов, которые оператор перечисляет для прогулки. Конкретный маршрут выбирает гид."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Дорога с детьми",
+        "text": "Оставьте авто на частной парковке Muelle Goshen. Лодка идёт около 20–25 минут. Уточните нужные размеры жилетов и посадку для маленьких детей. Мокрые вещи удобно держать отдельно в гермомешке.",
+        "sources": [
+          "parismina-lirio-transport",
+          "parismina-lirio-package-3"
+        ]
+      },
+      {
+        "title": "Лодка, каяк и прогулка",
+        "text": "Пакет содержит две пешие экскурсии с гидом, одну поездку на лодке по каналам и пользование каяками у лоджа. Сторону лагуны и выход на каяке согласуйте на месте. Точки отмечены по источникам.",
+        "sources": [
+          "parismina-lirio-package-3",
+          "parismina-lirio-owner",
+          "pacuare-lirio-map-node"
+        ]
+      },
+      {
+        "title": "Холод, дождь и питание",
+        "text": "Подтвердите меню и время еды, если ребёнок встаёт рано. Возьмите лёгкую закрытую одежду, дождевик, нескользящую обувь и запас сухих вещей. Свой пакрафт или SUP везите после согласования перевозки и спуска.",
+        "sources": [
+          "parismina-lirio-transport",
+          "parismina-lirio-package-3",
+          "camino-stage-1a"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Lirio Lodge · размещение и лодка",
+        "source": "parismina-lirio-transport",
+        "note": "Подтвердите причал и время, комплектацию пакета, размер детских жилетов и правила пребывания.",
+        "phone": "+506 8301 0870",
+        "whatsapp": "https://wa.me/50683010870",
+        "email": "info@liriolodge.com"
+      }
+    ],
+    "galleries": [
+      "parismina-lirio-package-3",
+      "parismina-lirio-owner",
+      "parismina-lirio-packages"
+    ],
+    "nearby": [
+      "madre-dios-lirio-kayak-2",
+      "pacuare-reserve-casa-grande-visit",
+      "parismina-green-gold-coast-2"
+    ],
+    "connectStops": false
+  }
+}

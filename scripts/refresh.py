@@ -25,9 +25,24 @@ def host(url):
     return (urllib.parse.urlsplit(url).hostname or "").lower().removeprefix("www.")
 
 
+def encoded_path(path):
+    return urllib.parse.quote(path, safe="/%:@!$&'()*+,;=")
+
+
+def package_query(location):
+    if host(location.geturl()) != "liriolodge.com" or location.path.lower().rstrip("/") not in {"/paquete", "/en/package"}:
+        return ""
+    package_ids = urllib.parse.parse_qs(location.query).get("toursys_package_id", [])
+    if len(package_ids) == 1 and re.fullmatch(r"[0-9]+", package_ids[0]):
+        return urllib.parse.urlencode({"toursys_package_id": package_ids[0]})
+    return ""
+
+
 def canonical(url):
     parsed = urllib.parse.urlsplit(url)
-    return host(url) + parsed.path.lower().rstrip("/")
+    address = host(url) + encoded_path(parsed.path).lower().rstrip("/")
+    query = package_query(parsed)
+    return address + ("?" + query if query else "")
 
 
 def sitemap_date(value):
@@ -68,7 +83,9 @@ class Links(HTMLParser):
 
 
 def request(opener, url):
-    req = urllib.request.Request(url, headers={"User-Agent": AGENT + "/1.0 (editorial source index)"})
+    parsed = urllib.parse.urlsplit(url)
+    address = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, encoded_path(parsed.path), parsed.query, ""))
+    req = urllib.request.Request(address, headers={"User-Agent": AGENT + "/1.0 (editorial source index)"})
     with opener.open(req, timeout=16) as response:
         return response.read(MAX_BYTES), response.url
 
@@ -132,11 +149,12 @@ def inspect(feed, known, publisher_archives=()):
             links = links + extra
         for href, title, last_modified in links:
             location = urllib.parse.urlsplit(urllib.parse.urljoin(fetched, html.unescape(href)))
-            url = urllib.parse.urlunsplit((location.scheme, location.netloc, location.path, "", ""))
+            query = package_query(location)
+            url = urllib.parse.urlunsplit((location.scheme, location.netloc, encoded_path(location.path), query, ""))
             if location.scheme != "https" or host(url) != host(fetched) or (rules and not rules.can_fetch(AGENT, url)):
                 continue
             path = location.path.lower()
-            matches_prefix = any(path.startswith(prefix) and path.rstrip("/") != prefix.rstrip("/")
+            matches_prefix = any(path.startswith(prefix) and (query or path.rstrip("/") != prefix.rstrip("/"))
                                  for prefix in prefixes)
             matches_exact = path.rstrip("/") in exact_matches
             if not (matches_prefix or matches_exact):
