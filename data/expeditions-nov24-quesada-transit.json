@@ -1,0 +1,126 @@
+[
+  {
+    "id": "ciudad-quesada-without-car-4",
+    "kind": "trip",
+    "region": "north",
+    "title": "Сьюдад-Кесада за 4 дня без машины · лес, термы и рынок",
+    "native": "Terminal Atlántico Norte · Ciudad Quesada · Montaña Sagrada · Termales del Bosque",
+    "level": "moderate",
+    "days": 4,
+    "activities": [
+      "hiking",
+      "forest",
+      "lake",
+      "thermal",
+      "swim",
+      "history",
+      "cafe",
+      "relax"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "public",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "lodge"
+    ],
+    "sources": [
+      "quesada-plaza-terminal-office",
+      "quesada-sancarlos-terminal-change",
+      "quesada-moovit-atlantico-current",
+      "quesada-bus-field-timetable",
+      "montana-sagrada-coopelesca",
+      "quesada-termales-bosque-home",
+      "quesada-termales-bosque-contact",
+      "quesada-visitor-center-car-osm",
+      "quesada-thermal-car-osm"
+    ],
+    "summary": "Четыре дня из Сан-Хосе с одной базой в Сьюдад-Кесаде. Между городами автобус, от города к лесу и термам два заранее согласованных трансфера.",
+    "plan": "Заселитесь в центре или согласуйте проживание у терм с отдельными трансферами. На горный день выберите 4,3 или 6,5 км. Обратный автобус подтверждайте перед выездом.",
+    "conditions": "Montaña Sagrada работает со вторника по воскресенье. Поменяйте дни местами, если горный день выпадает на понедельник или сильный дождь. Для детей согласуйте размер кресел в трансфере и условия терм.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Автобус в Сьюдад-Кесаду и прогулка по центру",
+        "note": "Выезд из Terminal Atlántico Norte. После приезда уточните обратный рейс, оставьте багаж в выбранной гостинице и пройдите от рынка к парку.",
+        "stops": [
+          "san-jose-quesada-atlantico-bus",
+          "ciudad-quesada-market-centre-walk"
+        ],
+        "points": [
+          "quesada-atlantico-norte-terminal",
+          "quesada-plaza-buses",
+          "quesada-mercado-municipal",
+          "quesada-central-park-stop"
+        ],
+        "sources": [
+          "quesada-sancarlos-terminal-change",
+          "quesada-moovit-atlantico-current",
+          "quesada-town-pedestrian-osm"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Облачный лес и лагуна Посо-Верде",
+        "note": "Согласованный трансфер к Coopelesca. Выберите 4,3 км туда и обратно или 6,5 км по четырём тропам. Для семьи заранее назначьте время обратной машины.",
+        "stops": [
+          "montana-sagrada-pozo-verde-65"
+        ],
+        "points": [
+          "quesada-plaza-buses",
+          "montana-sagrada-visitor-center",
+          "montana-sagrada-pozo-verde-lake"
+        ],
+        "sources": [
+          "montana-sagrada-coopelesca",
+          "quesada-visitor-center-car-osm"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Термы Ла-Марины",
+        "note": "Забронируйте Daypass и такси в обе стороны. На ресепшене уточните температуру у доступных бассейнов, детские ограничения и питание. После обеда вернитесь к базе.",
+        "stops": [
+          "la-marina-termales-del-bosque-daypass"
+        ],
+        "points": [
+          "quesada-plaza-buses",
+          "quesada-termales-del-bosque-entrance"
+        ],
+        "sources": [
+          "quesada-termales-bosque-home",
+          "quesada-termales-bosque-contact",
+          "quesada-thermal-car-osm"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Рынок, Plaza San Carlos и автобус в столицу",
+        "note": "Выйдите на завтрак к рынку, если подтверждён удобный час рейса. Заберите вещи, доезжайте до Plaza San Carlos и возвращайтесь к Atlántico Norte. Дальние пересадки лучше ставить с запасом.",
+        "stops": [
+          "ciudad-quesada-market-centre-walk",
+          "san-jose-quesada-atlantico-bus"
+        ],
+        "points": [
+          "quesada-mercado-municipal",
+          "quesada-plaza-buses",
+          "quesada-atlantico-norte-terminal"
+        ],
+        "sources": [
+          "quesada-municipal-city-map",
+          "quesada-plaza-terminal-office",
+          "quesada-moovit-atlantico-current"
+        ]
+      }
+    ]
+  }
+]

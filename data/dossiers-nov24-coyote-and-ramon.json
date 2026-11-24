@@ -811,6 +811,9 @@
     ],
     "track": "montana-sagrada-alternate-track",
     "trackKind": "route",
-    "connectStops": false
+    "connectStops": false,
+    "nearby": [
+      "ciudad-quesada-without-car-4"
+    ]
   }
 }

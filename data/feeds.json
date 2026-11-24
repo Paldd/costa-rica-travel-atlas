@@ -3182,5 +3182,14 @@
     "exactPaths": [
       "/la-reserva"
     ]
+  },
+  {
+    "name": "Termales del Bosque · Daypass и режим терм в Сан-Карлосе",
+    "url": "https://termalesdelbosquecr.com/index/",
+    "review": "quesada-termales-bosque-home",
+    "exactPaths": [
+      "/index",
+      "/index/contact-us"
+    ]
   }
 ]

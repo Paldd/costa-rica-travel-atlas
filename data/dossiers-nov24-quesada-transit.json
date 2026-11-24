@@ -1,0 +1,344 @@
+{
+  "san-jose-quesada-atlantico-bus": {
+    "stops": [
+      {
+        "point": "quesada-atlantico-norte-terminal",
+        "role": "Автостанция Сан-Хосе · Terminal Atlántico Norte",
+        "note": "В кассе ищите рейс до Ciudad Quesada. В этом же терминале обслуживаются другие направления."
+      },
+      {
+        "point": "quesada-plaza-buses",
+        "role": "Сьюдад-Кесада · автостанция Plaza San Carlos",
+        "note": "Сверьте время обратного рейса и ориентир остановки. Здесь удобно встретиться с местным водителем."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Отправление из столицы",
+        "text": "Ищите Terminal Atlántico Norte на Calle 12. Сообщите в кассе, что вам нужна автостанция Plaza San Carlos в Ciudad Quesada. Названия других городов Сан-Карлос уточняйте, чтобы сесть на нужный рейс.",
+        "sources": [
+          "quesada-sancarlos-terminal-change",
+          "quesada-moovit-atlantico-current"
+        ]
+      },
+      {
+        "title": "Семья и багаж",
+        "text": "Уточните билет для ребёнка, место для коляски, остановки и время в пути. Около трёх часов служат оценкой. Пересадку выбирайте с запасом на пробки и выход из терминала.",
+        "sources": [
+          "quesada-bus-field-timetable",
+          "quesada-plaza-terminal-office"
+        ]
+      },
+      {
+        "title": "Обратный путь",
+        "text": "Приезжайте в Plaza San Carlos с запасом перед рейсом. Режим меняется в выходные и праздники. Местные поездки к Монтанья-Саграда и термам согласуйте отдельно.",
+        "sources": [
+          "quesada-plaza-terminal-office",
+          "quesada-moovit-atlantico-current"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Plaza San Carlos · информация терминала",
+        "source": "quesada-plaza-terminal-office",
+        "note": "Уточните службу перевозчика, стойку посадки и часы работы терминала.",
+        "phone": "+506 2461 0626",
+        "url": "https://www.plazasancarlos.com/informacion-terminal-de-buses/"
+      },
+      {
+        "name": "Auto Transportes San José–San Carlos · справочный номер",
+        "source": "quesada-bus-field-timetable",
+        "note": "Перед поездкой подтвердите рейс до Сьюдад-Кесады, доступность мест, багаж и платформу.",
+        "phone": "+506 2255 4318"
+      }
+    ],
+    "galleries": [
+      "quesada-plaza-terminal-office",
+      "quesada-sancarlos-terminal-change"
+    ],
+    "track": "quesada-moovit-atlantico-current",
+    "trackKind": "route",
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Посадка в Сан-Хосе у Terminal Atlántico Norte",
+      "text": "Перевозчик перенёс посадку с прежней автостанции в мае 2025 года. Новый пункт на Calle 12 между Avenida 7 и 9 указан в актуальной схеме линии. В кассе подтвердите платформу и отправление.",
+      "sources": [
+        "quesada-sancarlos-terminal-change",
+        "quesada-moovit-atlantico-current",
+        "quesada-plaza-terminal-office"
+      ]
+    },
+    "nearby": [
+      "ciudad-quesada-market-centre-walk",
+      "ciudad-quesada-without-car-4",
+      "la-marina-termales-del-bosque-daypass"
+    ]
+  },
+  "ciudad-quesada-market-centre-walk": {
+    "stops": [
+      {
+        "point": "quesada-plaza-buses",
+        "role": "Сьюдад-Кесада · автостанция Plaza San Carlos",
+        "note": "Сверьте время обратного рейса и ориентир остановки. Здесь удобно встретиться с местным водителем."
+      },
+      {
+        "point": "quesada-mercado-municipal",
+        "role": "Mercado Municipal · дневная остановка",
+        "note": "Часы рынка и отдельных лавок уточните на месте."
+      },
+      {
+        "point": "quesada-central-park-stop",
+        "role": "Parque Central и собор · прогулка",
+        "note": "Обходите парк по удобному для группы тротуару. Более короткий план начинается прямо у парка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Маршрут по улицам",
+        "text": "Расчёт от Avenida 21 до рынка и центрального парка даёт 1,39 км. У парка можно развернуться или вызвать такси. Для всей прогулки с детьми удобно отвести до двух часов с едой и остановками.",
+        "sources": [
+          "quesada-town-pedestrian-osm",
+          "quesada-municipal-city-map"
+        ]
+      },
+      {
+        "title": "Остановки",
+        "text": "Рынок находится на северной стороне района парка. Кафедральный собор расположен у его восточной стороны. Уточните часы внутри собора и доступность лавок, если приедете в выходной.",
+        "sources": [
+          "quesada-municipal-city-map",
+          "quesada-market-osm",
+          "quesada-city-archival-gallery"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Plaza San Carlos · информация терминала",
+        "source": "quesada-plaza-terminal-office",
+        "note": "Уточните службу перевозчика, стойку посадки и часы работы терминала.",
+        "phone": "+506 2461 0626",
+        "url": "https://www.plazasancarlos.com/informacion-terminal-de-buses/"
+      }
+    ],
+    "galleries": [
+      "quesada-cathedral-commons",
+      "quesada-city-archival-gallery"
+    ],
+    "photos": [
+      "ciudad-quesada-cathedral-aguilar"
+    ],
+    "line": "quesada-city-foot-line",
+    "nearby": [
+      "san-jose-quesada-atlantico-bus",
+      "ciudad-quesada-without-car-4"
+    ]
+  },
+  "la-marina-termales-del-bosque-daypass": {
+    "stops": [
+      {
+        "point": "quesada-termales-del-bosque-entrance",
+        "role": "Termales del Bosque · встреча у ресепшена",
+        "note": "Здесь уточняют вход по Daypass и собирают гостей для обратного трансфера."
+      },
+      {
+        "point": "quesada-plaza-buses",
+        "role": "Сьюдад-Кесада · автостанция Plaza San Carlos",
+        "note": "Сверьте время обратного рейса и ориентир остановки. Здесь удобно встретиться с местным водителем."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Daypass и ночёвка",
+        "text": "Хозяева предлагают отдельный дневной вход и номера гостиницы. На контактной странице часы терм указаны с 09:00 до 21:30. При бронировании узнайте окно вашего билета, доступ к ресторану и раздевалке.",
+        "sources": [
+          "quesada-termales-bosque-home",
+          "quesada-termales-bosque-contact"
+        ]
+      },
+      {
+        "title": "С детьми",
+        "text": "Уточните ограничения для каждого бассейна, температуру воды, доступность душа и необходимость своей обуви. Возьмите купальник, полотенце, нескользящие тапочки и воду. У входа согласуйте место встречи на обратную дорогу.",
+        "sources": [
+          "quesada-termales-bosque-home",
+          "quesada-termales-bosque-contact"
+        ]
+      },
+      {
+        "title": "Без машины",
+        "text": "От Plaza San Carlos расчёт до гостиницы около 9,6 км. Водитель предложит фактический подъезд. Согласуйте детское кресло и обратный час до входа в термы.",
+        "sources": [
+          "quesada-thermal-car-osm",
+          "quesada-termales-bosque-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Termales del Bosque · ресепшен",
+        "source": "quesada-termales-bosque-contact",
+        "note": "Сверьте часы дневного входа, бассейны для детей, ресторан и место для посадки в такси.",
+        "phone": "+506 2460 4740",
+        "email": "recepcion@termalesdelbosquecr.com"
+      },
+      {
+        "name": "Termales del Bosque · WhatsApp для Daypass",
+        "source": "quesada-termales-bosque-home",
+        "note": "Спросите актуальный тариф, допустимый возраст детей, включения и доступность на выбранную дату.",
+        "whatsapp": "https://wa.me/50687878803"
+      }
+    ],
+    "galleries": [
+      "quesada-termales-bosque-home"
+    ],
+    "videos": [
+      "quesada-termales-bosque-field-film"
+    ],
+    "connectStops": false,
+    "nearby": [
+      "ciudad-quesada-without-car-4",
+      "ciudad-quesada-market-centre-walk",
+      "montana-sagrada-pozo-verde-65"
+    ]
+  },
+  "ciudad-quesada-without-car-4": {
+    "stops": [
+      {
+        "point": "quesada-atlantico-norte-terminal",
+        "role": "Автостанция Сан-Хосе · Terminal Atlántico Norte",
+        "note": "В кассе ищите рейс до Ciudad Quesada. В этом же терминале обслуживаются другие направления."
+      },
+      {
+        "point": "quesada-plaza-buses",
+        "role": "Сьюдад-Кесада · автостанция Plaza San Carlos",
+        "note": "Сверьте время обратного рейса и ориентир остановки. Здесь удобно встретиться с местным водителем."
+      },
+      {
+        "point": "quesada-mercado-municipal",
+        "role": "Mercado Municipal · дневная остановка",
+        "note": "Часы рынка и отдельных лавок уточните на месте."
+      },
+      {
+        "point": "quesada-central-park-stop",
+        "role": "Parque Central и собор · прогулка",
+        "note": "Обходите парк по удобному для группы тротуару. Более короткий план начинается прямо у парка."
+      },
+      {
+        "point": "montana-sagrada-visitor-center",
+        "role": "Montaña Sagrada · вход Coopelesca",
+        "note": "Водителю отправьте точку входа, заранее договоритесь о месте и часе возврата."
+      },
+      {
+        "point": "montana-sagrada-pozo-verde-lake",
+        "role": "Laguna Pozo Verde · ориентир озера",
+        "note": "К берегу идите по открытому варианту тропы, указанному в центре заповедника."
+      },
+      {
+        "point": "quesada-termales-del-bosque-entrance",
+        "role": "Termales del Bosque · встреча у ресепшена",
+        "note": "Здесь уточняют вход по Daypass и собирают гостей для обратного трансфера."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где устроить базу",
+        "text": "Для семьи подойдёт одна база в центре Сьюдад-Кесады, откуда можно пройти к рынку и заказать две отдельные машины. У Termales del Bosque есть номера, если хотите ночевать ближе к воде. Оттуда пересчитайте дорогу к заповеднику и автостанции.",
+        "sources": [
+          "quesada-municipal-city-map",
+          "quesada-termales-bosque-home",
+          "quesada-plaza-terminal-office"
+        ]
+      },
+      {
+        "title": "Что бронировать",
+        "text": "Сверьте отправление на Calle 12 и обратный автобус из Plaza San Carlos. У двух местных поездок заранее подтвердите цену за машину, кресла и время возврата. На поездку в горы закладывайте время дольше расчётных 32 минут при дожде.",
+        "sources": [
+          "quesada-sancarlos-terminal-change",
+          "quesada-plaza-terminal-office",
+          "montana-sagrada-coopelesca",
+          "quesada-visitor-center-car-osm"
+        ]
+      },
+      {
+        "title": "Как переставить дни",
+        "text": "Заповедник по своему сайту открыт со вторника по воскресенье. При плохой видимости проведите день у терм, если есть места. Возьмите дождевик, обувь для влажной тропы, чехол на рюкзак и комплект для купания.",
+        "sources": [
+          "montana-sagrada-coopelesca",
+          "quesada-termales-bosque-contact"
+        ]
+      },
+      {
+        "title": "Что показано на карте",
+        "text": "На карте можно выбрать пешую прогулку по центру и два отдельных дорожных участка до заповедника и терм. Дальнее автобусное сообщение указано в отдельной карточке со ссылкой на справочную схему перевозки.",
+        "sources": [
+          "quesada-town-pedestrian-osm",
+          "quesada-visitor-center-car-osm",
+          "quesada-thermal-car-osm",
+          "quesada-moovit-atlantico-current"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Plaza San Carlos · информация терминала",
+        "source": "quesada-plaza-terminal-office",
+        "note": "Уточните службу перевозчика, стойку посадки и часы работы терминала.",
+        "phone": "+506 2461 0626",
+        "url": "https://www.plazasancarlos.com/informacion-terminal-de-buses/"
+      },
+      {
+        "name": "Coopelesca · Reserva Montaña Sagrada",
+        "source": "montana-sagrada-coopelesca",
+        "note": "Подтвердите тропы, приём семьи, подъезд после дождя и возможность местного трансфера.",
+        "phone": "+506 2401 4000",
+        "whatsapp": "https://wa.me/50684034000",
+        "email": "tours@coopelesca.co.cr"
+      },
+      {
+        "name": "Termales del Bosque · ресепшен",
+        "source": "quesada-termales-bosque-contact",
+        "note": "Сверьте часы дневного входа, бассейны для детей, ресторан и место для посадки в такси.",
+        "phone": "+506 2460 4740",
+        "email": "recepcion@termalesdelbosquecr.com"
+      },
+      {
+        "name": "Termales del Bosque · WhatsApp для Daypass",
+        "source": "quesada-termales-bosque-home",
+        "note": "Спросите актуальный тариф, допустимый возраст детей, включения и доступность на выбранную дату.",
+        "whatsapp": "https://wa.me/50687878803"
+      }
+    ],
+    "galleries": [
+      "quesada-city-archival-gallery",
+      "quesada-termales-bosque-home",
+      "montana-sagrada-coopelesca"
+    ],
+    "photos": [
+      "ciudad-quesada-cathedral-aguilar"
+    ],
+    "videos": [
+      "quesada-termales-bosque-field-film"
+    ],
+    "line": "quesada-four-day-local-connections",
+    "mediaStops": [
+      "ciudad-quesada-market-centre-walk",
+      "montana-sagrada-pozo-verde-65",
+      "la-marina-termales-del-bosque-daypass"
+    ],
+    "accessNotice": {
+      "title": "Посадка в Сан-Хосе у Terminal Atlántico Norte",
+      "text": "Перевозчик перенёс посадку с прежней автостанции в мае 2025 года. Новый пункт на Calle 12 между Avenida 7 и 9 указан в актуальной схеме линии. В кассе подтвердите платформу и отправление.",
+      "sources": [
+        "quesada-sancarlos-terminal-change",
+        "quesada-moovit-atlantico-current",
+        "quesada-plaza-terminal-office"
+      ]
+    },
+    "nearby": [
+      "san-jose-quesada-atlantico-bus",
+      "ciudad-quesada-market-centre-walk",
+      "montana-sagrada-pozo-verde-65",
+      "la-marina-termales-del-bosque-daypass"
+    ]
+  }
+}
