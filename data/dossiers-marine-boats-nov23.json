@@ -251,6 +251,11 @@
         "phone": "+506 8444 4853",
         "whatsapp": "https://wa.me/50684473717",
         "email": "PavonesBoatTours@gmail.com"
+      },
+      {
+        "name": "Todo Pavones · контакты местных капитанов",
+        "source": "pavones-native-community-fishing-directory",
+        "note": "Сравните прибрежную или дальнюю программу, вместимость и время выхода у нескольких капитанов."
       }
     ],
     "sections": [
@@ -269,6 +274,14 @@
           "pavones-golfo-dulce-adventures-charters",
           "incopesca-sport-fishing",
           "go-pavones-panga-boat-guide"
+        ]
+      },
+      {
+        "title": "Капитаны из местного справочника",
+        "text": "В Todo Pavones есть контакты нескольких независимых капитанов. Сравните тип судна, лицензию, жилеты, погоду и порт посадки. Семейный ресторан при некоторых программах может приготовить улов по согласованию.",
+        "sources": [
+          "pavones-native-community-fishing-directory",
+          "pavones-golfo-dulce-adventures-charters"
         ]
       }
     ],

@@ -1,0 +1,249 @@
+[
+  {
+    "id": "guarco-millar-camino-2",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Ла-Лучита · палаточный уикенд и горный этап El Camino",
+    "native": "Millar de Aves · La Luchita · Palo Verde · Cerro Alto",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "camping",
+      "hiking",
+      "forest",
+      "wildlife",
+      "views",
+      "multi"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "guarco-millar-owner",
+      "guarco-millar-blackberry-field",
+      "camino-stage-11",
+      "camino-maram-gpx-library",
+      "guarco-millar-peer-photos",
+      "guarco-estrella-hike-2428"
+    ],
+    "summary": "Ночёвка у местных хозяев, лёгкая прогулка в лесу и возможность пройти отдельный горный этап.",
+    "plan": "Выберите палатку или домик в Millar de Aves. Для детей оставьте прогулку на территории и знакомство с хозяйством. Для подготовленной группы закажите стыковку от Пало-Верде до Серро-Альто.",
+    "conditions": "Целый 11-й этап даёт около 928 м набора за 10 км и требует подготовки. Адаптируйте семейный день у хозяина, сверяйте подъезд и ночную температуру.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Лесной ночлег и знакомство с хозяйством",
+        "note": "Заселитесь по договорённости, погуляйте и уточните по сезону, проводят ли сбор ягод. Перед темнотой проверьте воду и тёплый комплект на ночь.",
+        "stops": [
+          "millar-aves-la-luchita-camp"
+        ],
+        "sources": [
+          "guarco-millar-owner",
+          "guarco-millar-blackberry-field"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Горная тропа по уровню группы",
+        "note": "С детьми начните с прогулки у Millar de Aves. Для полного участка заранее назначьте машину в Серро-Альто. Для самостоятельного длинного дня отдельно подготовьте авторское кольцо Ла-Эстрельи.",
+        "stops": [
+          "palo-verde-cerro-alto",
+          "guarco-la-estrella-luchita-hike-24",
+          "millar-aves-la-luchita-camp"
+        ],
+        "sources": [
+          "camino-stage-11",
+          "camino-maram-gpx-library",
+          "guarco-estrella-hike-2428"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guarco-roof-emtb-trout-2",
+    "kind": "trip",
+    "region": "mountains",
+    "title": "Эль-Гуарко · ночёвка на крыше, форель и день на e-MTB",
+    "native": "Truchas Selva Madre · Cartago · La Piedra · La Luchita · Palo Verde",
+    "level": "hard",
+    "days": 2,
+    "activities": [
+      "rooftent",
+      "camping",
+      "fishing",
+      "ebike",
+      "mtb",
+      "cycling",
+      "forest",
+      "views"
+    ],
+    "audience": [
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent"
+    ],
+    "sources": [
+      "selva-madre-roof-camp",
+      "selva-madre-point-and-reviews",
+      "guarco-piedra-mtb-5912",
+      "guarco-piedra-mtb-6335",
+      "guarco-road-rules-bicycle",
+      "guarco-selva-trout-visitor-video"
+    ],
+    "summary": "Первая половина выезда спокойная у форелевых прудов. Второй день оставлен под длинный круг Эль-Гуарко с отдельным автомобильным подъездом к старту.",
+    "plan": "Поставьте машину с палаткой в Truchas Selva Madre по согласованию. Утром переезжайте в район старта из трека на своём автомобиле. Проверьте запас батареи, тормоза и связь.",
+    "conditions": "Велосипедная часть до 59,12 км с набором 2 245 м. Сверяйте дорожные знаки на RN2 и учитывайте мокрый грунт. Подберите более короткий вариант, если рельеф или батарея ограничивают выезд.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Тёплый обед, форель и место под крышную палатку",
+        "note": "Резервируйте площадку и заезжайте засветло. Узнайте часы кухни и прогулок у леса. Зарядку согласуйте до выезда.",
+        "stops": [
+          "selva-madre-rooftent-trout"
+        ],
+        "sources": [
+          "selva-madre-roof-camp",
+          "guarco-selva-trout-visitor-video"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Картагинское кольцо на MTB или e-MTB",
+        "note": "Загрузите нужный авторский трек. Доберитесь машиной к исходному ориентиру. На ливне, при проблемах с зарядом или дорожных ограничениях выберите согласованную с местным проводником короткую нитку.",
+        "stops": [
+          "guarco-piedra-luchita-mtb-59",
+          "millar-aves-la-luchita-camp"
+        ],
+        "sources": [
+          "guarco-piedra-mtb-5912",
+          "guarco-piedra-mtb-6335",
+          "guarco-road-rules-bicycle"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pavones-zancudo-rooftent-kayak-3",
+    "kind": "trip",
+    "region": "south",
+    "title": "Павонес — Санкудо · три дня с палаткой на крыше и каяком",
+    "native": "Pineapple Creek · Pavones · Punta Banco · Zancudo · Río Coto",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "rooftent",
+      "camping",
+      "cycling",
+      "ebike",
+      "kayak",
+      "beach",
+      "river",
+      "wildlife",
+      "multi"
+    ],
+    "audience": [
+      "family-mid",
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "roof",
+      "tent",
+      "lodge"
+    ],
+    "sources": [
+      "pavones-pineapple-roof-directory",
+      "pavones-pineapple-hub",
+      "pavones-local-rental-bikes",
+      "zancudo-pavones-tours-kayak",
+      "zancudo-sol-mar-owner",
+      "zancudo-public-pier-osm",
+      "zancudo-local-osa-2026",
+      "pavones-zancudo-car-osm"
+    ],
+    "summary": "Два вечера у берега. Между ними отдельные выезды на короткий велосипедный маршрут и в мангры Санкудо.",
+    "plan": "Договоритесь о крышной палатке в Pineapple Creek. Семейной группе удобны дневной переезд к берегу и запасной ночлег в домиках Sol y Mar. Закажите лодку и подтвердите прилив заранее.",
+    "conditions": "Между кемпингом и Санкудо около 39 км по дорожной линии через Conte. Сухой ориентир от 75 минут по расчётной карте. После дождя закладывайте больше времени, а на каяке пользуйтесь согласованным маршрутом и жилетами.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Павонес, заселение и прогулка",
+        "note": "В день приезда найдите место у хозяина Pineapple Creek. Пройдитесь к ближайшему пляжу, проверьте рельеф у въезда и зафиксируйте время второго выезда.",
+        "stops": [
+          "pavones-pineapple-creek-camp",
+          "pavones"
+        ],
+        "sources": [
+          "pavones-pineapple-hub",
+          "pavones-pineapple-roof-directory"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Туда и обратно до Пунта-Банко",
+        "note": "Отведите 2–3 часа на береговую дорогу и остановки. Прокат обычных велосипедов уточните в Павонесе, а для своего e-bike заранее договоритесь о зарядке. В плохую погоду останьтесь в лагере.",
+        "stops": [
+          "pavones-punta-banco-coastal-bike-16",
+          "punta-banco-rancho-tiskita",
+          "pavones-pineapple-creek-camp"
+        ],
+        "sources": [
+          "pavones-local-rental-bikes",
+          "pavones-hub-transport",
+          "ict-sur"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Через Conte к каякам в Санкудо",
+        "note": "Снимите лагерь и выезжайте с запасом до прилива. День можно провести на берегу и в манграх с гидом. За обедом обсудите с семьёй, возвращаться ли тем же вечером или остаться у воды в Sol y Mar.",
+        "stops": [
+          "zancudo-coto-sabalo-mangrove-kayak",
+          "zancudo-sol-mar-bikes-and-kayaks"
+        ],
+        "sources": [
+          "zancudo-pavones-tours-kayak",
+          "zancudo-sol-mar-owner",
+          "zancudo-public-pier-osm",
+          "zancudo-local-osa-2026"
+        ]
+      }
+    ]
+  }
+]

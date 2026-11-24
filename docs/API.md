@@ -323,3 +323,9 @@ python3 scripts/review_social_posts.py --embeds .cache/facebook-native-captions.
 Для Парисмины нанесена лодочная линия OpenStreetMap между точными причалами. Добавлены программы ASTOP, Green Gold, Reserva Pacuare, Rio Parismina Lodge и два пакета Lirio Lodge. План рыбалки в Barra del Colorado и временные правила ноября опубликованы в обеих карточках этой зоны. [Источник линии](https://www.openstreetmap.org/way/941153910) · [Резолюции ACTo](https://www.acto.go.cr/documentacion-importante/)
 
 В ежедневный обход добавлены реестр ACTo и открытые разделы ASTOP, Reserva Pacuare, Lirio Lodge и Under The Sea Diving. Обход сохраняет идентификатор программы в адресах Lirio Lodge. По одному пути сайт отдаёт разные программы, включая выезды на две и три календарные даты. [Подключённые источники](../data/feeds.json)
+
+## Эль-Гуарко, Павонес и Санкудо, 24 ноября 2026 года
+
+Гостевой поиск по 15 страницам Facebook дал 96 адресов. 91 публикация оказалась новой для реестра. У 71 публикации от 12 авторов открылась подпись и подтвердилась связь с профилем. В атлас внесены 24 содержательных оригинала о маршрутах, берегах, рыбалке, школах и поездках. В реестре 311 оригиналов со 100 страниц Facebook. [Реестр оригиналов](../data/public-posts.tsv)
+
+Pineapple Creek получил метку крышной палатки по профильному справочнику. У справочников разные телефоны и сведения о тарифе, это указано в карточке. Маршрут из Павонеса в Санкудо рассчитан по дорожной сетке OpenStreetMap. У Рио-Кото разнесены два старта и длительности по программе владельца. Отдельный выход к Питайяс связан с опубликованным разрешением Las Catalinas привозить свой каяк. [Источник кемпинга](https://costaricacampsites.com/camp-sites/pineapple-creek-camping/) · [Источник каяков](https://pavonestours.com/tour-de-kayak/) · [Питайяс](https://www.lascatalinasdoorway.com/es/explore-the-magic-of-las-catalinas/kayaking)

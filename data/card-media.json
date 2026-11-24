@@ -1410,6 +1410,12 @@
   "punta-banco-rancho-tiskita": {
     "galleries": [
       "media-punta-banco-tiskita-gallery"
+    ],
+    "photos": [
+      "punta-banco-beach-froukjevd"
+    ],
+    "videos": [
+      "fb-punta-banco-beach-coast"
     ]
   },
   "quepos-boat": {
@@ -3281,6 +3287,14 @@
   "flamingo-marina-catamarans": {
     "videos": [
       "fb-guest-nov24-4518586315020698"
+    ]
+  },
+  "pavones-punta-banco-coast-3": {
+    "photos": [
+      "punta-banco-beach-froukjevd"
+    ],
+    "videos": [
+      "fb-punta-banco-beach-coast"
     ]
   }
 }

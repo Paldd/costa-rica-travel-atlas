@@ -3107,5 +3107,39 @@
       "/scuba-certification-costa-rica"
     ],
     "review": "potrero-undersea-courses"
+  },
+  {
+    "name": "Costa Rica Camping Guide · Pineapple Creek для палаток на крыше",
+    "url": "https://costaricacampsites.com/camp-sites/pineapple-creek-camping/",
+    "review": "pavones-pineapple-roof-directory",
+    "exactPaths": [
+      "/camp-sites/pineapple-creek-camping"
+    ]
+  },
+  {
+    "name": "Pavones Tours · мангры Рио-Кото и спуск от Рио-Лагарто",
+    "url": "https://pavonestours.com/tour-de-kayak/",
+    "review": "zancudo-pavones-tours-kayak",
+    "exactPaths": [
+      "/tour-de-kayak",
+      "/contact"
+    ]
+  },
+  {
+    "name": "Todo Pavones · местные лодочники и рыболовные выезды",
+    "url": "https://todopavones.com/c/fish",
+    "review": "pavones-native-community-fishing-directory",
+    "exactPaths": [
+      "/c/fish",
+      "/c/tours"
+    ]
+  },
+  {
+    "name": "Cabinas Sol y Mar · пляжная база и местный прокат",
+    "url": "https://solymarcostarica.com/",
+    "review": "zancudo-sol-mar-owner",
+    "exactPaths": [
+      "/"
+    ]
   }
 ]

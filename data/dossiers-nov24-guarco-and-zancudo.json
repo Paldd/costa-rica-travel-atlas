@@ -1,0 +1,841 @@
+{
+  "millar-aves-la-luchita-camp": {
+    "stops": [
+      {
+        "point": "la-luchita",
+        "role": "Ла-Лучита · посёлок",
+        "note": "Перед последними метрами уточните, с какой стороны ведёт открытый въезд."
+      },
+      {
+        "point": "guarco-millar-de-aves-base",
+        "role": "Millar de Aves · ориентир домика",
+        "note": "Палаточную зону и въезд покажут хозяева. На внешних участках ориентируйтесь на назначенное место встречи."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка и сельская еда",
+        "text": "Ассоциация Mar a Mar перечисляет размещение, питание, Wi-Fi и места под палатки по записи. У хозяев уточните ровную площадку, душ, размер группы, тихие часы и питание для детей.",
+        "sources": [
+          "guarco-millar-owner",
+          "camino-stage-11",
+          "guarco-millar-peer-photos"
+        ]
+      },
+      {
+        "title": "Ягоды и лес",
+        "text": "В местном репортаже хозяева рассказывают о ежевике и знакомстве семей с хозяйством. Сайт Millar описывает прогулки за птицами и ночные выходы. Выберите час, длительность и высотный набор под свою семью.",
+        "sources": [
+          "guarco-millar-blackberry-field",
+          "guarco-millar-owner"
+        ]
+      },
+      {
+        "title": "Как подготовиться",
+        "text": "Для горной ночи возьмите тёплый спальник, сухие слои и защиту от дождя. Формат подъезда, использование крышной палатки и огонь согласуйте отдельно.",
+        "sources": [
+          "camino-stage-11",
+          "guarco-millar-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Millar de Aves · размещение",
+        "source": "camino-stage-11",
+        "note": "Уточните место для наземной палатки, домики, ягодный сезон, питание и состояние подъезда.",
+        "phone": "+506 6253 6194",
+        "whatsapp": "https://wa.me/50662536194",
+        "email": "millardeavescr@gmail.com"
+      },
+      {
+        "name": "Millar de Aves · второй номер",
+        "source": "camino-stage-11",
+        "note": "По данным Mar a Mar этот контакт работает через WhatsApp. Подтвердите, что входит в ночёвку.",
+        "url": "https://wa.me/50685026574"
+      }
+    ],
+    "galleries": [
+      "guarco-millar-peer-photos",
+      "guarco-millar-owner",
+      "camino-stage-11"
+    ],
+    "nearby": [
+      "guarco-millar-camino-2",
+      "guarco-la-estrella-luchita-hike-24",
+      "palo-verde-cerro-alto"
+    ],
+    "connectStops": false
+  },
+  "guarco-la-estrella-luchita-hike-24": {
+    "stops": [
+      {
+        "point": "guarco-la-estrella-settlement",
+        "role": "Стартовый район · La Estrella",
+        "note": "Авторский старт и последняя точка показаны на внешнем треке."
+      },
+      {
+        "point": "guarco-millar-de-aves-base",
+        "role": "Millar de Aves · ориентир домика",
+        "note": "Палаточную зону и въезд покажут хозяева. На внешних участках ориентируйтесь на назначенное место встречи."
+      },
+      {
+        "point": "camino-gpx-stop-palo-verde",
+        "role": "Пало-Верде · район верхней части",
+        "note": "На связке с официальными этапами берегите запас времени на возврат."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кольцо и статистика",
+        "text": "В апреле 2024 года José Salazar прошёл 24,28 км с набором 1 623 м. Он отмечает участок 11-го этапа и начало 10-го. Время в движении около 5 часов 38 минут. Полный путь и фотографии доступны у автора.",
+        "sources": [
+          "guarco-estrella-hike-2428",
+          "camino-stage-11"
+        ]
+      },
+      {
+        "title": "Дороги и вода",
+        "text": "Наденьте обувь с цепкой подошвой, возьмите воду, дождевик и налобный фонарь. На месте уточните подъезд, ворота и безопасный разворот. В сухую погоду сохраняйте запас воды до возвращения.",
+        "sources": [
+          "guarco-estrella-hike-2428",
+          "guarco-millar-owner"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Millar de Aves · размещение",
+        "source": "camino-stage-11",
+        "note": "Уточните место для наземной палатки, домики, ягодный сезон, питание и состояние подъезда.",
+        "phone": "+506 6253 6194",
+        "whatsapp": "https://wa.me/50662536194",
+        "email": "millardeavescr@gmail.com"
+      },
+      {
+        "name": "Mar a Mar · список местных проводников",
+        "source": "camino-guide",
+        "note": "Контакты проводников и организации сопровождения на El Camino."
+      }
+    ],
+    "track": "guarco-estrella-hike-2428",
+    "galleries": [
+      "guarco-estrella-hike-2428",
+      "camino-stage-11"
+    ],
+    "nearby": [
+      "millar-aves-la-luchita-camp",
+      "guarco-millar-camino-2",
+      "palo-verde-cerro-alto"
+    ],
+    "connectStops": false
+  },
+  "guarco-piedra-luchita-mtb-59": {
+    "stops": [
+      {
+        "point": "guarco-la-estrella-settlement",
+        "role": "La Estrella · один из ориентиров круга",
+        "note": "Пункт записи автора начинается в районе Turbina, Cartago. Посёлок показан как ориентир отдельного отрезка."
+      },
+      {
+        "point": "empalme",
+        "role": "El Empalme · стык с горной дорогой",
+        "note": "На RN2 заранее сверьте знаки, скорость, разрешённый объезд и видимость."
+      },
+      {
+        "point": "guarco-millar-de-aves-base",
+        "role": "Ла-Лучита · хозяйство у местных дорог",
+        "note": "Воду, еду и паузу у хозяев согласуйте до поездки."
+      },
+      {
+        "point": "camino-gpx-stop-palo-verde",
+        "role": "Пало-Верде · ориентир на обратной стороне круга",
+        "note": "GPS маршрута у автора включает дополнительные участки в сторону Cartago."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Варианты и время",
+        "text": "В записи Андреса 59,12 км и 2 245 м набора, примерно 4 часа 53 минуты чистого движения. Вариант марта 2025 года у того же автора длиннее: 63,35 км и 2 526 м. Источники показывают разные круги и собственные фотографии.",
+        "sources": [
+          "guarco-piedra-mtb-5912",
+          "guarco-piedra-mtb-6335"
+        ]
+      },
+      {
+        "title": "На собственном e-MTB",
+        "text": "Проверьте тормоза, шины, цепь и герметик. Возьмите ремнабор, воду и запас питания. Высокий набор быстро расходует заряд. Спланируйте разворот и запас батареи, уточните зарядку на базе.",
+        "sources": [
+          "guarco-piedra-mtb-5912",
+          "guarco-piedra-mtb-6335",
+          "guarco-piedra-local-mtb-video"
+        ]
+      },
+      {
+        "title": "Покрытие и RN2",
+        "text": "Видеодневник показывает участки грунта и спусков. По актуальным знакам сверяйте ограничение для велосипеда на скоростных участках, а при необходимости договоритесь о переносе велосипеда на машине. Проход через закрытые дорожные участки согласовывайте на месте.",
+        "sources": [
+          "guarco-road-rules-bicycle",
+          "guarco-piedra-local-mtb-video"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Millar de Aves · размещение",
+        "source": "camino-stage-11",
+        "note": "Уточните место для наземной палатки, домики, ягодный сезон, питание и состояние подъезда.",
+        "phone": "+506 6253 6194",
+        "whatsapp": "https://wa.me/50662536194",
+        "email": "millardeavescr@gmail.com"
+      }
+    ],
+    "photos": [
+      "guarco-piedra-road-chacon"
+    ],
+    "galleries": [
+      "guarco-piedra-mtb-5912",
+      "guarco-piedra-mtb-6335"
+    ],
+    "videos": [
+      "guarco-piedra-local-mtb-video"
+    ],
+    "track": "guarco-piedra-mtb-5912",
+    "nearby": [
+      "millar-aves-la-luchita-camp",
+      "guarco-la-estrella-luchita-hike-24",
+      "guarco-roof-emtb-trout-2"
+    ],
+    "connectStops": false
+  },
+  "zancudo-coto-sabalo-mangrove-kayak": {
+    "stops": [
+      {
+        "point": "zancudo-public-muelle-point",
+        "role": "Посадка · причал Punta Zancudo",
+        "note": "Причал подтверждён по карте. Конкретное место снаряжения и время сообщит организатор."
+      },
+      {
+        "point": "zancudo-sol-mar-cabinas-point",
+        "role": "Sol y Mar · береговая база",
+        "note": "Отдельный адрес аренды и еды, примерно в другой части береговой полосы. Встречу для тура согласуйте заранее."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два варианта выхода",
+        "text": "Pavones Tours описывает примерно два часа в манграх Кото и Сабало от причала Punta Zancudo. У Arena Alta есть примерно трёхчасовой выход с Энди и Анитой. У второго варианта отдельная точка встречи, о которой сообщает проводник.",
+        "sources": [
+          "zancudo-pavones-tours-kayak",
+          "zancudo-arena-alta-paddles",
+          "zancudo-public-pier-osm"
+        ]
+      },
+      {
+        "title": "По приливу и состоянию воды",
+        "text": "Проводник выбирает рукава и маршрут возвращения. Уточните одиночный или двухместный каяк, размер жилетов, что входит в стоимость и можно ли привезти свой каяк или SUP. У воды держите телефон и вещи в гермомешке.",
+        "sources": [
+          "zancudo-pavones-tours-contact",
+          "zancudo-pavones-tours-kayak",
+          "zancudo-local-osa-2026"
+        ]
+      },
+      {
+        "title": "Где проводить остаток дня",
+        "text": "Морской берег подходит для отдельной прогулки и обеда. Устье и внутренние каналы отличаются течением и крупными дикими животными. В качестве знакомства с местностью можно посмотреть запись местного проезда на лодке.",
+        "sources": [
+          "zancudo-coto-local-video",
+          "zancudo-sol-mar-owner",
+          "zancudo-local-osa-2026"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pavones Tours · гид на Кото",
+        "source": "zancudo-pavones-tours-contact",
+        "note": "Сообщите выбранную программу, опыт, возраст, наличие своего снаряжения и желаемый день.",
+        "phone": "+506 7281 4045",
+        "email": "info@pavonestours.com"
+      },
+      {
+        "name": "Arena Alta · другой выход с проводниками",
+        "source": "zancudo-arena-alta-paddles",
+        "note": "Попросите актуальные даты, правила по своему судну и точку старта трёхчасового тура."
+      },
+      {
+        "name": "Sol y Mar · домики, ресторан и аренда",
+        "source": "zancudo-sol-mar-owner",
+        "note": "Уточните часы, доступные каяки и велосипеды, жилеты для детей и береговой сектор.",
+        "phone": "+506 8464 6221",
+        "email": "dhsolymar@gmail.com"
+      }
+    ],
+    "galleries": [
+      "zancudo-arena-alta-paddles",
+      "zancudo-coastal-local-guide"
+    ],
+    "videos": [
+      "zancudo-coto-local-video"
+    ],
+    "nearby": [
+      "golfito-lagarto-coto-guided-kayak",
+      "zancudo-sol-mar-bikes-and-kayaks",
+      "pavones-zancudo-rooftent-kayak-3"
+    ],
+    "connectStops": false
+  },
+  "golfito-lagarto-coto-guided-kayak": {
+    "stops": [
+      {
+        "point": "golfito-rn2-lagarto-bridge",
+        "role": "Ориентир встречи · мост через Río Lagarto",
+        "note": "Съезд к месту спуска, парковку и береговую высадку подтвердите у проводника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Сплав по течению",
+        "text": "На странице программы указаны мост через Río Lagarto на Межамериканской дороге, около двух с половиной часов на воде, снаряжение и перекус. Проводник подтвердит точку доступа под мостом или рядом с ним и точку финиша.",
+        "sources": [
+          "zancudo-pavones-tours-kayak",
+          "zancudo-lagarto-lanamme-bridge"
+        ]
+      },
+      {
+        "title": "Отдельно от мангрового выхода",
+        "text": "У мангровой программы свой причал в Punta Zancudo и другая длительность. При записи просите речной сплав «Descenso por el Río Coto». Уточните форму возврата к машине.",
+        "sources": [
+          "zancudo-pavones-tours-kayak",
+          "zancudo-pavones-tours-contact"
+        ]
+      },
+      {
+        "title": "Экипировка и уровень",
+        "text": "Возьмите лёгкие вещи, обувь, которая держится на ноге, дождевую защиту и сухой комплект на финиш. Спрашивайте проводника о глубине, допустимом возрасте и текущем уровне воды.",
+        "sources": [
+          "zancudo-pavones-tours-kayak",
+          "zancudo-guaycara-golfito-roads"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pavones Tours · гид на Кото",
+        "source": "zancudo-pavones-tours-contact",
+        "note": "Сообщите выбранную программу, опыт, возраст, наличие своего снаряжения и желаемый день.",
+        "phone": "+506 7281 4045",
+        "email": "info@pavonestours.com"
+      }
+    ],
+    "galleries": [
+      "zancudo-pavones-tours-kayak",
+      "zancudo-coastal-local-guide"
+    ],
+    "videos": [
+      "zancudo-coto-local-video"
+    ],
+    "nearby": [
+      "zancudo-coto-sabalo-mangrove-kayak",
+      "zancudo-sol-mar-bikes-and-kayaks"
+    ],
+    "connectStops": false
+  },
+  "pavones-punta-banco-coastal-bike-16": {
+    "stops": [
+      {
+        "point": "rio-claro-pavones",
+        "role": "Старт и возврат · Рио-Кларо-де-Павонес",
+        "note": "У посёлка есть кафе и контакты местного проката. Проверяйте дорожное движение."
+      },
+      {
+        "point": "punta-banco-tiskita-turn",
+        "role": "Съезд к Тиските",
+        "note": "Оставайтесь на открытой дороге к Пунта-Банко."
+      },
+      {
+        "point": "punta-banco-village",
+        "role": "Пунта-Банко · промежуточный разворот",
+        "note": "Если дорога тяжёлая, вернитесь от деревни и сэкономьте время."
+      },
+      {
+        "point": "rancho-burica-punta-banco-base",
+        "role": "Разворот у Rancho Burica",
+        "note": "Дорога по OSM ведёт к берегу. Закрытые ворота и участки обходят только с разрешения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Где ехать и где вернуться",
+        "text": "Береговая линия на карте даёт 7,96 км в одну сторону между Río Claro и районом Rancho Burica. Круг туда и обратно около 16 км. Покрытие меняется после дождей. Пройдите мокрые и разбитые места пешком или развернитесь в деревне.",
+        "sources": [
+          "osm-cr-points",
+          "pavones-hub-transport",
+          "ict-sur"
+        ]
+      },
+      {
+        "title": "Прокат или свой велосипед",
+        "text": "PavonesCR описывает обычные велосипеды для поездок по берегу. Согласуйте размер, тормоза и часы. Для e-bike планируйте самостоятельный привоз и зарядку. На дороге встречаются машины и мотоциклы, пригодятся свет и заметная одежда.",
+        "sources": [
+          "pavones-local-rental-bikes",
+          "pavones-local-rental-contact",
+          "pavones-pineapple-roof-directory"
+        ]
+      },
+      {
+        "title": "Что добавить",
+        "text": "Пляж Пунта-Банко виден в публикации Playas de Costa Rica. Для спокойного моря, сёрфа или купания сверяйтесь с фактическими условиями и вашим уровнем.",
+        "sources": [
+          "fb-punta-banco-beach-coast",
+          "ict-sur"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "PavonesCR · прокат на месте",
+        "source": "pavones-local-rental-contact",
+        "note": "Спросите обычный велосипед, размер, свет, время возврата и состояние береговой дороги."
+      },
+      {
+        "name": "Pineapple Creek · контакт из Pavones Hub",
+        "source": "pavones-pineapple-hub",
+        "note": "Подтвердите дату, тариф, разные по высоте автомобили и время въезда на площадку.",
+        "phone": "+506 8448 2722",
+        "url": "https://wa.me/50684482722"
+      }
+    ],
+    "photos": [
+      "punta-banco-beach-froukjevd"
+    ],
+    "galleries": [
+      "pavones-local-rental-bikes",
+      "pavones-pineapple-roof-directory"
+    ],
+    "videos": [
+      "fb-punta-banco-beach-coast"
+    ],
+    "line": "pavones-punta-banco-road",
+    "nearby": [
+      "pavones-pineapple-creek-camp",
+      "punta-banco-rancho-tiskita",
+      "pavones-zancudo-rooftent-kayak-3"
+    ]
+  },
+  "zancudo-sol-mar-bikes-and-kayaks": {
+    "stops": [
+      {
+        "point": "zancudo-sol-mar-cabinas-point",
+        "role": "Sol y Mar · береговая база",
+        "note": "Отдельный адрес аренды и еды, примерно в другой части береговой полосы. Встречу для тура согласуйте заранее."
+      },
+      {
+        "point": "zancudo-public-muelle-point",
+        "role": "Посадка · причал Punta Zancudo",
+        "note": "Причал подтверждён по карте. Конкретное место снаряжения и время сообщит организатор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Домики и еда",
+        "text": "На сайте хозяев есть отдельные домики, ресторан и береговая площадка. Сообщите возраст детей и требования к размещению. Для вечернего питания уточните часы и наличие столов.",
+        "sources": [
+          "zancudo-sol-mar-owner",
+          "zancudo-coastal-local-guide"
+        ]
+      },
+      {
+        "title": "Каяк и велосипед из одной базы",
+        "text": "Хозяева публикуют прокат каяков и велосипедов. Сверьте действующее наличие и куда ведёт разрешённый выход. Если везёте свой каяк или SUP, спросите про береговую посадку, парковку и допустимый сектор.",
+        "sources": [
+          "zancudo-sol-mar-owner",
+          "zancudo-local-osa-2026"
+        ]
+      },
+      {
+        "title": "Мангры и местная дорога",
+        "text": "По реке удобен отдельный тур от Muelle de Zancudo. Пляжную часть планируйте по ветру и волне. В дороге оставьте запас на мосты, грунт и вечерний свет.",
+        "sources": [
+          "zancudo-pavones-tours-kayak",
+          "zancudo-public-pier-osm",
+          "zancudo-coastal-local-guide"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Sol y Mar · домики, ресторан и аренда",
+        "source": "zancudo-sol-mar-owner",
+        "note": "Уточните часы, доступные каяки и велосипеды, жилеты для детей и береговой сектор.",
+        "phone": "+506 8464 6221",
+        "email": "dhsolymar@gmail.com"
+      },
+      {
+        "name": "Pavones Tours · гид на Кото",
+        "source": "zancudo-pavones-tours-contact",
+        "note": "Сообщите выбранную программу, опыт, возраст, наличие своего снаряжения и желаемый день.",
+        "phone": "+506 7281 4045",
+        "email": "info@pavonestours.com"
+      }
+    ],
+    "galleries": [
+      "zancudo-sol-mar-owner",
+      "zancudo-coastal-local-guide"
+    ],
+    "videos": [
+      "zancudo-coto-local-video"
+    ],
+    "nearby": [
+      "zancudo-coto-sabalo-mangrove-kayak",
+      "pavones-zancudo-rooftent-kayak-3"
+    ],
+    "connectStops": false
+  },
+  "guarco-millar-camino-2": {
+    "stops": [
+      {
+        "point": "camino-gpx-stop-palo-verde",
+        "role": "Пало-Верде · возможное начало этапа 11",
+        "note": "Полный этап подходит подготовленной группе."
+      },
+      {
+        "point": "guarco-millar-de-aves-base",
+        "role": "Millar de Aves · ориентир домика",
+        "note": "Палаточную зону и въезд покажут хозяева. На внешних участках ориентируйтесь на назначенное место встречи."
+      },
+      {
+        "point": "camino-gpx-stop-cerro-alto",
+        "role": "Серро-Альто · финиш этапа 11",
+        "note": "Машину на финише бронируйте у местного проводника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Семейный темп и быт",
+        "text": "Оставьте первый день на размещение и короткую тропу у хозяев. Семьям можно выбрать прогулку за птицами и сезонный показ хозяйства. Для сложного дня нужна отдельная подготовка.",
+        "sources": [
+          "guarco-millar-owner",
+          "guarco-millar-blackberry-field"
+        ]
+      },
+      {
+        "title": "Ходьба и трансфер",
+        "text": "На карте отмечена официальная запись этапа до Серро-Альто и отдельно размещение. Сообщите, какие остановки и возврат нужны. Упакуйте воду, тёплый слой и небольшой набор для первой помощи.",
+        "sources": [
+          "camino-stage-11",
+          "camino-maram-gpx-library"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Millar de Aves · размещение",
+        "source": "camino-stage-11",
+        "note": "Уточните место для наземной палатки, домики, ягодный сезон, питание и состояние подъезда.",
+        "phone": "+506 6253 6194",
+        "whatsapp": "https://wa.me/50662536194",
+        "email": "millardeavescr@gmail.com"
+      },
+      {
+        "name": "Millar de Aves · второй номер",
+        "source": "camino-stage-11",
+        "note": "По данным Mar a Mar этот контакт работает через WhatsApp. Подтвердите, что входит в ночёвку.",
+        "url": "https://wa.me/50685026574"
+      },
+      {
+        "name": "Mar a Mar · список местных проводников",
+        "source": "camino-guide",
+        "note": "Контакты проводников и организации сопровождения на El Camino."
+      }
+    ],
+    "galleries": [
+      "guarco-millar-peer-photos",
+      "camino-stage-11"
+    ],
+    "line": "camino-gpx-11",
+    "track": "camino-stage-11",
+    "nearby": [
+      "millar-aves-la-luchita-camp",
+      "guarco-la-estrella-luchita-hike-24",
+      "palo-verde-cerro-alto"
+    ]
+  },
+  "guarco-roof-emtb-trout-2": {
+    "stops": [
+      {
+        "point": "truchas-selva-madre-local",
+        "role": "День 1 · рыбалка и автокемпинг",
+        "note": "Ночёвка с крышной палаткой по записи. Возможность зарядки согласуйте."
+      },
+      {
+        "point": "guarco-la-estrella-settlement",
+        "role": "La Estrella · один из ориентиров круга",
+        "note": "Пункт записи автора начинается в районе Turbina, Cartago. Посёлок показан как ориентир отдельного отрезка."
+      },
+      {
+        "point": "empalme",
+        "role": "El Empalme · стык с горной дорогой",
+        "note": "На RN2 заранее сверьте знаки, скорость, разрешённый объезд и видимость."
+      },
+      {
+        "point": "guarco-millar-de-aves-base",
+        "role": "Ла-Лучита · хозяйство у местных дорог",
+        "note": "Воду, еду и паузу у хозяев согласуйте до поездки."
+      },
+      {
+        "point": "camino-gpx-stop-palo-verde",
+        "role": "Пало-Верде · ориентир на обратной стороне круга",
+        "note": "GPS маршрута у автора включает дополнительные участки в сторону Cartago."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Первая ночь на высоте",
+        "text": "Справочник разрешает крышные палатки у Selva Madre. Проверьте место лестницы, туалет, температуру и воду. Возьмите сухие вещи после рыбалки и тёплый спальный комплект.",
+        "sources": [
+          "selva-madre-roof-camp",
+          "selva-madre-point-and-reviews",
+          "guarco-selva-trout-visitor-video"
+        ]
+      },
+      {
+        "title": "Зарядка, стыковка и маршрут",
+        "text": "Переезд от кемпинга к старту на машине. Круг вокруг Эль-Гуарко берите из записи Андреса. Езжайте с заряженной батареей и планом сократить маршрут. При необходимости организуйте подхват машины на дальнем отрезке.",
+        "sources": [
+          "guarco-piedra-mtb-5912",
+          "guarco-piedra-mtb-6335",
+          "guarco-road-rules-bicycle"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Truchas Selva Madre · площадка и рыбалка",
+        "source": "selva-madre-local-contact",
+        "note": "Согласуйте размеры автомобиля, время закрытия, кухню и возможность зарядить батарею.",
+        "phone": "+506 8593 5875"
+      },
+      {
+        "name": "Millar de Aves · размещение",
+        "source": "camino-stage-11",
+        "note": "Уточните место для наземной палатки, домики, ягодный сезон, питание и состояние подъезда.",
+        "phone": "+506 6253 6194",
+        "whatsapp": "https://wa.me/50662536194",
+        "email": "millardeavescr@gmail.com"
+      }
+    ],
+    "photos": [
+      "guarco-piedra-road-chacon"
+    ],
+    "galleries": [
+      "selva-madre-roof-camp",
+      "guarco-piedra-mtb-5912"
+    ],
+    "videos": [
+      "guarco-selva-trout-visitor-video",
+      "guarco-piedra-local-mtb-video"
+    ],
+    "track": "guarco-piedra-mtb-5912",
+    "nearby": [
+      "selva-madre-rooftent-trout",
+      "guarco-piedra-luchita-mtb-59",
+      "millar-aves-la-luchita-camp"
+    ],
+    "connectStops": false
+  },
+  "pavones-zancudo-rooftent-kayak-3": {
+    "stops": [
+      {
+        "point": "pavones-pineapple-camp-pin",
+        "role": "Дни 1–2 · кемпинг Pineapple Creek",
+        "note": "Договоритесь о крышной палатке, ширине места, лестнице, тарифе и времени въезда."
+      },
+      {
+        "point": "rio-claro-pavones",
+        "role": "Старт и возврат · Рио-Кларо-де-Павонес",
+        "note": "У посёлка есть кафе и контакты местного проката. Проверяйте дорожное движение."
+      },
+      {
+        "point": "punta-banco-tiskita-turn",
+        "role": "Съезд к Тиските",
+        "note": "Оставайтесь на открытой дороге к Пунта-Банко."
+      },
+      {
+        "point": "punta-banco-village",
+        "role": "Пунта-Банко · промежуточный разворот",
+        "note": "Если дорога тяжёлая, вернитесь от деревни и сэкономьте время."
+      },
+      {
+        "point": "rancho-burica-punta-banco-base",
+        "role": "Разворот у Rancho Burica",
+        "note": "Дорога по OSM ведёт к берегу. Закрытые ворота и участки обходят только с разрешения."
+      },
+      {
+        "point": "pavones-conte-rn611-pass",
+        "role": "День 3 · дорога через Conte",
+        "note": "Маршрут ведёт по открытой дорожной сети и пересекает известный мост. Состояние уточняйте на день выезда."
+      },
+      {
+        "point": "zancudo-sol-mar-cabinas-point",
+        "role": "Sol y Mar · береговая база",
+        "note": "Отдельный адрес аренды и еды, примерно в другой части береговой полосы. Встречу для тура согласуйте заранее."
+      },
+      {
+        "point": "zancudo-public-muelle-point",
+        "role": "Посадка · причал Punta Zancudo",
+        "note": "Причал подтверждён по карте. Конкретное место снаряжения и время сообщит организатор."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Крышная палатка и прибытие",
+        "text": "Costa Rica Camping Guide относит Pineapple Creek к площадкам для крышных палаток, обычных палаток и караванов. У справочников разные контакты, подтвердите название площадки, время и стоимость у отвечающего хозяина.",
+        "sources": [
+          "pavones-pineapple-roof-directory",
+          "pavones-pineapple-hub",
+          "pavones-pineapple-camper-photos"
+        ]
+      },
+      {
+        "title": "План по воде и велосипедам",
+        "text": "Короткий береговой велодень в Павонесе и отдельный выход в мангры от Санкудо. Прокат и тарифы узнавайте по двум отдельным контактам. Собственный каяк и перенос на берег согласовывают с проводником.",
+        "sources": [
+          "pavones-local-rental-bikes",
+          "zancudo-pavones-tours-kayak",
+          "zancudo-sol-mar-owner"
+        ]
+      },
+      {
+        "title": "Запасной сценарий",
+        "text": "На случай размыва, позднего выезда или невозможности сесть на лодку можно остаться у берега в Sol y Mar и пройтись или взять велосипед. В мангры выходите по подтверждённой программе.",
+        "sources": [
+          "zancudo-sol-mar-owner",
+          "zancudo-coastal-local-guide",
+          "zancudo-guaycara-golfito-roads"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pineapple Creek · контакт из Pavones Hub",
+        "source": "pavones-pineapple-hub",
+        "note": "Подтвердите дату, тариф, разные по высоте автомобили и время въезда на площадку.",
+        "phone": "+506 8448 2722",
+        "url": "https://wa.me/50684482722"
+      },
+      {
+        "name": "Pineapple Creek · телефон из Camping Guide",
+        "source": "pavones-pineapple-roof-directory",
+        "note": "В разных справочниках опубликованы разные номера. Сверьте у ответившего адрес и название кемпинга.",
+        "url": "https://wa.me/50686960441"
+      },
+      {
+        "name": "PavonesCR · прокат на месте",
+        "source": "pavones-local-rental-contact",
+        "note": "Спросите обычный велосипед, размер, свет, время возврата и состояние береговой дороги."
+      },
+      {
+        "name": "Pavones Tours · гид на Кото",
+        "source": "zancudo-pavones-tours-contact",
+        "note": "Сообщите выбранную программу, опыт, возраст, наличие своего снаряжения и желаемый день.",
+        "phone": "+506 7281 4045",
+        "email": "info@pavonestours.com"
+      },
+      {
+        "name": "Sol y Mar · домики, ресторан и аренда",
+        "source": "zancudo-sol-mar-owner",
+        "note": "Уточните часы, доступные каяки и велосипеды, жилеты для детей и береговой сектор.",
+        "phone": "+506 8464 6221",
+        "email": "dhsolymar@gmail.com"
+      }
+    ],
+    "photos": [
+      "punta-banco-beach-froukjevd"
+    ],
+    "galleries": [
+      "pavones-pineapple-roof-directory",
+      "zancudo-sol-mar-owner",
+      "zancudo-arena-alta-paddles"
+    ],
+    "videos": [
+      "fb-punta-banco-beach-coast",
+      "zancudo-coto-local-video"
+    ],
+    "nearby": [
+      "pavones-punta-banco-coastal-bike-16",
+      "zancudo-coto-sabalo-mangrove-kayak",
+      "zancudo-sol-mar-bikes-and-kayaks",
+      "pavones-pineapple-creek-camp"
+    ],
+    "line": "pavones-conte-zancudo-land-route"
+  },
+  "danta-pitahayas-own-sea-kayak": {
+    "stops": [
+      {
+        "point": "pura-vida-ride",
+        "role": "Разгрузка и прокат · Pura Vida Ride",
+        "note": "Путь с парковки и размещение лодки согласуйте у команды."
+      },
+      {
+        "point": "playa-danta",
+        "role": "Береговой спуск · Playa Danta",
+        "note": "Проводник или местная команда подскажет безопасный участок в выбранный прилив."
+      },
+      {
+        "point": "pitahayas-islet-osm",
+        "role": "Ориентир · островки Питайяс",
+        "note": "Метка островков, вокруг которых проходит морская часть при подходящих условиях."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Со своим морским каяком",
+        "text": "Las Catalinas Doorway разрешает привезти свой каяк. У команды можно также взять лодку и гида. Заранее выясните правила парковки и переноски по посёлку.",
+        "sources": [
+          "danta-doorway-kayak-spanish",
+          "danta-doorway-own-kayak",
+          "catalinas-contact"
+        ]
+      },
+      {
+        "title": "Выход за пределы короткой бухты",
+        "text": "У островков открытая вода. Отталкивайтесь от фактического прогноза ветра, волнения и прилива. Согласуйте групповое возвращение и береговую альтернативу. Точки помогают спланировать направление, а конкретный курс выбирают на месте.",
+        "sources": [
+          "danta-pitahayas-islets-map",
+          "danta-doorway-kayak-spanish",
+          "imn-tides-table",
+          "mio-cimar-sea"
+        ]
+      },
+      {
+        "title": "Экипировка",
+        "text": "Подберите мореходный каяк, индивидуальный жилет, средство связи, запасной гребок и сухой комплект. На первый выход в районе запишитесь к местному проводнику.",
+        "sources": [
+          "danta-kayak-operator-gallery",
+          "catalinas-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Pura Vida Ride · прокат и спуск",
+        "source": "catalinas-contact",
+        "note": "Попросите подтвердить переноску своей лодки и состояние выхода к островкам."
+      }
+    ],
+    "galleries": [
+      "danta-doorway-kayak-spanish",
+      "danta-kayak-operator-gallery"
+    ],
+    "videos": [
+      "fb-playas-dantita-field"
+    ],
+    "nearby": [
+      "danta-dantita-own-kayak",
+      "dantita-shore-walk",
+      "flamingo-catalinas-water-2"
+    ],
+    "connectStops": false
+  }
+}

@@ -64,9 +64,10 @@
     ],
     "sections": [
       {
-        "title": "Стоянка, навес и интернет",
-        "text": "По местному справочнику есть туалеты и Wi-Fi. Для машины и семейной группы уточните ширину места, душ, розетку и источник питьевой воды.",
+        "title": "Крышная палатка, душ и зарядка",
+        "text": "Costa Rica Camping Guide перечисляет места под наземные и крышные палатки и караваны. В источниках описаны туалеты, душ и электричество. У хозяина подтвердите место для лестницы, ширину автомобиля, питьевую воду и доступ к розетке.",
         "sources": [
+          "pavones-pineapple-roof-directory",
           "pavones-pineapple-hub",
           "pavones-pineapple-camper-photos"
         ]
@@ -79,6 +80,15 @@
           "ict-sur",
           "pavones-hub-transport"
         ]
+      },
+      {
+        "title": "Заселение и расхождение источников",
+        "text": "Costa Rica Camping Guide публикует платную ночёвку и иной телефон, чем у Pavones Hub. Уточните, что отвечает хозяин именно Pineapple Creek в Павонесе, сверьте текущую цену и схему въезда.",
+        "sources": [
+          "pavones-pineapple-roof-directory",
+          "pavones-pineapple-hub",
+          "pavones-pineapple-pitchup-coords"
+        ]
       }
     ],
     "contacts": [
@@ -88,18 +98,35 @@
         "note": "Наличие места, выезд к лагерю и условия размещения машины.",
         "phone": "+506 8448 2722",
         "url": "https://wa.me/50684482722"
+      },
+      {
+        "name": "Pineapple Creek · контакт из Camping Guide",
+        "source": "pavones-pineapple-roof-directory",
+        "note": "Сверьте название места, дату, адрес, тариф и конкретную площадку под крышную палатку.",
+        "url": "https://wa.me/50686960441"
       }
     ],
     "track": "pavones-pineapple-hub",
     "nearby": [
       "pavones",
-      "punta-banco-rancho-tiskita"
+      "punta-banco-rancho-tiskita",
+      "pavones-punta-banco-coastal-bike-16",
+      "pavones-zancudo-rooftent-kayak-3"
     ],
     "galleries": [
       "pavones-pineapple-pitchup-coords",
-      "pavones-pineapple-camper-photos"
+      "pavones-pineapple-camper-photos",
+      "pavones-pineapple-roof-directory"
     ],
-    "connectStops": false
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Место для автомобиля подтверждают хозяева",
+      "text": "Уточните доступ к площадке, высоту машины с палаткой, время въезда и актуальную цену. Разные справочники дают разные контактные номера.",
+      "sources": [
+        "pavones-pineapple-roof-directory",
+        "pavones-pineapple-hub"
+      ]
+    }
   },
   "cabuya-fernando-morales-camp": {
     "stops": [

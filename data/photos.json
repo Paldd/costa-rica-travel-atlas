@@ -2234,5 +2234,23 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:ASTOP_headquarters.JPG",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "punta-banco-beach-froukjevd": {
+    "file": "punta-banco-beach.jpg",
+    "alt": "Закат на пляже Пунта-Банко и тёмные пальмы у берега",
+    "caption": "Пляж Пунта-Банко · закат, 2017",
+    "author": "Froukjevd",
+    "license": "CC BY-SA 4.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Beachview_in_Punta_Banco,_Costa_Rica.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "guarco-piedra-road-chacon": {
+    "file": "guarco-piedra-road.jpg",
+    "alt": "Велосипедист на грунтовой дороге к Ла-Пьедра-дель-Гуарко",
+    "caption": "Дорога к Ла-Пьедра-дель-Гуарко · фотография 2013 года",
+    "author": "Gabriel P Chacon",
+    "license": "CC BY-SA 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Camino_a_La_piedra_del_Guaco.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
   }
 }
