@@ -1,6 +1,6 @@
 {
-  "archives": 155,
-  "archivesRead": 152,
+  "archives": 158,
+  "archivesRead": 155,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -452,37 +452,62 @@
       "indexed": 30,
       "pages": [
         {
-          "checked": "2026-11-23",
+          "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "Horseback Riding - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/horsebackriding/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "GUAITÍL POTTERY AND CULTURE TOUR - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/guaitil-potterytour/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "GUACHIPELÍN DAY TRIP - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/guachipelin-day-trip/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Dolphin, Whales, & Snorkeling - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/dolphinandsnorkelingtour/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "COFFEE TOUR - Carrillo Tours",
+          "url": "https://carrillotours.com/tour-item/coffetour/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Carrillo Sea Turtle Tour - Samara and Carrillo - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/tourtletour/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Carrillo Night Adventure - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/carrillo-night-adventure/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Belén Waterfall Tour - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/belen-waterfall/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "BARRA HONDA NATIONAL PARK - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/barra-honda-national-park/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Arenal Volcano Day Trip - Carrillo Tours",
           "url": "https://carrillotours.com/tour-item/arenalvolcano/"
         }
       ],
-      "read": 5
+      "read": 10
     },
     "casa-luna-own-forest-trail": {
       "indexed": 2,
@@ -1017,37 +1042,62 @@
       "indexed": 83,
       "pages": [
         {
-          "checked": "2026-11-23",
+          "checked": "2026-11-24",
           "readThisRun": true,
+          "title": "World’s largest container line rerouts to avoid collisions with endangered blue whales near Sri Lanka – NewsWire",
+          "url": "https://divinedolphin.com/blog/2022/09/27/worlds-largest-container-line-rerouts-to-avoid-collisions-with-endangered-blue-whales-near-sri-lanka-newswire/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Whales Consume Three Million Microplastics Per Day, New Study Finds – One Green Planet",
+          "url": "https://divinedolphin.com/blog/2023/04/22/whales-consume-three-million-microplastics-per-day-new-study-finds-one-green-planet/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Whale sighting in Australia hints at ‘extremely unusual’ interspecies adoption",
+          "url": "https://divinedolphin.com/blog/2022/11/09/whale-sighting-in-australia-hints-at-extremely-unusual-interspecies-adoption/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Scientists observed humpback whales swimming as far as 3,700 miles to mate, much further than previously thought",
+          "url": "https://divinedolphin.com/blog/2022/03/01/scientists-observed-humpback-whales-swimming-as-far-as-3700-miles-to-mate-much-further-than-previously-thought-2/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Protecting Blue Corridors — WWF Protecting Whales & Dolphins Initiative",
+          "url": "https://divinedolphin.com/blog/2022/03/01/protecting-blue-corridors-wwf-protecting-whales-dolphins-initiative/"
+        },
+        {
+          "checked": "2026-11-23",
           "title": "Whale song mystery solved by scientists",
           "url": "https://divinedolphin.com/blog/2024/02/25/whale-song-mystery-solved-by-scientists/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Humpback whales are organizing in huge numbers, and no one knows why",
           "url": "https://divinedolphin.com/blog/2024/05/18/humpback-whales-are-organizing-in-huge-numbers-and-no-one-knows-why/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "How Whales Could Help Us Speak to Aliens",
           "url": "https://divinedolphin.com/blog/2024/05/18/how-whales-could-help-us-speak-to-aliens/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Dolphins learn the ‘names’ of their friends to form teams—a first in animal kingdom | Science | AAAS",
           "url": "https://divinedolphin.com/blog/2023/08/09/dolphins-learn-the-names-of-their-friends-to-form-teams-a-first-in-animal-kingdom-science-aaas/"
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Dolphin mothers use ‘baby talk’ with their calves, recordings show",
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 5
+      "read": 10
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -1475,6 +1525,21 @@
       ],
       "read": 2
     },
+    "nov24-los-congos-owner": {
+      "indexed": 0,
+      "pages": [],
+      "read": 0
+    },
+    "nov24-poc-pacuare-sections": {
+      "indexed": 0,
+      "pages": [],
+      "read": 0
+    },
+    "nov24-travesias-inflatable-kayak": {
+      "indexed": 0,
+      "pages": [],
+      "read": 0
+    },
     "osa-adventure-air-sirena-program": {
       "indexed": 3,
       "pages": [
@@ -1786,6 +1851,41 @@
     "publisher-adondeircr-guanacaste": {
       "indexed": 207,
       "pages": [
+        {
+          "checked": "2026-11-24",
+          "published": "2020-08-14",
+          "readThisRun": true,
+          "title": "¿Qué hacer si visitas Santa Teresa?",
+          "url": "https://adondeircr.com/puntarenas/que-hacer-si-visitas-santa-teresa/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-08-13",
+          "readThisRun": true,
+          "title": "Playa Zapotillal (Minas)",
+          "url": "https://adondeircr.com/heredia/playa-zapotillal-minas/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-08-13",
+          "readThisRun": true,
+          "title": "La Fortuna y Volcán Arenal, aventura y naturaleza",
+          "url": "https://adondeircr.com/alajuela/la-fortuna-y-volcan-arenal-aventura-y-naturaleza/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-08-13",
+          "readThisRun": true,
+          "title": "Dos lugares para caminar y enamorarse de San Rafael de Heredia",
+          "url": "https://adondeircr.com/heredia/dos-lugares-para-caminar-y-enamorarse-de-san-rafael-de-heredia/?c1"
+        },
+        {
+          "checked": "2026-11-24",
+          "published": "2020-08-13",
+          "readThisRun": true,
+          "title": "Conozca playa San Juanillo, un paraíso escondido",
+          "url": "https://adondeircr.com/alajuela/conozca-playa-san-juanillo-un-paraiso-escondido/?c1"
+        },
         {
           "checked": "2026-11-23",
           "published": "2023-04-05",
@@ -2461,14 +2561,12 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-17",
-          "readThisRun": true,
           "title": "Más de 70 mil tortugas han sido liberadas en el país",
           "url": "https://adondeircr.com/limon/mas-de-70-mil-tortugas-han-sido-liberadas-en-el-pais/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-17",
-          "readThisRun": true,
           "title": "Hoy es feriado, pero la restricción vehicular continúa en todo el país",
           "url": "https://adondeircr.com/san-jose/hoy-es-feriado-pero-la-restriccion-vehicular-continua-en-todo-el-pais/?c1"
         },
@@ -2481,21 +2579,18 @@
         {
           "checked": "2026-11-23",
           "published": "2020-08-17",
-          "readThisRun": true,
           "title": "COVID-19: Hoy se reportan 619 casos nuevos y 10 fallecimientos",
           "url": "https://adondeircr.com/san-jose/covid-19-hoy-se-reportan-619-casos-nuevos-y-10-fallecimientos/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-14",
-          "readThisRun": true,
           "title": "Las 5 mejores playas de Limón",
           "url": "https://adondeircr.com/limon/las-5-mejores-playas-de-limon/?c1"
         },
         {
           "checked": "2026-11-23",
           "published": "2020-08-14",
-          "readThisRun": true,
           "title": "La espectacular Laguna Don Manuel",
           "url": "https://adondeircr.com/san-jose/la-espectacular-laguna-don-manuel/?c1"
         },
@@ -2800,7 +2895,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 168
+      "read": 173
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -5086,6 +5181,36 @@
       "indexed": 175,
       "pages": [
         {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Restaurante Flotante de Isla Venado: Golfo de Nicoya - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/restaurante-flotante-de-isla-venado-golfo-de-nicoya/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Playa Minas: un destino para desconectarse - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-minas-un-destino-para-desconectarse/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Parque del Viento: Aire fresco y vistas panorámicas desde el Cerro Tovar en Tilarán - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/parque-del-viento-aire-fresco-y-vistas-panoramicas-desde-el-cerro-tovar-en-tilaran/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "Mirador Nacaome: un paraíso escénico en Guanacaste - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/mirador-nacaome-un-paraiso-escenico-en-guanacaste/"
+        },
+        {
+          "checked": "2026-11-24",
+          "readThisRun": true,
+          "title": "9 Islas del Golfo de Nicoya - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/9-islas-del-golfo-de-nicoya/"
+        },
+        {
           "checked": "2026-11-23",
           "title": "¿Vamos a Turistear a playa Muertos?",
           "url": "https://vamosaturistear.com/actividades/vamos-a-turistear-a-playa-muertos/"
@@ -5197,7 +5322,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Turismo inclusivo en Costa Rica: explorá más áreas protegidas accesibles - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/turismo-inclusivo-en-costa-rica-explora-mas-areas-protegidas-accesibles/"
         },
@@ -5263,7 +5387,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Refugio de Vida Silvestre La Marta: un tesoro escondido en Cartago - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/refugio-de-vida-silvestre-la-marta-un-tesoro-escondida-en-cartago/"
         },
@@ -5549,7 +5672,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "Descubrí 5 destinos para disfrutar el avistamiento de aves - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/descubri-5-destinos-para-disfrutar-el-avistamiento-de-aves/"
         },
@@ -5690,7 +5812,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "6 lugares mágicos para ver atardeceres en Costa Rica - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/6-lugares-magicos-para-ver-atardeceres-en-costa-rica/"
         },
@@ -5701,7 +5822,6 @@
         },
         {
           "checked": "2026-11-23",
-          "readThisRun": true,
           "title": "5 Tours perfectos en Costa Rica para adultos mayores - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/5-tours-perfectos-en-costa-rica-para-adultos-mayores/"
         },
@@ -5792,11 +5912,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Restaurante Flotante de Isla Venado: Golfo de Nicoya - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/restaurante-flotante-de-isla-venado-golfo-de-nicoya/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Reserva Natural Montaña Sagrada: senderos, laguna y biodiversidad - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/reserva-natural-montana-sagrada-senderos-laguna-y-biodiversidad/"
         },
@@ -5804,11 +5919,6 @@
           "checked": "2026-11-21",
           "title": "Playa Piedra Colorada: un rincón mágico en Montezuma - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-piedra-colorada-un-rincon-magico-en-montezuma/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "Playa Minas: un destino para desconectarse - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/playa-minas-un-destino-para-desconectarse/"
         },
         {
           "checked": "2026-11-21",
@@ -5827,11 +5937,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Parque del Viento: Aire fresco y vistas panorámicas desde el Cerro Tovar en Tilarán - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/parque-del-viento-aire-fresco-y-vistas-panoramicas-desde-el-cerro-tovar-en-tilaran/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Museo de Ciencias Naturales La Salle: una aventura educativa en San José - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/museo-de-ciencias-naturales-la-salle-una-aventura-educativa-en-san-jose/"
         },
@@ -5842,11 +5947,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "Mirador Nacaome: un paraíso escénico en Guanacaste - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/mirador-nacaome-un-paraiso-escenico-en-guanacaste/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "Isla Damas: aventuranatural entre manglares y canales - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/isla-damas-aventuranatural-entre-manglares-y-canales/"
         },
@@ -5854,11 +5954,6 @@
           "checked": "2026-11-21",
           "title": "Catarata Morpho Azul: Un paseo en medio de la naturaleza de Upala - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-morpho-azul-un-paseo-en-medio-de-la-naturaleza-de-upala/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "9 Islas del Golfo de Nicoya - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/9-islas-del-golfo-de-nicoya/"
         },
         {
           "checked": "2026-11-21",
@@ -7501,7 +7596,7 @@
       "read": 12
     }
   },
-  "dayUtc": "2026-11-23",
+  "dayUtc": "2026-11-24",
   "history": true,
   "nativeCandidates": [
     {
@@ -8184,8 +8279,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 30,
+  "pagesChecked": 26,
   "pagesRead": 20,
-  "pagesReadToDate": 1228,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45288635603"
+  "pagesReadToDate": 1243,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45299026767"
 }
