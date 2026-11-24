@@ -8,11 +8,11 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urlsplit
 
-from build_catalog import DATA, read_records
+from build_catalog import DATA, POST_FIELDS, read_records, read_sources, read_table
 from import_social import normalized, recurring_names
 
 
-INSTAGRAM_LINK = re.compile(r"/(?:p|reel|reels|tv)/([A-Za-z0-9_-]{7,16})(?:/embed)?/?$")
+INSTAGRAM_LINK = re.compile(r"/(?:[A-Za-z0-9_.]+/)?(?:p|reel|reels|tv)/([A-Za-z0-9_-]{7,16})(?:/embed)?/?$")
 PLACE_NAME = re.compile(
     r"\b(?i:cataratas?|finca|cerro|playa|sendero|mirador|laguna|pozas?|río|bahía|reserva|camping|parque nacional)"
     r"\s+(?:(?:de\s+(?:la\s+|los\s+|las\s+)?|del\s+|[Ll]a\s+|[Ll]os\s+|[Ll]as\s+|[Ee]l\s+))?"
@@ -130,10 +130,11 @@ def main():
     parser.add_argument("--sample", type=Path, help="Local public profile sample used by import_social.py")
     parser.add_argument("--instagram", type=Path, action="append", default=[], help="JSON export from Instagram Post Scraper")
     parser.add_argument("--facebook", type=Path, action="append", default=[], help="JSON export from Facebook Posts Scraper")
+    parser.add_argument("--embeds", type=Path, help="Local caption report from read_native_embeds.py")
     parser.add_argument("--out", type=Path, required=True)
     args = parser.parse_args()
-    if not (args.sample or args.instagram or args.facebook):
-        parser.error("Supply a source via --sample, --instagram or --facebook")
+    if not (args.sample or args.instagram or args.facebook or args.embeds):
+        parser.error("Supply a source via --sample, --instagram, --facebook or --embeds")
 
     profiles = read_json(DATA / "social-coverage.json")["profiles"]
     profile_index = {(p["platform"], profile_key(p["url"], p["platform"])): p["url"] for p in profiles}
@@ -180,6 +181,29 @@ def main():
     for platform, paths in (("Instagram", args.instagram), ("Facebook", args.facebook)):
         for row in input_rows(paths, platform):
             add(platform, *row)
+
+    if args.embeds:
+        registered = {}
+        known_sources = {row["id"]: row["url"] for row in read_sources()}
+        platform_by_profile = {profile["url"]: profile["platform"] for profile in profiles}
+        for receipt in read_table(DATA / "public-posts.tsv", POST_FIELDS):
+            platform = platform_by_profile[receipt["profile"]]
+            if resolved := publication(known_sources[receipt["source"]], platform):
+                registered[platform, resolved[0]] = receipt["profile"]
+
+        for item in read_json(args.embeds)["items"]:
+            if item["status"] != "read":
+                continue
+            platform = item["platform"]
+            profile = profile_index.get((platform, item.get("owner")))
+            if profile is None and (resolved := publication(item["url"], platform)):
+                profile = registered.get((platform, resolved[0]))
+            if profile is None:
+                collaborators = [profile_index[platform, key] for key in item.get("collaborators", [])
+                                 if (platform, key) in profile_index]
+                if len(collaborators) == 1:
+                    profile = collaborators[0]
+            add(platform, [profile], item["url"], item["caption"], item.get("published"))
 
     records = list(read_records())
     by_name = defaultdict(set)

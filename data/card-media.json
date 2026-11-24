@@ -1,7 +1,8 @@
 {
   "aranjuez-encanto": {
     "galleries": [
-      "encanto-municipal"
+      "encanto-municipal",
+      "ig-mochilera-aranjuez"
     ]
   },
   "arenal-pack": {
@@ -915,11 +916,14 @@
   "la-marta": {
     "galleries": [
       "media-qbl-la-marta",
-      "lamarta-qbl"
+      "lamarta-qbl",
+      "la-marta-official-covered-camping",
+      "la-marta-vamos-weekend-field-visit"
     ],
     "videos": [
       "media-la-marta-visit",
-      "film-379-pejibaye-la-marta-qbl"
+      "film-379-pejibaye-la-marta-qbl",
+      "la-marta-viajemosticos-forest-film"
     ],
     "photos": [
       "rio-gato-la-marta-commons"
@@ -928,7 +932,9 @@
   "la-marta-mina": {
     "galleries": [
       "media-qbl-la-marta",
-      "lamarta-qbl"
+      "lamarta-qbl",
+      "la-marta-official-inner-trails-map",
+      "la-marta-vamos-weekend-field-visit"
     ],
     "videos": [
       "media-la-marta-visit",
@@ -2681,6 +2687,9 @@
   "toro-gemelas-fantasticas-10": {
     "videos": [
       "bajos-toro-las-gemelas-qbl-video"
+    ],
+    "galleries": [
+      "ig-read-widget-cd-7ohtpe8y"
     ]
   },
   "upala-morpho-waterfall-mirador": {
@@ -3210,6 +3219,56 @@
   "sierpe-estero-azul-kayak": {
     "photos": [
       "sierpe-river-mangroves-field"
+    ]
+  },
+  "dota-kawalulu-cabin": {
+    "videos": [
+      "fb-adonde-kawalulu-source"
+    ]
+  },
+  "pocora-dos-novillos-guided-falls": {
+    "galleries": [
+      "fb-adonde-novillos-source"
+    ]
+  },
+  "bella-vista-chindama-guided-16": {
+    "videos": [
+      "fb-adonde-chindama-source"
+    ]
+  },
+  "bajos-finca-dos-rios-cascades": {
+    "videos": [
+      "fb-adonde-finca-dos-rios-source"
+    ]
+  },
+  "sanramon-capilla-ambar-coffee": {
+    "videos": [
+      "fb-adonde-capilla-ambar-source"
+    ]
+  },
+  "samara": {
+    "videos": [
+      "ig-toptravel-collab-dfv4-zqtkhw"
+    ]
+  },
+  "cano-island": {
+    "galleries": [
+      "ig-read-widget-cefc0wujucj"
+    ]
+  },
+  "puerto-viejo-paradise-caribbean": {
+    "galleries": [
+      "ig-read-widget-cq5-u7dt9ha"
+    ]
+  },
+  "san-pablo-las-mercedes-roof": {
+    "galleries": [
+      "ig-qbl-las-mercedes"
+    ]
+  },
+  "golfo-dulce-rescate-conservation-course": {
+    "galleries": [
+      "ig-read-widget-df-sptnvluu"
     ]
   }
 }

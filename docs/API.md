@@ -279,3 +279,14 @@ python3 scripts/review_social_posts.py \
 Из пяти ранее непокрытых страниц Facebook открыты прямые оригиналы Montaña de Fuego, Catarata Llanos de Cortés, Casa Luna, The Springs и Parador. Для действующих условий в карточках использованы страницы владельцев и муниципального проекта. Старое рекламное предложение Casa Luna сохранено как архивное упоминание. Гостевой просмотр Instagram снова показал заголовки Vista Los Sueños и Hotel Punta Islita. У Top Travel доступны рекомендованные ролики других издателей. [Реестр оригиналов](../data/public-posts.tsv) · [Источники карточек](../data/sources-water-and-family-evening-nov23.tsv)
 
 В обход добавлены отдельные программы Casa Luna и QVA при Parador. Дневной пропуск и тюбинг The Springs добавлены к текущему разделу Club Río. Отдельно отслеживаются условия Las Catalinas для каяков и проката. На странице владельца есть прямое указание на возможность привезти свою каячную экипировку. [Каяк в Лас-Каталинас](https://www.lascatalinasdoorway.com/en/explore-the-magic-of-las-catalinas/kayaking) · [Реестр обхода](../data/feeds.json)
+
+## Подписи отдельных публикаций Meta
+
+В проверке 23 ноября 2026 года oEmbed выдал код вставки без токена. Отдельные виджеты Instagram и Facebook вернули читаемый текст по 307 из 321 известного адреса. Из них 228 подписей удалось связать со 149 профилями рейтинга. Доступ к лентам целиком проверяется отдельно. Семь совместных публикаций Top Travel Costa Rica подтверждены по видимым ссылкам на соавтора. [Документация Meta](https://developers.facebook.com/docs/graph-api/reference/oembed-post/) · [Реестр оригиналов](../data/public-posts.tsv)
+
+Чтение запускается вручную с ограничением количества запросов и останавливается при HTTP 429. Исходные подписи и сводка сохраняются в локальной папке `.cache`.
+
+```bash
+python3 scripts/read_native_embeds.py --limit 60 --out .cache/native-embeds.json
+python3 scripts/review_social_posts.py --embeds .cache/native-embeds.json --out .cache/native-analysis.json
+```

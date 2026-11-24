@@ -1,0 +1,284 @@
+{
+  "samara-belen-waterfall-carrillo": {
+    "stops": [
+      {
+        "point": "belen-nosarita-waterfall-point",
+        "role": "Водопад и берег",
+        "note": "Метка каскада. Допустимый подход и состояние дороги уточняйте по схеме или у гида.",
+        "activity": "waterfall"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Carrillo Tours",
+        "source": "carrillo-belen-waterfall-owner-program",
+        "note": "Трансфер, состояние грунтовки и полноценная программа для детей.",
+        "phone": "+506 2656 0584",
+        "email": "info@carrillotours.com",
+        "whatsapp": "https://wa.me/50687467567"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Трансфер или дорога своим ходом",
+        "text": "Carrillo Tours предлагает утренний выезд приблизительно на четыре часа с трансфером. У самостоятельных путешественников подъезд от Ruta 150 по грунтовке и короткий спуск с камнями у реки. Сверьте парковку и проход до выезда.",
+        "sources": [
+          "carrillo-belen-waterfall-owner-program",
+          "belen-waterfall-two-weeks-field-guide",
+          "mapcarta-belen-waterfall-nosarita"
+        ]
+      },
+      {
+        "title": "Короткий маршрут с детьми",
+        "text": "Программа с гидом заявлена от трёх лет. У воды и на скользких камнях держите детей рядом. После дождя оценивайте подъезд и берег с гидом. Для спокойного дня можно совместить лесную остановку с Каррильо.",
+        "sources": [
+          "carrillo-belen-waterfall-owner-program",
+          "belen-waterfall-two-weeks-field-guide"
+        ]
+      }
+    ],
+    "galleries": [
+      "carrillo-belen-waterfall-owner-program",
+      "belen-waterfall-two-weeks-field-guide"
+    ],
+    "videos": [
+      "belen-dufresnes-approach-film"
+    ],
+    "nearby": [
+      "samara",
+      "carrillo",
+      "samara-carrillo-ebike-camp-2",
+      "carrillo-estrada-night-forest"
+    ]
+  },
+  "carrillo-estrada-night-forest": {
+    "stops": [
+      {
+        "point": "carrillo-shore-area",
+        "role": "Район трансфера из Каррильо",
+        "note": "Этот ориентир относится к поселению. Адрес отеля, время сбора и начало ночной тропы согласуйте с гидом.",
+        "activity": "wildlife"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Carrillo Tours",
+        "source": "carrillo-estrada-forest-night-owner",
+        "note": "Попросите время трансфера, правила освещения и размер группы.",
+        "phone": "+506 2656 0584",
+        "email": "info@carrillotours.com",
+        "whatsapp": "https://wa.me/50687467567"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Лес после заката",
+        "text": "Двухчасовая прогулка с местным гидом в лесу Estrada Rávago. Оператор указывает трансфер от гостиниц Самары и Каррильо и возраст от четырёх лет. Время начала зависит от погоды.",
+        "sources": [
+          "carrillo-estrada-forest-night-owner"
+        ]
+      },
+      {
+        "title": "Снаряжение для вечернего выхода",
+        "text": "Проверьте у проводника, кто выдаёт фонарь. Возьмите закрытую обувь, средство от насекомых и лёгкую защиту от дождя. В лесу соблюдайте правила света и тишины гида.",
+        "sources": [
+          "carrillo-estrada-forest-night-owner"
+        ]
+      }
+    ],
+    "galleries": [
+      "carrillo-estrada-forest-night-owner"
+    ],
+    "nearby": [
+      "carrillo",
+      "samara",
+      "samara-belen-waterfall-carrillo",
+      "carrillo-corozalito-turtle-evening"
+    ]
+  },
+  "carrillo-corozalito-turtle-evening": {
+    "stops": [
+      {
+        "point": "corozalito-coast-geographic-reference",
+        "role": "Коросалито · возможный берег",
+        "note": "Метка пляжа. Ведущий назначает законный сектор наблюдения и точку встречи.",
+        "activity": "wildlife"
+      },
+      {
+        "point": "camaronal-shore-aerial-reference",
+        "role": "Камарональ · возможный берег",
+        "note": "Ориентир другого пляжа из программы. Выбор одного берега зависит от условий.",
+        "activity": "wildlife"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Carrillo Tours",
+        "source": "carrillo-turtles-camaronal-corozalito-owner",
+        "note": "Какой пляж, документы проводника, время возвращения и возраст детей.",
+        "phone": "+506 2656 0584",
+        "email": "info@carrillotours.com",
+        "whatsapp": "https://wa.me/50687467567"
+      },
+      {
+        "name": "Corozalito Turtle Lodge",
+        "source": "corozalito-turtle-lodge-local-guide",
+        "note": "Местный вариант без трансфера из Самары. Точка сбора у проводника."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Один из двух берегов",
+        "text": "Carrillo Tours указывает выход примерно в 18:00 на три с половиной часа с трансфером. Уточните выбранный пляж и фактическое время. На Коросалито есть самостоятельная местная программа с гидом лоджа.",
+        "sources": [
+          "carrillo-turtles-camaronal-corozalito-owner",
+          "corozalito-turtle-lodge-local-guide",
+          "ict-camaronal-wildlife-refuge-visit"
+        ]
+      },
+      {
+        "title": "Наблюдение на защищённом берегу",
+        "text": "Возможность увидеть выход зависит от сезона, прилива и активности животных. Идите с проводником в согласованный сектор. Возьмите тёмную одежду и закрытую обувь. Режим света и съёмки определяет ведущий.",
+        "sources": [
+          "carrillo-turtles-camaronal-corozalito-owner",
+          "ict-camaronal-wildlife-refuge-visit",
+          "crema-corozalito-monitoring-field"
+        ]
+      }
+    ],
+    "galleries": [
+      "carrillo-turtles-camaronal-corozalito-owner",
+      "crema-corozalito-monitoring-field"
+    ],
+    "videos": [
+      "corozalito-tatiana-turtle-field-film"
+    ],
+    "nearby": [
+      "carrillo",
+      "samara-autogyro-camaronal",
+      "punta-islita-ora-mangrove-kayak",
+      "carrillo-estrada-night-forest"
+    ]
+  },
+  "poas-hacienda-alsacia-coffee-and-view": {
+    "stops": [
+      {
+        "point": "alsacia-coffee-visitor-center",
+        "role": "Центр посетителей и кафе",
+        "note": "Отметка центра посетителей, откуда начинается экскурсия. Выберите кафе или заранее согласованный тур.",
+        "activity": "coffee"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Hacienda Alsacia",
+        "source": "alsacia-vamos-tour-visitor-90",
+        "note": "Свободные места на экскурсию, время визита и варианты для детей.",
+        "phone": "+506 2103 4282",
+        "url": "https://www.starbuckscoffeefarm.com/"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Кофе с видом на водопад",
+        "text": "Можно запланировать остановку в кафе у центра посетителей. Совместная публикация Local Vibes CR и Top Travel показывает террасу и вид на водопад. Доступ к территории фермы зависит от программы.",
+        "sources": [
+          "alsacia-starbucks-coffee-farm-owner",
+          "ig-toptravel-collab-dfq7qoigpzs",
+          "mapcarta-hacienda-alsacia-visit-center"
+        ]
+      },
+      {
+        "title": "Кофейный тур на 90 минут",
+        "text": "Официальное предложение описывает питомник, обработку кофе и дегустацию. Для посещения с ребёнком уточните правила, длительность и что включено. Для экскурсии оформите бронь заранее, часы кафе проверяйте отдельно.",
+        "sources": [
+          "alsacia-vamos-tour-visitor-90",
+          "alsacia-starbucks-coffee-farm-owner"
+        ]
+      }
+    ],
+    "galleries": [
+      "alsacia-starbucks-coffee-farm-owner",
+      "alsacia-vamos-tour-visitor-90"
+    ],
+    "videos": [
+      "ig-toptravel-collab-dfq7qoigpzs"
+    ],
+    "nearby": [
+      "poas-caprina-roof-camp",
+      "finca-koki",
+      "coffee-doka",
+      "laguna-fraijanes-icoder"
+    ]
+  },
+  "drake-yemanya-cano-small-group-snorkel": {
+    "stops": [
+      {
+        "point": "drake-agujitas-landing",
+        "role": "Один из районов посадки",
+        "note": "Основной пляж Баия-Дрейк. Уточните место встречи у организатора.",
+        "activity": "boat"
+      },
+      {
+        "point": "drake-copa-de-arbol-lodge-pin",
+        "role": "Возможная посадка в Калетас",
+        "note": "Береговой район лоджа. Подхват подтверждается с экипажем.",
+        "activity": "boat"
+      },
+      {
+        "point": "cano-island-reserve-orientation",
+        "role": "Морской заповедник Каньо",
+        "note": "Ориентир острова. Точку захода в воду выбирает гид.",
+        "activity": "snorkel"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Yemanyá Expeditions",
+        "source": "yemanya-drake-cano-local-operator",
+        "note": "Адрес сбора, документы для заповедника и экипировка для детей.",
+        "email": "yemanya.expeditions@gmail.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Небольшая группа и береговая пересадка",
+        "text": "В публикации Yemanyá и Top Travel названы поездки на Каньо. Сайт команды уточняет максимум восемь человек на гида для снорклинга. Посадка возможна на пляже Дрейка, в Калетас или у Пунта-Маренко. Для Сан-Хосесито могут действовать отдельные условия.",
+        "sources": [
+          "ig-toptravel-collab-dfsxfdvujog",
+          "yemanya-cano-boat-snorkel-terms",
+          "yemanya-drake-cano-local-operator"
+        ]
+      },
+      {
+        "title": "С детьми и без машины",
+        "text": "Согласуйте место и час лодки, составляющие тарифа, разрешение заповедника, маску и детский жилет. У команды есть семейный формат. Для маленького ребёнка отдельно спросите, сможет ли он остаться у взрослого в лодке или на берегу.",
+        "sources": [
+          "yemanya-cano-boat-snorkel-terms",
+          "cano-sinac-visit"
+        ]
+      }
+    ],
+    "galleries": [
+      "yemanya-drake-cano-local-operator",
+      "yemanya-cano-boat-snorkel-terms"
+    ],
+    "videos": [
+      "ig-toptravel-collab-dfsxfdvujog"
+    ],
+    "photos": [
+      "drake"
+    ],
+    "nearby": [
+      "cano-island",
+      "drake-without-car-3",
+      "drake-copa-de-arbol-lodge",
+      "drake-cano-guided-scuba"
+    ]
+  }
+}

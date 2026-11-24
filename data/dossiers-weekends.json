@@ -465,6 +465,15 @@
           "lamarta-manual",
           "lamarta-qbl"
         ]
+      },
+      {
+        "title": "Что есть в крытом лагере",
+        "text": "Заказник публикует зоны под навесом с питьевой водой, душем, туалетом, грилем и подходом к реке. Уточните место машины, разрешение на конкретный тип палатки и правила огня. Выход в первичный лес регулируется отдельно.",
+        "sources": [
+          "la-marta-official-covered-camping",
+          "la-marta-official-inner-trails-map",
+          "la-marta-vamos-weekend-field-visit"
+        ]
       }
     ],
     "contacts": [
