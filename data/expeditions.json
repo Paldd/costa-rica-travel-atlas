@@ -10043,5 +10043,148 @@
         ]
       }
     ]
+  },
+  {
+    "id": "garza-guiones-rooftent-ebike-2",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Гарса и Гионес · два дня с крышной палаткой и e-MTB",
+    "native": "Camping Mirella · Playa Garza · Playa Guiones Norte · Nosara MTB",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "rooftent",
+      "camping",
+      "cycling",
+      "ebike",
+      "mtb",
+      "forest",
+      "beach"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "car",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "garza-mirella-campcr",
+      "garza-mirella-nomad",
+      "garza-mirella-road-map",
+      "nosara-mtb-electric-guided",
+      "nosara-mtb-local-trail-guide",
+      "nosara-mtb-shop-contact"
+    ],
+    "summary": "Тихая ночёвка на участке у бухты Гарса и выезд на e-MTB с местным проводником из Гионес.",
+    "plan": "Сначала забронируйте место для машины и крышной палатки. Утром переезжайте к Guiones Norte. С велогидом выберите маршрут по опыту самого младшего участника.",
+    "conditions": "На стоянке заранее согласуйте въезд, время выезда и высоту палатки. Велогид подтверждает возраст, рост, батарею, сложность и маршрут.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Гарса · лагерь и вечер у бухты",
+        "note": "Заезд с Ruta 160 на согласованный участок Camping Mirella. Планируйте пешую прогулку вдоль берега.",
+        "stops": [
+          "garza-mirella-rooftent"
+        ],
+        "sources": [
+          "garza-mirella-campcr",
+          "garza-mirella-nomad"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Гионес · e-MTB с местным проводником",
+        "note": "К старту подъедьте к Guiones Norte. У клуба есть выезды в долине и по холмам, а также варианты для более опытных участников.",
+        "stops": [
+          "nosara-emtb-hills-halfday",
+          "nosara-mtb-family-trails-6"
+        ],
+        "sources": [
+          "nosara-mtb-electric-guided",
+          "nosara-mtb-local-trail-guide"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bijagual-roof-buggy-carara-2",
+    "kind": "trip",
+    "region": "centralpac",
+    "title": "Бихагуаль и Карара · два дня с багги и крышей",
+    "native": "Vista Los Sueños · Rancho Shadday · Camping at Bijagual Waterfall · Carara",
+    "level": "moderate",
+    "days": 2,
+    "activities": [
+      "rooftent",
+      "camping",
+      "utv",
+      "offroad",
+      "forest",
+      "waterfall",
+      "hiking",
+      "wildlife"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens"
+    ],
+    "access": [
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent"
+    ],
+    "sources": [
+      "bijagual-camping-roof-directory",
+      "bijagual-waterfall-call",
+      "vls-bijagual-jungle-buggy-4h",
+      "vls-current-contact",
+      "carara-universal-sinac",
+      "carara-map"
+    ],
+    "summary": "День на багги по программе местного парка, затем ночёвка с палаткой на крыше у Бихагуаля и утренний лес Карары.",
+    "plan": "Утром заберите багги в Vista Los Sueños. После возврата транспорта отдельно переезжайте на своей машине к согласованному кемпингу. Дневной проезд и ворота подтвердите заранее.",
+    "conditions": "Водителю багги нужны права и карта для залога. Погода влияет на переправы и доступ к водопаду. Условия въезда и парковки для крышной палатки уточняйте у хозяев.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Эррадура · багги, затем лагерь Бихагуаль",
+        "note": "Поездку с проводником бронируют у Vista Los Sueños. Лагерь и доступ к участку согласуют с хозяином отдельно.",
+        "stops": [
+          "herradura-bijagual-buggy-4",
+          "bijagual-rooftent-visit"
+        ],
+        "sources": [
+          "vls-bijagual-jungle-buggy-4h",
+          "bijagual-camping-roof-directory"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Карара · утренние тропы",
+        "note": "Заедьте на главную станцию парка. Выберите универсальную тропу или открытый участок у Laguna Meándrica по условиям SINAC.",
+        "stops": [
+          "carara"
+        ],
+        "sources": [
+          "carara-universal-sinac",
+          "carara-map"
+        ]
+      }
+    ]
   }
 ]

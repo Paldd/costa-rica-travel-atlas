@@ -1,0 +1,467 @@
+{
+  "herradura-vista-self-guided-rainforest": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Приёмная Vista Los Sueños · получить схему",
+        "note": "Ориентир парка. Тропа начинается внутри территории, направление укажут при регистрации.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Vista Los Sueños Adventure Park",
+        "source": "vls-current-contact",
+        "note": "Запись, время встречи, допуск по возрасту и фактическое состояние тропы. Сверьте выбранную программу.",
+        "phone": "+506 2637 6020",
+        "url": "https://wa.me/50683423683"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ступени и сложность",
+        "text": "На маршруте более 400 ступеней и есть лавочки для пауз. Гид для самостоятельной прогулки не требуется. Возьмите схему в парке.",
+        "sources": [
+          "vls-owner-self-guided-hike",
+          "vls-current-contact"
+        ]
+      },
+      {
+        "title": "Длина в описаниях",
+        "text": "Текст владельца даёт 2,8 км, в технической части страницы стоит 2,08 км. Для фильтра расстояние оставлено открытым до уточнения маршрута.",
+        "sources": [
+          "vls-owner-self-guided-hike"
+        ]
+      }
+    ],
+    "galleries": [
+      "vls-owner-self-guided-hike",
+      "vls-bookings-buggy-options"
+    ],
+    "nearby": [
+      "vista-suenos",
+      "herradura-vista-cacao-workshop",
+      "herradura-vista-canyoning"
+    ],
+    "track": "vls-owner-self-guided-hike"
+  },
+  "herradura-vista-cacao-workshop": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Приёмная Vista Los Sueños · встреча перед плантацией",
+        "note": "Отсюда организатор направит к гиду. Плантация находится на территории парка.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Vista Los Sueños Adventure Park",
+        "source": "vls-current-contact",
+        "note": "Запись, время встречи, допуск по возрасту и фактическое состояние тропы. Сверьте выбранную программу.",
+        "phone": "+506 2637 6020",
+        "url": "https://wa.me/50683423683"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Какао в руках и в дегустации",
+        "text": "Из опыта владельца и Vivencias Tropicales: пройдите по посадкам, посмотрите этапы обработки какао и попробуйте шоколад. Внешний поставщик также упоминает кофе и сахарный тростник.",
+        "sources": [
+          "vls-owner-cacao-experience",
+          "vls-cacao-vivencias-guide"
+        ]
+      },
+      {
+        "title": "Семейный формат",
+        "text": "Для маленьких участников спросите время пешей части, доступность туалетов и состав дегустации. По жаре удобны вода и закрытая обувь.",
+        "sources": [
+          "vls-owner-cacao-experience",
+          "vls-cacao-specialty-owner"
+        ]
+      }
+    ],
+    "galleries": [
+      "vls-cacao-specialty-owner",
+      "vls-cacao-vivencias-guide"
+    ],
+    "nearby": [
+      "herradura-vista-self-guided-rainforest",
+      "herradura-vista-canopy-cacao-combo",
+      "vista-suenos"
+    ],
+    "videos": [
+      "fb-vista-nov24-1909775773739259"
+    ]
+  },
+  "herradura-vista-canopy-cacao-combo": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "Встреча · снаряжение и разделение групп",
+        "note": "Уточните у парка инструктаж и время начала второй части программы.",
+        "activity": "canopy"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Vista Los Sueños Adventure Park",
+        "source": "vls-current-contact",
+        "note": "Запись, время встречи, допуск по возрасту и фактическое состояние тропы. Сверьте выбранную программу.",
+        "phone": "+506 2637 6020",
+        "url": "https://wa.me/50683423683"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Четыре часа в двух частях",
+        "text": "Комбинированная программа включает канопи со снаряжением и какао-тур с дегустацией. Расписание зависит от записи парка.",
+        "sources": [
+          "vls-owner-canopy-cacao-combo",
+          "vls-owner-cacao-experience"
+        ]
+      },
+      {
+        "title": "Участники канопи",
+        "text": "Оператор публикует минимум 4 года и предел 113 кг для тросов. Подтвердите возраст, подходящий размер экипировки и порядок ожидания, если группа разного возраста.",
+        "sources": [
+          "vls-owner-canopy-cacao-combo",
+          "vls-zipline-dress-field"
+        ]
+      }
+    ],
+    "galleries": [
+      "vls-owner-canopy-cacao-combo",
+      "vls-cacao-specialty-owner"
+    ],
+    "nearby": [
+      "herradura-vista-cacao-workshop",
+      "herradura-vista-self-guided-rainforest",
+      "vista-suenos"
+    ],
+    "videos": [
+      "vista-los-suenos-canopy-owner-film",
+      "fb-vista-nov24-1909775773739259"
+    ]
+  },
+  "herradura-vista-pacayal-atv-six": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "База ATV · инструктаж и пробный заезд",
+        "note": "Фактические участки к Пакаялю проводник назначает после оценки погоды, воды и подготовки группы.",
+        "activity": "atv"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Vista Los Sueños Adventure Park",
+        "source": "vls-current-contact",
+        "note": "Запись, время встречи, допуск по возрасту и фактическое состояние тропы. Сверьте выбранную программу.",
+        "phone": "+506 2637 6020",
+        "url": "https://wa.me/50683423683"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Три водопада Пакаяль",
+        "text": "В программе перечислены Sutton, Coyote и Jaguar. Оператор ведёт группу по лесным дорогам и переправам, остановки у воды зависят от условий.",
+        "sources": [
+          "vls-owner-pacayal-atv-6",
+          "fb-vista-nov24-998450626600479"
+        ]
+      },
+      {
+        "title": "Что взять и подтвердить",
+        "text": "Водителю нужны права и кредитная карта под залог. Подтвердите страховку, комплектацию машины и требования к пассажиру. Возьмите закрытую обувь и комплект сухой одежды.",
+        "sources": [
+          "vls-owner-pacayal-atv-6",
+          "vls-atv-buggy-faq"
+        ]
+      }
+    ],
+    "galleries": [
+      "vls-owner-pacayal-atv-6",
+      "vls-bookings-buggy-options"
+    ],
+    "nearby": [
+      "herradura-vista-atv-two",
+      "herradura-bijagual-buggy-4"
+    ],
+    "videos": [
+      "fb-vista-nov24-998450626600479"
+    ]
+  },
+  "punta-islita-hotel-helicopter-views": {
+    "stops": [
+      {
+        "point": "islita-hotel-property",
+        "role": "Пунта-Ислита · ресепшен гостиницы",
+        "note": "В гостинице подтвердят конкретного перевозчика, маршрут и фактическую точку встречи.",
+        "activity": "scenic-flight"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Hotel Punta Islita · активности и трансфер",
+        "source": "islita-operator-guide-2026",
+        "note": "Запросите варианты полёта, место посадки, возрастные условия, стоимость группы и трансфер от аэродрома."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Побережье, вулканы и парки",
+        "text": "Гид активностей 2026–2027 перечисляет обзорные, прибрежные и вулканические полёты. Держите альтернативный сухопутный план на случай погоды.",
+        "sources": [
+          "islita-operator-guide-2026",
+          "publisher-hotelpuntaislita-com"
+        ]
+      },
+      {
+        "title": "Что спросить перед выездом",
+        "text": "Сообщите размер группы и пожелания к виду маршрута. Уточните оператора, место встречи, длительность и условия отмены.",
+        "sources": [
+          "islita-operator-guide-2026",
+          "adventure-air-helicopter-service"
+        ]
+      }
+    ],
+    "galleries": [
+      "islita-operator-guide-2026",
+      "islita-photos-marriott"
+    ],
+    "nearby": [
+      "punta-islita-pbp-charter-arrival",
+      "punta-islita-art-walk",
+      "punta-islita-macaw-reserve-tour"
+    ],
+    "photos": [
+      "islita-kajikawa-coast"
+    ]
+  },
+  "punta-islita-pbp-charter-arrival": {
+    "stops": [
+      {
+        "point": "south-water-sjo-airport",
+        "role": "Аэропорт вылета · вариант SJO",
+        "note": "Маршрут через Хуан-Сантамарию опубликован перевозчиком. Для других начальных пунктов выбирайте код аэропорта при бронировании.",
+        "activity": "scenic-flight"
+      },
+      {
+        "point": "nov24-islita-airfield-pbp",
+        "role": "Коросалито · аэропорт PBP / MRIA",
+        "note": "Публичный ориентир пункта прилёта. Встречу с машиной подтверждают перевозчик и гостиница.",
+        "activity": "scenic-flight"
+      },
+      {
+        "point": "islita-hotel-property",
+        "role": "Пунта-Ислита · трансфер к отелю",
+        "note": "Наземную посадку в машину и точный конечный адрес согласуйте заранее.",
+        "activity": "views"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Adventure Air · частный перелёт в Punta Islita",
+        "source": "islita-adventure-air-charters",
+        "note": "Согласуйте аэропорт вылета, время, тип борта, багаж и встречу наземного трансфера."
+      },
+      {
+        "name": "Hotel Punta Islita · активности и трансфер",
+        "source": "islita-operator-guide-2026",
+        "note": "Запросите варианты полёта, место посадки, возрастные условия, стоимость группы и трансфер от аэродрома."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Опубликованные варианты перелёта",
+        "text": "В программе перевозчика перечислены Сан-Хосе, Либерия, Ла-Фортуна и другие пункты. При бронировании уточните, какой именно аэропорт Сан-Хосе используется.",
+        "sources": [
+          "islita-adventure-air-charters",
+          "islita-dgac-airfield-register"
+        ]
+      },
+      {
+        "title": "Наземная часть",
+        "text": "От аэродрома в Коросалито есть короткий переезд к деревне. Гостиница принимает запросы о встрече. Оставьте запас времени на пересадку и погоду.",
+        "sources": [
+          "islita-adventure-air-charters",
+          "islita-airfield-mapcarta",
+          "islita-operator-guide-2026"
+        ]
+      }
+    ],
+    "galleries": [
+      "islita-adventure-air-charters",
+      "islita-photos-marriott"
+    ],
+    "nearby": [
+      "punta-islita-hotel-helicopter-views",
+      "punta-islita-art-walk",
+      "punta-islita-macaw-reserve-tour"
+    ],
+    "photos": [
+      "islita-pbp-kajikawa"
+    ]
+  },
+  "garza-guiones-rooftent-ebike-2": {
+    "stops": [
+      {
+        "point": "garza-route160-approach",
+        "role": "Съезд с Ruta 160 · район подъезда",
+        "note": "Маршрут до ворот спрашивайте у хозяев кемпинга.",
+        "activity": "camping"
+      },
+      {
+        "point": "garza-mirella-property",
+        "role": "День 1 · место под крышную палатку",
+        "note": "Отметка частного участка. Уточните согласованное время приезда.",
+        "activity": "rooftent"
+      },
+      {
+        "point": "nosara-mtb-guiones-assembly",
+        "role": "День 2 · старт e-MTB в Guiones Norte",
+        "note": "Старт у магазина Nosara MTB. Проводник назначает петлю по навыкам группы.",
+        "activity": "ebike"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Camping Mirella · хозяева",
+        "source": "garza-mirella-campcr",
+        "note": "Заезд, размеры автомобиля и палатки, место лестницы, душ, цена и вечерние мероприятия рядом.",
+        "url": "https://wa.me/50683431871",
+        "phone": "+506 8343 1871"
+      },
+      {
+        "name": "Nosara MTB · местный прокат и велогиды",
+        "source": "nosara-mtb-shop-contact",
+        "note": "Запросите короткую трассу, рост участников, сезонный доступ и точку входа в Athletic Center.",
+        "phone": "+506 2573 3948",
+        "url": "https://nosaramtb.com/tours/",
+        "email": "reservations@nosaramtb.com"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ночёвка у берега",
+        "text": "Согласуйте ровную площадку для раскрытия крыши и доступ к душу. Вечером можно пройтись пешком, ориентируясь на прилив.",
+        "sources": [
+          "garza-mirella-campcr",
+          "garza-mirella-nomad"
+        ]
+      },
+      {
+        "title": "Группа на e-MTB",
+        "text": "Укажите рост, опыт и привычную длительность поездок. Уточните шлем, запас воды, заряд и допустимые участки велопетли.",
+        "sources": [
+          "nosara-mtb-electric-guided",
+          "nosara-mtb-local-trail-guide"
+        ]
+      }
+    ],
+    "galleries": [
+      "garza-mirella-nomad",
+      "nosara-mtb-local-trail-guide"
+    ],
+    "nearby": [
+      "nosara-garza-roof-paddle-2",
+      "garza-mirella-rooftent",
+      "nosara-emtb-hills-halfday"
+    ],
+    "videos": [
+      "garza-coast-local-video",
+      "ebike-nosara-gopro"
+    ],
+    "mediaStops": [
+      "garza-mirella-rooftent",
+      "nosara-emtb-hills-halfday"
+    ]
+  },
+  "bijagual-roof-buggy-carara-2": {
+    "stops": [
+      {
+        "point": "vista-suenos-herradura",
+        "role": "День 1 · инструктаж и возврат багги",
+        "note": "Начните в Herradura. По окончании группа возвращает технику парку.",
+        "activity": "utv"
+      },
+      {
+        "point": "wave3-bijagual-entry",
+        "role": "День 1 · кемпинг и подъезд",
+        "note": "Район регистрации на исходной площадке, окончательный проезд согласуйте с хозяином.",
+        "activity": "rooftent"
+      },
+      {
+        "point": "carara-reception",
+        "role": "День 2 · ресепшен SINAC",
+        "note": "Точка встречи и проверка открытых троп.",
+        "activity": "hiking"
+      }
+    ],
+    "connectStops": false,
+    "contacts": [
+      {
+        "name": "Vista Los Sueños Adventure Park",
+        "source": "vls-current-contact",
+        "note": "Запись, время встречи, допуск по возрасту и фактическое состояние тропы. Сверьте выбранную программу.",
+        "phone": "+506 2637 6020",
+        "url": "https://wa.me/50683423683"
+      },
+      {
+        "name": "Александер · контакт кемпинга из Camping Guide",
+        "source": "bijagual-camping-roof-directory",
+        "phone": "+506 8885 2173",
+        "url": "https://wa.me/50688852173",
+        "note": "Владелец, которого указывает справочник. Подтвердите ночёвку с палаткой на крыше, пропуск и геометку ворот."
+      },
+      {
+        "name": "SINAC · Carara",
+        "source": "carara-sinac-footpaths",
+        "note": "Универсальная тропа, отдельный вход Laguna Meándrica и правила посещения."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два разных бронирования",
+        "text": "Оператор багги описывает Rancho Shadday и остановку у водопада в маршруте. Кемпинг оформляют отдельным сообщением хозяину.",
+        "sources": [
+          "vls-bijagual-jungle-buggy-4h",
+          "bijagual-camping-roof-directory"
+        ]
+      },
+      {
+        "title": "Подъезд, ночёвка и тропа",
+        "text": "После дождя подтвердите состояние подъезда и разрешение на въезд с собственной машиной. Для Карары возьмите обувь, воду и билеты SINAC.",
+        "sources": [
+          "bijagual-waterfall-call",
+          "carara-universal-sinac"
+        ]
+      }
+    ],
+    "galleries": [
+      "bijagual-camping-roof-directory",
+      "vls-bijagual-jungle-buggy-4h"
+    ],
+    "nearby": [
+      "herradura-bijagual-buggy-4",
+      "bijagual-rooftent-visit",
+      "carara"
+    ],
+    "videos": [
+      "bijagual-waterfall-outing-video"
+    ],
+    "mediaStops": [
+      "herradura-bijagual-buggy-4",
+      "bijagual-rooftent-visit",
+      "carara"
+    ]
+  }
+}

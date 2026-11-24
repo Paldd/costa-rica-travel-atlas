@@ -2206,5 +2206,15 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Valle_de_Orosi,_Cartago,_Costa_Rica_-_panoramio.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "islita-pbp-kajikawa": {
+    "file": "islita-pbp-kajikawa.jpg",
+    "alt": "Полоса аэродрома Пунта-Ислита в Коросалито между лесистыми холмами",
+    "caption": "Аэродром Пунта-Ислита в Коросалито · архивный кадр kajikawa · уменьшенная копия",
+    "author": "kajikawa",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Corozalito,_Provincia_de_Guanacaste,_Costa_Rica_-_panoramio_(1).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "point": "nov24-islita-airfield-pbp"
   }
 }

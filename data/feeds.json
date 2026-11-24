@@ -574,7 +574,31 @@
     "paths": [
       "/blog/",
       "/tours/"
-    ]
+    ],
+    "exactPaths": [
+      "/things-to-do-jaco-costa-rica/",
+      "/what-to-wear-ziplining-costa-rica-2/",
+      "/best-month-visit-costa-rica-adventure/",
+      "/canyoning-costa-rica-what-to-expect/",
+      "/what-is-a-tarzan-swing-costa-rica/",
+      "/chocolate-tour-costa-rica-jaco/",
+      "/costa-rica-zipline-safety-age-weight-requirements/",
+      "/caldera-puntarenas-cruise-shore-excursions-guide/",
+      "/sjo-airport-day-trip-costa-rica/",
+      "/manuel-antonio-vs-jaco-which-is-better-adventure/",
+      "/best-ziplines-costa-rica-comparison/",
+      "/atv-tour-costa-rica-beginners-guide/",
+      "/what-to-wear-ziplining-costa-rica/",
+      "/horseback-riding-costa-rica-pacific/",
+      "/los-suenos-marriott-best-activities-adventures/",
+      "/things-to-do-in-jaco-costa-rica/",
+      "/white-water-rafting-costa-rica-first-timers/",
+      "/costa-rica-family-adventure-activities-by-age/"
+    ],
+    "sitemap": "https://vistalossuenosadventurepark.com/post-sitemap.xml",
+    "review": "publisher-archive-vistalossuenosadventurepark-com",
+    "language": "en",
+    "focus": "Полевые пояснения оператора по тропам, снаряжению, возрасту и выбору пакетов из Хако."
   },
   {
     "name": "Arenal Manoa · термы и поездки из Ла-Фортуны",
@@ -751,7 +775,9 @@
       "/adventure-tours/"
     ],
     "language": "en",
-    "focus": "Программы парка у Эррадуры. Багги, квадроциклы, сплавы и каньонинг с опубликованными фотографиями."
+    "focus": "Программы парка у Эррадуры. Багги, квадроциклы, сплавы и каньонинг с опубликованными фотографиями.",
+    "sitemap": "https://vistalossuenosadventurepark.com/tour-sitemap.xml",
+    "review": "vls-bookings-buggy-options"
   },
   {
     "name": "Cabuya CR · местные тропы и ночёвки",
@@ -3018,5 +3044,15 @@
     "review": "mbccr-gold-permanent",
     "language": "es",
     "focus": "Постоянная археологическая коллекция и материалы для семейного визита."
+  },
+  {
+    "name": "Adventure Air · чартеры до Пунта-Ислиты",
+    "url": "https://www.flyadventureair.com/private-air-charters/punta-islita/",
+    "exactPaths": [
+      "/private-air-charters/punta-islita/"
+    ],
+    "review": "islita-adventure-air-charters",
+    "language": "en",
+    "focus": "Пункты вылета, ориентировочное время в полёте, аэропорт PBP и встреча с машиной."
   }
 ]

@@ -309,3 +309,9 @@ node scripts/discover_facebook_posts.mjs --rank 21 --limit 1 --out .cache/facebo
 python3 scripts/read_native_embeds.py --discovered .cache/facebook-guest-links.json --limit 8 --out .cache/facebook-native-captions.json
 python3 scripts/review_social_posts.py --embeds .cache/facebook-native-captions.json --out .cache/facebook-native-analysis.json
 ```
+
+## Vista Los Sueños и архив Hotel Punta Islita, 24 ноября 2026 года
+
+Гостевой просмотр Vista Los Sueños дал ещё восемь прямых публикаций Facebook с доступными подписями и подтверждённым авторством. В реестре 275 оригиналов от 100 страниц Facebook. Для Instagram внешняя страница StarNgage показывает 12 архивных подписей Hotel Punta Islita и ведёт к отдельным публикациям. При проверке 12 виджетов в Instagram подписи не отобразились. Оригиналы этой выборки продолжают проверяться, прямой счётчик Instagram остаётся 98 из 100. [Реестр оригиналов](../data/public-posts.tsv) · [Архив подписей](https://starngage.com/plus/en-us/influencers/instagram/hotelpuntaislita)
+
+Для Vista Los Sueños просмотрены 35 страниц программ и 18 статей. В профиль добавлена привязка к каталогу, а ежедневный обход отдельно индексирует две карты сайта оператора. Для Пунта-Ислиты добавлен источник о наземной встрече и чартерных перелётах. [Каталог парка](https://vistalossuenosadventurepark.com/adventuretours/) · [Подключённые источники](../data/feeds.json)
