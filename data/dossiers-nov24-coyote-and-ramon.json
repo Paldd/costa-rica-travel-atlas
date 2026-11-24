@@ -1,0 +1,816 @@
+{
+  "coyote-alouatta-camp-safari": {
+    "stops": [
+      {
+        "point": "coyote-alouatta-entrance",
+        "role": "Alouatta · кемпинг и тенты",
+        "note": "Въезд находится примерно в трёх километрах к западу от церкви Сан-Франциско-де-Койоте."
+      },
+      {
+        "point": "gravel-coyote-village",
+        "role": "San Francisco de Coyote · посёлок",
+        "note": "Здесь можно пополнить воду и запасы. По направлению к побережью проверьте дождь и состояние проезда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Палатка и бытовые условия",
+        "text": "Вариант со своим снаряжением включает доступ к кухне, туалету и душу. Для оборудованных тентов хозяева перечисляют несколько вариантов. Уточните постель и цену при бронировании.",
+        "sources": [
+          "coyote-alouatta-stay"
+        ]
+      },
+      {
+        "title": "Кемпер и палатка на крыше",
+        "text": "В отчёте путешественников описана ночёвка на автокемпере. На сайте хозяев есть контакт проката 4×4 с палаткой на крыше. Для стоянки такого автомобиля согласуйте габариты, место для лестницы и разрешение разложить палатку.",
+        "sources": [
+          "coyote-alouatta-guest-van",
+          "coyote-alouatta-roof-rental"
+        ]
+      },
+      {
+        "title": "Что взять на побережье",
+        "text": "Возьмите средство от комаров, фонарь, сухой мешок для вещей, воду на подъезд и закрытую обувь для грунта. Для выезда к пляжу узнайте точку парковки и местные рекомендации по воде.",
+        "sources": [
+          "coyote-alouatta-activities",
+          "coyote-alouatta-location"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Alouatta · кемпинг и тенты",
+        "source": "coyote-alouatta-location",
+        "note": "Подтвердите открытие на ваши даты, тип площадки, длину машины, место для лестницы и часы заезда.",
+        "phone": "+506 8347 4479",
+        "email": "info@alouatta.org"
+      }
+    ],
+    "galleries": [
+      "coyote-alouatta-stay",
+      "coyote-alouatta-owner"
+    ],
+    "videos": [
+      "coyote-beach-field-video"
+    ],
+    "nearby": [
+      "coyote-camp-surf-estuary-3",
+      "coyote-rancho-victoria-camp",
+      "coyote-alouatta-caletas-bike-8",
+      "coyote-casa-caletas-surf-lesson"
+    ],
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Сезонное открытие с 1 декабря",
+      "text": "На проверенном сайте хозяева указывают перерыв на сезон дождей и открытие с 1 декабря. Подтвердите, что нужный тип площадки доступен на ваши даты.",
+      "sources": [
+        "coyote-alouatta-owner"
+      ]
+    }
+  },
+  "coyote-rancho-victoria-camp": {
+    "stops": [
+      {
+        "point": "gravel-coyote-village",
+        "role": "San Francisco de Coyote · посёлок",
+        "note": "Здесь можно пополнить воду и запасы. По направлению к побережью проверьте дождь и состояние проезда."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Место и услуги",
+        "text": "В справочниках есть парковка, вода и электричество. Camping.cr описывает небольшую вместимость для двух семей. Costa Rider включает место в каталог поездок на автокемперах.",
+        "sources": [
+          "coyote-rancho-camping-cr",
+          "coyote-rancho-campervan"
+        ]
+      },
+      {
+        "title": "Площадка для машины",
+        "text": "Слово «крытая» на странице относится к оборудованной площадке. Перед поездкой сообщите высоту автомобиля, длину машины и ширину разложенной палатки. Запросите точную геометку въезда и тариф.",
+        "sources": [
+          "coyote-rancho-campervan",
+          "coyote-rancho-camping-cr"
+        ]
+      },
+      {
+        "title": "План на день",
+        "text": "Закупите воду и продукты в районе Сан-Франциско-де-Койоте. На подъезде держите связь с хозяевами. Для вечера у моря согласуйте маршрут по дорогам без перехода через эстуарий.",
+        "sources": [
+          "coyote-rancho-campervan",
+          "coyote-alouatta-location"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Rancho Victoria · хозяева",
+        "source": "coyote-rancho-campervan",
+        "note": "Запросите точный пин въезда, состояние грунта, размеры места, допуск крышной палатки и актуальный тариф.",
+        "phone": "+506 8708 8542"
+      }
+    ],
+    "galleries": [
+      "coyote-rancho-campervan",
+      "coyote-rancho-camping-cr"
+    ],
+    "nearby": [
+      "coyote-camp-surf-estuary-3",
+      "coyote-alouatta-camp-safari",
+      "coyote-san-miguel-caletas-gravel-27"
+    ],
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Точку въезда даёт хозяин",
+      "text": "Пин на карте отмечает Сан-Франциско-де-Койоте. Попросите владельца прислать координаты кемпинга, условия установки палатки на крыше и допустимую высоту машины.",
+      "sources": [
+        "coyote-rancho-campervan",
+        "coyote-rancho-camping-cr"
+      ]
+    }
+  },
+  "coyote-casa-caletas-beach-stay": {
+    "stops": [
+      {
+        "point": "coyote-caletas-meeting",
+        "role": "Casa Caletas · место встречи с оператором",
+        "note": "У команды уточните фактический доступ к берегу и отдельную точку спуска каяка."
+      },
+      {
+        "point": "coyote-beach-coast",
+        "role": "Playa Coyote · ориентир части береговой линии",
+        "note": "Инструктор назначает вход для урока по волне и приливу. Эта точка показывает район пляжа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Номера и ресторан",
+        "text": "На сайте показаны номера, casitas и ресторан. Уточните спальные места для детей, часы кухни и какой транспорт проходит к дому после дождя.",
+        "sources": [
+          "coyote-caletas-owner",
+          "coyote-caletas-contact"
+        ]
+      },
+      {
+        "title": "Отдельные занятия",
+        "text": "Каяк в манграх и уроки на волне бронируются отдельно. Перенесите занятие, если на выбранном берегу сильный прибой и инструктор не подтверждает выход.",
+        "sources": [
+          "coyote-caletas-activities",
+          "mio-cimar-sea"
+        ]
+      },
+      {
+        "title": "Как приехать",
+        "text": "Проверьте дорогу от Сан-Франциско с хозяевами. Место парковки у берегового входа уточните отдельно. Для въезда используйте точку гостиницы.",
+        "sources": [
+          "coyote-caletas-contact",
+          "coyote-mopt-rn163"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Caletas · проживание и водные программы",
+        "source": "coyote-caletas-contact",
+        "note": "Уточните минимальный возраст, размер группы, встречу с гидом, время относительно прилива и прокат снаряжения.",
+        "phone": "+506 8645 8333",
+        "whatsapp": "https://wa.me/50686458333",
+        "email": "info@hotelcasacaletas.net"
+      }
+    ],
+    "galleries": [
+      "coyote-caletas-owner",
+      "coyote-caletas-activities"
+    ],
+    "videos": [
+      "coyote-caletas-field-video"
+    ],
+    "nearby": [
+      "coyote-casa-caletas-estuary-kayak",
+      "coyote-casa-caletas-surf-lesson",
+      "coyote-alouatta-caletas-bike-8",
+      "coyote-camp-surf-estuary-3"
+    ],
+    "connectStops": false
+  },
+  "coyote-casa-caletas-estuary-kayak": {
+    "stops": [
+      {
+        "point": "coyote-caletas-meeting",
+        "role": "Casa Caletas · место встречи с оператором",
+        "note": "У команды уточните фактический доступ к берегу и отдельную точку спуска каяка."
+      },
+      {
+        "point": "coyote-estuary-orientation",
+        "role": "Estero Coyote · ориентир на карте",
+        "note": "Маршрут по воде, вход и выход согласуются с гидом."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Как устроен выход",
+        "text": "На сайте Casa Caletas каяк указан отдельной программой по мангровому эстуарию. Уточните час на воде, лодку для двух человек, возраст ребёнка и фактическую точку посадки.",
+        "sources": [
+          "coyote-caletas-activities",
+          "coyote-caletas-contact"
+        ]
+      },
+      {
+        "title": "Прилив и экипировка",
+        "text": "Уточните с гидом окно прилива. Возьмите жилет подходящего размера, обувь для посадки, защиту лица от солнца и гермоупаковку. Допуск своей лодки и возможность выхода без гида проверяются отдельно.",
+        "sources": [
+          "imn-tides-table",
+          "coyote-caletas-activities"
+        ]
+      },
+      {
+        "title": "Мангры",
+        "text": "Держитесь прохода, выбранного гидом. Соблюдайте расстояние до птиц и не заходите на илистые отмели без указаний. Картографический источник описывает эстуарий отдельно от берега с волной.",
+        "sources": [
+          "coyote-estuary-ign",
+          "coyote-estuary-map"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Caletas · проживание и водные программы",
+        "source": "coyote-caletas-contact",
+        "note": "Уточните минимальный возраст, размер группы, встречу с гидом, время относительно прилива и прокат снаряжения.",
+        "phone": "+506 8645 8333",
+        "whatsapp": "https://wa.me/50686458333",
+        "email": "info@hotelcasacaletas.net"
+      }
+    ],
+    "galleries": [
+      "coyote-caletas-activities",
+      "coyote-caletas-owner"
+    ],
+    "nearby": [
+      "coyote-casa-caletas-beach-stay",
+      "coyote-casa-caletas-surf-lesson",
+      "coyote-camp-surf-estuary-3"
+    ],
+    "connectStops": false
+  },
+  "coyote-casa-caletas-surf-lesson": {
+    "stops": [
+      {
+        "point": "coyote-caletas-meeting",
+        "role": "Casa Caletas · место встречи с оператором",
+        "note": "У команды уточните фактический доступ к берегу и отдельную точку спуска каяка."
+      },
+      {
+        "point": "coyote-beach-coast",
+        "role": "Playa Coyote · ориентир части береговой линии",
+        "note": "Инструктор назначает вход для урока по волне и приливу. Эта точка показывает район пляжа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два местных контакта",
+        "text": "Casa Caletas публикует обучение и занятия для продолжающих. Alouatta указывает прокат досок и местные уроки. Перед оплатой уточните длительность, размер группы, доску, лиш и защиту от солнца.",
+        "sources": [
+          "coyote-caletas-activities",
+          "coyote-alouatta-activities"
+        ]
+      },
+      {
+        "title": "Семейный формат",
+        "text": "Сообщите инструктору возраст, рост и уверенность в воде. Согласуйте глубину, место ожидания для семьи и вариант переноса. Для первого урока берег и диапазон прилива выбирает инструктор.",
+        "sources": [
+          "mio-cimar-sea",
+          "imn-tides-table",
+          "coyote-caletas-contact"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Casa Caletas · проживание и водные программы",
+        "source": "coyote-caletas-contact",
+        "note": "Уточните минимальный возраст, размер группы, встречу с гидом, время относительно прилива и прокат снаряжения.",
+        "phone": "+506 8645 8333",
+        "whatsapp": "https://wa.me/50686458333",
+        "email": "info@hotelcasacaletas.net"
+      },
+      {
+        "name": "Alouatta · кемпинг и тенты",
+        "source": "coyote-alouatta-location",
+        "note": "Подтвердите открытие на ваши даты, тип площадки, длину машины, место для лестницы и часы заезда.",
+        "phone": "+506 8347 4479",
+        "email": "info@alouatta.org"
+      }
+    ],
+    "galleries": [
+      "coyote-caletas-activities",
+      "coyote-alouatta-activities"
+    ],
+    "videos": [
+      "coyote-caletas-surf-field-video"
+    ],
+    "nearby": [
+      "coyote-casa-caletas-estuary-kayak",
+      "coyote-casa-caletas-beach-stay",
+      "coyote-camp-surf-estuary-3"
+    ],
+    "connectStops": false
+  },
+  "coyote-alouatta-caletas-bike-8": {
+    "stops": [
+      {
+        "point": "gravel-coyote-village",
+        "role": "San Francisco de Coyote · посёлок",
+        "note": "Здесь можно пополнить воду и запасы. По направлению к побережью проверьте дождь и состояние проезда."
+      },
+      {
+        "point": "coyote-alouatta-entrance",
+        "role": "Alouatta · кемпинг и тенты",
+        "note": "Въезд находится примерно в трёх километрах к западу от церкви Сан-Франциско-де-Койоте."
+      },
+      {
+        "point": "coyote-caletas-meeting",
+        "role": "Casa Caletas · место встречи с оператором",
+        "note": "У команды уточните фактический доступ к берегу и отдельную точку спуска каяка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Трасса по карте",
+        "text": "Велопрофиль OpenStreetMap дал 8,0 км с возвратом. От посёлка до Alouatta около 2,8 км, ещё 1,2 км до Casa Caletas. Линию маршрута можно скачать в GPX.",
+        "sources": [
+          "coyote-short-bike-osm"
+        ]
+      },
+      {
+        "title": "Велосипед и грунт",
+        "text": "Приезжайте на своём MTB, гравеле с широкими покрышками или e-bike. Возьмите насос, камеру и воду. Возможность подзарядки или проката уточняется у хозяев заранее.",
+        "sources": [
+          "coyote-alouatta-location",
+          "coyote-caletas-contact"
+        ]
+      },
+      {
+        "title": "Общий трафик",
+        "text": "После дождя на местных грунтовках появляются колеи и липкий грунт. Проверьте подъезд в день выезда, заложите запас света и избегайте подсказок навигатора через брод Рио-Бонго.",
+        "sources": [
+          "coyote-mopt-rn163",
+          "coyote-rn160-rain-report"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Alouatta · кемпинг и тенты",
+        "source": "coyote-alouatta-location",
+        "note": "Подтвердите открытие на ваши даты, тип площадки, длину машины, место для лестницы и часы заезда.",
+        "phone": "+506 8347 4479",
+        "email": "info@alouatta.org"
+      },
+      {
+        "name": "Casa Caletas · проживание и водные программы",
+        "source": "coyote-caletas-contact",
+        "note": "Уточните минимальный возраст, размер группы, встречу с гидом, время относительно прилива и прокат снаряжения.",
+        "phone": "+506 8645 8333",
+        "whatsapp": "https://wa.me/50686458333",
+        "email": "info@hotelcasacaletas.net"
+      }
+    ],
+    "galleries": [
+      "coyote-alouatta-owner",
+      "coyote-caletas-owner"
+    ],
+    "videos": [
+      "coyote-beach-field-video"
+    ],
+    "nearby": [
+      "coyote-san-miguel-caletas-gravel-27",
+      "coyote-alouatta-camp-safari",
+      "coyote-casa-caletas-beach-stay"
+    ],
+    "line": "coyote-short-bike-line"
+  },
+  "coyote-san-miguel-caletas-gravel-27": {
+    "stops": [
+      {
+        "point": "gravel-coyote-village",
+        "role": "San Francisco de Coyote · посёлок",
+        "note": "Здесь можно пополнить воду и запасы. По направлению к побережью проверьте дождь и состояние проезда."
+      },
+      {
+        "point": "san-miguel-nandayure-avenida",
+        "role": "Playa San Miguel · подъезд к берегу",
+        "note": "Разворот на подъездной дороге, отдых и возврат тем же дорожным коридором."
+      },
+      {
+        "point": "san-miguel-sunset-photo-location",
+        "photo": "san-miguel-coastal-normann-marxer",
+        "role": "Плайя-Сан-Мигель · берег после парковки",
+        "note": "Точка геометки фотографии 2005 года. Подойдите пешком по действующему проходу с дороги, если состояние берега позволяет."
+      },
+      {
+        "point": "coyote-alouatta-entrance",
+        "role": "Alouatta · кемпинг и тенты",
+        "note": "Въезд находится примерно в трёх километрах к западу от церкви Сан-Франциско-де-Койоте."
+      },
+      {
+        "point": "coyote-caletas-meeting",
+        "role": "Casa Caletas · место встречи с оператором",
+        "note": "У команды уточните фактический доступ к берегу и отдельную точку спуска каяка."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Разбивка дистанции",
+        "text": "Из посёлка к Сан-Мигелю и обратно около 19,3 км. Второй выезд к Casa Caletas и обратно добавляет 8 км. Оба участка выполнены как дорожный расчёт; запланируйте возврат одним из тех же выездов.",
+        "sources": [
+          "coyote-long-bike-osm"
+        ]
+      },
+      {
+        "title": "Материал покрытия",
+        "text": "После дождя на местных грунтовках появляются колеи и липкий грунт. Проверьте подъезд в день выезда, заложите запас света и избегайте подсказок навигатора через брод Рио-Бонго. Проверьте заряд на оба выезда. На участке к берегу держите запас на обратный подъём.",
+        "sources": [
+          "coyote-mopt-rn163",
+          "coyote-rn160-rain-report"
+        ]
+      },
+      {
+        "title": "Где сделать паузу",
+        "text": "Панорамные остановки у двух пляжей и пополнение воды в посёлке. В тёплый день выезжайте утром. Купание планируйте отдельно по состоянию моря.",
+        "sources": [
+          "coyote-caletas-activities",
+          "coyote-alouatta-activities",
+          "mio-cimar-sea"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Alouatta · кемпинг и тенты",
+        "source": "coyote-alouatta-location",
+        "note": "Подтвердите открытие на ваши даты, тип площадки, длину машины, место для лестницы и часы заезда.",
+        "phone": "+506 8347 4479",
+        "email": "info@alouatta.org"
+      },
+      {
+        "name": "Casa Caletas · проживание и водные программы",
+        "source": "coyote-caletas-contact",
+        "note": "Уточните минимальный возраст, размер группы, встречу с гидом, время относительно прилива и прокат снаряжения.",
+        "phone": "+506 8645 8333",
+        "whatsapp": "https://wa.me/50686458333",
+        "email": "info@hotelcasacaletas.net"
+      }
+    ],
+    "galleries": [
+      "coyote-alouatta-owner",
+      "coyote-caletas-owner"
+    ],
+    "videos": [
+      "coyote-beach-field-video"
+    ],
+    "nearby": [
+      "coyote-alouatta-caletas-bike-8",
+      "playa-san-miguel-nandayure",
+      "coyote-camp-surf-estuary-3"
+    ],
+    "line": "coyote-long-bike-line"
+  },
+  "san-ramon-senderos-waterfalls-5": {
+    "stops": [
+      {
+        "point": "ramon-senderos-entrance",
+        "role": "Restaurante Senderos · подъезд и старт после записи",
+        "note": "Рядом мост через Рио-Барранка. Каскады и разрешённую петлю покажут у входа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Время на тропе",
+        "text": "Авторы Qué Buen Lugar указывают около 5 км на путь туда и обратно. На их выезде два дальних водопада остались за пределами пройденного пути. Перед спуском запросите условия дальних каскадов.",
+        "sources": [
+          "ramon-senderos-qbl",
+          "ramon-senderos-municipal"
+        ]
+      },
+      {
+        "title": "Уровень и экипировка",
+        "text": "У ряда каскадов путь идёт по влажной тропе. Возьмите обувь с протектором, воду и защиту телефона от воды. При подъёме воды сокращайте визит по указаниям хозяев.",
+        "sources": [
+          "ramon-senderos-qbl",
+          "ramon-senderos-qbl-film"
+        ]
+      },
+      {
+        "title": "Еда и завершение",
+        "text": "Муниципалитет перечисляет ресторан и туры к водопадам. Уточните отдельно режим тропы и кухни. В выходные согласуйте стол и время, если приезжаете группой.",
+        "sources": [
+          "ramon-senderos-municipal"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Restaurante Senderos · тропы и ресторан",
+        "source": "ramon-senderos-municipal",
+        "note": "Подтвердите часы допуска на тропу, последнюю группу, питание и какие каскады открыты после дождя.",
+        "phone": "+506 6235 5715",
+        "email": "senderosrestobar@gmail.com"
+      }
+    ],
+    "galleries": [
+      "ramon-senderos-qbl"
+    ],
+    "videos": [
+      "ramon-senderos-qbl-film",
+      "ramon-senderos-tosso-film"
+    ],
+    "nearby": [
+      "san-ramon-finca-san-gerardo-canon-6",
+      "san-ramon-park-break",
+      "san-ramon-piedades-sur-ebike-49"
+    ],
+    "connectStops": false
+  },
+  "san-ramon-finca-san-gerardo-canon-6": {
+    "stops": [
+      {
+        "point": "ramon-canon-farm-orientation",
+        "role": "Finca San Gerardo · округлённый район подъезда",
+        "note": "Для въезда получите точный пин у хозяев. Тропу к воде уточните при регистрации."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Участок до каньона",
+        "text": "Авторы описывают подъезд с Ruta 1 и отдельный поворот к Finca San Gerardo. Пеший путь занимает около 6 км за выезд. На влажных камнях нужна обувь с цепкой подошвой.",
+        "sources": [
+          "ramon-canon-qbl",
+          "ramon-canon-qbl-film"
+        ]
+      },
+      {
+        "title": "Вода",
+        "text": "До выезда спросите об осадках выше по водосбору. У воды выбирайте обзор со стабильного берега и следуйте решениям хозяев по допуску. Время своего выезда планируйте с запасом на подъём.",
+        "sources": [
+          "ramon-canon-qbl"
+        ]
+      },
+      {
+        "title": "Оплата на месте",
+        "text": "Полевой автор приводит 4 000 колонов на дату поездки и контакт хозяйства. Уточните текущую цену, время въезда и условия для детей.",
+        "sources": [
+          "ramon-canon-qbl",
+          "ramon-canon-contact-directory"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Finca San Gerardo · запись у Сайры",
+        "source": "ramon-canon-qbl",
+        "note": "Уточните точный вход, состояние воды, минимальный возраст, время прибытия и актуальную цену.",
+        "phone": "+506 8910 9653"
+      }
+    ],
+    "galleries": [
+      "ramon-canon-qbl"
+    ],
+    "videos": [
+      "ramon-canon-qbl-film"
+    ],
+    "nearby": [
+      "san-ramon-senderos-waterfalls-5",
+      "san-ramon-park-break"
+    ],
+    "connectStops": false
+  },
+  "heredia-laguna-de-plata-family": {
+    "stops": [
+      {
+        "point": "heredia-laguna-plata-entrance",
+        "role": "Laguna de Plata · парковка и вход",
+        "note": "От Bosque de la Hoja следуйте к въезду справа по точке, опубликованной авторами полевого отчёта."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Полдня с детьми",
+        "text": "В полевом отчёте есть примерно 500 м дорожек, столы для пикника, мост и небольшие прогулочные лодки. На месте сверяйте ограничения для колясок на мокрых отрезках и размер жилета.",
+        "sources": [
+          "heredia-laguna-plata-qbl"
+        ]
+      },
+      {
+        "title": "Кафе",
+        "text": "Catur Café есть в муниципальном туристическом справочнике и в описании местного автора. В будни подтвердите часы и возможность обеда.",
+        "sources": [
+          "heredia-laguna-plata-municipal",
+          "heredia-laguna-plata-qbl"
+        ]
+      },
+      {
+        "title": "Перед отъездом",
+        "text": "Уточните плату, расписание и бронирование лодок через страницу парка. У автора отмечен выходной во вторник. Разрешение на собственный SUP или каяк уточняют отдельно.",
+        "sources": [
+          "heredia-laguna-plata-owner",
+          "heredia-laguna-plata-qbl"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Laguna de Plata · парк и лодки",
+        "source": "heredia-laguna-plata-owner",
+        "note": "Уточните открытие, цену для гостей, лодки, наличие детских жилетов и правила пикника.",
+        "url": "https://www.facebook.com/1lagunadeplata/"
+      }
+    ],
+    "galleries": [
+      "heredia-laguna-plata-qbl",
+      "heredia-laguna-plata-owner"
+    ],
+    "videos": [
+      "heredia-laguna-plata-qbl-film"
+    ],
+    "nearby": [],
+    "connectStops": false
+  },
+  "coyote-camp-surf-estuary-3": {
+    "stops": [
+      {
+        "point": "gravel-coyote-village",
+        "role": "San Francisco de Coyote · посёлок",
+        "note": "Здесь можно пополнить воду и запасы. По направлению к побережью проверьте дождь и состояние проезда."
+      },
+      {
+        "point": "coyote-alouatta-entrance",
+        "role": "Alouatta · кемпинг и тенты",
+        "note": "Въезд находится примерно в трёх километрах к западу от церкви Сан-Франциско-де-Койоте."
+      },
+      {
+        "point": "san-miguel-nandayure-avenida",
+        "role": "Playa San Miguel · подъезд к берегу",
+        "note": "Разворот на подъездной дороге, отдых и возврат тем же дорожным коридором."
+      },
+      {
+        "point": "san-miguel-sunset-photo-location",
+        "photo": "san-miguel-coastal-normann-marxer",
+        "role": "Плайя-Сан-Мигель · берег после парковки",
+        "note": "Точка геометки фотографии 2005 года. Подойдите пешком по действующему проходу с дороги, если состояние берега позволяет."
+      },
+      {
+        "point": "coyote-caletas-meeting",
+        "role": "Casa Caletas · место встречи с оператором",
+        "note": "У команды уточните фактический доступ к берегу и отдельную точку спуска каяка."
+      },
+      {
+        "point": "coyote-estuary-orientation",
+        "role": "Estero Coyote · ориентир на карте",
+        "note": "Маршрут по воде, вход и выход согласуются с гидом."
+      },
+      {
+        "point": "coyote-beach-coast",
+        "role": "Playa Coyote · ориентир части береговой линии",
+        "note": "Инструктор назначает вход для урока по волне и приливу. Эта точка показывает район пляжа."
+      }
+    ],
+    "sections": [
+      {
+        "title": "База и смена плана",
+        "text": "Согласуйте Alouatta на дату поездки. Rancho Victoria остаётся вариантом после прямого подтверждения, Casa Caletas позволяет убрать палаточное снаряжение из плана.",
+        "sources": [
+          "coyote-alouatta-owner",
+          "coyote-rancho-campervan",
+          "coyote-caletas-owner"
+        ]
+      },
+      {
+        "title": "Две длины велодня",
+        "text": "В разделе карты есть две велосипедные линии по сети OpenStreetMap. Водные точки показывают ориентиры. Условия подъезда сверяйте при дождях.",
+        "sources": [
+          "coyote-short-bike-osm",
+          "coyote-long-bike-osm",
+          "coyote-rn160-rain-report"
+        ]
+      },
+      {
+        "title": "Море и прилив",
+        "text": "В один день закладывайте одно главное водное занятие. Организатор назначает точку и час после проверки прилива. Для обоих дней у воды возьмите гермоупаковку и защиту от солнца.",
+        "sources": [
+          "coyote-caletas-activities",
+          "imn-tides-table"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Alouatta · кемпинг и тенты",
+        "source": "coyote-alouatta-location",
+        "note": "Подтвердите открытие на ваши даты, тип площадки, длину машины, место для лестницы и часы заезда.",
+        "phone": "+506 8347 4479",
+        "email": "info@alouatta.org"
+      },
+      {
+        "name": "Rancho Victoria · хозяева",
+        "source": "coyote-rancho-campervan",
+        "note": "Запросите точный пин въезда, состояние грунта, размеры места, допуск крышной палатки и актуальный тариф.",
+        "phone": "+506 8708 8542"
+      },
+      {
+        "name": "Casa Caletas · проживание и водные программы",
+        "source": "coyote-caletas-contact",
+        "note": "Уточните минимальный возраст, размер группы, встречу с гидом, время относительно прилива и прокат снаряжения.",
+        "phone": "+506 8645 8333",
+        "whatsapp": "https://wa.me/50686458333",
+        "email": "info@hotelcasacaletas.net"
+      }
+    ],
+    "galleries": [
+      "coyote-alouatta-stay",
+      "coyote-caletas-activities",
+      "coyote-rancho-campervan"
+    ],
+    "videos": [
+      "coyote-beach-field-video",
+      "coyote-caletas-field-video"
+    ],
+    "nearby": [
+      "coyote-alouatta-camp-safari",
+      "coyote-alouatta-caletas-bike-8",
+      "coyote-casa-caletas-estuary-kayak",
+      "coyote-casa-caletas-surf-lesson"
+    ],
+    "line": "coyote-weekend-ride-choices",
+    "accessNotice": {
+      "title": "Подъезд и сезон работы сверяются до выезда",
+      "text": "Alouatta указывает открытие с 1 декабря. На мокром грунте у Нандайуре следите за дорожными предупреждениями. На машине с палаткой заранее согласуйте место и габариты.",
+      "sources": [
+        "coyote-alouatta-owner",
+        "coyote-mopt-rn163",
+        "coyote-rn160-rain-report"
+      ]
+    }
+  },
+  "montana-sagrada-pozo-verde-65": {
+    "stops": [
+      {
+        "point": "montana-sagrada-visitor-center",
+        "role": "Центр Coopelesca · въезд, тропы и ресторан",
+        "note": "Выберите короткий маршрут или обход четырёх троп. До старта спросите время последнего возвращения."
+      },
+      {
+        "point": "montana-sagrada-pozo-verde-lake",
+        "role": "Laguna Pozo Verde · ориентир озера",
+        "note": "К берегу идите по открытым отрезкам, указанным в центре. Точка относится к поверхности озера."
+      }
+    ],
+    "sections": [
+      {
+        "title": "Два варианта прогулки",
+        "text": "Coopelesca указывает 4,3 км до озера и обратно по кратчайшему пути. Полная связка четырёх троп составляет 6,5 км. С детьми начните с короткой версии и уточните перепады после дождя.",
+        "sources": [
+          "montana-sagrada-coopelesca",
+          "montana-sagrada-alternate-track"
+        ]
+      },
+      {
+        "title": "Дождь и лес",
+        "text": "Возьмите тёплый слой, дождевик, обувь с протектором и воду. В тумане оставьте запас времени для подъезда и возврата. Для наблюдения за птицами идите утром и держитесь открытых троп.",
+        "sources": [
+          "montana-sagrada-coopelesca",
+          "montana-sagrada-sinac-parque",
+          "montana-sagrada-pasc-field-film"
+        ]
+      },
+      {
+        "title": "Рабочие часы и вход",
+        "text": "Запись уточняют у Coopelesca. По сайту режим заповедника со вторника по воскресенье с 8:00 до 16:00, кухня работает до 15:00. Для группы и школьной поездки подтвердите питание и длину пешего участка отдельно.",
+        "sources": [
+          "montana-sagrada-coopelesca",
+          "montana-sagrada-operator-pin"
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Coopelesca · Reserva Montaña Sagrada",
+        "source": "montana-sagrada-coopelesca",
+        "note": "Запросите режим на дату поездки, подъезд, цену и открытые отрезки после дождя.",
+        "phone": "+506 2401 4000",
+        "whatsapp": "https://wa.me/50684034000",
+        "email": "tours@coopelesca.co.cr"
+      }
+    ],
+    "galleries": [
+      "montana-sagrada-coopelesca",
+      "montana-sagrada-alternate-track"
+    ],
+    "videos": [
+      "montana-sagrada-pasc-field-film"
+    ],
+    "track": "montana-sagrada-alternate-track",
+    "trackKind": "route",
+    "connectStops": false
+  }
+}

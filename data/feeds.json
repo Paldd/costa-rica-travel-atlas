@@ -83,7 +83,10 @@
     ],
     "exactPaths": [
       "/es/lugares/playa-iguanita/",
-      "/es/lugares/rio-la-mina-y-mirador-miramar-2/"
+      "/es/lugares/rio-la-mina-y-mirador-miramar-2/",
+      "/es/lugares/restaurante-senderos-cataratas-pozas-y-comida-rica-en-san-ramn/",
+      "/es/lugares/poza-el-can-finca-san-gerardo-san-ramn/",
+      "/es/lugares/laguna-de-plata-picnic-laguito-y-naturaleza-en-heredia/"
     ],
     "language": "es",
     "focus": "Отчёты местных авторов о выходных. Сельские подъезды, тропы, водопады, ночёвки и фото с места."
@@ -3140,6 +3143,44 @@
     "review": "zancudo-sol-mar-owner",
     "exactPaths": [
       "/"
+    ]
+  },
+  {
+    "name": "Alouatta · сезон, палатки и занятия в Койоте",
+    "url": "https://www.alouatta.org/",
+    "review": "coyote-alouatta-owner",
+    "exactPaths": [
+      "/",
+      "/accommodation",
+      "/activities",
+      "/carrental",
+      "/contact"
+    ]
+  },
+  {
+    "name": "Casa Caletas · каяк и школа сёрфа у Плайя-Койоте",
+    "url": "https://hotelcasacaletas.net/actividades-tours/",
+    "review": "coyote-caletas-activities",
+    "exactPaths": [
+      "/",
+      "/actividades-tours",
+      "/contacto"
+    ]
+  },
+  {
+    "name": "Costa Rider · кемпинг Rancho Victoria в Койоте",
+    "url": "https://www.costarider-campervan.com/rancho-victoria-coyote/",
+    "review": "coyote-rancho-campervan",
+    "exactPaths": [
+      "/rancho-victoria-coyote"
+    ]
+  },
+  {
+    "name": "Coopelesca · Montaña Sagrada и тропы к Посо-Верде",
+    "url": "https://reservamontanasagrada.com/la-reserva/",
+    "review": "montana-sagrada-coopelesca",
+    "exactPaths": [
+      "/la-reserva"
     ]
   }
 ]

@@ -2252,5 +2252,15 @@
     "license": "CC BY-SA 3.0",
     "original": "https://commons.wikimedia.org/wiki/File:Camino_a_La_piedra_del_Guaco.jpg",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "san-miguel-coastal-normann-marxer": {
+    "file": "playa-san-miguel-sunset.jpg",
+    "alt": "Солнце заходит в океан над берегом Плайя-Сан-Мигель в Нандайуре",
+    "caption": "Плайя-Сан-Мигель · закат, 2005",
+    "author": "Normann Marxer",
+    "license": "CC BY 3.0",
+    "original": "https://commons.wikimedia.org/wiki/File:Sunset_in_Playa_San_Miguel_-_panoramio.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "point": "san-miguel-sunset-photo-location"
   }
 }

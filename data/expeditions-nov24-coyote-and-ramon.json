@@ -1,0 +1,119 @@
+[
+  {
+    "id": "coyote-camp-surf-estuary-3",
+    "kind": "trip",
+    "region": "nicoya",
+    "title": "Койоте за 3 дня · палатка, велопоездка, каяк и сёрф",
+    "native": "San Francisco de Coyote · Alouatta · Playa San Miguel · Casa Caletas",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "camping",
+      "glamping",
+      "mtb",
+      "gravel",
+      "ebike",
+      "kayak",
+      "surf",
+      "school",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "4x4",
+      "transfer",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "glamping",
+      "lodge"
+    ],
+    "sources": [
+      "coyote-alouatta-stay",
+      "coyote-alouatta-owner",
+      "coyote-rancho-campervan",
+      "coyote-caletas-activities",
+      "coyote-short-bike-osm",
+      "coyote-long-bike-osm",
+      "coyote-rn160-rain-report",
+      "imn-tides-table"
+    ],
+    "summary": "Одна ночёвочная база на юге Никои и три разных выезда. Можно выбирать короткий или длинный велодень, мангры или урок на волне.",
+    "plan": "Подтвердите ночлег и время в пути в Койоте. Следующий день выделите на велосипед, а каяк или урок сёрфа поставьте на лучшее окно прилива.",
+    "conditions": "Сезонные закрытия и разбитый грунт возможны. Вариант ночёвки в машине и допустимость раскрытия палатки согласуйте отдельно. Вода и маршрут зависят от условий дня.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Подъезд в Нандайуре и ночлег",
+        "note": "Заправьтесь и пополните воду в посёлке. Сверьте въезд и заезжайте на площадку засветло. В сезонный перерыв уточните место у Rancho Victoria или номер Casa Caletas.",
+        "stops": [
+          "coyote-alouatta-camp-safari",
+          "coyote-rancho-victoria-camp",
+          "coyote-casa-caletas-beach-stay"
+        ],
+        "points": [
+          "gravel-coyote-village",
+          "coyote-alouatta-entrance",
+          "coyote-caletas-meeting"
+        ],
+        "sources": [
+          "coyote-alouatta-owner",
+          "coyote-rancho-campervan",
+          "coyote-caletas-contact"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Короткий или длинный велодень",
+        "note": "Короткая дорога до Casa Caletas и обратно даёт 8 км. Вторая версия добавляет выезд до Сан-Мигеля и даёт 27,3 км. Прокат, парковку и зарядку согласуйте.",
+        "stops": [
+          "coyote-alouatta-caletas-bike-8",
+          "coyote-san-miguel-caletas-gravel-27",
+          "playa-san-miguel-nandayure"
+        ],
+        "points": [
+          "gravel-coyote-village",
+          "san-miguel-nandayure-avenida",
+          "coyote-alouatta-entrance",
+          "coyote-caletas-meeting"
+        ],
+        "sources": [
+          "coyote-short-bike-osm",
+          "coyote-long-bike-osm",
+          "coyote-mopt-rn163"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Эстуарий или урок на волне",
+        "note": "Встретьтесь с гидом по записи. Для наименее шумного варианта выбирайте мангровый каяк. Урок сёрфа планируйте в согласованное окно волны.",
+        "stops": [
+          "coyote-casa-caletas-estuary-kayak",
+          "coyote-casa-caletas-surf-lesson",
+          "coyote-casa-caletas-beach-stay"
+        ],
+        "points": [
+          "coyote-caletas-meeting",
+          "coyote-estuary-orientation",
+          "coyote-beach-coast"
+        ],
+        "sources": [
+          "coyote-caletas-activities",
+          "imn-tides-table",
+          "mio-cimar-sea"
+        ]
+      }
+    ]
+  }
+]

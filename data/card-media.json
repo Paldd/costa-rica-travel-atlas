@@ -438,7 +438,8 @@
     ],
     "videos": [
       "curu-vamos-field-film",
-      "curu-soycrecu-field-film"
+      "curu-soycrecu-field-film",
+      "curu-vamos-refuge-field-film"
     ],
     "photos": [
       "curu-refuge-vlad"
@@ -1587,7 +1588,8 @@
       "sarapiqui-la-virgen-commons"
     ],
     "videos": [
-      "film-sarapiqui-arenal-rafting-iv"
+      "film-sarapiqui-arenal-rafting-iv",
+      "sarapiqui-class-four-arenal-rafting-film"
     ]
   },
   "savegre": {
@@ -1667,7 +1669,8 @@
     ],
     "videos": [
       "tabacon-resort-thermal-family-film",
-      "fb-nov24-tabacon"
+      "fb-nov24-tabacon",
+      "tabacon-experts-facilities-film"
     ],
     "photos": [
       "tabacon-pool-bar-grendel",
@@ -1943,7 +1946,8 @@
       "museum-coco-cimar-exhibition-film",
       "museum-coco-veritas-model-film",
       "museum-bellavista-intro-film",
-      "museum-bellavista-nidos-film"
+      "museum-bellavista-nidos-film",
+      "bellavista-national-museum-history-film"
     ]
   },
   "nicoya-bikepack-6": {
@@ -2621,6 +2625,9 @@
   "nosara-mtb-family-trails-6": {
     "videos": [
       "nosara-mtb-team-video"
+    ],
+    "galleries": [
+      "nosara-mtb-ig-youth-equipment"
     ]
   },
   "sardinal-calzon-de-pobre": {
@@ -2890,6 +2897,9 @@
       "mistico-palmas-bridge",
       "mistico-arenal-path",
       "mistico-warby-wildlife"
+    ],
+    "videos": [
+      "mistico-arenal-operator-context-film"
     ]
   },
   "mistico-night-walk-15": {
@@ -3295,6 +3305,88 @@
     ],
     "videos": [
       "fb-punta-banco-beach-coast"
+    ]
+  },
+  "buen-camino-san-mateo-emtb": {
+    "galleries": [
+      "buencamino-ig-trail-sectors"
+    ]
+  },
+  "buen-camino-san-mateo-weekend-2": {
+    "galleries": [
+      "buencamino-ig-trail-sectors"
+    ]
+  },
+  "drake-divine-dolphin-wildlife-boat": {
+    "videos": [
+      "drake-divine-heat-run-surface-film",
+      "drake-divine-best-bay-film"
+    ]
+  },
+  "drake-wildlife-package-7": {
+    "videos": [
+      "drake-divine-heat-run-surface-film"
+    ]
+  },
+  "fortuna-casa-luna-forest-luna-grill": {
+    "galleries": [
+      "casa-luna-ig-forest-wildlife"
+    ]
+  },
+  "hermosa-bosque-del-mar-beach-stay": {
+    "galleries": [
+      "hermosa-bosque-del-mar-ig-coast"
+    ]
+  },
+  "madre-dios-lirio-canals-3": {
+    "videos": [
+      "lirio-lodge-operator-drone-film"
+    ]
+  },
+  "madre-dios-lirio-kayak-2": {
+    "videos": [
+      "lirio-lodge-operator-drone-film"
+    ]
+  },
+  "nosara-surf-simply-week": {
+    "videos": [
+      "surf-simply-fins-teaching-film",
+      "surf-simply-speed-teaching-film"
+    ]
+  },
+  "pacuare-lodge-tesorito-forest-adventure": {
+    "videos": [
+      "pacuare-lodge-river-arrival-film"
+    ]
+  },
+  "rio-san-juan-el-castillo-fortress-walk": {
+    "videos": [
+      "rio-san-juan-intur-myths-film"
+    ]
+  },
+  "rio-san-juan-san-carlos-malecon-walk": {
+    "videos": [
+      "rio-san-juan-intur-myths-film"
+    ]
+  },
+  "san-jose-museos-banco-central": {
+    "videos": [
+      "central-bank-gold-museum-renovation-film"
+    ]
+  },
+  "playa-san-miguel-nandayure": {
+    "photos": [
+      "san-miguel-coastal-normann-marxer"
+    ]
+  },
+  "coyote-san-miguel-caletas-gravel-27": {
+    "photos": [
+      "san-miguel-coastal-normann-marxer"
+    ]
+  },
+  "coyote-camp-surf-estuary-3": {
+    "photos": [
+      "san-miguel-coastal-normann-marxer"
     ]
   }
 }
