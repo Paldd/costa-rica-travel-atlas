@@ -1,6 +1,6 @@
 {
   "archives": 176,
-  "archivesRead": 173,
+  "archivesRead": 170,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -252,6 +252,20 @@
       "indexed": 14,
       "pages": [
         {
+          "checked": "2026-11-25",
+          "published": "2026-11-25",
+          "readThisRun": true,
+          "title": "Isla Bastimentos y Old Bank, Bocas del Toro: qué hacer",
+          "url": "https://go.bocasdeltoro.travel/es/blog-es/isla-bastimentos-y-old-bank/"
+        },
+        {
+          "checked": "2026-11-25",
+          "published": "2026-11-25",
+          "readThisRun": true,
+          "title": "Isla Bastimentos & Old Bank, Bocas del Toro: Things to Do",
+          "url": "https://go.bocasdeltoro.travel/blog/isla-bastimentos-old-bank/"
+        },
+        {
           "checked": "2026-11-23",
           "published": "2026-11-20",
           "title": "Tour en bote en Bocas del Toro: Delfines, Cayo Coral y Zapatillas",
@@ -406,7 +420,7 @@
       "read": 2
     },
     "caribe-publisher-banana-routes": {
-      "indexed": 2,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -419,7 +433,7 @@
           "url": "https://www.bananaazul.com/contact"
         }
       ],
-      "read": 2
+      "read": null
     },
     "caribe-publisher-cameleon-experiences": {
       "indexed": 2,
@@ -815,7 +829,7 @@
       "read": 20
     },
     "caturcochi-perezzeledon-directory": {
-      "indexed": 1,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -823,7 +837,7 @@
           "url": "https://www.perezzeledon.cr/directorios/caturcochi/"
         }
       ],
-      "read": 1
+      "read": null
     },
     "cinchona-trails-operator": {
       "indexed": 1,
@@ -1190,6 +1204,36 @@
       "indexed": 83,
       "pages": [
         {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "September 2018 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2018/09/"
+        },
+        {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "October 2018 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2018/10/"
+        },
+        {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "November 2018 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2018/11/"
+        },
+        {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "June 2018 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2018/06/"
+        },
+        {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "December 2018 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2018/12/"
+        },
+        {
           "checked": "2026-11-24",
           "title": "World’s largest container line rerouts to avoid collisions with endangered blue whales near Sri Lanka – NewsWire",
           "url": "https://divinedolphin.com/blog/2022/09/27/worlds-largest-container-line-rerouts-to-avoid-collisions-with-endangered-blue-whales-near-sri-lanka-newswire/"
@@ -1281,7 +1325,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "May 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/05/"
         },
@@ -1302,7 +1345,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "March 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/03/"
         },
@@ -1313,7 +1355,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "June 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/06/"
         },
@@ -1349,7 +1390,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "January 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/01/"
         },
@@ -1375,7 +1415,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "February 2019 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2019/02/"
         },
@@ -1460,7 +1499,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 53
+      "read": 58
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -2415,6 +2454,41 @@
       "indexed": 207,
       "pages": [
         {
+          "checked": "2026-11-25",
+          "published": "2023-03-14",
+          "readThisRun": true,
+          "title": "(Video) Guanacastecos se levantaron este martes con dos erupciones del volcán Rincón de la Vieja",
+          "url": "https://adondeircr.com/guanacaste/video-guanacastecos-se-levantaron-este-martes-con-dos-erupciones-del-volcan-rincon-de-la-vieja/?c1"
+        },
+        {
+          "checked": "2026-11-25",
+          "published": "2023-03-01",
+          "readThisRun": true,
+          "title": "Playa Conchal es ¡LA PLAYA MÁS HERMOSA DEL MUNDO!",
+          "url": "https://adondeircr.com/guanacaste/playa-conchal-es-la-playa-mas-hermosa-del-mundo/?c1"
+        },
+        {
+          "checked": "2026-11-25",
+          "published": "2023-02-16",
+          "readThisRun": true,
+          "title": "Cascadas POZO AZUL",
+          "url": "https://adondeircr.com/alajuela/cascadas-pozo-azul/?c1"
+        },
+        {
+          "checked": "2026-11-25",
+          "published": "2022-12-28",
+          "readThisRun": true,
+          "title": "Al mejor estilo de Disney: Parque de diversión inauguró mega atracción",
+          "url": "https://adondeircr.com/san-jose/al-mejor-estilo-de-disney-parque-de-diversion-inauguro-mega-atraccion/?c1"
+        },
+        {
+          "checked": "2026-11-25",
+          "published": "2022-12-03",
+          "readThisRun": true,
+          "title": "Parque de diversiones saca el nuevo “pase estelar” y cuesta solo 5750 colones",
+          "url": "https://adondeircr.com/san-jose/parque-de-diversiones-saca-el-nuevo-pase-estelar-y-cuesta-solo-5750-colones/?c1"
+        },
+        {
           "checked": "2026-11-24",
           "published": "2024-11-04",
           "title": "Descubre el parque acuático que transformará la comunidad de Cobano",
@@ -2465,35 +2539,30 @@
         {
           "checked": "2026-11-24",
           "published": "2023-04-13",
-          "readThisRun": true,
           "title": "Harmony Mini Casa: ¡La forma más única y emocionante de hospedarte en Puerto Viejo!",
           "url": "https://adondeircr.com/limon/harmony-mini-casa-la-forma-mas-unica-y-emocionante-de-hospedarte-en-puerto-viejo/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2023-04-12",
-          "readThisRun": true,
           "title": "Descubre el auténtico sabor caribeño en PARADISE",
           "url": "https://adondeircr.com/limon/descubre-el-autentico-sabor-caribeno-en-paradise/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2023-04-07",
-          "readThisRun": true,
           "title": "La escapada romántica de Mauricio Hoffmann y Majo Ulate en el Caribe",
           "url": "https://adondeircr.com/limon/la-escapada-romantica-de-mauricio-hoffmann-y-majo-ulate-en-el-caribe/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2023-04-02",
-          "readThisRun": true,
           "title": "Descubriendo la misteriosa sirena de Esterillos Oeste: una escultura única en la costa del Pacífico de Costa Rica.",
           "url": "https://adondeircr.com/puntarenas/descubriendo-la-misteriosa-sirena-de-esterillos-oeste-una-escultura-unica-en-la-costa-del-pacifico-de-costa-rica/?c1"
         },
         {
           "checked": "2026-11-24",
           "published": "2023-04-02",
-          "readThisRun": true,
           "title": "Descubre la majestuosidad de Oro Péndola: una de las cataratas más hermosas de Guanacaste",
           "url": "https://adondeircr.com/guanacaste/descubre-la-majestuosidad-de-oro-pendola-una-de-las-cataratas-mas-hermosas-de-guanacaste/?c1"
         },
@@ -2745,12 +2814,6 @@
         },
         {
           "checked": "2026-11-23",
-          "published": "2023-03-14",
-          "title": "(Video) Guanacastecos se levantaron este martes con dos erupciones del volcán Rincón de la Vieja",
-          "url": "https://adondeircr.com/guanacaste/video-guanacastecos-se-levantaron-este-martes-con-dos-erupciones-del-volcan-rincon-de-la-vieja/?c1"
-        },
-        {
-          "checked": "2026-11-23",
           "published": "2023-03-10",
           "title": "¿Tiene planes de sacar la visa estadounidense? Esto es lo que necesita saber",
           "url": "https://adondeircr.com/san-jose/tiene-planes-de-sacar-la-visa-estadounidense-esto-es-lo-que-necesita-saber/?c1"
@@ -2784,12 +2847,6 @@
           "published": "2023-03-07",
           "title": "¿Sabía que en Costa Rica habrá un autocine? Acá le contamos todos los detalles",
           "url": "https://adondeircr.com/san-jose/sabia-que-en-costa-rica-habra-un-autocine-aca-le-contamos-todos-los-detalles/?c1"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2023-03-01",
-          "title": "Playa Conchal es ¡LA PLAYA MÁS HERMOSA DEL MUNDO!",
-          "url": "https://adondeircr.com/guanacaste/playa-conchal-es-la-playa-mas-hermosa-del-mundo/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -2829,12 +2886,6 @@
         },
         {
           "checked": "2026-11-23",
-          "published": "2023-02-16",
-          "title": "Cascadas POZO AZUL",
-          "url": "https://adondeircr.com/alajuela/cascadas-pozo-azul/?c1"
-        },
-        {
-          "checked": "2026-11-23",
           "published": "2023-02-15",
           "title": "GIVEAWAY",
           "url": "https://adondeircr.com/cartago/giveaway/?c1"
@@ -2853,21 +2904,9 @@
         },
         {
           "checked": "2026-11-23",
-          "published": "2022-12-28",
-          "title": "Al mejor estilo de Disney: Parque de diversión inauguró mega atracción",
-          "url": "https://adondeircr.com/san-jose/al-mejor-estilo-de-disney-parque-de-diversion-inauguro-mega-atraccion/?c1"
-        },
-        {
-          "checked": "2026-11-23",
           "published": "2022-12-03",
           "title": "Ya salieron a la venta las entradas para Palmares y estos son los precios",
           "url": "https://adondeircr.com/alajuela/ya-salieron-a-la-venta-las-entradas-para-palmares-y-estos-son-los-precios/?c1"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2022-12-03",
-          "title": "Parque de diversiones saca el nuevo “pase estelar” y cuesta solo 5750 colones",
-          "url": "https://adondeircr.com/san-jose/parque-de-diversiones-saca-el-nuevo-pase-estelar-y-cuesta-solo-5750-colones/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -4492,7 +4531,7 @@
       "read": 4
     },
     "publisher-archive-misticopark-com": {
-      "indexed": 0,
+      "indexed": 17,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -4590,7 +4629,7 @@
           "url": "https://misticopark.com/tours/birding-guided-tour/"
         }
       ],
-      "read": 0
+      "read": 17
     },
     "publisher-archive-museo-exhibitions": {
       "indexed": 33,
@@ -4794,8 +4833,15 @@
       "read": 33
     },
     "publisher-archive-museocr-family-events": {
-      "indexed": 14,
+      "indexed": 15,
       "pages": [
+        {
+          "checked": "2026-11-25",
+          "published": "2026-11-25",
+          "readThisRun": true,
+          "title": "Iluminación del Museo de los Niños tendrá amplio despliegue de seguridad - Museo de los Niños",
+          "url": "https://museocr.org/ninos/iluminacion-del-museo-de-los-ninos-tendra-amplio-despliegue-de-seguridad/"
+        },
         {
           "checked": "2026-11-23",
           "published": "2026-11-12",
@@ -4836,7 +4882,7 @@
           "url": "https://museocr.org/ninos/grupos/"
         }
       ],
-      "read": 7
+      "read": 8
     },
     "publisher-archive-oxygen-adventures": {
       "indexed": 10,
@@ -5936,6 +5982,36 @@
       "indexed": 175,
       "pages": [
         {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "¿Sabés cuántos símbolos nacionales tiene Costa Rica?",
+          "url": "https://vamosaturistear.com/actividades/sabes-cuantos-simbolos-nacionales-tiene-costa-rica/"
+        },
+        {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "Río Savegre: el más limpio de Centroamérica y Reserva de la Biosfera - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/rio-savegre-el-mas-limpio-de-centroamerica-y-reserva-de-la-biosfera/"
+        },
+        {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "La maravillosa Catarata La Fortuna - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/la-maravillosa-catarata-la-fortuna/"
+        },
+        {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "Enamorate de la increíble Catarata Del Toro - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/enamorate-de-la-increible-catarata-del-toro/"
+        },
+        {
+          "checked": "2026-11-25",
+          "readThisRun": true,
+          "title": "Catarata Las Trillizas: Santa Cruz de Turrialba - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/catarata-las-trillizas-santa-cruz-de-turrialba/"
+        },
+        {
           "checked": "2026-11-24",
           "title": "¿Qué es una Zona Azul?",
           "url": "https://vamosaturistear.com/actividades/que-es-una-zona-azul/"
@@ -6052,7 +6128,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "La cueva de Punta Uva",
           "url": "https://vamosaturistear.com/actividades/la-cueva-de-punta-uva/"
         },
@@ -6083,7 +6158,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Estos son los parques nacionales que tenés que conocer en Cartago",
           "url": "https://vamosaturistear.com/actividades/estos-son-los-parques-nacionales-que-tenes-que-conocer-en-cartago/"
         },
@@ -6119,13 +6193,11 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Catarata Las Chorreras: Curubandé, Liberia - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-las-chorreras-curubande-liberia/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Cascadas Pozo Azul: Catarata Nieve y Paz - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/cascadas-pozo-azul-catarata-nieve-y-paz/"
         },
@@ -6161,7 +6233,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "6 playas con pasarelas accesibles - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/6-playas-con-pasarelas-accesibles/"
         },
@@ -6184,11 +6255,6 @@
           "checked": "2026-11-23",
           "title": "¿Un cafecito en el corazón del Teatro Nacional?",
           "url": "https://vamosaturistear.com/actividades/un-cafecito-en-el-corazon-del-teatro-nacional/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "¿Sabés cuántos símbolos nacionales tiene Costa Rica?",
-          "url": "https://vamosaturistear.com/actividades/sabes-cuantos-simbolos-nacionales-tiene-costa-rica/"
         },
         {
           "checked": "2026-11-23",
@@ -6307,11 +6373,6 @@
         },
         {
           "checked": "2026-11-23",
-          "title": "Río Savegre: el más limpio de Centroamérica y Reserva de la Biosfera - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/rio-savegre-el-mas-limpio-de-centroamerica-y-reserva-de-la-biosfera/"
-        },
-        {
-          "checked": "2026-11-23",
           "title": "Río Peñas Blancas: aventura natural entre pozas y bosque nuboso - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/rio-penas-blancas-aventura-natural-entre-pozas-y-bosque-nuboso/"
         },
@@ -6417,11 +6478,6 @@
         },
         {
           "checked": "2026-11-23",
-          "title": "La maravillosa Catarata La Fortuna - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/la-maravillosa-catarata-la-fortuna/"
-        },
-        {
-          "checked": "2026-11-23",
           "title": "La grandiosa Catarata San Fernando",
           "url": "https://vamosaturistear.com/actividades/la-grandiosa-catarata-san-fernando/"
         },
@@ -6474,11 +6530,6 @@
           "checked": "2026-11-23",
           "title": "Estación Biológica La Selva",
           "url": "https://vamosaturistear.com/actividades/estacion-biologica-la-selva/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Enamorate de la increíble Catarata Del Toro - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/enamorate-de-la-increible-catarata-del-toro/"
         },
         {
           "checked": "2026-11-23",
@@ -6584,11 +6635,6 @@
           "checked": "2026-11-23",
           "title": "Catarata Manantial de Agua Viva - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-manantial-de-agua-viva/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "Catarata Las Trillizas: Santa Cruz de Turrialba - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/catarata-las-trillizas-santa-cruz-de-turrialba/"
         },
         {
           "checked": "2026-11-23",
@@ -8366,7 +8412,7 @@
       "read": 14
     },
     "upala-blue-river-day": {
-      "indexed": 2,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -8379,7 +8425,7 @@
           "url": "https://www.blueriverresort.com/contact-us"
         }
       ],
-      "read": 2
+      "read": null
     },
     "upala-water-community": {
       "indexed": 3,
@@ -8473,7 +8519,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Zipline + ATV Shore Excursion from Caldera and Puntarenas",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/zipline-atv-shore-excursion/"
         },
@@ -8549,13 +8594,11 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Horseback Riding & Chocolate Experience Shore Excursion from Caldera and Puntarenas",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-riding-chocolate-experience-shore-excursion-from-caldera-and-puntarenas/"
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Horseback + Zipline Shore Excursion from Caldera and Puntarenas",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/horseback-zipline-shore-excursion/"
         },
@@ -8591,7 +8634,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "Crocodile Safari + ATV Tour Shore Excursion from Caldera and Puntarenas",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/crocodile-safari-atv-tour-shore-excursion-from-caldera-and-puntarenas/"
         },
@@ -8602,7 +8644,6 @@
         },
         {
           "checked": "2026-11-24",
-          "readThisRun": true,
           "title": "ATV Tour & Chocolate Experience Shore Excursion from Caldera and Puntarenas",
           "url": "https://vistalossuenosadventurepark.com/adventure-tours/atv-tour-chocolate-experience-shore-excursion-from-caldera-and-puntarenas/"
         },
@@ -8672,9 +8713,16 @@
       "read": 1
     }
   },
-  "dayUtc": "2026-11-24",
+  "dayUtc": "2026-11-25",
   "history": true,
   "nativeCandidates": [
+    {
+      "article": "https://adondeircr.com/guanacaste/video-guanacastecos-se-levantaron-este-martes-con-dos-erupciones-del-volcan-rincon-de-la-vieja/?c1",
+      "checked": "2026-11-25",
+      "platform": "Facebook",
+      "title": "(Video) Guanacastecos se levantaron este martes con dos erupciones del volcán Rincón de la Vieja",
+      "url": "https://www.facebook.com/OVSICORI/videos/257528513269563"
+    },
     {
       "article": "https://adondeircr.com/limon/harmony-mini-casa-la-forma-mas-unica-y-emocionante-de-hospedarte-en-puerto-viejo/?c1",
       "checked": "2026-11-24",
@@ -8772,13 +8820,6 @@
       "platform": "Facebook",
       "title": "KAIA SMART FOOD",
       "url": "https://www.facebook.com/ADondeIrCostaRica/videos/954924078870546"
-    },
-    {
-      "article": "https://adondeircr.com/guanacaste/video-guanacastecos-se-levantaron-este-martes-con-dos-erupciones-del-volcan-rincon-de-la-vieja/?c1",
-      "checked": "2026-11-23",
-      "platform": "Facebook",
-      "title": "(Video) Guanacastecos se levantaron este martes con dos erupciones del volcán Rincón de la Vieja",
-      "url": "https://www.facebook.com/OVSICORI/videos/257528513269563"
     },
     {
       "article": "https://adondeircr.com/san-jose/va-para-parque-diversiones-ya-no-puede-llevar-los-siguientes-alimentos/?c1",
@@ -9355,8 +9396,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 20,
-  "pagesRead": 20,
-  "pagesReadToDate": 1425,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45413680112"
+  "pagesChecked": 21,
+  "pagesRead": 18,
+  "pagesReadToDate": 1433,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45633711629"
 }
