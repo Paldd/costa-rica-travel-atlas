@@ -309,7 +309,15 @@
       "murcielago-santa-elena-mtb",
       "junquillal",
       "cuajiniquil-local-mangrove-boat"
-    ]
+    ],
+    "accessNotice": {
+      "title": "В материковом секторе выходной в среду",
+      "text": "Портал ACG указывает выходной по средам. В остальные дни заранее проверьте доступ к дороге, тропе и велосипедной поездке у рейнджеров. Временные ограничения публикуются отдельно.",
+      "sources": [
+        "acg-sector-calendar-nov26",
+        "murcielago-mainland-book-nov23"
+      ]
+    }
   },
   "murcielago-santa-elena-mtb": {
     "stops": [
@@ -384,7 +392,15 @@
       "murcielago-hachal-walk-12",
       "junquillal",
       "murcielago-bat-islands-scuba"
-    ]
+    ],
+    "accessNotice": {
+      "title": "В материковом секторе выходной в среду",
+      "text": "Портал ACG указывает выходной по средам. В остальные дни заранее проверьте доступ к дороге, тропе и велосипедной поездке у рейнджеров. Временные ограничения публикуются отдельно.",
+      "sources": [
+        "acg-sector-calendar-nov26",
+        "murcielago-mainland-book-nov23"
+      ]
+    }
   },
   "junquillal-carao-estero-laguna": {
     "connectStops": false,

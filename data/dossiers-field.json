@@ -1125,7 +1125,16 @@
       "santa-rosa-camp",
       "tamarindo-surf"
     ],
-    "track": "naranjo-acg-field"
+    "track": "naranjo-acg-field",
+    "accessNotice": {
+      "title": "Наземный вход в Playa Naranjo по расписанию ACG",
+      "text": "При подъезде через Santa Rosa действует выходной во вторник и последний вход до 14:00. Отдельно подтверждайте разрешения, волну и точку отправления для морского маршрута.",
+      "sources": [
+        "acg-sector-calendar-nov26",
+        "naranjo",
+        "ict-surf"
+      ]
+    }
   },
   "rincon-pailas": {
     "stops": [

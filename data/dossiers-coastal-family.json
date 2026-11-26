@@ -655,6 +655,15 @@
     "photos": [
       "casona-santa-rosa",
       "santa-rosa-dry-forest"
-    ]
+    ],
+    "accessNotice": {
+      "title": "План Наранхо сверяется с календарём ACG",
+      "text": "ACG указывает закрытие Playa Naranjo по вторникам и последний вход до 14:00. Если день Наранхо выпадает на вторник или дорога закрыта, оставьте подтверждённый день у Junquillal и береговую остановку в Салинасе.",
+      "sources": [
+        "acg-sector-calendar-nov26",
+        "naranjo",
+        "junquillal-booking"
+      ]
+    }
   }
 }

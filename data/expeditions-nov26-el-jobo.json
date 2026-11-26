@@ -1,0 +1,116 @@
+[
+  {
+    "id": "el-jobo-camp-chaperno-bahias-3",
+    "kind": "trip",
+    "region": "guanacaste",
+    "title": "Эль-Хобо за 3 дня · палатка на крыше, короткая тропа и бухты Ла-Крус",
+    "native": "El Jobo · La Casa del Árbol · Sendero Chaperno · Muelle de Cuajiniquil · Bahía Junquillal",
+    "level": "moderate",
+    "days": 3,
+    "activities": [
+      "camping",
+      "rooftent",
+      "glamping",
+      "hiking",
+      "forest",
+      "boat",
+      "wildlife",
+      "beach",
+      "views"
+    ],
+    "audience": [
+      "family-teen",
+      "family-adults",
+      "friends",
+      "mens",
+      "solo"
+    ],
+    "access": [
+      "car",
+      "high",
+      "transfer",
+      "boat",
+      "confirm"
+    ],
+    "sleep": [
+      "tent",
+      "roof",
+      "glamping"
+    ],
+    "sources": [
+      "el-jobo-arbol-operator-listing",
+      "el-jobo-arbol-host-description",
+      "el-jobo-arbol-roof-guide",
+      "el-jobo-chaperno-ascatur-program",
+      "el-jobo-ascatur-contact",
+      "cuajiniquil-bahias-ascatur-program",
+      "junquillal-trails",
+      "junquillal-association",
+      "el-jobo-rajada-osm-road",
+      "el-jobo-junquillal-osm-road",
+      "el-jobo-cuajiniquil-pier-osm-road"
+    ],
+    "summary": "Две ночи у Эль-Хобо с короткой тропой, полноценным лодочным днём и запасным днём у Хункильяля.",
+    "plan": "Подтвердите место для ночёвки и два отдельных бронирования, Chaperno и дневную лодку. Возьмите крышную палатку или оборудованный тент по наличию.",
+    "conditions": "Предупредите хозяев о габаритах автомобиля. Если морской выход отменяется, используйте день у Bahía Junquillal по правилам заказника. Свободное время оставьте на дорожные паузы и прилив.",
+    "distance": null,
+    "stages": [
+      {
+        "day": 1,
+        "title": "Лагерь и тропа Chaperno",
+        "note": "Заезжайте засветло и проверьте площадку. При раннем приезде сходите с проводником на 1,5 км к смотровой. Рахада подходит для короткой вечерней остановки до темноты.",
+        "stops": [
+          "el-jobo-casa-del-arbol-camp",
+          "el-jobo-ascatur-chaperno-walk-15",
+          "rajada-salinas-beach"
+        ],
+        "points": [
+          "el-jobo-hamlet-anchor",
+          "rajada-area"
+        ],
+        "sources": [
+          "el-jobo-arbol-operator-listing",
+          "el-jobo-chaperno-ascatur-program",
+          "el-jobo-rajada-osm-road"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Полный день на лодке по бухтам",
+        "note": "Езжайте на Muelle INCOPESCA к назначенному часу. Порядок островных остановок, купание и питание подтвердите с капитаном в день выезда.",
+        "stops": [
+          "cuajiniquil-ascatur-bahias-full-day"
+        ],
+        "points": [
+          "el-jobo-hamlet-anchor",
+          "junquillal-cuajiniquil",
+          "cuajiniquil-incopesca-pier"
+        ],
+        "sources": [
+          "cuajiniquil-bahias-ascatur-program",
+          "cuajiniquil-incopesca-osm",
+          "el-jobo-cuajiniquil-pier-osm-road"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Короткие тропы и берег Хункильяля",
+        "note": "После сборов лагеря выезжайте в заказник через Куахиникиль. Выберите одну из троп по уровню группы. При желании продлите поездку, забронировав место для кемпера у ассоциации.",
+        "stops": [
+          "junquillal",
+          "junquillal-carao-estero-laguna"
+        ],
+        "points": [
+          "el-jobo-hamlet-anchor",
+          "junquillal-cuajiniquil",
+          "junquillal-gate"
+        ],
+        "sources": [
+          "el-jobo-junquillal-osm-road",
+          "junquillal-trails",
+          "junquillal-association"
+        ]
+      }
+    ]
+  }
+]

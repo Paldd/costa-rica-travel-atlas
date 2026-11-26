@@ -1,0 +1,299 @@
+{
+  "el-jobo-casa-del-arbol-camp": {
+    "stops": [
+      {
+        "point": "el-jobo-hamlet-anchor",
+        "role": "El Jobo · ориентир до хозяев и центра ASCATUR",
+        "note": "Координаты относятся к посёлку. Пин въезда в кемпинг дают хозяева. Встреча для Chaperno проходит в центре ASCATUR за 300 м до JW Marriott Costa Elena."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Casa del Árbol · кемпинг и тенты",
+        "source": "el-jobo-arbol-operator-listing",
+        "phone": "+506 8577 9648",
+        "whatsapp": "https://wa.me/50685779648",
+        "note": "Запросите точный пин въезда, габариты площадки для машины, окна заезда и тариф для детей."
+      }
+    ],
+    "galleries": [
+      "el-jobo-arbol-roof-guide",
+      "el-jobo-arbol-host-description",
+      "el-jobo-arbol-operator-listing",
+      "el-jobo-arbol-visitor-reviews"
+    ],
+    "sections": [
+      {
+        "title": "Где ночевать",
+        "text": "Хозяева описывают оборудованные тенты на деревьях, места для обычных палаток и парковку. Полевой справочник указывает размещение с крышной палаткой и кемпером. Спросите, какая площадка свободна и какая высота проходит под навесом.",
+        "sources": [
+          "el-jobo-arbol-host-description",
+          "el-jobo-arbol-operator-listing",
+          "el-jobo-arbol-roof-guide"
+        ]
+      },
+      {
+        "title": "Душ, вода и дети",
+        "text": "В полевом отчёте показаны душ, туалет, навесы и небольшая детская площадка. С собой возьмите воду в дорогу, фонарь на лестницу и тент от ветра. Если собираетесь готовить, заранее спросите, какие жаровни доступны.",
+        "sources": [
+          "el-jobo-arbol-roof-guide",
+          "el-jobo-arbol-host-description"
+        ]
+      },
+      {
+        "title": "Чем заняться рядом",
+        "text": "Хозяева перечисляют каяки, лодочные прогулки и рыбалку. Согласуйте, кто проводит выезд, откуда он начинается и когда безопасно выходить по прогнозу.",
+        "sources": [
+          "el-jobo-arbol-operator-listing",
+          "el-jobo-arbol-host-description",
+          "mio-cimar-sea"
+        ]
+      }
+    ],
+    "nearby": [
+      "el-jobo-ascatur-chaperno-walk-15",
+      "el-jobo-camp-chaperno-bahias-3",
+      "rajada-salinas-beach",
+      "cuajiniquil-ascatur-bahias-full-day"
+    ],
+    "connectStops": false,
+    "accessNotice": {
+      "title": "Уточните геометку въезда",
+      "text": "Пин в атласе отмечает деревню El Jobo. Хозяева уточняют точку въезда, тип площадки и место для лестницы крыши.",
+      "sources": [
+        "el-jobo-arbol-operator-listing",
+        "el-jobo-arbol-roof-guide",
+        "el-jobo-map-hamlet"
+      ]
+    }
+  },
+  "el-jobo-ascatur-chaperno-walk-15": {
+    "stops": [
+      {
+        "point": "el-jobo-hamlet-anchor",
+        "role": "El Jobo · ориентир до хозяев и центра ASCATUR",
+        "note": "Координаты относятся к посёлку. Пин въезда в кемпинг дают хозяева. Встреча для Chaperno проходит в центре ASCATUR за 300 м до JW Marriott Costa Elena."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASCATUR · запись на тропу и водный выезд",
+        "source": "el-jobo-ascatur-contact",
+        "phone": "+506 8838 9639",
+        "whatsapp": "https://wa.me/50688389639",
+        "email": "touroperadorlacruz@gmail.com",
+        "note": "Подтвердите время, точку встречи, программу, возраст и продолжительность по условиям дня."
+      }
+    ],
+    "galleries": [
+      "el-jobo-chaperno-ascatur-program",
+      "el-jobo-ascatur-contact"
+    ],
+    "sections": [
+      {
+        "title": "Тропа до смотровой",
+        "text": "Ассоциация даёт 750 м в одну сторону и 1,5 км с возвратом. Местные проводники показывают деревья сухого леса и птиц. Договоритесь о раннем времени и возьмите воду.",
+        "sources": [
+          "el-jobo-chaperno-ascatur-program"
+        ]
+      },
+      {
+        "title": "Где встречаться",
+        "text": "Старт назначают в местном Centro Turístico ASCATUR за 300 м до JW Marriott Costa Elena. В контакте есть поисковая ссылка на площадку. Координаты на карточке дают ориентир района до подтверждения пина центра.",
+        "sources": [
+          "el-jobo-ascatur-contact",
+          "el-jobo-map-hamlet"
+        ]
+      },
+      {
+        "title": "Семейная прогулка",
+        "text": "Сообщите возраст и темп детей. Уточните грязь и удобство короткого пути после дождя, а также время остановок у смотровой.",
+        "sources": [
+          "el-jobo-chaperno-ascatur-program",
+          "el-jobo-ascatur-contact"
+        ]
+      }
+    ],
+    "nearby": [
+      "el-jobo-casa-del-arbol-camp",
+      "el-jobo-camp-chaperno-bahias-3",
+      "rajada-salinas-beach"
+    ],
+    "connectStops": false
+  },
+  "cuajiniquil-ascatur-bahias-full-day": {
+    "stops": [
+      {
+        "point": "cuajiniquil-incopesca-pier",
+        "role": "Muelle de Cuajiniquil · встреча с лодкой",
+        "note": "Это причал INCOPESCA. У экипажа подтвердите точку на берегу, время выхода и парковку."
+      },
+      {
+        "point": "junquillal-gate",
+        "role": "Bahía Junquillal · въезд в заказник",
+        "note": "Зарегистрируйтесь у принимающей ассоциации. При планировании ночёвки согласуйте место для машины заранее."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "ASCATUR · запись на тропу и водный выезд",
+        "source": "el-jobo-ascatur-contact",
+        "phone": "+506 8838 9639",
+        "whatsapp": "https://wa.me/50688389639",
+        "email": "touroperadorlacruz@gmail.com",
+        "note": "Подтвердите время, точку встречи, программу, возраст и продолжительность по условиям дня."
+      }
+    ],
+    "galleries": [
+      "cuajiniquil-bahias-ascatur-program",
+      "el-jobo-ascatur-contact"
+    ],
+    "sections": [
+      {
+        "title": "День на воде",
+        "text": "ASCATUR публикует дневной формат с экипажем и гидом. Выход от причала до острова Давид, затем бухта Хункильяль и местный берег Брасилито. В районе Муньекос ведущий выбирает время наблюдений и купания по условиям.",
+        "sources": [
+          "cuajiniquil-bahias-ascatur-program"
+        ]
+      },
+      {
+        "title": "Причал и местные названия",
+        "text": "Точка причала нанесена по OpenStreetMap. Станция SINAMOT и IOC подтверждает район посадки. При записи попросите координаты островных остановок и локального пляжа у Ла-Крус.",
+        "sources": [
+          "cuajiniquil-bahias-ascatur-program",
+          "cuajiniquil-incopesca-osm",
+          "cuajiniquil-incopesca-una",
+          "cuajiniquil-unesc-ioc-gauge"
+        ]
+      },
+      {
+        "title": "Если ветер меняет маршрут",
+        "text": "Проверьте прогноз ветра и волн и попросите капитана озвучить план возвращения. Для детей заранее уточняйте возраст и размеры жилетов. Уточните включение снорклинга, рыбалки и питания перед записью.",
+        "sources": [
+          "cuajiniquil-bahias-ascatur-program",
+          "el-jobo-ascatur-contact",
+          "mio-cimar-sea"
+        ]
+      }
+    ],
+    "nearby": [
+      "el-jobo-casa-del-arbol-camp",
+      "el-jobo-camp-chaperno-bahias-3",
+      "cuajiniquil-local-mangrove-boat",
+      "junquillal"
+    ],
+    "connectStops": false
+  },
+  "el-jobo-camp-chaperno-bahias-3": {
+    "stops": [
+      {
+        "point": "el-jobo-hamlet-anchor",
+        "role": "El Jobo · ориентир до хозяев и центра ASCATUR",
+        "note": "Координаты относятся к посёлку. Пин въезда в кемпинг дают хозяева. Встреча для Chaperno проходит в центре ASCATUR за 300 м до JW Marriott Costa Elena."
+      },
+      {
+        "point": "rajada-area",
+        "role": "Плайя-Рахада · береговой ориентир",
+        "note": "Выберите удобное место для короткой прогулки на берегу и парковки вне пляжной полосы."
+      },
+      {
+        "point": "junquillal-cuajiniquil",
+        "role": "Куахиникиль · развилка к причалу и заказнику",
+        "note": "Дороги к причалу и Bahía Junquillal расходятся. Сохраните обе точки."
+      },
+      {
+        "point": "cuajiniquil-incopesca-pier",
+        "role": "Muelle de Cuajiniquil · встреча с лодкой",
+        "note": "Это причал INCOPESCA. У экипажа подтвердите точку на берегу, время выхода и парковку."
+      },
+      {
+        "point": "junquillal-gate",
+        "role": "Bahía Junquillal · въезд в заказник",
+        "note": "Зарегистрируйтесь у принимающей ассоциации. При планировании ночёвки согласуйте место для машины заранее."
+      }
+    ],
+    "contacts": [
+      {
+        "name": "La Casa del Árbol · кемпинг и тенты",
+        "source": "el-jobo-arbol-operator-listing",
+        "phone": "+506 8577 9648",
+        "whatsapp": "https://wa.me/50685779648",
+        "note": "Запросите точный пин въезда, габариты площадки для машины, окна заезда и тариф для детей."
+      },
+      {
+        "name": "ASCATUR · запись на тропу и водный выезд",
+        "source": "el-jobo-ascatur-contact",
+        "phone": "+506 8838 9639",
+        "whatsapp": "https://wa.me/50688389639",
+        "email": "touroperadorlacruz@gmail.com",
+        "note": "Подтвердите время, точку встречи, программу, возраст и продолжительность по условиям дня."
+      },
+      {
+        "name": "Aso Junquillal · дневной вход и места для кемперов",
+        "source": "junquillal-association",
+        "url": "https://www.junquillallacruz.com/contacto/",
+        "note": "Спросите о брони кемпера, числе участников и часах въезда."
+      }
+    ],
+    "galleries": [
+      "el-jobo-arbol-roof-guide",
+      "el-jobo-chaperno-ascatur-program",
+      "cuajiniquil-bahias-ascatur-program"
+    ],
+    "videos": [
+      "film-qbl-bahia-junquillal"
+    ],
+    "nearby": [
+      "el-jobo-casa-del-arbol-camp",
+      "el-jobo-ascatur-chaperno-walk-15",
+      "cuajiniquil-ascatur-bahias-full-day",
+      "junquillal"
+    ],
+    "mediaStops": [
+      "el-jobo-casa-del-arbol-camp",
+      "el-jobo-ascatur-chaperno-walk-15",
+      "cuajiniquil-ascatur-bahias-full-day",
+      "junquillal"
+    ],
+    "line": "el-jobo-coastal-four-stops",
+    "accessNotice": {
+      "title": "Уточните геометку въезда",
+      "text": "Пин в атласе отмечает деревню El Jobo. Хозяева уточняют точку въезда, тип площадки и место для лестницы крыши.",
+      "sources": [
+        "el-jobo-arbol-operator-listing",
+        "el-jobo-arbol-roof-guide",
+        "el-jobo-map-hamlet"
+      ]
+    },
+    "sections": [
+      {
+        "title": "Две ночи у берега",
+        "text": "La Casa del Árbol предлагает несколько форматов. Согласуйте место для лестницы, въезд и воду. Альтернатива с подтверждённой зоной кемперов есть в Bahía Junquillal при предварительной записи.",
+        "sources": [
+          "el-jobo-arbol-operator-listing",
+          "el-jobo-arbol-roof-guide",
+          "junquillal-association"
+        ]
+      },
+      {
+        "title": "Дороги и GPX",
+        "text": "На карте даны три рассчитанных дорожных отрезка от Эль-Хобо. К Рахаде около 3 км, к заказнику около 25,8 км. Для выезда на лодке выберите линию до причала.",
+        "sources": [
+          "el-jobo-rajada-osm-road",
+          "el-jobo-cuajiniquil-pier-osm-road",
+          "el-jobo-junquillal-osm-road"
+        ]
+      },
+      {
+        "title": "Пасмурный или ветреный день",
+        "text": "Согласуйте выход с капитаном и заранее оставьте дневной план у Хункильяля. В заказнике действует запрет на костры. До выезда проверьте место для ночёвки и часы въезда.",
+        "sources": [
+          "cuajiniquil-bahias-ascatur-program",
+          "mio-cimar-sea",
+          "junquillal-trails",
+          "junquillal-association"
+        ]
+      }
+    ]
+  }
+}

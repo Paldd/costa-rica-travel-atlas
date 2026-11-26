@@ -3191,5 +3191,23 @@
       "/index",
       "/index/contact-us"
     ]
+  },
+  {
+    "name": "ASCATUR · тропа Chaperno и лодочные выезды из Куахиникиля",
+    "url": "https://ascatur.com/es/catalogo",
+    "review": "el-jobo-ascatur-catalog",
+    "exactPaths": [
+      "/es/catalogo",
+      "/es/tours/sendero-chaperno",
+      "/es/tours/bahias-la-cruz"
+    ]
+  },
+  {
+    "name": "Costa Rica Camping Guide · La Casa del Árbol в Эль-Хобо",
+    "url": "https://costaricacampsites.com/camp-sites/the-treehouse-camping-zone/",
+    "review": "el-jobo-arbol-roof-guide",
+    "exactPaths": [
+      "/camp-sites/the-treehouse-camping-zone"
+    ]
   }
 ]
