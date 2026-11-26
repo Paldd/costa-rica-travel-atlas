@@ -1,5 +1,5 @@
 {
-  "archives": 176,
+  "archives": 178,
   "archivesRead": 173,
   "bySource": {
     "aguas-claras-activity-index": {
@@ -249,7 +249,7 @@
       "read": 1
     },
     "bocas-visit-classic-boat": {
-      "indexed": 14,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-25",
@@ -346,10 +346,10 @@
           "url": "https://go.bocasdeltoro.travel/es/recommended/cayo-coral-restaurante/"
         }
       ],
-      "read": 14
+      "read": 1
     },
     "buen-camino-owner-ride": {
-      "indexed": 4,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -376,7 +376,7 @@
           "url": "https://buencaminocr.com/es/eat/"
         }
       ],
-      "read": 4
+      "read": null
     },
     "camino-esencial-video-series": {
       "indexed": 1,
@@ -461,7 +461,7 @@
       "read": 1
     },
     "carrillotours-costa-rica-activities": {
-      "indexed": 30,
+      "indexed": 0,
       "pages": [
         {
           "checked": "2026-11-24",
@@ -614,7 +614,7 @@
           "url": "https://carrillotours.com/tour-item/arenalvolcano/"
         }
       ],
-      "read": 30
+      "read": 0
     },
     "casa-luna-own-forest-trail": {
       "indexed": 2,
@@ -1204,32 +1204,57 @@
         {
           "checked": "2026-11-26",
           "readThisRun": true,
+          "title": "October 2016 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2016/10/"
+        },
+        {
+          "checked": "2026-11-26",
           "title": "November 2017 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2017/11/"
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "May 2018 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2018/05/"
         },
         {
           "checked": "2026-11-26",
           "readThisRun": true,
+          "title": "May 2017 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2017/05/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "July 2017 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2017/07/"
+        },
+        {
+          "checked": "2026-11-26",
           "title": "January 2018 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2018/01/"
         },
         {
           "checked": "2026-11-26",
           "readThisRun": true,
+          "title": "January 2017 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2017/01/"
+        },
+        {
+          "checked": "2026-11-26",
           "title": "December 2017 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2017/12/"
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "April 2018 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2018/04/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "April 2017 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2017/04/"
         },
         {
           "checked": "2026-11-25",
@@ -1522,7 +1547,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 63
+      "read": 68
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -1593,6 +1618,42 @@
           "checked": "2026-11-22",
           "title": "Electric Bikes & Bikes Rental | Samara Explorers",
           "url": "https://www.samaraexplorers.com/rentals/bikes"
+        }
+      ],
+      "read": 3
+    },
+    "el-jobo-arbol-roof-guide": {
+      "indexed": 1,
+      "pages": [
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "The Treehouse Camping Zone - Costa Rica Camping Guide",
+          "url": "https://costaricacampsites.com/camp-sites/the-treehouse-camping-zone/"
+        }
+      ],
+      "read": 1
+    },
+    "el-jobo-ascatur-catalog": {
+      "indexed": 3,
+      "pages": [
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "Tour bahías de La Cruz Guanacaste | ASCATUR",
+          "url": "https://ascatur.com/es/tours/bahias-la-cruz"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "Sendero Chaperno El Jobo La Cruz | ASCATUR",
+          "url": "https://ascatur.com/es/tours/sendero-chaperno"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "La Cruz se camina | Experiencia ASCATUR El Jobo",
+          "url": "https://ascatur.com/es/catalogo"
         }
       ],
       "read": 3
@@ -2479,37 +2540,67 @@
         {
           "checked": "2026-11-26",
           "published": "2022-11-04",
-          "readThisRun": true,
           "title": "¿Va para Parque Diversiones? Ya no puede llevar los siguientes alimentos",
           "url": "https://adondeircr.com/san-jose/va-para-parque-diversiones-ya-no-puede-llevar-los-siguientes-alimentos/?c1"
         },
         {
           "checked": "2026-11-26",
           "published": "2022-08-10",
-          "readThisRun": true,
           "title": "Parque Nacional Volcán Turrialba se prepara para recibir nuevamente a visitantes",
           "url": "https://adondeircr.com/cartago/parque-nacional-volcan-turrialba-se-prepara-para-recibir-nuevamente-a-visitantes/?c1"
         },
         {
           "checked": "2026-11-26",
           "published": "2022-07-18",
-          "readThisRun": true,
           "title": "¡La mejor playa del mundo es tica y está en Guanacaste!",
           "url": "https://adondeircr.com/guanacaste/la-mejor-playa-del-mundo-es-tica-y-esta-en-guanacaste/?c1"
         },
         {
           "checked": "2026-11-26",
           "published": "2022-07-06",
-          "readThisRun": true,
           "title": "Paseos de un día que podés realizar en la GAM",
           "url": "https://adondeircr.com/alajuela/paseos-de-un-dia-que-podes-realizar-en-la-gam/?c1"
         },
         {
           "checked": "2026-11-26",
           "published": "2022-06-22",
-          "readThisRun": true,
           "title": "El Rayo McQueen y sus amigos llegarán de exhibición a Costa Rica",
           "url": "https://adondeircr.com/san-jose/el-rayo-mcqueen-y-sus-amigos-llegaran-de-exhibicion-a-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2022-03-16",
+          "readThisRun": true,
+          "title": "(Video) ¡Qué belleza! Turista graba un jaguar dentro del Parque Nacional Santa Rosa",
+          "url": "https://adondeircr.com/guanacaste/video-que-belleza-turista-graba-un-jaguar-dentro-del-parque-nacional-santa-rosa/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2021-06-03",
+          "readThisRun": true,
+          "title": "(Video)Keylor Navas invita a todos los aficionados del PSG a que visiten Costa Rica",
+          "url": "https://adondeircr.com/guanacaste/videokeylor-navas-invita-a-todos-los-aficionados-del-psg-a-que-visiten-costa-rica/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2020-11-26",
+          "readThisRun": true,
+          "title": "Viví la experiencia de Río Celeste",
+          "url": "https://adondeircr.com/guanacaste/vivi-la-experiencia-de-rio-celeste/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2020-08-19",
+          "readThisRun": true,
+          "title": "Cuatro cantones se encuentran en alerta temprana por aumento drástico de casos",
+          "url": "https://adondeircr.com/san-jose/cuatro-cantones-se-encuentran-en-alerta-temprana-por-aumento-drastico-de-casos/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2020-08-18",
+          "readThisRun": true,
+          "title": "Tras encierro por COVID-19 pareja de Suizos viajó a Costa Rica para comprar una casa en Cartago",
+          "url": "https://adondeircr.com/cartago/https-twitter-com-aalfrd0-status-1293386876729122817ref_srctwsrctfwtwcamptweetembedtwterm1293386876729122817twgrref_urlhttps-mag-elcomercio-pe-virales-video-vira/?c1"
         },
         {
           "checked": "2026-11-25",
@@ -3041,18 +3132,6 @@
         },
         {
           "checked": "2026-11-23",
-          "published": "2022-03-16",
-          "title": "(Video) ¡Qué belleza! Turista graba un jaguar dentro del Parque Nacional Santa Rosa",
-          "url": "https://adondeircr.com/guanacaste/video-que-belleza-turista-graba-un-jaguar-dentro-del-parque-nacional-santa-rosa/?c1"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2021-06-03",
-          "title": "(Video)Keylor Navas invita a todos los aficionados del PSG a que visiten Costa Rica",
-          "url": "https://adondeircr.com/guanacaste/videokeylor-navas-invita-a-todos-los-aficionados-del-psg-a-que-visiten-costa-rica/?c1"
-        },
-        {
-          "checked": "2026-11-23",
           "published": "2021-05-19",
           "title": "Atención: Así funcionará la nueva restricción por placas par e impar durante los próximos 12 días",
           "url": "https://adondeircr.com/heredia/atencion-asi-funcionara-la-nueva-restriccion-por-placas-par-e-impar-durante-los-proximos-12-dias/?c1"
@@ -3062,12 +3141,6 @@
           "published": "2021-02-23",
           "title": "¿Pagaría ₡16 mil por un casado?",
           "url": "https://adondeircr.com/guanacaste/pagaria-%e2%82%a116-mil-por-un-casado/?c1"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2020-11-26",
-          "title": "Viví la experiencia de Río Celeste",
-          "url": "https://adondeircr.com/guanacaste/vivi-la-experiencia-de-rio-celeste/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -3712,7 +3785,7 @@
           "url": "https://adondeircr.com/alajuela/bosque-del-nino-grecia-alajuela-costa-rica/?c1"
         }
       ],
-      "read": 205
+      "read": 207
     },
     "publisher-andaz-pura-vida-activities": {
       "indexed": 3,
@@ -3776,7 +3849,7 @@
       "read": 6
     },
     "publisher-archive-arenalmanoa-com": {
-      "indexed": 15,
+      "indexed": 0,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3869,7 +3942,7 @@
           "url": "https://arenalmanoa.com/blog/rainy-day-in-la-fortuna/"
         }
       ],
-      "read": 15
+      "read": 0
     },
     "publisher-archive-artvillas-experiences": {
       "indexed": 2,
@@ -4856,7 +4929,7 @@
       "read": 33
     },
     "publisher-archive-museocr-family-events": {
-      "indexed": 14,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-25",
@@ -4904,7 +4977,7 @@
           "url": "https://museocr.org/ninos/grupos/"
         }
       ],
-      "read": 7
+      "read": null
     },
     "publisher-archive-oxygen-adventures": {
       "indexed": 10,
@@ -6005,33 +6078,46 @@
       "pages": [
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "Playa Carrillo: Hojancha Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/playa-carrillo-hojancha-guanacaste/"
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "El Caribe esconde pozas naturales",
           "url": "https://vamosaturistear.com/actividades/el-caribe-esconde-pozas-naturales/"
         },
         {
           "checked": "2026-11-26",
           "readThisRun": true,
+          "title": "6 cerros para hacer hiking",
+          "url": "https://vamosaturistear.com/actividades/6-cerros-para-hacer-hiking/"
+        },
+        {
+          "checked": "2026-11-26",
           "title": "5 tours para disfrutar de Dota",
           "url": "https://vamosaturistear.com/actividades/5-tours-para-disfrutar-de-dota/"
         },
         {
           "checked": "2026-11-26",
           "readThisRun": true,
+          "title": "5 lugares perfectos para parejas o amigos",
+          "url": "https://vamosaturistear.com/actividades/5-lugares-perfectos-para-parejas-o-amigos/"
+        },
+        {
+          "checked": "2026-11-26",
           "title": "5 destinos perfectos para disfrutar de Guanacaste - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/5-destinos-perfectos-para-disfrutar-de-guanacaste/"
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "10 datos curiosos sobre el Sanatorio Durán",
           "url": "https://vamosaturistear.com/actividades/10-datos-curiosos-sobre-el-sanatorio-duran/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "10 cataratas que debés visitar parte #2",
+          "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         },
         {
           "checked": "2026-11-25",
@@ -6830,16 +6916,6 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "6 cerros para hacer hiking",
-          "url": "https://vamosaturistear.com/actividades/6-cerros-para-hacer-hiking/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "5 lugares perfectos para parejas o amigos",
-          "url": "https://vamosaturistear.com/actividades/5-lugares-perfectos-para-parejas-o-amigos/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "5 Fincas para hacer un coffee tour en Costa Rica - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/5-fincas-para-hacer-un-coffee-tour-en-costa-rica/"
         },
@@ -6852,11 +6928,6 @@
           "checked": "2026-11-21",
           "title": "4 Sitios pet friendly para salir a turistear - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/4-sitios-pet-friendly-para-salir-a-turistear/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "10 cataratas que debés visitar parte #2",
-          "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         }
       ],
       "read": 170
@@ -7280,7 +7351,7 @@
       "read": 1
     },
     "publisher-site-archive-specialplaces": {
-      "indexed": 24,
+      "indexed": 0,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -7427,7 +7498,7 @@
           "url": "https://www.specialplacesofcostarica.com/blog/intro-ai-vacation-rental-industry/"
         }
       ],
-      "read": 24
+      "read": 0
     },
     "publisher-site-costa-tours": {
       "indexed": 14,
@@ -8358,7 +8429,7 @@
       "read": 3
     },
     "undersea-trip-reports": {
-      "indexed": 14,
+      "indexed": 4,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -8431,7 +8502,7 @@
           "url": "https://underseahunter.com/trip-report/breaking-news-extremely-rare-fin-whale-sighting-at-cocos-island-costa-rica/"
         }
       ],
-      "read": 14
+      "read": 4
     },
     "upala-blue-river-day": {
       "indexed": 2,
@@ -9418,8 +9489,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 60,
-  "pagesRead": 15,
-  "pagesReadToDate": 1438,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45838690940"
+  "pagesChecked": 25,
+  "pagesRead": 17,
+  "pagesReadToDate": 1449,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45863451260"
 }
