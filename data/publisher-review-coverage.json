@@ -1,6 +1,6 @@
 {
   "archives": 176,
-  "archivesRead": 170,
+  "archivesRead": 173,
   "bySource": {
     "aguas-claras-activity-index": {
       "indexed": 6,
@@ -254,14 +254,12 @@
         {
           "checked": "2026-11-25",
           "published": "2026-11-25",
-          "readThisRun": true,
           "title": "Isla Bastimentos y Old Bank, Bocas del Toro: qué hacer",
           "url": "https://go.bocasdeltoro.travel/es/blog-es/isla-bastimentos-y-old-bank/"
         },
         {
           "checked": "2026-11-25",
           "published": "2026-11-25",
-          "readThisRun": true,
           "title": "Isla Bastimentos & Old Bank, Bocas del Toro: Things to Do",
           "url": "https://go.bocasdeltoro.travel/blog/isla-bastimentos-old-bank/"
         },
@@ -420,7 +418,7 @@
       "read": 2
     },
     "caribe-publisher-banana-routes": {
-      "indexed": null,
+      "indexed": 2,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -433,7 +431,7 @@
           "url": "https://www.bananaazul.com/contact"
         }
       ],
-      "read": null
+      "read": 2
     },
     "caribe-publisher-cameleon-experiences": {
       "indexed": 2,
@@ -829,7 +827,7 @@
       "read": 20
     },
     "caturcochi-perezzeledon-directory": {
-      "indexed": null,
+      "indexed": 1,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -837,7 +835,7 @@
           "url": "https://www.perezzeledon.cr/directorios/caturcochi/"
         }
       ],
-      "read": null
+      "read": 1
     },
     "cinchona-trails-operator": {
       "indexed": 1,
@@ -1204,32 +1202,57 @@
       "indexed": 83,
       "pages": [
         {
-          "checked": "2026-11-25",
+          "checked": "2026-11-26",
           "readThisRun": true,
+          "title": "November 2017 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2017/11/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "May 2018 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2018/05/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "January 2018 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2018/01/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "December 2017 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2017/12/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "April 2018 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2018/04/"
+        },
+        {
+          "checked": "2026-11-25",
           "title": "September 2018 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2018/09/"
         },
         {
           "checked": "2026-11-25",
-          "readThisRun": true,
           "title": "October 2018 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2018/10/"
         },
         {
           "checked": "2026-11-25",
-          "readThisRun": true,
           "title": "November 2018 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2018/11/"
         },
         {
           "checked": "2026-11-25",
-          "readThisRun": true,
           "title": "June 2018 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2018/06/"
         },
         {
           "checked": "2026-11-25",
-          "readThisRun": true,
           "title": "December 2018 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2018/12/"
         },
@@ -1499,7 +1522,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 58
+      "read": 63
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -2454,37 +2477,67 @@
       "indexed": 207,
       "pages": [
         {
+          "checked": "2026-11-26",
+          "published": "2022-11-04",
+          "readThisRun": true,
+          "title": "¿Va para Parque Diversiones? Ya no puede llevar los siguientes alimentos",
+          "url": "https://adondeircr.com/san-jose/va-para-parque-diversiones-ya-no-puede-llevar-los-siguientes-alimentos/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2022-08-10",
+          "readThisRun": true,
+          "title": "Parque Nacional Volcán Turrialba se prepara para recibir nuevamente a visitantes",
+          "url": "https://adondeircr.com/cartago/parque-nacional-volcan-turrialba-se-prepara-para-recibir-nuevamente-a-visitantes/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2022-07-18",
+          "readThisRun": true,
+          "title": "¡La mejor playa del mundo es tica y está en Guanacaste!",
+          "url": "https://adondeircr.com/guanacaste/la-mejor-playa-del-mundo-es-tica-y-esta-en-guanacaste/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2022-07-06",
+          "readThisRun": true,
+          "title": "Paseos de un día que podés realizar en la GAM",
+          "url": "https://adondeircr.com/alajuela/paseos-de-un-dia-que-podes-realizar-en-la-gam/?c1"
+        },
+        {
+          "checked": "2026-11-26",
+          "published": "2022-06-22",
+          "readThisRun": true,
+          "title": "El Rayo McQueen y sus amigos llegarán de exhibición a Costa Rica",
+          "url": "https://adondeircr.com/san-jose/el-rayo-mcqueen-y-sus-amigos-llegaran-de-exhibicion-a-costa-rica/?c1"
+        },
+        {
           "checked": "2026-11-25",
           "published": "2023-03-14",
-          "readThisRun": true,
           "title": "(Video) Guanacastecos se levantaron este martes con dos erupciones del volcán Rincón de la Vieja",
           "url": "https://adondeircr.com/guanacaste/video-guanacastecos-se-levantaron-este-martes-con-dos-erupciones-del-volcan-rincon-de-la-vieja/?c1"
         },
         {
           "checked": "2026-11-25",
           "published": "2023-03-01",
-          "readThisRun": true,
           "title": "Playa Conchal es ¡LA PLAYA MÁS HERMOSA DEL MUNDO!",
           "url": "https://adondeircr.com/guanacaste/playa-conchal-es-la-playa-mas-hermosa-del-mundo/?c1"
         },
         {
           "checked": "2026-11-25",
           "published": "2023-02-16",
-          "readThisRun": true,
           "title": "Cascadas POZO AZUL",
           "url": "https://adondeircr.com/alajuela/cascadas-pozo-azul/?c1"
         },
         {
           "checked": "2026-11-25",
           "published": "2022-12-28",
-          "readThisRun": true,
           "title": "Al mejor estilo de Disney: Parque de diversión inauguró mega atracción",
           "url": "https://adondeircr.com/san-jose/al-mejor-estilo-de-disney-parque-de-diversion-inauguro-mega-atraccion/?c1"
         },
         {
           "checked": "2026-11-25",
           "published": "2022-12-03",
-          "readThisRun": true,
           "title": "Parque de diversiones saca el nuevo “pase estelar” y cuesta solo 5750 colones",
           "url": "https://adondeircr.com/san-jose/parque-de-diversiones-saca-el-nuevo-pase-estelar-y-cuesta-solo-5750-colones/?c1"
         },
@@ -2916,12 +2969,6 @@
         },
         {
           "checked": "2026-11-23",
-          "published": "2022-11-04",
-          "title": "¿Va para Parque Diversiones? Ya no puede llevar los siguientes alimentos",
-          "url": "https://adondeircr.com/san-jose/va-para-parque-diversiones-ya-no-puede-llevar-los-siguientes-alimentos/?c1"
-        },
-        {
-          "checked": "2026-11-23",
           "published": "2022-10-26",
           "title": "Para este miércoles, expertos prevén que lluvias disminuirán en algunos sectores del país",
           "url": "https://adondeircr.com/heredia/para-este-miercoles-expertos-preven-que-lluvias-disminuiran-en-algunos-sectores-del-pais/?c1"
@@ -2934,39 +2981,15 @@
         },
         {
           "checked": "2026-11-23",
-          "published": "2022-08-10",
-          "title": "Parque Nacional Volcán Turrialba se prepara para recibir nuevamente a visitantes",
-          "url": "https://adondeircr.com/cartago/parque-nacional-volcan-turrialba-se-prepara-para-recibir-nuevamente-a-visitantes/?c1"
-        },
-        {
-          "checked": "2026-11-23",
           "published": "2022-08-02",
           "title": "Puma sorprendió a vecinos de Acosta",
           "url": "https://adondeircr.com/puntarenas/puma-sorprendio-a-vecinos-de-acosta/?c1"
         },
         {
           "checked": "2026-11-23",
-          "published": "2022-07-18",
-          "title": "¡La mejor playa del mundo es tica y está en Guanacaste!",
-          "url": "https://adondeircr.com/guanacaste/la-mejor-playa-del-mundo-es-tica-y-esta-en-guanacaste/?c1"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2022-07-06",
-          "title": "Paseos de un día que podés realizar en la GAM",
-          "url": "https://adondeircr.com/alajuela/paseos-de-un-dia-que-podes-realizar-en-la-gam/?c1"
-        },
-        {
-          "checked": "2026-11-23",
           "published": "2022-07-02",
           "title": "¡Una bendición! Zonas en alerta por paso de Bonnie amanecieron hoy con un espectacular sol",
           "url": "https://adondeircr.com/guanacaste/una-bendicion-zonas-en-alerta-por-paso-de-bonnie-amanecieron-hoy-con-un-espectacular-sol/?c1"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2022-06-22",
-          "title": "El Rayo McQueen y sus amigos llegarán de exhibición a Costa Rica",
-          "url": "https://adondeircr.com/san-jose/el-rayo-mcqueen-y-sus-amigos-llegaran-de-exhibicion-a-costa-rica/?c1"
         },
         {
           "checked": "2026-11-23",
@@ -4833,12 +4856,11 @@
       "read": 33
     },
     "publisher-archive-museocr-family-events": {
-      "indexed": 15,
+      "indexed": 14,
       "pages": [
         {
           "checked": "2026-11-25",
           "published": "2026-11-25",
-          "readThisRun": true,
           "title": "Iluminación del Museo de los Niños tendrá amplio despliegue de seguridad - Museo de los Niños",
           "url": "https://museocr.org/ninos/iluminacion-del-museo-de-los-ninos-tendra-amplio-despliegue-de-seguridad/"
         },
@@ -4882,7 +4904,7 @@
           "url": "https://museocr.org/ninos/grupos/"
         }
       ],
-      "read": 8
+      "read": 7
     },
     "publisher-archive-oxygen-adventures": {
       "indexed": 10,
@@ -5982,32 +6004,57 @@
       "indexed": 175,
       "pages": [
         {
-          "checked": "2026-11-25",
+          "checked": "2026-11-26",
           "readThisRun": true,
+          "title": "Playa Carrillo: Hojancha Guanacaste - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/playa-carrillo-hojancha-guanacaste/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "El Caribe esconde pozas naturales",
+          "url": "https://vamosaturistear.com/actividades/el-caribe-esconde-pozas-naturales/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "5 tours para disfrutar de Dota",
+          "url": "https://vamosaturistear.com/actividades/5-tours-para-disfrutar-de-dota/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "5 destinos perfectos para disfrutar de Guanacaste - Vamos a Turistear",
+          "url": "https://vamosaturistear.com/actividades/5-destinos-perfectos-para-disfrutar-de-guanacaste/"
+        },
+        {
+          "checked": "2026-11-26",
+          "readThisRun": true,
+          "title": "10 datos curiosos sobre el Sanatorio Durán",
+          "url": "https://vamosaturistear.com/actividades/10-datos-curiosos-sobre-el-sanatorio-duran/"
+        },
+        {
+          "checked": "2026-11-25",
           "title": "¿Sabés cuántos símbolos nacionales tiene Costa Rica?",
           "url": "https://vamosaturistear.com/actividades/sabes-cuantos-simbolos-nacionales-tiene-costa-rica/"
         },
         {
           "checked": "2026-11-25",
-          "readThisRun": true,
           "title": "Río Savegre: el más limpio de Centroamérica y Reserva de la Biosfera - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/rio-savegre-el-mas-limpio-de-centroamerica-y-reserva-de-la-biosfera/"
         },
         {
           "checked": "2026-11-25",
-          "readThisRun": true,
           "title": "La maravillosa Catarata La Fortuna - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/la-maravillosa-catarata-la-fortuna/"
         },
         {
           "checked": "2026-11-25",
-          "readThisRun": true,
           "title": "Enamorate de la increíble Catarata Del Toro - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/enamorate-de-la-increible-catarata-del-toro/"
         },
         {
           "checked": "2026-11-25",
-          "readThisRun": true,
           "title": "Catarata Las Trillizas: Santa Cruz de Turrialba - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/catarata-las-trillizas-santa-cruz-de-turrialba/"
         },
@@ -6428,11 +6475,6 @@
         },
         {
           "checked": "2026-11-23",
-          "title": "Playa Carrillo: Hojancha Guanacaste - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/playa-carrillo-hojancha-guanacaste/"
-        },
-        {
-          "checked": "2026-11-23",
           "title": "Península de Papagayo: Playa Cabuyal",
           "url": "https://vamosaturistear.com/actividades/peninsula-de-papagayo-playa-cabuyal/"
         },
@@ -6555,11 +6597,6 @@
           "checked": "2026-11-23",
           "title": "El Chollín: el río de agua termal gratuito",
           "url": "https://vamosaturistear.com/actividades/el-chollin-el-rio-de-agua-termal-gratuito/"
-        },
-        {
-          "checked": "2026-11-23",
-          "title": "El Caribe esconde pozas naturales",
-          "url": "https://vamosaturistear.com/actividades/el-caribe-esconde-pozas-naturales/"
         },
         {
           "checked": "2026-11-23",
@@ -6798,18 +6835,8 @@
         },
         {
           "checked": "2026-11-21",
-          "title": "5 tours para disfrutar de Dota",
-          "url": "https://vamosaturistear.com/actividades/5-tours-para-disfrutar-de-dota/"
-        },
-        {
-          "checked": "2026-11-21",
           "title": "5 lugares perfectos para parejas o amigos",
           "url": "https://vamosaturistear.com/actividades/5-lugares-perfectos-para-parejas-o-amigos/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "5 destinos perfectos para disfrutar de Guanacaste - Vamos a Turistear",
-          "url": "https://vamosaturistear.com/actividades/5-destinos-perfectos-para-disfrutar-de-guanacaste/"
         },
         {
           "checked": "2026-11-21",
@@ -6825,11 +6852,6 @@
           "checked": "2026-11-21",
           "title": "4 Sitios pet friendly para salir a turistear - Vamos a Turistear",
           "url": "https://vamosaturistear.com/actividades/4-sitios-pet-friendly-para-salir-a-turistear/"
-        },
-        {
-          "checked": "2026-11-21",
-          "title": "10 datos curiosos sobre el Sanatorio Durán",
-          "url": "https://vamosaturistear.com/actividades/10-datos-curiosos-sobre-el-sanatorio-duran/"
         },
         {
           "checked": "2026-11-21",
@@ -8412,7 +8434,7 @@
       "read": 14
     },
     "upala-blue-river-day": {
-      "indexed": null,
+      "indexed": 2,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -8425,7 +8447,7 @@
           "url": "https://www.blueriverresort.com/contact-us"
         }
       ],
-      "read": null
+      "read": 2
     },
     "upala-water-community": {
       "indexed": 3,
@@ -8713,9 +8735,16 @@
       "read": 1
     }
   },
-  "dayUtc": "2026-11-25",
+  "dayUtc": "2026-11-26",
   "history": true,
   "nativeCandidates": [
+    {
+      "article": "https://adondeircr.com/san-jose/va-para-parque-diversiones-ya-no-puede-llevar-los-siguientes-alimentos/?c1",
+      "checked": "2026-11-26",
+      "platform": "Facebook",
+      "title": "¿Va para Parque Diversiones? Ya no puede llevar los siguientes alimentos",
+      "url": "https://www.facebook.com/ParqueDiversiones/posts/pfbid03gZLk55n85YbLYAX95sGJyNXXFVY79HgSUKmWGGJoHzoiRzqJnSP95P6ikP4m3s7l"
+    },
     {
       "article": "https://adondeircr.com/guanacaste/video-guanacastecos-se-levantaron-este-martes-con-dos-erupciones-del-volcan-rincon-de-la-vieja/?c1",
       "checked": "2026-11-25",
@@ -8820,13 +8849,6 @@
       "platform": "Facebook",
       "title": "KAIA SMART FOOD",
       "url": "https://www.facebook.com/ADondeIrCostaRica/videos/954924078870546"
-    },
-    {
-      "article": "https://adondeircr.com/san-jose/va-para-parque-diversiones-ya-no-puede-llevar-los-siguientes-alimentos/?c1",
-      "checked": "2026-11-23",
-      "platform": "Facebook",
-      "title": "¿Va para Parque Diversiones? Ya no puede llevar los siguientes alimentos",
-      "url": "https://www.facebook.com/ParqueDiversiones/posts/pfbid03gZLk55n85YbLYAX95sGJyNXXFVY79HgSUKmWGGJoHzoiRzqJnSP95P6ikP4m3s7l"
     },
     {
       "article": "https://costa-rica-guide.com/nature/national-parks/rincon-de-la-vieja/",
@@ -9396,8 +9418,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 21,
-  "pagesRead": 18,
-  "pagesReadToDate": 1433,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45633711629"
+  "pagesChecked": 60,
+  "pagesRead": 15,
+  "pagesReadToDate": 1438,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45838690940"
 }
