@@ -249,8 +249,22 @@
       "read": 1
     },
     "bocas-visit-classic-boat": {
-      "indexed": 1,
+      "indexed": 15,
       "pages": [
+        {
+          "checked": "2026-11-27",
+          "published": "2026-11-27",
+          "readThisRun": true,
+          "title": "Where to Eat in Bocas del Toro: Restaurants & Local Food",
+          "url": "https://go.bocasdeltoro.travel/blog/where-to-eat-in-bocas-del-toro/"
+        },
+        {
+          "checked": "2026-11-27",
+          "published": "2026-11-27",
+          "readThisRun": true,
+          "title": "Dónde comer en Bocas del Toro: restaurantes y comida local",
+          "url": "https://go.bocasdeltoro.travel/es/blog-es/donde-comer-en-bocas-del-toro/"
+        },
         {
           "checked": "2026-11-25",
           "published": "2026-11-25",
@@ -346,10 +360,10 @@
           "url": "https://go.bocasdeltoro.travel/es/recommended/cayo-coral-restaurante/"
         }
       ],
-      "read": 1
+      "read": 15
     },
     "buen-camino-owner-ride": {
-      "indexed": null,
+      "indexed": 4,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -376,7 +390,7 @@
           "url": "https://buencaminocr.com/es/eat/"
         }
       ],
-      "read": null
+      "read": 4
     },
     "camino-esencial-video-series": {
       "indexed": 1,
@@ -450,7 +464,7 @@
       "read": 2
     },
     "caribe-ride-del-caribe-2027": {
-      "indexed": 1,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -458,10 +472,10 @@
           "url": "https://ridedelcaribe.com/"
         }
       ],
-      "read": 1
+      "read": null
     },
     "carrillotours-costa-rica-activities": {
-      "indexed": 0,
+      "indexed": 30,
       "pages": [
         {
           "checked": "2026-11-24",
@@ -614,7 +628,7 @@
           "url": "https://carrillotours.com/tour-item/arenalvolcano/"
         }
       ],
-      "read": 0
+      "read": 30
     },
     "casa-luna-own-forest-trail": {
       "indexed": 2,
@@ -1202,8 +1216,37 @@
       "indexed": 83,
       "pages": [
         {
-          "checked": "2026-11-26",
+          "checked": "2026-11-27",
           "readThisRun": true,
+          "title": "September 2016 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2016/09/"
+        },
+        {
+          "checked": "2026-11-27",
+          "readThisRun": true,
+          "title": "May 2016 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2016/05/"
+        },
+        {
+          "checked": "2026-11-27",
+          "readThisRun": true,
+          "title": "March 2016 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2016/03/"
+        },
+        {
+          "checked": "2026-11-27",
+          "readThisRun": true,
+          "title": "February 2016 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2016/02/"
+        },
+        {
+          "checked": "2026-11-27",
+          "readThisRun": true,
+          "title": "April 2016 – The Divine Dolphin",
+          "url": "https://divinedolphin.com/blog/2016/04/"
+        },
+        {
+          "checked": "2026-11-26",
           "title": "October 2016 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2016/10/"
         },
@@ -1219,13 +1262,11 @@
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "May 2017 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2017/05/"
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "July 2017 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2017/07/"
         },
@@ -1236,7 +1277,6 @@
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "January 2017 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2017/01/"
         },
@@ -1252,7 +1292,6 @@
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "April 2017 – The Divine Dolphin",
           "url": "https://divinedolphin.com/blog/2017/04/"
         },
@@ -1547,7 +1586,7 @@
           "url": "https://divinedolphin.com/blog/2023/06/28/dolphin-mothers-use-baby-talk-with-their-calves-recordings-show/"
         }
       ],
-      "read": 68
+      "read": 73
     },
     "ebike-coco-electricbike-catalog": {
       "indexed": 6,
@@ -1627,7 +1666,6 @@
       "pages": [
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "The Treehouse Camping Zone - Costa Rica Camping Guide",
           "url": "https://costaricacampsites.com/camp-sites/the-treehouse-camping-zone/"
         }
@@ -1639,19 +1677,16 @@
       "pages": [
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "Tour bahías de La Cruz Guanacaste | ASCATUR",
           "url": "https://ascatur.com/es/tours/bahias-la-cruz"
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "Sendero Chaperno El Jobo La Cruz | ASCATUR",
           "url": "https://ascatur.com/es/tours/sendero-chaperno"
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "La Cruz se camina | Experiencia ASCATUR El Jobo",
           "url": "https://ascatur.com/es/catalogo"
         }
@@ -2366,7 +2401,7 @@
       "read": 10
     },
     "parador-monkey-trail-qva": {
-      "indexed": 2,
+      "indexed": null,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -2379,7 +2414,7 @@
           "url": "https://hotelparador.com/tours/nature-hike/"
         }
       ],
-      "read": 2
+      "read": null
     },
     "parismina-astop-home": {
       "indexed": 3,
@@ -2570,35 +2605,30 @@
         {
           "checked": "2026-11-26",
           "published": "2022-03-16",
-          "readThisRun": true,
           "title": "(Video) ¡Qué belleza! Turista graba un jaguar dentro del Parque Nacional Santa Rosa",
           "url": "https://adondeircr.com/guanacaste/video-que-belleza-turista-graba-un-jaguar-dentro-del-parque-nacional-santa-rosa/?c1"
         },
         {
           "checked": "2026-11-26",
           "published": "2021-06-03",
-          "readThisRun": true,
           "title": "(Video)Keylor Navas invita a todos los aficionados del PSG a que visiten Costa Rica",
           "url": "https://adondeircr.com/guanacaste/videokeylor-navas-invita-a-todos-los-aficionados-del-psg-a-que-visiten-costa-rica/?c1"
         },
         {
           "checked": "2026-11-26",
           "published": "2020-11-26",
-          "readThisRun": true,
           "title": "Viví la experiencia de Río Celeste",
           "url": "https://adondeircr.com/guanacaste/vivi-la-experiencia-de-rio-celeste/?c1"
         },
         {
           "checked": "2026-11-26",
           "published": "2020-08-19",
-          "readThisRun": true,
           "title": "Cuatro cantones se encuentran en alerta temprana por aumento drástico de casos",
           "url": "https://adondeircr.com/san-jose/cuatro-cantones-se-encuentran-en-alerta-temprana-por-aumento-drastico-de-casos/?c1"
         },
         {
           "checked": "2026-11-26",
           "published": "2020-08-18",
-          "readThisRun": true,
           "title": "Tras encierro por COVID-19 pareja de Suizos viajó a Costa Rica para comprar una casa en Cartago",
           "url": "https://adondeircr.com/cartago/https-twitter-com-aalfrd0-status-1293386876729122817ref_srctwsrctfwtwcamptweetembedtwterm1293386876729122817twgrref_urlhttps-mag-elcomercio-pe-virales-video-vira/?c1"
         },
@@ -3849,7 +3879,7 @@
       "read": 6
     },
     "publisher-archive-arenalmanoa-com": {
-      "indexed": 0,
+      "indexed": 15,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -3942,7 +3972,7 @@
           "url": "https://arenalmanoa.com/blog/rainy-day-in-la-fortuna/"
         }
       ],
-      "read": 0
+      "read": 15
     },
     "publisher-archive-artvillas-experiences": {
       "indexed": 2,
@@ -4627,7 +4657,7 @@
       "read": 4
     },
     "publisher-archive-misticopark-com": {
-      "indexed": 17,
+      "indexed": 0,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -4725,7 +4755,7 @@
           "url": "https://misticopark.com/tours/birding-guided-tour/"
         }
       ],
-      "read": 17
+      "read": 0
     },
     "publisher-archive-museo-exhibitions": {
       "indexed": 33,
@@ -4929,7 +4959,7 @@
       "read": 33
     },
     "publisher-archive-museocr-family-events": {
-      "indexed": null,
+      "indexed": 14,
       "pages": [
         {
           "checked": "2026-11-25",
@@ -4977,7 +5007,7 @@
           "url": "https://museocr.org/ninos/grupos/"
         }
       ],
-      "read": null
+      "read": 7
     },
     "publisher-archive-oxygen-adventures": {
       "indexed": 10,
@@ -5469,6 +5499,41 @@
       "indexed": 67,
       "pages": [
         {
+          "checked": "2026-11-27",
+          "published": "2026-08-31",
+          "readThisRun": true,
+          "title": "Vía Francigina Octubre 2027",
+          "url": "https://ticosapata.com/2026/08/31/via-francigina-octubre-2027/"
+        },
+        {
+          "checked": "2026-11-27",
+          "published": "2026-08-31",
+          "readThisRun": true,
+          "title": "Volcán Barú",
+          "url": "https://ticosapata.com/2026/08/30/volcan-baru/"
+        },
+        {
+          "checked": "2026-11-27",
+          "published": "2026-08-31",
+          "readThisRun": true,
+          "title": "Volcanes Cerro Negro y Télica",
+          "url": "https://ticosapata.com/2026/08/30/volcanes-cerro-negro-y-telica/"
+        },
+        {
+          "checked": "2026-11-27",
+          "published": "2026-08-31",
+          "readThisRun": true,
+          "title": "Volcanes Acatenango y de Fuego",
+          "url": "https://ticosapata.com/2026/08/30/volcanes-acatenango-y-de-fuego/"
+        },
+        {
+          "checked": "2026-11-27",
+          "published": "2026-08-31",
+          "readThisRun": true,
+          "title": "El Camino de Salkantay",
+          "url": "https://ticosapata.com/2026/08/30/el-camino-de-salkantay/"
+        },
+        {
           "checked": "2026-11-23",
           "published": "2026-11-03",
           "title": "Comunidad Cábecar de Tisobata",
@@ -5539,12 +5604,6 @@
           "published": "2026-08-31",
           "title": "El Camino del Inca",
           "url": "https://ticosapata.com/2026/08/30/el-camino-del-inca/"
-        },
-        {
-          "checked": "2026-11-23",
-          "published": "2026-08-31",
-          "title": "El Camino de Salkantay",
-          "url": "https://ticosapata.com/2026/08/30/el-camino-de-salkantay/"
         },
         {
           "checked": "2026-11-23",
@@ -5783,32 +5842,8 @@
         {
           "checked": "2026-11-21",
           "published": "2026-08-31",
-          "title": "Vía Francigina Octubre 2027",
-          "url": "https://ticosapata.com/2026/08/31/via-francigina-octubre-2027/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-31",
           "title": "Vía Francigina Abril 2027",
           "url": "https://ticosapata.com/2026/08/31/via-francigina-octubre-2027-2/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-31",
-          "title": "Volcán Barú",
-          "url": "https://ticosapata.com/2026/08/30/volcan-baru/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-31",
-          "title": "Volcanes Cerro Negro y Télica",
-          "url": "https://ticosapata.com/2026/08/30/volcanes-cerro-negro-y-telica/"
-        },
-        {
-          "checked": "2026-11-21",
-          "published": "2026-08-31",
-          "title": "Volcanes Acatenango y de Fuego",
-          "url": "https://ticosapata.com/2026/08/30/volcanes-acatenango-y-de-fuego/"
         },
         {
           "checked": "2026-11-21",
@@ -6088,7 +6123,6 @@
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "6 cerros para hacer hiking",
           "url": "https://vamosaturistear.com/actividades/6-cerros-para-hacer-hiking/"
         },
@@ -6099,7 +6133,6 @@
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "5 lugares perfectos para parejas o amigos",
           "url": "https://vamosaturistear.com/actividades/5-lugares-perfectos-para-parejas-o-amigos/"
         },
@@ -6115,7 +6148,6 @@
         },
         {
           "checked": "2026-11-26",
-          "readThisRun": true,
           "title": "10 cataratas que debés visitar parte #2",
           "url": "https://vamosaturistear.com/actividades/10-cataratas-que-debes-visitar-parte-2/"
         },
@@ -7351,7 +7383,7 @@
       "read": 1
     },
     "publisher-site-archive-specialplaces": {
-      "indexed": 0,
+      "indexed": 24,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -7498,7 +7530,7 @@
           "url": "https://www.specialplacesofcostarica.com/blog/intro-ai-vacation-rental-industry/"
         }
       ],
-      "read": 0
+      "read": 24
     },
     "publisher-site-costa-tours": {
       "indexed": 14,
@@ -8429,7 +8461,7 @@
       "read": 3
     },
     "undersea-trip-reports": {
-      "indexed": 4,
+      "indexed": 14,
       "pages": [
         {
           "checked": "2026-11-23",
@@ -8502,7 +8534,7 @@
           "url": "https://underseahunter.com/trip-report/breaking-news-extremely-rare-fin-whale-sighting-at-cocos-island-costa-rica/"
         }
       ],
-      "read": 4
+      "read": 14
     },
     "upala-blue-river-day": {
       "indexed": 2,
@@ -8806,7 +8838,7 @@
       "read": 1
     }
   },
-  "dayUtc": "2026-11-26",
+  "dayUtc": "2026-11-27",
   "history": true,
   "nativeCandidates": [
     {
@@ -9489,8 +9521,8 @@
       "url": "https://www.instagram.com/p/DAwcj_5yq_r/"
     }
   ],
-  "pagesChecked": 25,
-  "pagesRead": 17,
-  "pagesReadToDate": 1449,
-  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/45863451260"
+  "pagesChecked": 27,
+  "pagesRead": 12,
+  "pagesReadToDate": 1456,
+  "runUrl": "https://github.com/Paldd/costa-rica-travel-atlas/actions/runs/46015495417"
 }
